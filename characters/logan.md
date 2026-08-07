@@ -15,7 +15,9 @@ The **throwaway prince**; aging son of the Throne figure and one of the clearest
 
 ## Current definition
 
-George White was secretly placed into containment before the wider faction understood what had happened. His father then allowed or engineered circumstances in which George could believe he occupied a legitimate and important position inside the larger order.
+George White is approximately **130 years old chronologically**, but at this stage of the process he appears to be about **75**. In the parent civilization, human aging has been effectively defeated, so his chronological age is extraordinary by present-day standards but not biologically impossible within the setting.
+
+George was secretly placed into containment before the wider faction understood what had happened. His father then allowed or engineered circumstances in which George could believe he occupied a legitimate and important position inside the larger order.
 
 The deception became useful. Other members of the defeated faction could interpret George's apparent position as evidence that their side had retained influence, negotiated successfully, or even secretly won. George himself became part of the proof supporting a false victory narrative without necessarily understanding that this was his function.
 
@@ -25,9 +27,9 @@ The tragedy is that George is not merely pretending. He has lived inside the man
 
 The current generated visual interpretation is the locked development reference for George's appearance. It establishes the character's visual age, bearing, and emotional direction for development while leaving final-story surface details open to later revision.
 
-George appears approximately **75 years old**. He is recognizably an old prince: cultivated, expensive, educated, and accustomed to being treated as though his presence carries significance. But the image should never make him look securely powerful. His presentation belongs to a world whose foundations are disappearing beneath him.
+George is approximately **130 years old**, while visually presenting as roughly **75**. He is recognizably an old prince: cultivated, expensive, educated, and accustomed to being treated as though his presence carries significance. But the image should never make him look securely powerful. His presentation belongs to a world whose foundations are disappearing beneath him.
 
-His age is essential. George's awakening is frightening precisely because it does not happen at the beginning of his life. He has decades of memories, relationships, loyalties, grievances, achievements, humiliations, and assumptions invested in the identity his father allowed him to inhabit. There is no easy reset available to him.
+The distinction between chronological age and apparent age is essential. George's awakening is frightening precisely because it does not happen at the beginning of his life. He has accumulated well over a century of lived history, while still inhabiting a body that appears decades younger than that number would suggest by present-day standards. He has memories, relationships, loyalties, grievances, achievements, humiliations, and assumptions invested in the identity his father allowed him to inhabit. There is no easy reset available to him.
 
 Visually, George should carry the remnants of aristocratic or establishment confidence while increasingly displaying uncertainty underneath it. He can still dress well. He can still speak as though people should listen. But his eyes and posture should betray the growing possibility that he no longer knows what room he is standing in, metaphorically or literally.
 
@@ -55,7 +57,7 @@ He begins discovering that events he regarded as settled have other explanations
 
 Then comes the worst realization: the deception may not surround his life. It may *be* his life.
 
-At approximately seventy-five, George cannot comfort himself with the idea that he will simply begin again. Every memory becomes evidence requiring reexamination. Every relationship acquires a second interpretation. Even moments that were emotionally genuine become contaminated by uncertainty about the conditions under which they occurred.
+At approximately 130 years old, George cannot comfort himself with the idea that he will simply begin again. Every memory becomes evidence requiring reexamination. Every relationship acquires a second interpretation. Even moments that were emotionally genuine become contaminated by uncertainty about the conditions under which they occurred.
 
 The immediate emotional direction is therefore **confusion, fear, humiliation, disbelief, and impending consequence**. George senses that something enormous is approaching before he fully understands what it is. He knows that people around him suddenly possess information he does not. He realizes explanations are no longer working. The future is frightening, but the past is becoming worse.
 
@@ -69,7 +71,7 @@ To the Throne figure, Sylvan threatens exposure.
 
 To George, Sylvan threatens ontology: **Who was I if he is telling the truth?**
 
-Their visual confrontation should reflect this. George, around seventy-five, carries the weight of an entire life behind him. Sylvan, around forty, carries evidence and consequence toward him. Neither needs to posture theatrically. George's fear comes from gradually understanding what Sylvan represents.
+Their visual confrontation should reflect this. George is chronologically about 130 but visually about 75, carrying the weight of more than a century of lived experience behind him. Sylvan, around forty, carries evidence and consequence toward him. Neither needs to posture theatrically. George's fear comes from gradually understanding what Sylvan represents.
 
 ## Relationship to the Throne figure
 
@@ -77,7 +79,7 @@ The Throne figure is George's father and the architect or principal beneficiary 
 
 The relationship should retain genuine emotional complexity. George may love his father, fear him, admire him, resent him, defend him, depend on him, or move among these states. The eventual discovery that his father knowingly sacrificed George's ability to understand his own circumstances is therefore more damaging than discovering that a distant ruler lied to him.
 
-George has potentially spent decades defending the person responsible for his confinement.
+George has potentially spent more than a century defending the person responsible for his confinement.
 
 The father's ultimate betrayal is not simply that he lied to George. It is that he treated George's identity as an instrument.
 
@@ -87,12 +89,16 @@ George demonstrates the human cost of the story's layered realities.
 
 At the geopolitical level, false histories and secret arrangements can look like mysteries. Through George, those abstractions become personal. A manufactured history means manufactured memories of status. Information gating means a person discovering everyone else knew something about his life that he did not. Story functionality means that the narrative protecting a regime may also be the narrative holding a human identity together.
 
+His age deepens that function. A person can survive for 130 years and still discover that longevity did not protect him from manipulation. The civilization defeated aging, but it did not defeat coercion, deception, or the consequences of spending a century inside someone else's design.
+
 George therefore should not function merely as a villain who gets exposed. His collapse can reveal why the system is terrifying even when the person inside it has benefited from it.
 
 ## Known elements
 
 - Current development name: George White.
-- Approximately 75 in the locked development visual reference.
+- Approximately **130 years old chronologically**.
+- Appears approximately **75** in the locked development visual reference.
+- Human longevity is possible because the parent civilization has effectively defeated aging.
 - Son of the Throne figure.
 - Development designation: the throwaway prince.
 - Secretly placed into containment before the wider faction understood its defeat.
@@ -110,13 +116,15 @@ George therefore should not function merely as a villain who gets exposed. His c
 - Do not make him secretly understand everything unless later development explicitly establishes that change.
 - Do not make privilege erase victimization or victimization erase responsibility for choices he genuinely made.
 - Preserve the late-life nature of the awakening.
+- Preserve the distinction between **chronological age (~130)** and **apparent age (~75)**.
 - Preserve the father-son betrayal as central to his character.
 - Preserve uncertainty about what George will do once the manufactured reality collapses.
 - Avoid turning the awakening into a single exposition dump. It should be capable of unfolding through accumulating contradictions and evidence.
 
 ## Unresolved
 
-- Exact chronological and subjective age.
+- Exact birth year and exact chronological age.
+- Exact anti-aging mechanism and whether George has experienced any interruption or modification to it during containment.
 - Original role before containment.
 - What George believes his formal authority actually is.
 - What he thinks his father has been doing throughout his life.
