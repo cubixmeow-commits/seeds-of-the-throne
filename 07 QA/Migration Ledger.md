@@ -1,0 +1,30 @@
+---
+type: migration-ledger
+status: complete
+updated: 2026-08-06
+---
+
+# Migration Ledger
+
+## Carried forward
+
+- Core colonization, containment, and cultivation premise
+- Planet, moon, synthetics, awakening, influence, AI-agent, scoring, identity, and schedule systems
+- Throne and Wakeful mechanisms
+- Witness, Inheritor, and unresolved first-person Protagonist designs
+- Recurrence, erosion, solvency pressure, public phase change, and costly-victory structure
+- Tone, narrative method, safety rules, and unresolved questions
+
+## Deliberately excluded
+
+- All raw and cleaned transcripts
+- Sensitive mapping material
+- Extraction schemas, queues, agent logs, and deprecated pipeline instructions
+- Empty public-bible scaffolding
+- Direct real-world historical models and identity coding
+- Any implication that an inherited working name is final
+
+## Archive policy
+
+The archived vault remains the historical source and is not part of routine AI context. Useful old concepts enter this vault only when the author deliberately restates or approves them.
+

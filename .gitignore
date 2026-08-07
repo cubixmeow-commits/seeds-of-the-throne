@@ -1,0 +1,20 @@
+# macOS metadata
+.DS_Store
+
+# Obsidian state tied to one device/session
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Temporary editor and export files
+*.tmp
+*.swp
+*.swo
+*.bak
+~$*
+
+# Local research or tooling caches
+.cache/
+.venv/
+node_modules/
+
