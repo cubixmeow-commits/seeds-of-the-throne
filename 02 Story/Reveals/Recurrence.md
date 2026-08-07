@@ -16,3 +16,6 @@ The protagonist discovers the same behavioral signature across identities separa
 
 Not every admired person is contained. Mixed cases preserve discernment and prevent the discovery from collapsing into universal cynicism.
 
+The recurrence ladder can follow the planet's stages: an early defeated bloc recurs into the next stage's public story, then later defeated movements become additional contained lineages. This creates a political web of cooperation, betrayal, and inherited ideology rather than one timeless conspiracy.
+
+Each invented era should have its own political character—such as hereditary merchant houses, a guild-dominated maritime republic, a mountain clan confederation, a theocratic city-state, or a technocratic federation—without importing real nations or historical cast.

@@ -12,4 +12,5 @@ updated: 2026-08-06
 - Throne scenes emphasize pettiness, performance, insecurity, and bureaucratic horror rather than grandeur.
 - An agricultural register—seeds, cultivation, bloodlines, lineage, harvest—connects the colony and the Throne because both grow people to specification.
 - The current narration mode is first-person present tense. Narrator ignorance is an engine, not a defect.
-
+- Development notes should prioritize structural clarity: the component, people involved, mechanism, and function in the larger story.
+- Exploratory prose is not automatically manuscript prose. Names remain provisional, and GPT should not add decorative canon while organizing a concept.

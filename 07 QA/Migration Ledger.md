@@ -28,3 +28,4 @@ updated: 2026-08-06
 
 The archived vault remains the historical source and is not part of routine AI context. Useful old concepts enter this vault only when the author deliberately restates or approves them.
 
+The iCloud mobile vault is a separate private capture queue. Historical figures may remain there as private development analogies, but only author-approved abstractions and freshly invented story material enter this repository.
