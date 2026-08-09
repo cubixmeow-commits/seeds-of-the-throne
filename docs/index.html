@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#121722">
-    <meta name="description" content="A living creative-development dashboard for Seeds of the Throne.">
+    <meta name="description" content="A guided brainstorming workspace and living creative-development dashboard for Seeds of the Throne.">
     <title>Seeds of the Throne — Development Atlas</title>
     <link rel="stylesheet" href="styles.css">
     <script src="app.js" defer></script>
@@ -14,7 +14,7 @@
 
     <header class="site-header">
       <div class="header-inner">
-        <a class="brand" href="#overview" aria-label="Seeds of the Throne development atlas home">
+        <a class="brand" href="#next-session" aria-label="Seeds of the Throne next brainstorming session">
           <span class="brand-mark" aria-hidden="true">S</span>
           <span>
             <strong>Seeds of the Throne</strong>
@@ -29,6 +29,7 @@
 
       <nav class="section-nav" aria-label="Development atlas sections">
         <div class="nav-scroll">
+          <a href="#next-session">Next session</a>
           <a href="#overview">Overview</a>
           <a href="#story-engine">Story engine</a>
           <a href="#cast">Cast</a>
@@ -41,28 +42,85 @@
     </header>
 
     <main id="main-content">
-      <section class="hero section" id="overview" aria-labelledby="overview-title">
+      <section class="session-section section" id="next-session" aria-labelledby="session-title">
+        <div class="eyebrow-row">
+          <p class="eyebrow">Next brainstorming session</p>
+          <span class="status status-unresolved">Priority · Opening + viewpoint</span>
+        </div>
+
+        <div class="session-intro">
+          <h1 id="session-title">Choose who carries the story.</h1>
+          <p class="session-instruction">This session should turn the project’s strongest endgame material into a usable beginning. Work in order: make the viewpoint decision first, define Sylvan around a personal want and cost, then design the event that forces the story to begin. Keep answers provisional but specific. Do not expand the world unless a story decision requires it. Finish by recording what became canon, what remains working, and what should be revisited.</p>
+          <div class="hero-actions">
+            <button class="button button-primary" id="copy-brief" type="button">Copy session guide</button>
+            <a class="button button-secondary" href="#questions">Review every open question</a>
+          </div>
+          <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+        </div>
+
+        <div class="session-workspace">
+          <article class="session-panel session-agenda" aria-labelledby="agenda-title">
+            <p class="card-label">Work in this order</p>
+            <h2 id="agenda-title">Session agenda</h2>
+            <ol>
+              <li><span>01</span><div><strong>Choose the protagonist architecture</strong><p>Decide whether Sylvan is the opening narrator and whether the Witness, Inheritor, and protagonist are one role or several.</p></div></li>
+              <li><span>02</span><div><strong>Build Sylvan as a person</strong><p>Give him a pre-archive desire, a formative relationship, a flaw, and a personal cost for preserving the truth.</p></div></li>
+              <li><span>03</span><div><strong>Design the opening disturbance</strong><p>Choose the event that breaks normal life, creates an immediate loss, and makes waiting impossible.</p></div></li>
+              <li><span>04</span><div><strong>Trace the evidence chain</strong><p>Define why Sylvan records, what proof survives, and how it can eventually reach George without feeling convenient.</p></div></li>
+              <li><span>05</span><div><strong>Close with decisions</strong><p>Write five settled statements, label provisional ideas, and park questions that do not block the opening.</p></div></li>
+            </ol>
+          </article>
+
+          <aside class="session-panel session-questions" aria-labelledby="session-questions-title">
+            <p class="card-label">Questions that unlock the draft</p>
+            <h2 id="session-questions-title">Answer these before moving on</h2>
+            <ul>
+              <li>Who experiences the first scene, and why is that person the best lens?</li>
+              <li>Is Sylvan the protagonist, the witness, the inheritor—or a bridge between those roles?</li>
+              <li>What does Sylvan want before the archive becomes his burden?</li>
+              <li>Which relationship makes his evidence emotionally meaningful rather than merely informative?</li>
+              <li>What flaw makes preserving or revealing the truth difficult for him?</li>
+              <li>What event forces the story to begin now instead of a year earlier or later?</li>
+              <li>What does Sylvan lose in the opening that cannot simply be restored?</li>
+              <li>What does he risk by showing George the truth instead of only defeating him?</li>
+            </ul>
+          </aside>
+        </div>
+
+        <div class="session-outcomes" aria-labelledby="outcomes-title">
+          <div class="outcome-heading">
+            <p class="card-label">Definition of done</p>
+            <h2 id="outcomes-title">Leave the session with four usable artifacts</h2>
+          </div>
+          <div class="outcome-grid">
+            <article><span>01</span><h3>A viewpoint statement</h3><p>One sentence naming the protagonist, narrator, and dramatic lens.</p></article>
+            <article><span>02</span><h3>Sylvan’s story engine</h3><p>Want, wound, relationship, flaw, choice, and cost.</p></article>
+            <article><span>03</span><h3>An opening beat chain</h3><p>Normal state → disturbance → loss → irreversible pursuit.</p></article>
+            <article><span>04</span><h3>An evidence pathway</h3><p>Creation → preservation → authentication → delivery to George.</p></article>
+          </div>
+        </div>
+
+        <aside class="session-boundary" aria-labelledby="boundary-title">
+          <strong id="boundary-title">Keep this session narrow.</strong>
+          <p>Do not solve faction economics, civilization-scale mechanics, or the full aftermath unless an answer is required to make the opening work.</p>
+        </aside>
+      </section>
+
+      <section class="overview-section section" id="overview" aria-labelledby="overview-title">
         <div class="eyebrow-row">
           <p class="eyebrow">Current state · August 9, 2026</p>
           <span class="status status-working">Foundation → narrative architecture</span>
         </div>
 
-        <div class="hero-grid">
-          <div class="hero-copy">
-            <h1 id="overview-title">The endgame is alive.<br>The opening still needs its path.</h1>
+        <div class="overview-grid">
+          <div>
+            <h2 id="overview-title">The endgame is alive.<br>The opening still needs its path.</h2>
             <p class="lede">A contained father spends seventy-five years shaping his son’s reality so the son will willingly become his weapon—and, after the father has already lost, his scapegoat.</p>
-            <div class="hero-actions">
-              <a class="button button-primary" href="#roadmap">Review the next decisions</a>
-              <a class="button button-secondary" href="#questions">Explore open questions</a>
-            </div>
           </div>
-
-          <aside class="focus-card" aria-labelledby="focus-title">
-            <p class="card-label">Best next session</p>
-            <h2 id="focus-title">Define Sylvan and choose the protagonist architecture.</h2>
-            <p>Connect the Witness, Inheritor, tested narrator, and Sylvan before building more systems.</p>
-            <button class="copy-button" id="copy-brief" type="button">Copy next-session brief</button>
-            <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+          <aside class="focus-card" aria-labelledby="trajectory-title">
+            <p class="card-label">Creative trajectory</p>
+            <h3 id="trajectory-title">Connect character architecture before building more systems.</h3>
+            <p>The next gains will come from reconciling Sylvan, the Witness, the Inheritor, and the opening viewpoint.</p>
           </aside>
         </div>
 

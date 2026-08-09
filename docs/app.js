@@ -13,16 +13,34 @@
   const sessionBrief = [
     "Seeds of the Throne — Next development session",
     "",
-    "Focus: Define Sylvan Elaria and choose the protagonist architecture.",
+    "FOCUS",
+    "Choose who carries the story. Turn the project’s strongest endgame material into a usable beginning.",
     "",
-    "1. Who narrates the opening?",
-    "2. Is Sylvan that narrator?",
-    "3. What does Sylvan want before the archive becomes his central burden?",
-    "4. Why did he begin recording?",
-    "5. What personal relationship gives the evidence emotional meaning?",
-    "6. What does he risk by showing George the truth rather than simply defeating him?",
+    "WORK IN THIS ORDER",
+    "1. Choose the protagonist architecture.",
+    "2. Build Sylvan as a person: want, relationship, flaw, and cost.",
+    "3. Design the opening disturbance and irreversible loss.",
+    "4. Trace the evidence from creation to delivery to George.",
+    "5. Close with five settled statements and label everything else provisional.",
     "",
-    "Preserve the continuity warning: the Witness–Inheritor–Protagonist architecture and the Sylvan–George–Throne architecture have not yet been reconciled."
+    "QUESTIONS THAT UNLOCK THE DRAFT",
+    "- Who experiences the first scene, and why is that person the best lens?",
+    "- Is Sylvan the protagonist, witness, inheritor, or a bridge between roles?",
+    "- What does Sylvan want before the archive becomes his burden?",
+    "- Which relationship makes the evidence emotionally meaningful?",
+    "- What flaw makes preserving or revealing the truth difficult?",
+    "- What event forces the story to begin now?",
+    "- What does Sylvan lose in the opening that cannot be restored?",
+    "- What does he risk by showing George the truth?",
+    "",
+    "LEAVE WITH",
+    "- A one-sentence viewpoint statement",
+    "- Sylvan’s story engine",
+    "- An opening beat chain",
+    "- An evidence pathway",
+    "",
+    "BOUNDARY",
+    "Do not solve world systems unless an answer is required to make the opening work."
   ].join("\n");
 
   const storedTheme = localStorage.getItem("sot-theme");
@@ -82,7 +100,7 @@
   copyButton.addEventListener("click", async () => {
     try {
       await navigator.clipboard.writeText(sessionBrief);
-      copyStatus.textContent = "Next-session brief copied.";
+      copyStatus.textContent = "Session guide copied.";
     } catch {
       copyStatus.textContent = "Unable to copy. Select the questions in the roadmap instead.";
     }
