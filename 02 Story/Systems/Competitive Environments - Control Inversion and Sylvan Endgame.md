@@ -89,83 +89,142 @@ He believes he has moved Sylvan's defeat forward. In reality, he has moved Sylva
 
 There is no later reversal left to rescue the Throne once that segment arrives.
 
-## Why this matters to the Throwaway Prince
+## George does not become Sylvan's responsibility
 
-George's father has spent decades shaping George's interpretation of reality and directing him toward Sylvan. By the decisive confrontation, the father already knows the larger struggle has been lost and sends George forward anyway as a final weapon and scapegoat.
+George was nominally supposed to be the contained person Sylvan faced directly in the final environment. In practice, the Throne figure never fully releases George from the manufactured reality that shaped him.
 
-The reordered environment sharpens that betrayal.
+George remains mediated through his father's information control, the corrupted Daemon, story functionality, inherited hierarchy, and a lifetime of conditioning. This may leave George poorly equipped or temporarily unable to deal directly with unmediated reality.
 
-George is not being sent into a fair final contest that might restore his father's regime. He is being sent into a segment whose underlying allocation has already turned decisively toward Sylvan because of the father's own earlier interference.
+Sylvan does not therefore acquire a duty to rescue George, reconstruct his identity, break him away from his father, or personally bring him into reality.
 
-The father is therefore asking George to fight inside an environment the father himself accidentally made unwinnable.
+The central ethical distinction is important: recognizing that George was manipulated does not require Sylvan to assume responsibility for repairing him.
 
-George's awakening can include recognition that his father's claimed strategic mastery caused the very terminal condition he is now demanding George reverse.
+If George's father continues making consequential decisions on George's behalf, then the father becomes the **de facto authority** Sylvan is actually dealing with.
 
-## Sylvan's final position
+The system should respond to the group's real operating dynamics rather than an idealized version of how its members ought to relate to one another.
 
-Sylvan ends in control, but this should not become unrestricted power.
+## The Throne as the actual opposing decision-maker
 
-His authority remains consistent with his established dramatic function: disclosure, evidence, legitimacy, constrained influence, and consequence rather than conquest.
+By the end, the nominal confrontation may be Sylvan versus George while the practical confrontation is Sylvan versus the Throne figure.
 
-The defining leadership test is what he does with the advantage.
+The Throne refuses direct engagement and continues attempting to control George remotely. His attacks on Sylvan therefore arrive indirectly through story functionality, social influence, institutional friction, online environments, reputation, information manipulation, George, the Daemon, and other mediated channels.
 
-The obvious retaliatory choice would be to destroy George and the Throne figure using the same logic they repeatedly used against participants.
+Because Sylvan possesses the overwhelming influence advantage in the final displaced segment, these attacks become increasingly ineffective. They can remain disruptive and occasionally damaging, but they no longer offer a credible route to restoring the Throne's control.
 
-Sylvan instead offers a harder alternative.
+The King's refusal to deal directly with Sylvan is itself evidence about the group's hierarchy. If the group continues permitting the Throne to make its consequential decisions, Sylvan accepts that fact rather than attempting to install a preferred internal leader.
+
+## Sylvan's non-interference principle
+
+Sylvan has learned from earlier competitive environments that leadership is not the same as redesigning another group's internal society.
+
+He stops trying to determine who their leader should be. He does not attempt to reorganize their hierarchy merely because he distrusts it. He does not take responsibility for correcting their breeding program, succession system, family structures, or traditions simply because he believes they are dysfunctional.
+
+This is not blanket approval of every internal practice. Conduct that directly violates the larger civilization's enforceable boundaries can still create consequences. The principle is narrower: Sylvan does not treat disagreement with another group's internal organization as permission to take control of that organization.
+
+If they choose the Evil King as their leader, Sylvan deals with the Evil King.
+
+If they allow him to speak for George, Sylvan treats his decisions as consequential decisions made through their actual hierarchy.
+
+If their traditions remain important to them, Sylvan does not demand cultural surrender as the price of cooperation.
+
+He learns to distinguish between **governing his own boundaries** and **governing other people**.
+
+A concise statement of the principle is:
+
+**I do not have to decide who you should be. I only have to decide what I will cooperate with.**
+
+## The final offer is behavioral, not ideological
+
+Sylvan's final terms therefore do not require the contained group to become culturally or politically identical to him.
+
+They can keep their leader. They can keep their internal hierarchy. They can retain traditions and internal arrangements that remain within whatever enforceable limits the larger civilization ultimately establishes.
+
+What they cannot demand is the ability to externalize the destructive consequences of those choices onto everyone else while using manufactured narratives to avoid accountability.
+
+The required change is behavioral:
+
+- stop attacking Sylvan and other participants;
+- stop sabotaging projects outside their group;
+- stop weaponizing story functionality and environmental influence against outsiders;
+- stop attempting to seize the wider colonization process;
+- cooperate sufficiently to build and sustain something real;
+- accept that actions affecting outsiders create real consequences.
 
 ## The offer: earn a city
 
-Sylvan offers George and his father a path back into genuine participation.
+If the contained group accepts those boundaries and demonstrates sustained constructive behavior, they may be allowed to **earn stewardship of a city**.
 
-They must abandon the old plan, stop trying to destroy Sylvan, stop using George and the Daemon as weapons, stop attempting to restore the False Victory, and cooperate with the larger colonization process.
+The city becomes a genuine test of the group's claims about itself.
 
-If they can demonstrate sustained constructive behavior, they may be allowed to **earn stewardship of a city**.
+If the Throne figure insists that his hierarchy is legitimate, he can demonstrate that by leading it constructively. If the group believes its traditions produce order, continuity, and strength, it can demonstrate those qualities without destroying neighboring participants. If its members believe the Throne deserves authority, they can follow him while accepting responsibility for the results.
 
-The city is important because it converts the Throne's mythology into a real test of leadership.
+Sylvan is not saying: **become like me and I will let you govern.**
 
-If the Throne figure truly believes he should govern, then he must prove that belief by helping build and sustain an actual community under conditions where authority is accountable and outcomes are real.
+He is effectively saying: **prove that your civilization works.**
 
-He would not inherit the city, seize it, or receive it because of seniority, lineage, divinity, or manufactured legitimacy.
-
-He would have to earn it.
+The city is not inherited, seized, or awarded because of seniority, lineage, divinity, or manufactured legitimacy. Stewardship must be earned through demonstrated ability to build and coexist.
 
 Exact requirements, duration, institutions, and authority associated with earning a city remain open for later development.
 
 ## The alternative: reality without cover
 
-If George and the Throne refuse the offer, Sylvan does not need to invent a punishment.
+If the group refuses the offer, Sylvan does not need to invent a punishment or restructure them by force.
 
-He can allow processing to proceed under conditions where the false narrative and protective story functionality no longer mediate what they see.
+He can allow processing to proceed under conditions where false narrative and protective story functionality no longer mediate what they see.
 
 That means confronting documented conduct as conduct:
 
 - no False Victory;
-- no divine legitimacy;
+- no divine legitimacy automatically explaining authority;
 - no heroic biography explaining every act;
 - no manipulated enemy narrative making Sylvan responsible for the regime's collapse;
-- no use of George as the sole bearer of the father's decisions;
-- no artificial reinterpretation of the breeding-program abuses or other concealed conduct;
+- no assumption that George alone bears responsibility for decisions made through the father's hierarchy;
+- no artificial reinterpretation of breeding-program abuses or other concealed conduct;
 - no story mechanism capable of converting consequence into another flattering explanation.
 
-The alternative to cooperation is therefore not arbitrary vengeance. It is honest consequence based on the reality of what they actually chose and did.
+Responsibility can still be differentiated during processing. Sylvan does not need to decide in advance that every member of the group is equally culpable.
+
+His immediate leadership question is simpler:
+
+**What is this group going to do now?**
+
+## Why the choice is fair
+
+The final environment becomes stronger if Sylvan removes as many excuses as possible without taking over the group's internal life.
+
+He does not demand that they depose their king.
+
+He does not demand that George become independent before cooperation can begin.
+
+He does not demand that they abandon every tradition he dislikes.
+
+He does not require ideological submission to Sylvan personally.
+
+He gives them substantial internal autonomy and asks whether they can exercise it without destroying everyone around them.
+
+If they cooperate, the environment demonstrates that even an extremely destructive contained group can potentially become constructive under legitimate boundaries.
+
+If they refuse and continue attacking despite overwhelming room to organize themselves internally, the resulting failure belongs much more clearly to their own choices.
+
+The competitive environment itself becomes evidence.
 
 ## Sylvan's leadership achievement
 
-This endpoint should express the story's central ethical contrast.
+This endpoint expresses the story's central ethical contrast.
 
 The Throne figure treats people as instruments. The cultivation system itself risks doing the same. Sylvan's leadership becomes meaningful if, once he finally possesses the advantage, he refuses to repeat that logic.
 
-His objective is not merely to punish the worst people in the process.
+His objective is not to save George, culturally conquer the contained faction, or design a morally perfect hierarchy for them.
 
-It is to create a condition in which even they have a reason to stop destroying and begin building.
+His objective is to create conditions under which people with a long history of destructive competition have a genuine incentive to become constructive participants while preserving accountability if they refuse.
 
-If he succeeds in motivating people who have repeatedly exploited competitive environments to voluntarily cooperate in constructing a real city, that may be an extraordinary and historically unprecedented achievement inside the colonization process.
+If he succeeds in motivating some of the worst contained criminals in the process to voluntarily cooperate in constructing and sustaining a real city, that may be an extraordinary and historically unprecedented leadership accomplishment.
 
 But cooperation does not erase accountability.
 
 The offer remains a choice between two forms of reality:
 
-**Build something real with everyone else, and earn legitimate responsibility.**
+**Build something real with everyone else, under your own legitimate internal arrangements, and earn responsibility.**
 
 **Or face what you already did without a manufactured story protecting you from its meaning.**
 
@@ -175,13 +234,19 @@ The Throne thought he had moved Sylvan's defeat forward.
 
 He had actually moved Sylvan's victory to the end.
 
-Now there is no later environment, no remaining reversal, and no story left to hide inside.
+Now there is no later environment and no remaining reversal to restore the old advantage.
 
-Sylvan's final terms are not submission to him personally. They are submission to reality:
+George may still be beneath the ice. His father may still speak for him. Their group may still follow the same hierarchy.
 
-**Help build the city.**
+Sylvan no longer needs to change any of that before setting the final terms.
 
-**Or come outside and answer for what you did.**
+His position is simpler:
+
+**Keep your king if you want him. Keep your hierarchy. Keep your traditions where they do not violate the larger civilization's boundaries.**
+
+**But what your organization does to everyone outside it is no longer something you get to disguise.**
+
+The choice is cooperation and earned stewardship, or honest consequence.
 
 ## Working status
 
@@ -194,11 +259,18 @@ Working development to preserve for future sessions:
 - repeated environments create behavioral evidence about what contained people do when given influence;
 - Sylvan's environment is exceptional because the Throne figure moves segments out of order on George's behalf;
 - the displaced participant-control segment occurs at the end, leaving Sylvan with the final advantage;
-- the Throne's own interference therefore helps create the unwinnable environment into which he later sends George;
-- Sylvan uses the final advantage to offer cooperation rather than automatic destruction;
-- George and the Throne can abandon the old plan, cooperate, and attempt to earn stewardship of a city;
-- refusal leads toward processing in which false narrative and story functionality can no longer conceal the reality of their conduct;
-- Sylvan's potential accomplishment is not merely defeating dangerous people but motivating some of the worst contained criminals to become constructive participants in civilization.
+- George remains inside a manufactured reality and may be unable to engage directly with unmediated reality;
+- Sylvan is not responsible for rescuing George from that condition;
+- because the Throne continues making decisions for George, the Throne becomes the de facto opposing authority;
+- Sylvan accepts the group's actual hierarchy rather than attempting to replace it;
+- Sylvan learns not to interfere merely because he disapproves of their hierarchy, breeding arrangements, succession practices, or traditions;
+- non-interference does not immunize conduct that violates enforceable external boundaries;
+- Sylvan's final offer is behavioral cooperation rather than ideological or cultural submission;
+- the contained group can preserve substantial internal autonomy while proving it can coexist constructively;
+- stewardship of a city becomes a real-world test of whether their claimed system can build rather than merely dominate;
+- refusal leads toward processing without false narrative or story functionality concealing the reality of conduct;
+- responsibility can be differentiated during processing rather than assumed collectively in advance;
+- Sylvan's potential accomplishment is motivating profoundly destructive contained people to become constructive participants without first conquering their internal society.
 
 ## Open questions
 
@@ -207,7 +279,8 @@ Working development to preserve for future sessions:
 - What prevents the system from automatically correcting the altered sequence?
 - What exactly constitutes financial or structural failure sufficient to trigger processing?
 - What does processing look like when story functionality is removed?
-- What must George and the Throne do to demonstrate genuine cooperation?
+- Which larger-civilization boundaries limit the contained group's internal autonomy?
+- How does the process attribute responsibility when a leader makes decisions through a hierarchy on behalf of impaired or dependent members?
+- What must the group do to demonstrate genuine cooperation?
 - How is stewardship of a city earned, measured, reviewed, and potentially revoked?
-- Does George accept Sylvan's offer independently of his father?
 - Can the Throne psychologically tolerate legitimate authority that must be earned rather than claimed?
