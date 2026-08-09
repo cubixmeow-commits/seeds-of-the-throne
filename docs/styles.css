@@ -1130,6 +1130,189 @@ footer p {
   display: none !important;
 }
 
+/* Streamlined development-system layer */
+:root {
+  --shadow: 0 1px 1px oklch(0.05 0.01 255 / 0.35), 0 8px 24px oklch(0.05 0.01 255 / 0.12);
+  --radius-sm: 0.45rem;
+  --radius-md: 0.65rem;
+  --radius-lg: 0.9rem;
+  --content: 82rem;
+}
+
+body {
+  background:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px),
+    var(--bg);
+  background-size: 3rem 3rem;
+}
+
+.site-header {
+  background: color-mix(in oklch, var(--bg-raised) 94%, transparent);
+  backdrop-filter: blur(14px);
+}
+
+.header-inner {
+  min-height: 3.65rem;
+}
+
+.brand-mark {
+  width: 2.15rem;
+  border-radius: var(--radius-sm);
+  font-family: inherit;
+  font-size: 0.7rem;
+  font-weight: 850;
+  letter-spacing: -0.04em;
+}
+
+.brand strong {
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+.brand small {
+  font-size: 0.68rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.nav-scroll {
+  gap: 0.35rem;
+  padding-block: 0.45rem;
+}
+
+.section-nav a {
+  padding: 0.42rem 0.65rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+}
+
+.section-nav a:hover,
+.section-nav a:focus-visible {
+  background: var(--surface-soft);
+}
+
+.section {
+  padding-block: clamp(2.75rem, 5vw, 4.75rem);
+}
+
+.session-section {
+  margin-block-start: 1.25rem;
+  padding: clamp(1.25rem, 3.5vw, 2.5rem);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-lg);
+  background: color-mix(in oklch, var(--bg-raised) 96%, transparent);
+  box-shadow: var(--shadow);
+}
+
+.eyebrow-row {
+  margin-block-end: 1.5rem;
+}
+
+h1,
+h2 {
+  font-family: inherit;
+  letter-spacing: -0.035em;
+}
+
+h1 {
+  max-width: 28ch;
+  font-size: clamp(2.25rem, 5vw, 4rem);
+  line-height: 1.02;
+}
+
+h2 {
+  font-size: clamp(1.65rem, 3vw, 2.6rem);
+  line-height: 1.08;
+}
+
+.session-instruction {
+  margin-block: 1.25rem 0;
+  font-family: inherit;
+  font-size: clamp(1rem, 1.6vw, 1.15rem);
+  line-height: 1.58;
+}
+
+.session-workspace {
+  gap: 0.75rem;
+  margin-block-start: clamp(2rem, 4vw, 3rem);
+}
+
+.session-panel {
+  padding: clamp(1.1rem, 2.5vw, 1.6rem);
+  box-shadow: none;
+}
+
+.session-panel h2,
+.session-outcomes h2 {
+  font-size: clamp(1.2rem, 2vw, 1.5rem);
+}
+
+.session-agenda ol,
+.session-questions ul {
+  margin-block: 1.1rem 0;
+}
+
+.session-agenda li {
+  padding-block: 0.75rem;
+}
+
+.session-questions li {
+  padding-block: 0.68rem;
+}
+
+.session-outcomes {
+  gap: clamp(1.25rem, 3vw, 2.5rem);
+  margin-block-start: 0.75rem;
+  padding: clamp(1.1rem, 2.5vw, 1.6rem);
+  border: 1px solid var(--line);
+}
+
+.outcome-grid {
+  gap: 1rem;
+}
+
+.session-boundary {
+  margin-block-start: 0.75rem;
+  padding: 0.85rem 1rem;
+}
+
+.lede {
+  font-family: inherit;
+  font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+}
+
+.hero-actions {
+  margin-block-start: 1.5rem;
+}
+
+.focus-card,
+.character-card,
+.research-grid article,
+.continuity-alert {
+  box-shadow: none;
+}
+
+.metric-grid {
+  margin-block-start: clamp(2rem, 4vw, 3rem);
+}
+
+.state-column {
+  padding: 1rem;
+  border: 1px solid var(--line);
+}
+
+.story-flow li {
+  min-height: 12rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+}
+
+.character-card h3 {
+  font-family: inherit;
+  font-size: 1.45rem;
+}
+
 @media (max-width: 62rem) {
   .overview-grid,
   .session-workspace {
@@ -1185,7 +1368,7 @@ footer p {
   }
 
   h1 {
-    font-size: clamp(2.55rem, 14vw, 4.25rem);
+    font-size: clamp(2.1rem, 11vw, 3.25rem);
   }
 
   .outcome-grid {
