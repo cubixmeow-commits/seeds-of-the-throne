@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#121722">
+    <meta name="description" content="A living creative-development dashboard for Seeds of the Throne.">
+    <title>Seeds of the Throne — Development Atlas</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="#overview" aria-label="Seeds of the Throne development atlas home">
+          <span class="brand-mark" aria-hidden="true">S</span>
+          <span>
+            <strong>Seeds of the Throne</strong>
+            <small>Development atlas</small>
+          </span>
+        </a>
+
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="true">
+          Use light theme
+        </button>
+      </div>
+
+      <nav class="section-nav" aria-label="Development atlas sections">
+        <div class="nav-scroll">
+          <a href="#overview">Overview</a>
+          <a href="#story-engine">Story engine</a>
+          <a href="#cast">Cast</a>
+          <a href="#world">World</a>
+          <a href="#questions">Open questions</a>
+          <a href="#research">Research</a>
+          <a href="#roadmap">Roadmap</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="hero section" id="overview" aria-labelledby="overview-title">
+        <div class="eyebrow-row">
+          <p class="eyebrow">Current state · August 9, 2026</p>
+          <span class="status status-working">Foundation → narrative architecture</span>
+        </div>
+
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <h1 id="overview-title">The endgame is alive.<br>The opening still needs its path.</h1>
+            <p class="lede">A contained father spends seventy-five years shaping his son’s reality so the son will willingly become his weapon—and, after the father has already lost, his scapegoat.</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#roadmap">Review the next decisions</a>
+              <a class="button button-secondary" href="#questions">Explore open questions</a>
+            </div>
+          </div>
+
+          <aside class="focus-card" aria-labelledby="focus-title">
+            <p class="card-label">Best next session</p>
+            <h2 id="focus-title">Define Sylvan and choose the protagonist architecture.</h2>
+            <p>Connect the Witness, Inheritor, tested narrator, and Sylvan before building more systems.</p>
+            <button class="copy-button" id="copy-brief" type="button">Copy next-session brief</button>
+            <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+          </aside>
+        </div>
+
+        <dl class="metric-grid" aria-label="Development snapshot">
+          <div>
+            <dt>Emotional center</dt>
+            <dd>George White</dd>
+          </div>
+          <div>
+            <dt>Heroic center</dt>
+            <dd>Sylvan Elaria</dd>
+          </div>
+          <div>
+            <dt>Research reports</dt>
+            <dd><span class="tabular">10</span> complete</dd>
+          </div>
+          <div>
+            <dt>Primary bottleneck</dt>
+            <dd>Opening + viewpoint</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="section" aria-labelledby="state-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Development board</p>
+            <h2 id="state-title">What is solid, and what is still moving</h2>
+          </div>
+          <p>The newer George–Sylvan–Throne material is substantially more developed than the earlier viewpoint architecture.</p>
+        </div>
+
+        <div class="state-grid">
+          <article class="state-column state-established">
+            <h3><span aria-hidden="true">●</span> Established</h3>
+            <ul>
+              <li>Dual-purpose colonization world</li>
+              <li>Containment through public lives</li>
+              <li>Biological synthetic civilization</li>
+              <li>Hidden influence allocation</li>
+              <li>Partial awakening and processing</li>
+              <li>Behavioral recurrence across identities</li>
+            </ul>
+          </article>
+
+          <article class="state-column state-locked">
+            <h3><span aria-hidden="true">◆</span> Locked development</h3>
+            <ul>
+              <li>George as the Throwaway Prince</li>
+              <li>Three public roles + thirty-year hunt</li>
+              <li>George–Daemon corrupted feedback loop</li>
+              <li>Unwinnable final deployment</li>
+              <li>Other son as survival contingency</li>
+            </ul>
+          </article>
+
+          <article class="state-column state-working">
+            <h3><span aria-hidden="true">◐</span> Working</h3>
+            <ul>
+              <li>Sylvan’s evidence-centered heroism</li>
+              <li>The father’s exact institutional role</li>
+              <li>False Victory coalition mechanics</li>
+              <li>Archive authentication and disclosure</li>
+              <li>Public phase-change constraints</li>
+            </ul>
+          </article>
+
+          <article class="state-column state-unresolved">
+            <h3><span aria-hidden="true">?</span> Unresolved</h3>
+            <ul>
+              <li>Protagonist and viewpoint structure</li>
+              <li>Inciting event and opening loss</li>
+              <li>Sylvan’s personal history and flaw</li>
+              <li>George’s final informed choice</li>
+              <li>The cost of Sylvan’s victory</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="story-engine" aria-labelledby="story-engine-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Narrative pressure</p>
+            <h2 id="story-engine-title">The central dramatic machine</h2>
+          </div>
+          <p>The father’s strategy turns biography into infrastructure: every role prepares George to misunderstand one final choice.</p>
+        </div>
+
+        <ol class="story-flow">
+          <li>
+            <span class="flow-number">01</span>
+            <div><strong>False Victory</strong><p>The contained faction mistakes continued status and access for proof that it won.</p></div>
+          </li>
+          <li>
+            <span class="flow-number">02</span>
+            <div><strong>Counterfeit succession</strong><p>George’s public roles create the appearance that he is approaching genuine inheritance.</p></div>
+          </li>
+          <li>
+            <span class="flow-number">03</span>
+            <div><strong>Shared distortion</strong><p>George and the Daemon reinforce a threat model built from compromised evidence.</p></div>
+          </li>
+          <li>
+            <span class="flow-number">04</span>
+            <div><strong>The archive survives</strong><p>Sylvan preserves evidence the father cannot safely allow his own faction to see.</p></div>
+          </li>
+          <li>
+            <span class="flow-number">05</span>
+            <div><strong>The father loses</strong><p>Sylvan wins the legitimacy struggle before George understands that the war has changed.</p></div>
+          </li>
+          <li>
+            <span class="flow-number">06</span>
+            <div><strong>The final substitution</strong><p>George is sent forward anyway—as weapon, distraction, and intended scapegoat.</p></div>
+          </li>
+          <li class="flow-climax">
+            <span class="flow-number">07</span>
+            <div><strong>The first informed choice</strong><p>The evidence reaches George while he is already in position to fulfill the design.</p></div>
+          </li>
+        </ol>
+
+        <blockquote>
+          <p>George thought his father had built a false world to protect him. He discovers that the false world was the factory in which his father built him into a weapon.</p>
+          <cite>Locked development theme</cite>
+        </blockquote>
+      </section>
+
+      <section class="section" id="cast" aria-labelledby="cast-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">People carrying the story</p>
+            <h2 id="cast-title">Cast at a glance</h2>
+          </div>
+          <p>Characters are strongest where their personal choices embody the story’s argument about using people as material.</p>
+        </div>
+
+        <div class="card-grid character-grid">
+          <article class="character-card feature-card">
+            <div class="card-topline"><span class="status status-locked">Locked core</span><span class="card-age">~130 / appears ~75</span></div>
+            <h3>George White</h3>
+            <p class="role">The Throwaway Prince</p>
+            <p>Privileged, manipulated, dangerous, and victimized. His entire biography was designed to make destroying Sylvan feel like duty.</p>
+            <dl class="mini-facts">
+              <div><dt>Wants</dt><dd>Inheritance, meaning, coherence</dd></div>
+              <div><dt>Discovers</dt><dd>He was built to absorb defeat</dd></div>
+              <div><dt>Open</dt><dd>His first informed choice</dd></div>
+            </dl>
+          </article>
+
+          <article class="character-card">
+            <div class="card-topline"><span class="status status-working">Working</span><span class="card-age">Appears ~40</span></div>
+            <h3>Sylvan Elaria</h3>
+            <p class="role">The evidence-bearing leader</p>
+            <p>Wins through disclosure, provenance, composure, and the ability to remain present while manufactured narratives collapse.</p>
+            <dl class="mini-facts">
+              <div><dt>Power</dt><dd>Evidence and credible presence</dd></div>
+              <div><dt>Ethical test</dt><dd>What exposure does to George</dd></div>
+              <div><dt>Open</dt><dd>Desire, flaw, history, cost</dd></div>
+            </dl>
+          </article>
+
+          <article class="character-card">
+            <div class="card-topline"><span class="status status-working">Working</span><span class="card-age">Name unresolved</span></div>
+            <h3>The Throne figure</h3>
+            <p class="role">The contained authoritarian</p>
+            <p>Turns sentence into seniority, genealogy into leverage, ideology into certification, and his own children into strategic instruments.</p>
+            <dl class="mini-facts">
+              <div><dt>Needs</dt><dd>Concealment and coalition belief</dd></div>
+              <div><dt>Weapon</dt><dd>George’s mediated reality</dd></div>
+              <div><dt>Fallback</dt><dd>The other son and the city</dd></div>
+            </dl>
+          </article>
+
+          <article class="character-card">
+            <div class="card-topline"><span class="status status-locked">Locked function</span><span class="card-age">Identity unresolved</span></div>
+            <h3>The other son</h3>
+            <p class="role">The contingency</p>
+            <p>Secret parentage makes him both evidence of reproductive corruption and a bridge for the father’s post-defeat survival strategy.</p>
+            <dl class="mini-facts">
+              <div><dt>Contrast</dt><dd>George attacks; he preserves access</dd></div>
+              <div><dt>Leverage</dt><dd>Lineage, cooperation, city control</dd></div>
+              <div><dt>Open</dt><dd>Knowledge, loyalty, agency</dd></div>
+            </dl>
+          </article>
+
+          <article class="character-card unresolved-card">
+            <div class="card-topline"><span class="status status-unresolved">Continuity decision</span></div>
+            <h3>Witness · Inheritor · Protagonist</h3>
+            <p class="role">The earlier viewpoint architecture</p>
+            <p>The recurrence investigator, earlier witness, and modern inheritor may be separate people, merged roles, identities belonging to Sylvan, or partially superseded structure.</p>
+            <a class="text-link" href="#questions">Review protagonist questions</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="world" aria-labelledby="world-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">World logic</p>
+            <h2 id="world-title">The world beneath the story</h2>
+          </div>
+          <p>The technology works best as a layered civilization, not one omnipotent intelligence.</p>
+        </div>
+
+        <div class="world-stack" role="list" aria-label="World system layers">
+          <article role="listitem">
+            <span class="stack-index">Layer 1</span>
+            <div><h3>Parent civilization</h3><p>Long-lived humans build worlds, assign roles, cultivate heirs, and govern the process from beyond ordinary awareness.</p></div>
+          </article>
+          <article role="listitem">
+            <span class="stack-index">Layer 2</span>
+            <div><h3>Influence and authorization</h3><p>Competing plans are weighted through identity, standing, domain, delegation, risk, and system constraints.</p></div>
+          </article>
+          <article role="listitem">
+            <span class="stack-index">Layer 3</span>
+            <div><h3>Lumina and Daemon</h3><p>Lifelong agents remember, interpret, negotiate, and represent their humans inside systems those humans cannot directly see.</p></div>
+          </article>
+          <article role="listitem">
+            <span class="stack-index">Layer 4</span>
+            <div><h3>Hidden planetary infrastructure</h3><p>Sensing, communications, computation, energy, and limited actuation operate beneath the visible historical layer.</p></div>
+          </article>
+          <article role="listitem">
+            <span class="stack-index">Layer 5</span>
+            <div><h3>Constructed civilization</h3><p>Biological synthetics build cultures and institutions experienced by ordinary inhabitants as the whole of reality.</p></div>
+          </article>
+        </div>
+
+        <div class="principle-grid">
+          <article><span aria-hidden="true">01</span><h3>Containment is biography</h3><p>A sentence may be an admired public life rather than a cell.</p></article>
+          <article><span aria-hidden="true">02</span><h3>Influence is indirect</h3><p>People experience cooperation, friction, resources, and delay—not a visible score.</p></article>
+          <article><span aria-hidden="true">03</span><h3>Awakening is partial</h3><p>Every explanation is filtered through era, role, and authorization.</p></article>
+          <article><span aria-hidden="true">04</span><h3>Power remains constrained</h3><p>Capability does not equal authority, and no actor controls the complete stack.</p></article>
+        </div>
+      </section>
+
+      <section class="section" id="questions" aria-labelledby="questions-title">
+        <div class="section-heading questions-heading">
+          <div>
+            <p class="eyebrow">Decision surface</p>
+            <h2 id="questions-title">Open questions</h2>
+          </div>
+          <p>These are preserved questions, not gaps to resolve silently.</p>
+        </div>
+
+        <div class="filter-bar" role="search">
+          <label for="atlas-search">Filter questions and research</label>
+          <div class="filter-control">
+            <input id="atlas-search" type="search" name="atlas-search" placeholder="Try “George”, “archive”, or “influence”" autocomplete="off">
+            <button id="clear-search" type="button" hidden>Clear filter</button>
+          </div>
+          <p id="filter-status" class="filter-status" role="status" aria-live="polite"></p>
+        </div>
+
+        <div class="question-groups">
+          <details open>
+            <summary><span>Protagonist and structure</span><span class="question-count">6 questions</span></summary>
+            <ul>
+              <li data-filter-item>Is Sylvan the tested first-person Protagonist?</li>
+              <li data-filter-item>Is Sylvan the modern Inheritor under a developed identity?</li>
+              <li data-filter-item>Is the Witness separate, a prior identity, or superseded architecture?</li>
+              <li data-filter-item>Are there one, two, or three principal viewpoints?</li>
+              <li data-filter-item>Are the Disclosure Wars backstory, present action, or both?</li>
+              <li data-filter-item>What does the protagonist lose before victory?</li>
+            </ul>
+          </details>
+
+          <details>
+            <summary><span>Opening and middle</span><span class="question-count">7 questions</span></summary>
+            <ul>
+              <li data-filter-item>What concrete trouble begins the narrated story?</li>
+              <li data-filter-item>Who encounters the first contradiction?</li>
+              <li data-filter-item>What does that character want before discovering the hidden conflict?</li>
+              <li data-filter-item>What behavioral signature proves recurrence?</li>
+              <li data-filter-item>How does recurrence connect to Sylvan’s archive?</li>
+              <li data-filter-item>What corrupting offer tests the protagonist’s ethics?</li>
+              <li data-filter-item>What sequence turns suspicion into organized opposition?</li>
+            </ul>
+          </details>
+
+          <details>
+            <summary><span>Sylvan and the archive</span><span class="question-count">7 questions</span></summary>
+            <ul>
+              <li data-filter-item>What does Sylvan want before disclosure becomes his central burden?</li>
+              <li data-filter-item>Why did Sylvan begin recording the Throne figure?</li>
+              <li data-filter-item>How did he preserve the audio archive?</li>
+              <li data-filter-item>What exactly does the first decisive recording prove?</li>
+              <li data-filter-item>Which audience can authenticate and act on the evidence?</li>
+              <li data-filter-item>Why can Sylvan neither publish immediately nor be eliminated quietly?</li>
+              <li data-filter-item>What does Sylvan personally lose even if he wins?</li>
+            </ul>
+          </details>
+
+          <details>
+            <summary><span>George and the Daemon</span><span class="question-count">7 questions</span></summary>
+            <ul>
+              <li data-filter-item>Which contradiction first exceeds George’s ability to explain it away?</li>
+              <li data-filter-item>Does George or the Daemon awaken first?</li>
+              <li data-filter-item>Which memory becomes unbearable after reinterpretation?</li>
+              <li data-filter-item>What harmful act remains genuinely George’s responsibility?</li>
+              <li data-filter-item>What is George already doing when the truth reaches him?</li>
+              <li data-filter-item>What does George choose once refusal becomes possible?</li>
+              <li data-filter-item>Can George and the Daemon remain together after the collapse?</li>
+            </ul>
+          </details>
+
+          <details>
+            <summary><span>System and aftermath</span><span class="question-count">8 questions</span></summary>
+            <ul>
+              <li data-filter-item>Does influence attach to people, positions, plans, or all three?</li>
+              <li data-filter-item>What prevents direct elimination of protected participants?</li>
+              <li data-filter-item>What triggers the public phase change?</li>
+              <li data-filter-item>What does the Throne still control after exposure?</li>
+              <li data-filter-item>Why did administrators permit the False Victory to persist?</li>
+              <li data-filter-item>How does the other son create leverage over a city?</li>
+              <li data-filter-item>Who knows the other son’s parentage?</li>
+              <li data-filter-item>What institutions must survive the Throne’s collapse?</li>
+            </ul>
+          </details>
+        </div>
+
+        <div id="no-results" class="empty-state" hidden>
+          <h3>No matching questions or reports</h3>
+          <p>Try a character name, system, or broader story term.</p>
+          <button id="empty-clear" type="button">Clear filter</button>
+        </div>
+      </section>
+
+      <section class="section" id="research" aria-labelledby="research-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Advisory library</p>
+            <h2 id="research-title">Research supporting the next decisions</h2>
+          </div>
+          <p>Research supplies mechanisms and constraints. It becomes story material only through a deliberate development decision.</p>
+        </div>
+
+        <div class="research-grid">
+          <article data-filter-item>
+            <span class="report-number">01</span><h3>Life after epistemic captivity</h3>
+            <p>George’s awakening, betrayal, oscillation, and reconstruction of judgment.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/01%20-%20Life%20After%20Epistemic%20Captivity.md">Read the epistemic captivity report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">02</span><h3>Human–AI co-development</h3>
+            <p>George and the Daemon as an intimate, competent, mutually corrupting pair.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/02%20-%20Human-AI%20Co-development%20and%20Corrupted%20Feedback%20Loops.md">Read the human–AI report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">03</span><h3>Evidence under total control</h3>
+            <p>Archive provenance, survivability, authentication, and staged disclosure.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/03%20-%20Evidence%20Under%20Total%20Information%20Control.md">Read the evidence report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">04</span><h3>How false victories collapse</h3>
+            <p>Private doubt, common knowledge, elite defection, and coalition fracture.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/04%20-%20How%20False%20Victories%20Collapse.md">Read the false victories report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">05</span><h3>The disposable heir</h3>
+            <p>Counterfeit succession, proxy violence, blame absorption, and the two sons.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/05%20-%20The%20Disposable%20Heir.md">Read the disposable heir report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">06</span><h3>Responsibility under manipulation</h3>
+            <p>George’s mixed culpability, accountability, moral injury, and possible repair.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/06%20-%20Responsibility%20Under%20Manipulated%20Premises.md">Read the responsibility report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">07</span><h3>Whistleblowers need an audience</h3>
+            <p>Why proof requires protected recipients, authority, and common knowledge.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/07%20-%20Whistleblowers%20Who%20Need%20an%20Audience,%20Not%20Just%20Proof.md">Read the whistleblower report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">08</span><h3>Constrained civilization-scale power</h3>
+            <p>Authorization, influence, divided authority, deadlock, and public escalation.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/08%20-%20Constrained%20Power%20and%20Civilization-Scale%20Governance.md">Read the governance report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">09</span><h3>Submarine epistemology</h3>
+            <p>Raw observation, false classification, crew complicity, and operational awakening.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/09%20-%20Submarine%20Epistemology%20and%20Human%20Factors.md">Read the submarine report</a>
+          </article>
+          <article data-filter-item>
+            <span class="report-number">10</span><h3>The psychology of a 130-year life</h3>
+            <p>Successive selves, compressed memory, deferred inheritance, and temporal investment.</p>
+            <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/04%20Research/Full%20Reports/10%20-%20Longevity%20and%20the%20Psychology%20of%20a%20130-Year%20Life.md">Read the longevity report</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="roadmap" aria-labelledby="roadmap-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Creative trajectory</p>
+            <h2 id="roadmap-title">Recommended decision sequence</h2>
+          </div>
+          <p>Each decision unlocks the next. The order keeps worldbuilding subordinate to the story’s human movement.</p>
+        </div>
+
+        <ol class="roadmap-list">
+          <li>
+            <span class="roadmap-step">1</span>
+            <div><h3>Choose the protagonist architecture</h3><p>Decide how Sylvan relates to the Witness, Inheritor, and tested first-person narrator.</p></div>
+            <span class="status status-next">Next</span>
+          </li>
+          <li>
+            <span class="roadmap-step">2</span>
+            <div><h3>Define Sylvan before adding systems</h3><p>Give him a prior desire, authority, formative relationship, flaw, reason to record, and personal cost.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+          <li>
+            <span class="roadmap-step">3</span>
+            <div><h3>Choose the archive’s first decisive proof</h3><p>One comprehensible abuse, one consequence, one authentication method, and one denial it defeats.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+          <li>
+            <span class="roadmap-step">4</span>
+            <div><h3>Build the opening-to-archive chain</h3><p>Inciting contradiction, recurrence clue, first ally, retaliation, and point of no return.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+          <li>
+            <span class="roadmap-step">5</span>
+            <div><h3>Specify the confrontation’s constraints</h3><p>What each side can do, what requires authorization, which audience matters, and what changes publicly.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+          <li>
+            <span class="roadmap-step">6</span>
+            <div><h3>Choose George’s action and Sylvan’s cost</h3><p>Lock the first informed choice and the price that keeps disclosure from becoming an easy victory.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+          <li>
+            <span class="roadmap-step">7</span>
+            <div><h3>Design the aftermath through the other son</h3><p>Show how a regime can lose without its networks, bargains, and methods disappearing at once.</p></div>
+            <span class="status status-unresolved">Queued</span>
+          </li>
+        </ol>
+
+        <aside class="continuity-alert" aria-labelledby="continuity-title">
+          <div class="alert-mark" aria-hidden="true">!</div>
+          <div>
+            <p class="card-label">Continuity alert</p>
+            <h3 id="continuity-title">Two strong architectures have not yet been reconciled.</h3>
+            <p>The August 6 Witness–Inheritor–Protagonist framework and the August 7–8 Sylvan–George–Throne framework should not be treated as automatically compatible until the protagonist decision is made.</p>
+          </div>
+        </aside>
+      </section>
+
+      <section class="section source-section" aria-labelledby="source-title">
+        <div>
+          <p class="eyebrow">Source of truth</p>
+          <h2 id="source-title">This atlas summarizes the vault. It does not replace it.</h2>
+          <p>Story notes preserve status and nuance; research remains advisory; the author has final authority.</p>
+        </div>
+        <div class="source-links">
+          <a class="button button-secondary" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/03%20Context/Seeds%20of%20the%20Throne%20-%20Development%20Overview.md">Read the full development overview</a>
+          <a class="button button-secondary" href="https://github.com/cubixmeow-commits/seeds-of-the-throne">Browse the story vault</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p><strong>Seeds of the Throne</strong> development atlas</p>
+      <p>Current through August 9, 2026 · Research is advisory, not canon.</p>
+    </footer>
+  </body>
+</html>
