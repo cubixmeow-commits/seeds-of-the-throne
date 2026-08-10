@@ -1,26 +1,26 @@
 :root {
-  color-scheme: light;
-  --paper: oklch(0.968 0.012 82);
-  --paper-deep: oklch(0.928 0.021 82);
-  --surface: oklch(0.991 0.006 82);
-  --ink: oklch(0.225 0.028 55);
-  --ink-soft: oklch(0.405 0.028 55);
-  --night: oklch(0.19 0.035 255);
-  --night-raised: oklch(0.235 0.04 255);
-  --night-text: oklch(0.955 0.012 82);
-  --night-muted: oklch(0.79 0.022 245);
-  --accent: oklch(0.69 0.13 73);
-  --accent-pale: oklch(0.91 0.055 77);
-  --link: oklch(0.37 0.105 218);
-  --link-hover: oklch(0.29 0.095 218);
-  --line: oklch(0.79 0.025 75);
-  --line-dark: oklch(0.43 0.04 252);
-  --established: oklch(0.52 0.12 156);
-  --locked: oklch(0.57 0.13 74);
-  --working: oklch(0.53 0.11 235);
-  --unresolved: oklch(0.52 0.15 30);
-  --focus: oklch(0.66 0.17 64);
-  --shadow-card: 0 0 0 1px oklch(0 0 0 / 0.06), 0 2px 5px oklch(0 0 0 / 0.04), 0 14px 36px oklch(0.22 0.03 55 / 0.07);
+  color-scheme: dark;
+  --paper: oklch(0.145 0.022 255);
+  --paper-deep: oklch(0.112 0.018 255);
+  --surface: oklch(0.195 0.027 255);
+  --ink: oklch(0.955 0.012 82);
+  --ink-soft: oklch(0.82 0.02 245);
+  --night: oklch(0.085 0.018 255);
+  --night-raised: oklch(0.155 0.026 255);
+  --night-text: oklch(0.965 0.012 82);
+  --night-muted: oklch(0.81 0.022 245);
+  --accent: oklch(0.78 0.125 78);
+  --accent-pale: oklch(0.31 0.06 75);
+  --link: oklch(0.79 0.105 218);
+  --link-hover: oklch(0.9 0.07 218);
+  --line: oklch(0.36 0.026 252);
+  --line-dark: oklch(0.285 0.03 252);
+  --established: oklch(0.75 0.12 156);
+  --locked: oklch(0.79 0.125 78);
+  --working: oklch(0.76 0.105 225);
+  --unresolved: oklch(0.75 0.14 30);
+  --focus: oklch(0.84 0.15 79);
+  --shadow-card: 0 0 0 1px oklch(1 0 0 / 0.08), 0 18px 42px oklch(0 0 0 / 0.24);
   --font-serif: Georgia, "Times New Roman", serif;
   --font-sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --measure: 68ch;
@@ -82,8 +82,8 @@ h3 { font-size: 1.16rem; line-height: 1.28; }
   z-index: 100;
   min-height: 2.75rem;
   padding: 0.65rem 1rem;
-  background: var(--surface);
-  color: var(--ink);
+  background: var(--night-raised);
+  color: var(--night-text);
   font-weight: 700;
 }
 
@@ -246,7 +246,7 @@ h3 { font-size: 1.16rem; line-height: 1.28; }
 }
 
 .primary-link { background: var(--accent); color: var(--night); box-shadow: 0 8px 22px oklch(0 0 0 / 0.18); }
-.primary-link:hover { background: oklch(0.75 0.13 73); color: var(--night); }
+.primary-link:hover { background: oklch(0.84 0.11 78); color: var(--night); }
 .secondary-link { box-shadow: inset 0 0 0 1px var(--line-dark); color: var(--night-text); }
 .secondary-link:hover { box-shadow: inset 0 0 0 1px var(--night-muted); color: var(--night-text); }
 
@@ -317,7 +317,7 @@ h3 { font-size: 1.16rem; line-height: 1.28; }
 .timeline-status, .card-status { margin-block-end: 0.7rem; color: var(--ink-soft); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
 .timeline-content h3 { margin-block-end: 0.65rem; font-family: var(--font-serif); font-size: clamp(1.4rem, 2.4vw, 1.85rem); }
 .timeline-content p:last-child { margin-block-end: 0; color: var(--ink-soft); }
-.timeline-climax .timeline-marker > span { border-color: var(--unresolved); background: oklch(0.95 0.035 30); }
+.timeline-climax .timeline-marker > span { border-color: var(--unresolved); background: oklch(0.26 0.055 30); }
 .timeline-climax .timeline-content { border-block-end: 0; }
 
 .doctrine-section,
@@ -475,7 +475,7 @@ h3 { font-size: 1.16rem; line-height: 1.28; }
 }
 
 @media (prefers-contrast: more) {
-  :root { --line: oklch(0.55 0.025 75); --line-dark: oklch(0.68 0.035 252); --ink-soft: oklch(0.3 0.028 55); --night-muted: oklch(0.9 0.018 245); }
+  :root { --line: oklch(0.58 0.022 252); --line-dark: oklch(0.52 0.025 252); --ink-soft: oklch(0.94 0.014 82); --night-muted: oklch(0.94 0.014 82); --link: oklch(0.88 0.08 218); }
 }
 
 @media (forced-colors: active) {
