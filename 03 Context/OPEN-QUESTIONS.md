@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-06
+updated: 2026-08-10
 ---
 
 # Open Questions
@@ -12,6 +12,8 @@ updated: 2026-08-06
 - Are the Disclosure Wars prior history, the main plot, or a pressure still unfolding?
 - What event starts the modern thread?
 - What specifically does the protagonist lose before victory?
+- Who experiences the opening escalation from city stewardship to national capture and Great War?
+- Does the narrated beginning show the war directly or reconstruct it through records and recurrence?
 
 ## System
 
@@ -21,6 +23,18 @@ updated: 2026-08-06
 - Do participants retain memories across identities? What is suppressed, and by whom?
 - What triggers the public phase change?
 - Do entrants regain long life after exit, or can a mortal lifetime inside be irreversible?
+- How is meaningful, age-appropriate consent renewed as legitimate heirs mature?
+- How do loving parental support and protective intervention remain available without becoming imperial favoritism?
+- Do hundreds of heirs form one cohort or several overlapping cohorts?
+- What future institution or covenant is the shared heir generation expected to form?
+
+## Parent civilization
+
+- How do the Reconciliation, Boundary, Cultivation, and Evidentiary schools share authority?
+- What threshold allows one school to stop an environment supported by another?
+- Which real leaders are willing to expose their own decisions to eventual public judgment?
+- Why did particular ancient rulers wait centuries or millennia to have heirs?
+- How are an heir's happiness and readiness understood without reducing the child to a score or succession role?
 
 ## Throne
 
@@ -30,10 +44,29 @@ updated: 2026-08-06
 - Who knows his authority is false?
 - Is anyone contained longer than he is?
 - Does he knowingly lie, or has he come to believe his own account?
+- What did he privately expect George to accomplish when placing him inside the future victor?
+- What exact crisis allowed city influence to become national control?
+- Who first discovers that supposedly isolated lineage secrets form one organization-wide pattern?
+- How does he maintain the hidden parentage key and certification authority?
+
+## Story functionality
+
+- What can story influence alter: salience, records, institutional reactions, coincidence, or all four under different limits?
+- Who authorizes story influence during the Foundational Exposure Era?
+- How does the sealed record remain authentic across a century of public revision?
+- What threshold ends narrative containment and triggers public comparison of story with reality?
+- How are ordinary people protected while contained leaders receive meaningful narrative influence?
+
+## Evidence and lineage
+
+- Which records prove George was a fallback before he was rewritten as the secret victor?
+- Which anonymized evidence proves reproductive and genealogical abuse without exposing children?
+- How many families were targeted and across how many generations?
+- What reproductive mechanism did the King control directly?
+- What does the other son know about his parentage and political function?
 
 ## World and cast
 
 - What are the principal characters, groups, nations, and institutions actually called?
 - What concrete behavioral signature reveals recurrence?
 - Which invented alliance lost the foundational war, and what happened to its leadership?
-

@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-06
+updated: 2026-08-10
 ---
 
 # Cast
@@ -22,5 +22,16 @@ The tested first-person narrator. Follows a recurrence clue into questions about
 
 ## The Throne's central figure
 
-Unnamed contained criminal who claims legitimate authority, turns time served into credentials, and builds a kingdom and theology around himself. His power rests on information, certification, records, and promises that are coming due.
+Unnamed contained authoritarian who turns city stewardship into national capture and the Great War's failed global-conquest project. After defeat, he claims George secretly captured the victorious republic and uses the False Victory to convert containment into apparent covert rule. His power rests on story influence, information, certification, manipulated genealogy, reproductive abuse, individualized lineage blackmail, and promises that are coming due.
 
+## George White
+
+The King's son, placed inside the future victorious republic before the original city falls. His later public career becomes living evidence for the father's claim that the victor was captured from within. George may not understand that his biography is being used to hold the defeated contained organization together.
+
+## Sylvan Elaria
+
+Younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's pre-defeat placement to the King's contradictory post-defeat myth and connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons.
+
+## The other son
+
+Secretly created through the King's abuse of the breeding program involving another contained leader's wife. He is a strategically important instance of a wider lineage-blackmail pattern and a possible succession contingency after George, but remains a person rather than merely evidence.

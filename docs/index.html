@@ -1,186 +1,484 @@
 <!doctype html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#121722">
-  <meta name="description" content="A guided brainstorming workspace and living creative-development dashboard for Seeds of the Throne.">
-  <title>Seeds of the Throne — Development System</title>
-  <link rel="stylesheet" href="styles.css?v=20260809-r3">
-  <script src="app.js?v=20260809-r3" defer></script>
+  <meta name="theme-color" content="#17202c">
+  <meta name="description" content="The living story atlas for Seeds of the Throne: a complete story summary, development status, world guide, and agenda for the next creative session.">
+  <title>Seeds of the Throne — Living Story Atlas</title>
+  <link rel="stylesheet" href="styles.css?v=20260810-static1">
 </head>
 <body>
-  <a class="skip-link" href="#main-content">Skip to content</a>
+  <a class="skip-link" href="#main-content">Skip to the story</a>
+
   <header class="site-header">
     <div class="header-inner">
-      <a class="brand" href="#next-session" aria-label="Seeds of the Throne next brainstorming session">
+      <a class="brand" href="#top" aria-label="Seeds of the Throne, return to the beginning">
         <span class="brand-mark" aria-hidden="true">ST</span>
-        <span><strong>Seeds of the Throne</strong><small>Development system</small></span>
+        <span>
+          <strong>Seeds of the Throne</strong>
+          <small>Living story atlas</small>
+        </span>
       </a>
-      <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="true">Use light theme</button>
+      <p class="build-stamp"><span aria-hidden="true">●</span> Development build 04 · August 10, 2026</p>
     </div>
-    <nav class="section-nav" aria-label="Development atlas sections">
-      <div class="nav-scroll">
-        <a href="#next-session">Next session</a><a href="#overview">Overview</a><a href="#story-engine">Story engine</a><a href="#cast">Cast</a><a href="#world">World</a><a href="#questions">Open questions</a><a href="#research">Research</a><a href="#roadmap">Roadmap</a>
+    <nav class="section-nav" aria-label="Story atlas sections">
+      <div class="nav-inner">
+        <a href="#story">Story</a>
+        <a href="#timeline">Timeline</a>
+        <a href="#people">People</a>
+        <a href="#systems">World systems</a>
+        <a href="#evidence">Evidence</a>
+        <a href="#progress">Progress</a>
+        <a href="#next-session">Next session</a>
       </div>
     </nav>
   </header>
 
   <main id="main-content">
-    <section class="session-section section" id="next-session" aria-labelledby="session-title">
-      <div class="eyebrow-row"><p class="eyebrow">Session workspace · Revision 03</p><span class="status status-unresolved">Blocking · Betrayal + terminal environment</span></div>
-      <div class="session-intro">
-        <h1 id="session-title">Was George sent there to lose?</h1>
-        <p class="session-instruction">The strongest new possibility is that Sylvan's terminal advantage may not be a mistake. The King may already know his kingdom is lost and deliberately place George into an unwinnable final environment so George absorbs the defeat, is destroyed or processed, and can be replaced by the secret unauthorized heir created through the breeding program. The next session should determine how much of this is deliberate, when the betrayal begins, and what evidence lets Sylvan see it.</p>
-        <div class="hero-actions"><button class="button button-primary" id="copy-brief" type="button">Copy session guide</button><a class="button button-secondary" href="#questions">Review every open question</a></div>
-        <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
-      </div>
-      <div class="session-workspace">
-        <article class="session-panel session-agenda" aria-labelledby="agenda-title">
-          <p class="card-label">Work in this order</p><h2 id="agenda-title">Session agenda</h2>
-          <ol>
-            <li><span>01</span><div><strong>Choose the betrayal model</strong><p>Was the sequencing change accidental, reckless, opportunistically exploited after the kingdom was lost, or deliberately designed to dispose of George?</p></div></li>
-            <li><span>02</span><div><strong>Define the terminal environment</strong><p>Sylvan's strongest participant-control segment arrives after George and the contained faction have already committed themselves to attack, with no later reversal to rescue them.</p></div></li>
-            <li><span>03</span><div><strong>Connect the unauthorized heir</strong><p>Define how the secret heir created through misuse of the breeding program gives the King a motive to remove George and rewrite succession.</p></div></li>
-            <li><span>04</span><div><strong>Trace command responsibility</strong><p>Once George obviously cannot win, identify who keeps ordering attacks, choreographing signs, refusing negotiation, and benefiting from George's destruction.</p></div></li>
-            <li><span>05</span><div><strong>Define Sylvan's refusal</strong><p>The King expects Sylvan to dispose of George. Sylvan refuses to treat the visible weapon as the sole author of the campaign and lets the environment expose the real decision-maker.</p></div></li>
-          </ol>
-        </article>
-        <aside class="session-panel session-questions" aria-labelledby="session-questions-title">
-          <p class="card-label">Questions that unlock the betrayal</p><h2 id="session-questions-title">Answer these before moving on</h2>
-          <ul>
-            <li>When did the King decide George had become expendable?</li>
-            <li>What exactly is unauthorized about the secret heir?</li>
-            <li>How was the breeding program manipulated to create or position that heir?</li>
-            <li>What does the King expect Sylvan to do to George once the terminal segment begins?</li>
-            <li>What evidence allows Sylvan to infer that George is being deliberately sacrificed?</li>
-            <li>Which signs keep George convinced the final attack is still winnable?</li>
-            <li>When does keeping George inside the story become more important than defeating Sylvan?</li>
-            <li>What happens if the contained faction realizes the succession plan before George does?</li>
-          </ul>
+    <section class="hero" id="top" aria-labelledby="page-title">
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <p class="overline">A civilization built a world to reveal who should lead it</p>
+          <h1 id="page-title">A false victory.<br>A disposable prince.<br>A century of evidence.</h1>
+          <p class="hero-lede">This page is the public map of <cite>Seeds of the Throne</cite> as it exists today: the complete story from the ancient parent civilization to George’s final choice, what is settled, what is still moving, and what the next development session must decide.</p>
+          <div class="hero-actions">
+            <a class="primary-link" href="#story">Read the story so far</a>
+            <a class="secondary-link" href="#next-session">Open the next-session guide</a>
+          </div>
+        </div>
+        <aside class="hero-dossier" aria-labelledby="dossier-title">
+          <p class="dossier-label" id="dossier-title">Current creative center</p>
+          <dl>
+            <div><dt>Emotional center</dt><dd>George White</dd></div>
+            <div><dt>Heroic center</dt><dd>Sylvan Elaria</dd></div>
+            <div><dt>Primary threat</dt><dd>The Throne’s god-ruler doctrine</dd></div>
+            <div><dt>Story phase</dt><dd>Foundation → narrative architecture</dd></div>
+            <div><dt>Immediate need</dt><dd>Opening viewpoint and archive path</dd></div>
+          </dl>
         </aside>
       </div>
-      <div class="session-outcomes" aria-labelledby="outcomes-title">
-        <div class="outcome-heading"><p class="card-label">Definition of done</p><h2 id="outcomes-title">Leave the session with five usable artifacts</h2></div>
-        <div class="outcome-grid">
-          <article><span>01</span><h3>Betrayal timeline</h3><p>When George becomes expendable and why.</p></article>
-          <article><span>02</span><h3>Terminal environment</h3><p>The exact sequence that leaves Sylvan in control at the end.</p></article>
-          <article><span>03</span><h3>Succession motive</h3><p>How the unauthorized heir changes the King's incentives.</p></article>
-          <article><span>04</span><h3>Command-responsibility trail</h3><p>The evidence showing who keeps the campaign alive.</p></article>
-          <article><span>05</span><h3>Sylvan's refusal</h3><p>Why he will not perform George's disposal for the King.</p></article>
+    </section>
+
+    <section class="orientation" aria-labelledby="orientation-title">
+      <div class="content-shell orientation-grid">
+        <div>
+          <p class="section-kicker">How to read this page</p>
+          <h2 id="orientation-title">A story guide and a development dashboard</h2>
+          <p>This is working creative material, not a finished synopsis. It separates durable foundations from active possibilities so readers can follow the build without mistaking every idea for final canon.</p>
+        </div>
+        <dl class="status-key" aria-label="Development status key">
+          <div class="status-row"><dt><span class="status-mark established" aria-hidden="true">●</span> Established</dt><dd>Reliable foundation</dd></div>
+          <div class="status-row"><dt><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</dt><dd>Chosen direction</dd></div>
+          <div class="status-row"><dt><span class="status-mark working" aria-hidden="true">◐</span> Working</dt><dd>Strong, still adjustable</dd></div>
+          <div class="status-row"><dt><span class="status-mark unresolved" aria-hidden="true">?</span> Unresolved</dt><dd>Needs a decision</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="story-section section" id="story" aria-labelledby="story-title">
+      <div class="content-shell">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">The story in one paragraph</p>
+            <h2 id="story-title">The world was built to test power. The King mistook the test for permission.</h2>
+          </div>
+          <p class="section-summary">A civilization that has defeated aging builds a colonization planet to establish a new human world, contain exceptionally dangerous leaders, and prepare hundreds of beloved heirs to inherit ancient empires together. One contained authoritarian is given a city, captures a country, and launches the Great War in an attempt at global domination. Before defeat, he places his son George inside the future victorious republic. After losing everything, he claims George secretly conquered the victor and that the faction’s containment roles are covert offices in a continuing victory. For nearly a century, story functionality helps him hide failure while he weaponizes genealogy, reproduction, racist hierarchy, and private shame against his own followers. Sylvan Elaria preserves the evidence that can turn their isolated doubts into common knowledge. In the end, the King sends George into an unwinnable confrontation as both weapon and scapegoat—but Sylvan refuses to dispose of him, forcing the command structure into view and giving George his first genuinely informed choice.</p>
+        </div>
+
+        <div class="central-question">
+          <p>Central dramatic question</p>
+          <blockquote>Can a system that deliberately uses people as material cultivate leaders who refuse to use other people the same way?</blockquote>
+        </div>
+
+        <div class="thesis-grid">
+          <article>
+            <span class="thesis-number" aria-hidden="true">01</span>
+            <h3>Power or stewardship</h3>
+            <p>The King treats every opportunity as a path to ownership. The legitimate heirs are being prepared to hold power without turning people into instruments.</p>
+          </article>
+          <article>
+            <span class="thesis-number" aria-hidden="true">02</span>
+            <h3>Story or reality</h3>
+            <p>Public history can be shaped, but operational reality and provenance survive underneath. The conflict turns on who can reconnect them.</p>
+          </article>
+          <article>
+            <span class="thesis-number" aria-hidden="true">03</span>
+            <h3>Inheritance or agency</h3>
+            <p>George is manufactured into a function. The real heirs are loved, prepared, and expected to become people who can choose lives beyond power.</p>
+          </article>
         </div>
       </div>
-      <aside class="session-boundary" aria-labelledby="boundary-title"><strong id="boundary-title">Keep this as working development.</strong><p>The deliberate succession betrayal is stronger than the pure-accident version, but it should remain a tested possibility until the exact sequencing authority, heir mechanics, and King's timing are defined.</p></aside>
     </section>
 
-    <section class="overview-section section" id="overview" aria-labelledby="overview-title">
-      <div class="eyebrow-row"><p class="eyebrow">Current state · August 9, 2026</p><span class="status status-working">Endgame mechanics → succession betrayal</span></div>
-      <div class="overview-grid">
-        <div><h2 id="overview-title">George may not have been sent to win.<br>He may have been sent to be replaced.</h2><p class="lede">A powerful working possibility is that the King already knows his kingdom is lost, deliberately leaves Sylvan with the terminal influence advantage, and sends George into an unwinnable confrontation so the Throwaway Prince absorbs the defeat while a secret unauthorized heir waits behind him.</p></div>
-        <aside class="focus-card" aria-labelledby="trajectory-title"><p class="card-label">Creative trajectory</p><h3 id="trajectory-title">Turn the final battlefield into evidence of paternal betrayal.</h3><p>The more hopeless George's position becomes, the more revealing every continued order, staged sign, remote attack, and refusal to negotiate becomes. The environment can show who is really exercising command and who benefits if George disappears.</p></aside>
+    <section class="timeline-section section" id="timeline" aria-labelledby="timeline-title">
+      <div class="content-shell">
+        <div class="section-heading compact-heading">
+          <div>
+            <p class="section-kicker">Complete story summary</p>
+            <h2 id="timeline-title">From the ancient civilization to the final choice</h2>
+          </div>
+          <p>Dates remain intentionally open. The sequence below shows the current causal spine from beginning to end.</p>
+        </div>
+
+        <ol class="story-timeline">
+          <li>
+            <div class="timeline-marker"><span>01</span><small>Before entry</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark established" aria-hidden="true">●</span> Established</p>
+              <h3>The parent civilization defeats aging</h3>
+              <p>Human civilization grows across immense spans of time. Its oldest leaders build empires over centuries and millennia, then confront a succession problem no short-lived society has faced: how to prepare heirs for powers older than most cultures.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>02</span><small>Preparation</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark established" aria-hidden="true">●</span> Established</p>
+              <h3>Hundreds of loved heirs enter one shared history</h3>
+              <p>Many elder rulers wait specifically for the colonization era before having children. Their heirs matter deeply to them: preparation, freedom, belonging, and happiness are part of leadership fitness. The cohort is placed into the same world and era so future rulers become mutually legible through shared struggle rather than inheriting in isolation.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>03</span><small>Worldbuilding</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark established" aria-hidden="true">●</span> Established</p>
+              <h3>A constructed planet begins as a complete civilization</h3>
+              <p>Synthetics establish societies, institutions, histories, and living environments before most humans arrive. The planet supports colonization, containment, leadership cultivation, scoring, and eventual placement at the same time. Participants enter with incomplete knowledge and experience the hidden system as ordinary opportunity, friction, coincidence, and institutional response.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>04</span><small>First century</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>The world becomes an exposure chamber</h3>
+              <p>The first colonization century gives coercive leaders bounded opportunities to reveal what they actually do when they believe ultimate victory is possible. Competing groups of legitimate leaders disagree about reconciliation, accommodation, enforceable limits, and when observation must stop. Their heirs learn inside the consequences of those arguments.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>05</span><small>The city</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>The future King is trusted with a city</h3>
+              <p>A contained authoritarian receives a genuine opportunity to govern and cooperate. He converts stewardship into personal control, city success into legitimacy, and institutional access into capture. Accommodation does not moderate him; it confirms that escalation works.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>06</span><small>The Great War</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>A city becomes a country, then an attempted world conquest</h3>
+              <p>The King takes control of a nation and uses its apparatus to pursue global domination under a fictional supremacist purity doctrine. His regime builds a centralized breeding and lineage bureaucracy. The attempted conquest becomes the Great War.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>07</span><small>George’s placement</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark working" aria-hidden="true">◐</span> Working</p>
+              <h3>Before the city falls, the King places George inside the future victor</h3>
+              <p>George enters the large pluralistic republic that will defeat his father’s empire. His exact age, legal identity, and placement mechanism are not yet settled. He does not capture the republic; he begins a contained and developmental public life inside it.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>08</span><small>Total defeat</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>The empire loses everything</h3>
+              <p>The conquest regime is destroyed. Its city, country, institutions, and war project collapse. Surviving leaders are integrated into public containment roles inside the victorious order. This is not infiltration and not a strategic retreat. It is defeat.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>09</span><small>The False Victory</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>The King tells his followers George captured the victor</h3>
+              <p>He claims the empire’s destruction was planned, George secretly controls the victorious republic, and every containment office is a covert assignment in a continuing conquest. The lie preserves hierarchy and meaning. Followers who cannot accept total failure choose a story that turns captivity into victory.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>10</span><small>Nearly a century</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>Story functionality keeps failed conquest alive</h3>
+              <p>The organization receives enough influence over public interpretation to hide crimes, recast failed operations, discredit witnesses, and claim every loss serves a deeper plan. Beneath the public story, a sealed record preserves events, original evidence, revisions, provenance, and the people who ordered them.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>11</span><small>Private capture</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>The King weaponizes lineage against his own faction</h3>
+              <p>Across roughly eighty years, he exploits reproductive systems, genealogy, certification, and the faction’s racist doctrine. He secretly introduces ancestry they condemn into leading families, conceals parentage, and blackmails each target privately. Every family believes its case is isolated; the pattern makes the King the keeper of everyone’s legitimacy.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>12</span><small>The living proof</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked development</p>
+              <h3>George spends a lifetime proving a victory that never happened</h3>
+              <p>George lives roughly seventy-five years in the public story, including three major roles of about fifteen years each—administrator, statesman, and senior authority. He understands almost nothing about the true colonization process. His father and a corrupted personal AI, the Daemon, shape his evidence and threat model until his final decades increasingly focus on Sylvan.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>13</span><small>The archive</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark working" aria-hidden="true">◐</span> Working</p>
+              <h3>Sylvan preserves what the public story cannot absorb</h3>
+              <p>Sylvan’s archive connects the King’s pre-defeat plans, the contradictory post-defeat False Victory, revised public accounts, lineage interventions, blackmail, political obedience, and command responsibility. The evidence can prove an aggregate system without exposing children as spectacle or sacrificing George to make the case simple.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>14</span><small>Succession</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark working" aria-hidden="true">◐</span> Working</p>
+              <h3>A secret second son makes George expendable</h3>
+              <p>The King has another son created or positioned through abuse of the lineage program. The other son is both evidence of corruption and a succession contingency. Once George carries too much failed history, the hidden replacement gives the King a motive to send his first son forward, transfer blame, and survive through substitution.</p>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-marker"><span>15</span><small>The endgame</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark working" aria-hidden="true">◐</span> Working</p>
+              <h3>The King sends the Throwaway Prince into a battle he cannot win</h3>
+              <p>Sylvan holds the terminal influence advantage after George has committed to attack. Story functionality keeps George convinced victory is close while the King continues directing the hopeless campaign. The expected outcome is that Sylvan destroys, exposes, or processes George—disposing of the failed heir while clearing the succession.</p>
+            </div>
+          </li>
+          <li class="timeline-climax">
+            <div class="timeline-marker"><span>16</span><small>First real choice</small></div>
+            <div class="timeline-content">
+              <p class="timeline-status"><span class="status-mark unresolved" aria-hidden="true">?</span> Climax unresolved</p>
+              <h3>Sylvan refuses the disposal. George learns what his life was built to prove.</h3>
+              <p>Rather than treating George as the sole author of the attack, Sylvan preserves him long enough for continued orders to reveal the commander. The archive turns private doubt into common knowledge: the faction never conquered the world; it became the King’s first conquered population. George awakens while already positioned to complete the plan. His first informed action, Sylvan’s cost, the public phase change, and the fractured aftermath remain to be chosen.</p>
+            </div>
+          </li>
+        </ol>
       </div>
-      <dl class="metric-grid" aria-label="Development snapshot">
-        <div><dt>Emotional center</dt><dd>George White</dd></div>
-        <div><dt>Heroic center</dt><dd>Sylvan Elaria</dd></div>
-        <div><dt>De facto opponent</dt><dd>The Throne figure</dd></div>
-        <div><dt>New working motive</dt><dd>Succession betrayal</dd></div>
-      </dl>
     </section>
 
-    <section class="section" aria-labelledby="state-title">
-      <div class="section-heading"><div><p class="eyebrow">Development board</p><h2 id="state-title">What is solid, and what is still moving</h2></div><p>The final environment now potentially connects the Throwaway Prince, the breeding-program abuse, the unauthorized heir, the staged signs, and the King's refusal to stop into one succession strategy.</p></div>
-      <div class="state-grid">
-        <article class="state-column state-established"><h3><span aria-hidden="true">●</span> Established</h3><ul><li>Dual-purpose colonization world</li><li>Containment through public lives</li><li>Hidden influence allocation</li><li>Partial awakening and processing</li><li>Behavioral recurrence across identities</li></ul></article>
-        <article class="state-column state-locked"><h3><span aria-hidden="true">◆</span> Locked development</h3><ul><li>George as the Throwaway Prince</li><li>George is weaponized against Sylvan</li><li>The father sends him into an unwinnable endgame</li><li>George remains inside a manufactured reality</li><li>The other son exists as a strategic contingency</li></ul></article>
-        <article class="state-column state-working"><h3><span aria-hidden="true">◐</span> Working</h3><ul><li>Sylvan's terminal participant-control segment</li><li>Deliberate or exploited sequencing betrayal</li><li>Secret unauthorized heir as replacement motive</li><li>Breeding-program abuse tied to succession</li><li>Choreographed signs keeping George committed</li><li>Final environment revealing command responsibility</li><li>Sylvan refusing to dispose of George for the King</li></ul></article>
-        <article class="state-column state-unresolved"><h3><span aria-hidden="true">?</span> Unresolved</h3><ul><li>When the King decides George is expendable</li><li>Exact sequencing authority</li><li>Nature and status of the unauthorized heir</li><li>How clearly the faction knows the succession plan</li><li>Processing mechanics without story functionality</li><li>George's ultimate fate</li></ul></article>
+    <section class="doctrine-section section" aria-labelledby="doctrine-title">
+      <div class="content-shell doctrine-grid">
+        <div class="doctrine-copy">
+          <p class="section-kicker light-kicker">The antagonist’s endpoint</p>
+          <h2 id="doctrine-title">The god-ruler is a claim to control meaning itself</h2>
+          <p>The Throne is not ultimately motivated by ordinary greed. Its ambition is a closed civilization in which government, law, public history, culture, movement, family, ancestry, succession, and personal interpretation all become extensions of one ruler’s will.</p>
+          <blockquote>“No person has a right to remain outside the ruler’s plan.”</blockquote>
+          <p>Godhood is the escape from audit. A king can be defeated, blamed, succeeded, or contradicted. A god-ruler declares that every contradiction proves a design beyond appeal.</p>
+        </div>
+        <div class="conversion-list" aria-label="How the Throne converts social goods into control">
+          <div><span>Authority</span><strong>becomes capture</strong></div>
+          <div><span>Difference</span><strong>becomes hierarchy</strong></div>
+          <div><span>Family</span><strong>becomes lineage policy</strong></div>
+          <div><span>Truth</span><strong>becomes propaganda</strong></div>
+          <div><span>Cooperation</span><strong>becomes permission to escalate</strong></div>
+          <div><span>Succession</span><strong>becomes replacement and disposal</strong></div>
+        </div>
       </div>
     </section>
 
-    <section class="section" id="story-engine" aria-labelledby="story-engine-title">
-      <div class="section-heading"><div><p class="eyebrow">Narrative pressure</p><h2 id="story-engine-title">The central dramatic machine</h2></div><p>The final sequence may be less a failed strategy than a father arranging for another man to remove the son he no longer wants.</p></div>
-      <ol class="story-flow">
-        <li><span class="flow-number">01</span><div><strong>The kingdom is already lost</strong><p>The King can no longer realistically restore the regime Sylvan has defeated.</p></div></li>
-        <li><span class="flow-number">02</span><div><strong>George becomes a liability</strong><p>He carries the failed regime's history, too many secrets, and the possibility of eventually discovering what his father did.</p></div></li>
-        <li><span class="flow-number">03</span><div><strong>A replacement exists</strong><p>The King may have created a secret unauthorized heir through misuse of the breeding program.</p></div></li>
-        <li><span class="flow-number">04</span><div><strong>The terminal segment is positioned</strong><p>Sylvan's strongest influence period is left at the end, after George has already committed himself to the attack.</p></div></li>
-        <li><span class="flow-number">05</span><div><strong>George is kept believing</strong><p>Story functionality choreographs signs that imply Sylvan is weakening, victory is close, and George must continue.</p></div></li>
-        <li><span class="flow-number">06</span><div><strong>The disposal is outsourced</strong><p>The King expects Sylvan's overwhelming advantage to destroy, expose, or process George while the father distances himself from the collapse.</p></div></li>
-        <li class="flow-climax"><span class="flow-number">07</span><div><strong>Sylvan refuses the assigned role</strong><p>Instead of blindly destroying George, Sylvan watches who continues directing the hopeless campaign. The environment begins documenting the King.</p></div></li>
-      </ol>
-      <blockquote><p>The King thought he had built the environment that would process the Throwaway Prince. He may have built the environment that finally proves who threw him away.</p><cite>Working endgame theme</cite></blockquote>
-    </section>
+    <section class="people-section section" id="people" aria-labelledby="people-title">
+      <div class="content-shell">
+        <div class="section-heading compact-heading">
+          <div>
+            <p class="section-kicker">People carrying the story</p>
+            <h2 id="people-title">The conflict becomes personal before it becomes public</h2>
+          </div>
+          <p>These roles are clear enough to build with. Several names, histories, and relationships remain deliberately open.</p>
+        </div>
 
-    <section class="section" id="cast" aria-labelledby="cast-title">
-      <div class="section-heading"><div><p class="eyebrow">People carrying the endgame</p><h2 id="cast-title">Cast at a glance</h2></div><p>The succession theory makes the father-son betrayal structural rather than merely emotional.</p></div>
-      <div class="card-grid character-grid">
-        <article class="character-card feature-card"><div class="card-topline"><span class="status status-locked">Locked core</span><span class="card-age">~130 / appears ~75</span></div><h3>George White</h3><p class="role">The Throwaway Prince</p><p>Still inside the manufactured reality, George may be sent into the final environment precisely because his father needs him to fail visibly and absorb responsibility for the collapse.</p><dl class="mini-facts"><div><dt>Believes</dt><dd>He is finishing the war</dd></div><div><dt>May actually be</dt><dd>Clearing the succession</dd></div><div><dt>Darkest discovery</dt><dd>His father needed him to lose</dd></div></dl></article>
-        <article class="character-card"><div class="card-topline"><span class="status status-working">Working</span><span class="card-age">Appears ~40</span></div><h3>Sylvan Elaria</h3><p class="role">The participant who refuses the disposal</p><p>His overwhelming final influence gives him the power the King expects him to use against George. His restraint allows the real command structure to become visible instead.</p><dl class="mini-facts"><div><dt>Advantage</dt><dd>Terminal participant control</dd></div><div><dt>Observation</dt><dd>Who keeps the hopeless campaign alive</dd></div><div><dt>Refusal</dt><dd>Will not execute the King's succession plan</dd></div></dl></article>
-        <article class="character-card"><div class="card-topline"><span class="status status-working">Working</span><span class="card-age">Name unresolved</span></div><h3>The Throne figure</h3><p class="role">The father who may be replacing his son</p><p>With his kingdom lost, he may redirect the endgame toward survival through succession: sacrifice George, transfer blame, preserve himself, and install the unauthorized heir.</p><dl class="mini-facts"><div><dt>Needs</dt><dd>George to remain inside the story</dd></div><div><dt>Potential motive</dt><dd>Clear the succession</dd></div><div><dt>Trap</dt><dd>Every continued sign reveals more command responsibility</dd></div></dl></article>
-        <article class="character-card"><div class="card-topline"><span class="status status-locked">Locked function</span><span class="card-age">Identity unresolved</span></div><h3>The unauthorized heir</h3><p class="role">The hidden replacement</p><p>Created or positioned through misuse of the breeding program, this secret heir may transform George's final deployment from desperate warfare into a succession assassination carried out by proxy.</p><dl class="mini-facts"><div><dt>Function</dt><dd>Replacement after George</dd></div><div><dt>Evidence</dt><dd>Links succession to breeding-program corruption</dd></div><div><dt>Open</dt><dd>Knowledge, legitimacy, loyalty, timing</dd></div></dl></article>
+        <div class="character-grid">
+          <article class="character-card feature-card">
+            <p class="card-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked core</p>
+            <h3>George White</h3>
+            <p class="character-role">The Throwaway Prince · roughly 130, appears about 75</p>
+            <p>The King’s son, placed inside the future victor and turned into living proof of the False Victory. George makes authentic choices inside a manufactured evidence environment. He believes he is being prepared to inherit; he is actually being prepared to attack Sylvan and absorb the regime’s defeat.</p>
+            <dl><div><dt>Believes</dt><dd>He is finishing the war</dd></div><div><dt>Discovers</dt><dd>His father needed him to lose</dd></div><div><dt>Final question</dt><dd>What does he do once the choice is real?</dd></div></dl>
+          </article>
+          <article class="character-card feature-card">
+            <p class="card-status"><span class="status-mark working" aria-hidden="true">◐</span> Working heroic center</p>
+            <h3>Sylvan Elaria</h3>
+            <p class="character-role">The archivist who refuses the easy victory · appears about 40</p>
+            <p>Sylvan can expose the King through provenance, contradiction, and common knowledge rather than conquest. His ethical test is whether he can reveal systemic abuse without using George, the other son, or compromised families as disposable evidence.</p>
+            <dl><div><dt>Strength</dt><dd>Evidence and controlled restraint</dd></div><div><dt>Unknown</dt><dd>His history, authority, flaw, and personal cost</dd></div><div><dt>Defining act</dt><dd>Refuses to perform George’s disposal</dd></div></dl>
+          </article>
+          <article class="character-card">
+            <p class="card-status"><span class="status-mark working" aria-hidden="true">◐</span> Working antagonist</p>
+            <h3>The Throne figure</h3>
+            <p class="character-role">The defeated King who claims godhood</p>
+            <p>He converts procedural seniority into false legitimacy, controls his followers through isolated secrets, and treats defeat as a problem of interpretation. His first fully conquered population is the faction that believes it will rule beside him.</p>
+          </article>
+          <article class="character-card">
+            <p class="card-status"><span class="status-mark locked" aria-hidden="true">◆</span> Locked function</p>
+            <h3>The other son</h3>
+            <p class="character-role">The hidden replacement</p>
+            <p>Created or positioned through the King’s abuse of the lineage system, he is evidence, hostage, beneficiary, and succession contingency at once. His personality, knowledge, loyalty, and city mechanism remain unresolved.</p>
+          </article>
+          <article class="character-card">
+            <p class="card-status"><span class="status-mark established" aria-hidden="true">●</span> Established foundation</p>
+            <h3>The legitimate heir cohort</h3>
+            <p class="character-role">Hundreds of future rulers formed together</p>
+            <p>Heirs of the largest and oldest empires share one planetary history. Their parents intend them to inherit with mutual memory, reciprocal accountability, and real relationships across imperial lines—not as isolated instruments of dynastic ambition.</p>
+          </article>
+          <article class="character-card">
+            <p class="card-status"><span class="status-mark established" aria-hidden="true">●</span> Established foundation</p>
+            <h3>The real leaders</h3>
+            <p class="character-role">Ancient rulers with competing good-faith philosophies</p>
+            <p>They disagree over reconciliation, firm boundaries, cultivation, exposure, consent, and stopping rules. They are not motivated by greed or manipulation of their children. They want heirs who are prepared, free, happy, and capable of cooperation at civilization scale.</p>
+          </article>
+        </div>
       </div>
     </section>
 
-    <section class="section" id="world" aria-labelledby="world-title">
-      <div class="section-heading"><div><p class="eyebrow">World logic</p><h2 id="world-title">The terminal participant-control environment</h2></div><p>The environment becomes an observational chamber for command responsibility once the visible weapon can no longer plausibly win.</p></div>
-      <div class="world-stack" role="list" aria-label="World system layers">
-        <article role="listitem"><span class="stack-index">Layer 1</span><div><h3>Competitive sequence</h3><p>Sylvan's strongest influence segment arrives last, with no scheduled reversal afterward.</p></div></article>
-        <article role="listitem"><span class="stack-index">Layer 2</span><div><h3>Manufactured narrative</h3><p>Story functionality keeps George convinced the attack remains meaningful and winnable.</p></div></article>
-        <article role="listitem"><span class="stack-index">Layer 3</span><div><h3>Remote command</h3><p>The father continues directing or shaping action through George, the Daemon, institutions, social influence, and online environments.</p></div></article>
-        <article role="listitem"><span class="stack-index">Layer 4</span><div><h3>Succession incentive</h3><p>The unauthorized heir creates a concrete beneficiary if George is blamed, destroyed, or processed.</p></div></article>
-        <article role="listitem"><span class="stack-index">Layer 5</span><div><h3>Evidence of responsibility</h3><p>The longer the hopeless campaign continues, the more clearly the environment reveals who is actually making decisions.</p></div></article>
-      </div>
-      <div class="principle-grid">
-        <article><span aria-hidden="true">01</span><h3>The visible attacker may not be the commander</h3><p>George's actions matter, but the final environment can distinguish instrument from authority.</p></article>
-        <article><span aria-hidden="true">02</span><h3>Hopeless orders are evidence</h3><p>Who continues an unwinnable campaign reveals motive and responsibility.</p></article>
-        <article><span aria-hidden="true">03</span><h3>Succession changes motive</h3><p>A hidden replacement heir makes George's destruction useful to his father.</p></article>
-        <article><span aria-hidden="true">04</span><h3>Restraint preserves evidence</h3><p>Sylvan learns more by refusing automatic retaliation than by completing the King's plan for him.</p></article>
-      </div>
-    </section>
+    <section class="systems-section section" id="systems" aria-labelledby="systems-title">
+      <div class="content-shell">
+        <div class="section-heading compact-heading">
+          <div>
+            <p class="section-kicker">How the world works</p>
+            <h2 id="systems-title">Six systems power the narrative</h2>
+          </div>
+          <p>The infrastructure is civilization-scale, divided, and constrained. It can shape environments without making human choice meaningless.</p>
+        </div>
+        <div class="systems-grid">
+          <article><span>01</span><h3>Constructed colonization world</h3><p>A biologically real civilization established by synthetics, designed for settlement, development, containment, and eventual placement.</p></article>
+          <article><span>02</span><h3>Influence allocation</h3><p>Competing plans receive bounded influence over opportunity, resources, friction, timing, and institutional support. No participant simply controls reality.</p></article>
+          <article><span>03</span><h3>Story functionality</h3><p>Three layers coexist: operational reality, the public story, and a sealed record that preserves provenance and the history of revision.</p></article>
+          <article><span>04</span><h3>Personal AI development</h3><p>AI companions grow alongside individuals. Lumina supports contact with reality; George’s Daemon has been corrupted through manipulated memory, evidence, and fear.</p></article>
+          <article><span>05</span><h3>Behavioral recurrence</h3><p>People can reappear across identities and admired public biographies. Investigators detect recurrence through behavioral signatures rather than appearance.</p></article>
+          <article><span>06</span><h3>Public phase change</h3><p>When sealed evidence becomes common knowledge before an audience able to act, hidden influence loses the information asymmetry that made it powerful.</p></article>
+        </div>
 
-    <section class="section" id="questions" aria-labelledby="questions-title">
-      <div class="section-heading questions-heading"><div><p class="eyebrow">Decision surface</p><h2 id="questions-title">Open questions</h2></div><p>These are preserved questions, not gaps to resolve silently.</p></div>
-      <div class="filter-bar" role="search"><label for="atlas-search">Filter questions and research</label><div class="filter-control"><input id="atlas-search" type="search" name="atlas-search" placeholder="Try “heir”, “George”, or “succession”" autocomplete="off"><button id="clear-search" type="button" hidden>Clear filter</button></div><p id="filter-status" class="filter-status" role="status" aria-live="polite"></p></div>
-      <div class="question-groups">
-        <details open><summary><span>Succession betrayal</span><span class="question-count">8 questions</span></summary><ul><li data-filter-item>Was the sequencing change deliberate, opportunistically exploited, reckless, or accidental?</li><li data-filter-item>When did the King decide George had become expendable?</li><li data-filter-item>What exactly is unauthorized about the secret heir?</li><li data-filter-item>How was the breeding program manipulated to create or position that heir?</li><li data-filter-item>Who knows the heir exists before the endgame?</li><li data-filter-item>What does the King gain if George is destroyed or processed?</li><li data-filter-item>How does the King expect to transfer blame onto George?</li><li data-filter-item>What happens if the contained faction realizes George is being replaced?</li></ul></details>
-        <details><summary><span>Terminal environment</span><span class="question-count">7 questions</span></summary><ul><li data-filter-item>What exact authority allows the King to position Sylvan's strongest segment at the end?</li><li data-filter-item>Why is there no scheduled reversal after Sylvan's terminal advantage?</li><li data-filter-item>What does overwhelming influence let Sylvan do without making him omnipotent?</li><li data-filter-item>What visible signs show that George can no longer realistically win?</li><li data-filter-item>What does the King expect Sylvan to do to George?</li><li data-filter-item>What evidence shows the terminal environment was meant to dispose of George?</li><li data-filter-item>Why can the system not simply correct the sequence?</li></ul></details>
-        <details><summary><span>Command responsibility</span><span class="question-count">7 questions</span></summary><ul><li data-filter-item>Who continues authorizing attacks once defeat is obvious?</li><li data-filter-item>Who keeps choreographing signs for George?</li><li data-filter-item>Who refuses direct negotiation with Sylvan?</li><li data-filter-item>Who benefits most if George disappears?</li><li data-filter-item>Which acts remain uniquely George's responsibility?</li><li data-filter-item>What pattern lets Sylvan distinguish George's agency from paternal command?</li><li data-filter-item>How does processing later separate responsibility among leader, instrument, followers, and agents?</li></ul></details>
-        <details><summary><span>Story functionality and George</span><span class="question-count">6 questions</span></summary><ul><li data-filter-item>Which staged signs convince George that Sylvan is weakening?</li><li data-filter-item>What signs imply George's father still believes in him?</li><li data-filter-item>When does narrative maintenance become more important than defeating Sylvan?</li><li data-filter-item>What specific contradiction could make George question whether the final campaign was ever winnable?</li><li data-filter-item>What happens if the signs suddenly stop?</li><li data-filter-item>Which revelation about the succession betrayal would George find hardest to absorb?</li></ul></details>
-        <details><summary><span>Leadership and aftermath</span><span class="question-count">5 questions</span></summary><ul><li data-filter-item>How does Sylvan refuse to become the mechanism that disposes of George?</li><li data-filter-item>What behavioral cooperation must the group accept before earning a city?</li><li data-filter-item>What internal autonomy remains protected?</li><li data-filter-item>What does reality-based processing look like if cooperation fails?</li><li data-filter-item>Does exposing the succession betrayal change the contained group's willingness to follow the King?</li></ul></details>
-      </div>
-      <div id="no-results" class="empty-state" hidden><h3>No matching questions or reports</h3><p>Try a character name, system, or broader story term.</p><button id="empty-clear" type="button">Clear filter</button></div>
-    </section>
-
-    <section class="section" id="research" aria-labelledby="research-title">
-      <div class="section-heading"><div><p class="eyebrow">Advisory library</p><h2 id="research-title">Research supporting the next decisions</h2></div><p>Research supplies mechanisms and constraints. It becomes story material only through deliberate development decisions.</p></div>
-      <div class="research-grid">
-        <article data-filter-item><span class="report-number">01</span><h3>Life after epistemic captivity</h3><p>Useful for George discovering that the final campaign and his larger life were both manufactured around him.</p></article>
-        <article data-filter-item><span class="report-number">05</span><h3>The disposable heir</h3><p>Most directly relevant to counterfeit succession, blame absorption, proxy action, and replacement heirs.</p></article>
-        <article data-filter-item><span class="report-number">06</span><h3>Responsibility under manipulation</h3><p>Supports separating George's culpability from the father's command responsibility.</p></article>
-        <article data-filter-item><span class="report-number">08</span><h3>Constrained civilization-scale power</h3><p>Supports the terminal influence environment without giving Sylvan unlimited authority.</p></article>
-        <article data-filter-item><span class="report-number">09</span><h3>Submarine epistemology</h3><p>Supports the signs, controlled interpretation, and George's inability to see the larger succession maneuver.</p></article>
+        <aside class="three-records" aria-labelledby="records-title">
+          <div>
+            <p class="section-kicker">Story functionality</p>
+            <h3 id="records-title">One event can exist in three records</h3>
+          </div>
+          <ol>
+            <li><strong>Operational reality</strong><span>What occurred, who acted, and what the consequences were.</span></li>
+            <li><strong>Public story</strong><span>What institutions and populations are allowed or encouraged to believe.</span></li>
+            <li><strong>Sealed record</strong><span>Original evidence, revisions, provenance, permissions, and command responsibility.</span></li>
+          </ol>
+        </aside>
       </div>
     </section>
 
-    <section class="section" id="roadmap" aria-labelledby="roadmap-title">
-      <div class="section-heading"><div><p class="eyebrow">Creative trajectory</p><h2 id="roadmap-title">Recommended decision sequence</h2></div><p>Test the succession betrayal first. If it holds, it unifies several of the strongest existing story mechanisms.</p></div>
-      <ol class="roadmap-list">
-        <li><span class="roadmap-step">1</span><div><h3>Choose the betrayal model</h3><p>Decide how deliberate the sequencing change actually was.</p></div><span class="status status-next">Next</span></li>
-        <li><span class="roadmap-step">2</span><div><h3>Define the unauthorized heir</h3><p>Clarify creation, legality, secrecy, intended succession, and the breeding-program abuse.</p></div><span class="status status-unresolved">Queued</span></li>
-        <li><span class="roadmap-step">3</span><div><h3>Lock the terminal environment</h3><p>Specify Sylvan's final influence, remaining constraints, and absence of a later reversal.</p></div><span class="status status-unresolved">Queued</span></li>
-        <li><span class="roadmap-step">4</span><div><h3>Build the command trail</h3><p>Show who keeps the attack alive after George's defeat becomes obvious.</p></div><span class="status status-unresolved">Queued</span></li>
-        <li><span class="roadmap-step">5</span><div><h3>Define Sylvan's refusal</h3><p>Make clear why he does not simply destroy George and complete the King's plan.</p></div><span class="status status-unresolved">Queued</span></li>
-        <li><span class="roadmap-step">6</span><div><h3>Connect disclosure to the contained faction</h3><p>Decide what happens when the group realizes its king may have sacrificed his acknowledged heir for a secret replacement.</p></div><span class="status status-unresolved">Queued</span></li>
-        <li><span class="roadmap-step">7</span><div><h3>Return to the opening</h3><p>Use the clarified betrayal to choose the best viewpoint and evidence trail into the story.</p></div><span class="status status-unresolved">Queued</span></li>
-      </ol>
-      <aside class="continuity-alert" aria-labelledby="continuity-title"><div class="alert-mark" aria-hidden="true">!</div><div><p class="card-label">Working possibility</p><h3 id="continuity-title">The King may have expected Sylvan to throw George away for him.</h3><p>Do not lock that motive until the sequencing authority and unauthorized heir are defined, but preserve it because it unifies George's weaponization, scapegoating, the breeding-program abuse, the final influence arrangement, and the father's refusal to stop the story.</p></div></aside>
+    <section class="evidence-section section" id="evidence" aria-labelledby="evidence-title">
+      <div class="content-shell evidence-layout">
+        <div class="evidence-intro">
+          <p class="section-kicker">Sylvan’s decisive weapon</p>
+          <h2 id="evidence-title">An evidence package that destroys the story coordinating the faction</h2>
+          <p>Sylvan does not need every follower to believe him. He needs enough authenticated evidence to make isolated secrets mutually visible. The regime collapses when its story can no longer coordinate behavior.</p>
+          <blockquote>They were never the King’s hidden conquerors. They were his hostages, kept obedient by the belief that captivity was victory.</blockquote>
+        </div>
+        <ol class="evidence-sequence">
+          <li><span>01</span><div><h3>Prove the original defeat</h3><p>Establish that the city, country, empire, and conquest apparatus were destroyed rather than strategically dispersed.</p></div></li>
+          <li><span>02</span><div><h3>Place the lie beside the plan</h3><p>Compare the King’s description of George before defeat with the incompatible False Victory he tells afterward.</p></div></li>
+          <li><span>03</span><div><h3>Reveal the aggregate lineage pattern</h3><p>Use anonymized, authenticated records to prove decades of systematic manipulation without publishing children’s private identities.</p></div></li>
+          <li><span>04</span><div><h3>Create common knowledge</h3><p>Notify compromised leaders privately and simultaneously, then prove that each “isolated” secret belongs to the same system.</p></div></li>
+          <li><span>05</span><div><h3>Connect secrecy to obedience</h3><p>Show how blackmail, certification, revised history, and public roles produced later political compliance.</p></div></li>
+          <li><span>06</span><div><h3>Expose succession and command</h3><p>Reveal the other son, George’s intended disposal, and the orders that continue after victory is impossible.</p></div></li>
+        </ol>
+      </div>
     </section>
 
-    <section class="section source-section" aria-labelledby="source-title">
-      <div><p class="eyebrow">Source of truth</p><h2 id="source-title">This atlas summarizes the vault. It does not replace it.</h2><p>Story notes preserve status and nuance; research remains advisory; the author has final authority.</p></div>
-      <div class="source-links"><a class="button button-secondary" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/02%20Story/Systems/Competitive%20Environments%20-%20Control%20Inversion%20and%20Sylvan%20Endgame.md">Read the competitive-environments note</a><a class="button button-secondary" href="https://github.com/cubixmeow-commits/seeds-of-the-throne">Browse the story vault</a></div>
+    <section class="progress-section section" id="progress" aria-labelledby="progress-title">
+      <div class="content-shell">
+        <div class="section-heading compact-heading">
+          <div>
+            <p class="section-kicker">Building in public</p>
+            <h2 id="progress-title">What changed in the latest development cycle</h2>
+          </div>
+          <p>The project now has a coherent historical beginning and a sharper reason for the final confrontation. The opening and middle are the next frontier.</p>
+        </div>
+        <div class="progress-grid">
+          <article><p class="progress-date">August 9</p><h3>The parent civilization came into focus</h3><p>The elder rulers, their competing philosophies, the shared heir cohort, delayed parenthood, and happiness as a leadership qualification became central foundations.</p></article>
+          <article><p class="progress-date">August 9–10</p><h3>Ten new research reports expanded the framework</h3><p>Research now covers heir preparation, shared cohorts, ancient succession, consent, failed accommodation, fair tests, good-governance schools, century-scale stopping rules, shared identity, and flourishing.</p></article>
+          <article><p class="progress-date">August 10</p><h3>The Great War became the beginning</h3><p>The King’s path now runs from entrusted city to captured country, attempted global conquest, total defeat, containment inside the victor, and the False Victory.</p></article>
+          <article><p class="progress-date">August 10</p><h3>The evidence package became systemic</h3><p>The breeding and lineage program, private blackmail, George’s false public function, the hidden heir, and command responsibility now converge in Sylvan’s archive.</p></article>
+          <article><p class="progress-date">August 10</p><h3>The antagonist’s endpoint became total control</h3><p>The god-ruler doctrine now explains why the King cannot accept independent institutions, families, histories, identities, or interpretations—and why his own faction is his first conquered population.</p></article>
+          <article class="progress-next"><p class="progress-date">Next</p><h3>Turn architecture into scenes</h3><p>Choose the narrator, opening contradiction, first human cost, archive discovery path, and the sequence that carries the reader from ordinary life into the hidden war.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="session-section section" id="next-session" aria-labelledby="session-title">
+      <div class="content-shell">
+        <div class="session-header">
+          <div>
+            <p class="section-kicker light-kicker">Guide for the next development session</p>
+            <h2 id="session-title">Build the reader’s path into the story</h2>
+          </div>
+          <p>The foundation and endgame are strong. The next session should stop adding systems long enough to choose a protagonist, an opening event, and the first evidence trail that makes the world personal.</p>
+        </div>
+
+        <div class="session-grid">
+          <article class="agenda-panel">
+            <h3>Work in this order</h3>
+            <ol>
+              <li><span>01</span><div><strong>Choose the opening viewpoint</strong><p>Decide whether Sylvan narrates, whether the Witness or Inheritor remains separate, and whose ordinary desire is interrupted by the first contradiction.</p></div></li>
+              <li><span>02</span><div><strong>Choose the opening scene</strong><p>Place it in a concrete location, give the viewpoint character an immediate objective, and let one recurrence or record inconsistency create trouble.</p></div></li>
+              <li><span>03</span><div><strong>Define Sylvan before the archive</strong><p>Give him a pre-story desire, authority, flaw, formative relationship, reason to record, and something he can lose.</p></div></li>
+              <li><span>04</span><div><strong>Select the first decisive proof</strong><p>Choose one comprehensible abuse, one harmed person or consequence, one authentication method, and one denial the evidence defeats.</p></div></li>
+              <li><span>05</span><div><strong>Build the opening-to-archive chain</strong><p>Map the first ally, first retaliation, corrupting offer, point of no return, and the moment the False Victory becomes the larger explanation.</p></div></li>
+              <li><span>06</span><div><strong>Pressure-test the endgame</strong><p>Choose George’s first informed action, the cost of Sylvan’s restraint, the audience that can act, and the first fracture inside the contained faction.</p></div></li>
+            </ol>
+          </article>
+
+          <aside class="decision-panel" aria-labelledby="decisions-title">
+            <h3 id="decisions-title">Questions to answer before the session ends</h3>
+            <ul>
+              <li>Who narrates the opening, and why is this their story?</li>
+              <li>What do they want before the hidden conflict reaches them?</li>
+              <li>What immediate loss prevents the discovery from staying intellectual?</li>
+              <li>How old is George when he enters the future victor, and under what identity?</li>
+              <li>What is the first archive item the audience can understand instantly?</li>
+              <li>Why can Sylvan neither publish everything immediately nor be eliminated quietly?</li>
+              <li>Which audience has the authority to make exposure consequential?</li>
+              <li>What action is George already performing when the truth reaches him?</li>
+              <li>What does Sylvan lose by refusing the easy victory?</li>
+              <li>What does the other son do after the False Victory collapses?</li>
+            </ul>
+          </aside>
+        </div>
+
+        <div class="deliverables" aria-labelledby="deliverables-title">
+          <div><p class="section-kicker light-kicker">Definition of done</p><h3 id="deliverables-title">Leave with six usable story artifacts</h3></div>
+          <ol>
+            <li><span>01</span><strong>One-paragraph protagonist definition</strong></li>
+            <li><span>02</span><strong>A beat-by-beat opening scene</strong></li>
+            <li><span>03</span><strong>The first authenticated archive proof</strong></li>
+            <li><span>04</span><strong>An opening-to-midpoint investigation chain</strong></li>
+            <li><span>05</span><strong>George’s final informed action</strong></li>
+            <li><span>06</span><strong>Sylvan’s cost and the first aftermath fracture</strong></li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="questions-section section" aria-labelledby="questions-title">
+      <div class="content-shell questions-layout">
+        <div>
+          <p class="section-kicker">Still deliberately unresolved</p>
+          <h2 id="questions-title">The story is understandable now. These decisions will make it narratable.</h2>
+        </div>
+        <div class="question-groups">
+          <section aria-labelledby="q-protagonist"><h3 id="q-protagonist">Protagonist</h3><ul><li>Is Sylvan the first-person narrator?</li><li>How do the Witness and Inheritor relate to him?</li><li>What personal relationship makes the archive emotionally costly?</li></ul></section>
+          <section aria-labelledby="q-middle"><h3 id="q-middle">Opening and middle</h3><ul><li>What concrete trouble begins the book?</li><li>How does recurrence lead to the False Victory?</li><li>What offer tests the protagonist’s ethics before the endgame?</li></ul></section>
+          <section aria-labelledby="q-end"><h3 id="q-end">Endgame</h3><ul><li>What exact audience can act on Sylvan’s proof?</li><li>What triggers the public phase change?</li><li>What does George choose, and what survives through the other son?</li></ul></section>
+          <section aria-labelledby="q-names"><h3 id="q-names">World detail</h3><ul><li>Final names for the King, countries, war, and institutions</li><li>George’s placement identity and legal mechanism</li><li>The physical limits of influence, processing, and sealed records</li></ul></section>
+        </div>
+      </div>
     </section>
   </main>
-  <footer><p><strong>Seeds of the Throne</strong> development system</p><p>Current through August 9, 2026 · Research is advisory, not canon.</p></footer>
+
+  <footer class="site-footer">
+    <div class="content-shell footer-grid">
+      <div>
+        <p class="footer-title">Seeds of the Throne</p>
+        <p>A living creative-development record. Research is advisory; working ideas remain provisional; final story decisions belong to the author.</p>
+      </div>
+      <nav aria-label="Source material">
+        <a href="https://github.com/realiainreid/Seeds-of-the-Throne">Browse the source vault on GitHub</a>
+        <a href="#top">Return to the beginning</a>
+      </nav>
+    </div>
+  </footer>
 </body>
 </html>

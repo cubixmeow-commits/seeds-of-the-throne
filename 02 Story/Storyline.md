@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-06
+updated: 2026-08-10
 ---
 
 # Storyline
@@ -11,9 +11,14 @@ updated: 2026-08-06
 1. A long-lived civilization develops colonization worlds that also function as containment and leadership-cultivation systems.
 2. Synthetics establish a complete civilization before most humans enter it.
 3. Contained people and cultivated heirs are integrated under different conditions and with incomplete knowledge.
-4. A contained criminal arrives early, claims false institutional legitimacy, and builds a kingdom within the environment.
-5. Competing groups fight an invented world war. Defeated leaders are recast into public identities rather than simply executed.
-6. The Throne's concealed bargains, certifications, and genealogical records become unstable and contribute to the Disclosure Wars.
+4. A contained authoritarian receives stewardship of a city and converts the opportunity into control of a country.
+5. Before his original city falls, he places his son George inside the large pluralistic republic that will become the principal victor.
+6. The authoritarian uses national power for an attempted global conquest, producing the Great War.
+7. The conquest regime is defeated. Its empire collapses and surviving leaders are integrated into public containment roles inside the victorious order.
+8. The King claims George secretly captured the victor and that visible defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
+9. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
+10. A breeding and lineage program inherited from the fallen empire continues inside containment. The King manipulates reproduction, genealogy, and certification to blackmail leading families through the racist purity doctrine they enforce.
+11. The Throne's concealed bargains, lineage fraud, blackmail, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
 ## Thread A — the Witness
 
@@ -27,7 +32,8 @@ Roughly eighty years later, a modern heir awakens through the language of survei
 
 The protagonist discovers that the public record preserves containment roles under admirable biographies. The conflict eventually becomes public, removing the concealment and information asymmetry on which the strongest contained adversaries depend. Victory must remain costly.
 
+Sylvan's archive can connect the King's pre-defeat description of George to the contradictory post-defeat False Victory, then connect private lineage interventions to later blackmail and political obedience. The challenge is to expose the system without publicly sacrificing George, the other son, or children whose parentage the King weaponized.
+
 ## Unresolved structure
 
-The tested first-person protagonist may replace, merge with, or remain separate from the Witness and Inheritor. The exact ordering of the Fall, Disclosure Wars, and narrated threads remains open.
-
+The tested first-person protagonist may replace, merge with, or remain separate from the Witness and Inheritor. The exact relation between the Great War, Witness, Disclosure Wars, Sylvan's archive, and narrated opening remains open.
