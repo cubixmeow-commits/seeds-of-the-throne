@@ -37,6 +37,16 @@ Possible methods remain working rather than fixed:
 
 The exact mechanism must preserve responsibility, victimization, and evidentiary plausibility without treating reproductive abuse as decorative shock.
 
+## Konrad Falkner and the original initiative
+
+Konrad Falkner is the faction's original ideological and genealogical leader. The breeding program is his most cherished initiative and the practical expression of his purity doctrine.
+
+Konrad maintains an incestuous reproductive relationship with his sister in an attempt to preserve what he considers a uniquely valuable closed lineage. Their son and daughter become the principal dictator-and-partner figures of the faction during the Great War.
+
+Repeated inbreeding creates a problem the faction cannot acknowledge without undermining its doctrine. Samuel Veyr claims he can solve it while preserving the fiction of purity. His promises may include genetic repair, removal of hereditary defects, embryo selection, or the production of supposedly exceptional abilities. The exact technical claim remains unresolved, but it must be attractive enough that Konrad grants Samuel extraordinary access to genetic material, procedures, certification, and hidden lineage records.
+
+Konrad is both deceived and culpable. Samuel corrupts the initiative, but Konrad creates it, treats people as hereditary instruments, centralizes its authority, and suppresses doubts because he wants Samuel's promise to be true.
+
 ## Why he targets the entire organization
 
 After the Great War, the King's authority rests on the False Victory. He fears that other contained leaders will realize they lost everything and that George never captured the victorious republic.
@@ -85,7 +95,7 @@ The danger to the King is not merely exposure of individual parentage. It is syn
 
 The other son is one strategically important instance of the larger program.
 
-He is secretly created through the King's abuse of the reproductive system involving the wife of another contained leader. His parentage provides:
+He is secretly created through Samuel's abuse of the reproductive system involving Konrad Falkner's sister. His parentage provides:
 
 - evidence of unauthorized reproductive intervention;
 - leverage over a rival family;
@@ -95,6 +105,12 @@ He is secretly created through the King's abuse of the reproductive system invol
 - proof connecting private abuse to the King's public political survival.
 
 His importance does not make him responsible for the circumstances of his creation. He is a person whose privacy, loyalties, and future must not be reduced to evidentiary value.
+
+## George and Konrad's daughter
+
+Samuel also arranges a separate unauthorized reproductive intervention involving George and Konrad's daughter. This gives Samuel leverage over another generation of the Falkner line and connects George's function in the False Victory to the breeding scandal.
+
+The resulting child, timing, method, and degree of George's or the daughter's knowledge remain unresolved. Neither person should be treated as culpable merely because Samuel uses their reproductive material or parentage in a political design.
 
 ## Sylvan's archive
 
@@ -145,6 +161,9 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - Each target was encouraged to believe its case was isolated.
 - Common knowledge that the pattern is widespread can collapse the leverage.
 - The other son is a strategically important example of a larger pattern.
+- The other son is created using Samuel and Konrad Falkner's sister.
+- A separate unauthorized intervention involves George and Konrad's daughter.
+- Konrad's surrender of the program to Samuel makes him culpable in the system that ultimately violates his own family.
 - Sylvan possesses evidence linking reproductive abuse, lineage fraud, blackmail, political obedience, succession, and False Victory.
 - Sylvan should prove the system without indiscriminately exposing children or private parentage.
 
@@ -158,5 +177,7 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - Which victim first realizes the pattern extends beyond one family?
 - What evidence can Sylvan reveal without identifying children?
 - Does the other son know his parentage and intended political function?
+- What problem caused by repeated inbreeding does Samuel claim to have solved for Konrad?
+- What roles do Konrad's son and daughter occupy before and during the Great War?
+- What results from the intervention involving George and Konrad's daughter?
 - How does the contained organization react when its purity doctrine becomes the source of collective humiliation and control?
-

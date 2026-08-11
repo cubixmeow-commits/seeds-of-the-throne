@@ -10,7 +10,7 @@ This is the locked macro sequence for the foundational war. It establishes causa
 
 ## Locked macro sequence
 
-1. The future King receives stewardship of a city inside a country suffering conditions analogous in function to a deeply unstable pre-authoritarian state: political fragmentation, institutional weakness, social and economic crisis, humiliation, polarization, and demand for restoration. Final story data will use wholly invented nations, movements, and history rather than Earth or Nazi Germany.
+1. Samuel Veyr, the future King, receives stewardship of a city inside a country suffering conditions analogous in function to a deeply unstable pre-authoritarian state: political fragmentation, institutional weakness, social and economic crisis, humiliation, polarization, and demand for restoration. Final story data will use wholly invented nations, movements, and history rather than Earth or Nazi Germany.
 
 2. He converts the city opportunity into a larger political movement and eventually captures the country. The city becomes the foundation of his regime and later of the faction that follows him into containment.
 
@@ -22,7 +22,7 @@ This is the locked macro sequence for the foundational war. It establishes causa
 
 6. George is processed into containment inside the future enemy country. During the Great War he ultimately occupies the public role of president of that country.
 
-7. The King then launches the Great War and attempts actual conquest. His preferred outcome is genuine external victory. George's presence inside the primary target functions as insurance: if the conquest fails, the King can later reinterpret George's containment placement as a successful infiltration.
+7. The King then launches the Great War and attempts actual conquest. His preferred outcome is genuine external victory. Konrad Falkner directly supports and helps initiate the war, supplying the purity doctrine, breeding-program legitimacy, and the central dynastic family around which the regime organizes itself. George's presence inside the primary target functions as insurance: if the conquest fails, the King can later reinterpret George's containment placement as a successful infiltration.
 
 8. The war fails catastrophically. The King's faction loses its country and its founding city. Its surviving leadership is defeated and processed into containment. By ordinary measures, the conquest project has completely failed.
 

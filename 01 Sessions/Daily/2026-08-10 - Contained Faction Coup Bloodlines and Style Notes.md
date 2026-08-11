@@ -13,17 +13,21 @@ These are development notes from the author's August 10 brainstorming. They cont
 
 The contained criminals are distributed through many countries and environments. Those countries correspond to projects and civilizations being built by different groups of real leaders. Contained participants may negotiate or make deals concerning where they enter the containment process, creating a web of old alliances, obligations, rivalries, and placements rather than one centralized prison population.
 
-One major contained faction carries an explicitly authoritarian, racist, blood-purity ideology analogous in function to Nazi ideology but represented through wholly invented people, movements, and history. Its acknowledged internal leader is not initially the Throne figure. Another contained man is regarded as the faction's ideological and bloodline leader.
+One major contained faction carries an explicitly authoritarian, racist, blood-purity ideology analogous in function to Nazi ideology but represented through wholly invented people, movements, and history. Its acknowledged internal leader is not initially Samuel Veyr. **Konrad Falkner** is regarded as the faction's ideological and bloodline leader.
 
-That ideological leader is obsessed with constructing what he regards as a pure dynastic bloodline, including an incestuous reproductive relationship with his own sister. His ideology gives blood, ancestry, reproduction, and hereditary legitimacy enormous political importance.
+Konrad is obsessed with constructing what he regards as a pure dynastic bloodline, including an incestuous reproductive relationship with his own sister. Their son and daughter are products of that program and become the central dictator-and-partner figures of the faction during the Great War. Konrad's ideology gives blood, ancestry, reproduction, and hereditary legitimacy enormous political importance.
+
+Konrad is a true fanatic. Unlike Samuel, who wants personal glory, attention, and the appearance of royalty, Konrad genuinely believes the purity doctrine should govern civilization. The breeding program is his most cherished initiative.
 
 ## The Throne's fixation and route into power
 
-The future Throne figure develops an intense fixation on this ideological leader. The fixation does not need to be sexual. It can combine envy, rivalry, resentment, fascination, and a desire to possess or appropriate what the other man claims makes him special.
+Samuel develops an intense fixation on Konrad. The fixation does not need to be sexual. It can combine envy, rivalry, resentment, fascination, and a desire to possess or appropriate what Konrad claims makes him special.
 
 The Throne does not initially own the contained faction's ideological legitimacy. He manipulates his way around and eventually above the recognized leader.
 
-One route is medical and reproductive expertise. He claims access to techniques, resources, certification systems, or secrets capable of preserving or improving the faction's supposedly pure bloodlines. Because the faction has made ancestry central to its identity, this gives the Throne leverage over something its members consider existential.
+One route is medical and reproductive expertise. Samuel claims he can solve a problem caused by the Falkner line's repeated inbreeding while preserving its supposed purity. He may promise to remove hereditary damage, repair genetic weaknesses, or unlock exceptional abilities through embryo selection and advanced intervention. Because Konrad has made the breeding initiative central to the faction's future, he gives Samuel access to genetic material, procedures, certification systems, and lineage records.
+
+Samuel then turns that access against the Falkner family. He arranges an unauthorized reproductive intervention involving George and Konrad's daughter. Separately, Samuel uses Konrad's sister to create the replacement heir intended to succeed George. Samuel therefore penetrates both generations of the supposedly closed Falkner line while presenting himself as its technical savior.
 
 The later False Victory gives him the second half of his coup. After the Great War destroys the faction's original state and discredits its existing leadership, the Throne claims that George has secretly captured the crown jewel of the real leaders' empire. A defeated population looking for proof that its project survived begins treating the Throne as its salvation.
 
@@ -48,7 +52,23 @@ The result should be satisfying partly because the faction built a worldview int
 
 ## The Throne as failed privileged heir
 
-A major new working possibility is that the Throne is himself a failed privileged heir from the older civilization.
+### Locked decision — Samuel Veyr
+
+The Throne figure's permanent name is **Samuel Veyr**.
+
+Samuel is the failed child of wealthy, highly successful technology leaders. In the author's shorthand, he is a failed nepo baby attempting to present himself as royalty. He grows up near extraordinary software, AI, institutional power, wealth, and civilizational opportunity, but proximity never becomes earned competence or legitimate stewardship.
+
+His family background also establishes his route into containment. His parents' position gives him access to consequential resources and systems; Samuel chooses to manipulate that access and commit serious abuses. He is genuinely busted and processed because of his own conduct. His parents explain the scale of opportunity he could misuse, not an excuse for his choices.
+
+Samuel manipulates his parents and gains control over part of their wealth, technology, institutional access, or other resources. He uses the credibility attached to their names to build a cult-like organization and terrorize large groups of people across multiple places. The harm is distributed rather than confined to one private family conflict. Samuel becomes extremely dangerous while making his organization appear connected to, authorized by, or descended from his parents' legitimate work.
+
+His campaign effectively destroys much of his parents' public credibility and legacy. Their eventual effort to expose, stop, and contain him is therefore both a duty to the people he is harming and an attempt to establish the truth: Samuel's movement is his creation, not theirs. They need to end his rampage and recover enough credibility to prevent their institutions, technologies, and achievements from remaining permanently identified with his abuses.
+
+This motive does not automatically absolve them. Later development should determine how long they underestimated him, whether they protected him before understanding the scale of the danger, what warning signs they missed, and whether their concern for reputation ever conflicted with protecting his victims.
+
+The ordinary respectability of **Samuel** is useful. He does not need a fabricated demonic or royal name. **Veyr** gives him the severe dynastic sound he wants, while the gap between his actual biography and the royalty he performs remains visible.
+
+Samuel Veyr is himself a failed privileged heir from the older civilization.
 
 His parents or older family belong to an earlier generation of extremely successful technological leaders. They helped build major fortunes or institutions in advanced software and technology. They failed badly in raising him, and he later gains access to some of their wealth, resources, or institutional inheritance. He manipulates them and commits serious abuses rather than becoming the capable successor his circumstances appeared to promise.
 
@@ -62,9 +82,9 @@ The Throne is also intensely misogynistic. His hatred of women should function a
 
 ## The unauthorized son
 
-The Throne eventually creates an unauthorized son using the sister of the faction's recognized ideological/bloodline leader.
+Samuel eventually creates an unauthorized son using Konrad Falkner's sister.
 
-The act is connected to the Throne's fixation on that rival and to the rival's claim that his family represents an exceptional or godlike bloodline. The Throne is, in effect, appropriating something the rival believes belongs uniquely to his lineage while simultaneously violating the reproductive order he claims to protect.
+The act is connected to Samuel's fixation on Konrad and to Konrad's claim that the Falkner family represents an exceptional or godlike bloodline. Samuel is, in effect, appropriating something Konrad believes belongs uniquely to his lineage while simultaneously violating the reproductive order he claims to protect.
 
 The exact motive remains open and can combine jealousy, possession, succession strategy, humiliation, experimentation, and the desire to manufacture his own claim on the rival's supposedly sacred bloodline.
 
@@ -89,6 +109,8 @@ Those accumulated acts are ultimately what make Sylvan dangerous. He does not br
 The faction eventually tears itself apart through contradictions accumulated across the century. The Throne's control depended on keeping families isolated, presenting abuses as exceptional, and maintaining the False Victory. Sylvan's showdown threatens to make the pattern visible at once.
 
 The faction then has to confront several incompatible facts: its old leadership was defeated; the Throne gained power through a false account of George; its purity ideology enabled systematic lineage manipulation; the man claiming to preserve its bloodlines violated them; George may have been deliberately sacrificed; and the unauthorized successor may embody the Throne's private attempt to escape into a new technological dynasty.
+
+Konrad is exposed alongside Samuel. He was directly involved in beginning and losing the Great War, trusted Samuel's False Victory because it preserved the faction's ideological meaning, and surrendered control of the breeding program to a man promising impossible results. Samuel betrayed him, but Konrad created the doctrine, institution, and access structure that made the betrayal possible.
 
 ## Writing-style notes for later tonight
 
