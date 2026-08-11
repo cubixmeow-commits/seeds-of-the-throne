@@ -10,7 +10,7 @@ Work through these one at a time in the next brainstorming sessions. The purpose
 
 ## Current sequence
 
-1. [ ] **Lock the foundational Great War sequence.** Define the concrete escalation from city stewardship to national capture, attempted global conquest, defeat, and the beginning of the False Victory. Build an 8–12 event backbone.
+1. [x] **Lock the foundational Great War sequence.** Macro sequence locked in [[02 Story/Events/The Foundational Great War and False Victory]]. The King rises from city stewardship to national capture, deliberately gets George busted before the war as a strategic contingency, launches a genuine conquest, loses his state and city, and then converts George's real containment presidency into the False Victory. **Expansion deferred:** after this list is complete, build the large middle-story event chronology and refine the war in detail.
 
 2. [ ] **Decide whose eyes we see the foundational history through.** Choose whether the opening is directly experienced, reconstructed later through records and recurrence, or split across viewpoints.
 
@@ -39,6 +39,10 @@ Work through these one at a time in the next brainstorming sessions. The purpose
 14. [ ] **Define the order of George's final discoveries.** Decide when he learns that the empire lost, his successes were manufactured, his father is still controlling his perceptions, the final fight was unwinnable, another heir exists, and that his father may have deliberately sent him to be destroyed.
 
 15. [ ] **Give the central world permanent invented names.** Name the King, his original state or city, the defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
+
+## After this list
+
+Build out the **large middle-story sequence of events**. Expand the locked Great War macro architecture into the detailed political rise, George's breakdown and processing, the war itself, the defeat, containment transition, century of False Victory, and the events connecting that history to the modern endgame.
 
 ## Session principle
 
