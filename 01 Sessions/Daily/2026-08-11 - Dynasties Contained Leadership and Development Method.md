@@ -16,6 +16,27 @@ The senior contained-criminal group should become a specific cast rather than an
 - These senior criminals are the **fathers / parent generation** of people who are later placed directly into reconstructed environments. They themselves operate from a position of contained privilege, luxury, management access, and distance while influencing descendants and participants inside the world.
 - George belongs to the inserted descendant generation, not this senior management generation.
 
+### Konrad's inheritance doctrine: continuity without succession
+
+A critical clarification: **Konrad's obsession with inheritance is not about eventually surrendering power to his descendants. It is about reproducing the hierarchy while preventing succession.**
+
+Konrad wants the family line, ideology, bloodline, institutions, and status system to continue indefinitely, but he and the senior generation are meant to remain at the top. Their children and later descendants are not being prepared to replace them as autonomous rulers. They are expected to remain subordinate, loyal, dependent, and submissive to the parent generation.
+
+For Konrad, therefore, inheritance means:
+
+- descendants inherit **identity, duty, doctrine, status, and obligation**, but not ultimate authority;
+- younger generations extend the founders' power rather than supersede it;
+- the family tree is designed vertically, with authority continuing to flow upward toward the senior generation;
+- children can occupy prestigious offices and exercise delegated power while remaining politically and psychologically beneath their fathers;
+- succession becomes dangerous because a genuinely independent heir could challenge the permanent authority of the patriarchs;
+- the breeding program is consequently not just about bloodline purity. It is also a mechanism for manufacturing continuity, dependency, loyalty, and hierarchy across generations.
+
+This makes the contained faction a distorted dynasty: it celebrates inheritance while refusing the central implication of inheritance, that one generation eventually gives way to another.
+
+It also sharply distinguishes Konrad's family model from the legitimate dynasties. The real leaders are attempting to **prepare their children to become real leaders in their own right**. Konrad is attempting to create descendants who can carry his power without ever becoming independent enough to take it from him.
+
+This should remain a major thematic foundation.
+
 ## Samuel Franklin as the outsider inside the alliance
 
 Samuel is increasingly distinct from Konrad's ideological core.
@@ -26,7 +47,9 @@ A future development task is to determine a **serious hidden transgression or pr
 
 ### Working direction: inheritance as Samuel's private obsession
 
-Konrad's faction treats ancestry, bloodline, family continuity, hereditary identity, and succession as sacred. Samuel comes from almost the inverse emotional experience: he is the failed heir of an enormously successful family, surrounded by inheritance while believing that the inheritance he deserved was denied to him.
+Konrad's faction treats ancestry, bloodline, family continuity, hereditary identity, and hierarchical continuity as sacred. Crucially, this does **not** mean Konrad intends for descendants to inherit his place at the top. His descendants inherit membership in his order and obligations to it while the senior generation attempts to preserve permanent authority over them.
+
+Samuel comes from almost the inverse emotional experience: he is the failed heir of an enormously successful family, surrounded by inheritance while believing that the inheritance he deserved was denied to him.
 
 Rather than rejecting hereditary entitlement, Samuel becomes increasingly obsessed with proving that **other people's inheritance is fraudulent, vulnerable, or undeserved too**.
 
@@ -42,7 +65,7 @@ The specific hidden transgression remains **unresolved**. Do not lock it until t
 
 ### The central misreading
 
-This creates a stronger reason for the alliance. Konrad sees Samuel's resentment, authoritarianism, elitism, and willingness to harm others and mistakes those traits for ideological solidarity. Samuel sees a movement organized around sacred inheritance and realizes it possesses exactly the institutions he wants access to.
+This creates a stronger reason for the alliance. Konrad sees Samuel's resentment, authoritarianism, elitism, and willingness to harm others and mistakes those traits for ideological solidarity. Samuel sees a movement organized around sacred ancestry and permanent patriarchal control and realizes it possesses exactly the institutions he wants access to.
 
 Konrad believes Samuel corrupts the breeding program only after their alliance deteriorates. A stronger eventual revelation may be that **corrupting inheritance was one of Samuel's reasons for wanting access to the faction from the beginning**.
 
@@ -50,11 +73,11 @@ This does not rehabilitate Konrad or his movement. It creates competing forms of
 
 ### Three-way inheritance argument
 
-The emerging thematic contrast is:
+The thematic contrast is now more precise:
 
-- **Konrad:** inheritance must be purified and preserved.
-- **Samuel:** inheritance is a weapon; if mine was denied, yours can be destroyed.
-- **Sylvan:** inheritance creates obligations that an heir must become worthy of carrying.
+- **Konrad:** inheritance preserves the hierarchy. Descendants inherit identity and obligation, while the patriarchs retain power and remain at the top.
+- **Samuel:** inheritance is a weapon; if mine was denied, yours can be corrupted or destroyed.
+- **Sylvan:** inheritance creates obligations, including the obligation of the older generation to prepare the next generation to become capable and independent leaders in their own right.
 
 All three therefore engage the same deeper question from radically different positions: **what does one generation have the right to do with the next?**
 
