@@ -38,7 +38,7 @@ Work through these one at a time in the next brainstorming sessions. The purpose
 
 14. [ ] **Define the order of George's final discoveries.** Decide when he learns that the empire lost, his successes were manufactured, his father is still controlling his perceptions, the final fight was unwinnable, another heir exists, and that his father may have deliberately sent him to be destroyed.
 
-15. [ ] **Give the central world permanent invented names.** **King locked: Samuel Veyr.** Still name his original state or city, the defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
+15. [ ] **Give the central world permanent invented names.** **King locked: Samuel Franklin.** Still name his original state or city, the defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
 
 ## After this list
 

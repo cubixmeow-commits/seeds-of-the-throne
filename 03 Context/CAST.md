@@ -6,7 +6,7 @@ updated: 2026-08-10
 
 # Cast
 
-Names remain functional designations unless stated otherwise. **Samuel Veyr**, **Konrad Falkner**, **George White**, and **Sylvan Elaria** are established names.
+Names remain functional designations unless stated otherwise. **Samuel Franklin**, **Konrad Fitzgerald**, **George White**, and **Sylvan Elaria** are established names.
 
 ## The Witness
 
@@ -20,13 +20,13 @@ Modern-era heir and possible Thread B protagonist. Competent, advantaged, and pl
 
 The tested first-person narrator. Follows a recurrence clue into questions about a supposedly settled war and the continued survival of defeated leaders. May be the Witness, the Inheritor, or a third character. This is unresolved.
 
-## Samuel Veyr
+## Samuel Franklin
 
 Contained authoritarian and failed privileged heir who turns city stewardship into national capture and the Great War's failed global-conquest project. His wealthy, highly successful technology-leader parents give him access to extraordinary opportunity and consequential systems. Samuel manipulates them, captures some of their resources, builds a distributed cult, and terrorizes large populations while trading on their credibility. His parents eventually help expose and contain him to stop the harm and separate their legacy from his organization. After defeat, Samuel claims George secretly captured the victorious republic and uses the False Victory to convert containment into apparent covert rule. His power rests on story influence, information, certification, manipulated genealogy, reproductive abuse, individualized lineage blackmail, and promises that are coming due. His performed royalty compensates for his failure to become a legitimate successor to his parents.
 
-## Konrad Falkner
+## Konrad Fitzgerald
 
-Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Falkner lineage, has a son and daughter with his sister, and helps place those children at the center of the Great War regime. He gives Samuel control of the program after Samuel claims he can solve the hereditary consequences of inbreeding while preserving or enhancing the line. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
+Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister, and helps place those children at the center of the Great War regime. He gives Samuel control of the program after Samuel claims he can solve the hereditary consequences of inbreeding while preserving or enhancing the line. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
 
 ## George White
 
@@ -38,4 +38,4 @@ Younger leader preserving evidence that compares the sealed reality record with 
 
 ## The other son
 
-Secretly created through Samuel's abuse of the breeding program involving Konrad Falkner's sister. He is a strategically important instance of a wider lineage-blackmail pattern and a possible succession contingency after George, but remains a person rather than merely evidence.
+Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister. He is a strategically important instance of a wider lineage-blackmail pattern and a possible succession contingency after George, but remains a person rather than merely evidence.

@@ -3,15 +3,15 @@ type: character
 status: working
 name_status: established
 updated: 2026-08-10
-character: Samuel Veyr
+character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, failed privileged heir
 ---
 
-# Samuel Veyr
+# Samuel Franklin
 
 ## Established identity
 
-**Samuel Veyr** is the permanent name of the contained criminal who becomes the King at the center of the Throne.
+**Samuel Franklin** is the permanent name of the contained criminal who becomes the King at the center of the Throne.
 
 Samuel is born into a wealthy and exceptionally successful family of technology leaders in the older human civilization. His parents help build major software, AI, institutional, or technological systems. Their position gives Samuel access to education, wealth, networks, consequential tools, and a plausible path toward legitimate leadership.
 
@@ -23,7 +23,7 @@ Samuel manipulates his family, abuses access created by their achievements, and 
 
 Before becoming the King inside containment, Samuel builds an earlier cult-like organization using resources and credibility taken from his family.
 
-He manipulates his parents and gains control over some combination of their wealth, technology, institutional relationships, infrastructure, or public authority. He presents inherited access as evidence of personal importance and uses the trusted Veyr name to attract followers, secure cooperation, and make his organization appear more legitimate than it is.
+He manipulates his parents and gains control over some combination of their wealth, technology, institutional relationships, infrastructure, or public authority. He presents inherited access as evidence of personal importance and uses the trusted Franklin name to attract followers, secure cooperation, and make his organization appear more legitimate than it is.
 
 The organization spreads across multiple places and terrorizes large groups of people. Samuel's danger is therefore established before the city, the Great War, and the False Victory. Containment does not manufacture his authoritarian behavior; it gives an already dangerous organizer a controlled environment in which his choices can be observed, limited, and ultimately exposed.
 

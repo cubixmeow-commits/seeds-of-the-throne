@@ -17,8 +17,8 @@ Foundation and story architecture. The immediate work is to turn strong mechanis
 - Competing groups of good-faith real leaders testing reconciliation, boundaries, cultivation, and evidence through the same colonization process.
 - Hidden influence allocation delivered through an overwhelmingly synthetic society.
 - A contained criminal who converts seniority into false legitimacy and builds a throne inside the system.
-- Samuel Veyr, a failed child of wealthy technology leaders who captures family resources and credibility to build a distributed cult, terrorizes large populations, is genuinely processed into containment, and later performs royalty to compensate for legitimacy he never earned.
-- Konrad Falkner, the faction's original ideological patriarch and breeding-program architect, whose fanaticism gives Samuel the institution, family access, and legitimacy required for the internal coup.
+- Samuel Franklin, a failed child of wealthy technology leaders who captures family resources and credibility to build a distributed cult, terrorizes large populations, is genuinely processed into containment, and later performs royalty to compensate for legitimacy he never earned.
+- Konrad Fitzgerald, the faction's original ideological patriarch and breeding-program architect, whose fanaticism gives Samuel the institution, family access, and legitimacy required for the internal coup.
 - A beginning in which city stewardship becomes national capture, global conquest, the Great War, total defeat, and a century-long False Victory.
 - George placed inside the future victor before the fall and later used as living proof that containment is covert conquest.
 - Story functionality that preserves public cover-ups while a sealed record accumulates underneath.

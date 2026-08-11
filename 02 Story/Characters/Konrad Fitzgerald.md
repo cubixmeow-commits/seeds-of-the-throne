@@ -3,21 +3,21 @@ type: character
 status: working
 name_status: established
 updated: 2026-08-10
-character: Konrad Falkner
+character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, contained criminal
 ---
 
-# Konrad Falkner
+# Konrad Fitzgerald
 
 ## Established identity
 
-**Konrad Falkner** is the original ideological and genealogical leader of the contained authoritarian purity faction.
+**Konrad Fitzgerald** is the original ideological and genealogical leader of the contained authoritarian purity faction.
 
-Konrad is a true fanatic. Samuel Veyr wants personal glory, attention, and the appearance of royalty. Konrad genuinely believes that ancestry should determine human value, political authority, reproduction, and civilization's future. He is willing to subordinate himself and his family to that doctrine.
+Konrad is a true fanatic. Samuel Franklin wants personal glory, attention, and the appearance of royalty. Konrad genuinely believes that ancestry should determine human value, political authority, reproduction, and civilization's future. He is willing to subordinate himself and his family to that doctrine.
 
 The breeding program is Konrad's most cherished initiative.
 
-## The Falkner line
+## The Fitzgerald line
 
 Konrad claims that his family carries an exceptional hereditary line destined to produce civilization's rightful rulers. To keep it closed, he maintains an incestuous reproductive relationship with his sister.
 
@@ -33,7 +33,7 @@ Samuel presents himself as the person who can resolve the contradiction. He clai
 
 The promise gives Samuel access to:
 
-- genetic material belonging to the Falkner family;
+- genetic material belonging to the Fitzgerald family;
 - reproductive procedures and embryo selection;
 - hidden genealogy and parentage records;
 - certification authority;
@@ -46,7 +46,7 @@ Konrad accepts the arrangement because Samuel offers scientific-looking confirma
 
 Samuel secretly converts technical access into dynastic control.
 
-He arranges an unauthorized reproductive intervention involving George and Konrad's daughter. He separately uses Konrad's sister to create his own replacement heir. Samuel therefore inserts his succession strategy into two generations of the supposedly closed Falkner line.
+He arranges an unauthorized reproductive intervention involving George and Konrad's daughter. He separately uses Konrad's sister to create his own replacement heir. Samuel therefore inserts his succession strategy into two generations of the supposedly closed Fitzgerald line.
 
 This is simultaneously political capture, personal humiliation, and evidence that Samuel never served the purity doctrine. He uses the doctrine because it gives him control over people who consider ancestry more important than consent or truth.
 
@@ -57,7 +57,7 @@ Konrad is directly involved in beginning the Great War and destroying the factio
 After catastrophic defeat, Konrad believes Samuel's claim that George captured the victorious republic from within. The False Victory lets him preserve three beliefs he cannot bear to surrender:
 
 1. the Great War did not invalidate the doctrine;
-2. the Falkner project still possesses a historical future;
+2. the Fitzgerald project still possesses a historical future;
 3. the faction's containment roles are covert authority rather than defeat.
 
 Konrad's acceptance gives Samuel credibility among followers who would not initially recognize Samuel as their ideological leader.
@@ -87,7 +87,7 @@ Samuel initially needs Konrad's ideological legitimacy. Konrad initially needs S
 
 Each man believes he is using the other:
 
-- Konrad thinks Samuel is a gifted but subordinate technician who can perfect the Falkner line.
+- Konrad thinks Samuel is a gifted but subordinate technician who can perfect the Fitzgerald line.
 - Samuel thinks Konrad is an ideological relic whose followers, records, and family can be appropriated.
 
 The Great War defeat changes the balance. Samuel's False Victory supplies the strategic authority Konrad no longer possesses. Control of the breeding program supplies the dynastic leverage Samuel previously lacked. Their alliance becomes Samuel's coup.
