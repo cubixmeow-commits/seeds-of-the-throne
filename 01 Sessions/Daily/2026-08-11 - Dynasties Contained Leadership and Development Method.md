@@ -22,9 +22,41 @@ Samuel is increasingly distinct from Konrad's ideological core.
 
 The other contained leaders believe Samuel is fundamentally one of them. In reality he is an outsider whose motives center on jealousy, failed inheritance, resentment, sabotage, acquisition, and control. He is a failed nepo heir who wants to capture or destroy institutions the others believe they own, including their breeding program.
 
-A future development task is to determine a **serious hidden transgression or private conduct** that Samuel engages in and that even this criminal faction considers beyond its acceptable boundary. They do not initially know this truth about him. The specific conduct is deliberately **unresolved** and should not be invented merely to fill the blank. Its story function is more important at this stage: it gives Samuel a concealed incompatibility with the faction, a personal source of grievance or revenge, and a later discovery that reveals they fundamentally misjudged who they admitted into their system.
+A future development task is to determine a **serious hidden transgression or private conduct** that Samuel engages in and that even this criminal faction considers beyond its acceptable boundary. They do not initially know this truth about him. The exact conduct remains deliberately unresolved, but its thematic architecture is beginning to take shape.
 
-The faction's own culpability remains substantial; this distinction does not rehabilitate them. It creates competing forms of criminality and motive inside the contained group.
+### Working direction: inheritance as Samuel's private obsession
+
+Konrad's faction treats ancestry, bloodline, family continuity, hereditary identity, and succession as sacred. Samuel comes from almost the inverse emotional experience: he is the failed heir of an enormously successful family, surrounded by inheritance while believing that the inheritance he deserved was denied to him.
+
+Rather than rejecting hereditary entitlement, Samuel becomes increasingly obsessed with proving that **other people's inheritance is fraudulent, vulnerable, or undeserved too**.
+
+Three connected possibilities should be developed together later:
+
+1. **Desecration of ancestry.** Samuel may take private satisfaction in breaking the relationship between what people believe their family is and what is actually true. Genealogical falsification, manipulated succession, concealed descendants, corrupted records, and uncertainty about lineage can therefore be more than political tools for him. They can attack something he resents at a deeply personal level.
+
+2. **Destruction of inheritance.** A possible core psychology is: if Samuel cannot inherit cleanly, nobody else should be allowed unquestioned inheritance either. Successful dynasties become an affront to him. This gives his later capture of the breeding program a motive deeper than ideology or strategy: it gives him machinery capable of corrupting succession itself.
+
+3. **A concealed incompatibility with the faction's prohibitions.** Samuel may privately participate in, value, desire, practice, or identify with something Konrad's doctrine explicitly persecutes or forbids. The eventual choice should concern conduct, allegiance, practice, philosophy, relationship structure, cultural participation, or another narratively appropriate contradiction without making a protected identity itself the source of villainy. Samuel can recognize the faction as monstrous for persecuting something important to him while simultaneously deciding that this entitles him to destroy what they consider sacred.
+
+The specific hidden transgression remains **unresolved**. Do not lock it until the faction's prohibitions and Samuel's pre-containment history are developed enough for the contradiction to emerge naturally.
+
+### The central misreading
+
+This creates a stronger reason for the alliance. Konrad sees Samuel's resentment, authoritarianism, elitism, and willingness to harm others and mistakes those traits for ideological solidarity. Samuel sees a movement organized around sacred inheritance and realizes it possesses exactly the institutions he wants access to.
+
+Konrad believes Samuel corrupts the breeding program only after their alliance deteriorates. A stronger eventual revelation may be that **corrupting inheritance was one of Samuel's reasons for wanting access to the faction from the beginning**.
+
+This does not rehabilitate Konrad or his movement. It creates competing forms of criminality and a mutual misreading inside the contained group.
+
+### Three-way inheritance argument
+
+The emerging thematic contrast is:
+
+- **Konrad:** inheritance must be purified and preserved.
+- **Samuel:** inheritance is a weapon; if mine was denied, yours can be destroyed.
+- **Sylvan:** inheritance creates obligations that an heir must become worthy of carrying.
+
+All three therefore engage the same deeper question from radically different positions: **what does one generation have the right to do with the next?**
 
 ## The legitimate dynasties
 
@@ -119,7 +151,7 @@ Future work should define at least:
 ## Immediate next development sequence
 
 1. Define and name Konrad Fitzgerald's fanatic partner.
-2. Build Samuel Franklin's real pre-containment history and determine the hidden incompatibility/transgression the faction does not initially know about.
+2. Build Samuel Franklin's real pre-containment history, the faction's explicit prohibitions, and the hidden incompatibility/transgression that turns inheritance into a personal obsession.
 3. Define the four founders of the second-largest empire.
 4. Map and name their eight children, including professional pairings and Great War roles.
 5. Map the later descendant generation and define the woman who becomes Sylvan's partner.
