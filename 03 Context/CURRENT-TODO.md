@@ -14,7 +14,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 2. [ ] **Build Samuel Franklin's real pre-containment history.** Define the failed-nepo-heir trajectory, what he actually did, why he was processed, what his parents or family concealed if anything, and why Konrad's faction misunderstands who he really is.
 
-3. [ ] **Choose Samuel's hidden incompatibility with the faction.** Determine the serious secret conduct or transgression that even this criminal group considers beyond its boundary. It should explain part of Samuel's resentment/revenge and later expose how badly the faction misjudged him. Do not fill this with shock value alone; it needs structural and character consequences.
+3. [ ] **Build Samuel's inheritance obsession and hidden incompatibility with the faction.** First define the faction's explicit prohibitions and sacred ideas around ancestry, bloodline, family continuity, succession, and inheritance. Then determine the concealed practice, allegiance, conduct, or obsession that the faction would openly reject without realizing it is central to Samuel. Develop three linked directions together: Samuel's pleasure in desecrating genealogical certainty, his drive to destroy successful inheritance because he sees himself as a failed heir, and his private connection to something Konrad's doctrine persecutes. The exact transgression remains unresolved until these pieces produce it naturally.
 
 4. [ ] **Define the four founders of the second-largest empire.** Give each founder a distinct role in humanity's success and colonization project, worldview, relationship to the other founders, and reason for participating in the shared leadership-development system.
 
