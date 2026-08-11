@@ -1,51 +1,85 @@
 ---
 type: context
 status: active
-updated: 2026-08-10
+updated: 2026-08-11
 ---
 
 # Current Brainstorming To-Do
 
-Work through these one at a time in the next brainstorming sessions. The purpose of this list is to convert the current macro architecture into specific chronology, characters, evidence, scenes, limits, and choices.
+Work through these one at a time in the next brainstorming sessions. The immediate center of gravity has shifted toward defining the contained-criminal leadership, the legitimate dynasties, Sylvan's unique developmental process, and the approximately eighty-year episodic middle.
 
 ## Current sequence
 
-1. [x] **Lock the foundational Great War sequence.** Macro sequence locked in [[02 Story/Events/The Foundational Great War and False Victory]]. The King rises from city stewardship to national capture, deliberately gets George busted before the war as a strategic contingency, launches a genuine conquest, loses his state and city, and then converts George's real containment presidency into the False Victory. **Expansion deferred:** after this list is complete, build the large middle-story event chronology and refine the war in detail.
+1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
-2. [ ] **Decide whose eyes we see the foundational history through.** Choose whether the opening is directly experienced, reconstructed later through records and recurrence, or split across viewpoints.
+2. [ ] **Build Samuel Franklin's real pre-containment history.** Define the failed-nepo-heir trajectory, what he actually did, why he was processed, what his parents or family concealed if anything, and why Konrad's faction misunderstands who he really is.
 
-3. [ ] **Resolve the Witness / Inheritor / Protagonist structure enough to write.** Decide who owns the reader's primary POV, who carries dangerous historical knowledge, and who represents the new heir generation. They may still be two or three people.
+3. [ ] **Choose Samuel's hidden incompatibility with the faction.** Determine the serious secret conduct or transgression that even this criminal group considers beyond its boundary. It should explain part of Samuel's resentment/revenge and later expose how badly the faction misjudged him. Do not fill this with shock value alone; it needs structural and character consequences.
 
-4. [ ] **Build George's exact pre-defeat placement.** Define his age, public identity, legal or institutional mechanism, who places him, what the victorious republic believes he is, and what his father originally says George is there to accomplish.
+4. [ ] **Define the four founders of the second-largest empire.** Give each founder a distinct role in humanity's success and colonization project, worldview, relationship to the other founders, and reason for participating in the shared leadership-development system.
 
-5. [ ] **Invent the first devastating George document.** Create one clear piece of pre-defeat evidence showing that George's original role contradicts the later claim that he secretly controlled the victor.
+5. [ ] **Map and name the founders' eight children.** Each founder has a son and daughter. Define the eight-person heir cohort, their professional pairings, personalities, specialties, relationships, and Great War placements.
 
-6. [ ] **Work out how the False Victory is sold.** Define the post-defeat scene or sequence in which the King persuades surviving contained leaders that the loss was actually a covert victory through George. Identify the first doubters and why they remain silent.
+6. [ ] **Design the legitimate heirs' Great War roles.** Place members of the eight-person cohort into constrained political, religious, institutional, or other public roles where they must confront the contained faction's authoritarianism and mass abuses without possessing unlimited power.
 
-7. [ ] **Define George's subjective reality during the endgame.** Establish the recurring categories of staged or manipulated evidence that convince him the final campaign remains real and winnable.
+7. [ ] **Map the later descendant generation.** Establish the children born roughly forty to fifty years later, their family relationships, and the lineage leading to the woman who becomes Sylvan's partner. Resolve exact descendant counts only when the genealogy is explicitly mapped.
 
-8. [ ] **Establish hard limits for story functionality.** Decide what it can alter or influence and, equally important, what it cannot rewrite. Preserve meaningful evidence, uncertainty, responsibility, and resistance.
+8. [ ] **Develop Sylvan's partner as a person.** Give her a name, worldview, capabilities, upbringing, relationships, independent ambitions, and reason for choosing Sylvan. Her relationship with him should work personally before it functions as a symbol of eventual cooperation or union between the two great empires.
 
-9. [ ] **Define the Daemon/Lumina relationship to manufactured reality.** Decide whether a corrupted Daemon knowingly deceives its human, is itself deceived, receives corrupted evidence, or operates under conflicting loyalties. Define what happens when it begins detecting staged reality.
+9. [ ] **Define Sylvan's parents and their one-child decision.** Establish the male and female leaders of the largest empire, their history, their role in colonization, why they chose one son, and what they believe Sylvan's unusual process can prove.
 
-10. [ ] **Design Sylvan's first proof rather than his final proof.** Choose a limited, undeniable discovery that causes people to question the King's narrative before the full archive or lineage system is exposed.
+10. [ ] **Define Sylvan's unique developmental process.** Establish how it differs from conventional heir training, what constraints and risks it imposes, what human capacities it is intended to test, and what counts as success or failure.
 
-11. [ ] **Solve the lineage exposure problem ethically.** Determine how Sylvan demonstrates systematic reproductive and genealogical manipulation without publicly exposing individual children or private parentage.
+11. [ ] **Define the unprecedented Lumina outcome.** Explain how Sylvan's experiences transform the AI self developing with him, why no previous Lumina has developed this way, what capabilities or relationship emerge, and what hard limits remain.
 
-12. [ ] **Develop the unauthorized heir as a person rather than a twist.** Give the other son a worldview, relationships, degree of knowledge, personal desires, and agency independent of his succession function.
+12. [ ] **Lock the senior contained-criminal structure.** Map the parent generation operating from contained privilege and management environments, their descendants inserted into reconstructed environments, internal hierarchy, competing motives, and the distinction between ideological believers and opportunists.
 
-13. [ ] **Decide exactly when and how Sylvan realizes George is not truly in command.** Build the discovery as a sequence of observable anomalies, tests, failed attacks, conveniently timed explanations, and evidence of an unseen decision-maker continuously maintaining George's reality.
+13. [ ] **Define the original crimes that caused Konrad's faction to be contained.** Build the concrete fascist political project they attempted before containment: what they tried to seize, whom they harmed, how they failed, what evidence survived, and how those choices foreshadow their later behavior.
 
-14. [ ] **Define the order of George's final discoveries.** Decide when he learns that the empire lost, his successes were manufactured, his father is still controlling his perceptions, the final fight was unwinnable, another heir exists, and that his father may have deliberately sent him to be destroyed.
+14. [ ] **Build the first Great War heir episode.** Turn one legitimate heir's constrained role into a complete smaller story involving a concrete atrocity, institution, choice, failed intervention, partial success, or discovery.
 
-15. [ ] **Give the central world permanent invented names.** **King locked: Samuel Franklin.** Still name his original state or city, the defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
+15. [ ] **Generate the eighty-year middle-story map.** Create an initial sequence of semi-independent episodes across the colonization era that accumulate consequences and eventually converge on Sylvan's endgame.
 
-## After this list
+16. [ ] **Establish hard limits for story functionality and synthetic control.** Define what role technology, mental/physical interfaces, energy systems, and the overwhelmingly synthetic population can enforce or influence, and what they cannot rewrite. Preserve agency, evidence, responsibility, resistance, and meaningful constraints.
 
-Build out the **large middle-story sequence of events**. Expand the locked Great War macro architecture into the detailed political rise, George's breakdown and processing, the war itself, the defeat, containment transition, century of False Victory, and the events connecting that history to the modern endgame.
+17. [ ] **Define the Daemon/Lumina relationship to manufactured reality.** Decide how AI selves receive, interpret, challenge, or become corrupted by staged evidence and what happens when one begins detecting manipulation.
+
+18. [ ] **Build George's exact pre-defeat placement.** Define his age, public identity, legal or institutional mechanism, who places him, what the victorious republic believes he is, and what his father originally says George is there to accomplish.
+
+19. [ ] **Invent the first devastating George document.** Create one clear piece of pre-defeat evidence showing that George's original role contradicts the later claim that he secretly controlled the victor.
+
+20. [ ] **Work out how the False Victory is sold.** Define the post-defeat scene or sequence in which Samuel persuades surviving contained leaders that the loss was actually a covert victory through George. Identify the first doubters and why they remain silent.
+
+21. [ ] **Define George's subjective reality during the endgame.** Establish recurring categories of staged or manipulated evidence that convince him the final campaign remains real and winnable.
+
+22. [ ] **Design Sylvan's first proof rather than his final proof.** Choose a limited, undeniable discovery that causes people to question Samuel's narrative before the full archive or lineage system is exposed.
+
+23. [ ] **Solve the lineage exposure problem ethically.** Determine how Sylvan demonstrates systematic reproductive and genealogical manipulation without publicly exposing individual children or private parentage.
+
+24. [ ] **Decide exactly when and how Sylvan realizes George is not truly in command.** Build the discovery through observable anomalies, tests, failed attacks, conveniently timed explanations, and evidence of an unseen decision-maker continuously maintaining George's reality.
+
+25. [ ] **Define the order of George's final discoveries.** Decide when he learns that the empire lost, his successes were manufactured, his father is still controlling his perceptions, the final fight was unwinnable, another heir exists, and that his father may have deliberately sent him to be destroyed.
+
+26. [ ] **Resolve the Witness / Inheritor / Protagonist structure enough to write.** Decide who owns the reader's primary POV, who carries dangerous historical knowledge, and who represents the new heir generation. They may still be two or three people.
+
+27. [ ] **Define the project's writing registers.** Create a dynamic style framework for: (a) clear and vivid vault/development documentation, (b) sharper cinematic X/public material, and (c) exploratory scene/dialogue development. Do not turn any AI register into the mandatory voice of the final fiction.
+
+28. [ ] **Plan the first handwritten fiction experiment.** Once enough of the skeleton exists, select a contained episode or short-story arc that can be written by hand with pen and notebook using the vault only as reference. Use this as the bridge from AI-assisted development into learning and practicing human fiction writing.
+
+29. [ ] **Give the remaining central world permanent invented names.** Samuel Franklin and Konrad Fitzgerald are locked. Still name Konrad's partner, the great empires and founders, original state/city, defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
+
+## Already locked / preserve
+
+- [x] **Foundational Great War macro sequence.** The rise, conquest, defeat, George contingency, containment transition, and False Victory remain the foundation. Expand later rather than reopening the macro sequence casually.
+- [x] **Development/authorship boundary.** The vault is for AI-assisted development, research, organization, continuity, and experimentation. The intended finished fiction is human-authored, beginning with a possible shorter work written by hand from the developed reference material.
+- [x] **Contradictions remain visible until deliberately resolved.** Do not silently reconcile genealogy, chronology, motives, or mechanisms simply to make the vault look clean.
+
+## Middle-story principle
+
+Treat the approximately eighty-year colonization history as a **story engine**, not an exposition block. Build smaller episodes around different heirs, contained criminals, roles, crises, institutions, relationships, and discoveries. Each should work locally while adding consequences that eventually converge on the Sylvan endgame.
 
 ## Session principle
 
-**Turn explanations into evidence the characters can actually encounter.**
+**Turn explanations into evidence, choices, and situations the characters can actually encounter.**
 
-For each item, prefer concrete artifacts and moments: a record, conversation, failed attack, staged sign, institutional decision, discovery, betrayal, or choice. Once an item is developed, preserve exploration in `01 Sessions/Daily/`, promote settled material into `02 Story/`, update the relevant `03 Context/` files, and record consequential decisions in `07 QA/Decisions.md`.
+For each item, prefer concrete artifacts and moments: a record, conversation, constrained role, failed intervention, staged sign, institutional decision, discovery, betrayal, relationship, or choice. Preserve exploration in `01 Sessions/Daily/`, promote settled material into `02 Story/`, update the relevant `03 Context/` files, and record consequential decisions in `07 QA/Decisions.md`.
