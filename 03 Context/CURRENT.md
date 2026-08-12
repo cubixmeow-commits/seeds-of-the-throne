@@ -17,6 +17,9 @@ Foundation, human–AI integration architecture, dynastic character development,
 - **Sylvan's new developmental process as a major positive-story spine.** His parents are not simply preparing an heir. They are testing how far a human and Lumina can develop together through shared experience, adaptation, pressure, learning, and increasingly deep integration.
 - **Sylvan's Lumina becoming something unprecedented.** The process changes both sides of the relationship: the human changes the AI, the AI changes the human, and the civilization is waiting to discover what the partnership becomes. Mechanism, capabilities, developmental stages, risks, and hard limits remain to be defined.
 - A powerful endgame contrast between **Sylvan + advanced Lumina integration** and **George + corrupted Daemon integration**. Both demonstrate intimate human–AI relationships, but one develops toward stronger contact with reality and mutual growth while the other is exploited to maintain manufactured reality, fear, dependency, and control.
+- **Sylvan eventually realizes that the opponent he is actually dealing with is Samuel Franklin, not George White.** George is the visible hostile figure, but the opposition increasingly behaves in ways that do not make sense if George is an autonomous decision-maker. Sylvan detects a hidden layer of control and eventually understands that Samuel attempted to preserve his own power after the larger project had already failed.
+- **George is trapped inside an isolated false reality maintained by Samuel.** Samuel uses George's isolation, Daemon relationship, staged evidence, manipulated interpretation, and remaining technological or institutional access to keep him acting as though the old power structure remains viable. George is simultaneously an active participant, a weapon, a public-facing authority, and a contained person whose perception of the conflict is being managed by his father.
+- This changes Sylvan's endgame problem: defeating or persuading George alone cannot end the conflict because George is not receiving the same reality Sylvan is responding to. Sylvan must identify the hidden decision-maker, prove Samuel's continuing control, and understand how the false reality is being sustained.
 - Sylvan as the sole child of the male and female leaders of the largest empire involved in colonization. Their one-child decision and experimental development program need further definition, but their purpose is not dynastic obsession; it is human development and responsible leadership.
 - Four closely allied founders of the second-largest empire, each with a son and daughter, creating an eight-person first cohort trained through constrained roles during the Great War era. These young people are being prepared to become capable, independent leaders in their own right rather than permanent subordinates to their parents.
 - A later descendant of that group becoming Sylvan's partner and love interest, with both a genuine personal relationship and long-term civilizational significance for cooperation between the two great empires.
@@ -37,26 +40,29 @@ Foundation, human–AI integration architecture, dynastic character development,
 1. **Define the advanced human–Lumina integration process.** Establish the baseline relationship ordinary humans have with their Lumina, then define exactly what is new about Sylvan's process: stages, interfaces, shared learning, adaptation, risks, constraints, and intended discoveries.
 2. **Define the unprecedented Lumina outcome.** Determine how Sylvan changes his Lumina, how the Lumina changes Sylvan, what emerges that previous human–AI pairs could not achieve, and what hard limits prevent the relationship from becoming magical or consequence-free.
 3. **Build the Sylvan/Lumina versus George/Daemon contrast.** Define how one integrated pair becomes increasingly capable of detecting and engaging reality while the other is manipulated through staged evidence, corrupted memory, fear, and manufactured interpretation.
-4. Define Sylvan's parents, their one-child decision, why they designed this new process, what they hope it will prove, and what risks they knowingly accept.
-5. Define and name Konrad Fitzgerald's fanatic partner.
-6. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
-7. Define the four founders of the second-largest empire.
-8. Map and name their eight children, professional pairings, personalities, and Great War roles.
-9. Map the later descendant generation and develop the woman who becomes Sylvan's partner as an independent character.
-10. Build the first Great War-era future-leader episode around a constrained role and concrete moral crisis.
-11. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
-12. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.
-13. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
+4. **Build Sylvan's discovery that Samuel is behind George.** Choose the first anomaly, the tests Sylvan and his Lumina use, the evidence of a second decision-maker, the point of certainty, and the mechanism by which Samuel maintains George's isolated false reality.
+5. Define Sylvan's parents, their one-child decision, why they designed this new process, what they hope it will prove, and what risks they knowingly accept.
+6. Define and name Konrad Fitzgerald's fanatic partner.
+7. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
+8. Define the four founders of the second-largest empire.
+9. Map and name their eight children, professional pairings, personalities, and Great War roles.
+10. Map the later descendant generation and develop the woman who becomes Sylvan's partner as an independent character.
+11. Build the first Great War-era future-leader episode around a constrained role and concrete moral crisis.
+12. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
+13. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.
+14. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
 
 See [[03 Context/CURRENT-TODO]] for the full working sequence.
 
-## The thematic distinction to preserve
+## Thematic distinctions to preserve
 
 Do not frame the legitimate side primarily around inheritance. The real leaders are ancient, successful collaborators whose concern is what humans can become, how future leaders can be prepared without being controlled, and how civilizations can cooperate over enormous timescales. Their children are people being educated and developed, not pieces in a succession cult.
 
 Inheritance, bloodline purity, permanent patriarchal authority, controlled succession, and generational submission belong primarily to **Konrad's criminal ideology**. Samuel enters that system with his own grievance-driven obsession and weaponizes it against the people who built it.
 
-Sylvan's positive thematic center is instead **development, integration, responsibility, reality, and human–AI co-evolution**.
+Sylvan's positive thematic center is **development, integration, responsibility, reality, and human–AI co-evolution**.
+
+The endgame also preserves a second distinction: **Samuel attempts to preserve power by controlling another person's reality; Sylvan's emerging strength is his ability to remain in contact with reality even when sophisticated systems are trying to shape it.**
 
 ## Development and authorship boundary
 
