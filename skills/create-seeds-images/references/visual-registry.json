@@ -15,6 +15,8 @@
       "near-black cinematic ground",
       "antique gold light used for evidence, truth, integration, and constructive power",
       "deep crimson and ember red used for coercion, corruption, false authority, and fracture",
+      "living green used for growth, repair, adaptation, cultivation, and ecological intelligence",
+      "clear blue used for communication, coordination, shared infrastructure, and interplanetary connection",
       "monumental gothic architecture fused with restrained future technology",
       "fine sacred geometry, orbital diagrams, branching circuitry, crowns, archives, and throne motifs",
       "painterly photorealism with tactile skin, cloth, metal, smoke, dust, and luminous linework",
@@ -28,11 +30,15 @@
       "ember_red": "#C7241C",
       "antique_gold": "#C28A32",
       "luminous_gold": "#F1CF68",
+      "living_green": "#71C987",
+      "system_blue": "#67AEE8",
       "parchment": "#D4BE98"
     },
     "composition_rules": [
       "Use darkness as negative space rather than filling every area with detail.",
       "Keep red and gold narratively separated until a scene deliberately brings them into conflict.",
+      "Use green for living development and repair, not as a generic positive glow.",
+      "Use blue for connection and coordinated systems, not as generic cyberpunk atmosphere.",
       "Use geometry as an information or reality system, not as decoration alone.",
       "Reserve clean space for typography on poster and website compositions.",
       "Generate artwork without text whenever exact copy matters."
