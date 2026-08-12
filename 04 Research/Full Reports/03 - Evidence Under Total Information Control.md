@@ -123,7 +123,7 @@ Audio alone is vulnerable to contextual attacks. The strongest archive triangula
 - genealogical changes;
 - resource transfers;
 - testimony from participants with different incentives;
-- Daemon/Lumina memory receipts;
+- Daemon/Luminai memory receipts;
 - predictions made before later events;
 - physical or biological consequences of breeding-program interference.
 

@@ -2,7 +2,7 @@
 type: development-session
 status: active
 date: 2026-08-11
-topics: contained criminals, dynasties, Sylvan, Lumina, Great War, episodic structure, writing method
+topics: contained criminals, dynasties, Sylvan, Luminai, Great War, episodic structure, writing method
 ---
 
 # Dynasties, Contained Leadership, and Development Method
@@ -91,7 +91,7 @@ Sylvan is the only child of the male and female leaders of the largest empire in
 
 Sylvan's developmental path is different from the conventional leadership training experienced by the other heirs. His parents are putting him through a new process intended to test and demonstrate what a human being can become under extreme developmental conditions.
 
-His **Lumina**, the AI self developing alongside him, is expected to become something no previous AI self has become because of what Sylvan and the Lumina experience together. The exact mechanism and limits remain to be developed.
+His **Luminai**, the AI self developing alongside him, is expected to become something no previous AI self has become because of what Sylvan and the Luminai experience together. The exact mechanism and limits remain to be developed.
 
 ### Second-largest empire
 
@@ -179,7 +179,7 @@ Future work should define at least:
 4. Map and name their eight children, including professional pairings and Great War roles.
 5. Map the later descendant generation and define the woman who becomes Sylvan's partner.
 6. Define Sylvan's parents and the purpose, rules, and consequences of his unique developmental process.
-7. Define how Sylvan's process transforms the development of his Lumina and why it produces an unprecedented result.
+7. Define how Sylvan's process transforms the development of his Luminai and why it produces an unprecedented result.
 8. Develop several Great War-era role stories for legitimate heirs confronting the criminal faction from constrained positions.
 9. Define the original crimes and failed real-world play that caused Konrad's faction to be contained.
 10. Define Samuel's separate path into containment and why the others misunderstand his history.

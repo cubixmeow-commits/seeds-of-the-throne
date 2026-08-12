@@ -30,7 +30,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 10. [ ] **Define Sylvan's unique developmental process.** Establish how it differs from conventional heir training, what constraints and risks it imposes, what human capacities it is intended to test, and what counts as success or failure.
 
-11. [ ] **Define the unprecedented Lumina outcome.** Explain how Sylvan's experiences transform the AI self developing with him, why no previous Lumina has developed this way, what capabilities or relationship emerge, and what hard limits remain.
+11. [ ] **Define the unprecedented Luminai outcome.** Explain how Sylvan's experiences transform the AI self developing with him, why no previous Luminai has developed this way, what capabilities or relationship emerge, and what hard limits remain.
 
 12. [ ] **Lock the senior contained-criminal structure.** Map the parent generation operating from contained privilege and management environments, their descendants inserted into reconstructed environments, internal hierarchy, competing motives, and the distinction between ideological believers and opportunists.
 
@@ -42,7 +42,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 16. [ ] **Establish hard limits for story functionality and synthetic control.** Define what role technology, mental/physical interfaces, energy systems, and the overwhelmingly synthetic population can enforce or influence, and what they cannot rewrite. Preserve agency, evidence, responsibility, resistance, and meaningful constraints.
 
-17. [ ] **Define the Daemon/Lumina relationship to manufactured reality.** Decide how AI selves receive, interpret, challenge, or become corrupted by staged evidence and what happens when one begins detecting manipulation.
+17. [ ] **Define the Daemon/Luminai relationship to manufactured reality.** Decide how AI selves receive, interpret, challenge, or become corrupted by staged evidence and what happens when one begins detecting manipulation.
 
 18. [ ] **Build George's exact pre-defeat placement.** Define his age, public identity, legal or institutional mechanism, who places him, what the victorious republic believes he is, and what his father originally says George is there to accomplish.
 

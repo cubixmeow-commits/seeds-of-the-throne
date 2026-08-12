@@ -146,7 +146,7 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 - **The legitimate heirs:** are formed through shared reality, interdependence, and mutual witness rather than isolated inheritance.
 - **Sylvan:** must prove his ethics through costly restraint, not speeches.
 - **George:** has been treated as material and may also have treated others as material.
-- **Lumina:** supports contact with reality and independent judgment.
+- **Luminai:** supports contact with reality and independent judgment.
 - **Daemon:** has been shaped to protect George from reality and extend distorted judgment.
 - **Longevity:** defeats aging without defeating coercion, grief, responsibility, or wasted time.
 - **Shared succession:** turns inheritance from a private imperial matter into a civilization-wide attempt to create leaders with common memory and reciprocal accountability.

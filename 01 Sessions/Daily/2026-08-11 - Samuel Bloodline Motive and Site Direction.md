@@ -130,7 +130,7 @@ Promising primitives already identified:
 
 - interactive mind maps for relationships and hidden control structures;
 - layered archive/evidence interfaces for operational reality vs public story vs sealed record;
-- human/Lumina diagrams showing co-development;
+- human/Luminai diagrams showing co-development;
 - false-reality diagrams showing Samuel → George → Daemon control;
 - character dossiers rather than generic cards;
 - historical timelines that behave like recovered records;

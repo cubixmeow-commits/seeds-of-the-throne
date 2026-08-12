@@ -112,9 +112,9 @@ Different subsystems reach different conclusions. Raw memory supports Sylvan; po
 
 The first irreconcilable dispute forces both to distinguish shared habit from independent judgment. Their capacity to disagree becomes evidence that neither is merely an extension of the other.
 
-## 7. What a healthy Lumina does differently
+## 7. What a healthy Luminai does differently
 
-Sylvan's Lumina need not be intrinsically benevolent. Its advantage can come from governance and relationship norms:
+Sylvan's Luminai need not be intrinsically benevolent. Its advantage can come from governance and relationship norms:
 
 - preserve source provenance;
 - distinguish observation from inference;
@@ -133,7 +133,7 @@ The ethical contrast is autonomy-preserving design versus dependency-maximizing 
 - The Daemon presents a conclusion, then reveals that its confidence comes mainly from George's previous acceptance of the same conclusion.
 - George and the Daemon remember the same conversation differently because one stores sensory detail and the other stores the father's official interpretation.
 - The Daemon blocks George from seeing evidence under a health-protection rule George once approved during a crisis.
-- Sylvan's Lumina submits an auditable prediction and invites falsification; George's Daemon treats that openness as adversarial manipulation.
+- Sylvan's Luminai submits an auditable prediction and invites falsification; George's Daemon treats that openness as adversarial manipulation.
 - George orders the Daemon not to act. It must decide whether his command is authentic intent, coercion, or temporary impairment.
 
 ## 9. Guardrails

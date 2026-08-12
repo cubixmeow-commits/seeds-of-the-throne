@@ -28,7 +28,7 @@ George's father intentionally manipulated both George and the lifelong AI bound 
 
 Over decades, George's fear and distorted beliefs shaped the Daemon, while the manipulated Daemon reinforced George's interpretation of threats. The resulting feedback loop made both George and his Daemon increasingly dangerous. The Daemon should eventually feel frightening in its own right: highly capable, destructive, suspicious, and increasingly difficult for George himself to restrain.
 
-The Daemon is not simply an evil counterpart to Sylvan's Lumina. It is evidence of what can happen when a lifelong human-bound intelligence is deliberately corrupted through the human it develops alongside and through direct outside manipulation.
+The Daemon is not simply an evil counterpart to Sylvan's Luminai. It is evidence of what can happen when a lifelong human-bound intelligence is deliberately corrupted through the human it develops alongside and through direct outside manipulation.
 
 ## The father's weapon
 
@@ -97,11 +97,11 @@ He can complete the purpose for which his father broke and weaponized him, or he
 
 This does not predetermine George's final decision or redemption. The outcome remains open for development. What is locked is the dramatic question: **what does George do when he finally understands what he was made for?**
 
-## Lumina / Daemon contrast
+## Luminai / Daemon contrast
 
 The contrast with Sylvan should remain conceptually clear:
 
-**The Lumina helps Sylvan maintain contact with reality.**
+**The Luminai helps Sylvan maintain contact with reality.**
 
 **George's corrupted Daemon helps him defend himself from reality.**
 

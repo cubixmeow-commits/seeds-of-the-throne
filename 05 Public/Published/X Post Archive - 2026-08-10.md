@@ -263,12 +263,12 @@ This is source material for a future X/build-in-public page. Public story excerp
 
 > Everyone in Seeds of the Throne learns the same comforting rule.
 > 
-> The Lumina are there to help you.
+> The Luminai are there to help you.
 > The Daemons are there to destroy you.
 > 
 > It is a useful distinction.
 > 
-> Right up until someone discovers that Lumina and Daemon are not descriptions of what these things are.
+> Right up until someone discovers that Luminai and Daemon are not descriptions of what these things are.
 > 
 > They are
 

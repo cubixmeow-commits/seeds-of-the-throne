@@ -2,7 +2,7 @@
 
 **Date:** 2026-08-07  
 **Status:** Research support only — NOT CANON  
-**Purpose:** Establish a clean technical foundation for the five systems currently most important to story development: Lumina/Daemon lifelong agents, manufactured perception, weighted influence, synthetic humans, and hidden environmental control.
+**Purpose:** Establish a clean technical foundation for the five systems currently most important to story development: Luminai/Daemon lifelong agents, manufactured perception, weighted influence, synthetic humans, and hidden environmental control.
 
 > **Research rule:** This report does not rewrite the story to fit current science. It identifies real technological ancestors, the extrapolation required by the premise, and the most useful constraints/failure modes. Canon remains author-controlled.
 
@@ -20,18 +20,18 @@ The strongest foundation is to treat the civilization's technology as a **layere
 4. **Biological fabrication** — engineered human bodies allow constructed populations to inhabit artificial worlds while appearing entirely natural.
 5. **Environmental computation** — sensing, simulation, communications, power and actuation are embedded into the world itself.
 
-The key insight is that the **Lumina/Daemon is the bridge between the human mind and every other layer**. It does not need literal magical telepathy. If it has spent a century learning one person, receives rich physiological/neural/contextual signals, controls information access, and communicates through a technologically saturated environment, its interaction can *feel* like an extension of thought.
+The key insight is that the **Luminai/Daemon is the bridge between the human mind and every other layer**. It does not need literal magical telepathy. If it has spent a century learning one person, receives rich physiological/neural/contextual signals, controls information access, and communicates through a technologically saturated environment, its interaction can *feel* like an extension of thought.
 
 The most useful distinction going forward is therefore:
 
-- **Lumina/Daemon = personal cognitive interface and representative.**
+- **Luminai/Daemon = personal cognitive interface and representative.**
 - **Planetary system = infrastructure.**
 
 The personal agent does not need to contain the civilization's entire intelligence. It authenticates its human, remembers them, predicts them, communicates with them, negotiates for them, filters information for them, and requests services from much larger systems.
 
 ---
 
-# 1. Lumina and Daemon — The Human-Bound AI
+# 1. Luminai and Daemon — The Human-Bound AI
 
 ## Story Requirement
 
@@ -39,7 +39,7 @@ A person receives an AI companion at or near birth. The agent grows alongside th
 
 The same underlying technology develops differently under two cultures:
 
-- **Lumina** — the term used by the constructive leadership culture.
+- **Luminai** — the term used by the constructive leadership culture.
 - **Daemon** — the term used by the contained/criminal culture.
 
 The distinction should primarily be cultural, developmental and governance-based rather than two unrelated technologies.
@@ -54,7 +54,7 @@ This strongly supports a story architecture in which a century-old personal agen
 
 ## Best Extrapolation
 
-A mature Lumina/Daemon should be imagined as four persistent components:
+A mature Luminai/Daemon should be imagined as four persistent components:
 
 ### Identity
 A cryptographic identity establishes that this is *your* agent and records legitimate succession across hardware and software replacements.
@@ -86,11 +86,11 @@ A 2025 Stanford study demonstrated real-time decoding of imagined speech from im
 
 The fictional breakthrough is therefore **not 'AI suddenly reads minds.'** It is the convergence of lifelong prediction with dramatically improved intention interfaces.
 
-## Lumina vs. Daemon
+## Luminai vs. Daemon
 
 The most technically interesting version is that they start from the **same basic machine**.
 
-A Lumina culture could train the relationship around independence, truthfulness, explicit consent, reversible delegation, uncertainty and disagreement.
+A Luminai culture could train the relationship around independence, truthfulness, explicit consent, reversible delegation, uncertainty and disagreement.
 
 A Daemon culture could optimize the relationship around obedience, acquisition of leverage, standing authority, concealment and extension of the owner's will.
 
@@ -100,9 +100,9 @@ Over a century, those different incentives could produce radically different hum
 
 This gives George White's Daemon particular importance. If George has spent roughly 130 years inside a manufactured understanding of reality, his Daemon is not merely software sitting beside the deception. It may be one of the mechanisms through which that worldview remained coherent.
 
-Conversely, Sylvan Elaria's Lumina can function as an epistemic partner: not an oracle, but a second persistent intelligence capable of asking where information came from, comparing current claims with decades of evidence, and preserving provenance.
+Conversely, Sylvan Elaria's Luminai can function as an epistemic partner: not an oracle, but a second persistent intelligence capable of asking where information came from, comparing current claims with decades of evidence, and preserving provenance.
 
-**Development conclusion:** The Lumina/Daemon system should be treated as one of the central technologies of the story.
+**Development conclusion:** The Luminai/Daemon system should be treated as one of the central technologies of the story.
 
 ---
 
@@ -136,7 +136,7 @@ A more coherent architecture is **layered reality mediation**:
 
 1. The environment contains far more information and capability than an inhabitant can directly perceive.
 2. The planetary system determines what information and services are available to a person.
-3. The person's Lumina/Daemon interprets that information in the context of their life.
+3. The person's Luminai/Daemon interprets that information in the context of their life.
 4. Physical infrastructure can alter local conditions when required.
 5. Neural or sensory interfaces can supplement or suppress limited signals at the highest technological level.
 
@@ -174,7 +174,7 @@ The crucial lesson is that there is no mathematically neutral solution. Any aggr
 
 ## Best Extrapolation
 
-Each human's Lumina/Daemon can serve as their computational representative.
+Each human's Luminai/Daemon can serve as their computational representative.
 
 Instead of a person constantly issuing commands to planetary infrastructure:
 
@@ -239,7 +239,7 @@ They can be gestated, raised, educated and socially embedded at accelerated indu
 
 That also fits the colony premise beautifully: synthetics arrive first because building a believable civilization takes time.
 
-## Connection to Lumina/Daemon
+## Connection to Luminai/Daemon
 
 If synthetic children are raised with the same human-bound agents, the agent can help coordinate accelerated education and social development while preserving individual variation.
 
@@ -322,7 +322,7 @@ The clean architecture emerging from this first pass is:
               ┌───────────────┴───────────────┐
               │                               │
         Personal Agents                Planetary AI
-      Lumina / Daemon            simulation + coordination
+      Luminai / Daemon            simulation + coordination
               │                               │
               └───────────────┬───────────────┘
                               │
@@ -349,7 +349,7 @@ That makes the technology capable of extraordinary things while preserving confl
 
 Rather than producing another giant general report, subsequent research should answer narrow story questions one at a time.
 
-### Lumina/Daemon
+### Luminai/Daemon
 - How does a personal agent distinguish a fleeting thought from an authorized intention?
 - What would 130 years of human-agent co-development actually do to personality and dependency?
 - How can an agent preserve autobiographical memory without becoming an infallible recording device?
@@ -412,6 +412,6 @@ Future research reports should follow these rules:
 
 The first-pass research suggests the technological heart of *Seeds of the Throne* should not be a single omnipotent AI. It should be a **civilization-scale stack of personal agents, identity and authority systems, environmental computation, biological engineering and hidden infrastructure**.
 
-The Lumina and Daemon sit at the center because they are where that enormous system touches an individual human life.
+The Luminai and Daemon sit at the center because they are where that enormous system touches an individual human life.
 
 That makes George White's eventual awakening especially powerful: the system that helped him understand reality for more than a century may also be part of the machinery that prevented him from understanding what his life actually was.

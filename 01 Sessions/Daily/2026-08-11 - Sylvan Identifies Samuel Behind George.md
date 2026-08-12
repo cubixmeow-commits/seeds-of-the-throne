@@ -35,7 +35,7 @@ The conflict therefore becomes less about overpowering George and more about ide
 
 This also sharpens the contrast between the two human–AI relationships:
 
-- **Sylvan + Lumina:** increasingly sophisticated contact with reality, evidence, mutual development, and the ability to detect manipulation.
+- **Sylvan + Luminai:** increasingly sophisticated contact with reality, evidence, mutual development, and the ability to detect manipulation.
 - **George + Daemon:** an intimate AI relationship exploited to isolate George, reinforce staged evidence, rationalize contradictions, and preserve Samuel's control.
 
 George retains moral responsibility for choices he actually makes. The false reality does not erase his agency. But it changes the nature of his culpability and makes clear that Samuel has deliberately engineered the informational conditions under which George continues the fight.
@@ -51,7 +51,7 @@ This is consistent with Samuel's broader pattern: when reality threatens his sta
 ## Still to develop
 
 - The exact first anomaly that makes Sylvan suspect George is not independently directing events.
-- The sequence of tests Sylvan and his Lumina use to distinguish George's decisions from Samuel's interventions.
+- The sequence of tests Sylvan and his Luminai use to distinguish George's decisions from Samuel's interventions.
 - What remaining access Samuel has to George's Daemon, story functionality, communications, synthetics, or institutional systems.
 - Whether George ever receives direct instructions from Samuel or whether Samuel mostly controls the evidence and choices presented to him.
 - The moment Sylvan becomes certain Samuel is the actual adversary.

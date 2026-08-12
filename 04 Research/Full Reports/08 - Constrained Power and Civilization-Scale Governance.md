@@ -78,7 +78,7 @@ The colonization system can divide functions among:
 - public-phase authorization;
 - parent-civilization oversight.
 
-No personal Lumina or Daemon controls the whole chain. An agent can advocate, predict, authenticate its human, and negotiate permissions, but other systems execute and audit.
+No personal Luminai or Daemon controls the whole chain. An agent can advocate, predict, authenticate its human, and negotiate permissions, but other systems execute and audit.
 
 This also explains the Throne's preference for proxies. He cannot directly satisfy every authorization condition, so he shapes a person whose own identity and beliefs make the desired request appear independent.
 
