@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-10
+updated: 2026-08-12
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, contained criminal
 ---
@@ -14,6 +14,10 @@ roles: ideological patriarch, breeding-program architect, Great War leader, cont
 **Konrad Fitzgerald** is the original ideological and genealogical leader of the contained authoritarian purity faction.
 
 Konrad is a true fanatic. Samuel Franklin wants personal glory, attention, and the appearance of royalty. Konrad genuinely believes that ancestry should determine human value, political authority, reproduction, and civilization's future. He is willing to subordinate himself and his family to that doctrine.
+
+Konrad is approximately **300 years old** at the final showdown with Sylvan. His still-unnamed senior partner is approximately the same age. Konrad is roughly eighty years older than Samuel, placing him in an earlier contained generation without making him remotely as old as the legitimate real leaders, whose lives span thousands of years.
+
+Konrad's chronological age is established at the approximate level. His apparent age, the age at which he entered containment, and the exact chronology of his partnership remain unresolved.
 
 The breeding program is Konrad's most cherished initiative.
 
@@ -95,6 +99,7 @@ The Great War defeat changes the balance. Samuel's False Victory supplies the st
 ## Open questions
 
 - What title does the faction give Konrad?
+- How old does Konrad appear, and at what age does he enter containment?
 - What specific hereditary problem does Samuel claim to solve?
 - What supposedly exceptional abilities does Konrad want the program to produce?
 - What are the names, beliefs, and degrees of agency of Konrad's sister, son, and daughter?

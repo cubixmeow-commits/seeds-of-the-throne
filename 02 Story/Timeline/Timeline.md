@@ -1,31 +1,43 @@
 ---
 type: timeline
 status: working
-updated: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Timeline
 
 Dates are intentionally unset. This sequence preserves dependencies without pretending chronology is settled.
 
-1. Parent civilization overcomes aging and develops planetary colonization systems.
-2. The moon and planet are constructed; synthetics establish civilization.
-3. First human populations and heirs are integrated.
-4. Dangerous offenders are placed into containment roles.
-5. The Throne figure receives stewardship of a city.
-6. He converts city-level success and institutional influence into control of a country.
-7. The fallen empire's centralized breeding and lineage program expands under its supremacist purity doctrine.
-8. The King places George inside the future victorious republic before the original city falls.
-9. The King attempts global conquest, producing the Great War.
-10. The victorious republic and its allies defeat the conquest regime; the city, country, and empire collapse.
-11. Surviving leaders are integrated into public containment roles within the victorious order.
-12. The King claims George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
-13. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
-14. The breeding and lineage program persists inside containment. The King uses reproductive, genealogical, and certification fraud to blackmail leading families individually.
-15. The Witness lives through one or more earlier-era identities during or after this first-century structure.
-16. The King's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
-17. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
-18. Sylvan accumulates evidence connecting original events, revised public stories, lineage manipulation, blackmail, and command responsibility.
-19. Recurrence is rediscovered and the concealed conflict moves toward public exposure.
+1. Parent civilization overcomes aging. Its legitimate leaders live for thousands of years.
+2. Humanity expands successfully to numerous colonized planets under these leaders.
+3. Knowledge, capacity, and support from those earlier worlds make a more advanced and technologically managed colonization planet possible.
+4. Samuel begins an approximately fifty-year criminal rampage using resources and credibility captured from his technology-leader family.
+5. Samuel's parents help expose and stop him. Capture, processing, and integration occupy several additional decades.
+6. Konrad Fitzgerald and his senior partner, members of an older contained generation, develop their purity faction and closed lineage program.
+7. The current moon and planet are constructed; synthetics establish civilization.
+8. First human populations and hundreds of heirs are integrated.
+9. Dangerous offenders, including Samuel and Konrad's faction, are placed into containment roles.
+10. Samuel receives stewardship of a city.
+11. He converts city-level success and institutional influence into control of a country.
+12. The fallen empire's centralized breeding and lineage program expands under Konrad's supremacist purity doctrine.
+13. Samuel places George inside the future victorious republic before the original city falls.
+14. Samuel attempts global conquest, producing the Great War.
+15. The victorious republic and its allies defeat the conquest regime; the city, country, and empire collapse.
+16. Surviving leaders are integrated into public containment roles within the victorious order.
+17. Samuel claims George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
+18. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
+19. The breeding and lineage program persists inside containment. Samuel uses reproductive, genealogical, and certification fraud to blackmail leading families individually.
+20. The Witness lives through one or more earlier-era identities during or after this first-century structure.
+21. Samuel's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
+22. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
+23. Sylvan accumulates evidence connecting original events, revised public stories, lineage manipulation, blackmail, and command responsibility.
+24. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
 
-Open: George's age and placement mechanism, the Witness's position relative to the Great War, whether the Disclosure Wars are historical or present action, and where the final public victory belongs.
+## Age anchors at the Sylvan showdown
+
+- Samuel Franklin: approximately 220 chronologically; apparent visual age late sixties to early seventies.
+- Konrad Fitzgerald: approximately 300 chronologically.
+- Konrad's unnamed senior partner: approximately 300 chronologically.
+- Legitimate real leaders: multiple millennia old.
+
+Open: exact calendar dates, Samuel's precise age at each pre-containment transition, Konrad's apparent age and entry date, George's placement mechanism, the Witness's position relative to the Great War, whether the Disclosure Wars are historical or present action, and where the final public victory belongs.

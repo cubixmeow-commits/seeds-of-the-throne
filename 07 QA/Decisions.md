@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-11
+updated: 2026-08-12
 ---
 
 # Decisions
@@ -23,3 +23,10 @@ updated: 2026-08-11
 | 2026-08-11 | Lock the revised surnames Samuel Franklin and Konrad Fitzgerald across the vault and public page. | These are the permanent working names for the two primary contained criminal leaders. |
 | 2026-08-11 | Permanently name the constructive culture's lifelong personal AI self Luminai. | Luminai is the author's chosen canonical term; Daemon and the underlying human–AI mechanics remain unchanged. |
 | 2026-08-11 | Structure the second-largest empire's four founders as two couples, each with one son and one daughter; pair the children across the two couples; give each cross-couple one son and one daughter; make one granddaughter Sylvan's partner. | This replaces the earlier eight-child working version with a three-generation family in which every grandchild descends from both founding couples. |
+| 2026-08-12 | Lock the current older crowned identity as Samuel Franklin and the younger dark-haired identity as Sylvan Elaria for visual production. | Clean, text-free individual masters now provide stable primary references across image models; older paired images remain supporting style and composition references only. |
+| 2026-08-12 | Store visual identity, style, reference priority, provenance, checksums, drift warnings, and approval status in a model-neutral registry. | Gemini and other agents need one portable source of truth that prevents prompt drift and stops unapproved outputs from recursively redefining a character. |
+| 2026-08-12 | Require straight-on front, strict side profile, and front three-quarter references for every active canonical character. | A single attractive portrait cannot reliably preserve facial width and silhouette across models; the minimum three-angle set gives agents explicit geometry instead of asking them to infer it. |
+| 2026-08-12 | Establish Samuel at approximately 220 years old at the Sylvan showdown, following an approximately fifty-year rampage, several decades of capture and integration, and roughly a century in the current colonization process. | The age gives each major phase real duration while keeping Samuel substantially younger than the senior contained generation. |
+| 2026-08-12 | Establish Konrad Fitzgerald and his unnamed senior partner at approximately 300 years old at the showdown. | They belong to an older ideological generation than Samuel without approaching the age or civilizational experience of the legitimate leaders. |
+| 2026-08-12 | Establish the real leaders as multiple millennia old and already responsible for successful human expansion to numerous planets. | The current planet belongs to a mature interplanetary civilization rather than humanity's first experiment in settlement. |
+| 2026-08-12 | Make the current planet a later-generation colonization world whose exceptional technological control and advancement are supported by earlier successful planets. | Accumulated infrastructure and experience explain why this world can combine settlement, synthetic preparation, containment, heir cultivation, and authenticated observation at unusual scale. |

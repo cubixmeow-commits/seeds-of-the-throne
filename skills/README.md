@@ -34,8 +34,9 @@ Each skill name uses lowercase hyphenated words. Each `SKILL.md` begins with YAM
 - [`check-story-continuity`](check-story-continuity/SKILL.md): audit chronology, character knowledge, causality, systems, terminology, and status.
 - [`write-seeds-prose`](write-seeds-prose/SKILL.md): draft or revise story prose in the appropriate register without overriding the author's voice.
 - [`update-public-atlas`](update-public-atlas/SKILL.md): publish approved developments to the static story atlas and verify the result.
+- [`create-seeds-images`](create-seeds-images/SKILL.md): create, evaluate, and store consistent character art and story imagery through a model-neutral visual registry and approved reference library.
 
-This initial set was structurally validated and forward-tested on 2026-08-11. Test results are recorded in `07 QA/Shared Skill Tests.md`.
+The initial story-workflow set was structurally validated and forward-tested on 2026-08-11. The image system was added and validated on 2026-08-12. Test results are recorded in `07 QA/Shared Skill Tests.md`.
 
 ## Creating a skill
 

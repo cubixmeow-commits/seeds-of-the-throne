@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-10
+updated: 2026-08-12
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, failed privileged heir
 ---
@@ -17,6 +17,19 @@ Samuel is born into a wealthy and exceptionally successful family of technology 
 
 He fails that opportunity.
 
+## Chronological age
+
+Samuel is approximately **220 years old** at the final showdown with Sylvan. The exact birth year remains working, but the scale and order are established:
+
+- roughly twenty years of childhood and early privilege before his independent campaign takes shape;
+- approximately fifty years of escalating criminal activity and distributed terror;
+- roughly twenty to thirty years of exposure, capture, processing, and integration;
+- approximately a century, potentially closer to 120 years, inside the current planet's colonization process before the showdown.
+
+His approved visual appearance in his late sixties to early seventies is an apparent age, not his chronological age. Defeated aging and the process's embodied identities allow those ages to differ.
+
+Samuel is substantially younger than Konrad Fitzgerald and Konrad's senior partner, who are each approximately three hundred at the showdown. He is vastly younger than the legitimate real leaders, whose lives extend across multiple millennia and multiple waves of planetary expansion.
+
 Samuel manipulates his family, abuses access created by their achievements, and commits serious wrongdoing. He is genuinely busted and processed into containment because of his own conduct. His parents' success explains how he could reach systems capable of causing extraordinary harm; it does not transfer responsibility away from him.
 
 ## The first cult and the stolen legacy
@@ -25,7 +38,7 @@ Before becoming the King inside containment, Samuel builds an earlier cult-like 
 
 He manipulates his parents and gains control over some combination of their wealth, technology, institutional relationships, infrastructure, or public authority. He presents inherited access as evidence of personal importance and uses the trusted Franklin name to attract followers, secure cooperation, and make his organization appear more legitimate than it is.
 
-The organization spreads across multiple places and terrorizes large groups of people. Samuel's danger is therefore established before the city, the Great War, and the False Victory. Containment does not manufacture his authoritarian behavior; it gives an already dangerous organizer a controlled environment in which his choices can be observed, limited, and ultimately exposed.
+The organization spreads across multiple places and terrorizes large groups of people during a rampage lasting approximately half a century. Samuel's danger is therefore established before the city, the Great War, and the False Victory. Containment does not manufacture his authoritarian behavior; it gives an already dangerous organizer a controlled environment in which his choices can be observed, limited, and ultimately exposed.
 
 Samuel also damages his parents through attribution. Outsiders cannot easily distinguish his movement from the legitimate systems, wealth, and institutions that made his rise possible. His conduct destroys much of the family's good name and makes their earlier achievements appear complicit in his campaign.
 
@@ -78,6 +91,7 @@ His treatment of George and the unauthorized son repeats his own failed relation
 ## Open questions
 
 - Which specific cult operation finally causes Samuel to be busted?
+- What exact ages mark the start of his rampage, capture, integration, and arrival on the planet?
 - What did his parents build, and how much authority did they possess?
 - When did his parents recognize the danger, and how long did they protect or underestimate him first?
 - How much inherited wealth or technical access follows him into his first containment opportunity?

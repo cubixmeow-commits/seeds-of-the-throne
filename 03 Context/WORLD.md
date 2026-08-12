@@ -1,12 +1,14 @@
 ---
 type: context
 status: working
-updated: 2026-08-09
+updated: 2026-08-12
 ---
 
 # World
 
-A long-lived parent civilization builds a planet as both colonization infrastructure and a developmental environment. Its largest empires are centuries or millennia old and are led by legitimate rulers who disagree in good faith about containment, rehabilitation, boundaries, evidence, and leadership cultivation. Biological synthetics populate and develop the planet before humans are integrated. A moon-scale command structure coordinates observation, communication, energy, and high-level control.
+A mature interplanetary parent civilization builds a planet as both colonization infrastructure and a developmental environment. Its legitimate real leaders are thousands of years old and have already expanded humanity to numerous successful colonization planets. Those worlds provide the knowledge, production, institutions, and support required for the current planet, a later-generation project that is more technologically controlled and advanced than its predecessors.
+
+Its largest empires have endured across multiple millennia and are led by rulers who disagree in good faith about containment, rehabilitation, boundaries, evidence, and leadership cultivation. Biological synthetics populate and develop the planet before humans are integrated. A moon-scale command structure coordinates observation, communication, energy, and high-level control.
 
 Humans inside usually experience the constructed civilization as ordinary reality. Some are born into it; some are heirs placed into developmental lives; some are contained criminals assigned roles rather than cells. Aging has been defeated outside, but mortal lifetimes are performed inside.
 

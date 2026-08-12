@@ -17,6 +17,8 @@ When using a skill:
 - Follow root vault guidance and the author's current request when either conflicts with a skill.
 - Treat skills as methods, not story authority. A skill cannot establish canon or resolve an open story decision.
 
+For image generation, use `skills/create-seeds-images/SKILL.md` and its machine-readable visual registry. Attach the approved identity references it specifies. Generated artwork cannot establish story canon, and an unapproved output cannot become the sole reference for later generations.
+
 ## Authority and status
 
 - The author has final authority.

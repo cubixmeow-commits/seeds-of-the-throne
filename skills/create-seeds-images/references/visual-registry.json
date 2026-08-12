@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "project": "Seeds of the Throne",
+  "registry_status": "working visual canon",
+  "terminology": {
+    "human_ai_light_partner": "Luminai",
+    "corrupted_counterpart": "Daemon",
+    "obsolete_terms": ["Lumina"],
+    "public_copy_rule": "Do not use em dashes."
+  },
+  "style": {
+    "id": "sott-gothic-archive-v1",
+    "name": "Gothic archival science fantasy",
+    "locked_traits": [
+      "near-black cinematic ground",
+      "antique gold light used for evidence, truth, integration, and constructive power",
+      "deep crimson and ember red used for coercion, corruption, false authority, and fracture",
+      "monumental gothic architecture fused with restrained future technology",
+      "fine sacred geometry, orbital diagrams, branching circuitry, crowns, archives, and throne motifs",
+      "painterly photorealism with tactile skin, cloth, metal, smoke, dust, and luminous linework",
+      "high contrast chiaroscuro with controlled rim light",
+      "solemn cinematic scale without generic superhero posing"
+    ],
+    "palette": {
+      "void_black": "#050504",
+      "charcoal": "#14110E",
+      "blood_crimson": "#8E0B0B",
+      "ember_red": "#C7241C",
+      "antique_gold": "#C28A32",
+      "luminous_gold": "#F1CF68",
+      "parchment": "#D4BE98"
+    },
+    "composition_rules": [
+      "Use darkness as negative space rather than filling every area with detail.",
+      "Keep red and gold narratively separated until a scene deliberately brings them into conflict.",
+      "Use geometry as an information or reality system, not as decoration alone.",
+      "Reserve clean space for typography on poster and website compositions.",
+      "Generate artwork without text whenever exact copy matters."
+    ],
+    "avoid": [
+      "blue-purple neon cyberpunk",
+      "clean white utopian interfaces",
+      "plastic 3D rendering",
+      "generic medieval fantasy costumes",
+      "superhero costumes or poses",
+      "anime proportions",
+      "flat vector illustration unless explicitly requested",
+      "excessive lens flare",
+      "unreadable generated text",
+      "logos, watermarks, signatures, and real-world insignia",
+      "imitation of a named living artist"
+    ]
+  },
+  "characters": {
+    "samuel-franklin": {
+      "display_name": "Samuel Franklin",
+      "visual_status": "canonical-v1",
+      "story_status": "established name and role",
+      "identity_lock": {
+        "apparent_age": "late 60s to early 70s",
+        "build_and_silhouette": "lean older man with a slightly stooped but commanding ceremonial posture and a narrow high-collared silhouette",
+        "face": "long weathered face, deeply furrowed brow and cheeks, prominent slightly hooked nose, heavy eye sockets, compressed mouth, severe asymmetry from age and strain",
+        "hair": "receding gray hair, wavy to loosely curled, ear length at the sides and back",
+        "facial_hair": "short rough gray beard and mustache, never clean shaven and never a long full beard",
+        "eyes_and_expression": "deep-set dark eyes, guarded downward gaze or cold focused scrutiny, authority performed through control rather than warmth",
+        "skin_and_distinguishing_features": "pale to light-medium weathered skin with pronounced lines and scar-like creases; retain natural texture"
+      },
+      "wardrobe_lock": [
+        "black high-collared ceremonial coat or robe",
+        "restrained antique-gold filigree and fine embroidered circuitry",
+        "narrow metallic crown with tall points for formal throne imagery",
+        "no bright armor, cape, or generic royal velvet"
+      ],
+      "color_and_light": [
+        "crimson environment or rim light is his primary visual field",
+        "gold may appear as stolen, contested, or failing authority",
+        "keep most clothing near black"
+      ],
+      "symbolic_language": ["fractured crown", "branching black circuitry", "sealed throne", "red archive", "false reality interfaces"],
+      "drift_to_reject": [
+        "young or middle-aged face",
+        "full white wizard beard",
+        "bald head",
+        "round friendly features",
+        "heavy muscular build",
+        "ornate medieval king costume without technological detail",
+        "identification as George White"
+      ],
+      "references": [
+        {
+          "path": "assets/reference-images/samuel-franklin-front-v1.png",
+          "status": "canonical-angle",
+          "angle": "front",
+          "use": "straight-on facial geometry, eye spacing, face width, hairline, beard, crown, and symmetrical wardrobe reference",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#samuel-franklin-angle-set",
+          "dimensions": "1024x1536",
+          "sha256": "dc22912e8297c1cbb310416ab5e25e9d7887e394958545eea91d02741ef8d7d6"
+        },
+        {
+          "path": "assets/reference-images/samuel-franklin-profile-left-v1.png",
+          "status": "canonical-angle",
+          "angle": "profile-left",
+          "use": "strict left-side facial silhouette, forehead, nose, lips, chin, ear, crown, hair volume, and collar reference",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#samuel-franklin-angle-set",
+          "dimensions": "1024x1536",
+          "sha256": "767a2e00ea9e59ddc73cae36119c612c837d5aef9233eb891ff1fdad16ba00a7"
+        },
+        {
+          "path": "assets/reference-images/samuel-franklin-identity-master-v1.png",
+          "status": "canonical-primary",
+          "use": "primary identity, face, age, hair, crown, wardrobe, and red-field reference; Samuel appears alone",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#samuel-franklin",
+          "dimensions": "1024x1536",
+          "sha256": "889c946ebec1749008f67753dd2bef4408623a71c7205e930a3276d1d351c28e"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-confrontation.png",
+          "status": "supporting",
+          "use": "paired facial, age, silhouette, and palette reference; Samuel is on the left",
+          "sha256": "47ccd4f7097fc7305ce556b7c06bd4f9fbc855039b1850bcf29a29a99f8d1084"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-remote-war-red.jpeg",
+          "status": "supporting",
+          "use": "Samuel at a reality-control console on the left; strong red corruption language",
+          "sha256": "2cbdb54d8e4c2a9b8d405bd2a7c82eb714d3c207b6b75223e0b148195dd536ef"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-duality-poster.png",
+          "status": "supporting-with-obsolete-text",
+          "use": "facial profile, robe texture, and crown only; Samuel is on the left",
+          "warning": "Embedded George and Lumina labels are obsolete and noncanonical.",
+          "sha256": "f1f959a9793d2767206fafda327defa413bbfeef471f6abb83bde6da0b7a5ea4"
+        }
+      ]
+    },
+    "sylvan-elaria": {
+      "display_name": "Sylvan Elaria",
+      "visual_status": "canonical-v1",
+      "story_status": "established name and role",
+      "identity_lock": {
+        "apparent_age": "late 30s to early 40s",
+        "build_and_silhouette": "tall athletic but not bulky man with upright posture, broad shoulders, and a structured high-collared silhouette",
+        "face": "angular oval face, strong brow, straight to slightly aquiline nose, defined cheekbones, firm jaw, and a thoughtful controlled intensity",
+        "hair": "thick black wavy to curly hair, medium length, swept back with loose texture around the forehead and temples",
+        "facial_hair": "short full dark beard and mustache, neatly shaped but natural",
+        "eyes_and_expression": "dark focused eyes, alert analytical gaze, restrained emotion, conviction without aggression",
+        "skin_and_distinguishing_features": "olive to light-medium skin with realistic pores, fine lines, and subtle weathering; no idealized plastic finish"
+      },
+      "wardrobe_lock": [
+        "black structured coat with raised or open high collar",
+        "subtle geometric quilting, woven circuitry, or restrained gold stitching",
+        "small circular antique-gold pendant or integration emblem",
+        "no crown, armor, cape, or superhero suit"
+      ],
+      "color_and_light": [
+        "antique and luminous gold are his primary visual field",
+        "gold geometry may illuminate evidence, integration, and pathways through reality",
+        "keep clothing near black so light describes the form"
+      ],
+      "symbolic_language": ["luminous evidence lattice", "orbital archive", "leaf or branching integration motif", "open path", "Luminai geometry"],
+      "drift_to_reject": [
+        "straight short hair",
+        "clean-shaven face",
+        "blond or gray hair",
+        "youthful twenties appearance",
+        "exaggerated muscular superhero build",
+        "royal crown or red corruption field as his default",
+        "identification as Samuel or George"
+      ],
+      "references": [
+        {
+          "path": "assets/reference-images/sylvan-elaria-front-v1.png",
+          "status": "canonical-angle",
+          "angle": "front",
+          "use": "straight-on facial geometry, eye spacing, face width, hairline, beard, collar, and pendant reference",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#sylvan-elaria-angle-set",
+          "dimensions": "1024x1536",
+          "sha256": "5de006c7efa2be1bdcf350b1fc18f6283c57a45168505fa0fde40d17d3dd447b"
+        },
+        {
+          "path": "assets/reference-images/sylvan-elaria-profile-left-v1.png",
+          "status": "canonical-angle",
+          "angle": "profile-left",
+          "use": "strict left-side facial silhouette, forehead, nose, lips, chin, ear, hair volume, beard, and collar reference",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#sylvan-elaria-angle-set",
+          "dimensions": "1024x1536",
+          "sha256": "92173e6576a660862ec6163b38a7cf6af5e1be18706cb3eeb923df55e3c49bd7"
+        },
+        {
+          "path": "assets/reference-images/sylvan-elaria-identity-master-v1.png",
+          "status": "canonical-primary",
+          "use": "primary identity, face, age, hair, beard, wardrobe, pendant, and gold-field reference; Sylvan appears alone",
+          "created": "2026-08-12",
+          "generator": "OpenAI built-in image generation",
+          "source_prompt": "references/identity-master-prompts.md#sylvan-elaria",
+          "dimensions": "1024x1536",
+          "sha256": "1ab352b98c9742c3dc477a138998b181659e540e7fd707ac3feeef04aad32856"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-confrontation.png",
+          "status": "supporting",
+          "use": "paired facial, hair, beard, wardrobe, and palette reference; Sylvan is on the right",
+          "sha256": "47ccd4f7097fc7305ce556b7c06bd4f9fbc855039b1850bcf29a29a99f8d1084"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-remote-war-gold.jpeg",
+          "status": "supporting",
+          "use": "Sylvan at an evidence interface on the right; strong gold integration language",
+          "sha256": "001a1d83d8da556947939e5e503cdd5f0d98cd928e8ed0e6e09cc45f4a7855d7"
+        },
+        {
+          "path": "assets/reference-images/samuel-sylvan-disclosure-poster.png",
+          "status": "supporting-with-obsolete-text",
+          "use": "facial profile, coat, pendant, and archive role only; Sylvan is on the right",
+          "warning": "Embedded George framing is obsolete for Samuel's current visual identity assignment.",
+          "sha256": "89fd91fa536369c6297875b9133719f1940ed3ad14f33739e4c60162970f1c92"
+        }
+      ]
+    }
+  }
+}

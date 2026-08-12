@@ -1,7 +1,7 @@
 ---
 type: rules
 status: active
-updated: 2026-08-06
+updated: 2026-08-12
 ---
 
 # Rules
@@ -11,6 +11,7 @@ updated: 2026-08-06
 - The author decides the story and has final authority.
 - GPT is the story-development and organization command center: structure, continuity, questions, synthesis, and collaborative development.
 - Claude is research-only. Claude may answer assigned research questions but may not invent story facts, names, characters, scenes, or prose.
+- Other agents may use the shared vault skills only within the scope assigned by the author. Image-capable agents may create visual interpretations, but their outputs do not establish story canon.
 
 ## Story memory
 
@@ -18,6 +19,7 @@ updated: 2026-08-06
 - Compiled story notes state whether material is `established`, `working`, `proposed`, `unresolved`, or `rejected`.
 - Never force a contradiction to resolve merely to make the vault look clean.
 - Research is advisory until the author deliberately adopts a finding.
+- The visual registry records approved identity and style decisions. Unapproved generated images remain candidates and may not become the sole source for future character identity.
 
 ## Safety and separation
 
@@ -32,4 +34,3 @@ updated: 2026-08-06
 - Conversation, not lecture. Every explanation is partial, motivated, and limited by the speaker's knowledge.
 - First-person present tense is the current working mode, not an irreversible rule.
 - GPT may help develop or revise prose when asked, but the author's voice and judgment control the manuscript.
-

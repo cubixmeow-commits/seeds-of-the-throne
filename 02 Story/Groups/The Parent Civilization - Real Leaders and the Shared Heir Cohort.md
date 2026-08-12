@@ -1,7 +1,7 @@
 ---
 type: group-development
 status: working
-updated: 2026-08-11
+updated: 2026-08-12
 themes: ancient leadership, imperial succession, shared struggle, competing moral philosophies, containment, cultivation, legitimacy, interdependence
 ---
 
@@ -9,9 +9,11 @@ themes: ancient leadership, imperial succession, shared struggle, competing mora
 
 ## Core proposition
 
-The parent civilization is not governed by a single benevolent intelligence or a politically unified council. It contains many legitimate leaders whose empires have endured for centuries and, in many cases, thousands of years. These leaders are experienced, serious, and broadly committed to the survival and moral development of humanity, but they disagree about what those commitments require.
+The parent civilization is not governed by a single benevolent intelligence or a politically unified council. It contains many legitimate leaders who are themselves thousands of years old and whose empires have endured across multiple millennia. These leaders are experienced, serious, and broadly committed to the survival and moral development of humanity, but they disagree about what those commitments require.
 
-The colonization planet is one of their greatest shared undertakings. It is not only a world being prepared for settlement. It is also a controlled but consequential environment in which the civilization can contain dangerous leaders, test methods of obtaining cooperation, cultivate successors, compare governing philosophies, and create a common formative history for the next generation of imperial leadership.
+They already lead an interplanetary humanity. Before the current planet is built, earlier colonization projects have succeeded on numerous worlds and expanded the human civilizations under their care. The current project does not invent planetary settlement. It draws on generations of proven colonization knowledge, mature off-world institutions, and support from civilizations that earlier projects made possible.
+
+The colonization planet is one of their greatest and most technologically ambitious shared undertakings. Earlier worlds make it possible to dedicate exceptional production, intelligence, synthetic populations, oversight, and institutional support to this one. It is not only a world being prepared for settlement. It is also a controlled but consequential environment in which the civilization can contain dangerous leaders, test methods of obtaining cooperation, cultivate successors, compare governing philosophies, and create a common formative history for the next generation of imperial leadership.
 
 ## The scale of the succession project
 
@@ -238,6 +240,9 @@ The legitimate heirs are meant to become leaders by struggling alongside future 
 
 ## Working statements to preserve
 
+- The legitimate real leaders are multiple millennia old and already govern humanity across numerous colonized planets.
+- Successful earlier planets provide the knowledge, capacity, and support needed to build the current world.
+- The current planet is unusually advanced and technologically controlled because it is a later-generation colonization project with purposes beyond settlement alone.
 - The largest and oldest empires deliberately waited to produce heirs for this colonization process.
 - The legitimate heirs are beloved children whose preparation, freedom, emotional health, and happiness matter independently of succession.
 - Their parents are not motivated by greed and do not seek to manufacture obedient extensions of themselves.

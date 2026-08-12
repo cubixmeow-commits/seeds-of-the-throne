@@ -2,7 +2,7 @@
 type: group
 status: working
 name_status: established
-updated: 2026-08-10
+updated: 2026-08-12
 ---
 
 # The Throne
@@ -11,9 +11,11 @@ The kingdom still uses a placeholder label. Its central figure is permanently na
 
 Before Samuel's internal coup, **Konrad Fitzgerald** is the contained faction's primary ideological and genealogical leader. Konrad is a genuine purity fanatic whose family and breeding initiative supply the movement's hereditary legitimacy. Samuel does not invent that doctrine. He gains power by promising to save it, then captures its reproductive and certification machinery.
 
+At the Sylvan endgame, Samuel is approximately **220 years old**. Konrad and his still-unnamed senior partner are approximately **300**. Their age difference reinforces Samuel's position as a younger outsider who infiltrates an older ideological establishment and eventually places himself above its founders.
+
 Samuel Franklin is a contained criminal, not an architect of the colonization system. He first receives stewardship of a city, converts that opportunity into control of a country, and initiates the Great War through an attempted global conquest. His regime is defeated and its surviving leadership is integrated into containment roles within the victorious republic.
 
-Samuel is the failed child of wealthy, highly successful technology leaders from the older civilization. Their position gives him unusual access to software, AI, institutions, wealth, and consequential systems. He manipulates his parents, captures part of their resources, uses their credibility to build a cult-like organization, and terrorizes populations across multiple places. He is genuinely busted and processed into containment because of his own choices.
+Samuel is the failed child of wealthy, highly successful technology leaders from the older civilization. Their position gives him unusual access to software, AI, institutions, wealth, and consequential systems. He manipulates his parents, captures part of their resources, uses their credibility to build a cult-like organization, and terrorizes populations across multiple places for approximately half a century. He is genuinely busted and processed into containment because of his own choices. Exposure, capture, processing, and integration take several more decades before his century-scale history on the current planet.
 
 His campaign damages his parents' good names by making his movement appear connected to their legitimate achievements. They eventually help expose him, end the rampage, and distinguish his organization from their work. Their intervention is both an obligation to stop ongoing harm and an attempt to recover enough credibility to repair the legacy Samuel appropriated.
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Seeds Images"
+  short_description: "Create consistent story art and characters"
+  default_prompt: "Use $create-seeds-images to build a model-neutral prompt packet for a consistent Seeds of the Throne image."

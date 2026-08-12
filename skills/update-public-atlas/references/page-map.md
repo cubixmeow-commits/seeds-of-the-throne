@@ -7,6 +7,7 @@
 | What are Luminai and Daemons? | `docs/ai.html` |
 | What did Samuel, Konrad, and the faction do? | `docs/faction.html` |
 | Who carries the story? | `docs/characters.html` |
+| What is the visual canon and how is consistency maintained? | `docs/visuals.html` |
 | What happened and in what order? | `docs/timeline.html` |
 | What is true, publicly believed, sealed, or unresolved? | `docs/archive.html` |
 

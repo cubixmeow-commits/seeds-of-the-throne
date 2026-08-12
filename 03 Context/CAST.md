@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Cast
@@ -22,11 +22,11 @@ The tested first-person narrator. Follows a recurrence clue into questions about
 
 ## Samuel Franklin
 
-Contained authoritarian and failed privileged heir who turns city stewardship into national capture and the Great War's failed global-conquest project. His wealthy, highly successful technology-leader parents give him access to extraordinary opportunity and consequential systems. Samuel manipulates them, captures some of their resources, builds a distributed cult, and terrorizes large populations while trading on their credibility. His parents eventually help expose and contain him to stop the harm and separate their legacy from his organization. After defeat, Samuel claims George secretly captured the victorious republic and uses the False Victory to convert containment into apparent covert rule. His power rests on story influence, information, certification, manipulated genealogy, reproductive abuse, individualized lineage blackmail, and promises that are coming due. His performed royalty compensates for his failure to become a legitimate successor to his parents.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Contained authoritarian and failed privileged heir who turns city stewardship into national capture and the Great War's failed global-conquest project. His wealthy, highly successful technology-leader parents give him access to extraordinary opportunity and consequential systems. Samuel manipulates them, captures some of their resources, builds a distributed cult, and terrorizes large populations through an approximately fifty-year rampage. His parents eventually help expose and contain him; several more decades pass through capture, processing, and integration before his century-scale history on the current planet. After defeat, Samuel claims George secretly captured the victorious republic and uses the False Victory to convert containment into apparent covert rule. His power rests on story influence, information, certification, manipulated genealogy, reproductive abuse, individualized lineage blackmail, and promises that are coming due. His performed royalty compensates for his failure to become a legitimate successor to his parents.
 
 ## Konrad Fitzgerald
 
-Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister, and helps place those children at the center of the Great War regime. He gives Samuel control of the program after Samuel claims he can solve the hereditary consequences of inbreeding while preserving or enhancing the line. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
+Approximately 300 years old at the Sylvan showdown, as is his still-unnamed senior partner. Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister, and helps place those children at the center of the Great War regime. He gives Samuel control of the program after Samuel claims he can solve the hereditary consequences of inbreeding while preserving or enhancing the line. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
 
 ## George White
 
