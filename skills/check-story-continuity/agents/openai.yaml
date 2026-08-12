@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check Story Continuity"
+  short_description: "Audit story facts, chronology, knowledge, and status"
+  default_prompt: "Use $check-story-continuity to audit this development against the current vault and report conflicts without resolving them."

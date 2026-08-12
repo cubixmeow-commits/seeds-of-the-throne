@@ -15,6 +15,10 @@ This vault is persistent working memory for developing the story. It preserves t
 3. Check [[03 Context/OPEN-QUESTIONS]].
 4. Record new work in `01 Sessions/Daily/` before updating compiled story notes.
 
+## Shared methods
+
+Reusable AI workflows live in [[skills/README|skills]]. Review the catalog and load only the skill that matches the current task. Skills guide process but never override the author, establish canon, or silently resolve uncertainty.
+
 ## Memory layers
 
 - `01 Sessions/` — chronological development memory; exploration and contradiction are allowed.
@@ -26,4 +30,3 @@ This vault is persistent working memory for developing the story. It preserves t
 ## Authority
 
 The author's direct statements and decisions control the story. GPT develops, organizes, questions, and maintains continuity. Claude performs assigned research only. See [[03 Context/RULES]].
-

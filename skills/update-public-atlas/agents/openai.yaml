@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Public Atlas"
+  short_description: "Publish approved story developments to the atlas"
+  default_prompt: "Use $update-public-atlas to update the public story atlas with approved vault developments and verify the site."

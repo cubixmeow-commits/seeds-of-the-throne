@@ -29,17 +29,13 @@ Each skill name uses lowercase hyphenated words. Each `SKILL.md` begins with YAM
 
 ## Skill catalog
 
-No shared skills have been added yet.
+- [`develop-story-session`](develop-story-session/SKILL.md): explore story ideas, preserve alternatives, record decisions, and update memory deliberately.
+- [`research-story-material`](research-story-material/SKILL.md): investigate real-world mechanisms with sourced uncertainty and no automatic canon.
+- [`check-story-continuity`](check-story-continuity/SKILL.md): audit chronology, character knowledge, causality, systems, terminology, and status.
+- [`write-seeds-prose`](write-seeds-prose/SKILL.md): draft or revise story prose in the appropriate register without overriding the author's voice.
+- [`update-public-atlas`](update-public-atlas/SKILL.md): publish approved developments to the static story atlas and verify the result.
 
-Good first candidates:
-
-- `write-seeds-prose`: voice, style, viewpoint, dialogue, and prose constraints
-- `research-story-material`: source quality, note-taking, uncertainty, and translation into invented mechanisms
-- `develop-story-session`: explore ideas without silently making them canon
-- `check-story-continuity`: compare chronology, characters, systems, and status labels
-- `update-public-atlas`: turn selected vault developments into accurate public pages
-
-Add each skill to this catalog when its `SKILL.md` is ready to use.
+This initial set was structurally validated and forward-tested on 2026-08-11. Test results are recorded in `07 QA/Shared Skill Tests.md`.
 
 ## Creating a skill
 

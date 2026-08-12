@@ -1,0 +1,13 @@
+# Atlas page map
+
+| Visitor question | Page |
+| --- | --- |
+| What is the complete story system? | `docs/index.html` |
+| How does colonization and containment work? | `docs/colonization.html` |
+| What are Luminai and Daemons? | `docs/ai.html` |
+| What did Samuel, Konrad, and the faction do? | `docs/faction.html` |
+| Who carries the story? | `docs/characters.html` |
+| What happened and in what order? | `docs/timeline.html` |
+| What is true, publicly believed, sealed, or unresolved? | `docs/archive.html` |
+
+Use `docs/styles.css` for shared visual rules and `docs/app.js` for progressive enhancement. Add a new page only when no existing visitor question can contain the material clearly.

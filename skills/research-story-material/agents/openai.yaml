@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Story Material"
+  short_description: "Research plausible mechanisms without inventing canon"
+  default_prompt: "Use $research-story-material to investigate this story question and separate evidence, extrapolation, and speculation."

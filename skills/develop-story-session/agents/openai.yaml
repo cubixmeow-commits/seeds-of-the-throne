@@ -1,0 +1,4 @@
+interface:
+  display_name: "Develop Story Session"
+  short_description: "Explore story ideas while preserving canon status"
+  default_prompt: "Use $develop-story-session to develop this idea and record the session without prematurely establishing canon."
