@@ -1,32 +1,32 @@
 document.documentElement.classList.add('js');
 
-const filters = [...document.querySelectorAll('.map-filter')];
-const nodes = [...document.querySelectorAll('.map-node')];
-const lines = [...document.querySelectorAll('.map-lines .link')];
-const detail = document.querySelector('#map-detail-text');
+const menuButton = document.querySelector('[data-menu-button]');
+const siteNav = document.querySelector('[data-site-nav]');
 
-function setFilter(group) {
-  filters.forEach((button) => {
-    const active = button.dataset.filter === group;
-    button.classList.toggle('is-active', active);
-    button.setAttribute('aria-pressed', String(active));
+if (menuButton && siteNav) {
+  menuButton.addEventListener('click', () => {
+    const open = menuButton.getAttribute('aria-expanded') === 'true';
+    menuButton.setAttribute('aria-expanded', String(!open));
+    siteNav.toggleAttribute('data-open', !open);
   });
-  nodes.forEach((node) => node.classList.toggle('is-muted', group !== 'all' && node.dataset.group !== group));
-  lines.forEach((line) => line.classList.toggle('is-muted', group !== 'all' && !line.classList.contains(group)));
 }
 
-filters.forEach((button) => button.addEventListener('click', () => setFilter(button.dataset.filter)));
-nodes.forEach((node) => node.addEventListener('click', () => {
-  nodes.forEach((item) => item.classList.remove('is-selected'));
-  node.classList.add('is-selected');
-  if (detail) detail.textContent = node.dataset.detail;
-  setFilter(node.dataset.group);
-}));
+document.querySelectorAll('[data-layer-set]').forEach((set) => {
+  const buttons = [...set.querySelectorAll('[data-layer-button]')];
+  const panels = [...set.querySelectorAll('[data-layer-panel]')];
+  buttons.forEach((button) => button.addEventListener('click', () => {
+    const target = button.dataset.layerButton;
+    buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+    panels.forEach((panel) => panel.hidden = panel.dataset.layerPanel !== target);
+  }));
+});
 
-if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-  const observed = document.querySelectorAll('.reveal');
-  const observer = new IntersectionObserver((entries) => entries.forEach((entry) => {
-    if (entry.isIntersecting) { entry.target.classList.add('is-visible'); observer.unobserve(entry.target); }
-  }), { threshold: 0.15 });
-  observed.forEach((item) => observer.observe(item));
-}
+document.querySelectorAll('[data-filter-set]').forEach((set) => {
+  const buttons = [...set.querySelectorAll('[data-filter]')];
+  const items = [...document.querySelectorAll('[data-status]')];
+  buttons.forEach((button) => button.addEventListener('click', () => {
+    const target = button.dataset.filter;
+    buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+    items.forEach((item) => item.hidden = target !== 'all' && item.dataset.status !== target);
+  }));
+});
