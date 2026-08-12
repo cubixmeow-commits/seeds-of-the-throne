@@ -226,7 +226,7 @@ h1, h2, h3, p { margin-block-start: 0; }
 .visual-language { display: grid; grid-template-columns: repeat(6,1fr); gap: 1rem; }
 .visual-language article { grid-column: span 2; }
 .visual-language article:nth-child(4), .visual-language article:nth-child(5) { grid-column: span 3; }
-.visual-language article { display: grid; grid-template-columns: 4rem 1fr; gap: 1.2rem; padding: 1.5rem; background: var(--white); }
+.visual-language article { display: grid; grid-template-columns: 4rem 1fr; gap: 1.2rem; padding: 1.5rem; background: var(--white); border-block-start: 3px solid var(--line); }
 .visual-language h3 { margin: 0 0 .5rem; font: 500 1.55rem var(--serif); }
 .visual-language p { margin: 0; color: var(--soft); }
 .color-chip { width: 4rem; aspect-ratio: 1; align-self: start; border-radius: 50%; outline: 1px solid rgba(255,255,255,.1); box-shadow: 0 0 2rem currentColor; }
@@ -235,6 +235,13 @@ h1, h2, h3, p { margin-block-start: 0; }
 .green-chip { color: var(--life-green); background: var(--life-green); }
 .blue-chip { color: var(--system-blue); background: var(--system-blue); }
 .black-chip { color: #504b40; background: #050504; }
+.crimson-card { border-color: var(--red) !important; background: linear-gradient(135deg, rgba(211,74,66,.12), transparent 55%), var(--white) !important; }
+.gold-card { border-color: var(--blue) !important; background: linear-gradient(135deg, rgba(217,173,87,.12), transparent 55%), var(--white) !important; }
+.green-card { border-color: var(--life-green) !important; background: linear-gradient(135deg, rgba(113,201,135,.16), transparent 58%), var(--white) !important; }
+.green-card h3 { color: var(--life-green); }
+.blue-card { border-color: var(--system-blue) !important; background: linear-gradient(135deg, rgba(103,174,232,.16), transparent 58%), var(--white) !important; }
+.blue-card h3 { color: var(--system-blue); }
+.black-card { border-color: #504b40 !important; }
 
 .visual-gallery { display: grid; grid-template-columns: repeat(2,1fr); gap: 1rem; }
 .visual-gallery figure { margin: 0; overflow: hidden; background: var(--white); box-shadow: 0 1rem 3rem rgba(0,0,0,.22); }
