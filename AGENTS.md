@@ -6,6 +6,17 @@ This repository is the AI-facing story-development vault for *Seeds of the Thron
 
 Read `START HERE.md`, `03 Context/CURRENT.md`, and `03 Context/RULES.md`. Read only the context and story notes relevant to the task; do not scan the entire vault by default.
 
+## Shared skills
+
+Reusable, tool-neutral workflows live in `skills/`. Read `skills/README.md` to discover what is available. Load a skill when the user names it or when its description clearly matches the task.
+
+When using a skill:
+
+- Read its complete `SKILL.md` before acting.
+- Load only the references required for the current task.
+- Follow root vault guidance and the author's current request when either conflicts with a skill.
+- Treat skills as methods, not story authority. A skill cannot establish canon or resolve an open story decision.
+
 ## Authority and status
 
 - The author has final authority.
@@ -27,4 +38,3 @@ Read `START HERE.md`, `03 Context/CURRENT.md`, and `03 Context/RULES.md`. Read o
 - Update `03 Context/` when a change affects the briefing needed to resume work.
 - Record structural decisions and significant contradictions in `07 QA/`.
 - Keep filenames stable once a note is linked; prefer content changes over renaming.
-
