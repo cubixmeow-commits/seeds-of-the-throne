@@ -52,6 +52,27 @@ def main() -> int:
             if expected and sha256(path) != expected:
                 errors.append(f"{char_id} checksum mismatch: {ref['path']}")
 
+    repository_root = ROOT.parents[1]
+    for sequence_id, sequence in registry.get("story_sequences", {}).items():
+        frames = sequence.get("frames", [])
+        orders = [frame.get("order") for frame in frames]
+        if not frames:
+            errors.append(f"{sequence_id} has no frames")
+        if orders != list(range(1, len(frames) + 1)):
+            errors.append(f"{sequence_id} frame order must be consecutive from 1")
+        for frame in frames:
+            for path_key, hash_key, base in (
+                ("source_path", "source_sha256", ROOT),
+                ("public_path", "public_sha256", repository_root),
+            ):
+                path = base / frame[path_key]
+                if not path.is_file():
+                    errors.append(f"{sequence_id} missing {path_key}: {frame[path_key]}")
+                    continue
+                expected = frame.get(hash_key)
+                if expected and sha256(path) != expected:
+                    errors.append(f"{sequence_id} checksum mismatch: {frame[path_key]}")
+
     if errors:
         for error in errors:
             print(f"ERROR: {error}")

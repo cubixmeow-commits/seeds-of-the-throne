@@ -51,6 +51,40 @@
       "imitation of a named living artist"
     ]
   },
+  "story_sequences": {
+    "samuel-busted-v1": {
+      "title": "Samuel Franklin is exposed and arrested",
+      "status": "approved-story-sequence",
+      "story_status": "visual interpretation of an established event; exact arrest staging remains noncanonical",
+      "created": "2026-08-12",
+      "generator": "OpenAI built-in image generation",
+      "source_prompt": "prompts/gemini-samuel-busted-test.md",
+      "frames": [
+        {
+          "order": 1,
+          "title": "Evidence closes in",
+          "source_path": "assets/approved-images/samuel-franklin/samuel-busted-01-evidence-closes-in-v1.png",
+          "public_path": "docs/assets/images/samuel-busted-01-evidence-closes-in-v1.webp",
+          "dimensions": "1672x941",
+          "source_sha256": "ba021e5957bfc95dfee64ddffd823b6e04c6d81ec74b1ee8fac39acd64dd28d4",
+          "public_sha256": "c416604c1716c10de6d43452395728d686f121b155becd5ae35df2b152e1e6f3",
+          "use": "first frame; Samuel recognizes that authenticated evidence has severed his system while containment officials approach",
+          "approval": "author approved"
+        },
+        {
+          "order": 2,
+          "title": "Physical arrest",
+          "source_path": "assets/approved-images/samuel-franklin/samuel-busted-02-physical-arrest-v1.png",
+          "public_path": "docs/assets/images/samuel-busted-02-physical-arrest-v1.webp",
+          "dimensions": "1672x941",
+          "source_sha256": "225eea7ab2748447d1795f14d3847094ca78ff31be9a4245b1e3a68e0d2e0c8d",
+          "public_sha256": "86bdc71ddc251ac3ff94f2b245eb81cabbfc0da173b70c90ede3d2b4e88ae882",
+          "use": "second frame; law-enforcement presence becomes direct physical custody",
+          "approval": "author approved"
+        }
+      ]
+    }
+  },
   "characters": {
     "samuel-franklin": {
       "display_name": "Samuel Franklin",
@@ -206,6 +240,20 @@
           "source_prompt": "references/identity-master-prompts.md#sylvan-elaria",
           "dimensions": "1024x1536",
           "sha256": "1ab352b98c9742c3dc477a138998b181659e540e7fd707ac3feeef04aad32856"
+        },
+        {
+          "path": "assets/reference-images/sylvan-elaria-private-study-v1.png",
+          "status": "approved-supporting",
+          "angle": "near-front three-quarter",
+          "use": "supporting face, natural warm light, black quilted coat, circular pendant, seated posture, and lived-in private study environment; canonical angle and identity masters remain authoritative for facial geometry",
+          "created": "2026-08-12",
+          "generator": "external image generator; exact model not recorded",
+          "source_prompt": "not available; author-supplied image",
+          "dimensions": "1536x2752",
+          "public_path": "docs/assets/images/sylvan-elaria-private-study-v1.webp",
+          "public_sha256": "d38178d2a6021be71d57e1bc106c99c4ed82afadfbf9fc4fdaa1a278ddeefa70",
+          "sha256": "294a1ec109f16776539dddb738e849e36676f5f1e12a825074881dff866a3ab5",
+          "warning": "Use for identity support, wardrobe, pendant, warm natural lighting, and private interior scenes. Do not let the lamp, stone room, books, chair, or exact coat cut establish story canon."
         },
         {
           "path": "assets/reference-images/samuel-sylvan-confrontation.png",

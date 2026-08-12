@@ -65,6 +65,28 @@ For a newly approved character image:
 
 Never use an unapproved generated image as the sole identity reference for later work. Promotion must be deliberate so drift does not become self-reinforcing.
 
+## Storage and delivery
+
+Read `references/storage-policy.md` before adding approved images or public derivatives.
+
+Keep two deliberately different layers:
+
+- `assets/approved-images/` stores approved source images used for reproduction, editing, or future prompting.
+- `docs/assets/images/` stores compressed display derivatives used by GitHub Pages.
+
+Prepare both layers and print registry-ready metadata with:
+
+```bash
+python3 skills/create-seeds-images/scripts/prepare_approved_image.py \
+  --source /path/to/approved.png \
+  --character samuel-franklin \
+  --slug samuel-scene-name-v1
+```
+
+Do not place rejected generations in the repository. Preserve a candidate only when the author requests it or when it documents a useful comparison. Never overwrite a source image or recompress a compressed derivative repeatedly.
+
+Record approved narrative sequences in `references/visual-registry.json` under `story_sequences`. Sequence order is storytelling information, not character identity authority.
+
 ## Add a character
 
 Use `references/character-record-template.md`. Establish a minimum identity set before producing complex group scenes:
