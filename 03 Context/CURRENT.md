@@ -21,8 +21,8 @@ Foundation, human–AI integration architecture, dynastic character development,
 - **George is trapped inside an isolated false reality maintained by Samuel.** Samuel uses George's isolation, Daemon relationship, staged evidence, manipulated interpretation, and remaining technological or institutional access to keep him acting as though the old power structure remains viable. George is simultaneously an active participant, a weapon, a public-facing authority, and a contained person whose perception of the conflict is being managed by his father.
 - This changes Sylvan's endgame problem: defeating or persuading George alone cannot end the conflict because George is not receiving the same reality Sylvan is responding to. Sylvan must identify the hidden decision-maker, prove Samuel's continuing control, and understand how the false reality is being sustained.
 - Sylvan as the sole child of the male and female leaders of the largest empire involved in colonization. Their one-child decision and experimental development program need further definition, but their purpose is not dynastic obsession; it is human development and responsible leadership.
-- Four closely allied founders of the second-largest empire, each with a son and daughter, creating an eight-person first cohort trained through constrained roles during the Great War era. These young people are being prepared to become capable, independent leaders in their own right rather than permanent subordinates to their parents.
-- A later descendant of that group becoming Sylvan's partner and love interest, with both a genuine personal relationship and long-term civilizational significance for cooperation between the two great empires.
+- Four closely allied founders of the second-largest empire organized as two couples. Each couple has one son and one daughter, creating four children in the first family generation. The son of each couple partners with the daughter of the other couple. Each cross-couple has one son and one daughter, creating four grandchildren who all descend from both founder couples.
+- One of the two granddaughters of both founder couples becomes Sylvan's partner and love interest, with both a genuine personal relationship and long-term civilizational significance for cooperation between the two great empires. Her exact parent pairing, name, character, and relationship history remain to be developed.
 - Legitimate future leaders learning through bounded public roles where advanced technology enforces meaningful constraints. They must resist authoritarianism, detention, persecution, and mass abuse without simply overriding the environment.
 - Senior contained criminals operating from positions of contained privilege and management access while descendants such as George are inserted directly into reconstructed environments.
 - **Konrad Fitzgerald** as a genuine ideological patriarch and breeding-program architect. His obsession with inheritance is specifically about preserving hierarchy: descendants inherit identity, doctrine, duty, and subordinate status while Konrad and the senior generation attempt to remain permanently at the top. The younger generation exists to extend their power, not replace them.
@@ -44,9 +44,9 @@ Foundation, human–AI integration architecture, dynastic character development,
 5. Define Sylvan's parents, their one-child decision, why they designed this new process, what they hope it will prove, and what risks they knowingly accept.
 6. Define and name Konrad Fitzgerald's fanatic partner.
 7. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
-8. Define the four founders of the second-largest empire.
-9. Map and name their eight children, professional pairings, personalities, and Great War roles.
-10. Map the later descendant generation and develop the woman who becomes Sylvan's partner as an independent character.
+8. Define the two founder couples of the second-largest empire and the distinct role of each founder.
+9. Map and name their four children, the two cross-couple relationships, personalities, specialties, and Great War roles.
+10. Map the four grandchildren and develop the granddaughter who becomes Sylvan's partner as an independent character.
 11. Build the first Great War-era future-leader episode around a constrained role and concrete moral crisis.
 12. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
 13. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.

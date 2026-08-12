@@ -1,7 +1,7 @@
 ---
 type: group-development
 status: working
-updated: 2026-08-09
+updated: 2026-08-11
 themes: ancient leadership, imperial succession, shared struggle, competing moral philosophies, containment, cultivation, legitimacy, interdependence
 ---
 
@@ -92,6 +92,16 @@ Their desired cohort is bonded by:
 - knowledge of one another earned before any of them reaches maximum authority.
 
 The shared struggle is not intended to make the heirs identical. It is intended to make them comprehensible to one another.
+
+## The second-largest empire's founder family
+
+**Established structure:** four founders form two couples. Each founding couple has one son and one daughter. Their four children form two relationships across the couples: Son A with Daughter B, and Daughter A with Son B.
+
+Each cross-couple has one son and one daughter. This creates four grandchildren, all descended from both founding couples. One of the two granddaughters becomes Sylvan Elaria's partner.
+
+This structure replaces the earlier working version in which each of four individual founders had two children. Names, exact ages, Great War roles, the identity of Sylvan's partner, and the family's internal dynamics remain unresolved.
+
+See [[02 Story/Groups/The Second-Largest Empire - Founder Family]] for the current genealogy.
 
 ## Dangerous contained leaders as part of the process
 

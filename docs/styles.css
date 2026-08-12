@@ -183,6 +183,17 @@ h1, h2, h3, p { margin-block-start: 0; }
 .dossier p { color: var(--soft); }
 .dossier footer { margin-block-start: 1.5rem; padding-block-start: 1rem; border-block-start: 1px solid var(--line); font-size: .85rem; color: var(--soft); }
 
+.family-tree { padding: clamp(1.5rem,4vw,3rem); border: 1px solid #745f35; background: radial-gradient(circle at 50% 50%, rgba(217,173,87,.06), transparent 50%), var(--white); box-shadow: 0 1.5rem 5rem rgba(0,0,0,.28); }
+.family-generation > p { margin-block-end: .8rem; color: var(--blue); font: 700 .65rem var(--mono); text-transform: uppercase; letter-spacing: .1em; }
+.family-grid { display: grid; gap: 1rem; }
+.family-grid.two { grid-template-columns: 1fr 1fr; }
+.family-grid.four { grid-template-columns: repeat(4,1fr); }
+.family-grid article { min-height: 7rem; padding: 1rem; border: 1px solid var(--line); background: #0b0e0c; }
+.family-grid span { display: block; margin-block-end: 1rem; color: var(--soft); font: 700 .62rem var(--mono); text-transform: uppercase; letter-spacing: .07em; }
+.family-grid strong { display: block; font: 500 1.35rem/1.2 var(--serif); }
+.family-join { padding: 1.2rem; text-align: center; color: var(--blue); font: 600 .65rem var(--mono); text-transform: uppercase; letter-spacing: .08em; }
+.partner-marker { margin: 1rem 0 0; padding: .9rem 1rem; border-inline-start: 4px solid var(--green); background: var(--green-pale); color: var(--green); font-weight: 700; }
+
 .timeline { list-style: none; margin: 0; padding: 0; border-inline-start: 2px solid var(--blue); }
 .timeline li { position: relative; display: grid; grid-template-columns: 10rem 1fr; gap: 2rem; padding: 0 0 3.2rem 2.2rem; }
 .timeline li::before { content: ""; position: absolute; inset: .45rem auto auto -.52rem; width: .9rem; height: .9rem; border-radius: 50%; background: var(--paper); border: 2px solid var(--blue); }
@@ -264,6 +275,7 @@ h1, h2, h3, p { margin-block-start: 0; }
   .dossier, .dossier.primary, .dossier.secondary { grid-column: 1 / -1; }
   .timeline li { grid-template-columns: 1fr; gap: .5rem; }
   .layer-panel dl, .question-list { grid-template-columns: 1fr; }
+  .family-grid.two, .family-grid.four { grid-template-columns: 1fr; }
   .site-footer { grid-template-columns: 1fr; }
   .site-footer a { justify-self: start; }
 }

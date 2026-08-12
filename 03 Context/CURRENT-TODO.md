@@ -16,13 +16,13 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 3. [ ] **Build Samuel's inheritance obsession and hidden incompatibility with the faction.** First define the faction's explicit prohibitions and sacred ideas around ancestry, bloodline, family continuity, succession, and inheritance. Then determine the concealed practice, allegiance, conduct, or obsession that the faction would openly reject without realizing it is central to Samuel. Develop three linked directions together: Samuel's pleasure in desecrating genealogical certainty, his drive to destroy successful inheritance because he sees himself as a failed heir, and his private connection to something Konrad's doctrine persecutes. The exact transgression remains unresolved until these pieces produce it naturally.
 
-4. [ ] **Define the four founders of the second-largest empire.** Give each founder a distinct role in humanity's success and colonization project, worldview, relationship to the other founders, and reason for participating in the shared leadership-development system.
+4. [ ] **Define the two founder couples of the second-largest empire.** Give each of the four founders a distinct role in humanity's success and colonization project, worldview, relationship to the spouse and other couple, and reason for participating in the shared leadership-development system.
 
-5. [ ] **Map and name the founders' eight children.** Each founder has a son and daughter. Define the eight-person heir cohort, their professional pairings, personalities, specialties, relationships, and Great War placements.
+5. [ ] **Map and name the founders' four children.** Each founder couple has one son and one daughter. Define the four-person first family generation, the two cross-couple relationships, their personalities, specialties, and Great War placements.
 
-6. [ ] **Design the legitimate heirs' Great War roles.** Place members of the eight-person cohort into constrained political, religious, institutional, or other public roles where they must confront the contained faction's authoritarianism and mass abuses without possessing unlimited power.
+6. [ ] **Design the four children's Great War roles.** Place the founders' two sons and two daughters into constrained political, religious, institutional, or other public roles where they must confront the contained faction's authoritarianism and mass abuses without possessing unlimited power.
 
-7. [ ] **Map the later descendant generation.** Establish the children born roughly forty to fifty years later, their family relationships, and the lineage leading to the woman who becomes Sylvan's partner. Resolve exact descendant counts only when the genealogy is explicitly mapped.
+7. [ ] **Map the four grandchildren.** Each cross-couple has one son and one daughter. Define the two grandsons and two granddaughters, then identify which granddaughter becomes Sylvan's partner. All four grandchildren descend from both founder couples.
 
 8. [ ] **Develop Sylvan's partner as a person.** Give her a name, worldview, capabilities, upbringing, relationships, independent ambitions, and reason for choosing Sylvan. Her relationship with him should work personally before it functions as a symbol of eventual cooperation or union between the two great empires.
 
@@ -71,6 +71,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 ## Already locked / preserve
 
 - [x] **Foundational Great War macro sequence.** The rise, conquest, defeat, George contingency, containment transition, and False Victory remain the foundation. Expand later rather than reopening the macro sequence casually.
+- [x] **Second-largest empire founder family.** Four founders form two couples. Each couple has one son and one daughter; the children form two cross-couple relationships; each cross-couple has one son and one daughter; one granddaughter becomes Sylvan's partner.
 - [x] **Development/authorship boundary.** The vault is for AI-assisted development, research, organization, continuity, and experimentation. The intended finished fiction is human-authored, beginning with a possible shorter work written by hand from the developed reference material.
 - [x] **Contradictions remain visible until deliberately resolved.** Do not silently reconcile genealogy, chronology, motives, or mechanisms simply to make the vault look clean.
 
