@@ -5,16 +5,16 @@ Temporary notes awaiting later review.
 ## Pending
 
 B06
-Mixed lighting worked. Dark wardrobe, rain/noir styling, promotional composition, invented text and generic dystopian environments persisted. Positive everyday civilization needs stronger visual definition. Identity scoring still needs authoritative reference grounding.
+Mixed lighting worked. Styling and composition remained repetitive. Everyday positive environments need stronger definition. Identity scoring needs authoritative reference grounding.
 
 B07
-Bright optimistic civilization imagery worked. Identity drift became clearer. Dark wardrobe, promotional composition, invented text and symbols persisted. Architecture remained generic future-utopia. Ordinary-life scenes need behavioral and composition rules.
+Bright optimistic environments worked. Identity drift, repetitive wardrobe, invented text and generic architecture remained issues. Ordinary-life scenes need stronger composition rules.
 
 B08
-Large positive environments worked well, including sunlight, gardens, waterways and collaborative activity. Identity drift remained severe and dark wardrobe persisted. Readable invented text returned. Architecture shifted from cyberpunk toward generic ornate/utopian genre borrowing rather than unique Seeds design. Technology became quasi-Victorian/brass instead of story-grounded advanced technology. Ordinary purposeful activity improved narrative life.
+Large positive environments worked. Identity drift and repetitive wardrobe persisted. Architecture and technology remained attractive but generic rather than story-specific.
 
 B09
-Invalid procedural test. The image generator rendered a benchmark/results dashboard rather than a clean candidate photograph and invented evaluation metadata. Do not score the image. New finding: clean prompt wording alone is not sufficient when broader benchmark context reaches the generator. Visual Generation System v2 needs generation-context isolation: generation receives only authoritative visual references plus the assembled scene packet; benchmark history, scores, test IDs and evaluation instructions stay outside the generation context. B09 should be rerun under the isolated v2 methodology rather than treated as valid evidence.
+One procedural attempt was invalid because it rendered an evaluation graphic. The clean rerun produced a convincing populated public plaza. Positive everyday life and background behavior worked well. Identity drift and repetitive dark wardrobe persisted. Invented readable signage and unsupported iconography returned. Architecture remained genre-derived. Generation context should be isolated from evaluation context. Accidental visual inventions should be reviewed rather than silently treated as established story information.
 
 Plan
-After B10, use all findings to build Visual Generation System v2, then run equivalent B01-B10 tests with Samuel. Include generation-context isolation as a core architectural requirement.
+After B10, build Visual Generation System v2 from these findings and run the equivalent suite with Samuel.
