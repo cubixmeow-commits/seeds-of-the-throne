@@ -2,82 +2,143 @@
 type: desktop-queue
 status: pending-integration
 date: 2026-08-13
-topics: visual generation, benchmark, prompt architecture
+topics: visual generation, benchmark, prompt architecture, Luminai, technology
 ---
 
-# Visual Benchmark Findings — B01–B03
+# Visual Benchmark Findings — B01–B04
 
-## B01 finding
+## B01/B02 — invalid setup tests
 
-The first attempts to run the B01–B10 visual benchmark exposed a production-system problem before character continuity could be meaningfully scored. Benchmark/evaluation language caused the image model to render a fictional benchmark report containing invented scores rather than only the requested photograph. All displayed scores are invalid.
+B01 rendered a fictional benchmark report instead of a photograph. B02 produced a photograph but embedded benchmark labels and metadata. Both are invalid benchmark evidence. Core lesson: **generation and evaluation must be completely separated.** The image generator receives only a clean photographic scene brief; all benchmark IDs, scoring, findings, and metadata remain external.
 
-## B02 finding — benchmark context contamination persists
+## B03 — first clean action generation
 
-The next test produced an actual extreme close-up photograph but still embedded a benchmark header, test identifier, date, descriptive metadata, and labeled evaluation information into the image. B02 is diagnostic only and invalid as benchmark evidence.
+The first clean scene-only generation demonstrated strong full-body motion, coherent anatomy, natural coat/body movement, and no obvious pose rigidity. However, identity could not be formally scored because the generation was not demonstrably grounded in the repository's authoritative identity master.
 
-A plausible depiction of a named character is not enough to score identity fidelity. Identity scoring should be performed only when generation is demonstrably grounded in the repository's authoritative identity references/packet.
+Failures/limitations:
+- `IDENTITY-UNVERIFIED`
+- `ENV-GENERIC`
+- `TECH-GENERIC`
+- generic black neo-noir protagonist wardrobe
 
-## B03 finding — first clean generation
+Architectural conclusion: raw cinematic image quality is already strong; the larger problem is grounding that quality in a unique Seeds visual identity.
 
-B03 removed benchmark terminology, scoring language, test identifiers, metadata, and report-layout concepts from the generation instruction. The result was the first clean cinematic image with no benchmark text or typography embedded in the output.
-
-### What worked
-
-- Generation/evaluation separation works when benchmark language is completely removed from the image-generation instruction.
-- Full-body action and motion were coherent.
-- Hands, arms, stride, coat movement, and overall anatomy were strong enough that `POSE-RIGIDITY` was not observed.
-- The image felt substantially more natural and cinematic than the earlier rigid portrait-style generations.
-- Motion does not appear to require heavy prompt micromanagement; concise action direction may be preferable.
-
-### What failed or remains unverified
-
-- `IDENTITY-UNVERIFIED` — the output resembles the conversational reconstruction of Sylvan, but the generation was not demonstrably anchored to the repository's authoritative identity-master image. Do not assign a formal identity-fidelity score yet.
-- `ENV-GENERIC` — the city defaulted toward familiar dystopian/cyberpunk visual shorthand rather than a uniquely recognizable *Seeds of the Throne* environment.
-- `TECH-GENERIC` — background technology/vehicles/architecture were visually effective but not grounded in established Seeds technology packets.
-- Wardrobe defaulted toward a generic black neo-noir protagonist. Character identity, wardrobe identity, and world/environment identity need separate reusable packets.
-
-### Architectural conclusion from B03
-
-The current image-generation layer is capable of producing convincing natural cinematic action. The immediate weakness is not raw image quality; it is **grounding that image quality in the unique visual identity of the Seeds world**.
-
-This supports a modular architecture:
+Recommended modular assembly:
 
 `identity packet + wardrobe packet + environment packet + technology packet + story beat + cinematography packet -> clean generation brief`
 
-Each module should be independently improvable. Do not compensate for a generic environment by bloating the character identity prompt.
+## B04 — profile interaction / Luminai shorthand failure
 
-## Required architecture change
+The clean profile-interaction generation produced coherent profile geometry, matching eye lines, sensible spacing, and no obvious identity bleed between the two figures. The interaction was readable, though somewhat symmetrical/staged.
 
-**Generation and evaluation must remain completely separated.** The image model should receive only photographic scene-production information. Benchmark IDs, rubrics, model comparisons, expected findings, and evaluation metadata remain outside generation.
+The major failure was the AI counterpart. With insufficient Luminai-specific visual canon, the model defaulted immediately to conventional science-fiction shorthand: a transparent blue-white holographic woman covered in glowing circuitry/particles inside a generic high-tech corridor.
 
-## Revised benchmark flow
+Tags:
+- `TECH-GENERIC` — severe
+- `ENV-GENERIC` — moderate
+- `IDENTITY-UNVERIFIED`
+- `POSE-RIGIDITY` — mild/symmetrical face-off
 
-1. Retrieve authoritative identity references/packet plus only required canon/environment source material.
-2. Select benchmark scenario outside the generation instruction.
-3. Assemble a clean scene-only generation brief.
-4. Generate one candidate.
-5. Inspect the actual image.
-6. Score externally.
-7. Record failure tags and observations.
-8. Change the smallest responsible layer before rerunning.
+### B04 conclusion
 
-## Status
+**Luminai manifestation must be visually defined before large-scale Luminai image generation.** Otherwise models will fill the design vacuum with holograms, transparent bodies, glowing circuitry, generic blue AI imagery, and familiar cyberpunk interfaces.
 
-- B01: **REJECTED / INVALID DATA** — benchmark report rendered instead of candidate.
-- B02: **REJECTED AS BENCHMARK DATA / DIAGNOSTIC ONLY** — candidate contaminated with benchmark typography/metadata.
-- B03: **VALID CLEAN GENERATION / DIAGNOSTIC** — motion and anatomy promising; identity unverified; environment and technology generic.
-- Continue one candidate at a time.
+The visual system should distinguish between what a Luminai *is* in canon and how a particular camera/image is allowed to represent an otherwise perceptual or technologically mediated presence.
 
-## Next test direction — profile interaction
+# Visual Definition Backlog
 
-The next test should challenge profile/near-profile continuity during natural interaction with another person. Keep the generation brief free of all benchmark terminology and embedded-text requests. The key observations are whether facial identity survives profile geometry, whether the second person contaminates the primary subject's identity, and whether interaction feels naturally blocked rather than staged.
+These are now explicit design tasks exposed by the benchmark. They should be developed in technology/worldbuilding sessions and integrated into the permanent visual system when resolved.
 
-## Integration target
+## Priority 1 — Luminai manifestation
 
-Tonight, fold these findings into:
+- [ ] Define whether a Luminai normally has any externally visible physical manifestation at all.
+- [ ] Define what the paired human actually perceives versus what an outside observer perceives.
+- [ ] Define whether manifestation is neural/perceptual, environmental projection, synthetic embodiment, physical matter, or context-dependent combinations.
+- [ ] Define the default visual presentation for an image/video audience without falsely implying that every character in-world sees the same thing.
+- [ ] Define visual invariants that make one individual's Luminai recognizable across scenes.
+- [ ] Define how male/female presentation appears without reducing Luminai to conventional human romantic-partner imagery.
+- [ ] Define visual differences between ordinary Luminai and Sylvan's unprecedented advanced integration.
+- [ ] Define how Luminai appearance changes with cognition, emotion, danger, synchronization, distance, or system access, if it changes at all.
+- [ ] Explicitly prohibit unsupported default shorthand: generic blue hologram, transparent glass body, glowing circuit skin, floating HUD companion.
+
+## Priority 2 — Daemon visual language
+
+- [ ] Define whether Daemons are visible/perceived differently from Luminai.
+- [ ] Define whether their appearance reflects the human's cognition, pathology/obsessions, permissions, or operational state.
+- [ ] Avoid a simplistic visual equation of Daemon = evil red hologram.
+- [ ] Define how remote action by a Daemon can be shown visually without implying physical presence where none exists.
+
+## Priority 3 — Seeds environment identity
+
+- [ ] Define architectural principles for the advanced civilization and colony environments.
+- [ ] Define how an overwhelmingly synthetic population changes streets, buildings, transportation, workplaces, and public space.
+- [ ] Define materials, infrastructure, scale, maintenance, weather interaction, signage, and lighting logic.
+- [ ] Create environment packets for major eras/locations instead of prompting 'futuristic city' or 'high-tech corridor.'
+- [ ] Identify visual motifs unique enough that an environment can read as Seeds without a character present.
+- [ ] Prevent generic cyberpunk, Blade-Runner-like neon, generic spaceship corridor, and generic holographic-control-room defaults unless story-specific.
+
+## Priority 4 — Technology identity
+
+- [ ] Define how advanced technology is physically integrated into environments rather than displayed as decorative holograms.
+- [ ] Define human/environment interfaces and what is visible versus invisible.
+- [ ] Define synthetic bodies and how they differ, if at all, from biological humans in externally observable ways.
+- [ ] Define moon/orbital command infrastructure visual rules.
+- [ ] Define transportation and communications visual language.
+- [ ] Define the visual consequences of technology that interfaces mentally and physically with participants.
+
+## Priority 5 — Wardrobe system
+
+- [ ] Create wardrobe packets by character, era, social role, environment, and scene state.
+- [ ] Define Sylvan's wardrobe range so models do not default to black neo-noir coats.
+- [ ] Separate identity-defining appearance from scene-changeable clothing.
+- [ ] Define materials and construction appropriate to each civilization/era.
+
+## Priority 6 — Character identity grounding
+
+- [ ] Ensure benchmark generations explicitly use authoritative repository identity references.
+- [ ] Define reference priority when multiple angles/masters exist.
+- [ ] Test whether identity remains stable when character names are omitted from clean generation briefs.
+- [ ] Establish formal scoring only after reference grounding is verifiable.
+
+## Priority 7 — Interaction/blocking
+
+- [ ] Develop interaction language that produces asymmetric, lived-in behavior rather than face-to-face poster compositions.
+- [ ] Test interrupted conversations, shared tasks, walking dialogue, foreground/background separation, unequal eye lines, and physical environment interaction.
+- [ ] Establish rules for multi-character identity separation and gaze direction.
+
+## Priority 8 — Relationship/Luminai compositions
+
+- [ ] Define how two humans plus their paired Luminai are represented when relationships form.
+- [ ] Define visual cues for consent, privacy boundaries, synchronization, shared context, and relationship-level coordination.
+- [ ] Ensure Luminai do not visually read as additional romantic partners unless canon explicitly calls for that interpretation.
+
+## Priority 9 — Prompt/agent architecture
+
+- [ ] Enforce hard separation between generation context and evaluation context.
+- [ ] Build clean scene-brief assembler from modular packets.
+- [ ] Keep benchmark metadata external to image generation.
+- [ ] Add explicit no-text/no-typography constraints when appropriate.
+- [ ] Record exact source packets/commit state for reproducibility.
+- [ ] Add tool-specific adapters only for demonstrated model-specific failures.
+
+## Current benchmark status
+
+- B01: rejected / invalid data
+- B02: rejected as benchmark data / diagnostic only
+- B03: valid clean diagnostic; strong motion/anatomy; generic world grounding
+- B04: valid clean diagnostic; interaction/profile promising; severe generic-Luminai shorthand exposed
+
+## Next test
+
+B05 should challenge the subject inside a populated crowd with partial occlusion and many unrelated faces. Keep the prompt scene-only. Observe identity loss, accidental duplicates, crowd homogeneity, scale, environment genericity, and whether the subject remains naturally embedded in the scene rather than heroically centered like a poster.
+
+## Integration targets for tonight
 
 - `02 Story/Systems/Visual Generation/VISUAL-BENCHMARK-SUITE.md`
 - `02 Story/Systems/Visual Generation/PROMPT-SYSTEM.md`
-- environment/technology packet design
-- wardrobe packet design or character continuity packets
-- any future agent-facing generation contract
+- Luminai/Daemon technology documentation
+- environment packets
+- technology packets
+- wardrobe packets
+- interaction/blocking guidance
+- future agent-facing generation contract
