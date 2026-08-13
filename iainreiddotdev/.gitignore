@@ -1,0 +1,39 @@
+# Local / runtime
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+config.local.php
+
+# VibeKB SQLite database and its runtime sidecar files (never commit real
+# accounts). The protective data/.htaccess and data/index.php are NOT ignored.
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.db-wal
+*.db-shm
+*.db-journal
+
+# PHP session files and local backups
+sess_*
+*.bak
+*.tmp
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency / build leftovers if introduced later. Anchored to the repository
+# root so it means "a Composer vendor directory", not "any directory called
+# vendor" — assets/js/vendor/ holds the vendored three.js build and is tracked.
+node_modules/
+/vendor/
+dist/
+.cache/

@@ -1,0 +1,552 @@
+/*
+ * VibeKB — project page (repository understanding)
+ * Page-specific styles layered on top of the shared portfolio system
+ * (assets/css/style.css). Reuses the workshop palette, typography, and
+ * chrome; adds a distinct field-ledger identity for the lab.
+ */
+
+:root {
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    --lab-green: #7ba888;
+    --lab-amber: #c9a24b;
+    --lab-slate: #8a8580;
+    --lab-panel: linear-gradient(160deg, #201811, #14110d);
+    --lab-rule: rgba(201, 164, 91, .16);
+    --lab-rule-strong: rgba(201, 164, 91, .34);
+    --lab-graph: rgba(201, 164, 91, .05);
+}
+
+/* Faint ledger ruling behind the whole page, distinct from the homepage
+   dust while sharing its warmth. Sits under everything, non-interactive. */
+.ledger-rule {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: linear-gradient(90deg, var(--lab-graph) 1px, transparent 1px);
+    background-size: 3.5rem 100%;
+    mask-image: radial-gradient(ellipse 90% 80% at 50% 20%, #000 30%, transparent 82%);
+}
+
+/* ---- shared helpers reused with a lab accent ---- */
+.mono {
+    font-family: var(--mono);
+    font-size: .72rem;
+    letter-spacing: .08em;
+    color: var(--brass-light);
+}
+.eyebrow-note {
+    color: var(--muted);
+    max-width: 40rem;
+}
+
+.signal {
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    font-family: var(--mono);
+    font-size: .68rem;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    color: var(--paper);
+    white-space: nowrap;
+}
+.signal::before {
+    content: "";
+    width: .5rem;
+    height: .5rem;
+    border-radius: 50%;
+    background: var(--lab-slate);
+    box-shadow: 0 0 0 3px rgba(13, 12, 10, .6);
+    flex: 0 0 auto;
+}
+.signal--active::before { background: var(--lab-green); box-shadow: 0 0 8px rgba(123, 168, 136, .7); }
+.signal--working::before { background: var(--brass-light); box-shadow: 0 0 8px rgba(210, 173, 98, .55); }
+.signal--dev::before { background: var(--lab-amber); box-shadow: 0 0 8px rgba(201, 162, 75, .5); }
+
+/* ============================================================
+   Hero — ledger cover + status board
+   ============================================================ */
+.lab-hero {
+    width: min(100% - 2rem, 76rem);
+    margin: 0 auto;
+    min-height: 100svh;
+    display: grid;
+    grid-template-columns: 1.05fr .95fr;
+    align-items: center;
+    gap: clamp(2rem, 5vw, 4.5rem);
+    padding: 9rem 0 4rem;
+}
+.lab-hero__intro { min-width: 0; }
+.lab-hero h1 {
+    font-size: clamp(3.2rem, 9vw, 6rem);
+    letter-spacing: .03em;
+    margin-bottom: 1.25rem;
+}
+.lab-hero__lede {
+    font-family: var(--serif);
+    font-size: clamp(1.35rem, 2.6vw, 1.9rem);
+    line-height: 1.35;
+    color: var(--paper);
+    max-width: 26rem;
+    margin: 0 0 1.5rem;
+}
+.lab-hero__copy {
+    color: var(--muted);
+    max-width: 30rem;
+}
+.lab-hero__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--lab-rule);
+    font-family: var(--mono);
+    font-size: .7rem;
+    letter-spacing: .08em;
+    color: var(--muted);
+}
+.lab-hero__meta b { color: var(--brass-light); font-weight: 600; }
+
+/* Status board — the distinct visual anchor (a compact experiment index) */
+.board {
+    min-width: 0;
+    border: 1px solid var(--lab-rule-strong);
+    border-radius: .5rem;
+    background: var(--lab-panel);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+.board__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.35rem;
+    border-bottom: 1px solid var(--lab-rule);
+    background: rgba(0, 0, 0, .22);
+}
+.board__title {
+    font-family: var(--mono);
+    font-size: .68rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--brass-light);
+}
+.board__count {
+    font-family: var(--display);
+    font-size: 1rem;
+    color: var(--paper);
+}
+.board__rows { list-style: none; }
+.board__row {
+    display: grid;
+    grid-template-columns: 4.5rem 1fr auto;
+    align-items: center;
+    gap: .9rem;
+    padding: 1rem 1.35rem;
+    border-bottom: 1px solid var(--lab-rule);
+    transition: background .25s ease;
+}
+.board__row:hover { background: rgba(210, 173, 98, .05); }
+.board__id {
+    font-family: var(--mono);
+    font-size: .72rem;
+    letter-spacing: .05em;
+    color: var(--brass);
+}
+.board__name {
+    font-family: var(--display);
+    font-size: .95rem;
+    letter-spacing: .02em;
+    color: var(--ivory);
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.board__pipe {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem .5rem;
+    padding: 1rem 1.35rem 1.15rem;
+    font-family: var(--mono);
+    font-size: .64rem;
+    letter-spacing: .06em;
+    color: var(--muted);
+}
+.board__pipe span { white-space: nowrap; }
+.board__pipe i { color: var(--brass); font-style: normal; }
+
+/* ============================================================
+   Section scaffolding
+   ============================================================ */
+.lab-section { position: relative; }
+.lab-section .section-heading .mono { display: block; margin-bottom: .9rem; }
+
+/* ============================================================
+   Operating method — pipeline timeline
+   ============================================================ */
+.pipeline {
+    display: grid;
+    gap: 0;
+    max-width: 52rem;
+}
+.pipe-step {
+    position: relative;
+    display: grid;
+    grid-template-columns: 3.5rem 1fr;
+    gap: 1.5rem;
+    padding: 0 0 2.25rem 0;
+}
+.pipe-step:last-child { padding-bottom: 0; }
+/* connecting spine */
+.pipe-step::before {
+    content: "";
+    position: absolute;
+    left: 1.05rem;
+    top: 1.75rem;
+    bottom: -.25rem;
+    width: 1px;
+    background: var(--lab-rule-strong);
+}
+.pipe-step:last-child::before { display: none; }
+.pipe-step__num {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    place-items: center;
+    width: 2.1rem;
+    height: 2.1rem;
+    border: 1px solid var(--lab-rule-strong);
+    border-radius: 50%;
+    background: var(--night);
+    font-family: var(--mono);
+    font-size: .72rem;
+    color: var(--brass-light);
+}
+.pipe-step__body { min-width: 0; padding-top: .15rem; }
+.pipe-step__body h3 {
+    font-family: var(--display);
+    font-size: 1.15rem;
+    letter-spacing: .02em;
+    margin-bottom: .4rem;
+}
+.pipe-step__body p {
+    color: var(--muted);
+    font-size: .95rem;
+    max-width: 38rem;
+    margin: 0;
+}
+/* terminal decision gate */
+.pipe-step--gate .pipe-step__num {
+    border-color: var(--brass);
+    color: var(--brass);
+    rotate: 45deg;
+    border-radius: .2rem;
+}
+.pipe-step--gate .pipe-step__num span { rotate: -45deg; }
+.gate-outcomes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: .9rem;
+}
+.gate-outcomes span {
+    font-family: var(--mono);
+    font-size: .68rem;
+    letter-spacing: .06em;
+    padding: .3rem .7rem;
+    border: 1px solid var(--lab-rule);
+    border-radius: 999px;
+    color: var(--paper);
+}
+.gate-outcomes span:last-child { color: var(--lab-slate); border-color: rgba(138, 133, 128, .3); }
+
+/* ============================================================
+   Experiments — full ledger entries
+   ============================================================ */
+.experiments { display: grid; gap: 1.5rem; }
+.experiment {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: .55rem;
+    background:
+        linear-gradient(145deg, rgba(255, 255, 255, .03), transparent 34%),
+        var(--lab-panel);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, .3);
+    transition: border-color .25s ease, box-shadow .25s ease;
+}
+.experiment:hover {
+    border-color: rgba(210, 173, 98, .5);
+    box-shadow: 0 24px 55px rgba(0, 0, 0, .42);
+}
+.experiment__head {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .75rem 1.25rem;
+    padding: 1.5rem clamp(1.5rem, 4vw, 2.5rem);
+    border-bottom: 1px solid var(--lab-rule);
+}
+.experiment__ghost {
+    position: absolute;
+    right: clamp(1rem, 4vw, 2.5rem);
+    top: 50%;
+    translate: 0 -50%;
+    font-family: var(--mono);
+    font-size: clamp(3.5rem, 8vw, 5.5rem);
+    line-height: 1;
+    color: rgba(201, 164, 91, .07);
+    pointer-events: none;
+    user-select: none;
+}
+.experiment__id {
+    font-family: var(--mono);
+    font-size: .72rem;
+    letter-spacing: .1em;
+    color: var(--brass);
+}
+.experiment__name {
+    font-family: var(--display);
+    font-size: clamp(1.5rem, 3vw, 2.1rem);
+    letter-spacing: .02em;
+    margin-right: auto;
+}
+.experiment__body {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: clamp(1.5rem, 4vw, 3rem);
+    padding: clamp(1.5rem, 4vw, 2.5rem);
+}
+.experiment__narrative { min-width: 0; }
+.field-label {
+    display: block;
+    margin-bottom: .5rem;
+    font-family: var(--mono);
+    font-size: .64rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--brass-light);
+}
+.experiment__hypothesis {
+    margin: 0 0 1.75rem;
+    padding-left: 1.15rem;
+    border-left: 2px solid var(--brass);
+}
+.experiment__hypothesis blockquote {
+    margin: 0;
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: clamp(1.2rem, 2.2vw, 1.45rem);
+    line-height: 1.4;
+    color: var(--paper);
+}
+.experiment__block { margin-bottom: 1.75rem; }
+.experiment__block:last-child { margin-bottom: 0; }
+.experiment__block p {
+    margin: 0;
+    color: var(--muted);
+    font-size: .96rem;
+}
+/* product loop — inline step sequence, not cards */
+.loop {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem .65rem;
+    font-size: .92rem;
+}
+.loop span {
+    color: var(--paper);
+    padding: .3rem .55rem;
+    border: 1px solid var(--lab-rule);
+    border-radius: .3rem;
+    background: rgba(0, 0, 0, .2);
+}
+.loop i { color: var(--brass); font-style: normal; }
+
+/* metadata rail */
+.rail {
+    align-self: start;
+    border-left: 1px solid var(--lab-rule);
+    padding-left: clamp(1.25rem, 3vw, 2rem);
+}
+.rail dl { margin: 0; display: grid; gap: 1.1rem; }
+.rail dt {
+    font-family: var(--mono);
+    font-size: .62rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--brass-light);
+    margin-bottom: .3rem;
+}
+.rail dd {
+    margin: 0;
+    color: var(--paper);
+    font-size: .92rem;
+    line-height: 1.5;
+}
+.rail dd.muted { color: var(--muted); }
+.rail .tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    font-family: var(--mono);
+    font-size: .7rem;
+}
+.rail .tech span {
+    padding: .22rem .5rem;
+    border: 1px solid rgba(210, 173, 98, .22);
+    border-radius: .25rem;
+    color: #c4b99f;
+}
+
+/* ============================================================
+   Principles — restrained numbered ledger, not cards
+   ============================================================ */
+.tenets {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 clamp(2rem, 5vw, 4rem);
+    max-width: 60rem;
+}
+.tenet {
+    display: grid;
+    grid-template-columns: 2.5rem 1fr;
+    gap: 1rem;
+    padding: 1.35rem 0;
+    border-top: 1px solid var(--lab-rule);
+}
+.tenet__num {
+    font-family: var(--mono);
+    font-size: .72rem;
+    color: var(--brass);
+    padding-top: .15rem;
+}
+.tenet p {
+    margin: 0;
+    color: var(--paper);
+    font-size: 1rem;
+    line-height: 1.45;
+}
+
+/* ============================================================
+   Technical approach — instrument inventory (secondary)
+   ============================================================ */
+.instruments {
+    border: 1px solid var(--lab-rule);
+    border-radius: .5rem;
+    background: rgba(0, 0, 0, .18);
+    padding: clamp(1.5rem, 4vw, 2.5rem);
+}
+.instruments > p {
+    color: var(--muted);
+    max-width: 44rem;
+    margin: 0 0 2rem;
+    font-family: var(--serif);
+    font-size: clamp(1.05rem, 1.8vw, 1.2rem);
+    line-height: 1.5;
+}
+.instruments > p .accent { color: var(--paper); }
+.inv-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem clamp(1.5rem, 4vw, 2.5rem);
+}
+.inv-group h3 {
+    font-family: var(--mono);
+    font-size: .64rem;
+    font-weight: 400;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--brass-light);
+    margin-bottom: .85rem;
+    padding-bottom: .6rem;
+    border-bottom: 1px solid var(--lab-rule);
+}
+.inv-group ul { list-style: none; display: grid; gap: .5rem; }
+.inv-group li {
+    color: var(--muted);
+    font-size: .88rem;
+}
+
+/* ============================================================
+   Closing
+   ============================================================ */
+.lab-close {
+    width: min(100% - 2rem, 76rem);
+    margin: 0 auto;
+    padding: clamp(3rem, 8vw, 6rem) 0;
+    text-align: center;
+    border-top: 1px solid var(--lab-rule);
+}
+.lab-close h2 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem);
+    max-width: 24rem;
+    margin: 0 auto 1.25rem;
+}
+.lab-close p {
+    color: var(--muted);
+    max-width: 34rem;
+    margin: 0 auto 2rem;
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    line-height: 1.5;
+}
+.lab-close__links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.25rem 2rem;
+}
+.lab-close__links a {
+    color: var(--brass-light);
+    text-decoration: none;
+    font-family: var(--display);
+    font-size: .74rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: .15rem;
+    transition: color .25s ease;
+}
+.lab-close__links a:hover,
+.lab-close__links a:focus-visible { color: var(--paper-light); outline: none; }
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media (max-width: 900px) {
+    .lab-hero {
+        grid-template-columns: 1fr;
+        min-height: auto;
+        padding: 8rem 0 3rem;
+        gap: 2.5rem;
+    }
+    .lab-hero__lede, .lab-hero__copy { max-width: none; }
+    .experiment__body { grid-template-columns: 1fr; }
+    .rail {
+        border-left: 0;
+        border-top: 1px solid var(--lab-rule);
+        padding-left: 0;
+        padding-top: 1.75rem;
+    }
+    .rail dl { grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    .inv-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 620px) {
+    .lab-hero { width: min(100% - 1.25rem, 76rem); }
+    .board__row { grid-template-columns: 3.75rem 1fr; grid-template-rows: auto auto; }
+    .board__row .signal { grid-column: 2; }
+    .tenets { grid-template-columns: 1fr; }
+    .rail dl { grid-template-columns: 1fr; }
+    .inv-grid { grid-template-columns: 1fr 1fr; }
+    .experiment__ghost { display: none; }
+    .lab-close { width: calc(100% - 1.25rem); }
+}

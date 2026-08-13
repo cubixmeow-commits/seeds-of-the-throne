@@ -1,0 +1,18 @@
+---
+deployment:
+  tasks:
+    - export WEBROOT=/home/iainmcok/public_html/
+    - export SITEPATH=/home/iainmcok/public_html/iainreiddotdev/
+    - /bin/mkdir -p $SITEPATH
+    - /bin/cp index.php $WEBROOT
+    - /bin/cp iainreiddotdev/index.php $SITEPATH
+    - /bin/cp iainreiddotdev/showdown-gate.php $SITEPATH
+    - /bin/cp -R iainreiddotdev/assets $SITEPATH
+    - /bin/cp -R iainreiddotdev/includes $SITEPATH
+    - /bin/cp -R iainreiddotdev/saas-lab $SITEPATH
+    - /bin/cp -R iainreiddotdev/auth $SITEPATH
+    - /bin/cp -R iainreiddotdev/admin $SITEPATH
+    - /bin/cp -R iainreiddotdev/data $SITEPATH
+    - /bin/cp -R iainreiddotdev/scripts $SITEPATH
+    - /bin/cp -R iainreiddotdev/x $SITEPATH
+    - /bin/cp -R iainreiddotdev/retro $SITEPATH

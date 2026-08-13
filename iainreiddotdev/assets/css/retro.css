@@ -1,0 +1,620 @@
+/* =============================================================================
+   MEOWNET BBS — the retro page's design system.
+
+   One file, no build step, no imports, no web fonts. Organised as:
+
+     1. Tokens        phosphor colour, type, space
+     2. Reset         the small amount that is actually needed
+     3. Screen        CRT shell, scanlines, glow, status line
+     4. Regions       connect log, banner, menu, panels, message base, files,
+                      doors, sysop
+     5. Responsive    one narrow layout and one wide one
+     6. Preferences   reduced motion, more contrast, forced colours, print
+
+   The visual system: one phosphor colour on near-black, at three intensities
+   (dim / normal / bright). Structure is drawn the way a DOS box was drawn —
+   double rules and box-drawing characters — never with shadow or radius. The
+   whole page is monospace, because a bulletin board had no other option.
+
+   Two phosphors ship: green (default) and amber, switched by `data-phosphor`
+   on <body>. Everything downstream reads the tokens, so nothing else changes.
+   ========================================================================== */
+
+/* ---------------------------------------------------------------- 1. TOKENS */
+
+:root {
+    color-scheme: dark;
+
+    /* --- Colour: green phosphor (the default). --------------------------- */
+    --bg: oklch(0.14 0.018 155);
+    --bg-deep: oklch(0.10 0.014 155);
+    --ink: oklch(0.84 0.19 148);
+    --ink-dim: oklch(0.66 0.13 150);
+    --ink-faint: oklch(0.52 0.08 152);
+    --ink-bright: oklch(0.95 0.16 145);
+    --rule: oklch(0.58 0.11 150);
+    --select: oklch(0.84 0.19 148 / 0.28);
+
+    /* Type. One family, five sizes; nothing else is needed. */
+    --mono: ui-monospace, "SFMono-Regular", "Cascadia Mono", "Consolas",
+        "DejaVu Sans Mono", "Liberation Mono", "Courier New", monospace;
+    --text-xs: 0.75rem;
+    --text-sm: 0.8125rem;
+    --text-base: 0.9375rem;
+    --text-lg: 1.0625rem;
+
+    /* Space. A four-step scale on a 4px grid. */
+    --space-1: 0.25rem;
+    --space-2: 0.5rem;
+    --space-3: 1rem;
+    --space-4: 1.5rem;
+    --space-5: 2.5rem;
+
+    --gutter: clamp(0.75rem, 3vw, 2rem);
+    --measure: 78ch;
+    --tap: 44px;
+}
+
+/* --- Colour: amber phosphor. --------------------------------------------- */
+[data-phosphor="amber"] {
+    --bg: oklch(0.14 0.02 70);
+    --bg-deep: oklch(0.10 0.016 70);
+    --ink: oklch(0.83 0.155 78);
+    --ink-dim: oklch(0.66 0.12 76);
+    --ink-faint: oklch(0.53 0.08 74);
+    --ink-bright: oklch(0.94 0.13 85);
+    --rule: oklch(0.60 0.11 76);
+    --select: oklch(0.83 0.155 78 / 0.28);
+}
+
+/* ----------------------------------------------------------------- 2. RESET */
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+body,
+h1, h2, p, dl, dd, ul, figure, pre { margin: 0; }
+
+ul { padding: 0; list-style: none; }
+
+button {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    cursor: pointer;
+}
+
+::selection { background: var(--select); }
+
+/* Focus is loud on purpose: it has to survive the scanline overlay. */
+:where(a, button):focus-visible {
+    outline: 2px solid var(--ink-bright);
+    outline-offset: 2px;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+.skip-link {
+    position: absolute;
+    inset-block-start: var(--space-2);
+    inset-inline-start: var(--space-2);
+    z-index: 20;
+    padding: var(--space-2) var(--space-3);
+    background: var(--bg-deep);
+    border: 1px solid var(--ink);
+    color: var(--ink-bright);
+    transform: translateY(-200%);
+}
+
+.skip-link:focus { transform: none; }
+
+/* ---------------------------------------------------------------- 3. SCREEN */
+
+body {
+    min-block-size: 100svb;
+    padding: var(--gutter);
+    background: var(--bg-deep);
+    color: var(--ink-dim);
+    font-family: var(--mono);
+    font-size: var(--text-base);
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
+
+/* The two decorative overlays. Fixed, non-interactive, and cheap: one
+   repeating gradient and one radial vignette, both composited on their own
+   layer so scrolling never repaints them. */
+.crt__scanlines,
+.crt__glow {
+    position: fixed;
+    inset: 0;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.crt__scanlines {
+    background: repeating-linear-gradient(
+        to bottom,
+        oklch(0 0 0 / 0.28) 0 1px,
+        oklch(0 0 0 / 0) 1px 3px
+    );
+    mix-blend-mode: multiply;
+}
+
+.crt__glow {
+    background:
+        radial-gradient(
+            120% 90% at 50% 45%,
+            oklch(0 0 0 / 0) 40%,
+            oklch(0 0 0 / 0.55) 100%
+        );
+}
+
+.screen {
+    position: relative;
+    inline-size: min(100%, 74rem);
+    margin-inline: auto;
+    padding: clamp(var(--space-3), 2.5vw, var(--space-5));
+    background: var(--bg);
+    border: 3px double var(--rule);
+}
+
+.hl { color: var(--ink-bright); }
+
+a {
+    color: var(--ink-bright);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+a:hover { background: var(--select); }
+
+kbd {
+    padding-inline: 0.35em;
+    border: 1px solid var(--rule);
+    color: var(--ink-bright);
+    font: inherit;
+}
+
+/* The block cursor. Blinks at the speed a real one did. */
+.cursor {
+    display: inline-block;
+    inline-size: 0.6em;
+    block-size: 1.05em;
+    margin-inline-start: 0.15em;
+    background: var(--ink);
+    vertical-align: text-bottom;
+    animation: blink 1.06s steps(1, end) infinite;
+}
+
+@keyframes blink {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+}
+
+/* --------------------------------------------------------------- 4. REGIONS */
+
+/* ---- Connect log ---------------------------------------------------------*/
+
+.connect__log {
+    margin-block-end: var(--space-3);
+    color: var(--ink-faint);
+    font-family: inherit;
+    font-size: var(--text-sm);
+    white-space: pre-wrap;
+    min-block-size: 3lh;
+}
+
+/* ---- Banner --------------------------------------------------------------*/
+
+.banner {
+    padding-block-end: var(--space-3);
+    border-block-end: 3px double var(--rule);
+}
+
+/* 65 columns of block characters. The font size is tied to the viewport so the
+   art always fits on one line — that is the whole point of it — and the
+   container scrolls rather than the page if a font ever renders wider. */
+.banner__art {
+    overflow-x: auto;
+    color: var(--ink);
+    font-family: inherit;
+    font-size: clamp(4px, 2.15vw, 15px);
+    line-height: 1.05;
+}
+
+.banner__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-4);
+    margin-block-start: var(--space-3);
+}
+
+.banner__cat {
+    color: var(--ink-bright);
+    font-family: inherit;
+    font-size: var(--text-base);
+    line-height: 1.15;
+}
+
+.banner__strap {
+    color: var(--ink);
+    font-size: var(--text-sm);
+    letter-spacing: 0.04em;
+}
+
+.banner__welcome {
+    max-inline-size: var(--measure);
+    margin-block-start: var(--space-3);
+    font-size: var(--text-sm);
+}
+
+/* ---- Menu ----------------------------------------------------------------*/
+
+.menu {
+    padding-block: var(--space-3);
+    border-block-end: 3px double var(--rule);
+}
+
+.menu__hint {
+    margin-block-end: var(--space-2);
+    color: var(--ink-faint);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.menu__list {
+    display: grid;
+    gap: var(--space-1);
+}
+
+/* Narrow: the hotkey sits beside the name and the description drops under
+   both. Wide (below) it becomes three columns, the way the menu was printed. */
+.menu__list button {
+    display: grid;
+    grid-template-columns: 3.5ch minmax(0, 1fr);
+    align-items: baseline;
+    gap: var(--space-1) var(--space-2);
+    inline-size: 100%;
+    min-block-size: var(--tap);
+    padding: var(--space-2);
+    border: 1px solid transparent;
+    text-align: start;
+}
+
+.menu__list .menu__line { grid-column: 2; }
+
+.menu__key { color: var(--ink-faint); }
+.menu__name { color: var(--ink-bright); letter-spacing: 0.06em; }
+.menu__line { color: var(--ink-dim); font-size: var(--text-sm); }
+
+.menu__list button:hover {
+    border-color: var(--rule);
+}
+
+/* The selected item is inverted, exactly as a lightbar menu was. */
+.menu__list button[aria-selected="true"] {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--bg-deep);
+}
+
+.menu__list button[aria-selected="true"] .menu__key,
+.menu__list button[aria-selected="true"] .menu__name,
+.menu__list button[aria-selected="true"] .menu__line {
+    color: inherit;
+}
+
+/* ---- Panels --------------------------------------------------------------*/
+
+.panel {
+    padding-block: var(--space-4);
+}
+
+/* Without the script every panel is on the page at once, so they need a rule
+   between them. Once the script has taken over only one is ever visible. */
+.panels:not([data-ready]) .panel + .panel { border-block-start: 1px dashed var(--rule); }
+
+.panel[hidden] { display: none; }
+
+/* The script moves focus here when a menu item is chosen. */
+.panel:focus-visible {
+    outline: 2px dashed var(--ink-faint);
+    outline-offset: 4px;
+}
+
+.panel__title,
+.panel__sub {
+    padding-block-end: var(--space-1);
+    border-block-end: 1px solid var(--rule);
+    color: var(--ink-bright);
+    letter-spacing: 0.08em;
+    text-wrap: balance;
+}
+
+.panel__title { font-size: var(--text-lg); }
+
+.panel__sub {
+    margin-block: var(--space-4) var(--space-2);
+    font-size: var(--text-base);
+}
+
+/* The ░▒▓█ ramp a board used to rule a screen. Decorative, so it is dimmer
+   than the heading and hidden from assistive technology in the markup. */
+.bar {
+    color: var(--ink-faint);
+    letter-spacing: 0;
+}
+
+.panel__lede {
+    max-inline-size: var(--measure);
+    margin-block-start: var(--space-2);
+    font-size: var(--text-sm);
+}
+
+.prompt {
+    margin-block-start: var(--space-4);
+    padding-block-start: var(--space-2);
+    border-block-start: 1px dashed var(--rule);
+    color: var(--ink-faint);
+    font-size: var(--text-sm);
+}
+
+/* ---- Bulletins and one-liners --------------------------------------------*/
+
+.bulletins {
+    margin-block-start: var(--space-3);
+    font-size: var(--text-sm);
+}
+
+.bulletins__row {
+    display: grid;
+    grid-template-columns: 10ch minmax(0, 1fr);
+    gap: var(--space-2);
+    padding-block: var(--space-1);
+}
+
+.bulletins__row dt { color: var(--ink-faint); }
+.bulletins__row dd { max-inline-size: var(--measure); margin: 0; }
+
+.oneliners {
+    display: grid;
+    gap: var(--space-1);
+    font-size: var(--text-sm);
+}
+
+.oneliners li { max-inline-size: var(--measure); color: var(--ink); }
+
+/* ---- Message base --------------------------------------------------------*/
+
+.msg {
+    margin-block-start: var(--space-3);
+    border: 1px solid var(--rule);
+}
+
+/* The message header block. It wraps rather than aligning into columns: a
+   long handle is more useful whole than tidily truncated. */
+.msg__head {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-4);
+    padding: var(--space-2);
+    border-block-end: 1px solid var(--rule);
+    font-size: var(--text-xs);
+}
+
+.msg__subject { flex-basis: 100%; }
+
+.msg__label {
+    display: inline-block;
+    min-inline-size: 6ch;
+    color: var(--ink-faint);
+}
+
+.msg__body {
+    overflow-x: auto;
+    padding: var(--space-3) var(--space-2);
+    color: var(--ink);
+    font-family: inherit;
+    font-size: var(--text-sm);
+    line-height: 1.45;
+}
+
+/* ---- Tables (file area, system stats) ------------------------------------*/
+
+/* Wide content scrolls inside its own container; the page itself never does. */
+.table-scroll {
+    overflow-x: auto;
+    margin-block-start: var(--space-3);
+    border: 1px solid var(--rule);
+}
+
+.files,
+.stats {
+    inline-size: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+    text-align: start;
+}
+
+.files th,
+.files td,
+.stats th,
+.stats td {
+    padding: var(--space-2);
+    text-align: start;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+.files thead th {
+    border-block-end: 1px solid var(--rule);
+    color: var(--ink-faint);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.files td:last-child { white-space: normal; min-inline-size: 32ch; }
+
+.files tbody tr + tr th,
+.files tbody tr + tr td,
+.stats tr + tr th,
+.stats tr + tr td { border-block-start: 1px dashed var(--rule); }
+
+.stats th {
+    color: var(--ink-faint);
+    font-weight: 400;
+}
+
+.stats td { white-space: normal; color: var(--ink); }
+
+/* ---- Doors ---------------------------------------------------------------*/
+
+.doors {
+    display: grid;
+    gap: var(--space-2);
+    margin-block-start: var(--space-3);
+}
+
+.door {
+    display: grid;
+    gap: var(--space-1);
+    padding: var(--space-2);
+    border: 1px solid var(--rule);
+}
+
+.door__name { letter-spacing: 0.06em; }
+.door__line { max-inline-size: var(--measure); font-size: var(--text-sm); }
+.door__players { color: var(--ink-faint); font-size: var(--text-xs); }
+
+/* ---- Sysop links ---------------------------------------------------------*/
+
+.sysop-links {
+    display: grid;
+    gap: var(--space-1);
+    font-size: var(--text-sm);
+}
+
+.sysop-links a {
+    display: inline-flex;
+    align-items: center;
+    min-block-size: var(--tap);
+}
+
+/* ---- Status line ---------------------------------------------------------*/
+
+/* The bar along the bottom of every BBS screen: inverted, one line, packed. */
+.status {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-1) var(--space-3);
+    margin-block-start: var(--space-4);
+    padding: var(--space-2);
+    background: var(--ink-dim);
+    color: var(--bg-deep);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.status__cell--wide { margin-inline-start: auto; }
+
+.status a,
+.status__button {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.status a:hover,
+.status__button:hover { background: var(--bg-deep); color: var(--ink-bright); }
+
+.status__button[hidden] { display: none; }
+
+.status :where(a, button):focus-visible {
+    outline: 2px solid var(--bg-deep);
+    outline-offset: 2px;
+}
+
+/* ------------------------------------------------------------ 5. RESPONSIVE */
+
+/* From here there is room for the menu to sit two-up and for the message
+   headers to stop wrapping. Below it, everything is one column. */
+@media (min-width: 48rem) {
+    .menu__list { grid-template-columns: 1fr 1fr; }
+
+    .menu__list button { grid-template-columns: 3.5ch minmax(0, 18ch) minmax(0, 1fr); }
+
+    .menu__list .menu__line { grid-column: 3; }
+
+    .doors { grid-template-columns: 1fr 1fr; }
+
+    .sysop-links { grid-template-columns: repeat(2, minmax(0, max-content)); }
+}
+
+/* ----------------------------------------------------------- 6. PREFERENCES */
+
+/* Nothing on this page needs to move. The cursor stops blinking, the connect
+   log is printed at once (the script checks this too), and the scanlines stay
+   because they are static texture, not motion. */
+@media (prefers-reduced-motion: reduce) {
+    .cursor { animation: none; }
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* Under a raised-contrast request the two overlays are the first thing to go:
+   both of them sit on top of the text. */
+@media (prefers-contrast: more) {
+    :root {
+        --ink-dim: var(--ink);
+        --ink-faint: var(--ink);
+    }
+
+    .crt__scanlines,
+    .crt__glow { display: none; }
+}
+
+@media (forced-colors: active) {
+    .crt__scanlines,
+    .crt__glow { display: none; }
+
+    .menu__list button[aria-selected="true"] {
+        forced-color-adjust: none;
+        background: Highlight;
+        color: HighlightText;
+    }
+}
+
+@media print {
+    .crt__scanlines,
+    .crt__glow,
+    .connect,
+    .menu { display: none; }
+
+    .panel[hidden] { display: block; }
+
+    body { background: #fff; color: #000; }
+    .screen { border: 1px solid #000; }
+}

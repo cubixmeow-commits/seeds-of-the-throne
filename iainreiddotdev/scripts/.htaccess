@@ -1,0 +1,13 @@
+# The scripts directory holds command-line tooling only. It should never be
+# reachable over HTTP. create-admin.php additionally refuses to run under any
+# non-CLI SAPI, so this is defense in depth.
+
+Options -Indexes
+
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
