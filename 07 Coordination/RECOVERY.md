@@ -22,8 +22,18 @@ The first attempt again produced an evaluation/dashboard image and was rejected.
 Suite conclusion
 The exploratory Sylvan suite is complete. Raw image quality is already strong. Visual Generation System v2 should focus on authoritative identity grounding, generation-context isolation, wardrobe variation, Seeds-specific architecture and technology, Luminai manifestation, no-text/canon controls, composition modes, positive-civilization definition, and controlled review of useful accidental inventions. After v2 is built, run the equivalent suite with Samuel to test generalization.
 
+## Era / character chronology update
+
+Sylvan Elaria is born at approximately the surface-civilization equivalent of **1985**. This should be integrated tonight into his permanent character/visual records and the Visual World Compiler.
+
+Compiler rule: store `birth_era_equivalent` for major characters. For a historical scene, calculate `scene_era_equivalent = birth_era_equivalent + character_age`, then retrieve the corresponding surface-civilization era packet before assembling wardrobe, technology, transportation, interiors, media, and other environmental details.
+
+Sylvan's broad progression therefore runs from an analog late-1980s infancy, through a 1990s childhood, 2000s adolescence/young adulthood, 2010s adulthood, and into the contemporary-equivalent present. This is a development envelope rather than a recreation of Earth-specific brands, people, countries, or events.
+
+Desktop integration should connect this rule to `02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE.md` and make the birth-year-plus-age resolver part of Visual Generation System v2 / the Visual World Compiler.
+
 ## Desktop handoff pointer
 
-IMPORTANT: Desktop integration should use the current project conversation from 2026-08-13 containing the sequential B01-B10 visual benchmark work as the detailed source of truth for this recovery entry. Search/open the conversation around the repeated requests `save data and next test` and the completion of the Sylvan B01-B10 suite. This RECOVERY.md is intentionally concise; the chat contains the full observations, rejected procedural generations, reasoning, and design implications needed to build Visual Generation System v2.
+IMPORTANT: Desktop integration should use the current project conversation from 2026-08-13 containing the sequential B01-B10 visual benchmark work, the Visual World Compiler research, the surface-civilization decade research, and the Sylvan 1985-equivalent chronology decision as the detailed source of truth for this recovery entry.
 
-Desktop integration task: review this recovery file together with that 2026-08-13 visual benchmark chat, merge all B01-B10 findings into the permanent visual-generation documentation, then design v2 before beginning Samuel's equivalent benchmark suite.
+Desktop integration task: review this recovery file together with that 2026-08-13 project chat, merge the findings into permanent visual-generation documentation, then design v2 before beginning Samuel's equivalent benchmark suite.
