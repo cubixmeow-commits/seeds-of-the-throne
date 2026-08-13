@@ -26,9 +26,9 @@ This is the meaning of George's development designation: **the Throwaway Prince*
 
 George's father intentionally manipulated both George and the lifelong AI bound to him. By interfering with George's Daemon and controlling the false reality surrounding him, his father cultivated an increasingly distorted and paranoid understanding of the world. The manipulation was not merely neglect or an accidental consequence of deception. It was weaponization.
 
-Over decades, George's fear and distorted beliefs shaped the Daemon, while the manipulated Daemon reinforced George's interpretation of threats. The resulting feedback loop made both George and his Daemon increasingly dangerous. The Daemon should eventually feel frightening in its own right: highly capable, destructive, suspicious, and increasingly difficult for George himself to restrain.
+Over decades, George's fear and distorted beliefs shaped the Daemon layer of his mind, which then amplified his interpretation of threats. The resulting feedback loop made George's entire extended cognition increasingly dangerous. The Daemon should eventually feel frightening without becoming a separate personality: highly capable, destructive, suspicious, and increasingly difficult for George's conscious biological attention to restrain.
 
-The Daemon is not simply an evil counterpart to Sylvan's Luminai. It is evidence of what can happen when a lifelong human-bound intelligence is deliberately corrupted through the human it develops alongside and through direct outside manipulation.
+The Daemon is not an evil counterpart or second personality opposed to Sylvan's Luminai. It is evidence of what can happen when the computational extension of a human mind is deliberately corrupted through lived experience and direct outside manipulation.
 
 ## The father's weapon
 
@@ -41,9 +41,9 @@ George is therefore positioned to perform an act his father cannot safely perfor
 The intended sequence is:
 
 - manipulate George's perception of reality;
-- manipulate and corrupt the Daemon that develops alongside him;
+- manipulate and corrupt the Daemon that develops as part of his extended mind;
 - cultivate fear, paranoia, isolation, and escalating threat perception;
-- direct that resulting human-AI weapon toward Sylvan;
+- direct that resulting weaponized extended mind toward Sylvan;
 - use George to remove Sylvan as the principal obstacle;
 - discard George once his purpose has been fulfilled;
 - allow George's father to attempt to seize control of the colonization planet afterward.

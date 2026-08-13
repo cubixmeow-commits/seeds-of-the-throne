@@ -44,7 +44,7 @@ George receives a larger and more prestigious role. He deals with major institut
 
 This creates his résumé and reinforces his belief that he is unusually capable. His father can selectively shape crises, victories, threats, and explanations so that George develops a durable worldview about who the enemies are and why his own authority is necessary.
 
-The Daemon develops alongside that worldview.
+The Daemon develops as the computational extension of that worldview.
 
 The submarine is deeper now, but George believes he has been promoted to a larger command.
 
@@ -112,13 +112,13 @@ The compass is what has been falsified.
 
 George is never truly alone on the bridge.
 
-His Daemon grows beside him: a lifelong artificial intelligence developing through continuous interaction with George, learning his fears, instincts, loyalties, grievances, and understanding of reality.
+His Daemon grows through him: a lifelong computational extension of George's own mind, developing from his fears, instincts, loyalties, grievances, memories, and understanding of reality.
 
 George's father corrupts that relationship.
 
-The false world that shapes George also shapes the Daemon. George's fear trains it. Its warnings reinforce George's fear. Each increasingly distorted interpretation becomes evidence for the next one, while outside manipulation makes the feedback loop worse.
+The false world that shapes George also shapes the Daemon. George's fear trains his extended cognition. Its predictions return that fear as apparently objective analysis. Each increasingly distorted interpretation becomes evidence for the next one, while outside manipulation makes the feedback loop worse.
 
-George becomes suspicious because the Daemon detects danger. The Daemon detects danger because George has spent decades teaching it what danger looks like. Both believe the other is confirming reality.
+George becomes suspicious because his extended mind detects danger. It detects danger because decades of manipulated experience have taught his entire cognition what danger looks like. The processing feels larger than conscious intuition, so George mistakes amplified self-confirmation for independent verification.
 
 Neither understands that someone else helped construct the reality they are confirming.
 

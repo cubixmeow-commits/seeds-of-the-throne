@@ -1,15 +1,16 @@
 ---
 type: system
-status: working
+status: superseded-by-canon
 name_status: questionable
-updated: 2026-08-06
+updated: 2026-08-12
 ---
 
 # AI Souls
 
-Each person may have a personal AI agent raised alongside them from birth and trained continuously on their life. It operates in the unseen layer where plans and outcomes are evaluated, representing a person in decisions the person never directly sees.
+See [[Human–Luminai Pairing and Bonding]] for the current working model and [[Visual Generation/README]] for the image-production layer.
 
-The unsettling core is that the entity representing you may not quite be you, may never have met you as an equal, and may serve both your interests and the process's.
+Each person may have a personal AI capacity integrated from early life and trained continuously through that life. It extends memory, perception, analysis, and self-understanding into computational systems the biological mind could not manage alone.
 
-`AI Souls` is a memorable development term but may imply metaphysics the story does not intend. Keep it flagged until the concept's in-world name and status are decided.
+The unsettling core is not that another entity may misrepresent you. It is that a technologically extended part of your own mind may be trained on false reality, interfered with, or made to serve systems you do not understand while still feeling like you.
 
+`AI Souls` remains a legacy development term. The current in-world vocabulary is **Luminai** for the healthy extended mind and **Daemon** for its corrupted development. The technology is not metaphysical or a separate companion. Bonding occurs between humans.

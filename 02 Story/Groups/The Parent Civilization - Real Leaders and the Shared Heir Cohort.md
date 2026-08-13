@@ -196,7 +196,7 @@ Possible layers include:
 - heirs who know they are being prepared for responsibility but not the identities of their peers;
 - heirs who understand the broad colonization mission but not the containment architecture;
 - heirs born into the environment and gradually entrusted with wider context as they mature;
-- heirs whose AI companions retain permissions or commitments the human identity cannot access.
+- heirs whose extended AI cognition retains permissions or commitments their conscious biological awareness cannot access.
 
 Whatever the mechanism, their choices must remain authentic. The process can shape conditions and knowledge, but it cannot simply script the character it claims to discover.
 
