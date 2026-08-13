@@ -31,8 +31,7 @@ $year = (int) date('Y');
 $canonical = 'https://iainreid.dev/iainreiddotdev/';
 
 $pageTitle = 'Iain Reid — independent product developer';
-$pageDescription = 'Iain Reid builds VibeKB, SousMeow, and Arcana: practical systems for '
-    . 'software understanding, guided AI workflows, and production creative generation.';
+$pageDescription = 'Iain Reid builds VibeKB, SousMeow, Arcana, and Seeds of the Throne: practical systems for software understanding, guided AI workflows, and creative production.';
 $assetVersion = '20260730a';
 ?>
 <!DOCTYPE html>

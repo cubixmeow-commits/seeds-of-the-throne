@@ -67,9 +67,9 @@ function portfolio(): array
         'name' => 'Iain Reid',
         'initials' => 'IR',
         'role' => 'Independent product developer',
-        'statement' => 'I build systems that make complex software and AI-assisted work understandable.',
+        'statement' => 'I build systems that make complex software and AI-assisted creative work understandable.',
         'note' => 'Repository understanding, guided AI workflows, production creative systems, practical deployment, and maintainable software—recorded as working mechanisms rather than demos.',
-        'margin' => 'Three systems. One concern: making powerful tools understandable enough to use, operate, and continue building.',
+        'margin' => 'Four systems. One concern: making powerful tools understandable enough to use, operate, and continue building.',
         'portrait' => [
             'src' => 'assets/images/portrait.jpg',
             'alt' => 'Portrait of Iain Reid',
@@ -295,6 +295,39 @@ function portfolio(): array
             ],
             'related' => ['vibekb'],
         ],
+        [
+            'id' => 'seeds-of-the-throne',
+            'name' => 'Seeds of the Throne',
+            'mark' => 'IV',
+            'category' => 'creative',
+            'status' => 'Active development',
+            'tagline' => 'AI-assisted story development system',
+            'summary' => 'A long-form speculative fiction project developed through a repository-owned Obsidian vault that keeps story sessions, working canon, research, drafts, public material, and continuity checks connected without treating AI output as authority.',
+            'detail' => [
+                'The repository acts as persistent creative memory and machine-readable direction. Multiple AI systems can help develop the world, test continuity, research source material, and generate visual experiments while the author retains control of canon and voice.',
+            ],
+            'sequence' => [
+                ['label' => 'Story session', 'hint' => 'Possibilities and decisions'],
+                ['label' => 'Canon promotion', 'hint' => 'Selected material only'],
+                ['label' => 'Compact context', 'hint' => 'Current cast, world, and rules'],
+                ['label' => 'Continuity review', 'hint' => 'Conflicts and open questions'],
+                ['label' => 'Creative output', 'hint' => 'Prose, atlas, images, and video'],
+            ],
+            'sequence_label' => 'Development loop',
+            'highlights' => [
+                'Repository-owned creative memory',
+                'Canon separated from exploration',
+                'Compact context for AI handoffs',
+                'Continuity decisions and unresolved questions tracked explicitly',
+                'Reusable character and visual-generation packets',
+                'Public story atlas generated from approved material',
+                'Authorial judgment remains the final authority',
+            ],
+            'links' => [
+                ['label' => 'Repository', 'href' => 'https://github.com/cubixmeow-commits/seeds-of-the-throne', 'kind' => 'repo'],
+                ['label' => 'Explore the story atlas', 'href' => 'https://cubixmeow-commits.github.io/seeds-of-the-throne/', 'kind' => 'doc'],
+            ],
+        ],
     ];
 
     // ------------------------------------------------------------- FOUNDATIONS
@@ -361,6 +394,7 @@ function portfolio(): array
                 'VibeKB' => 'Starts from the confusion that follows AI-assisted code.',
                 'SousMeow' => 'Starts from unfinished AI work and brittle prompt habits.',
                 'Arcana' => 'Starts from the gap between song intent and finished visuals.',
+                'Seeds of the Throne' => 'Starts from the difficulty of sustaining canon, continuity, and creative direction across a long story.',
             ],
         ],
         [
@@ -371,6 +405,7 @@ function portfolio(): array
                 'VibeKB' => 'Repository in → understanding site out.',
                 'SousMeow' => 'Pantry → recipe → review → next step.',
                 'Arcana' => 'Song in → queued render → gallery out.',
+                'Seeds of the Throne' => 'Session → canon promotion → continuity review → creative output.',
             ],
         ],
         [
@@ -381,6 +416,7 @@ function portfolio(): array
                 'VibeKB' => 'The product is the explanation.',
                 'SousMeow' => 'Every step carries success criteria and failure signals.',
                 'Arcana' => 'Song DNA, queue state, and admin controls stay inspectable.',
+                'Seeds of the Throne' => 'Canon, open questions, visual direction, and consequential decisions stay explicit.',
             ],
         ],
         [
@@ -391,6 +427,7 @@ function portfolio(): array
                 'VibeKB' => 'Static output that can live on GitHub Pages.',
                 'SousMeow' => 'Works with free or paid AI subscriptions; no required API metering.',
                 'Arcana' => 'Built for shared hosting, cron workers, and real billing paths.',
+                'Seeds of the Throne' => 'Uses an Obsidian-compatible repository and static public atlas that remain portable across AI tools.',
             ],
         ],
     ];

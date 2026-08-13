@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * Selected work.
  *
- * Four entries in the order they are declared in the portfolio data. They are
+ * Entries appear in the order declared in the portfolio data. They are
  * not grouped into sub-headings here: each entry names its own category in the
  * rail, which keeps one flat, scannable list instead of three short ones.
  *
