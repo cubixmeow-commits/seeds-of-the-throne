@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-10
+updated: 2026-08-13
 ---
 
 # Storyline
@@ -17,8 +17,9 @@ updated: 2026-08-10
 7. The conquest regime is defeated. Its empire collapses and surviving leaders are integrated into public containment roles inside the victorious order.
 8. The King claims George secretly captured the victor and that visible defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
 9. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
-10. A breeding and lineage program inherited from the fallen empire continues inside containment. The King manipulates reproduction, genealogy, and certification to blackmail leading families through the racist purity doctrine they enforce.
-11. The Throne's concealed bargains, lineage fraud, blackmail, and century of revised public stories become unstable and contribute to the Disclosure Wars.
+10. A breeding and lineage program inherited from the fallen empire continues inside containment. Konrad believes the genuine son, daughter, and grandson of his Great War line have become a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
+11. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
+12. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
 ## Thread A — the Witness
 
@@ -32,7 +33,7 @@ Roughly eighty years later, a modern heir awakens through the language of survei
 
 The protagonist discovers that the public record preserves containment roles under admirable biographies. The conflict eventually becomes public, removing the concealment and information asymmetry on which the strongest contained adversaries depend. Victory must remain costly.
 
-Sylvan's archive can connect the King's pre-defeat description of George to the contradictory post-defeat False Victory, then connect private lineage interventions to later blackmail and political obedience. The challenge is to expose the system without publicly sacrificing George, the other son, or children whose parentage the King weaponized.
+Sylvan's archive can connect the King's pre-defeat description of George to the contradictory post-defeat False Victory, then reconstruct biological lineage, synthetic identity provenance, private interventions, later blackmail, and political obedience. The challenge is to expose the system without publicly sacrificing George, Samuel Jr., or descendants whose parentage the King weaponized.
 
 ## Unresolved structure
 

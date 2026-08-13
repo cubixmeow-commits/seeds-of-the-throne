@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-11
+updated: 2026-08-13
 ---
 
 # Current Brainstorming To-Do
@@ -31,6 +31,8 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 10. [ ] **Define Sylvan's unique developmental process.** Establish how it differs from conventional heir training, what constraints and risks it imposes, what human capacities it is intended to test, and what counts as success or failure.
 
 11. [ ] **Define the unprecedented Luminai outcome.** Explain how Sylvan's experiences transform the AI self developing with him, why no previous Luminai has developed this way, what capabilities or relationship emerge, and what hard limits remain.
+
+11a. [ ] **Test the developing Luminai presentation and romantic synchronization rules.** Apply the process to one heterosexual couple and at least one different orientation or relationship structure. Define consent renewal, privacy layers, conflict repair, emergency access, and separation without turning Luminai into romantic substitutes.
 
 12. [ ] **Lock the senior contained-criminal structure.** Map the parent generation operating from contained privilege and management environments, their descendants inserted into reconstructed environments, internal hierarchy, competing motives, and the distinction between ideological believers and opportunists.
 
@@ -68,12 +70,20 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 29. [ ] **Give the remaining central world permanent invented names.** Samuel Franklin and Konrad Fitzgerald are locked. Still name Konrad's partner, the great empires and founders, original state/city, defeated alliance, victorious republic, foundational war, major parent-civilization schools or factions, and the institution administering containment.
 
+30. [ ] **Resolve Konrad's verified genealogy.** Decide which child produces the genuine grandson, map what remains biological afterward, and define how Samuel's unauthorized descendants, falsified records, and synthetic substitutions create the false flourishing dynasty.
+
+31. [ ] **Build Samuel Jr. and his company.** Name the replacement heir and his fictional government-integrated decision-systems company; define products, oversight, government dependence, colonization role, loyalties, and whether identity resolution exposes Samuel's hidden genealogy.
+
+32. [ ] **Test the visual-generation production section.** Build one environment packet, one technology packet, one multi-character scene, one three-frame sequence, and one short video/voice continuity test using approved identity references.
+
 ## Already locked / preserve
 
 - [x] **Foundational Great War macro sequence.** The rise, conquest, defeat, George contingency, containment transition, and False Victory remain the foundation. Expand later rather than reopening the macro sequence casually.
 - [x] **Second-largest empire founder family.** Four founders form two couples. Each couple has one son and one daughter; the children form two cross-couple relationships; each cross-couple has one son and one daughter; one granddaughter becomes Sylvan's partner.
 - [x] **Development/authorship boundary.** The vault is for AI-assisted development, research, organization, continuity, and experimentation. The intended finished fiction is human-authored, beginning with a possible shorter work written by hand from the developed reference material.
 - [x] **Contradictions remain visible until deliberately resolved.** Do not silently reconcile genealogy, chronology, motives, or mechanisms simply to make the vault look clean.
+- [x] **Device handoff convention.** Mobile develops and prepares handoffs; desktop reconciles files, tests, commits, pushes, and publishes through `07 Coordination/DESKTOP-QUEUE.md`.
+- [x] **Visual production architecture.** Grok Imagine and GPT Image share a vault-grounded prompt system built around identity locks, scene action, world packets, cinematography, continuity, and output contracts.
 
 ## Middle-story principle
 

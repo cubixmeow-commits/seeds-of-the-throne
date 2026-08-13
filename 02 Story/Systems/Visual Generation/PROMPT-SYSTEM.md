@@ -1,10 +1,37 @@
 ---
 type: production-template
 status: working
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # Prompt System
+
+## Source priority
+
+When sources disagree, use this order:
+
+1. explicit current author instruction;
+2. established or working compiled story note with its status preserved;
+3. approved visual-registry identity master;
+4. approved supporting references;
+5. scene-specific creative variation;
+6. model invention only where the prompt explicitly permits it.
+
+Do not let an attractive generated image override text canon or let an old composition override a current identity master.
+
+## Assembly architecture
+
+Build the prompt as a production packet rather than one ornamental paragraph:
+
+1. **Retrieval brief** — files or story facts the model should retrieve from the vault.
+2. **Identity lock** — immutable human geometry and reference priority.
+3. **Narrative instant** — the change happening in this frame and what each subject wants.
+4. **Physical behavior** — movement, weight, gaze, hands, interaction, and incomplete action.
+5. **World packet** — era, place, materials, technology function, population, and environmental consequence.
+6. **Camera packet** — shot, lens feel, camera relation, depth, obstruction, motion, and composition.
+7. **Light and color** — motivated sources, palette roles, atmosphere, and exposure logic.
+8. **Continuity contract** — preserve, deliberately vary, and forbid.
+9. **Output contract** — aspect ratio, frame count, duration if video, text policy, and metadata to retain.
 
 ## Copyable template
 
@@ -23,6 +50,17 @@ updated: 2026-08-12
 **Continuity:** Preserve [immutable traits]. Vary [pose, wardrobe, expression, camera, lighting, background] as appropriate to this scene.
 
 **Avoid:** [duplicate subjects, frozen reference pose, generic fashion shoot, plastic skin, malformed hands, unreadable text, accidental logos, costume/anatomy drift, over-symmetry].
+
+**Output:** [still/sequence/video, aspect ratio, framing safety, text policy, required variants, metadata].
+
+## Variation contract
+
+For reference-led generations, state both sides:
+
+- **Preserve:** facial geometry, age, body proportions, stable marks, and approved identity traits.
+- **Regenerate:** pose, camera, crop, wardrobe, expression, action, light, palette balance, environment, and composition unless the scene requires one of them.
+
+Require at least three deliberate changes from the reference photograph. A useful line is: **Use the reference to identify the person, not to reconstruct the source image. Preserve identity; regenerate the photograph.**
 
 ## Example: Sylvan discovers a new capability
 

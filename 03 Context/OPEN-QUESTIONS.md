@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-10
+updated: 2026-08-13
 ---
 
 # Open Questions
@@ -27,6 +27,10 @@ updated: 2026-08-10
 - How do loving parental support and protective intervention remain available without becoming imperial favoritism?
 - Do hundreds of heirs form one cohort or several overlapping cohorts?
 - What future institution or covenant is the shared heir generation expected to form?
+- What physical interface joins biological cognition to a Luminai, and which operations require planetary infrastructure?
+- Why does complementary-gender Luminai presentation become common among heterosexual people, and how do other orientations, identities, and relationship structures develop presentation?
+- What legal and technical safeguards govern romantic synchronization, emergency access, revocation, and separation?
+- Which colony-AI limits are physical, computational, biological, legal, or deliberately imposed?
 
 ## Parent civilization
 
@@ -64,6 +68,8 @@ updated: 2026-08-10
 - How many families were targeted and across how many generations?
 - What reproductive mechanism did the King control directly?
 - What does the other son know about his parentage and political function?
+- Which of Konrad Fitzgerald's children produces the one genuine grandson, and who is the other parent?
+- How does Sylvan prove the difference among genuine descendants, unauthorized descendants, falsified parentage, synthetic substitutions, and invented documentary branches?
 
 ## World and cast
 

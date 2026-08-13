@@ -20,18 +20,21 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 10. Samuel receives stewardship of a city.
 11. He converts city-level success and institutional influence into control of a country.
 12. The fallen empire's centralized breeding and lineage program expands under Konrad's supremacist purity doctrine.
-13. Samuel places George inside the future victorious republic before the original city falls.
-14. Samuel attempts global conquest, producing the Great War.
-15. The victorious republic and its allies defeat the conquest regime; the city, country, and empire collapse.
-16. Surviving leaders are integrated into public containment roles within the victorious order.
-17. Samuel claims George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
-18. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
-19. The breeding and lineage program persists inside containment. Samuel uses reproductive, genealogical, and certification fraud to blackmail leading families individually.
-20. The Witness lives through one or more earlier-era identities during or after this first-century structure.
-21. Samuel's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
-22. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
-23. Sylvan accumulates evidence connecting original events, revised public stories, lineage manipulation, blackmail, and command responsibility.
-24. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
+13. Konrad's genuine Great War line consists of the biological son and daughter he has with his sister; the line later produces one genuine grandson.
+14. Samuel places George inside the future victorious republic before the original city falls.
+15. Samuel attempts global conquest, producing the Great War.
+16. The victorious republic and its allies defeat the conquest regime; the city, country, and empire collapse.
+17. Surviving leaders are integrated into public containment roles within the victorious order.
+18. Samuel claims George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
+19. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
+20. The breeding and lineage program persists inside containment. Samuel uses unauthorized reproduction, numerous mixed-race descendants, genealogy fraud, synthetic substitutions, and certification control while Konrad believes his dynasty is flourishing.
+21. Samuel's unauthorized interventions include the established use of George and Konrad's daughter; its exact relationship to the genuine grandson and later branches remains unresolved.
+22. Samuel creates the provisional replacement heir Samuel Jr. with Konrad's sister and eventually positions him over a government-integrated intelligence and decision-systems company.
+23. The Witness lives through one or more earlier-era identities during or after this first-century structure.
+24. Samuel's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
+25. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
+26. Sylvan accumulates evidence connecting original events, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
+27. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
 
 ## Age anchors at the Sylvan showdown
 
@@ -40,4 +43,4 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 - Konrad's unnamed senior partner: approximately 300 chronologically.
 - Legitimate real leaders: multiple millennia old.
 
-Open: exact calendar dates, Samuel's precise age at each pre-containment transition, Konrad's apparent age and entry date, George's placement mechanism, the Witness's position relative to the Great War, whether the Disclosure Wars are historical or present action, and where the final public victory belongs.
+Open: exact calendar dates, Samuel's precise age at each pre-containment transition, Konrad's apparent age and entry date, the genuine grandson's parentage, George's placement and exact position in the revised genealogy, Samuel Jr.'s company chronology, the Witness's position relative to the Great War, whether the Disclosure Wars are historical or present action, and where the final public victory belongs.

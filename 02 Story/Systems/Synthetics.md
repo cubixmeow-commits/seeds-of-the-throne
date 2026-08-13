@@ -1,7 +1,7 @@
 ---
 type: system
 status: established
-updated: 2026-08-06
+updated: 2026-08-13
 ---
 
 # Synthetics
@@ -12,3 +12,4 @@ They are not merely props. Synthetic generations built the civilization before h
 
 Open: self-knowledge, reproduction, rights, susceptibility to compromise, and the relation between synthetic agency and system control.
 
+See [[Advanced Technology Ecology]] for the colony-scale systems, responsive physical environment, and hard-limit framework in which synthetics operate.

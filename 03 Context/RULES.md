@@ -21,6 +21,13 @@ updated: 2026-08-12
 - Research is advisory until the author deliberately adopts a finding.
 - The visual registry records approved identity and style decisions. Unapproved generated images remain candidates and may not become the sole source for future character identity.
 
+## Device and implementation workflow
+
+- Mobile sessions are for development, research planning, vault-ready text, and handoff preparation.
+- Desktop sessions reconcile the local repository, process queued decisions, edit files, test, commit, push, and publish.
+- Website files are modified and published only from desktop and only when the current request or a ready queue item includes website work.
+- Use [[07 Coordination/DESKTOP-QUEUE]] as the durable handoff mechanism. Inspect existing files before implementing an item and record story development in a dated session note before promoting it.
+
 ## Safety and separation
 
 - Old unsafe transcripts do not enter this vault. The author manually restates useful concepts.

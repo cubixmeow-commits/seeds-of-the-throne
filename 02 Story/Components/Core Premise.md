@@ -12,4 +12,6 @@ Containment is assignment to a role, identity, environment, and public life—no
 
 Contained people can weaponize the same advanced systems used to run the planet, including building private AI systems inside the environment. This makes the opposition structural and adaptive rather than merely criminal in an ordinary sense.
 
+See [[02 Story/Systems/Advanced Technology Ecology]] for the layered technology model and [[02 Story/Systems/Fascist Failure and Leadership Cultivation]] for the contained system's recurring weaknesses and the positive cultivation counterpoint.
+
 Heroes must appear early and regularly. The direct answer to the Throne's treatment of people as raw material is a person who treats other people as ends rather than instruments. That principle must be shown through costly choices, not speeches.

@@ -13,3 +13,5 @@ This is not humanity's first colonization world. Thousands-year-old real leaders
 The planet is unique in the degree to which technology manages its development. Its synthetic foundation, moon-scale command structure, hidden influence, identity placement, authenticated records, containment roles, and heir cultivation make it more controlled and advanced than the earlier colonization planets. Its unusual control does not make the world unreal or its people disposable.
 
 The world serves colonization, containment, cultivation, scoring, and eventual placement. Participants normally experience it as reality rather than as a controlled environment.
+
+See [[Advanced Technology Ecology]] for the distributed personal, institutional, synthetic, environmental, and colony-scale layers that manage the physical world without making it a simulation.

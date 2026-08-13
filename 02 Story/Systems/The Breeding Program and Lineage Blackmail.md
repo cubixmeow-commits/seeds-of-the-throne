@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-10
+updated: 2026-08-13
 themes: breeding program, reproductive abuse, genealogy, racist purity doctrine, lineage blackmail, common knowledge, Sylvan evidence
 ---
 
@@ -43,9 +43,31 @@ Konrad Fitzgerald is the faction's original ideological and genealogical leader.
 
 Konrad maintains an incestuous reproductive relationship with his sister in an attempt to preserve what he considers a uniquely valuable closed lineage. Their son and daughter become the principal dictator-and-partner figures of the faction during the Great War.
 
+Before Samuel's later manipulation dominates the system, that genuine biological line produces one grandson. The exact parent and other parent remain unresolved. What is established is the contrast between a very small verified line—son, daughter, and grandson—and the vast flourishing dynasty Konrad later believes he sees.
+
 Repeated inbreeding creates a problem the faction cannot acknowledge without undermining its doctrine. Samuel Franklin claims he can solve it while preserving the fiction of purity. His promises may include genetic repair, removal of hereditary defects, embryo selection, or the production of supposedly exceptional abilities. The exact technical claim remains unresolved, but it must be attractive enough that Konrad grants Samuel extraordinary access to genetic material, procedures, certification, and hidden lineage records.
 
 Konrad is both deceived and culpable. Samuel corrupts the initiative, but Konrad creates it, treats people as hereditary instruments, centralizes its authority, and suppresses doubts because he wants Samuel's promise to be true.
+
+## False genealogy and synthetic substitutions
+
+Samuel's intervention expands far beyond two secret conceptions. Once he controls reproductive procedures, certification, and identity records, he builds an official Fitzgerald genealogy that no longer corresponds to one biological tree.
+
+The displayed dynasty may include:
+
+- genuine members of Konrad's original line;
+- numerous unauthorized mixed-race descendants introduced by Samuel into a system whose own racist doctrine condemns them;
+- altered donor, embryo, parentage, and generation records;
+- descendants attached to the wrong parents or branch;
+- biological synthetics presented as children or grandchildren;
+- staged relationships and life histories that make a substituted identity appear continuous;
+- documentary branches with no verified biological counterpart.
+
+Mixed ancestry is not the violation. Samuel's crimes are nonconsensual reproductive control, deception, identity manipulation, and the use of people as instruments. The faction's shame and vulnerability exist because its own racist doctrine makes ancestry a condition of belonging.
+
+Konrad is not merely handed one false record. He lives inside a mutually reinforcing display: family encounters, institutional roles, medical certifications, public ceremonies, and genealogical records all appear to confirm one another. Samuel controls enough of those channels to let Konrad believe the dynasty is flourishing while the verified line has become much smaller and more compromised than he understands.
+
+Sylvan's reconstruction must therefore resolve both biology and identity provenance. A genetic match alone cannot prove that the person who lived a public life was the person named in the family tree; a continuous public identity cannot prove the claimed parentage. The exposure compares biological lineage, synthetic origin, identity history, reproductive authorization, and record revisions without treating descendants as culpable evidence.
 
 ## Why he targets the entire organization
 
@@ -95,7 +117,7 @@ The danger to the King is not merely exposure of individual parentage. It is syn
 
 The other son is one strategically important instance of the larger program.
 
-He is secretly created through Samuel's abuse of the reproductive system involving Konrad Fitzgerald's sister. His parentage provides:
+He is secretly created through Samuel's abuse of the reproductive system involving Konrad Fitzgerald's sister. Known provisionally as **Samuel Jr.**, his parentage provides:
 
 - evidence of unauthorized reproductive intervention;
 - leverage over a rival family;
@@ -108,7 +130,7 @@ His importance does not make him responsible for the circumstances of his creati
 
 ## George and Konrad's daughter
 
-Samuel also arranges a separate unauthorized reproductive intervention involving George and Konrad's daughter. This gives Samuel leverage over another generation of the Fitzgerald line and connects George's function in the False Victory to the breeding scandal.
+Samuel also arranges a separate unauthorized reproductive intervention involving George and Konrad's daughter. This established violation gives Samuel leverage over another generation of the Fitzgerald line and connects George's function in the False Victory to the breeding scandal. Its exact placement relative to the one genuine grandson and the later false branches remains unresolved.
 
 The resulting child, timing, method, and degree of George's or the daughter's knowledge remain unresolved. Neither person should be treated as culpable merely because Samuel uses their reproductive material or parentage in a political design.
 
@@ -162,7 +184,9 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - Common knowledge that the pattern is widespread can collapse the leverage.
 - The other son is a strategically important example of a larger pattern.
 - The other son is created using Samuel and Konrad Fitzgerald's sister.
-- A separate unauthorized intervention involves George and Konrad's daughter.
+- Samuel's interventions ultimately include numerous mixed-race descendants, falsified genealogy, and synthetic substitutions.
+- Konrad believes a large dynasty is flourishing even though the verified biological line begins with only his son, daughter, and one grandson.
+- A separate unauthorized intervention involves George and Konrad's daughter; its exact placement relative to the genuine grandson and later branches remains unresolved.
 - Konrad's surrender of the program to Samuel makes him culpable in the system that ultimately violates his own family.
 - Sylvan possesses evidence linking reproductive abuse, lineage fraud, blackmail, political obedience, succession, and False Victory.
 - Sylvan should prove the system without indiscriminately exposing children or private parentage.
@@ -179,5 +203,7 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - Does the other son know his parentage and intended political function?
 - What problem caused by repeated inbreeding does Samuel claim to have solved for Konrad?
 - What roles do Konrad's son and daughter occupy before and during the Great War?
+- Which of Konrad's children produces the genuine grandson, and who is the other parent?
 - What results from the intervention involving George and Konrad's daughter?
+- How does Sylvan distinguish a synthetic identity substitution from falsified parentage attached to a biological human?
 - How does the contained organization react when its purity doctrine becomes the source of collective humiliation and control?

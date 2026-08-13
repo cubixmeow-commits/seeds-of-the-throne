@@ -26,7 +26,7 @@ Approximately 220 years old at the Sylvan showdown, though visually appearing in
 
 ## Konrad Fitzgerald
 
-Approximately 300 years old at the Sylvan showdown, as is his still-unnamed senior partner. Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister, and helps place those children at the center of the Great War regime. He gives Samuel control of the program after Samuel claims he can solve the hereditary consequences of inbreeding while preserving or enhancing the line. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
+Approximately 300 years old at the Sylvan showdown, as is his still-unnamed senior partner. Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister during the Great War, and has one genuine grandson before Samuel's later interventions. He gives Samuel control after Samuel claims he can solve hereditary consequences while preserving or enhancing the line. Samuel introduces unauthorized mixed-race descendants, false genealogies, and synthetic substitutions while letting Konrad believe a large dynasty is flourishing. Konrad directly participates in starting and losing the Great War, then accepts the False Victory because it protects his doctrine from defeat. Sylvan ultimately reconstructs the real family tree and exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
 
 ## George White
 
@@ -36,6 +36,6 @@ The King's son, placed inside the future victorious republic before the original
 
 Younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's pre-defeat placement to the King's contradictory post-defeat myth and connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons.
 
-## The other son
+## Samuel Jr. / the other son
 
-Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister. He is a strategically important instance of a wider lineage-blackmail pattern and a possible succession contingency after George, but remains a person rather than merely evidence.
+Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister. `Samuel Jr.` is provisional. He is Samuel's preferred respectable replacement heir and leads a fictional government-integrated intelligence and decision-systems company operating across defense, intelligence, public safety, infrastructure, logistics, and colonization administration. The company's identity resolution, relationship mapping, behavioral inference, and synthetic/human reconciliation capabilities may expose the hidden genealogy Samuel needs concealed. Samuel Jr. remains a person rather than merely evidence or a contingency.

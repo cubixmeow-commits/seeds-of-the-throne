@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # World
@@ -9,6 +9,8 @@ updated: 2026-08-12
 A mature interplanetary parent civilization builds a planet as both colonization infrastructure and a developmental environment. Its legitimate real leaders are thousands of years old and have already expanded humanity to numerous successful colonization planets. Those worlds provide the knowledge, production, institutions, and support required for the current planet, a later-generation project that is more technologically controlled and advanced than its predecessors.
 
 Its largest empires have endured across multiple millennia and are led by rulers who disagree in good faith about containment, rehabilitation, boundaries, evidence, and leadership cultivation. Biological synthetics populate and develop the planet before humans are integrated. A moon-scale command structure coordinates observation, communication, energy, and high-level control.
+
+The world is coordinated by a layered AI ecology rather than one omnipotent machine: personal Luminai/Daemon cognition, consent-based relationship and group systems, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale coordination. Buildings, transport, medicine, evidence, identity, resources, and permissions can be computationally mediated while remaining physically real. Technology can create constraints and developmental opportunity but cannot rewrite causality, guarantee truth from false inputs, or manufacture moral achievement.
 
 Humans inside usually experience the constructed civilization as ordinary reality. Some are born into it; some are heirs placed into developmental lives; some are contained criminals assigned roles rather than cells. Aging has been defeated outside, but mortal lifetimes are performed inside.
 

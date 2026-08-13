@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-12
+updated: 2026-08-13
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, failed privileged heir
 ---
@@ -88,6 +88,14 @@ Sylvan represents what Samuel wants others to believe Samuel is: a person born n
 
 His treatment of George and the unauthorized son repeats his own failed relationship to succession. He does not prepare children to become independent, capable, and happy. He constructs them as instruments meant to validate or replace him.
 
+## Obsession with Konrad's order
+
+Samuel's relationship to Konrad Fitzgerald and Konrad's still-unnamed fanatic partner exceeds tactical alliance and revenge. He is fascinated by the total structure they possess: an empire, doctrinal authority, followers trained to recognize hierarchy, a centralized breeding apparatus, sacred family status, and a permanent place at the top.
+
+He wants to expose and humiliate them, but he also wants to appropriate what they represent. Gaining control of their reproductive program lets him decide which descendants exist, which identities are certified, which family tree appears real, and which person can claim succession. Samuel increasingly behaves as if mastering their machinery makes him the true owner of the dynasty.
+
+This makes his sabotage imitative. He does not merely destroy Konrad's bloodline; he inserts his own descendants into it, manufactures false continuity around it, and attempts to replace Konrad as the authority who defines the family's past and future. The contradiction is central to Samuel: he hates inherited status because he failed to earn it, then tries to seize someone else's inherited order as proof that he belongs above everyone.
+
 ## Open questions
 
 - Which specific cult operation finally causes Samuel to be busted?
@@ -100,3 +108,4 @@ His treatment of George and the unauthorized son repeats his own failed relation
 - What evidence finally lets his parents prove that Samuel, rather than their institutions, directed the campaign?
 - Does Samuel publicly claim royal ancestry, or does conquest itself become his entire claim?
 - Which failure involving his parents becomes the private humiliation he repeatedly reenacts through George and the other son?
+- At what point does Samuel recognize that revenge against Konrad has become a desire to replace him?

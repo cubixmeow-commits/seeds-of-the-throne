@@ -1,7 +1,7 @@
 ---
 type: development-overview
 status: active
-updated: 2026-08-10
+updated: 2026-08-13
 ---
 
 # Seeds of the Throne — Development Overview
@@ -62,7 +62,7 @@ The world systems and endgame are substantially clearer than the opening and mid
 - Must remain fallible, limited, personally motivated, and capable of costly mistakes.
 - His history, authority, flaw, relationships, route to the evidence, and personal loss remain unresolved.
 
-### The Throne figure — working antagonist
+### Samuel Franklin / the Throne figure — established name, working antagonist structure
 
 - Contained authoritarian who entered early and converted procedural seniority into false legitimacy.
 - Converts city stewardship into national capture and initiates the Great War through attempted global conquest.
@@ -73,19 +73,21 @@ The world systems and endgame are substantially clearer than the opening and mid
 - Treats identities, descendants, and institutions as instruments.
 - Manipulates George and George's Daemon into a proxy attack on Sylvan.
 - Plans to distance himself from George's final violence and survive through substitution.
-- Has no final name or fully defined institutional title.
+- Has the established name **Samuel Franklin**; his final institutional title remains unresolved.
 - Pursues a total-control doctrine in which no person or source of meaning may remain outside the ruler's plan.
 - Escalates from kingship to god-ruler status when ordinary authority can no longer survive audit, defeat, or succession.
 - Maintains power by keeping his own followers privately compromised and unable to recognize their shared captivity.
 
-### The other son — locked strategic function
+### Samuel Jr. / the other son — working strategic function
 
-- Secretly created through the father's abuse of the breeding program with another contained leader's wife.
+- Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister.
 - His parentage is evidence of the father's corruption.
 - His creation is a strategically important instance of a wider lineage-blackmail pattern.
 - Serves as the father's contingency after George fails.
+- Leads a fictional government-integrated intelligence and decision-systems company spanning defense, intelligence, public safety, infrastructure, logistics, and colonization administration.
+- Works at an information chokepoint whose identity resolution, relationship mapping, behavioral inference, and synthetic/human reconciliation capabilities may expose Samuel's hidden genealogy.
 - Intended to preserve influence through cooperation, lineage leverage, and control of a city.
-- Name, personality, knowledge, loyalties, and city mechanism remain unresolved.
+- `Samuel Jr.` is provisional; permanent name, personality, knowledge, loyalties, company details, and city mechanism remain unresolved.
 
 ## The central dramatic machine
 
@@ -146,7 +148,7 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 - **The legitimate heirs:** are formed through shared reality, interdependence, and mutual witness rather than isolated inheritance.
 - **Sylvan:** must prove his ethics through costly restraint, not speeches.
 - **George:** has been treated as material and may also have treated others as material.
-- **Luminai:** supports contact with reality and independent judgment.
+- **Luminai:** extended cognition that can support contact with reality and independent judgment. Presentation may be differentiated; the complementary-gender pattern for heterosexual people remains developing and non-universal.
 - **Daemon:** has been shaped to protect George from reality and extend distorted judgment.
 - **Longevity:** defeats aging without defeating coercion, grief, responsibility, or wasted time.
 - **Shared succession:** turns inheritance from a private imperial matter into a civilization-wide attempt to create leaders with common memory and reciprocal accountability.
@@ -197,7 +199,7 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 - What action is George already performing when awakening begins?
 - What does George finally choose?
 - What does Sylvan lose even if exposure succeeds?
-- How does the other son's city contingency operate after George fails?
+- How do Samuel Jr.'s company and city contingency operate after George fails, and can his own systems expose Samuel first?
 
 ## Current research library
 

@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-12
+updated: 2026-08-13
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, contained criminal
 ---
@@ -27,7 +27,9 @@ Konrad claims that his family carries an exceptional hereditary line destined to
 
 Their son and daughter are products of the program. During the Great War, the son becomes the faction's principal dictator figure and the daughter becomes his dynastic partner and public counterpart. Their authority is presented as proof that Konrad's doctrine can produce a ruling family rather than merely a political movement.
 
-The exact personal agency, beliefs, and relationship of the son, daughter, and sister remain to be developed. Their family roles do not erase the possibility that they are also victims of Konrad's system.
+That genuine line produces **one biological grandson** before Samuel's extensive unauthorized manipulation overtakes the program. Which of Konrad's children is the grandson's parent, the identity of the other parent, and the grandson's own role remain unresolved. The established shape is deliberately narrow: Konrad's verified dynasty consists of the son, daughter, and one grandson—not the enormous later family tree he believes he controls.
+
+The exact personal agency, beliefs, and relationship of the son, daughter, grandson, and sister remain to be developed. Their family roles do not erase the possibility that they are also victims of Konrad's system.
 
 ## The problem Samuel promises to solve
 
@@ -50,9 +52,17 @@ Konrad accepts the arrangement because Samuel offers scientific-looking confirma
 
 Samuel secretly converts technical access into dynastic control.
 
-He arranges an unauthorized reproductive intervention involving George and Konrad's daughter. He separately uses Konrad's sister to create his own replacement heir. Samuel therefore inserts his succession strategy into two generations of the supposedly closed Fitzgerald line.
+He arranges unauthorized reproductive interventions involving the Fitzgerald line and uses Konrad's sister to create his own replacement heir. Across later generations he introduces numerous mixed-race descendants whom the faction's doctrine would reject, falsifies genealogies, and uses biological synthetics or staged substitutions to present false children and grandchildren as verified Fitzgerald descendants. Samuel therefore inserts his succession strategy into the supposedly closed line while taking control of what Konrad can know about it.
 
 This is simultaneously political capture, personal humiliation, and evidence that Samuel never served the purity doctrine. He uses the doctrine because it gives him control over people who consider ancestry more important than consent or truth.
+
+## The false flourishing dynasty
+
+Konrad believes the Fitzgerald dynasty survives the Great War and expands across generations. He is shown descendants, records, ceremonies, institutional placements, and evidence of continuity that appear to prove the breeding program succeeded.
+
+Much of that continuity is curated by Samuel. The official family tree combines real descendants, unauthorized descendants, falsified parentage, and synthetic substitutions. Individual deceptions reinforce one another until Konrad mistakes Samuel's controlled display for independent proof that his lineage is flourishing.
+
+Sylvan's eventual reconstruction compares biological evidence, reproductive records, identity provenance, synthetic histories, and successive versions of the genealogy. The official tree then collapses toward the much smaller genuine line. The revelation does not vindicate Konrad's doctrine; it shows that the institution he created made family members into controllable records and bodies long before Samuel turned the same machinery against him.
 
 ## Great War responsibility
 
@@ -94,6 +104,8 @@ Each man believes he is using the other:
 - Konrad thinks Samuel is a gifted but subordinate technician who can perfect the Fitzgerald line.
 - Samuel thinks Konrad is an ideological relic whose followers, records, and family can be appropriated.
 
+Samuel's fixation is deeper than revenge or opportunism. He wants the empire Konrad and his fanatic partner built, their authority over followers, their reproductive machinery, their status, and their position at the top. He attempts to destroy the dynasty and inhabit its place at the same time. His imitation becomes a form of attempted replacement: if he can control the line, define its successors, and decide what Konrad believes, Samuel can treat himself as the real patriarch of the system.
+
 The Great War defeat changes the balance. Samuel's False Victory supplies the strategic authority Konrad no longer possesses. Control of the breeding program supplies the dynastic leverage Samuel previously lacked. Their alliance becomes Samuel's coup.
 
 ## Open questions
@@ -103,7 +115,9 @@ The Great War defeat changes the balance. Samuel's False Victory supplies the st
 - What specific hereditary problem does Samuel claim to solve?
 - What supposedly exceptional abilities does Konrad want the program to produce?
 - What are the names, beliefs, and degrees of agency of Konrad's sister, son, and daughter?
+- Which child produces the genuine grandson, with whom, and what happens to that branch?
 - Does Konrad discover either unauthorized intervention before Sylvan's exposure?
+- Which supposed descendants are biological, unauthorized, synthetic, or entirely documentary inventions?
 - Which warning does Konrad knowingly suppress to preserve the breeding initiative?
 - What exact role does Konrad personally play in authorizing the Great War?
 - Is his final response denial, rage at Samuel, ideological collapse, or an attempt to preserve the doctrine without Samuel?

@@ -28,3 +28,7 @@ The old working vault is kept separately as `Seeds of the Throne archive`. It is
 ## Session workflow
 
 Record development in `01 Sessions/Daily/`. Preserve competing possibilities and contradictions there. Promote deliberately selected material into `02 Story/`, update `03 Context/` when the working summary changes, and record consequential resolutions in `07 QA/Decisions.md`.
+
+## Mobile and desktop handoff
+
+Mobile sessions may develop story material, research plans, vault-ready notes, and public copy. Local repository reconciliation, structural edits, code or website changes, verification, commits, pushes, and publishing happen on desktop. See [07 Coordination](07%20Coordination/README.md) and the [desktop implementation queue](07%20Coordination/DESKTOP-QUEUE.md).

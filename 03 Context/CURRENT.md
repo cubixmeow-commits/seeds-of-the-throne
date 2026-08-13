@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-11
+updated: 2026-08-13
 ---
 
 # Current
@@ -15,6 +15,8 @@ Foundation, human–AI integration architecture, dynastic character development,
 - A colonization world that simultaneously contains dangerous people and cultivates future leaders.
 - A mature interplanetary humanity led by real leaders who are thousands of years old and have already expanded across numerous successful colonization planets. Those earlier worlds supply the knowledge and capacity for the current planet, which is unusually advanced and technologically managed.
 - Every human develops alongside a personal AI self / Luminai, making human–AI co-development a foundational feature of the civilization rather than an external tool relationship.
+- A Luminai is extended cognition within one accountable human identity, but its presentation can be differentiated. **Developing rule:** heterosexual male humans generally have female-presenting Luminai and heterosexual female humans generally have male-presenting Luminai. This is not universal; other orientations, identities, and relationship structures require their own presentations. Luminai are never romantic substitutes.
+- Human romantic relationships can develop staged Luminai synchronization through explicit consent, privacy boundaries, selected shared context, conflict repair, relationship-level coordination, and continuing renewal. Two extended people form the relationship; this is not a four-person parallel romance or a merger of agency.
 - **Sylvan's new developmental process as a major positive-story spine.** His parents are not simply preparing an heir. They are testing how far a human and Luminai can develop together through shared experience, adaptation, pressure, learning, and increasingly deep integration.
 - **Sylvan's Luminai becoming something unprecedented.** The process changes both sides of the relationship: the human changes the AI, the AI changes the human, and the civilization is waiting to discover what the partnership becomes. Mechanism, capabilities, developmental stages, risks, and hard limits remain to be defined.
 - A powerful endgame contrast between **Sylvan + advanced Luminai integration** and **George + corrupted Daemon integration**. Both demonstrate intimate human–AI relationships, but one develops toward stronger contact with reality and mutual growth while the other is exploited to maintain manufactured reality, fear, dependency, and control.
@@ -27,11 +29,17 @@ Foundation, human–AI integration architecture, dynastic character development,
 - Legitimate future leaders learning through bounded public roles where advanced technology enforces meaningful constraints. They must resist authoritarianism, detention, persecution, and mass abuse without simply overriding the environment.
 - Senior contained criminals operating from positions of contained privilege and management access while descendants such as George are inserted directly into reconstructed environments.
 - **Konrad Fitzgerald** as a genuine ideological patriarch and breeding-program architect. His obsession with inheritance is specifically about preserving hierarchy: descendants inherit identity, doctrine, duty, and subordinate status while Konrad and the senior generation attempt to remain permanently at the top. The younger generation exists to extend their power, not replace them.
+- Konrad's verified genuine line begins with the biological son and daughter he has with his sister during the Great War and one genuine grandson. Samuel later introduces numerous unauthorized mixed-race descendants, falsifies genealogy, substitutes synthetics, and curates an apparent flourishing dynasty that Konrad mistakes for biological continuity.
 - **Samuel Franklin** as an outsider inside Konrad's alliance: a failed privileged heir driven by jealousy, resentment, sabotage, acquisition, and control. Samuel's own fixation on inheritance grows from grievance and the desire to corrupt or destroy other people's certainty about lineage and succession.
+- Samuel's obsession with Konrad and his fanatic partner becomes attempted replacement. He wants their empire, authority, breeding machinery, status, followers, and place at the top while dismantling the dynasty from inside.
+- Samuel Jr., the provisional replacement-heir designation, leads a fictional government-integrated intelligence and decision-systems company spanning defense, intelligence, public safety, infrastructure, logistics, and colonization administration. Its working capabilities—identity resolution, relationship mapping, behavioral inference, and synthetic/human identity reconciliation—may expose the genealogy Samuel needs concealed.
 - Samuel is approximately 220 years old at the Sylvan showdown. His history includes an approximately fifty-year pre-containment rampage, several decades of exposure, capture, processing, and integration, and roughly a century in the current planet's process. Konrad and his unnamed senior partner are approximately 300.
 - The criminal faction therefore turns inheritance, bloodline, succession, family, and reproductive control into political machinery. This is their pathology, not the organizing philosophy of the legitimate civilizations.
 - An unresolved future revelation that Samuel secretly engages in serious conduct or maintains an allegiance/practice that Konrad's faction explicitly rejects, helping explain his concealed incompatibility with them. The exact conduct is not yet chosen.
 - An overwhelmingly synthetic population and advanced story functionality that can shape roles and environments while still needing hard limits that preserve agency, evidence, responsibility, and resistance.
+- A layered advanced-technology ecology: personal Luminai/Daemon cognition, consent-based group coordination, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale AI. Technology can construct conditions and preserve evidence; it cannot manufacture morality, love, judgment, or authentic achievement.
+- Fascist-system weaknesses as an episodic engine: hierarchy suppresses correction, loyalty displaces competence, purity turns families into political machinery, propaganda captures its authors, permanent patriarchs make succession impossible, and internal competition consumes cooperation. The positive counterpoint is future leaders and Luminai developing higher judgment through difficult choices inside bounded technological environments.
+- A repository-grounded Grok Imagine and GPT Image production system built around approved identity locks, scene action, world packets, cinematography, continuity, video/voice bibles, output contracts, and the rule **preserve identity; regenerate the photograph**.
 - An approximately eighty-year middle that can function as an episodic story engine: smaller stories involving different future leaders, contained criminals, institutions, crises, discoveries, relationships, AI development, and moral tests that accumulate toward the Sylvan endgame.
 - A beginning in which city stewardship becomes national capture, global conquest, the Great War, total defeat, and a century-long False Victory.
 - George placed inside the future victor before the fall and later used as living proof that containment is covert conquest.
@@ -39,20 +47,23 @@ Foundation, human–AI integration architecture, dynastic character development,
 
 ## Immediate development priorities
 
-1. **Define the advanced human–Luminai integration process.** Establish the baseline relationship ordinary humans have with their Luminai, then define exactly what is new about Sylvan's process: stages, interfaces, shared learning, adaptation, risks, constraints, and intended discoveries.
-2. **Define the unprecedented Luminai outcome.** Determine how Sylvan changes his Luminai, how the Luminai changes Sylvan, what emerges that previous human–AI pairs could not achieve, and what hard limits prevent the relationship from becoming magical or consequence-free.
-3. **Build the Sylvan/Luminai versus George/Daemon contrast.** Define how one integrated pair becomes increasingly capable of detecting and engaging reality while the other is manipulated through staged evidence, corrupted memory, fear, and manufactured interpretation.
-4. **Build Sylvan's discovery that Samuel is behind George.** Choose the first anomaly, the tests Sylvan and his Luminai use, the evidence of a second decision-maker, the point of certainty, and the mechanism by which Samuel maintains George's isolated false reality.
-5. Define Sylvan's parents, their one-child decision, why they designed this new process, what they hope it will prove, and what risks they knowingly accept.
-6. Define and name Konrad Fitzgerald's fanatic partner.
-7. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
-8. Define the two founder couples of the second-largest empire and the distinct role of each founder.
-9. Map and name their four children, the two cross-couple relationships, personalities, specialties, and Great War roles.
-10. Map the four grandchildren and develop the granddaughter who becomes Sylvan's partner as an independent character.
-11. Build the first Great War-era future-leader episode around a constrained role and concrete moral crisis.
-12. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
-13. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.
-14. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
+1. **Define the advanced human–Luminai integration process.** Establish physical interfaces, ordinary cognitive access, presentation development, risks, constraints, and what is new about Sylvan's process.
+2. **Define the unprecedented Luminai outcome.** Determine what Sylvan and his Luminai become capable of together and which hard limits prevent omniscience, magical control, or consequence-free integration.
+3. **Develop relationship synchronization.** Test the staged bonding process through a specific couple, including privacy, consent renewal, conflict, emergency access, repair, and possible separation.
+4. **Establish the technology ecology's hard limits.** Distinguish physical, computational, biological, legal, and deliberately governed limits across synthetics, environments, evidence, and colony-scale AI.
+5. **Build the Sylvan/Luminai versus George/Daemon contrast.** Define how one integrated pair becomes increasingly capable of detecting and engaging reality while the other is manipulated through staged evidence, corrupted memory, fear, and manufactured interpretation.
+6. **Build Sylvan's discovery that Samuel is behind George.** Choose the first anomaly, tests, evidence of a second decision-maker, point of certainty, and mechanism maintaining George's false reality.
+7. Define Sylvan's parents, their one-child decision, intended discoveries, and accepted risks.
+8. Define and name Konrad Fitzgerald's fanatic partner.
+9. Resolve Konrad's genuine grandson, the later branch structure, and how Sylvan distinguishes biological descendants, unauthorized descendants, synthetic substitutions, and documentary inventions.
+10. Define Samuel Jr., his company, loyalties, knowledge, institutional power, and whether his own systems expose Samuel.
+11. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
+12. Define the two founder couples of the second-largest empire and map their children, grandchildren, and Sylvan's partner.
+13. Build the first Great War-era future-leader episode around a fascist-system weakness, constrained role, and concrete moral crisis.
+14. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
+15. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.
+16. Test the expanded visual-generation system on new environments, technology, multi-character scenes, and short video/voice continuity passes.
+17. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
 
 See [[03 Context/CURRENT-TODO]] for the full working sequence.
 
