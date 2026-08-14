@@ -72,7 +72,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260814a';
+$assetVersion = '20260814b';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -99,8 +99,8 @@ function explorer_format_bytes(?int $bytes): string
     <meta property="og:description" content="<?= e($pageDescription) ?>">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= e($canonical) ?>">
-    <meta name="theme-color" content="#fbf9f5" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#1d1b18" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#eee3cf" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#18130f" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
@@ -118,13 +118,13 @@ function explorer_format_bytes(?int $bytes): string
     </script>
 </head>
 <body class="explorer-page">
-    <a class="skip-link" href="#document">Skip to document</a>
+    <a class="skip-link" href="#archive-document">Skip to document</a>
 
     <header class="site-header" id="site-header">
         <div class="wrap site-header__inner">
             <a class="brand" href="../" aria-label="Return to Iain Reid's portfolio">
                 <span class="brand__mark" aria-hidden="true"><?= e($identity['initials']) ?></span>
-                <span class="brand__name">Project Explorer</span>
+                <span class="brand__name">Seeds of the Throne</span>
             </a>
 
             <div class="explorer-nav">
@@ -143,15 +143,41 @@ function explorer_format_bytes(?int $bytes): string
     </header>
 
     <main id="main">
-        <section class="explorer-hero wrap" aria-labelledby="explorer-title">
-            <p class="kicker"><span class="kicker__num">SOTT</span><span>Repository view</span></p>
-            <h1 id="explorer-title">Seeds of the Throne Project Explorer</h1>
-            <p>Explore the structure behind the story. Browse <?= e((string) count($files)) ?> Markdown documents across canon, research, development sessions, visual systems, drafts, public material, and project coordination.</p>
+        <section class="explorer-hero" aria-labelledby="explorer-title">
+            <img
+                class="explorer-hero__image"
+                src="../../docs/assets/images/samuel-sylvan-confrontation.jpg"
+                alt="Two opposing figures face one another across a divided red and gold world, with a throne between them."
+                width="1584"
+                height="1024"
+                fetchpriority="high">
+            <div class="explorer-hero__veil" aria-hidden="true"></div>
+            <div class="explorer-hero__content wrap">
+                <p class="explorer-hero__label">Project Explorer</p>
+                <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
+                <p class="explorer-hero__lede">Enter the living archive behind the story: canon, research, visual systems, drafts, and the decisions that connect them.</p>
+                <div class="explorer-hero__actions" aria-label="Explorer actions">
+                    <a class="archive-cta archive-cta--primary" href="#archive">
+                        <span>Enter the archive</span>
+                        <span class="archive-cta__arrow" aria-hidden="true">↓</span>
+                    </a>
+                    <a class="archive-cta" href="../../docs/">Open the story atlas</a>
+                </div>
+            </div>
         </section>
 
-        <div class="explorer-shell wrap">
+        <section class="explorer-archive" id="archive" aria-labelledby="archive-title">
+            <header class="archive-intro wrap">
+                <p class="archive-intro__index">Archive 001</p>
+                <div>
+                    <h2 id="archive-title">The living archive</h2>
+                    <p>Browse <?= e((string) count($files)) ?> documents across the complete repository, then follow the ideas and relationships that shape the world.</p>
+                </div>
+            </header>
+
+            <div class="explorer-shell wrap">
             <aside class="explorer-sidebar" aria-label="Repository navigation">
-                <form class="explorer-search" method="get" action="">
+                <form class="explorer-search" method="get" action="#archive">
                     <label for="repository-search">Find a document</label>
                     <div>
                         <input
@@ -193,7 +219,7 @@ function explorer_format_bytes(?int $bytes): string
                 <?php endif; ?>
             </aside>
 
-            <article class="explorer-document" id="document" aria-label="<?= e($requested !== '' ? $requested : 'Repository document') ?>">
+            <article class="explorer-document" id="archive-document" aria-label="<?= e($requested !== '' ? $requested : 'Repository document') ?>">
                 <?php if ($error !== null): ?>
                     <div class="explorer-error" role="alert">
                         <h2>Document unavailable</h2>
@@ -205,7 +231,7 @@ function explorer_format_bytes(?int $bytes): string
                     <header class="explorer-document__header">
                         <nav class="breadcrumbs" aria-label="Document path">
                             <ol>
-                                <li><a href="?file=README.md">Repository</a></li>
+                                <li><a href="<?= e(explorer_file_url('README.md')) ?>">Repository</a></li>
                                 <?php $segments = explode('/', $requested); ?>
                                 <?php foreach ($segments as $segment): ?>
                                     <li><span><?= e($segment) ?></span></li>
@@ -234,7 +260,8 @@ function explorer_format_bytes(?int $bytes): string
                     </div>
                 <?php endif; ?>
             </article>
-        </div>
+            </div>
+        </section>
     </main>
 
     <footer class="site-footer">

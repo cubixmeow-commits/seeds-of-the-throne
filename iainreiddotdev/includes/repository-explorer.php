@@ -85,9 +85,15 @@ function explorer_build_tree(array $paths): array
     return $tree;
 }
 
-function explorer_file_url(string $path): string
+function explorer_file_url(string $path, string $fragment = 'archive'): string
 {
-    return '?' . http_build_query(['file' => $path], '', '&', PHP_QUERY_RFC3986);
+    $url = '?' . http_build_query(['file' => $path], '', '&', PHP_QUERY_RFC3986);
+
+    if ($fragment !== '') {
+        $url .= '#' . rawurlencode($fragment);
+    }
+
+    return $url;
 }
 
 /**
@@ -259,10 +265,10 @@ function explorer_link_html(string $label, string $target, string $current, arra
         return '<span class="markdown-unresolved" title="Linked document is not uniquely resolvable">' . $label . '</span>';
     }
 
-    $href = explorer_file_url($resolved);
-    if ($fragment !== '') {
-        $href .= '#' . rawurlencode(explorer_slug($fragment));
-    }
+    $href = explorer_file_url(
+        $resolved,
+        $fragment !== '' ? explorer_slug($fragment) : 'archive'
+    );
     return '<a href="' . e($href) . '">' . $label . '</a>';
 }
 
