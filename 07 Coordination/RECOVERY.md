@@ -4,36 +4,20 @@ Temporary notes awaiting later review.
 
 ## Pending
 
-B06
-Mixed lighting worked. Styling and composition remained repetitive. Everyday positive environments need stronger definition. Identity scoring needs authoritative reference grounding.
+B06-B10 visual benchmark
+The Sylvan exploratory suite is complete. Preserve the existing findings from this 2026-08-13 project conversation for desktop integration: identity grounding, context isolation, wardrobe variation, Seeds-specific architecture/technology, Luminai manifestation, no-text/canon controls, composition modes, positive-civilization definition, and controlled review of useful accidental inventions. After v2, run the equivalent suite with Samuel.
 
-B07
-Bright optimistic environments worked. Identity drift, repetitive wardrobe, invented text and generic architecture remained issues. Ordinary-life scenes need stronger composition rules.
+## Era / character chronology
+Sylvan Elaria is born at approximately the surface-civilization equivalent of 1985. For ordinary mortal chronology, scene year can be derived from birth-equivalent year plus age and used to retrieve the appropriate surface-civilization era packet.
 
-B08
-Large positive environments worked. Identity drift and repetitive wardrobe persisted. Architecture and technology remained attractive but generic rather than story-specific.
+## Role-specific apparent age / rejuvenation
+Long-lived participants can undergo a healing/rejuvenation process at certain transitions into new identities and roles. Therefore chronological age and apparent biological age must be stored separately.
 
-B09
-One procedural attempt was invalid because it rendered an evaluation graphic. The clean rerun produced a convincing populated public plaza. Positive everyday life and background behavior worked well. Identity drift and repetitive dark wardrobe persisted. Invented readable signage and unsupported iconography returned. Architecture remained genre-derived. Generation context should be isolated from evaluation context. Accidental visual inventions should be reviewed rather than silently treated as established story information.
+Visual World Compiler requirement: each important identity/role can have an appearance state containing `apparent_age`, `rejuvenation_stage`, `identity_reference`, stable identity traits to preserve, and age/era/role-dependent traits that may transform. Historical era determines the surrounding world; identity/role state determines apparent age; the underlying character identity determines facial continuity.
 
-B10
-The first attempt again produced an evaluation/dashboard image and was rejected. A second isolated photographic generation was clean. Cinematic lighting, landscape, vegetation, materials and spatial scale were strong. Positive civilization remained highly successful and visually inhabitable. Identity remained unreliable and dark wardrobe remained persistent. Key-art composition bias remained. Architecture was attractive but still genre-derived, and unsupported iconography persisted. A recurring combination of water, monumental architecture, extensive vegetation, mountains, warm natural light and quiet/invisible technology is an author-review candidate for the advanced civilization's visual DNA, not canon yet.
+For characters with multiple long-lived roles, create an Appearance Timeline recording role/identity, era, apparent age at role entry, apparent aging through the role, rejuvenation/healing events, and appearance at role exit. Interpolation between approved anchor states may be used for scenes between anchors.
 
-Suite conclusion
-The exploratory Sylvan suite is complete. Raw image quality is already strong. Visual Generation System v2 should focus on authoritative identity grounding, generation-context isolation, wardrobe variation, Seeds-specific architecture and technology, Luminai manifestation, no-text/canon controls, composition modes, positive-civilization definition, and controlled review of useful accidental inventions. After v2 is built, run the equivalent suite with Samuel to test generalization.
-
-## Era / character chronology update
-
-Sylvan Elaria is born at approximately the surface-civilization equivalent of **1985**. This should be integrated tonight into his permanent character/visual records and the Visual World Compiler.
-
-Compiler rule: store `birth_era_equivalent` for major characters. For a historical scene, calculate `scene_era_equivalent = birth_era_equivalent + character_age`, then retrieve the corresponding surface-civilization era packet before assembling wardrobe, technology, transportation, interiors, media, and other environmental details.
-
-Sylvan's broad progression therefore runs from an analog late-1980s infancy, through a 1990s childhood, 2000s adolescence/young adulthood, 2010s adulthood, and into the contemporary-equivalent present. This is a development envelope rather than a recreation of Earth-specific brands, people, countries, or events.
-
-Desktop integration should connect this rule to `02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE.md` and make the birth-year-plus-age resolver part of Visual Generation System v2 / the Visual World Compiler.
+Samuel: during the Great War-equivalent era, use Samuel's authoritative identity reference but age-regress/rejuvenate him to an apparent age of approximately 40. Do not substitute Sylvan's identity. The Great War environment should use the established 1930s-1940s-equivalent surface civilization envelope unless a scene specifies otherwise.
 
 ## Desktop handoff pointer
-
-IMPORTANT: Desktop integration should use the current project conversation from 2026-08-13 containing the sequential B01-B10 visual benchmark work, the Visual World Compiler research, the surface-civilization decade research, and the Sylvan 1985-equivalent chronology decision as the detailed source of truth for this recovery entry.
-
-Desktop integration task: review this recovery file together with that 2026-08-13 project chat, merge the findings into permanent visual-generation documentation, then design v2 before beginning Samuel's equivalent benchmark suite.
+Use the current 2026-08-13 project conversation as the detailed source of truth. It contains the B01-B10 benchmark sequence, Visual World Compiler research, decade-by-decade surface-civilization research, Sylvan's 1985-equivalent chronology, and the new role-specific apparent-age/rejuvenation rule. Integrate these into permanent visual-generation and character documentation before building v2.
