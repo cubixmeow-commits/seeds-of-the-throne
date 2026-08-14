@@ -67,7 +67,7 @@ function portfolio(): array
         'name' => 'Iain Reid',
         'initials' => 'IR',
         'role' => 'Creative systems and software developer',
-        'statement' => 'I build immersive worlds and stories, and the software systems that make ambitious creative work possible.',
+        'statement' => 'I build immersive worlds and stories, combined with the software systems that make ambitious creative work possible.',
         'note' => 'Seeds of the Throne is the central project: a long-form speculative world, a repository-owned development system, a visual compiler, and a public publishing platform built together.',
         'margin' => 'Seeds of the Throne is the showcase. The supporting projects demonstrate the repository understanding, workflow design, image production, and application engineering behind it.',
         'portrait' => [
