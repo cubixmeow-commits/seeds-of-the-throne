@@ -44,12 +44,29 @@ build step, and the page has no third-party runtime dependency.
 
 ## VibeKB
 
-VibeKB is the featured project. Its public page lives at `saas-lab/index.php`
+VibeKB is a supporting software project. Its public page lives at `saas-lab/index.php`
 (URL path `/devsite/iainreiddotdev/saas-lab/` for deploy continuity). Update that page's copy in
 place; keep the existing layout and components. It and the account pages under
 `auth/` and `admin/` use `assets/css/style.css`, `assets/css/saas-lab.css`,
 `assets/css/auth.css`, and `assets/js/app.js`. The homepage does not, so those
 files stay in place and were not touched by the homepage redesign.
+
+## Seeds of the Throne Project Explorer
+
+`project-explorer/index.php` reads the deployed repository root through
+`includes/repository-explorer.php`. The helper builds an allowlist from
+non-hidden `.md` files, so a query parameter is never used as an arbitrary
+filesystem path. Symlinks, hidden directories, non-Markdown files, and paths
+outside the repository are excluded.
+
+The page renders common Markdown structures without a package or external
+runtime. Raw HTML is escaped. Resolvable relative Markdown links and Obsidian
+wiki links return to the explorer; external HTTP, HTTPS, and email links remain
+normal links. The folder tree uses native `details` and `summary` controls and
+the search is a server-rendered GET form, so both remain usable without
+JavaScript. Its only page-specific asset is
+`project-explorer/assets/project-explorer.css`; appearance behavior is reused
+from `assets/js/site.js`.
 
 ## Retro (MEOWNET BBS)
 
@@ -78,10 +95,9 @@ lives in arrays at the top of the page. Edit content there.
 ## Deployment
 
 The complete repository deploys to `/home/iainmcok/public_html/devsite/`; this application remains nested at `/home/iainmcok/public_html/devsite/iainreiddotdev/`.
-The deploy is copy-only, so nothing above needs a `.cpanel.yml` change:
-`assets`, `includes`, and `index.php` are already copied recursively. The one
-exception is a new top-level directory: `retro/` was added to `.cpanel.yml`
-when it was created, the same way `x/` was.
+The cPanel task extracts `git archive HEAD` into that directory, so every
+tracked explorer file and every tracked Markdown document is included without
+maintaining a second file list.
 
 Because the deploy never deletes, files the repository removed stay on the
 server. The retired three.js homepage (`assets/js/vendor/`,

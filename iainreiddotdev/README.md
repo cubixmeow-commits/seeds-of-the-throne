@@ -33,6 +33,19 @@ The page requests one stylesheet, one script, and one image.
 See `docs/ART_DIRECTION.md` for the visual system and `docs/BUILD_NOTES.md`
 for how the files fit together.
 
+## Project Explorer
+
+`project-explorer/` is the public, read-only browser for the *Seeds of the
+Throne* repository. It discovers every non-hidden Markdown document beneath
+the deployed repository root, presents the folder structure with native
+disclosure controls, searches document paths, and renders escaped Markdown.
+
+The request boundary and dependency-free Markdown renderer live in
+`includes/repository-explorer.php`. Only paths returned by the safe repository
+scan can be opened; hidden directories, symlinks, path traversal, and non-
+Markdown files are excluded. Page-specific styling extends the shared design
+system from `project-explorer/assets/project-explorer.css`.
+
 ## Retro
 
 `retro/` is a joke page linked from the homepage footer: MEOWNET BBS, a 1990s

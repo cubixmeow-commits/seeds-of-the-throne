@@ -336,6 +336,7 @@ function portfolio(): array
             ],
             'links' => [
                 ['label' => 'Repository', 'href' => 'https://github.com/cubixmeow-commits/seeds-of-the-throne', 'kind' => 'repo'],
+                ['label' => 'Project Explorer', 'href' => 'project-explorer/', 'kind' => 'page', 'internal' => true],
                 ['label' => 'Explore the story atlas', 'href' => '../docs/', 'kind' => 'doc', 'internal' => true],
             ],
         ],

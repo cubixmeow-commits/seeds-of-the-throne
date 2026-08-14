@@ -6,7 +6,7 @@ It is persistent working memory for story development: chronological sessions, c
 
 ## Public website
 
-The complete tracked repository is published under `https://iainreid.dev/devsite/` so its public-facing vault material can be explored directly. The `iainreiddotdev/` directory contains the PHP portfolio previously maintained in the separate public `iainreid.dev` repository, and the root `index.php` redirects `/devsite/` visitors into that nested application at `/devsite/iainreiddotdev/`. Repository metadata and dotfiles remain blocked from web access.
+The complete tracked repository is published under `https://iainreid.dev/devsite/` so its public-facing vault material can be explored directly. The `iainreiddotdev/` directory contains the PHP portfolio previously maintained in the separate public `iainreid.dev` repository, and the root `index.php` redirects `/devsite/` visitors into that nested application at `/devsite/iainreiddotdev/`. The [Project Explorer](https://iainreid.dev/devsite/iainreiddotdev/project-explorer/) provides a read-only folder tree, document search, and rendered view of every non-hidden Markdown file. Repository metadata and dotfiles remain blocked from web access.
 
 ## Start here
 
