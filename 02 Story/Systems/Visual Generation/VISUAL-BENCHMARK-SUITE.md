@@ -161,6 +161,11 @@ After the character benchmark stabilizes:
 3. create reusable **technology identity packets**;
 4. benchmark two-person-plus-Luminai compositions;
 5. convert successful still-image scenes into **3–6 shot sequence tests**;
-6. test Grok Imagine video continuity and document persistent/nonpersistent behavior;
-7. establish textual voice bibles and test voice consistency only against capabilities demonstrated in practice;
-8. eventually expose a predictable agent-facing generation entry point so a short request can resolve the correct canon, identity, environment, technology, cinematography, and output packets from the public GitHub repository.
+6. run B06-B10 against the compiler's clean-packet boundary, era/surface resolution, composition modes, no-text controls, and missing-definition reporting;
+7. use GPT Image 2 for the next Samuel suite; defer other renderer adapters until the core loop is reliable;
+8. establish textual voice bibles and test voice consistency only against capabilities demonstrated in practice;
+9. expose a predictable agent-facing generation entry point so a short request can resolve the correct canon, identity, environment, technology, cinematography, and output packets from the public GitHub repository.
+
+## B06-B10 integration note
+
+The continuation findings are integrated as system requirements: identity grounding must be verifiable, wardrobe must vary by role and era, environments and technology must be Seeds-specific, Luminai manifestation must not collapse into blue hologram shorthand, generated text and unsupported canon must be blocked, composition must include observational and ordinary-life modes, positive civilization must be visually defined rather than inferred from generic futurism, and accidental inventions must be reviewed deliberately before entering the vault.

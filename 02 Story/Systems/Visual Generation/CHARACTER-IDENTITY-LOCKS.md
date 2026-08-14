@@ -50,7 +50,11 @@ Lock each character separately before describing the relationship. State relativ
 
 ## Luminai presentation
 
-When a Luminai receives a face, voice, avatar, or projected body, specify that it is differentiated presentation of the human's extended cognition, not a separate romantic companion. Apply the developing gender-presentation rule only when the character's orientation and chosen presentation are known. Do not infer orientation from appearance.
+Luminai and Daemon visual manifestation is energy radiating from the integrated person, concentrated around the head/brain and chest. It is not a separate face, body, holographic companion, monster, or romantic figure. The energy pattern may differentiate healthy integration from corrupted feedback, but it cannot replace the person's identity or imply a second embodied character. In-world observability remains unresolved.
+
+## Sylvan wardrobe
+
+For ordinary surface scenes, resolve Sylvan's clothing from his age, role, activity, weather, and the scene's equivalent year. The development reference is middle-class urban Los Angeles and broader United States clothing from 1985 through the present, translated into the invented culture without real brands or locations. His black structured coat and pendant remain valid for later formal, integration, or symbolic scenes; they are not his universal costume.
 
 ## Drift checklist
 

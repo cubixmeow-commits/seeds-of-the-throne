@@ -31,6 +31,8 @@ updated: 2026-08-13
 - Why does complementary-gender Luminai presentation become common among heterosexual people, and how do other orientations, identities, and relationship structures develop presentation?
 - What legal and technical safeguards govern romantic synchronization, emergency access, revocation, and separation?
 - Which colony-AI limits are physical, computational, biological, legal, or deliberately imposed?
+- Is Luminai/Daemon manifestation energy literally visible to all observers, selectively perceived by integrated people, instrumentally rendered, or primarily an audience-facing visual representation?
+- What exact devices, schedules, biological limits, and role-transition protocols govern society's nutrition-plus-energy rejuvenation system?
 
 ## Parent civilization
 

@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "project": "Seeds of the Throne",
   "registry_status": "working visual canon",
   "terminology": {
@@ -11,6 +11,7 @@
   "style": {
     "id": "sott-gothic-archive-v1",
     "name": "Gothic archival science fantasy",
+    "scope": "primary for key art, hidden colonization systems, symbolic images, and explicitly advanced environments; ordinary surface-civilization packets take precedence",
     "locked_traits": [
       "near-black cinematic ground",
       "antique gold light used for evidence, truth, integration, and constructive power",
@@ -57,6 +58,546 @@
       "imitation of a named living artist"
     ]
   },
+  "compiler": {
+    "id": "seeds-visual-world-compiler-v2",
+    "renderer": {
+      "provider": "openai",
+      "model": "gpt-image-2",
+      "documented_snapshot": "gpt-image-2-2026-04-21",
+      "documentation_verified": "2026-08-13",
+      "mode": "image-generation",
+      "reference_inputs": true,
+      "multiple_reference_inputs": true,
+      "image_input_fidelity": "automatic-high",
+      "qa_context_isolated": true,
+      "generation_intents": ["new-with-references", "edit", "iterative-edit"],
+      "execution_routes": {
+        "new-with-references": "image-api",
+        "edit": "image-api",
+        "iterative-edit": "responses-api"
+      },
+      "output_defaults": {
+        "size": "auto",
+        "quality": "high",
+        "format": "png",
+        "background": "auto"
+      },
+      "documented_limitations": [
+        "recurring-character and brand consistency can drift across generations",
+        "precise placement can fail in structured or layout-sensitive compositions",
+        "precise text placement and clarity can fail",
+        "complex prompts can have substantial latency"
+      ],
+      "provenance_to_capture": [
+        "original_clean_brief",
+        "revised_prompt_when_available",
+        "model_alias",
+        "model_snapshot_or_observed_version",
+        "api_or_tool_route",
+        "reference_paths_and_checksums",
+        "output_controls",
+        "request_date",
+        "result_status"
+      ]
+    },
+    "image_types": [
+      "observational-scene",
+      "narrative-scene",
+      "historical-reconstruction",
+      "environment-establishing-shot",
+      "character-portrait",
+      "relationship-scene",
+      "documentary-photograph",
+      "key-art",
+      "technology-visualization",
+      "worldbuilding-concept"
+    ],
+    "render_styles": ["painterly-photorealism", "cinematic-photorealism", "archival-documentary"],
+    "render_style_instructions": {
+      "painterly-photorealism": "tactile painterly photorealism with natural anatomy, material texture, and restrained cinematic finish",
+      "cinematic-photorealism": "credible cinematic photography with natural skin, practical light, real materials, and no painterly or plastic rendering",
+      "archival-documentary": "period-plausible documentary photography with era-appropriate optics, exposure, grain, materials, and staging"
+    },
+    "composition_modes": {
+      "KEY-ART": "Iconic promotional composition with deliberate negative space.",
+      "NARRATIVE-CINEMA": "Scene-driven blocking with a readable dramatic instant; default for story scenes.",
+      "OBSERVATIONAL": "Observed life; subjects may be small, occluded, off-center, or subordinate to place.",
+      "ORDINARY-LIFE": "Mundane activity and social context; avoid heroic posing and visual privilege."
+    },
+    "surface_hidden_rule": "The resolved era and surface layer control visible civilization. Advanced colonization infrastructure remains hidden, mediated, disguised, or restricted unless the scene explicitly authorizes visibility.",
+    "ordinary_surface_style_rule": "For ordinary surface scenes with no advanced-colony visibility, use natural era/location light, materials, architecture, and clothing. Project colors may appear only through motivated story evidence or cognition energy. Do not impose near-black key-art lighting, monumental gothic architecture, sacred geometry, or futuristic styling.",
+    "era_resolution": {
+      "birth_year_plus_age": true,
+      "surface_year_basis": "surface-civilization equivalent year",
+      "supported_packets": ["1940s", "1950s", "1960s", "1970s", "1980s", "1990s", "2000s", "2010s", "2020s"],
+      "decade_packets": "02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE.md"
+    },
+    "era_packets": {
+      "1940s": {
+        "visible_life": "wartime scarcity and industrial mobilization; practical structured clothing, durable natural fabrics, repair and reuse, with ordinary homes, shops, offices, schools, farms, transit, and civic life still present",
+        "technology_media": "radio, print, newsreels, wired telephones, mail, typewriters, switchboards, analog instruments, paper files, vacuum-tube and electromechanical systems",
+        "transport_infrastructure": "mechanically simple cars, rail, buses, walking, bicycles, shipping, propeller aviation, factories, warehouses, shipyards, workshops, brick, steel, wood, plaster, and incandescent light",
+        "guardrails": "no smartphones, flat screens, LEDs, digital interfaces, modern tactical gear, contemporary casualwear, holograms, or visible colonization technology without explicit cause"
+      },
+      "1950s": {
+        "visible_life": "comparatively formal dress with growing casual sportswear; expanding household consumption, appliances, mass retail, automobile ownership, television, and residential development across varied urban, rural, and working-class settings",
+        "technology_media": "television joins radio, print, landline phones, and physical mail; electrical appliances and purpose-built consumer equipment become increasingly visible",
+        "transport_infrastructure": "cars, buses, rail, road networks, parking, and expanding commercial aviation; cleaner postwar modernism coexists with older urban and industrial fabric",
+        "guardrails": "do not reduce the decade to an idealized suburb or erase apartments, transit, factories, hospitals, schools, offices, farms, and civic buildings"
+      },
+      "1960s": {
+        "visible_life": "tailored earlier-decade clothing coexists with increasingly casual, colorful, geometric, synthetic, youth-driven, and later bohemian styles",
+        "technology_media": "widespread television, radio, records, print, landlines, paper-heavy offices, typewriters, mechanical calculators, duplicating equipment, and specialized centralized computers",
+        "transport_infrastructure": "car-oriented development, buses, rail, commercial jets, modernist civic complexes, campuses, towers, and older neighborhoods",
+        "guardrails": "space-age design is a cultural influence, not evidence of accessible colonization hardware"
+      },
+      "1970s": {
+        "visible_life": "eclectic fashion including denim, synthetics, wider trousers, workwear, sportswear, bohemian clothing, bold patterns, and increasingly informal homes and offices",
+        "technology_media": "television, FM radio, records and tapes, telephones, print, calculators, electronic instruments, early digital systems, centralized computing, and rare late-decade personal computers",
+        "transport_infrastructure": "mature car, transit, rail, and aviation systems; warm woods, plastics, earth tones, patterned textiles, modular furnishings, and analog bureaucratic institutions",
+        "guardrails": "no ubiquitous PCs, internet culture, flat displays, smartphones, or modern surveillance interfaces"
+      },
+      "1980s": {
+        "visible_life": "assertive silhouettes, strong shoulders, bold colors, sportswear, business power dressing, street styles, and visible subcultural variation",
+        "technology_media": "bulky personal computers, CRTs, floppy disks, wired keyboards, printers, fax machines, landlines, typewriters, cassette and video media, with paper processes still dominant",
+        "transport_infrastructure": "car-dominant urban and suburban commerce, routine aviation, analog bureaucracy, and islands of desk-bound digital equipment",
+        "guardrails": "computers remain bulky, wired, and visibly separate from the environment; no always-connected contemporary behavior"
+      },
+      "1990s": {
+        "visible_life": "broad casualization, jeans, loose or oversized layers, simple silhouettes, sneakers, and subculture-driven clothing",
+        "technology_media": "ordinary desktop computers and growing laptops, CRTs, floppy disks, CDs, pagers, early mobile phones, fax, landlines, camcorders, dial-up, email, and an emerging public web",
+        "transport_infrastructure": "mature cars and aviation, printed maps and signs, recognizable late-century architecture with digital change occurring inside otherwise ordinary spaces",
+        "guardrails": "no modern smartphones, ubiquitous wireless connectivity, current flat-panel ecosystems, social-media behavior, or contemporary minimalist technology interiors"
+      },
+      "2000s": {
+        "visible_life": "casual media-driven clothing, denim, layered outfits, cargo and sportswear, fitted and loose silhouettes, and increasingly rapid trend turnover",
+        "technology_media": "common desktops and laptops, broadband growth, widespread mobile phones, email, websites, digital photography, portable music, messaging, early social platforms, CDs and DVDs, with smartphones appearing only late",
+        "transport_infrastructure": "increasingly networked offices and public spaces, transitional CRT-to-flat-panel displays, fixed workstations, cars, transit, and routine aviation",
+        "guardrails": "resolve early, middle, or late decade when important; do not make a 2001-equivalent scene look like 2009"
+      },
+      "2010s": {
+        "visible_life": "smartphone-centered behavior, highly informal globally networked fashion, athleisure, sneakers, streetwear, slim tailoring, revival cycles, and persistent regional variation",
+        "technology_media": "mobile internet, apps, social platforms, streaming, cloud services, GPS, digital photography, laptops, tablets, and flat-panel displays",
+        "transport_infrastructure": "heavily networked offices, schools, retail, and services; app-mediated transport, delivery, navigation, and commerce in otherwise recognizable built environments",
+        "guardrails": "do not make every contemporary space a minimalist technology-company interior; older buildings, vehicles, homes, and analog remnants remain common"
+      },
+      "2020s": {
+        "visible_life": "recognizable contemporary surface life with eclectic revival-driven casualwear, athleisure, streetwear, workwear, technical fabrics, sneakers, and both oversized and fitted silhouettes",
+        "technology_media": "smartphones, broadband, streaming, cloud services, digital payments, delivery platforms, video calls, wireless earbuds, laptops, connected services, and frequent online coordination",
+        "transport_infrastructure": "familiar contemporary vehicles, transit, aviation, retail, schools, hospitals, offices, apartments, suburbs, civic buildings, and public spaces with embedded screen-based digital systems",
+        "guardrails": "Luminai, synthetics, and hidden colony AI do not justify cyberpunk streets, holograms, or futuristic consumer devices; advanced infrastructure appears only when the scene crosses that boundary"
+      }
+    },
+    "environment_masters": {
+      "surface-civilization": {"status": "working", "kind": "era-and-surface-envelope", "source": "ERA-SURFACE-CIVILIZATION-REFERENCE.md"},
+      "lived-in-ordinary-life": {"status": "required-definition", "source": "VISUAL-BENCHMARK-SUITE.md#ordinary-life"}
+    },
+    "environment_overlays": {
+      "coastal-public-beach": {
+        "status": "working-visual-envelope",
+        "kind": "generic-place-overlay",
+        "scope": "unnamed ordinary public beach in a temperate coastal city; does not establish a named Seeds location",
+        "earth_development_reference": "Southern California public beaches and coastal neighborhoods, translated without real signs, brands, landmarks, or place names",
+        "visible_evidence": [
+          "natural shoreline, surf, wet and dry sand, marine haze, and ordinary coastal weather",
+          "public recreational use with plausible walkers, runners, swimmers, families, or distant beachgoers as scene-appropriate",
+          "ordinary era-resolved clothing, beach access, safety infrastructure, and distant urban fabric"
+        ],
+        "guardrails": "no recognizable real landmark, luxury-resort default, deserted fantasy shore, cyberpunk infrastructure, or visible hidden-colony technology without explicit cause"
+      }
+    },
+    "scene_workspace": {
+      "schema_version": 1,
+      "default_root": ".visual-workspaces",
+      "reference_roles": ["identity", "appearance", "wardrobe", "movement", "environment", "composition", "edit-source"],
+      "feedback_categories": ["identity", "apparent-age", "wardrobe", "action-anatomy", "expression", "environment", "manifestation", "camera", "lighting", "composition", "render-style", "canon-safety"],
+      "feedback_scopes": ["candidate", "scene", "character", "world-system"],
+      "promotion_states": ["none", "scene-local", "reusable-guidance", "approved-reference", "proposed-world-definition", "canon-decision"],
+      "policy": "Feedback is scene-local by default. No candidate image, review, or repeated preference changes character authority, world definitions, or canon without an explicit promotion record."
+    },
+    "manifestations": {
+      "luminai": {
+        "status": "authoritative-visual-definition",
+        "form": "energy radiating from the integrated human, never a separate person or humanoid companion",
+        "concentration": ["head and brain", "chest"],
+        "behavior": "coherent energy integrated with the person's body, attention, and breathing; strongest around cognition and embodied identity",
+        "palette": "use antique/luminous gold for integration and truth, with clear blue only when communication or coordination is active",
+        "controls": {
+          "allowed_colors": ["gold", "blue", "gold-and-blue"],
+          "default_color": "gold-and-blue",
+          "allowed_intensities": ["subtle", "moderate", "strong"],
+          "default_intensity": "moderate",
+          "allowed_reach": ["skin-close", "body-scale", "extended"],
+          "default_reach": "body-scale",
+          "allowed_particle_density": ["none", "sparse", "moderate"],
+          "default_particle_density": "sparse",
+          "coherence": "coherent and continuous with breathing, attention, and movement; never random lightning or a separate figure"
+        },
+        "observer_rule": "This is the default visual-production representation; whether and how in-world observers perceive it remains unresolved."
+      },
+      "daemon": {
+        "status": "authoritative-visual-definition",
+        "form": "energy radiating from the integrated human, never a separate person, monster, or humanoid companion",
+        "concentration": ["head and brain", "chest"],
+        "behavior": "the same embodied energy pattern made constricted, recursive, fractured, or misaligned by corrupted feedback and manufactured reality",
+        "palette": "use deep crimson and ember red for coercion, corruption, and fracture without turning the field into fire or supernatural possession",
+        "controls": {
+          "allowed_colors": ["crimson", "ember-red", "crimson-and-ember"],
+          "default_color": "crimson-and-ember",
+          "allowed_intensities": ["subtle", "moderate", "strong"],
+          "default_intensity": "moderate",
+          "allowed_reach": ["skin-close", "body-scale", "extended"],
+          "default_reach": "body-scale",
+          "allowed_particle_density": ["none", "sparse", "moderate"],
+          "default_particle_density": "sparse",
+          "coherence": "constricted, recursive, fractured, or misaligned while remaining continuous with the integrated person's body"
+        },
+        "observer_rule": "This is the default visual-production representation; whether and how in-world observers perceive it remains unresolved."
+      }
+    },
+    "rejuvenation_system": {
+      "status": "authoritative-working-definition",
+      "social_role": "a built-in and normalized part of mature society rather than a rare elite exception",
+      "modalities": ["carefully managed nutrition", "multiple highly refined energy-based technologies"],
+      "visual_rule": "show outcomes through healthy tissue, movement, recovery, and apparent age; do not invent a glowing chamber, beam, or single miracle device unless a treatment scene requires definition",
+      "unresolved": ["treatment schedule", "biological limits", "exact devices and procedures", "role-transition protocols"]
+    },
+    "missing_definition_policy": "Return NEEDS DEFINITION for load-bearing undefined visual facts. Do not silently invent canon."
+  },
+  "visual_entity_graph": {
+    "schema_version": 1,
+    "status": "working-production-graph",
+    "policy": "Graph nodes point to existing registry payloads and vault sources. They do not duplicate or establish story facts.",
+    "node_types": [
+      "character-identity",
+      "appearance-state",
+      "wardrobe-profile",
+      "era-packet",
+      "environment-master",
+      "environment-overlay",
+      "manifestation",
+      "rejuvenation-system",
+      "visual-style",
+      "composition-mode",
+      "renderer-capability"
+    ],
+    "edge_types": [
+      "HAS_APPEARANCE",
+      "HAS_WARDROBE",
+      "RESOLVES_IN_ERA",
+      "USES_ENVIRONMENT",
+      "APPLIES_TO_ENVIRONMENT",
+      "MAY_MANIFEST_AS",
+      "AFFECTED_BY_REJUVENATION",
+      "RENDERED_WITH_STYLE",
+      "RENDERED_BY"
+    ],
+    "authority_order": [
+      "author-decision",
+      "story-authority",
+      "approved-visual-authority",
+      "production-rule",
+      "working-context",
+      "research-advisory",
+      "external-operational"
+    ],
+    "allowed_statuses": [
+      "established",
+      "authoritative-working",
+      "working",
+      "proposed",
+      "unresolved",
+      "required-definition",
+      "rejected",
+      "obsolete",
+      "operational"
+    ],
+    "source_catalog": {
+      "vault-rules": {
+        "location_type": "vault-file",
+        "location": "03 Context/RULES.md",
+        "source_class": "story-authority",
+        "scope": "authority, status, research, visual-output, and authorship boundaries"
+      },
+      "current-context": {
+        "location_type": "vault-file",
+        "location": "03 Context/CURRENT.md",
+        "source_class": "working-context",
+        "scope": "current project synthesis and unresolved development priorities"
+      },
+      "cast": {
+        "location_type": "vault-file",
+        "location": "03 Context/CAST.md",
+        "source_class": "story-authority",
+        "scope": "established names and compiled character roles"
+      },
+      "timeline": {
+        "location_type": "vault-file",
+        "location": "02 Story/Timeline/Timeline.md",
+        "source_class": "story-authority",
+        "scope": "chronology, equivalent years, and age resolution"
+      },
+      "samuel-character": {
+        "location_type": "vault-file",
+        "location": "02 Story/Characters/Samuel Franklin.md",
+        "source_class": "story-authority",
+        "scope": "Samuel identity, history, roles, and development status"
+      },
+      "technology-ecology": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Advanced Technology Ecology.md",
+        "source_class": "story-authority",
+        "scope": "technology layers, rejuvenation, consequences, and visual restraint"
+      },
+      "luminai-system": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Human–Luminai Pairing and Bonding.md",
+        "source_class": "story-authority",
+        "scope": "human-Luminai integration and identity boundaries"
+      },
+      "visual-decisions": {
+        "location_type": "vault-file",
+        "location": "07 QA/Decisions.md",
+        "source_class": "author-decision",
+        "scope": "approved character identity and visual-production decisions"
+      },
+      "identity-locks": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/CHARACTER-IDENTITY-LOCKS.md",
+        "source_class": "production-rule",
+        "scope": "identity authority, appearance timelines, and drift rules"
+      },
+      "era-reference": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE.md",
+        "source_class": "production-rule",
+        "scope": "surface-civilization era envelopes"
+      },
+      "environment-rules": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/ENVIRONMENTS-AND-TECHNOLOGY.md",
+        "source_class": "production-rule",
+        "scope": "environment and technology packet requirements"
+      },
+      "prompt-system": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/PROMPT-SYSTEM.md",
+        "source_class": "production-rule",
+        "scope": "packet resolution order and clean renderer projection"
+      },
+      "compiler-spec": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/VISUAL-WORLD-COMPILER.md",
+        "source_class": "production-rule",
+        "scope": "entity graph, missing-definition, context-isolation, and renderer boundaries"
+      },
+      "cinematography": {
+        "location_type": "vault-file",
+        "location": "02 Story/Systems/Visual Generation/CINEMATOGRAPHY.md",
+        "source_class": "production-rule",
+        "scope": "composition, camera, blocking, movement, and light"
+      },
+      "openai-gpt-image-2": {
+        "location_type": "external-url",
+        "location": "https://developers.openai.com/api/docs/models/gpt-image-2",
+        "source_class": "external-operational",
+        "scope": "renderer capability only; never story authority"
+      }
+    },
+    "nodes": {
+      "character:samuel-franklin": {
+        "type": "character-identity",
+        "payload_ref": "characters.samuel-franklin",
+        "status": "established",
+        "source_refs": ["samuel-character", "cast", "visual-decisions", "identity-locks"]
+      },
+      "appearance:samuel-franklin:samuel-great-war": {
+        "type": "appearance-state",
+        "payload_ref": "characters.samuel-franklin.appearance_timeline.0",
+        "status": "authoritative-working",
+        "source_refs": ["timeline", "identity-locks", "technology-ecology"]
+      },
+      "appearance:samuel-franklin:samuel-throne": {
+        "type": "appearance-state",
+        "payload_ref": "characters.samuel-franklin.appearance_timeline.1",
+        "status": "authoritative-working",
+        "source_refs": ["samuel-character", "identity-locks", "visual-decisions"]
+      },
+      "wardrobe:samuel-franklin": {
+        "type": "wardrobe-profile",
+        "payload_ref": "characters.samuel-franklin.wardrobe_profile",
+        "status": "authoritative-working",
+        "source_refs": ["identity-locks", "era-reference"]
+      },
+      "character:sylvan-elaria": {
+        "type": "character-identity",
+        "payload_ref": "characters.sylvan-elaria",
+        "status": "established",
+        "source_refs": ["cast", "current-context", "visual-decisions", "identity-locks"]
+      },
+      "appearance:sylvan-elaria:sylvan-birth": {
+        "type": "appearance-state",
+        "payload_ref": "characters.sylvan-elaria.appearance_timeline.0",
+        "status": "working",
+        "source_refs": ["timeline", "identity-locks"]
+      },
+      "appearance:sylvan-elaria:sylvan-modern": {
+        "type": "appearance-state",
+        "payload_ref": "characters.sylvan-elaria.appearance_timeline.1",
+        "status": "authoritative-working",
+        "source_refs": ["timeline", "identity-locks", "visual-decisions"]
+      },
+      "wardrobe:sylvan-elaria": {
+        "type": "wardrobe-profile",
+        "payload_ref": "characters.sylvan-elaria.wardrobe_profile",
+        "status": "authoritative-working",
+        "source_refs": ["identity-locks", "era-reference"]
+      },
+      "era:1940s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1940s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:1950s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1950s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:1960s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1960s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:1970s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1970s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:1980s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1980s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:1990s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.1990s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:2000s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.2000s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:2010s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.2010s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "era:2020s": {
+        "type": "era-packet",
+        "payload_ref": "compiler.era_packets.2020s",
+        "status": "working",
+        "source_refs": ["era-reference"]
+      },
+      "environment:surface-civilization": {
+        "type": "environment-master",
+        "payload_ref": "compiler.environment_masters.surface-civilization",
+        "status": "working",
+        "source_refs": ["era-reference", "environment-rules", "compiler-spec"]
+      },
+      "environment:lived-in-ordinary-life": {
+        "type": "environment-master",
+        "payload_ref": "compiler.environment_masters.lived-in-ordinary-life",
+        "status": "required-definition",
+        "source_refs": ["environment-rules", "compiler-spec"]
+      },
+      "environment-overlay:coastal-public-beach": {
+        "type": "environment-overlay",
+        "payload_ref": "compiler.environment_overlays.coastal-public-beach",
+        "status": "working",
+        "source_refs": ["era-reference", "environment-rules", "compiler-spec"]
+      },
+      "manifestation:luminai": {
+        "type": "manifestation",
+        "payload_ref": "compiler.manifestations.luminai",
+        "status": "authoritative-working",
+        "source_refs": ["luminai-system", "technology-ecology", "current-context", "compiler-spec"]
+      },
+      "manifestation:daemon": {
+        "type": "manifestation",
+        "payload_ref": "compiler.manifestations.daemon",
+        "status": "authoritative-working",
+        "source_refs": ["luminai-system", "technology-ecology", "current-context", "compiler-spec"]
+      },
+      "system:rejuvenation": {
+        "type": "rejuvenation-system",
+        "payload_ref": "compiler.rejuvenation_system",
+        "status": "authoritative-working",
+        "source_refs": ["technology-ecology", "current-context", "compiler-spec"]
+      },
+      "style:sott-gothic-archive-v1": {
+        "type": "visual-style",
+        "payload_ref": "style",
+        "status": "authoritative-working",
+        "source_refs": ["visual-decisions", "prompt-system", "compiler-spec"]
+      },
+      "composition:KEY-ART": {
+        "type": "composition-mode",
+        "payload_ref": "compiler.composition_modes.KEY-ART",
+        "status": "operational",
+        "source_refs": ["cinematography", "prompt-system", "compiler-spec"]
+      },
+      "composition:NARRATIVE-CINEMA": {
+        "type": "composition-mode",
+        "payload_ref": "compiler.composition_modes.NARRATIVE-CINEMA",
+        "status": "operational",
+        "source_refs": ["cinematography", "prompt-system", "compiler-spec"]
+      },
+      "composition:OBSERVATIONAL": {
+        "type": "composition-mode",
+        "payload_ref": "compiler.composition_modes.OBSERVATIONAL",
+        "status": "operational",
+        "source_refs": ["cinematography", "prompt-system", "compiler-spec"]
+      },
+      "composition:ORDINARY-LIFE": {
+        "type": "composition-mode",
+        "payload_ref": "compiler.composition_modes.ORDINARY-LIFE",
+        "status": "operational",
+        "source_refs": ["cinematography", "prompt-system", "compiler-spec"]
+      },
+      "renderer:gpt-image-2": {
+        "type": "renderer-capability",
+        "payload_ref": "compiler.renderer",
+        "status": "operational",
+        "source_refs": ["openai-gpt-image-2", "compiler-spec"]
+      }
+    },
+    "edges": [
+      {"from": "character:samuel-franklin", "type": "HAS_APPEARANCE", "to": "appearance:samuel-franklin:samuel-great-war"},
+      {"from": "character:samuel-franklin", "type": "HAS_APPEARANCE", "to": "appearance:samuel-franklin:samuel-throne"},
+      {"from": "character:samuel-franklin", "type": "HAS_WARDROBE", "to": "wardrobe:samuel-franklin"},
+      {"from": "appearance:samuel-franklin:samuel-great-war", "type": "RESOLVES_IN_ERA", "to": "era:1940s"},
+      {"from": "appearance:samuel-franklin:samuel-throne", "type": "RESOLVES_IN_ERA", "to": "era:2020s"},
+      {"from": "character:samuel-franklin", "type": "AFFECTED_BY_REJUVENATION", "to": "system:rejuvenation"},
+      {"from": "character:sylvan-elaria", "type": "HAS_APPEARANCE", "to": "appearance:sylvan-elaria:sylvan-birth"},
+      {"from": "character:sylvan-elaria", "type": "HAS_APPEARANCE", "to": "appearance:sylvan-elaria:sylvan-modern"},
+      {"from": "character:sylvan-elaria", "type": "HAS_WARDROBE", "to": "wardrobe:sylvan-elaria"},
+      {"from": "appearance:sylvan-elaria:sylvan-modern", "type": "RESOLVES_IN_ERA", "to": "era:2020s"},
+      {"from": "character:sylvan-elaria", "type": "MAY_MANIFEST_AS", "to": "manifestation:luminai"},
+      {"from": "character:sylvan-elaria", "type": "AFFECTED_BY_REJUVENATION", "to": "system:rejuvenation"},
+      {"from": "environment-overlay:coastal-public-beach", "type": "APPLIES_TO_ENVIRONMENT", "to": "environment:surface-civilization"},
+      {"from": "environment:surface-civilization", "type": "RENDERED_WITH_STYLE", "to": "style:sott-gothic-archive-v1"},
+      {"from": "style:sott-gothic-archive-v1", "type": "RENDERED_BY", "to": "renderer:gpt-image-2"}
+    ]
+  },
   "story_sequences": {
     "samuel-busted-v1": {
       "title": "Samuel Franklin is exposed and arrested",
@@ -98,19 +639,26 @@
       "story_status": "established name and role",
       "identity_lock": {
         "apparent_age": "late 60s to early 70s",
-        "build_and_silhouette": "lean older man with a slightly stooped but commanding ceremonial posture and a narrow high-collared silhouette",
-        "face": "long weathered face, deeply furrowed brow and cheeks, prominent slightly hooked nose, heavy eye sockets, compressed mouth, severe asymmetry from age and strain",
+        "build_and_silhouette": "lean man with a slightly stooped but commanding posture; clothing silhouette varies by role and era",
+        "face": "long narrow face, prominent slightly hooked nose, deep-set eye geometry, compressed mouth, and persistent natural asymmetry",
         "hair": "receding gray hair, wavy to loosely curled, ear length at the sides and back",
         "facial_hair": "short rough gray beard and mustache, never clean shaven and never a long full beard",
         "eyes_and_expression": "deep-set dark eyes, guarded downward gaze or cold focused scrutiny, authority performed through control rather than warmth",
         "skin_and_distinguishing_features": "pale to light-medium weathered skin with pronounced lines and scar-like creases; retain natural texture"
       },
       "wardrobe_lock": [
-        "black high-collared ceremonial coat or robe",
-        "restrained antique-gold filigree and fine embroidered circuitry",
-        "narrow metallic crown with tall points for formal throne imagery",
-        "no bright armor, cape, or generic royal velvet"
+        "historical and ordinary clothing follows the resolved era, role, activity, weather, and social position",
+        "the black high-collared ceremonial coat, restrained antique-gold details, and narrow metallic crown belong to later Throne/formal imagery rather than every Samuel scene",
+        "Great War scenes use 1940s-equivalent civilian, professional, medical, political, industrial, or military clothing appropriate to the specific role",
+        "no automatic crown, robe, bright armor, cape, generic royal velvet, or anachronistic clothing"
       ],
+      "wardrobe_profile": {
+        "status": "authoritative-working-definition",
+        "earth_reference_only": "resolved surface-civilization era and role; Great War uses the 1940s-equivalent packet",
+        "translation_rule": "match Samuel's resolved era, role, activity, weather, authority, and means; reserve Throne regalia for scenes in which he is actually performing that identity",
+        "range": ["period civilian clothing", "professional or medical clothing", "political clothing", "industrial or military clothing when role-appropriate", "later Throne ceremonial clothing"],
+        "anti_default": "do not repeat the crown or black ceremonial identity-master costume in Great War or ordinary scenes without story cause"
+      },
       "color_and_light": [
         "crimson environment or rim light is his primary visual field",
         "gold may appear as stolen, contested, or failing authority",
@@ -125,6 +673,31 @@
         "heavy muscular build",
         "ornate medieval king costume without technological detail",
         "identification as George White"
+      ],
+      "appearance_timeline": [
+        {
+          "role_id": "samuel-great-war",
+          "era_equivalent": "1930s-1940s",
+          "apparent_age": "approximately 40",
+          "rejuvenation_stage": "societal nutrition and refined energy-based rejuvenation has established an apparent age of approximately 40; exact treatment schedule unresolved",
+          "identity_reference": "samuel-franklin-identity-master-v1",
+          "stable_traits": ["same Samuel facial geometry", "same hairline and wavy hair texture", "same beard distribution"],
+          "transformable_traits": ["apparent age", "hair and beard color/density", "skin weathering", "wardrobe", "fatigue", "grooming within role"],
+          "transformable_identity_fields": ["hair", "facial_hair", "skin_and_distinguishing_features"],
+          "status": "working visual rule",
+          "renderable": true
+        },
+        {
+          "role_id": "samuel-throne",
+          "era_equivalent": "2020s-equivalent",
+          "apparent_age": "late 60s to early 70s",
+          "rejuvenation_stage": "later post-treatment aging state; timing of the last rejuvenation cycle unresolved",
+          "identity_reference": "samuel-franklin-identity-master-v1",
+          "stable_traits": ["same facial geometry", "weathered skin", "gray hair and beard"],
+          "transformable_traits": ["scene wardrobe", "fatigue", "lighting", "posture"],
+          "status": "authoritative current reference",
+          "renderable": true
+        }
       ],
       "references": [
         {
@@ -152,7 +725,7 @@
         {
           "path": "assets/reference-images/samuel-franklin-identity-master-v1.png",
           "status": "canonical-primary",
-          "use": "primary identity, face, age, hair, crown, wardrobe, and red-field reference; Samuel appears alone",
+          "use": "primary identity and facial-geometry reference; age, gray hair, crown, ceremonial wardrobe, and red field belong to the later Throne state and must transform for earlier roles; Samuel appears alone",
           "created": "2026-08-12",
           "generator": "OpenAI built-in image generation",
           "source_prompt": "references/identity-master-prompts.md#samuel-franklin",
@@ -186,7 +759,7 @@
       "story_status": "established name and role",
       "identity_lock": {
         "apparent_age": "late 30s to early 40s",
-        "build_and_silhouette": "tall athletic but not bulky man with upright posture, broad shoulders, and a structured high-collared silhouette",
+        "build_and_silhouette": "tall athletic but not bulky man with upright posture and broad shoulders; clothing silhouette varies by era, role, and activity",
         "face": "angular oval face, strong brow, straight to slightly aquiline nose, defined cheekbones, firm jaw, and a thoughtful controlled intensity",
         "hair": "thick black wavy to curly hair, medium length, swept back with loose texture around the forehead and temples",
         "facial_hair": "short full dark beard and mustache, neatly shaped but natural",
@@ -194,15 +767,23 @@
         "skin_and_distinguishing_features": "olive to light-medium skin with realistic pores, fine lines, and subtle weathering; no idealized plastic finish"
       },
       "wardrobe_lock": [
-        "black structured coat with raised or open high collar",
-        "subtle geometric quilting, woven circuitry, or restrained gold stitching",
-        "small circular antique-gold pendant or integration emblem",
-        "no crown, armor, cape, or superhero suit"
+        "ordinary clothing follows the resolved era, age, role, activity, weather, and social context",
+        "development reference: middle-class urban Los Angeles and broader United States clothing from 1985 through the present, translated into the Seeds culture without real brands or locations",
+        "favor plausible casual, work, school, civic, and modestly formal clothing over a fixed hero costume",
+        "the approved black structured coat and antique-gold pendant are valid for later formal, integration, or symbolic scenes but are not default everyday clothing",
+        "no automatic black neo-noir coat, crown, armor, cape, superhero suit, luxury-fashion styling, or anachronistic clothing"
       ],
+      "wardrobe_profile": {
+        "status": "authoritative-working-definition",
+        "earth_reference_only": "middle-class urban Los Angeles / United States, 1985-present",
+        "translation_rule": "match the resolved surface era and Sylvan's age, role, activity, weather, and means; translate the reference into the invented setting and omit real brands, teams, institutions, and logos",
+        "range": ["ordinary casualwear", "school or training clothing", "middle-class workwear", "civic clothing", "modestly formal clothing", "later role-specific formal clothing"],
+        "anti_default": "do not repeat the black high-collared identity-master coat unless the scene's role or purpose calls for it"
+      },
       "color_and_light": [
-        "antique and luminous gold are his primary visual field",
-        "gold geometry may illuminate evidence, integration, and pathways through reality",
-        "keep clothing near black so light describes the form"
+        "antique and luminous gold express his Luminai integration, evidence, and pathways through reality",
+        "ordinary surface scenes use natural era/location color and motivated practical light rather than a permanent gold field",
+        "near-black clothing belongs to later formal or symbolic scenes and is not an everyday wardrobe default"
       ],
       "symbolic_language": ["luminous evidence lattice", "orbital archive", "leaf or branching integration motif", "open path", "Luminai geometry"],
       "drift_to_reject": [
@@ -213,6 +794,30 @@
         "exaggerated muscular superhero build",
         "royal crown or red corruption field as his default",
         "identification as Samuel or George"
+      ],
+      "appearance_timeline": [
+        {
+          "role_id": "sylvan-birth",
+          "era_equivalent": "1980s-equivalent",
+          "apparent_age": "birth-equivalent approximately 1985; infant state",
+          "rejuvenation_stage": "none specified",
+          "identity_reference": "sylvan-elaria-identity-master-v1",
+          "stable_traits": ["identity continuity begins at birth-equivalent"],
+          "transformable_traits": ["age", "developmental stage"],
+          "status": "chronology anchor",
+          "renderable": false
+        },
+        {
+          "role_id": "sylvan-modern",
+          "era_equivalent": "2020s-equivalent",
+          "apparent_age": "late 30s to early 40s",
+          "rejuvenation_stage": "routine societal nutrition and energy-based maintenance; timing of any recent cycle unresolved",
+          "identity_reference": "sylvan-elaria-identity-master-v1",
+          "stable_traits": ["angular oval face", "black wavy/curly hair", "short full dark beard"],
+          "transformable_traits": ["wardrobe", "expression", "posture", "lighting", "role effects"],
+          "status": "authoritative current reference",
+          "renderable": true
+        }
       ],
       "references": [
         {
@@ -240,7 +845,7 @@
         {
           "path": "assets/reference-images/sylvan-elaria-identity-master-v1.png",
           "status": "canonical-primary",
-          "use": "primary identity, face, age, hair, beard, wardrobe, pendant, and gold-field reference; Sylvan appears alone",
+          "use": "primary identity, face, age, hair, and beard reference; wardrobe, pendant, and gold field are supporting choices for later formal/symbolic scenes, not ordinary defaults; Sylvan appears alone",
           "created": "2026-08-12",
           "generator": "OpenAI built-in image generation",
           "source_prompt": "references/identity-master-prompts.md#sylvan-elaria",

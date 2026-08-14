@@ -27,12 +27,12 @@ $method = $data['method'];
 
 $year = (int) date('Y');
 
-/* The domain root redirects here while the portfolio remains self-contained. */
-$canonical = 'https://iainreid.dev/iainreiddotdev/';
+/* The published repository root redirects here while the portfolio remains self-contained. */
+$canonical = 'https://iainreid.dev/devsite/iainreiddotdev/';
 
-$pageTitle = 'Iain Reid — independent product developer';
-$pageDescription = 'Iain Reid builds VibeKB, SousMeow, Arcana, and Seeds of the Throne: practical systems for software understanding, guided AI workflows, and creative production.';
-$assetVersion = '20260730a';
+$pageTitle = 'Iain Reid — creative and software development portfolio';
+$pageDescription = 'Seeds of the Throne is Iain Reid’s creative and software-development showcase: a speculative world built with repository architecture, author-directed AI, visual generation, and public publishing systems.';
+$assetVersion = '20260813a';
 ?>
 <!DOCTYPE html>
 <html lang="en">

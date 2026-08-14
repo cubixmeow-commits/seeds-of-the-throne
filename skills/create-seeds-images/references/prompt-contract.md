@@ -1,6 +1,6 @@
 # Prompt contract
 
-Every generation request must be portable across image models and traceable back to vault assets.
+Every generation request must be cleanly projected for GPT Image 2 and traceable back to vault assets through the separate visual-graph trace.
 
 ## Required packet sections
 
@@ -34,9 +34,8 @@ Repeat the character drift risks and project-wide avoid list. Ask for no letters
 - Give identity references priority over composition references.
 - Use paired references for the current Samuel and Sylvan system, but tell the model which side belongs to which character.
 - If a model supports reference weighting, assign stronger weight to the clearest face reference and moderate weight to broad composition references.
-- Do not quote model-specific parameter names in the reusable packet. Add those only in a separate adapter note for the model being used.
+- Keep renderer execution parameters in the execution-plan section rather than mixing them with story, world, style, or composition instructions.
 
 ## Iteration behavior
 
 On revision, describe the failed dimension precisely: face drift, age drift, hair drift, silhouette drift, wardrobe drift, palette drift, composition, or unwanted text. Preserve everything that already passed. Do not ask for a complete reinterpretation when a targeted correction is possible.
-

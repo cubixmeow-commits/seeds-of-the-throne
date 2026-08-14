@@ -37,7 +37,7 @@ $assetVersion = '20260802a';
 $pageTitle = 'MEOWNET BBS — 1 node, 24 hours, all cats';
 $pageDescription = 'A 1990s dial-up bulletin board system about cats: message base, '
     . 'file area, door games, and one very tired sysop.';
-$canonical = 'https://iainreid.dev/iainreiddotdev/retro/';
+$canonical = 'https://iainreid.dev/devsite/iainreiddotdev/retro/';
 
 /* ---------------------------------------------------------------- BULLETINS */
 /* The news block under the banner. Dated the way a real board dated things:

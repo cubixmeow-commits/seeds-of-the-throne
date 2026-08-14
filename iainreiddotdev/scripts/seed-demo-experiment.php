@@ -75,7 +75,7 @@ try {
         ':name'    => 'Hello (gate demo)',
         ':desc'    => 'A content-free demo that proves the visibility gate works end to end.',
         ':vis'     => 'private',
-        ':route'   => '/iainreiddotdev/x/hello.php',
+        ':route'   => '/devsite/iainreiddotdev/x/hello.php',
         ':status'  => 'inbox',
         ':by'      => (int) $admin['id'],
         ':created' => $now,
@@ -85,5 +85,5 @@ try {
     fail_cli('Error: could not seed the demo experiment.', 1);
 }
 
-echo "Seeded demo experiment 'hello' (private). Visit /iainreiddotdev/x/hello.php to test the gate.\n";
+echo "Seeded demo experiment 'hello' (private). Visit /devsite/iainreiddotdev/x/hello.php to test the gate.\n";
 exit(0);

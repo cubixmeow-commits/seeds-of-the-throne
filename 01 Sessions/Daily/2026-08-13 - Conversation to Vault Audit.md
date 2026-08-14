@@ -55,3 +55,11 @@ Treat the colony's technology as an ecology rather than one omnipotent intellige
 - Expanded `02 Story/Systems/Visual Generation/` into a reusable production section.
 - Updated `07 QA/Decisions.md` with established and developing decisions.
 - Did not modify `docs/`, `iainreiddotdev/`, root deployment files, or other website assets.
+
+## Desktop integration continuation — visual benchmark and compiler
+
+The B01-B10 review is now represented in the permanent visual-production system. B01/B02 remain invalid benchmark evidence because generation and evaluation context mixed. B03-B05 establish strong raw motion/anatomy and recurring failures in identity verification, generic environments and technology, Luminai shorthand, cyberpunk collapse, invented text/canon, and key-art bias. The B06-B10 continuation is integrated as the requirement set for identity grounding, wardrobe variation, Seeds-specific environment/technology, Luminai manifestation, no-text/canon controls, composition modes, positive-civilization definition, and controlled review of useful accidental inventions.
+
+The compiler now blocks on missing load-bearing definitions, resolves surface era from birth-equivalent year plus age, separates chronological and apparent age, and keeps QA metadata outside the renderer packet. Samuel's Great War apparent age is approximately 40 while retaining Samuel's identity. The Samuel/Conrad leverage arc remains development material in [[02 Story/Systems/The Breeding Program and Lineage Blackmail]] and is not promoted to a fully specified mechanism.
+
+Later author decisions define Luminai and Daemon manifestation as energy radiating from the integrated person, strongest at the head/brain and chest, never as a separate humanoid. Sylvan's ordinary wardrobe follows middle-class urban Los Angeles and broader United States clothing from 1985 through the present as an Earth development reference translated into the invented setting. Rejuvenation is a normalized societal system combining nutrition with multiple refined energy-based technologies; exact treatment protocols and observer perception remain unresolved.

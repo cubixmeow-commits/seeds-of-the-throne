@@ -20,10 +20,10 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
     <meta property="og:title" content="VibeKB · Iain Reid">
     <meta property="og:description" content="Repository understanding for AI-assisted development. Understand your software before you change it.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://iainreid.dev/iainreiddotdev/saas-lab/">
+    <meta property="og:url" content="https://iainreid.dev/devsite/iainreiddotdev/saas-lab/">
     <meta name="twitter:card" content="summary">
     <title>VibeKB · Repository Understanding · Iain Reid</title>
-    <link rel="canonical" href="https://iainreid.dev/iainreiddotdev/saas-lab/">
+    <link rel="canonical" href="https://iainreid.dev/devsite/iainreiddotdev/saas-lab/">
     <link rel="stylesheet" href="../assets/css/style.css?v=20260719g">
     <link rel="stylesheet" href="../assets/css/saas-lab.css?v=20260719a">
     <link rel="stylesheet" href="../assets/css/auth.css?v=20260719a">
@@ -34,7 +34,7 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
     <div class="ledger-rule" aria-hidden="true"></div>
 
     <header class="site-header">
-        <a class="maker-mark" href="/iainreiddotdev/" aria-label="Return to the workshop journal">
+        <a class="maker-mark" href="/devsite/iainreiddotdev/" aria-label="Return to the workshop journal">
             <span class="maker-mark__sigil">IR</span>
             <span>
                 <strong>Iain Reid</strong>
@@ -50,8 +50,8 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
             <span class="nav-toggle__bars" aria-hidden="true"></span>
         </button>
         <nav id="site-nav" aria-label="Primary navigation">
-            <a href="/iainreiddotdev/">Workshop</a>
-            <a href="/iainreiddotdev/saas-lab/" aria-current="page">VibeKB</a>
+            <a href="/devsite/iainreiddotdev/">Workshop</a>
+            <a href="/devsite/iainreiddotdev/saas-lab/" aria-current="page">VibeKB</a>
             <a href="#experiments">Capabilities</a>
             <a href="#method">Method</a>
             <a href="#principles">Principles</a>
@@ -474,7 +474,7 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
         <h2 id="close-heading">Software you built should still make sense</h2>
         <p>VibeKB is about repository understanding for AI-assisted development. When construction outpaces comprehension, a living understanding site helps developers regain confidence and continue with clarity.</p>
         <div class="lab-close__links">
-            <a href="/iainreiddotdev/">Return to the workshop journal</a>
+            <a href="/devsite/iainreiddotdev/">Return to the workshop journal</a>
             <a href="mailto:iain@iainreid.dev">iain@iainreid.dev</a>
         </div>
         </section>

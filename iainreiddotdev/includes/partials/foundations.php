@@ -24,7 +24,7 @@ declare(strict_types=1);
         <div class="ledger__body">
             <div class="section__head">
                 <h2 class="section__title" id="foundations-title">Foundations</h2>
-                <p class="section__line">Grouped by what it produces rather than by logo.</p>
+                <p class="section__line">The creative and technical foundations behind Seeds of the Throne and the supporting software work.</p>
             </div>
 
             <div class="foundations">

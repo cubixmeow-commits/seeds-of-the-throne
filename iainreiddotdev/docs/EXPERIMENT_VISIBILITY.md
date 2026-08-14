@@ -71,7 +71,7 @@ $experiment = require_experiment_access('hello'); // FIRST action, before any ou
 Registering a record does **not** create any code or directory — it is metadata.
 
 1. Log in as an administrator and open **Ideas**
-   (`/iainreiddotdev/admin/experiments.php`).
+   (`/devsite/iainreiddotdev/admin/experiments.php`).
 2. Capture an idea with *name* and *one-sentence concept* only. The system
    assigns `IDEA-NNN`, a unique slug, `status = inbox`, `priority = normal`, and
    `visibility = private`.
@@ -149,7 +149,7 @@ environment. With the demo seeded as `private`:
 
 ```bash
 # Logged out — expect 404 (a real not-found, no redirect to login)
-curl -s -o /dev/null -w "%{http_code}\n" https://iainreid.dev/iainreiddotdev/x/hello.php   # -> 404
+curl -s -o /dev/null -w "%{http_code}\n" https://iainreid.dev/devsite/iainreiddotdev/x/hello.php   # -> 404
 
 # Compare with a genuinely missing slug page — the gate body should match
 ```
@@ -164,12 +164,12 @@ uninvited user and a logged-out visitor both get 404; it shows on the invited
 user's account page only. After flipping to `public`, confirm everyone reaches
 it. After revoking an invite, confirm that user is back to 404.
 
-## The `/iainreiddotdev/`-inclusive URL shape
+## The `/devsite/iainreiddotdev/`-inclusive URL shape
 
-This repository is served under `/iainreiddotdev/`, so gated experiments live at, e.g.:
+The repository is served under `/devsite/` and the application is nested under `/devsite/iainreiddotdev/`, so gated experiments live at, e.g.:
 
 ```
-https://iainreid.dev/iainreiddotdev/x/hello.php
+https://iainreid.dev/devsite/iainreiddotdev/x/hello.php
 ```
 
 Build every internal link with the shared `url()` helper so the base path is

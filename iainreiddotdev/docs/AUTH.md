@@ -82,12 +82,12 @@ files.
 ### Location
 
 `data/saas-lab.sqlite`, which deploys to
-`/home/iainmcok/public_html/iainreiddotdev/data/saas-lab.sqlite`.
+`/home/iainmcok/public_html/devsite/iainreiddotdev/data/saas-lab.sqlite`.
 
 ### Why this path
 
 The public document root is `public_html/`, and the repository deploys to
-`public_html/iainreiddotdev/` (served at `https://iainreid.dev/iainreiddotdev/`). Keeping the
+`public_html/devsite/iainreiddotdev/` (served at `https://iainreid.dev/devsite/iainreiddotdev/`). Keeping the
 database inside `data/` under the deployed tree means it deploys reliably, is
 owned and writable by the site's PHP user, and survives redeploys (the cPanel
 `cp -R` merges and never deletes the runtime file). It is protected from HTTP by
@@ -135,7 +135,7 @@ If it is not writable, the code stops with a controlled, operator-facing message
 that names the absolute directory (and nothing else):
 
 ```
-The VibeKB data directory is not writable. Verify PHP write permissions for: /home/iainmcok/public_html/iainreiddotdev/data
+The VibeKB data directory is not writable. Verify PHP write permissions for: /home/iainmcok/public_html/devsite/iainreiddotdev/data
 ```
 
 ## cPanel permissions & ownership
@@ -158,7 +158,7 @@ registered user is **not** auto-promoted.
 ### Preferred: the CLI script (run on the server via cPanel Terminal / SSH)
 
 ```bash
-cd ~/public_html/iainreiddotdev
+cd ~/public_html/devsite/iainreiddotdev
 SAAS_LAB_ADMIN_PASSWORD='choose-a-strong-password' \
   php scripts/create-admin.php --name="Iain Reid" --email="admin@example.com"
 ```
@@ -203,7 +203,7 @@ $user = current_user();     // ['id','name','email','role','created_at','updated
 ```
 
 For links and redirects, always use the URL helpers so nothing hardcodes the
-`/iainreiddotdev/` base path:
+`/devsite/iainreiddotdev/` base path:
 
 ```php
 redirect(url('auth/account.php'));
@@ -229,7 +229,7 @@ echo '<a href="' . e(url('admin/')) . '">Admin</a>';
 - Normal users land on the account page; administrators land on the admin
   dashboard.
 - External (`https://evil.com`) and protocol-relative (`//evil.com`) return
-  values are rejected; valid internal paths (e.g. `/iainreiddotdev/admin/`) are honored.
+  values are rejected; valid internal paths (e.g. `/devsite/iainreiddotdev/admin/`) are honored.
 
 ### Authorization
 - A signed-out visitor cannot reach the account page and is redirected to login.
@@ -251,7 +251,7 @@ You cannot confirm Apache/LiteSpeed `.htaccess` protection from a local PHP
 build — it must be checked on the deployed host. After deploying, run:
 
 ```bash
-curl -I https://iainreid.dev/iainreiddotdev/data/saas-lab.sqlite
+curl -I https://iainreid.dev/devsite/iainreiddotdev/data/saas-lab.sqlite
 ```
 
 **Expected: `403 Forbidden`** (a `404` is also acceptable if the host hides the
@@ -259,8 +259,8 @@ path). A `200`, a file download, or raw database output is a **deployment
 blocker** — fix `.htaccess`/permissions before going further. Repeat for any
 `-wal` / `-shm` files if they ever exist.
 
-> The correct URL is under `/iainreiddotdev/` because the deployed folder is served at
-> `https://iainreid.dev/iainreiddotdev/`, not at the domain root.
+> The correct URL is under `/devsite/iainreiddotdev/` because the application is nested inside the repository deployment at
+> `https://iainreid.dev/devsite/`, not at the domain root.
 
 ## Security notes
 

@@ -6,7 +6,7 @@ updated: 2026-08-13
 
 # Visual and Image Generation
 
-This is the reusable visual-production layer for *Seeds of the Throne*. It supplies Grok Imagine, GPT Image, and future image/video tools with story-grounded direction while keeping artwork separate from canon.
+This is the reusable visual-production layer for *Seeds of the Throne*. It supplies the GPT-first Visual World Compiler with story-grounded direction while keeping artwork separate from canon. The current renderer is GPT Image 2 only; other renderers remain deferred.
 
 The demonstrated Grok workflow can access the GitHub vault and retrieve story and approved visual material before generation. Use that access to ground imagery in the repository rather than treating a short user prompt as the entire brief. Repository access is a workflow capability to verify at the start of a generation session, not permission for the model to invent missing canon.
 
@@ -28,6 +28,8 @@ Build each request from these layers, in order:
 8. **Negative constraints** — no duplicate people, plastic skin, frozen posing, accidental text, costume drift, anatomy errors, or generic “AI” styling.
 
 See [[PROMPT-SYSTEM]] for the assembly contract and copyable prompt shape.
+
+The machine-readable compiler, entity graph, appearance timelines, era resolver, environment masters, composition modes, and missing-definition behavior are documented in [[VISUAL-WORLD-COMPILER]].
 
 ## Reusable scene recipe
 
@@ -57,10 +59,13 @@ Use [[CHARACTER-IDENTITY-LOCKS]] for the identity hierarchy. World packets follo
 - [[SCENE-RECIPES]] — reusable image and sequence recipes grounded in story beats.
 - [[VIDEO-VOICE-CONTINUITY]] — shot motion, performance, temporal continuity, and textual voice bibles.
 - [[OUTPUT-FORMATS]] — deliverable specifications, metadata, naming, and approval packages.
+- [[VISUAL-WORLD-COMPILER]] — entity graph, packet resolution, surface/hidden civilization rule, era resolution, renderer boundary, and missing-definition reporting.
+- [[FEEDBACK-DRIVEN-SCENES]] — persistent v2 scene cards, reference roles, candidate lineage, author feedback, revision locks, and targeted regeneration.
+- [[04 Research/README#Visual World Compiler — Reports 21–30|Visual World Compiler research series]] — reports that must establish evidence and benchmark gates before production behavior expands.
 
 ## Tool workflow
 
-Grok Imagine is useful for vault-grounded rapid visual variation and image-to-video experiments. GPT Image is useful for controlled composition, edits, and continuity passes. Treat both as collaborators, not authorities: compare outputs against the vault, retain successful prompts, and feed only approved visual decisions back into canon.
+GPT Image 2 is the only active renderer. Treat it as a collaborator, not an authority: compare outputs against the vault, retain successful prompts, and feed only approved visual decisions back into canon. Renderer adapters are deferred until the core compiler and QA loop are reliable.
 
 A generation pass should:
 

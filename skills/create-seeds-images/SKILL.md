@@ -1,6 +1,6 @@
 ---
 name: create-seeds-images
-description: Create consistent Seeds of the Throne character art, cinematic key art, posters, diagrams, and website imagery from the vault's canonical visual registry and approved reference images. Use when an agent needs to generate, revise, evaluate, approve, store, or recreate story images across Gemini, ChatGPT, Claude, or another image-capable system while preserving character identity, the dark red-and-gold visual language, current terminology, and separation between visual interpretation and story canon.
+description: Create consistent Seeds of the Throne character art, cinematic key art, posters, diagrams, and website imagery from the vault's typed visual graph, canonical visual registry, and approved reference images. Use when an agent needs to generate, revise, evaluate, approve, store, or recreate story images with GPT Image 2 while preserving source traceability, character identity, current terminology, and separation between visual interpretation and story canon.
 ---
 
 # Create Seeds Images
@@ -10,7 +10,7 @@ Use the vault as the portable source of truth. Treat prompts and generated image
 ## Load the required context
 
 1. Read root `AGENTS.md`, `03 Context/CURRENT.md`, and `03 Context/RULES.md`.
-2. Read `references/visual-registry.json`. This is the canonical machine-readable visual registry.
+2. Read `references/visual-registry.json`. This is the canonical machine-readable visual registry and typed source graph.
 3. Read `references/prompt-contract.md` before preparing a generation request.
 4. Read `references/consistency-scorecard.md` before approving or storing an output.
 5. Read `references/identity-master-approval.md` when Samuel or Sylvan is present.
@@ -22,33 +22,45 @@ Run:
 
 ```bash
 python3 skills/create-seeds-images/scripts/build_prompt_packet.py \
-  --character samuel-franklin \
   --character sylvan-elaria \
-  --scene "Samuel and Sylvan confront one another across a fractured reality interface" \
-  --purpose "cinematic website key art" \
-  --aspect-ratio "16:9"
+  --scene "Sylvan runs along the beach while his Luminai manifests in blue" \
+  --image-type narrative-scene \
+  --render-style cinematic-photorealism \
+  --composition NARRATIVE-CINEMA \
+  --birth-year 1985 --age 40 \
+  --location surface-civilization \
+  --manifestation luminai --trace
 ```
 
-Attach every reference image listed in the packet to the image model. The plain-text packet is model-neutral and may be pasted into Gemini or any other capable system.
+Attach every authoritative reference image listed in the clean packet to GPT Image 2. Keep the `--trace` stderr output for audit and debugging; never include it in the renderer prompt.
 
 Preserve this order:
 
 1. identity authority and attached references;
 2. locked character traits;
-3. locked project style;
-4. scene, action, emotion, and composition;
-5. output purpose and aspect ratio;
-6. exclusions and continuity warnings.
+3. resolved era and world evidence;
+4. locked project style or ordinary-surface override;
+5. scene, action, emotion, and composition;
+6. renderer execution plan;
+7. exclusions and continuity warnings.
 
 Keep character identity instructions stable. Change scene variables, not facial anatomy. Generate typography separately whenever practical.
 
 ## Generate and evaluate
 
-Use an image generator that accepts reference images. Tell it that the references control identity and the prompt controls the new scene.
+Use GPT Image 2 as the only active renderer. Tell it that the references control identity and the prompt controls the new scene.
 
 Generate a small comparison set. Evaluate each output with `references/consistency-scorecard.md`. Reject an image when either character scores below 4 for identity, when Samuel and Sylvan become visually interchangeable, or when obsolete text from a reference appears.
 
 Do not promote the most attractive image automatically. Prefer the image that best preserves identity, silhouette, age, wardrobe language, palette, and story function.
+
+## Use the v2 feedback loop
+
+For iterative scene work, use `scripts/visual_scene_workspace.py` instead of treating each generation as a new prompt. Create one scene workspace, register each external candidate, record the author's natural-language feedback, and compile a targeted revision. The workspace keeps accepted categories locked and chooses editing or regeneration based on the changed layers.
+
+Reference images must have explicit roles. Identity masters control identity. A candidate may control only author-preserved scene properties and never becomes identity or canon authority automatically. Keep disposable workspaces and rejected candidates outside Git; `.visual-workspaces/` is the default ignored local store.
+
+Read `02 Story/Systems/Visual Generation/FEEDBACK-DRIVEN-SCENES.md` for the commands, feedback scope, revision routing, and promotion boundary.
 
 ## Store approved work
 

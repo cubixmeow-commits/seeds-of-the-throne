@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: working
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # Timeline
@@ -35,6 +35,12 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 25. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
 26. Sylvan accumulates evidence connecting original events, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
 27. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
+
+## Visual chronology rules
+
+- Sylvan Elaria is born at approximately the surface-civilization equivalent of 1985. For ordinary mortal chronology, resolve a scene era from birth-equivalent year plus age when both are known.
+- Chronological age and apparent biological age are separate. Long-lived characters may enter a role after normalized societal rejuvenation combining carefully managed nutrition with highly refined energy-based technologies; approved appearance timelines control the visible age for that role.
+- Samuel's Great War appearance uses Samuel's authoritative identity reference with an apparent age of approximately 40. Do not substitute Sylvan's identity. The surrounding visual envelope is the established 1930s-1940s-equivalent surface civilization unless a scene specifies otherwise.
 
 ## Age anchors at the Sylvan showdown
 

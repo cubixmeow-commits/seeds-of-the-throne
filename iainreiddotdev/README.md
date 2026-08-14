@@ -44,7 +44,7 @@ it is text. See the Retro section of `docs/BUILD_NOTES.md`.
 This site now lives in the `iainreiddotdev/` directory of the *Seeds of the Throne* repository. The repository root contains a small redirect, while the cPanel deployment copies this application to:
 
 ```
-public_html/iainreiddotdev/index.php
+public_html/devsite/iainreiddotdev/index.php
 ```
 
-The domain root redirects to: https://iainreid.dev/iainreiddotdev/
+The published repository root redirects to: https://iainreid.dev/devsite/iainreiddotdev/

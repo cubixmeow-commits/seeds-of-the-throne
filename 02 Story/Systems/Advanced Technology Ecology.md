@@ -41,6 +41,12 @@ Specialized systems support medicine, infrastructure, logistics, identity, evide
 
 This layer includes Samuel Jr.'s government-integrated decision-systems company. Its ability to resolve identities, map relationships, infer behavior, and compare provenance can strengthen public coordination or create concentrated surveillance and manipulation risk, depending on governance and access.
 
+## Longevity and rejuvenation
+
+Rejuvenation is integrated into ordinary mature society rather than reserved as an exceptional intervention. It combines carefully managed nutrition with multiple highly refined energy-based technologies. Different roles and life stages can therefore have different apparent biological ages without changing chronological identity.
+
+The system is advanced and dependable enough to be socially routine, but it remains embodied technology: it requires energy, material support, medical knowledge, maintenance, and time. Exact treatment schedules, biological limits, devices, and transition protocols remain unresolved.
+
 ## Layer four: biological synthetics
 
 Biological synthetics are embodied living systems rather than metal robots or disposable scenery. They can populate and develop the physical world before enough humans arrive, allowing towns, professions, institutions, families, and cultures to acquire real history.

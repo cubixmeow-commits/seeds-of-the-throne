@@ -1,11 +1,23 @@
 # Recovery Notes
 
-Temporary notes awaiting later review.
+Status: integrated 2026-08-13
 
-## Pending
+Desktop integration completed after fast-forwarding to `origin/main` and reconciling the queued material with the permanent vault.
+
+## Integrated destinations
+
+- B01-B10 benchmark findings and backlog: [[02 Story/Systems/Visual Generation/VISUAL-BENCHMARK-SUITE]], [[02 Story/Systems/Visual Generation/PROMPT-SYSTEM]], and [[01 Sessions/Daily/2026-08-13 - Conversation to Vault Audit]].
+- Surface/hidden civilization and decade grounding: [[02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE]] and [[02 Story/Systems/Visual Generation/VISUAL-WORLD-COMPILER]].
+- Sylvan chronology, appearance timelines, and Samuel's Great War apparent age: [[02 Story/Timeline/Timeline]] and `skills/create-seeds-images/references/visual-registry.json`.
+- Samuel/Conrad leverage arc: [[02 Story/Systems/The Breeding Program and Lineage Blackmail]] as development material requiring later refinement.
+- Daily-chat integration workflow: [[07 Coordination/DESKTOP-QUEUE.md]] and [[07 Coordination/device-workflow.md]].
+
+## Preserved unresolved / deferred
 
 B06-B10 visual benchmark
 The Sylvan exploratory suite is complete. Preserve the existing findings from this 2026-08-13 project conversation for desktop integration: identity grounding, context isolation, wardrobe variation, Seeds-specific architecture/technology, Luminai manifestation, no-text/canon controls, composition modes, positive-civilization definition, and controlled review of useful accidental inventions. After v2, run the equivalent suite with Samuel.
+
+Integrated follow-up: Luminai/Daemon manifestation, Sylvan's 1985-present Los Angeles/United States middle-class wardrobe reference, and the societal nutrition-plus-energy basis of rejuvenation are now permanent visual/system definitions. Observer perception, detailed treatment protocols, and intermediate appearance anchors remain explicit open questions.
 
 ## Era / character chronology
 Sylvan Elaria is born at approximately the surface-civilization equivalent of 1985. For ordinary mortal chronology, scene year can be derived from birth-equivalent year plus age and used to retrieve the appropriate surface-civilization era packet.
@@ -40,7 +52,7 @@ Potential staged Sylvan discovery structure:
 Treat this section as development material requiring refinement, not fully locked canon.
 
 ## Image generation / Visual World Compiler direction
-Tonight's primary build target after integration is the GPT-based visual generation system. Keep v2 inside one ecosystem for now: use GPT image generation first; defer Grok and other renderer adapters until the core system is reliable.
+The GPT-first Visual World Compiler is now implemented as the next production layer. Keep v2 inside one ecosystem for now: use GPT Image 2 first; defer Grok and other renderer adapters until the core system is reliable.
 
 The visual generator should also function as a worldbuilding completeness test. Pipeline concept:
 

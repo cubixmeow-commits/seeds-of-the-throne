@@ -1,0 +1,21 @@
+Options -Indexes
+
+# The repository is intentionally readable under /devsite/, but repository
+# metadata and other dotfiles are never public content.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule "(^|/)\." - [F,L]
+</IfModule>
+
+<IfModule mod_authz_core.c>
+    <FilesMatch "^\.">
+        Require all denied
+    </FilesMatch>
+</IfModule>
+
+<IfModule !mod_authz_core.c>
+    <FilesMatch "^\.">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+</IfModule>

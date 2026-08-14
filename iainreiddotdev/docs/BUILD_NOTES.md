@@ -45,7 +45,7 @@ build step, and the page has no third-party runtime dependency.
 ## VibeKB
 
 VibeKB is the featured project. Its public page lives at `saas-lab/index.php`
-(URL path `/iainreiddotdev/saas-lab/` for deploy continuity). Update that page's copy in
+(URL path `/devsite/iainreiddotdev/saas-lab/` for deploy continuity). Update that page's copy in
 place; keep the existing layout and components. It and the account pages under
 `auth/` and `admin/` use `assets/css/style.css`, `assets/css/saas-lab.css`,
 `assets/css/auth.css`, and `assets/js/app.js`. The homepage does not, so those
@@ -77,7 +77,7 @@ lives in arrays at the top of the page. Edit content there.
 
 ## Deployment
 
-The existing cPanel deployment target remains `/home/iainmcok/public_html/iainreiddotdev/`.
+The complete repository deploys to `/home/iainmcok/public_html/devsite/`; this application remains nested at `/home/iainmcok/public_html/devsite/iainreiddotdev/`.
 The deploy is copy-only, so nothing above needs a `.cpanel.yml` change:
 `assets`, `includes`, and `index.php` are already copied recursively. The one
 exception is a new top-level directory: `retro/` was added to `.cpanel.yml`
@@ -90,8 +90,8 @@ longer referenced by any page, so a stale copy is inert — but it is about
 950 KB of dead weight and can be removed over SSH:
 
 ```bash
-rm -rf ~/public_html/iainreiddotdev/assets/js/vendor \
-       ~/public_html/iainreiddotdev/assets/js/workbench \
-       ~/public_html/iainreiddotdev/assets/css/workbench.css \
-       ~/public_html/iainreiddotdev/assets/js/doc.js
+rm -rf ~/public_html/devsite/iainreiddotdev/assets/js/vendor \
+       ~/public_html/devsite/iainreiddotdev/assets/js/workbench \
+       ~/public_html/devsite/iainreiddotdev/assets/css/workbench.css \
+       ~/public_html/devsite/iainreiddotdev/assets/js/doc.js
 ```

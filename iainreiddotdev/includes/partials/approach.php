@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * How the work gets built — the short working philosophy.
  *
- * Four principles, each with the three projects underneath it as evidence.
+ * Four principles, each with the projects underneath it as evidence.
  * The ties are what make this section worth having: without them it would be
  * four opinions, and with them it is four claims each project has to answer.
  *
@@ -24,7 +24,7 @@ declare(strict_types=1);
         <div class="ledger__body">
             <div class="section__head">
                 <h2 class="section__title" id="approach-title">How the work gets built</h2>
-                <p class="section__line">Four principles, and what each one looks like in the three systems above.</p>
+                <p class="section__line">Seeds of the Throne brings all four principles together; the supporting systems show where each mechanism was developed and tested.</p>
             </div>
 
             <div class="principles">

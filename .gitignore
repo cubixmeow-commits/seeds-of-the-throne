@@ -18,3 +18,5 @@
 .venv/
 node_modules/
 
+# Disposable image-generation scene workspaces and candidates
+.visual-workspaces/

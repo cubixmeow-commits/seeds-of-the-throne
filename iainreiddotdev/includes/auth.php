@@ -40,7 +40,7 @@ function app_path(string $relative = ''): string
 }
 
 /**
- * The public base URL of the application, e.g. https://iainreid.dev/iainreiddotdev
+ * The public base URL of the application, e.g. https://iainreid.dev/devsite/iainreiddotdev
  * (no trailing slash). Built once from the request and the configured base
  * path so no domain literal appears anywhere else in the codebase.
  */
@@ -64,7 +64,7 @@ function base_url(): string
 
 /**
  * Build an absolute internal URL from an application-relative path.
- * url('auth/login.php') -> https://iainreid.dev/iainreiddotdev/auth/login.php
+ * url('auth/login.php') -> https://iainreid.dev/devsite/iainreiddotdev/auth/login.php
  */
 function url(string $path = ''): string
 {
@@ -87,7 +87,7 @@ function redirect(string $to): never
 
 /**
  * Validate an untrusted return path. Returns a safe internal absolute path
- * (e.g. "/iainreiddotdev/admin/") or null if the value is not an acceptable internal
+ * (e.g. "/devsite/iainreiddotdev/admin/") or null if the value is not an acceptable internal
  * destination. Rejects schemes, protocol-relative URLs, hosts, backslashes,
  * traversal, and anything outside the application base path.
  */

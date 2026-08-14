@@ -25,10 +25,10 @@ uses *idea*, *Ideas dashboard*, and *Idea workspace*.
 
 Primary private surface after admin login:
 
-- Ideas dashboard: `/iainreiddotdev/admin/experiments.php`
-- Idea workspace: `/iainreiddotdev/admin/experiment.php?id=…`
+- Ideas dashboard: `/devsite/iainreiddotdev/admin/experiments.php`
+- Idea workspace: `/devsite/iainreiddotdev/admin/experiment.php?id=…`
 
-The public `/iainreiddotdev/saas-lab/` page is the VibeKB portfolio showcase, not the
+The public `/devsite/iainreiddotdev/saas-lab/` page is the VibeKB portfolio showcase, not the
 management interface.
 
 ## Idea lifecycle (status)

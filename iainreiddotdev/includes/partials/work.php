@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * Selected work.
+ * Showcase and selected work.
  *
  * Entries appear in the order declared in the portfolio data. They are
  * not grouped into sub-headings here: each entry names its own category in the
@@ -23,13 +23,13 @@ foreach ($categories as $category) {
         <div class="ledger__rail">
             <p class="kicker">
                 <span class="kicker__num">01</span>
-                <span>Work</span>
+                <span>Showcase</span>
             </p>
         </div>
 
         <div class="ledger__body">
             <div class="section__head">
-                <h2 class="section__title" id="work-title">Selected work</h2>
+                <h2 class="section__title" id="work-title">Seeds of the Throne and selected work</h2>
                 <p class="section__line"><?= e($identity['margin']) ?></p>
             </div>
 

@@ -6,6 +6,14 @@ updated: 2026-08-13
 
 # Prompt System
 
+## Compiler contract
+
+The compiler must resolve identity, appearance state, era, surface layer, environment, technology, composition, image type, and render style before assembling a generation brief. `image_type` describes the purpose of the image; `render_style` describes its visual treatment. They are independent fields. The renderer receives the clean brief only. QA context is external.
+
+Required resolution order: `identity -> appearance timeline -> era packet -> environment master -> technology packet -> story beat -> composition mode -> clean brief`.
+
+If a load-bearing visual fact is missing, emit `NEEDS DEFINITION` rather than inventing it. See [[VISUAL-WORLD-COMPILER]].
+
 ## Source priority
 
 When sources disagree, use this order:
@@ -28,10 +36,13 @@ Build the prompt as a production packet rather than one ornamental paragraph:
 3. **Narrative instant** — the change happening in this frame and what each subject wants.
 4. **Physical behavior** — movement, weight, gaze, hands, interaction, and incomplete action.
 5. **World packet** — era, place, materials, technology function, population, and environmental consequence.
-6. **Camera packet** — shot, lens feel, camera relation, depth, obstruction, motion, and composition.
-7. **Light and color** — motivated sources, palette roles, atmosphere, and exposure logic.
-8. **Continuity contract** — preserve, deliberately vary, and forbid.
-9. **Output contract** — aspect ratio, frame count, duration if video, text policy, and metadata to retain.
+6. **Composition mode** — `KEY-ART`, `NARRATIVE-CINEMA`, `OBSERVATIONAL`, or `ORDINARY-LIFE`; default story mode is `NARRATIVE-CINEMA`.
+7. **Camera packet** — shot, lens feel, camera relation, depth, obstruction, motion, and composition.
+8. **Light and color** — motivated sources, palette roles, atmosphere, and exposure logic.
+9. **Continuity contract** — preserve, deliberately vary, and forbid.
+10. **Output contract** — aspect ratio, frame count, duration if video, text policy, and metadata to retain.
+
+The world packet must state the surface/hidden civilization decision explicitly. Advanced underlying infrastructure is not visible by default.
 
 ## Copyable template
 

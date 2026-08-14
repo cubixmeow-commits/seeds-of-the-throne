@@ -11,17 +11,18 @@ declare(strict_types=1);
  * in auth.php (base_url(), url(), app_path()).
  *
  * Deployment mapping (confirmed by inspection):
- *   site folder -> /home/iainmcok/public_html/iainreiddotdev/
- *               -> https://iainreid.dev/iainreiddotdev/
+ *   repository  -> /home/iainmcok/public_html/devsite/
+ *   site folder -> /home/iainmcok/public_html/devsite/iainreiddotdev/
+ *               -> https://iainreid.dev/devsite/iainreiddotdev/
  * The public document root is public_html/, so the deployed folder is served
- * under the /iainreiddotdev/ path, not at the domain root. If the host is ever repointed
+ * under the /devsite/iainreiddotdev/ path, not at the domain root. If the host is ever repointed
  * so this folder becomes the document root, only 'base_path' changes here.
  */
 
 return [
     // Public URL path the application is served under. Must start and end
     // with a slash. Every internal link/redirect is built from this.
-    'base_path' => '/iainreiddotdev/',
+    'base_path' => '/devsite/iainreiddotdev/',
 
     // Absolute filesystem paths, derived from this file's location so they are
     // correct in every environment (local and cPanel) without editing.

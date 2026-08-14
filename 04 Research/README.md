@@ -28,3 +28,35 @@ The first series covers epistemic captivity, human–AI co-development, evidence
 20. [[04 Research/Full Reports/20 - Happiness as a Qualification for Leadership|Happiness as a Qualification for Leadership]]
 
 This series is advisory and non-canon. Its purpose is to expand the creative decision space around loving parental preparation, cross-imperial peer formation, competing philosophies of good governance, and ethical containment.
+
+### Visual World Compiler — Reports 21–30
+
+This research-to-development series measures the current renderer, visual continuity problems, world-resolution requirements, and production QA needed for the image system. Each report must distinguish renderer facts, experimental findings, project canon, and engineering recommendations. A recommendation becomes part of the production system only after implementation and regression testing.
+
+21. [[04 Research/Full Reports/21 - GPT Image 2 Capability Envelope|GPT Image 2 Capability Envelope]] — complete
+22. [[04 Research/Requests/22 - Character Identity and Appearance Continuity|Character Identity and Appearance Continuity]]
+23. [[04 Research/Requests/23 - Natural Action Anatomy and Motion|Natural Action, Anatomy, and Motion]]
+24. [[04 Research/Requests/24 - Environment Masters Era and Social Reality|Environment Masters, Era, and Social Reality]]
+25. [[04 Research/Requests/25 - Wardrobe Material Culture and Role Resolution|Wardrobe, Material Culture, and Role Resolution]]
+26. [[04 Research/Requests/26 - Luminai Daemon and Energy Visualization|Luminai, Daemon, and Energy Visualization]]
+27. [[04 Research/Requests/27 - Composition Cinematography and Image Purpose|Composition, Cinematography, and Image Purpose]]
+28. [[04 Research/Requests/28 - Multi-character Blocking Relationships and Crowds|Multi-character Blocking, Relationships, and Crowds]]
+29. [[04 Research/Requests/29 - Context Compilation Retrieval and Missing Definitions|Context Compilation, Retrieval, and Missing Definitions]]
+30. [[04 Research/Requests/30 - Evaluation Provenance and Asset Lifecycle|Evaluation, Provenance, and Asset Lifecycle]]
+
+### Vault-to-image knowledge graph — Reports 31–40
+
+This series develops the upstream compiler that transforms selected vault knowledge into imagery. It treats the vault as a typed, provenance-bearing graph rather than a block of lore pasted into a prompt. Every implementation must preserve source authority, status, unresolved facts, and a trace from renderer instruction back to vault evidence.
+
+31. [[04 Research/Full Reports/31 - Typed Visual Nodes and Vault Source Traceability|Typed Visual Nodes and Vault Source Traceability]] — complete
+32. [[04 Research/Full Reports/32 - Canon Authority Conflict and Supersession|Canon Authority, Conflict, and Supersession]] — complete
+33. [[04 Research/Full Reports/33 - Temporal Event and Appearance Graphs|Temporal, Event, and Appearance Graphs]] — complete
+34. [[04 Research/Full Reports/34 - Character Relationship and Role Graphs|Character, Relationship, and Role Graphs]] — complete
+35. [[04 Research/Full Reports/35 - Place Culture and Environment Graphs|Place, Culture, and Environment Graphs]] — complete
+36. [[04 Research/Full Reports/36 - Technology Capability and Visibility Graphs|Technology, Capability, and Visibility Graphs]] — complete
+37. [[04 Research/Full Reports/37 - Scene Requests and Relevant Subgraph Selection|Scene Requests and Relevant Subgraph Selection]] — complete
+38. [[04 Research/Full Reports/38 - Graph Resolution and Renderer Packet Projection|Graph Resolution and Renderer Packet Projection]] — complete
+39. [[04 Research/Full Reports/39 - Uncertainty Missing Definitions and Author Waivers|Uncertainty, Missing Definitions, and Author Waivers]] — complete
+40. [[04 Research/Full Reports/40 - Incremental Graph Updates and Regression Impact|Incremental Graph Updates and Regression Impact]] — complete
+
+Cross-report synthesis: [[04 Research/Findings/32-40 - Vault-to-Image Graph Compiler|Vault-to-Image Graph Compiler]]

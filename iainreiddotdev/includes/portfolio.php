@@ -28,8 +28,8 @@ declare(strict_types=1);
  * (with 'sequence_label'), 'highlights', 'stack' (with 'stack_label'),
  * 'studies', and 'related'.
  *
- * Nothing in here may be invented. Every sentence, status, and URL is carried
- * forward from the previous iainreid.dev homepage.
+ * Keep claims grounded in working projects. This file is also the editorial
+ * source for how those projects are positioned on the public homepage.
  */
 if (!function_exists('e')) {
     /**
@@ -66,10 +66,10 @@ function portfolio(): array
     $identity = [
         'name' => 'Iain Reid',
         'initials' => 'IR',
-        'role' => 'Independent product developer',
-        'statement' => 'I build systems that make complex software and AI-assisted creative work understandable.',
-        'note' => 'Repository understanding, guided AI workflows, production creative systems, practical deployment, and maintainable software—recorded as working mechanisms rather than demos.',
-        'margin' => 'Four systems. One concern: making powerful tools understandable enough to use, operate, and continue building.',
+        'role' => 'Creative systems and software developer',
+        'statement' => 'I build stories and the software systems that make ambitious creative work possible.',
+        'note' => 'Seeds of the Throne is the central project: a long-form speculative world, a repository-owned development system, a visual compiler, and a public publishing platform built together.',
+        'margin' => 'Seeds of the Throne is the showcase. The supporting projects demonstrate the repository understanding, workflow design, image production, and application engineering behind it.',
         'portrait' => [
             'src' => 'assets/images/portrait.jpg',
             'alt' => 'Portrait of Iain Reid',
@@ -77,15 +77,15 @@ function portfolio(): array
             'height' => 500,
         ],
         'about' => [
-            'title' => 'Software as craftsmanship',
+            'title' => 'Creative work as a software system',
             'body' => [
-                'Iain has prior software-development experience. Modern AI tools changed the speed at which complete systems can be built. The harder problem is keeping those systems understandable and usable.',
-                'His work focuses on turning ideas into systems that can be operated and continued—repository understanding, guided workflows, and production engines shaped for the environments they actually ship into.',
+                'Seeds of the Throne brings Iain’s creative and software work into one evolving system: story development, canon and continuity, research, visual generation, and public presentation all remain connected without surrendering authorial judgment to AI.',
+                'The supporting products develop the same underlying craft—making repositories understandable, guiding substantial AI-assisted work, producing finished imagery, and shipping maintainable systems into real environments.',
             ],
         ],
         'contact' => [
-            'title' => 'Bring me the complicated part.',
-            'lead' => 'I’m interested in practical software products, repository understanding, guided AI workflows, and systems that need to become clearer before they can grow.',
+            'title' => 'Build the ambitious thing clearly.',
+            'lead' => 'Seeds of the Throne is my working proof that creative direction and software architecture can reinforce each other. I’m interested in similarly ambitious creative and software systems that need structure before they can grow.',
         ],
     ];
 
@@ -93,6 +93,11 @@ function portfolio(): array
     // Categories group the work by what the software is for. Each entry names
     // its own category in the rail, so the page stays one flat list.
     $categories = [
+        [
+            'id' => 'showcase',
+            'name' => 'Creative and software development',
+            'line' => 'One story project connecting worldbuilding, repository architecture, visual generation, publishing, and author-directed AI.',
+        ],
         [
             'id' => 'understanding',
             'name' => 'Software understanding',
@@ -115,7 +120,7 @@ function portfolio(): array
         [
             'id' => 'vibekb',
             'name' => 'VibeKB',
-            'mark' => 'I',
+            'mark' => 'II',
             'category' => 'understanding',
             'status' => 'Active',
             'tagline' => 'Repository understanding',
@@ -185,7 +190,7 @@ function portfolio(): array
         [
             'id' => 'stoppr',
             'name' => 'Stoppr',
-            'mark' => 'I·B',
+            'mark' => 'II·B',
             'category' => 'understanding',
             'status' => 'Field record',
             'tagline' => 'Applied study',
@@ -211,7 +216,7 @@ function portfolio(): array
         [
             'id' => 'sousmeow',
             'name' => 'SousMeow',
-            'mark' => 'II',
+            'mark' => 'III',
             'category' => 'workflows',
             'status' => 'Active prototype',
             'tagline' => 'Guided AI workflows',
@@ -247,7 +252,7 @@ function portfolio(): array
             'id' => 'arcana',
             'name' => 'Arcana / You Are The Song Now',
             'short' => 'Arcana',
-            'mark' => 'III',
+            'mark' => 'IV',
             'category' => 'creative',
             'status' => 'Working system',
             'tagline' => 'Production creative engine',
@@ -298,37 +303,50 @@ function portfolio(): array
         [
             'id' => 'seeds-of-the-throne',
             'name' => 'Seeds of the Throne',
-            'mark' => 'IV',
-            'category' => 'creative',
-            'status' => 'Active development',
-            'tagline' => 'AI-assisted story development system',
-            'summary' => 'A long-form speculative fiction project developed through a repository-owned Obsidian vault that keeps story sessions, working canon, research, drafts, public material, and continuity checks connected without treating AI output as authority.',
+            'mark' => 'I',
+            'category' => 'showcase',
+            'status' => 'Showcase · Active development',
+            'featured' => true,
+            'tagline' => 'Speculative fiction world and creative-development platform',
+            'summary' => 'A long-form speculative fiction project and the software system being built to develop it. A repository-owned Obsidian vault connects story sessions, canon, research, drafts, visual direction, generated imagery, public material, and continuity checks without treating AI output as authority.',
             'detail' => [
-                'The repository acts as persistent creative memory and machine-readable direction. Multiple AI systems can help develop the world, test continuity, research source material, and generate visual experiments while the author retains control of canon and voice.',
+                'The repository acts as persistent creative memory and machine-readable direction. Its Visual World Compiler turns vault knowledge into structured character, appearance, era, environment, and scene context for repeatable image generation and feedback-driven refinement.',
+                'The creative work and the software evolve together: gaps exposed by a scene become explicit worldbuilding questions, approved answers return to the vault, and public-facing material is generated only from selected sources. The author retains control of canon, visual identity, and voice.',
             ],
             'sequence' => [
                 ['label' => 'Story session', 'hint' => 'Possibilities and decisions'],
                 ['label' => 'Canon promotion', 'hint' => 'Selected material only'],
-                ['label' => 'Compact context', 'hint' => 'Current cast, world, and rules'],
-                ['label' => 'Continuity review', 'hint' => 'Conflicts and open questions'],
+                ['label' => 'Knowledge graph', 'hint' => 'Entities, eras, appearances, and places'],
+                ['label' => 'Scene compilation', 'hint' => 'Clean context for prose or imagery'],
+                ['label' => 'Review and feedback', 'hint' => 'Continuity, quality, and missing definitions'],
                 ['label' => 'Creative output', 'hint' => 'Prose, atlas, images, and video'],
             ],
-            'sequence_label' => 'Development loop',
+            'sequence_label' => 'Creative development loop',
             'highlights' => [
                 'Repository-owned creative memory',
                 'Canon separated from exploration',
-                'Compact context for AI handoffs',
+                'Visual entity graph and generation packets',
+                'Authoritative identity, appearance, and era resolution',
+                'Environment masters and composition modes',
+                'Clean generation context separated from quality review',
+                'Missing visual definitions become worldbuilding tasks',
                 'Continuity decisions and unresolved questions tracked explicitly',
-                'Reusable character and visual-generation packets',
                 'Public story atlas generated from approved material',
                 'Authorial judgment remains the final authority',
             ],
             'links' => [
                 ['label' => 'Repository', 'href' => 'https://github.com/cubixmeow-commits/seeds-of-the-throne', 'kind' => 'repo'],
-                ['label' => 'Explore the story atlas', 'href' => 'https://cubixmeow-commits.github.io/seeds-of-the-throne/', 'kind' => 'doc'],
+                ['label' => 'Explore the story atlas', 'href' => '../docs/', 'kind' => 'doc', 'internal' => true],
             ],
         ],
     ];
+
+    // The showcase leads while the supporting projects retain their declared
+    // order. Keeping this in the content layer lets every renderer agree.
+    $projects = array_merge(
+        array_values(array_filter($projects, static fn (array $project): bool => !empty($project['featured']))),
+        array_values(array_filter($projects, static fn (array $project): bool => empty($project['featured'])))
+    );
 
     // ------------------------------------------------------------- FOUNDATIONS
     // These become the surface roots: what the visible work grows out of.
@@ -391,10 +409,10 @@ function portfolio(): array
             'title' => 'Find the real friction',
             'body' => 'Begin with the actual problem experienced by the user—not the abstract technology story.',
             'ties' => [
+                'Seeds of the Throne' => 'Starts from the difficulty of sustaining canon, continuity, and creative direction across a long story.',
                 'VibeKB' => 'Starts from the confusion that follows AI-assisted code.',
                 'SousMeow' => 'Starts from unfinished AI work and brittle prompt habits.',
                 'Arcana' => 'Starts from the gap between song intent and finished visuals.',
-                'Seeds of the Throne' => 'Starts from the difficulty of sustaining canon, continuity, and creative direction across a long story.',
             ],
         ],
         [
@@ -402,10 +420,10 @@ function portfolio(): array
             'title' => 'Build the smallest complete mechanism',
             'body' => 'Favor one complete end-to-end loop over many disconnected features.',
             'ties' => [
+                'Seeds of the Throne' => 'Session → canon promotion → scene compilation → review → creative output.',
                 'VibeKB' => 'Repository in → understanding site out.',
                 'SousMeow' => 'Pantry → recipe → review → next step.',
                 'Arcana' => 'Song in → queued render → gallery out.',
-                'Seeds of the Throne' => 'Session → canon promotion → continuity review → creative output.',
             ],
         ],
         [
@@ -413,10 +431,10 @@ function portfolio(): array
             'title' => 'Make the system explain itself',
             'body' => 'Capture architecture, warnings, decisions, status, and handoffs in the repository.',
             'ties' => [
+                'Seeds of the Throne' => 'Canon, open questions, visual direction, and consequential decisions stay explicit.',
                 'VibeKB' => 'The product is the explanation.',
                 'SousMeow' => 'Every step carries success criteria and failure signals.',
                 'Arcana' => 'Song DNA, queue state, and admin controls stay inspectable.',
-                'Seeds of the Throne' => 'Canon, open questions, visual direction, and consequential decisions stay explicit.',
             ],
         ],
         [
@@ -424,10 +442,10 @@ function portfolio(): array
             'title' => 'Ship for the environment that exists',
             'body' => 'Design around actual hosting, deployment, maintenance, and operating constraints.',
             'ties' => [
+                'Seeds of the Throne' => 'Uses an Obsidian-compatible repository and static public atlas that remain portable across AI tools.',
                 'VibeKB' => 'Static output that can live on GitHub Pages.',
                 'SousMeow' => 'Works with free or paid AI subscriptions; no required API metering.',
                 'Arcana' => 'Built for shared hosting, cron workers, and real billing paths.',
-                'Seeds of the Throne' => 'Uses an Obsidian-compatible repository and static public atlas that remain portable across AI tools.',
             ],
         ],
     ];

@@ -799,6 +799,18 @@ button {
 .entry:hover { box-shadow: var(--shadow-border-hover); }
 .entry:hover::before { background: var(--accent); }
 
+.entry--featured {
+    background:
+        linear-gradient(135deg, var(--accent-soft), transparent 42%),
+        var(--surface);
+    box-shadow: var(--shadow-raised);
+}
+
+.entry--featured::before {
+    width: 4px;
+    background: var(--accent);
+}
+
 .entry--secondary { background: var(--bg-sunken); }
 
 .entry__rail {

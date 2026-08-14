@@ -1,11 +1,13 @@
 ---
 type: desktop-queue
-status: pending-integration
+status: integrated
 date: 2026-08-13
 topics: visual generation, benchmark, prompt architecture, Luminai, technology
 ---
 
 # Visual Benchmark Findings — B01–B05
+
+Follow-up resolution: Luminai/Daemon manifestation is embodied energy concentrated around the head/brain and chest; Sylvan's ordinary wardrobe now has a 1985-present middle-class Los Angeles/United States development reference; and rejuvenation now has a normalized nutrition-plus-energy societal basis. In-world visibility, detailed treatment protocols, and Seeds-specific environment masters remain open.
 
 ## B01/B02 — invalid setup tests
 

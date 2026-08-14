@@ -28,9 +28,10 @@ $isActive = stripos($project['status'], 'active') !== false
 /** A field record is something an instrument produced, so it sits back a step
     rather than competing with the projects that produced it. */
 $isSecondary = $project['status'] === 'Field record';
+$isFeatured = !empty($project['featured']);
 ?>
 <article
-    class="entry<?= $isSecondary ? ' entry--secondary' : '' ?>"
+    class="entry<?= $isSecondary ? ' entry--secondary' : '' ?><?= $isFeatured ? ' entry--featured' : '' ?>"
     id="project-<?= e($id) ?>"
     aria-labelledby="project-<?= e($id) ?>-title">
 

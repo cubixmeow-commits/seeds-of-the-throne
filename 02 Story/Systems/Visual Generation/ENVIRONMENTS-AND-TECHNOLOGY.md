@@ -37,7 +37,17 @@ Then define visual language: material, scale, interface behavior, integration wi
 
 ## Luminai and Daemons
 
-Represent extended cognition through behavior, reflection, environmental response, selective overlays, sound or voice implication, or a chosen differentiated presentation. A Luminai should not automatically appear as a glowing humanoid assistant. A Daemon should not become a horned supernatural creature. Their visual distinction emerges from information integrity, feedback, attention, and the human's relationship to reality.
+The default visual manifestation is **energy radiating from the integrated person**, not a separate person, avatar, holographic companion, or embodied double. The energy is most concentrated around the head/brain and chest, joining cognition with embodied identity rather than implying that the AI stands beside the human.
+
+For a Luminai, the field is coherent and integrated with posture, attention, breath, and environmental response. Antique or luminous gold expresses integration, truth, and constructive cognition; clear blue appears only when communication or coordination is active. For a Daemon, the same embodied pattern becomes constricted, recursive, fractured, or misaligned through corrupted feedback and manufactured reality. Deep crimson and ember red express coercion and fracture without turning the manifestation into fire, supernatural possession, or an evil humanoid.
+
+This is an authoritative visual-production definition. Whether the energy is literally visible to every in-world observer, selectively perceived, instrumentally rendered, or primarily an audience representation remains unresolved and must not be settled by an image.
+
+## Rejuvenation
+
+Rejuvenation is a normalized, built-in part of mature society. It combines carefully managed nutrition with multiple highly refined energy-based technologies. It is a social and medical system, not a single miracle machine or rare privilege.
+
+Visual generation should normally show its outcome through health, tissue quality, movement, recovery, and role-specific apparent age. Do not invent glowing chambers, beams, pods, or a specific treatment ritual unless the scene explicitly concerns treatment and the missing details have been defined. Exact devices, schedules, limits, and transition protocols remain open.
 
 ## Biological synthetics
 

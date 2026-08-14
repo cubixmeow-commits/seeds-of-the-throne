@@ -1,6 +1,7 @@
 # Protect the VibeKB data directory from direct web access.
 # The SQLite database and any journal/lock files live here and must never be
-# served over HTTP. Deployed to public_html/site/data/ (served under /site/data/).
+# served over HTTP. Deployed to public_html/devsite/iainreiddotdev/data/
+# (served under /devsite/iainreiddotdev/data/).
 
 Options -Indexes
 

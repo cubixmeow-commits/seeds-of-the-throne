@@ -6,7 +6,7 @@ It is persistent working memory for story development: chronological sessions, c
 
 ## Public website
 
-The `iainreiddotdev/` directory contains the PHP portfolio previously maintained in the separate public `iainreid.dev` repository. The root `index.php` redirects visitors into that self-contained site. The root `.cpanel.yml` deploys only the redirect and portfolio application; the story vault is not copied into the public web root.
+The complete tracked repository is published under `https://iainreid.dev/devsite/` so its public-facing vault material can be explored directly. The `iainreiddotdev/` directory contains the PHP portfolio previously maintained in the separate public `iainreid.dev` repository, and the root `index.php` redirects `/devsite/` visitors into that nested application at `/devsite/iainreiddotdev/`. Repository metadata and dotfiles remain blocked from web access.
 
 ## Start here
 
