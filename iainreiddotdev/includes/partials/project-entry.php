@@ -140,7 +140,7 @@ $isFeatured = !empty($project['featured']);
                     href="<?= e($link['href']) ?>"
                     <?= empty($link['internal']) ? 'rel="noopener noreferrer"' : '' ?>>
                     <span class="action__label"><?= e($link['label']) ?></span>
-                    <span class="sr-only"> — <?= e($name) ?></span>
+                    <span class="sr-only">, <?= e($name) ?></span>
                     <span class="action__arrow" aria-hidden="true">&rarr;</span>
                 </a>
             <?php endforeach; ?>

@@ -30,7 +30,7 @@ $year = (int) date('Y');
 /* The published repository root redirects here while the portfolio remains self-contained. */
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/';
 
-$pageTitle = 'Iain Reid — creative and software development portfolio';
+$pageTitle = 'Iain Reid | Creative and software development portfolio';
 $pageDescription = 'Seeds of the Throne is Iain Reid’s creative and software-development showcase: a speculative world built with repository architecture, author-directed AI, visual generation, and public publishing systems.';
 $assetVersion = '20260813a';
 ?>

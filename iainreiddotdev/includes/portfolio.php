@@ -67,7 +67,7 @@ function portfolio(): array
         'name' => 'Iain Reid',
         'initials' => 'IR',
         'role' => 'Creative systems and software developer',
-        'statement' => 'I build stories and the software systems that make ambitious creative work possible.',
+        'statement' => 'I build immersive worlds and stories, and the software systems that make ambitious creative work possible.',
         'note' => 'Seeds of the Throne is the central project: a long-form speculative world, a repository-owned development system, a visual compiler, and a public publishing platform built together.',
         'margin' => 'Seeds of the Throne is the showcase. The supporting projects demonstrate the repository understanding, workflow design, image production, and application engineering behind it.',
         'portrait' => [
@@ -80,7 +80,7 @@ function portfolio(): array
             'title' => 'Creative work as a software system',
             'body' => [
                 'Seeds of the Throne brings Iain’s creative and software work into one evolving system: story development, canon and continuity, research, visual generation, and public presentation all remain connected without surrendering authorial judgment to AI.',
-                'The supporting products develop the same underlying craft—making repositories understandable, guiding substantial AI-assisted work, producing finished imagery, and shipping maintainable systems into real environments.',
+                'The supporting products develop the same underlying craft: making repositories understandable, guiding substantial AI-assisted work, producing finished imagery, and shipping maintainable systems into real environments.',
             ],
         ],
         'contact' => [
@@ -124,7 +124,7 @@ function portfolio(): array
             'category' => 'understanding',
             'status' => 'Active',
             'tagline' => 'Repository understanding',
-            'summary' => 'Turns an unfamiliar software repository into a living understanding site—documenting what the software currently does, how components connect, where functionality lives, what is verified, and what remains uncertain.',
+            'summary' => 'Turns an unfamiliar software repository into a living understanding site that documents what the software currently does, how components connect, where functionality lives, what is verified, and what remains uncertain.',
             'detail' => [
                 'The current focus: a system for understanding software before the next change.',
             ],
@@ -258,7 +258,7 @@ function portfolio(): array
             'tagline' => 'Production creative engine',
             'summary' => 'Transforms a song, lyrics, band identity, style direction, and optional portrait references into a single cinematic visual composition.',
             'detail' => [
-                'Built as an operable product—not a single prompt demo—with accounts, credits, queues, storage, and shared-hosting deployment in mind.',
+                'Built as an operable product, not a single prompt demo, with accounts, credits, queues, storage, and shared-hosting deployment in mind.',
                 'Commercial integrations are part of the production surface; verification depth varies by path.',
             ],
             'sequence' => [
@@ -407,7 +407,7 @@ function portfolio(): array
         [
             'mark' => '01',
             'title' => 'Find the real friction',
-            'body' => 'Begin with the actual problem experienced by the user—not the abstract technology story.',
+            'body' => 'Begin with the actual problem experienced by the user instead of the abstract technology story.',
             'ties' => [
                 'Seeds of the Throne' => 'Starts from the difficulty of sustaining canon, continuity, and creative direction across a long story.',
                 'VibeKB' => 'Starts from the confusion that follows AI-assisted code.',
