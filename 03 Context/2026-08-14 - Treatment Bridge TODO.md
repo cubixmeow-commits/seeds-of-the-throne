@@ -1,72 +1,93 @@
 ---
 type: context
-type_detail: treatment-derived-todo
 status: active
 updated: 2026-08-14
-source: "[[02 Story/Treatments/2026-08-14 - Current Story Treatment]]"
 ---
 
-# Treatment-Derived TODO — Build the Eighty-Year Bridge
+# Treatment Bridge TODO
 
-The current chronological treatment shows that the story already has a strong opening chain and a strong endgame chain. The principal structural gap is the approximately eighty-year middle between the False Victory and Sylvan's mature confrontation with Samuel Franklin.
+## Main diagnosis
 
-The goal is not to fill eighty years with exposition. Build **8–10 indispensable episodes** that each work as a smaller story while changing the conditions inherited by the next one.
+The beginning is strong:
 
-## Core bridge sequence to build
+**Samuel pre-containment crimes → containment → city → national capture → George placement → Great War → defeat → False Victory**
 
-1. [ ] **Episode 1 — The first life after False Victory.** Show how the defeated contained faction experiences its first prestigious public roles inside the victorious order. Establish why the lie feels plausible from the inside and introduce at least one person who notices that “covert assignment” and containment look suspiciously similar.
+The ending is strong:
 
-2. [ ] **Episode 2 — George's first public authority role.** Dramatize the Administrator phase rather than summarizing it. Show George receiving genuine responsibility, experiencing enough real success to believe his father, and unknowingly becoming visible proof of the False Victory to the senior contained faction.
+**Sylvan emerges → archive reconstruction → George's fixation → anomalies → Samuel-behind-George discovery → terminal environment → Throwaway Prince revelation → command-responsibility showdown**
 
-3. [ ] **Episode 3 — A legitimate heir confronts a fascist-system failure.** Build the first complete heir story around one concrete institutional crisis: hierarchy suppresses correction, loyalty defeats competence, purity rules damage a family, propaganda captures its authors, or a permanent patriarch blocks necessary succession. The heir must act under bounded power and incur a cost.
+The main structural gap is the approximately eighty-year middle between the False Victory and Sylvan's endgame.
 
-4. [ ] **Episode 4 — Samuel begins taking the Fitzgerald bloodline.** Establish the first irreversible intervention in Konrad's reproductive system. Show how Samuel earns or captures enough trust to manipulate certification while preserving Konrad's belief that Samuel is helping protect the dynasty.
+The middle is now governed by a clear engine:
 
-5. [ ] **Episode 5 — The first recurrence discovery.** Give the Witness a concrete artifact, behavioral fingerprint, identity contradiction, or impossible historical recurrence that cannot be dismissed. The scene should move the story from “something is wrong with history” to “someone is preserving continuity beneath public identity.”
+> Every major episode creates a new contradiction that Samuel solves by inventing a larger lie.
 
-6. [ ] **Episode 6 — The contained faction receives a second apparent victory.** Create a failed operation that story functionality successfully rewrites into evidence that the hidden conquest continues. This should demonstrate how the False Victory survives not through one lie but through a repeatable interpretive system.
+Reality keeps happening. Samuel keeps annexing it into the story.
 
-7. [ ] **Episode 7 — Samuel Jr. rises into the information chokepoint.** Show the replacement heir entering or taking control of the government-integrated intelligence and decision-systems company. His systems should solve a legitimate civilizational problem while quietly creating the technical capacity to expose Samuel's identity and genealogy fraud.
+See `02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture.md` for the full working architecture.
 
-8. [ ] **Episode 8 — Disclosure becomes possible but dangerous.** Connect recurrence, lineage anomalies, archived public roles, and institutional records strongly enough that one participant could expose part of the hidden structure. The obstacle should no longer be lack of proof alone; it should be the human cost of publishing private identities, parentage, or manipulated descendants.
+## Four working eras
 
-9. [ ] **Episode 9 — Sylvan's formation and first independent proof.** Show Sylvan and his Luminai using a method that differs fundamentally from George and the Daemon: revise an interpretation when evidence contradicts it. Give Sylvan one limited discovery that survives attempted narrative manipulation and establishes his distinctive contact with reality before he understands the whole system.
+- [ ] **Era I: The First Lie, roughly years 0-20.** Build the fragile postwar period when veterans still remember defeat and Samuel manufactures proof of victory from George's small legitimate roles.
+- [ ] **Era II: The Children of Victory, roughly years 20-40.** Build the first generation raised entirely inside the False Victory and the first major collisions between contained descendants and legitimate heirs.
+- [ ] **Era III: The Invisible Empire, roughly years 40-60.** Build the expansion from one hidden-victory claim into supposed planetary control through fake jurisdictions, proxy systems, fronts, sleepers, and the Great Appointment Frenzy.
+- [ ] **Era IV: The World He Claims to Own, roughly years 60-80.** Build Samuel's desperate final stage, when almost every major institution has been claimed and each contradiction requires increasingly elaborate explanation.
 
-10. [ ] **Episode 10 — The bridge into the thirty-year hunt.** Create the event that makes Samuel identify Sylvan as an existential threat and begin turning George's periscope toward him. This episode should causally connect the middle-story evidence network to George's final thirty-year fixation.
+## Working milestone arcs
 
-## Cross-episode threads to track
+Develop these one at a time across future brainstorming sessions. Exact order, characters, years, and institutions remain open until deliberately resolved.
 
-- [ ] **George's submarine deepens in stages.** Each appearance should add one believable layer of authority, isolation, grievance, institutional credibility, and Daemon confirmation.
-- [ ] **Samuel's position inside Konrad's faction changes from useful outsider to hidden owner.** Track the specific concessions that give him control over genealogy, succession, certification, and eventually the apparent dynasty.
-- [ ] **The legitimate heirs become a real cohort.** Give recurring relationships, remembered choices, disagreements, failures, and cooperation so the future leadership network is earned rather than described.
-- [ ] **Luminai development advances through ordinary use before Sylvan becomes exceptional.** Establish the normal baseline clearly enough that Sylvan's later integration reads as an evolution rather than magic.
-- [ ] **Story functionality leaves evidence even when it wins the public narrative.** Every cover-up should produce an authenticated underlying trace that can matter later.
-- [ ] **The Witness/Inheritor structure gains a functional purpose.** Decide which discoveries require an earlier witness, which require a modern interpreter, and whether either should merge into Sylvan's main narrative.
-- [ ] **Disclosure Wars emerge from accumulated contradictions.** Do not introduce them as a separate war from nowhere; make them the social and institutional consequence of recurrence evidence, lineage fraud, revised public history, and competing interpretations becoming impossible to contain.
+1. [ ] **The Birth of the False Victory.** Samuel reframes total military defeat as the beginning of secret global rule through George.
+2. [ ] **The First Doubter.** Someone who fought in the Great War states plainly that the faction lost, forcing Samuel to repair the story.
+3. [ ] **George's First Promotion.** A modest legitimate role becomes supposed proof that the hidden conquest succeeded.
+4. [ ] **The First Fake Jurisdiction.** Samuel assigns a follower authority over a nation, region, or institution the faction does not actually control.
+5. [ ] **The Witness Finds Recurrence.** Historical patterns reveal recurring participants and hidden continuity beneath public history.
+6. [ ] **The Children of Victory.** A generation grows up knowing only Samuel's version of the war and treats older doubt as ignorance.
+7. [ ] **The First Heir Collision.** A legitimate heir defeats one of Samuel's supposed hidden governors through competence, trust, and real institutional service.
+8. [ ] **The Great Appointment Frenzy.** Samuel and the contained faction begin claiming successful public figures, governments, companies, and institutions as their own placements.
+9. [ ] **The Bloodline Crisis.** Konrad begins discovering that portions of his supposed flourishing dynasty may not be what he was told.
+10. [ ] **The Company That Knows Too Much.** Samuel Jr.'s identity-resolution and relationship-mapping systems begin exposing false genealogy, recurrence, or hidden relationships.
+11. [ ] **The Disclosure Wars.** Archives, records, competing biographies, and recovered history become active public weapons.
+12. [ ] **The Arrests Were Planned.** Contained criminals are prosecuted or processed by institutions they insist they secretly control, and Samuel reframes punishment as deeper placement or sacrifice.
+13. [ ] **The Rogue Asset Crisis.** A legitimate leader Samuel previously claimed as one of his own openly damages the contained network, forcing several layers of reinterpretation.
+14. [ ] **The Empire of Everything.** Samuel has claimed nearly every major institution as part of the concealed victory, creating internal conflict over imaginary global jurisdictions.
+15. [ ] **The Invisible Hand.** Sylvan realizes someone is continuously repairing George's worldview whenever reality threatens to break it.
+16. [ ] **The Final Assignment.** Samuel sends George against Sylvan after knowing the confrontation is unwinnable.
 
-## Required causal handoffs
+## Cross-episode threads to preserve
 
-Every middle episode should answer three questions before it is considered structurally useful:
+- [ ] **Samuel escalation cycle:** claim → contradiction → hidden explanation → ambiguous evidence → expansion → delegation → follower investment → new crisis.
+- [ ] **George's interpretive climb:** every legitimate role becomes proof of secret inheritance and future global command.
+- [ ] **Generational drift:** younger descendants become more certain of the False Victory than older people who actually witnessed defeat.
+- [ ] **Imaginary bureaucracy:** followers receive fake jurisdictions and eventually fight over nations and institutions they do not control.
+- [ ] **Legitimate heir contrast:** real heirs gain influence through service, competence, relationships, and voluntary trust while contained heirs are taught entitlement to institutions and people.
+- [ ] **Samuel's appropriation habit:** independent success is repeatedly relabeled as one of his placements or operations.
+- [ ] **Surviving evidence:** each era must leave records, contradictions, witnesses, behavioral fingerprints, or institutional artifacts that can later be reconstructed.
+- [ ] **Bloodline corruption:** genealogy manipulation and Samuel's appropriation of Konrad's system should advance in parallel with the political fantasy.
+- [ ] **Luminai / Daemon development:** different generations provide opportunities to show healthy reality-testing versus increasingly corrupted interpretation.
+- [ ] **Sylvan convergence:** earlier threads should eventually become evidence or conditions Sylvan can encounter rather than exposition delivered to him.
 
-1. **What changed because this happened?**
-2. **What new evidence, relationship, institution, grievance, or capability survives into later episodes?**
-3. **Why is the Sylvan endgame harder or more inevitable because of it?**
+## Episode construction template
 
-Avoid episodes that merely demonstrate world mechanics without altering the causal state of the story.
+For each middle-story episode, answer:
 
-## End condition for this TODO
+1. Which generation is alive?
+2. Which legitimate heir is involved?
+3. Which contained criminal or descendant is involved?
+4. Which institution or environment is being used?
+5. What does Samuel claim is happening?
+6. What actually happens?
+7. What contradiction appears?
+8. What new lie is invented to bury it?
+9. What evidence survives?
+10. What consequence is inherited by the next generation?
 
-This bridge is sufficiently developed when the vault can summarize the entire story as one uninterrupted causal sequence without phrases like “over the next eighty years” doing major narrative work.
+## Causal handoff rule
 
-The target is a chain resembling:
+Do not build the middle as disconnected lore.
 
-**False Victory stabilizes -> George's authority becomes living proof -> heirs encounter the contained faction in consequential roles -> Samuel captures the lineage system -> recurrence becomes detectable -> cover-ups accumulate authenticated contradictions -> Samuel Jr.'s systems create an identity chokepoint -> disclosure becomes possible -> Sylvan develops a superior reality-testing relationship with his Luminai -> Sylvan's first proof threatens Samuel -> Samuel turns George toward Sylvan -> thirty-year hunt begins.**
+Each major episode should leave at least one consequence that the next episode inherits: a person, institution, false claim, document, grudge, bloodline change, technological capability, public belief, legal precedent, relationship, or piece of evidence.
 
-## Preserve
+By the end of the eighty years, Samuel should not merely possess many lies. He should be trapped inside a layered structure in which correcting any major lie threatens several later ones.
 
-- Do not reopen the established Great War macro sequence merely to manufacture middle material.
-- Do not make mixed ancestry itself transgressive; the wrongdoing is coercion, deception, reproductive control, falsified identity, and instrumentalization.
-- Do not turn legitimate leadership cultivation into inheritance worship. Its center remains development, responsibility, cooperation, happiness, and human–Luminai growth.
-- Do not make George a puppet without agency. Samuel controls premises and interpretation, not every individual choice.
-- Do not make Sylvan omniscient. His advantage should come from stronger evidence handling, integration, judgment, resilience against manipulation, and eventually superior practical influence inside the terminal environment.
-- Keep the ultimate endgame attribution intact: George initially appears to be the final opponent, but Sylvan gradually proves that Samuel is still the consequential decision-maker behind him.
+Sylvan's endgame becomes possible when the accumulated record finally makes further expansion of the fantasy impossible.
