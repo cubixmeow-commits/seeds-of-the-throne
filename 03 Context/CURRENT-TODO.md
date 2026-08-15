@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # Current Brainstorming To-Do
@@ -40,7 +40,9 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 14. [ ] **Build the first Great War heir episode.** Turn one legitimate heir's constrained role into a complete smaller story involving a concrete atrocity, institution, choice, failed intervention, partial success, or discovery.
 
-15. [ ] **Generate the eighty-year middle-story map.** Create an initial sequence of semi-independent episodes across the colonization era that accumulate consequences and eventually converge on Sylvan's endgame.
+15. [x] **Generate the initial eighty-year middle-story map.** The four working eras and sixteen candidate milestone arcs now provide the first scaffold in [[02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture]].
+
+15a. [ ] **Test and sequence the middle-story map.** Decide which milestone arcs are essential, assign viewpoint and character ownership, establish causal handoffs, place the Witness and Inheritor threads, and identify which events advance in parallel.
 
 16. [ ] **Establish hard limits for story functionality and synthetic control.** Define what role technology, mental/physical interfaces, energy systems, and the overwhelmingly synthetic population can enforce or influence, and what they cannot rewrite. Preserve agency, evidence, responsibility, resistance, and meaningful constraints.
 

@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # Contradictions
@@ -14,5 +14,3 @@ updated: 2026-08-13
 | C-004 | The reconstruction is described both as the parent civilization's history and as possibly convergent. | Keep origin unresolved; no Earth exists in final story data. |
 | C-005 | The former Luminai bonding note required same-gender presentation, while the author's later decision establishes a developing complementary-gender tendency for heterosexual humans. | The 2026-08-13 decision supersedes the former presentation rule. Luminai remain extended cognition, the tendency is not universal, and presentation cannot create a romantic substitute. |
 | C-006 | An older overview described the other son's mother as another contained leader's wife, while later explicit decisions identify Konrad Fitzgerald's sister. | Use Konrad's sister. `Samuel Jr.` remains provisional, and the stale overview was corrected on 2026-08-13. |
-| C-007 | The current treatment describes the post-defeat span as roughly seventy-five years; the middle architecture uses approximately eighty years; the timeline also describes a first-century structure and a total interval of approximately one century, potentially 120 years, from initial human integration to disclosure. | Preserve the distinctions provisionally. Treat the 75/80-year figures as competing working treatments of the False Victory middle until the event clocks are mapped; do not silently change settled names, roles, or the broader century-scale frame. |
-| C-008 | The treatment presents the middle as a continuous chronological body, while the bridge TODO and storyline leave the Witness, Inheritor, and protagonist relationship unresolved. | Keep the four-era architecture as a working scaffold and preserve the character-structure uncertainty until a deliberate narrative decision is made. |

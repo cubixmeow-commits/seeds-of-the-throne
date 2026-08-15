@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # Storyline
@@ -17,6 +17,9 @@ updated: 2026-08-13
 7. The conquest regime is defeated. Its empire collapses and surviving leaders are integrated into public containment roles inside the victorious order.
 8. The King claims George secretly captured the victor and that visible defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
 9. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
+
+## Narrated middle — working architecture
+
 10. The False Victory's long middle is developed as four provisional eras: first proof and fragile denial; inherited victory mythology; distributed hidden empire and imaginary jurisdictions; and the late world-scale claim in which independent institutions are repeatedly annexed into Samuel's story. The era structure is working, not a fixed episode order.
 11. A breeding and lineage program inherited from the fallen empire continues inside containment. Konrad believes the genuine son, daughter, and grandson of his Great War line have become a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
 12. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.

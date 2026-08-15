@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # Decisions
@@ -49,4 +49,3 @@ updated: 2026-08-13
 | 2026-08-13 | Define rejuvenation as a normalized part of mature society combining carefully managed nutrition with multiple highly refined energy-based technologies. | Role-specific apparent ages should arise from a dependable social and medical system rather than an undefined miracle device or rare elite privilege. |
 | 2026-08-14 | Treat the current story treatment and eighty-year middle architecture as working source notes for the present macro spine and middle-story development. | The beginning and end are coherent enough to guide work, while the middle needs an episodic architecture and bridge sequence before exact chronology is locked. |
 | 2026-08-14 | Establish the immersion and surface-reality principle as a governing story constraint. | The colony must feel like recognizable ordinary civilization before the hidden colonization architecture becomes undeniable; independent institutions and human-scale consequences remain real. |
-| 2026-08-14 | Preserve the duration tension among roughly 75 years, approximately 80 years, and the broader century / potentially 120-year frame as an explicit continuity question. | The figures may describe different clocks, and resolving them prematurely would erase a visible structural uncertainty. |

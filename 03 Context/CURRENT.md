@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-13
+updated: 2026-08-14
 ---
 
 # Current
@@ -62,7 +62,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 12. Define the two founder couples of the second-largest empire and map their children, grandchildren, and Sylvan's partner.
 13. Build the first Great War-era future-leader episode around a fascist-system weakness, constrained role, and concrete moral crisis.
 14. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
-15. Generate an initial map of semi-independent episodes across the approximately eighty-year middle.
+15. Test and sequence the initial eighty-year map: choose essential milestone arcs, assign viewpoint characters, define causal handoffs, place the Witness and Inheritor threads, and distinguish parallel events from fixed chronology.
 16. Test the expanded visual-generation system on new environments, technology, multi-character scenes, and short video/voice continuity passes.
 17. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
 
