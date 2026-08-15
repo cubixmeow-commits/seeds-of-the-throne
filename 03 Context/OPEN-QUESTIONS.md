@@ -6,6 +6,13 @@ updated: 2026-08-13
 
 # Open Questions
 
+## Newly surfaced from the 2026-08-14 treatment pass
+
+- What exact duration does the False Victory cover: the treatment's roughly seventy-five years, the middle architecture's approximately eighty years, or the broader timeline's roughly one-century / potentially 120-year span from first human integration to disclosure? Keep these as distinct clocks if that is intentional.
+- Which of the four provisional middle eras contains the Witness thread, and how does its chronology connect to the later Inheritor thread without collapsing either into a placeholder?
+- Which bridge episodes are essential causal events rather than optional historical texture, and which characters own the milestone arcs?
+- What ordinary institutions, careers, family routines, and public crises will carry the surface-reality principle through the middle without making every visible event a hidden operation?
+
 ## Structural
 
 - Are the Witness, Inheritor, and Protagonist two characters or three?

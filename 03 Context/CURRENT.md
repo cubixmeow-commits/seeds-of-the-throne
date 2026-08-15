@@ -40,7 +40,8 @@ Foundation, human–AI integration architecture, dynastic character development,
 - A layered advanced-technology ecology: personal Luminai/Daemon cognition, consent-based group coordination, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale AI. Technology can construct conditions and preserve evidence; it cannot manufacture morality, love, judgment, or authentic achievement.
 - Fascist-system weaknesses as an episodic engine: hierarchy suppresses correction, loyalty displaces competence, purity turns families into political machinery, propaganda captures its authors, permanent patriarchs make succession impossible, and internal competition consumes cooperation. The positive counterpoint is future leaders and Luminai developing higher judgment through difficult choices inside bounded technological environments.
 - A repository-grounded Grok Imagine and GPT Image production system built around approved identity locks, scene action, world packets, cinematography, continuity, video/voice bibles, output contracts, and the rule **preserve identity; regenerate the photograph**.
-- An approximately eighty-year middle that can function as an episodic story engine: smaller stories involving different future leaders, contained criminals, institutions, crises, discoveries, relationships, AI development, and moral tests that accumulate toward the Sylvan endgame.
+- An approximately eighty-year middle that can function as an episodic story engine: smaller stories involving different future leaders, contained criminals, institutions, crises, discoveries, relationships, AI development, and moral tests that accumulate toward the Sylvan endgame. The current four-era structure and provisional milestone map are in [[02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture]]; the bridge work remains tracked in [[03 Context/2026-08-14 - Treatment Bridge TODO]].
+- The surface-reality rule is now a governing working principle: the colony must read as ordinary, lived-in civilization before its hidden architecture becomes legible. See [[02 Story/Components/Immersion and Surface Reality Principle]].
 - A beginning in which city stewardship becomes national capture, global conquest, the Great War, total defeat, and a century-long False Victory.
 - George placed inside the future victor before the fall and later used as living proof that containment is covert conquest.
 - Story functionality that preserves public cover-ups while a sealed record accumulates underneath.
@@ -65,7 +66,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 16. Test the expanded visual-generation system on new environments, technology, multi-character scenes, and short video/voice continuity passes.
 17. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
 
-See [[03 Context/CURRENT-TODO]] for the full working sequence.
+See [[03 Context/CURRENT-TODO]] for the full working sequence and the dated treatment notes above for the current middle-story architecture.
 
 ## Thematic distinctions to preserve
 

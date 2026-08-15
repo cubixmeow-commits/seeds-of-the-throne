@@ -89,6 +89,15 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 Treat the approximately eighty-year colonization history as a **story engine**, not an exposition block. Build smaller episodes around different heirs, contained criminals, roles, crises, institutions, relationships, and discoveries. Each should work locally while adding consequences that eventually converge on the Sylvan endgame.
 
+## Current middle-story references
+
+- [[02 Story/Treatments/2026-08-14 - Current Story Treatment]] — continuous beginning-to-end treatment; use for the present macro spine.
+- [[02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture]] — four provisional twenty-year eras, Samuel's lie-escalation cycle, generational drift, imaginary jurisdictions, heir collisions, surviving evidence, and milestone arcs.
+- [[03 Context/2026-08-14 - Treatment Bridge TODO]] — bridge episodes and causal handoffs still requiring development.
+- [[02 Story/Components/Immersion and Surface Reality Principle]] — reader-experience and surface-world guardrails for every middle episode.
+
+These notes are working scaffolds, not a locked episode order. Do not promote the provisional milestones to established chronology until their causal handoffs, character ownership, and relation to the Witness/Inheritor structure are tested.
+
 ## Session principle
 
 **Turn explanations into evidence, choices, and situations the characters can actually encounter.**

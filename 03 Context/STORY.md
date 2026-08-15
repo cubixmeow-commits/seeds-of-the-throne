@@ -20,6 +20,8 @@ A contained authoritarian receives a city, captures a country, and initiates the
 
 Story functionality allows him to revise failures, hide crimes, and preserve the False Victory while a sealed record accumulates underneath. He also exploits a breeding and lineage system inherited from the fallen empire, using the faction's racist purity doctrine to blackmail leading families through concealed parentage and fraudulent certification.
 
+The current treatment now treats the False Victory's long middle as the body's main episodic engine rather than a summary gap. Its detailed four-era architecture, provisional milestones, and bridge TODO remain working scaffolds. The immersion principle requires those episodes to remain grounded in an ordinary, consequential surface civilization whose independent institutions are not secretly fake merely because Samuel later claims them.
+
 His authority fails if private doubts become common knowledge: George never controlled the victor, the empire lost everything, public offices are containment roles, and supposedly isolated lineage secrets are instances of one systematic abuse.
 
 His ultimate doctrine seeks complete control over every population and every source of independent meaning. Government, law, public history, culture, movement, family, ancestry, succession, and personal interpretation all become extensions of the ruler's will. The god-ruler claim escalates this ambition beyond audit: every contradiction can be recast as hidden design. The organization that imagines itself destined to rule the world is, in reality, the first population the King completely conquers.
