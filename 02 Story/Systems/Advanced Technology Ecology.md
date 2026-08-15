@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-13
+updated: 2026-08-15
 themes: Luminai, Daemons, advanced AI, biological synthetics, physical environments, colonization, hard limits
 ---
 
@@ -59,6 +59,26 @@ The planet's buildings, transport, energy, communication, medical systems, mater
 
 The result is a physically real world whose opportunities and constraints can be technologically managed. A room can recognize permissions; a city can rebalance infrastructure; a public record can carry unbroken provenance; a role can lose access when authority expires. None of that means matter, bodies, distance, time, or consequences are imaginary.
 
+### Integrated wireless energy grid
+
+The colonization planet is built around an integrated wireless energy grid. Usable power is distributed through the environment as a normal infrastructure layer rather than primarily through plugs, handheld batteries, or visible charging equipment.
+
+For the parent civilization this is mature, comparatively simple technology. The difficult engineering was solved long before the current colony was constructed. In an advanced settlement it is treated much like electricity, plumbing, or network connectivity would be treated in an earlier civilization: ubiquitous, standardized, dependable, and usually unnoticed until it fails.
+
+The grid can supply and coordinate energy across buildings, transportation systems, tools, medical systems, public spaces, synthetic bodies, embedded devices, and other authorized infrastructure. Mature environments can therefore feel continuously powered without exposing most of the machinery that makes that possible.
+
+The same infrastructure can interface with the technologically extended nervous systems of humans and with compatible systems in biological synthetics. This does **not** mean the planetary grid can magically read a mind. Human access occurs through the biological and artificial interfaces that already make Luminai cognition possible. Those interfaces can exchange authenticated signals and bounded amounts of usable energy with nearby infrastructure.
+
+As a result, a human, synthetic, or Luminai-enabled extended mind does not always require a separate handheld device to interact with the physical world. Authorized doors, vehicles, tools, communications systems, medical systems, environmental controls, and institutional services can recognize and respond to the person's extended cognitive system. Embedded cognitive technology can also receive continuing power support from the surrounding environment rather than depending entirely on conventional charging cycles.
+
+The basic environmental principle is:
+
+**The colony does not merely have wireless communication. It has wireless infrastructure: information and usable energy are both ambient features of the built environment.**
+
+This remains bounded physical technology. Effective range, shielding, permissions, transmission density, interference, infrastructure damage, energy demand, security, and maintenance still matter. Mature cities may provide nearly seamless coverage, while wilderness, damaged settlements, isolated structures, containment zones, or deliberately shielded spaces can have reduced or nonexistent access.
+
+The grid therefore increases integration between cognition and environment without making either one supernatural. It explains how Luminai can participate naturally in the physical world while preserving meaningful failure states, isolation, scarcity, sabotage, and infrastructure dependence.
+
 ## Layer six: colony-scale AI ecology
 
 Planetary coordination is distributed across specialized systems, oversight bodies, moon-scale infrastructure, local intelligences, synthetic networks, and human authority. The ecology can manage:
@@ -79,7 +99,7 @@ No single conversational superintelligence needs to know, decide, or directly co
 ### Causal limits
 
 - Technology cannot alter an event that already occurred; it can only alter records, access, interpretation, or later consequences.
-- Physical processes still require time, energy, material, maintenance, and reachable infrastructure.
+- Physical processes still require time, energy, material, maintenance, and reachable infrastructure. Wireless energy distribution changes how power reaches a system, not whether energy is required.
 - Embodied injury, fatigue, distance, scarcity, and system failure remain meaningful.
 
 ### Cognitive limits
