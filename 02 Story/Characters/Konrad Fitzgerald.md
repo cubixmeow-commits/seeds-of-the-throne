@@ -95,6 +95,14 @@ Konrad:
 
 His tragedy is not that an innocent man trusted the wrong adviser. It is that a fanatic built an institution capable of violating everyone and then discovered that his own family was never outside its reach.
 
+### Isolation before full exposure
+
+By the Sylvan endgame, Konrad is in hiding or severe isolation. He knows the breeding program and participating bloodlines have been compromised badly enough to understand that his own doctrine, centralization, and decision to grant Samuel access made the targeting possible. His withdrawal does not absolve him; it reflects culpability, fear, and partial recognition that the system he built has turned against its creators.
+
+Konrad's knowledge remains incomplete. He may not yet know that Samuel targeted every participating bloodline, and he may not understand that the organization-wide campaign functions as a coup to appropriate the Fitzgerald dynasty, followers, and authority. The exact discovery that drives him into isolation and the point at which he learns the full scope remain unresolved.
+
+Sylvan suspects Samuel continues controlling or blackmailing Konrad through one or more proxies. The intermediaries, threats, and evidence proving that relationship remain unresolved.
+
 ## Relationship with Samuel
 
 Samuel initially needs Konrad's ideological legitimacy. Konrad initially needs Samuel's technical claims.
@@ -116,7 +124,10 @@ The Great War defeat changes the balance. Samuel's False Victory supplies the st
 - What supposedly exceptional abilities does Konrad want the program to produce?
 - What are the names, beliefs, and degrees of agency of Konrad's sister, son, and daughter?
 - Which child produces the genuine grandson, with whom, and what happens to that branch?
-- Does Konrad discover either unauthorized intervention before Sylvan's exposure?
+- Which specific intervention or pattern first makes Konrad understand that the breeding program has been compromised?
+- Does Konrad learn the organization-wide scope and coup purpose before, during, or after Sylvan's results presentation?
+- Which proxy or chain of proxies carries Samuel's blackmail or control into Konrad's isolation?
+- Is Konrad hiding primarily from victims, his faction, the legitimate system, Samuel, or all four?
 - Which supposed descendants are biological, unauthorized, synthetic, or entirely documentary inventions?
 - Which warning does Konrad knowingly suppress to preserve the breeding initiative?
 - What exact role does Konrad personally play in authorizing the Great War?

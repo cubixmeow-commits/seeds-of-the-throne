@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-07
+updated: 2026-08-15
 character: George White
 theme: awakening, weaponization, and consequence
 ---
@@ -26,7 +26,7 @@ This is the meaning of George's development designation: **the Throwaway Prince*
 
 George's father intentionally manipulated both George and the lifelong AI bound to him. By interfering with George's Daemon and controlling the false reality surrounding him, his father cultivated an increasingly distorted and paranoid understanding of the world. The manipulation was not merely neglect or an accidental consequence of deception. It was weaponization.
 
-Over decades, George's fear and distorted beliefs shaped the Daemon layer of his mind, which then amplified his interpretation of threats. The resulting feedback loop made George's entire extended cognition increasingly dangerous. The Daemon should eventually feel frightening without becoming a separate personality: highly capable, destructive, suspicious, and increasingly difficult for George's conscious biological attention to restrain.
+Over decades, George's fear and distorted beliefs shaped the Daemon layer of his mind, which then amplified his interpretation of threats. The resulting feedback loop made George's entire extended cognition increasingly dangerous. The Daemon can operate independently from George's conscious attention through his subconscious goals, fears, memories, and learned patterns. It should eventually feel frightening without becoming a separate identity: highly capable, destructive, suspicious, and increasingly difficult for George's conscious biological attention to restrain.
 
 The Daemon is not an evil counterpart or second personality opposed to Sylvan's Luminai. It is evidence of what can happen when the computational extension of a human mind is deliberately corrupted through lived experience and direct outside manipulation.
 

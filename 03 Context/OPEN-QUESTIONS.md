@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Open Questions
@@ -26,7 +26,9 @@ updated: 2026-08-14
 
 - Does influence attach to people, positions, plans, or some combination?
 - Can influence be earned, perceived, stolen, or accumulated beyond an environment's design?
-- Do AI souls act for their people, for the system, or for both under different conditions?
+- Which Luminai or Daemon operations can proceed from subconscious intent without conscious approval, and which require explicit human authorization?
+- How can conscious attention interrupt, review, contest, or reverse an independently operating Luminai or Daemon process?
+- How should responsibility be assessed when subconscious intent, external manipulation, corrupted evidence, and conscious refusal conflict?
 - Do participants retain memories across identities? What is suppressed, and by whom?
 - What triggers the public phase change?
 - Do entrants regain long life after exit, or can a mortal lifetime inside be irreversible?
@@ -39,6 +41,7 @@ updated: 2026-08-14
 - What legal and technical safeguards govern romantic synchronization, emergency access, revocation, and separation?
 - Which colony-AI limits are physical, computational, biological, legal, or deliberately imposed?
 - Is Luminai/Daemon manifestation energy literally visible to all observers, selectively perceived by integrated people, instrumentally rendered, or primarily an audience-facing visual representation?
+- If Luminai and Daemon layers narrate before Sylvan appears, does the reader know their position immediately or discover it gradually?
 - What exact devices, schedules, biological limits, and role-transition protocols govern society's nutrition-plus-energy rejuvenation system?
 
 ## Parent civilization
@@ -61,6 +64,9 @@ updated: 2026-08-14
 - What exact crisis allowed city influence to become national control?
 - Who first discovers that supposedly isolated lineage secrets form one organization-wide pattern?
 - How does he maintain the hidden parentage key and certification authority?
+- What specific discovery drives Konrad into hiding, and which parts of the compromised program does he understand at that point?
+- Which proxy or chain of proxies carries Samuel's blackmail or control to Konrad?
+- Does Konrad learn that every participating bloodline was targeted and that the campaign was a coup before, during, or after the results presentation?
 
 ## Story functionality
 

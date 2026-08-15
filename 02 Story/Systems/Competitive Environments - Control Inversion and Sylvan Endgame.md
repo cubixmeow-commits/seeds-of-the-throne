@@ -138,6 +138,10 @@ By the time this becomes obvious, the audience should be able to reinterpret muc
 
 The King eventually becomes unable to stop maintaining George's false reality even when it is no longer useful against Sylvan. Earlier, the manufactured narrative is a weapon. By the end, it becomes a trap.
 
+The lineage record creates a parallel trap. Konrad has already withdrawn into hiding or severe isolation after recognizing that the breeding program and participating bloodlines were compromised through a system his own choices enabled. Sylvan suspects Samuel is still controlling or blackmailing him through proxies. Konrad may not yet know that Samuel's targeting extended across every participating bloodline or that the full campaign was a coup against the Fitzgerald dynasty and authority.
+
+If Sylvan's evidence makes that pattern common knowledge, Samuel risks losing both the private leverage that keeps families isolated and the partial account that still contains Konrad. Samuel's need for a time extension can therefore become desperate once he realizes the results presentation includes the breeding scandal and documented targeting of the Fitzgerald line.
+
 If the signs stop, George may begin working backward through decades of apparent evidence and asking how much of his life his father manufactured. Under the succession-betrayal possibility, the most devastating discovery may be that **George realizes his father knowingly sent him into an unwinnable environment because his father wanted him removed.**
 
 The King's final dilemma becomes:
@@ -209,6 +213,10 @@ Working development to preserve for future sessions:
 - stopping the story risks consequences from George discovering what happened;
 - continuing the story guarantees accumulating evidence visible to everyone else;
 - Sylvan's final offer remains cooperation and earned stewardship versus honest processing based on reality.
+- Konrad is already in hiding or severe isolation after recognizing his culpability in enabling a compromised breeding program;
+- Konrad's knowledge of the organization-wide targeting and its function as Samuel's coup remains unresolved;
+- Sylvan suspects Samuel continues blackmailing or controlling Konrad through proxies;
+- evidence of the breeding scandal and Fitzgerald targeting can turn Samuel's procedural request for an extension into open desperation.
 
 ## Open questions
 

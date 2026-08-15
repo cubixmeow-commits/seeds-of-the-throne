@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Story
@@ -35,3 +35,5 @@ The decisive exposure does not require every follower to accept the truth. It su
 ## Narrative engine
 
 First-person present tense is the current working mode. The narrator has enough information to reason but not enough to conclude. Worldbuilding arrives through motivated, incomplete conversation rather than lectures.
+
+**Working narration possibility:** before Sylvan appears, first-person narration may arise from independently operating Luminai or Daemon cognitive layers. These layers can function outside conscious human attention because their decisions emerge from the human subconscious mind, but they remain extensions of one human identity rather than separate narrating persons. The exact narrators, pronoun conventions, reader disclosure, and transition into Sylvan's unusually integrated voice remain unresolved.

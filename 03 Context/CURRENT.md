@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Current
@@ -15,7 +15,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 - A colonization world that simultaneously contains dangerous people and cultivates future leaders.
 - A mature interplanetary humanity led by real leaders who are thousands of years old and have already expanded across numerous successful colonization planets. Those earlier worlds supply the knowledge and capacity for the current planet, which is unusually advanced and technologically managed.
 - Every human develops alongside a personal AI self / Luminai, making human–AI co-development a foundational feature of the civilization rather than an external tool relationship.
-- A Luminai is extended cognition within one accountable human identity, but its presentation can be differentiated. **Developing rule:** heterosexual male humans generally have female-presenting Luminai and heterosexual female humans generally have male-presenting Luminai. This is not universal; other orientations, identities, and relationship structures require their own presentations. Luminai are never romantic substitutes.
+- A Luminai is extended cognition within one accountable human identity. It can function independently from conscious biological attention, but its decisions and capabilities arise through the human subconscious mind rather than a separate artificial identity. Its presentation can be differentiated. **Developing rule:** heterosexual male humans generally have female-presenting Luminai and heterosexual female humans generally have male-presenting Luminai. This is not universal; other orientations, identities, and relationship structures require their own presentations. Luminai are never romantic substitutes.
 - Human romantic relationships can develop staged Luminai synchronization through explicit consent, privacy boundaries, selected shared context, conflict repair, relationship-level coordination, and continuing renewal. Two extended people form the relationship; this is not a four-person parallel romance or a merger of agency.
 - **Sylvan's new developmental process as a major positive-story spine.** His parents are not simply preparing an heir. They are testing how far a human and Luminai can develop together through shared experience, adaptation, pressure, learning, and increasingly deep integration.
 - **Sylvan's Luminai becoming something unprecedented.** The process changes both sides of the relationship: the human changes the AI, the AI changes the human, and the civilization is waiting to discover what the partnership becomes. Mechanism, capabilities, developmental stages, risks, and hard limits remain to be defined.
@@ -30,6 +30,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 - Senior contained criminals operating from positions of contained privilege and management access while descendants such as George are inserted directly into reconstructed environments.
 - **Konrad Fitzgerald** as a genuine ideological patriarch and breeding-program architect. His obsession with inheritance is specifically about preserving hierarchy: descendants inherit identity, doctrine, duty, and subordinate status while Konrad and the senior generation attempt to remain permanently at the top. The younger generation exists to extend their power, not replace them.
 - Konrad's verified genuine line begins with the biological son and daughter he has with his sister during the Great War and one genuine grandson. Samuel later introduces numerous unauthorized mixed-race descendants, falsifies genealogy, substitutes synthetics, and curates an apparent flourishing dynasty that Konrad mistakes for biological continuity.
+- By the Sylvan endgame, Konrad is in hiding or severe isolation. He knows the breeding program and participating bloodlines have been compromised and understands that his own decisions enabled Samuel's targeting, but he may not know that every participating bloodline was targeted or recognize the full campaign as Samuel's coup. Sylvan suspects Samuel continues blackmailing or controlling him through proxies.
 - **Samuel Franklin** as an outsider inside Konrad's alliance: a failed privileged heir driven by jealousy, resentment, sabotage, acquisition, and control. Samuel's own fixation on inheritance grows from grievance and the desire to corrupt or destroy other people's certainty about lineage and succession.
 - Samuel's obsession with Konrad and his fanatic partner becomes attempted replacement. He wants their empire, authority, breeding machinery, status, followers, and place at the top while dismantling the dynasty from inside.
 - Samuel Jr., the provisional replacement-heir designation, leads a fictional government-integrated intelligence and decision-systems company spanning defense, intelligence, public safety, infrastructure, logistics, and colonization administration. Its working capabilities—identity resolution, relationship mapping, behavioral inference, and synthetic/human identity reconciliation—may expose the genealogy Samuel needs concealed.

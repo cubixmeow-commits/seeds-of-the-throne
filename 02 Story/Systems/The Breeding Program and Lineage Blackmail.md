@@ -150,6 +150,14 @@ Sylvan's evidence can establish a pattern through several mutually reinforcing l
 
 The strongest proof does not depend upon publicly naming every child. Sylvan can establish system-wide abuse through authenticated counts, anonymized record comparisons, independent custodians, and selected disclosures with consent.
 
+## Konrad's partial awareness and isolation
+
+By the endgame, Konrad knows enough about the compromised program and targeted bloodlines to understand that his own decisions made Samuel's abuse possible. He has withdrawn into hiding or severe isolation rather than confronting the entire pattern publicly.
+
+He may still believe the known violations are limited, exceptional, or directed at particular branches. It remains unresolved whether he knows that Samuel targeted every participating bloodline or recognizes the campaign as a coup against the Fitzgerald dynasty and the wider organization.
+
+Sylvan suspects Samuel maintains leverage over the isolated Konrad through proxies. This would allow Samuel to continue using Konrad's fear, authority, and culpability without exposing himself through direct contact. The proxy mechanism and proof remain unresolved.
+
 ## Sylvan's ethical test
 
 Indiscriminate exposure would repeat the King's treatment of people as genealogical material. Sylvan must distinguish:
@@ -190,6 +198,8 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - Konrad's surrender of the program to Samuel makes him culpable in the system that ultimately violates his own family.
 - Sylvan possesses evidence linking reproductive abuse, lineage fraud, blackmail, political obedience, succession, and False Victory.
 - Sylvan should prove the system without indiscriminately exposing children or private parentage.
+- By the endgame, Konrad knows the program has been compromised and understands that his own choices enabled the targeting, but his knowledge of its full organization-wide scope remains unresolved.
+- Konrad is in hiding or severe isolation, and Sylvan suspects Samuel is blackmailing or controlling him through proxies.
 
 ## Open questions
 

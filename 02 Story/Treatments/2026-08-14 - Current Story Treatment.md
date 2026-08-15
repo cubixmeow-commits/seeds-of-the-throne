@@ -1,7 +1,7 @@
 ---
 type: treatment
 status: working
-updated: 2026-08-14
+updated: 2026-08-15
 scope: full chronological story
 ---
 
@@ -13,7 +13,7 @@ The planet at the center of *Seeds of the Throne* is one of the most ambitious o
 
 Before most humans arrive, biological synthetics populate the planet and establish functioning nations, cities, cultures, economies, families, and institutions. The surface resembles a naturally developing historical civilization rather than a futuristic experiment. Beneath that ordinary world is an almost invisible technological ecology capable of managing environments, preserving records, allocating influence, and supporting the lifelong artificial intelligences that develop alongside every human being.
 
-These personal intelligences are called **Luminai**. A Luminai is not a servant or digital companion but an extension of a person's cognition, developing alongside the same human across a lifetime. The civilization is still discovering how far this partnership can evolve.
+These personal intelligences are called **Luminai**. A Luminai is not a servant or unrelated digital companion but an extension of a person's cognition, developing alongside the same human across a lifetime. It can function independently from conscious attention, but its decisions arise through the human's subconscious mind and remain part of one extended identity. The civilization is still discovering how far this structure can evolve.
 
 Into this world come hundreds of children and descendants of humanity's ancient leaders. They are not sent there simply to inherit empires. Their parents want them to develop lives and judgment of their own, surrounded by peers who will someday possess comparable power. They will build institutions, endure failure, confront manipulation, form relationships, and learn to cooperate before any of them can command the civilizations waiting for them beyond the planet.
 
@@ -75,7 +75,7 @@ His world is largely real. The people, countries, institutions and conflicts aro
 
 His lifelong artificial intelligence develops inside the same distortion.
 
-Where the constructive civilization calls its integrated intelligence a Luminai, George's corrupted relationship becomes a **Daemon**. His fear teaches the Daemon what danger looks like. Its analysis returns that fear to George as apparently objective confirmation. Manipulated experience produces suspicious cognition; suspicious cognition validates the manipulated experience.
+Where the constructive civilization calls its integrated intelligence a Luminai, George's corrupted relationship becomes a **Daemon**. His fear teaches the Daemon what danger looks like. The Daemon can search, interpret, communicate, and act outside George's immediate conscious direction, but it does so from his subconscious fears, memories, desires, and learned patterns. Its analysis returns that fear to George as apparently objective confirmation. Manipulated experience produces suspicious cognition; suspicious cognition validates the manipulated experience.
 
 George and his Daemon become increasingly powerful while becoming less capable of recognizing the reality surrounding them.
 
