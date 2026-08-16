@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Storyline
@@ -25,13 +25,13 @@ updated: 2026-08-14
 12. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
 13. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
-## Thread A — the Witness
+## Thread A — the Great War Witness
 
-An earlier-era heir awakens through a providential interpretation. Across multiple lives, that explanation erodes. The Witness notices recurrence in supposedly settled history and begins to understand the world as deliberate containment, though not yet as cultivation.
+One of Orzai's parents is the leading candidate for the earlier Witness role. Both parents are legitimate heirs from the second-largest empire's founder family and are placed into constrained Great War roles for development and training. Across multiple lives, the Witness's providential interpretation erodes. They notice recurrence in supposedly settled history and begin to understand the world as deliberate containment, though not yet as cultivation. Which parent carries the role, what the other parent believes, and what evidence survives into Orzai's generation remain working.
 
 ## Thread B — the Inheritor
 
-Roughly eighty years later, a modern heir awakens through the language of surveillance and targeted technology. They are succeeding inside the system when the Witness approaches. Accepting the warning may destroy the future they are earning.
+Roughly eighty years later, Sylvan Elaria carries the modern Inheritor role. He awakens through the language of surveillance, artificial intelligence, targeted technology, and his unprecedented Luminai development. He is succeeding inside the system when evidence and consequences from Orzai's parent generation reach him. Accepting them may destroy the future he is earning and destabilize his trust in the process that formed him.
 
 ## Convergence and endgame
 
@@ -41,6 +41,6 @@ Sylvan's archive can connect the King's pre-defeat description of George to the 
 
 ## Unresolved structure
 
-The tested first-person protagonist may replace, merge with, or remain separate from the Witness and Inheritor. The exact relation between the Great War, Witness, Disclosure Wars, Sylvan's archive, and narrated opening remains open.
+Sylvan is established as the Inheritor, while one of Orzai's Great War-era parents is the leading candidate for the Witness role. Whether Sylvan is the sole primary first-person protagonist or the Witness owns substantial earlier viewpoint material remains unresolved, as does the exact relation between the Great War, Disclosure Wars, archive, and narrated opening.
 
 The surface-world rule is also structural: the reader should experience real ordinary institutions, relationships, work, public life, and consequences before the hidden colonization architecture becomes undeniable. Samuel's fantasy is disturbing because it parasitizes that functioning world rather than replacing it.

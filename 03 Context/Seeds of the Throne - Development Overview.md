@@ -1,7 +1,7 @@
 ---
 type: development-overview
 status: active
-updated: 2026-08-13
+updated: 2026-08-15
 ---
 
 # Seeds of the Throne — Development Overview
@@ -170,10 +170,10 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 
 ### Protagonist structure
 
-- Is Sylvan the tested first-person Protagonist?
-- Is he the modern Inheritor under a developed identity?
-- Is the Witness a separate earlier narrator, Sylvan's prior identity, or superseded architecture?
-- Are there one, two, or three principal viewpoint characters?
+- Sylvan is established as the modern Inheritor and leading primary protagonist.
+- Orzai is established as Sylvan's intended partner, belongs to his generation, and is slightly younger than him. She is not the Witness.
+- One of Orzai's Great War-era parents is the leading candidate for the earlier Witness role.
+- Is Sylvan the sole primary first-person narrator, or does the Great War Witness own substantial earlier viewpoint material?
 
 ### Opening
 
@@ -230,7 +230,7 @@ Research remains advisory. Findings become story material only through deliberat
 
 ### 1. Choose the protagonist architecture
 
-Determine how Sylvan relates to the Witness, Inheritor, and existing first-person Protagonist. This controls the opening, timeline, and reader's information path.
+Determine whether Sylvan is the sole primary first-person protagonist or the Great War Witness owns substantial earlier viewpoint material, and establish how evidence from Orzai's parent generation reaches the modern Inheritor thread. This controls the opening, timeline, and reader's information path.
 
 ### 2. Define Sylvan before defining more systems
 
@@ -271,4 +271,4 @@ The session should end with provisional answers to:
 
 ## Continuity warning
 
-The August 6 Witness/Inheritor/Protagonist architecture and the August 7–8 Sylvan/George/Throne architecture have not yet been deliberately reconciled. Both remain valuable, but they should not be treated as automatically compatible until the protagonist decision is made.
+The earlier two-thread architecture is now partially reconciled with the Sylvan/George/Samuel architecture: one of Orzai's Great War-era parents is the leading candidate for the Witness role, and Sylvan carries the Inheritor role. Orzai belongs to Sylvan's generation and is slightly younger than him. The remaining structural decisions are which parent is the Witness, viewpoint ownership, and how the earlier evidence reaches the modern investigation.

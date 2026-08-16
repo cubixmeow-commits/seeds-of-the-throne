@@ -9,13 +9,13 @@ updated: 2026-08-15
 ## Newly surfaced from the 2026-08-14 treatment pass
 
 - How does George's roughly seventy-five-year progression through public identities fit within the approximately eighty-year False Victory middle and the broader century-to-120-year span from first human integration to disclosure? These appear to be distinct clocks, but their anchors still need to be mapped.
-- Which of the four provisional middle eras contains the Witness thread, and how does its chronology connect to the later Inheritor thread without collapsing either into a placeholder?
+- Which of the four provisional middle eras contain the Great War Witness thread, which of Orzai's parents carries it, and how does its evidence reach Sylvan's later Inheritor thread?
 - Which bridge episodes are essential causal events rather than optional historical texture, and which characters own the milestone arcs?
 - What ordinary institutions, careers, family routines, and public crises will carry the surface-reality principle through the middle without making every visible event a hidden operation?
 
 ## Structural
 
-- Are the Witness, Inheritor, and Protagonist two characters or three?
+- Is Sylvan the sole primary narrator, or does the Great War Witness own substantial earlier viewpoint material before the generational threads meet?
 - Are the Disclosure Wars prior history, the main plot, or a pressure still unfolding?
 - What event starts the modern thread?
 - What specifically does the protagonist lose before victory?
@@ -89,5 +89,8 @@ updated: 2026-08-15
 ## World and cast
 
 - What are the principal characters, groups, nations, and institutions actually called?
+- Which cross-couple are Orzai's parents, which parent carries the Witness role, and what independent life and ambitions does Orzai have before choosing Sylvan?
+- What is Orzai's older brother called, what company receives his developmental placement, and how does its mandate and oversight differ from Samuel Jr.'s company?
+- Do Orzai's brother and Samuel Jr. cooperate, compete, audit one another, or independently expose different portions of the same hidden system?
 - What concrete behavioral signature reveals recurrence?
 - Which invented alliance lost the foundational war, and what happened to its leadership?

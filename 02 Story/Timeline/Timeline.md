@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: working
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Timeline
@@ -35,12 +35,13 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
     - The breeding and lineage program persists inside containment. Samuel uses unauthorized reproduction, numerous mixed-race descendants, genealogy fraud, synthetic substitutions, and certification control while Konrad believes his dynasty is flourishing.
     - Samuel's unauthorized interventions include the established use of George and Konrad's daughter; their exact relationship to the genuine grandson and later branches remains unresolved.
     - Samuel creates the provisional replacement heir Samuel Jr. with Konrad's sister and eventually positions him over a government-integrated intelligence and decision-systems company.
-    - The Witness lives through one or more earlier-era identities. The dated middle-architecture and bridge notes provide working milestones but do not yet lock the Witness's placement or the events' order.
+    - One of Orzai's parents provisionally carries the working Witness role through one or more earlier-era identities. Both parents belong to the founder children's Great War development generation. The dated middle-architecture and bridge notes provide working milestones but do not yet lock which parent carries the role or the events' order.
 
 21. Samuel's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
-22. Roughly eighty years after the Witness's war-era thread, the Inheritor enters the modern thread.
-23. Sylvan accumulates evidence connecting original events, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
-24. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
+22. Roughly eighty years after the Great War Witness thread, Sylvan Elaria enters the modern thread as the Inheritor. Orzai belongs to his generation and is slightly younger than him.
+23. Orzai's older brother, approximately a decade older than Sylvan, serves in a developmental placement inside a consequential company comparable to the government-integrated decision-systems company associated with Samuel's replacement heir.
+24. Sylvan accumulates evidence connecting original events, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
+25. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
 
 ## Visual chronology rules
 
@@ -55,4 +56,4 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 - Konrad's unnamed senior partner: approximately 300 chronologically.
 - Legitimate real leaders: multiple millennia old.
 
-Open: exact calendar dates; how George's roughly 75-year progression through public identities fits within the approximately 80-year False Victory middle and the broader century-to-120-year integration-to-disclosure clock; Samuel's precise age at each pre-containment transition; Konrad's apparent age and entry date; the genuine grandson's parentage; George's placement and exact position in the revised genealogy; Samuel Jr.'s company chronology; the Witness's position relative to the Great War; whether the Disclosure Wars are historical or present action; and where the final public victory belongs.
+Open: exact calendar dates; how George's roughly 75-year progression through public identities fits within the approximately 80-year False Victory middle and the broader century-to-120-year integration-to-disclosure clock; Samuel's precise age at each pre-containment transition; Konrad's apparent age and entry date; the genuine grandson's parentage; George's placement and exact position in the revised genealogy; Samuel Jr.'s company chronology; Orzai's brother's exact age and company chronology; which of Orzai's parents carries the Witness role and their exact Great War placements; Orzai's exact age and founder-family branch; whether the Disclosure Wars are historical or present action; and where the final public victory belongs.

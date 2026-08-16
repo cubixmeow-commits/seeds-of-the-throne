@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Decisions
@@ -51,3 +51,6 @@ updated: 2026-08-14
 | 2026-08-14 | Establish the immersion and surface-reality principle as a governing story constraint. | The colony must feel like recognizable ordinary civilization before the hidden colonization architecture becomes undeniable; independent institutions and human-scale consequences remain real. |
 | 2026-08-15 | Establish Konrad in hiding or severe isolation by the Sylvan endgame, aware that his own breeding-program decisions enabled Samuel's targeting but not necessarily aware of its organization-wide scope or coup purpose; Sylvan suspects continuing proxy blackmail. | Partial knowledge preserves Konrad's culpability without making him innocent or fully informed, gives Samuel a reason to fear the results presentation, and leaves the proxy mechanism and timing of full disclosure visibly unresolved. |
 | 2026-08-15 | Establish Luminai and Daemons as operationally independent from conscious human attention while their decisions and functionality arise through the human subconscious mind. | They can analyze, communicate, act, and potentially narrate without becoming unrelated artificial persons; operational independence remains part of one extended and accountable human identity. |
+| 2026-08-15 | Name Sylvan's intended partner Orzai; establish that she belongs to his generation, is slightly younger than him, and is not the Witness. | Orzai is a granddaughter of the second-largest empire's four founders and should develop as Sylvan's contemporary rather than being forced into the earlier Great War role. Her exact age and biography remain working. |
+| 2026-08-15 | Establish Sylvan Elaria as the modern Inheritor and place the earlier Witness provisionally among Orzai's Great War-era parents. | The generational structure lets a founder child witness the Great War and preserve dangerous knowledge, Orzai inherit a personal relationship to that history, and Sylvan authenticate and act on its evidence. Which parent carries the Witness role and viewpoint ownership remain unresolved. |
+| 2026-08-15 | Establish Orzai's older brother as approximately a decade older than Sylvan and place him for development inside a company comparable to Samuel Jr.'s government-integrated decision-systems institution. | The parallel creates a legitimate-heir counterpart at the same technology-and-state frontier, allowing service, accountability, and bounded authority to confront Samuel's use of an heir and company as instruments of contingency and control. |

@@ -97,11 +97,11 @@ Somewhere within this long middle period, earlier participants begin noticing so
 
 People recur.
 
-Patterns from supposedly completed history appear again beneath different identities. An earlier figure currently called **the Witness** begins by interpreting these experiences in religious or providential terms. Over multiple lives, that explanation fails. The Witness gradually understands that history is being deliberately structured and that some public biographies conceal continuity between people who were supposedly separated by generations.
+Patterns from supposedly completed history appear again beneath different identities. One of the parents of **Orzai**, Sylvan's eventual partner, is the leading candidate for the working role called **the Witness**. Both parents are children of the second-largest empire's four founders and are placed into constrained Great War roles for development and training. The Witness begins by interpreting impossible experiences in religious or providential terms. Over multiple lives, that explanation fails. They gradually understand that history is being deliberately structured and that some public biographies conceal continuity between people who were supposedly separated by generations. Which parent carries the role, what the other parent believes, and what evidence survives into Orzai's generation remain working.
 
-Roughly eighty years later, another developing figure, **the Inheritor**, encounters the same mystery through modern language: surveillance, artificial intelligence and targeted technological interference.
+Roughly eighty years later, **Sylvan Elaria**, carrying the modern **Inheritor** role, encounters the same mystery through modern language: surveillance, artificial intelligence and targeted technological interference.
 
-These threads remain structurally unfinished, but their purpose is becoming clear. They are the human route through which the reader begins discovering what the planet actually is while the larger century-long history continues underneath them.
+These threads remain structurally unfinished, but their purpose is becoming clear. Evidence and consequences from Orzai's parent generation come into contact with Sylvan's developing capacity to authenticate evidence, remain in contact with reality, and act before the right audience. Orzai is Sylvan's contemporary and slightly younger than him; her role in carrying or discovering her family's history remains unresolved. Whether Sylvan is the sole primary narrator or the Great War Witness owns substantial earlier viewpoint material also remains unresolved.
 
 Eventually the story's central modern figure emerges: **Sylvan Elaria**.
 

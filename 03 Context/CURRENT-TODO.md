@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Current Brainstorming To-Do
@@ -20,11 +20,11 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 5. [ ] **Map and name the founders' four children.** Each founder couple has one son and one daughter. Define the four-person first family generation, the two cross-couple relationships, their personalities, specialties, and Great War placements.
 
-6. [ ] **Design the four children's Great War roles.** Place the founders' two sons and two daughters into constrained political, religious, institutional, or other public roles where they must confront the contained faction's authoritarianism and mass abuses without possessing unlimited power.
+6. [ ] **Design the four children's Great War roles.** Place the founders' two sons and two daughters into constrained political, religious, institutional, or other public roles where they must confront the contained faction's authoritarianism and mass abuses without possessing unlimited power. Determine which of Orzai's parents carries the Witness role and what role the other parent plays in believing, doubting, corroborating, or being endangered by that knowledge.
 
-7. [ ] **Map the four grandchildren.** Each cross-couple has one son and one daughter. Define the two grandsons and two granddaughters, then identify which granddaughter becomes Sylvan's partner. All four grandchildren descend from both founder couples.
+7. [ ] **Map the four grandchildren.** Each cross-couple has one son and one daughter. Define the two grandsons and two granddaughters, then determine which cross-couple are Orzai's parents. All four grandchildren descend from both founder couples. Orzai is established as Sylvan's partner; her older brother is approximately a decade older than Sylvan and receives a consequential company placement.
 
-8. [ ] **Develop Sylvan's partner as a person.** Give her a name, worldview, capabilities, upbringing, relationships, independent ambitions, and reason for choosing Sylvan. Her relationship with him should work personally before it functions as a symbol of eventual cooperation or union between the two great empires.
+8. [ ] **Develop Orzai as a person.** Her name, place in Sylvan's generation, slightly younger relative age, and intended role as Sylvan's partner are established. She is not the Witness. Define her worldview, capabilities, upbringing, relationship to her parents' Great War history, independent ambitions, contribution to the archive, and reason for choosing Sylvan. Her relationship with him should work personally before it functions as a symbol of eventual cooperation or union between the two great empires.
 
 9. [ ] **Define Sylvan's parents and their one-child decision.** Establish the male and female leaders of the largest empire, their history, their role in colonization, why they chose one son, and what they believe Sylvan's unusual process can prove.
 
@@ -64,7 +64,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 25. [ ] **Define the order of George's final discoveries.** Decide when he learns that the empire lost, his successes were manufactured, his father is still controlling his perceptions, the final fight was unwinnable, another heir exists, and that his father may have deliberately sent him to be destroyed.
 
-26. [ ] **Resolve the Witness / Inheritor / Protagonist structure enough to write.** Decide who owns the reader's primary POV, who carries dangerous historical knowledge, and who represents the new heir generation. They may still be two or three people.
+26. [ ] **Resolve the Witness / Sylvan viewpoint structure enough to write.** One of Orzai's Great War-era parents is the leading candidate to carry dangerous historical knowledge; Sylvan carries the modern Inheritor role. Decide whether Sylvan is the sole primary narrator or the Witness owns substantial earlier viewpoint material, then define how the evidence reaches Orzai and Sylvan.
 
 27. [ ] **Define the project's writing registers.** Create a dynamic style framework for: (a) clear and vivid vault/development documentation, (b) sharper cinematic X/public material, and (c) exploratory scene/dialogue development. Do not turn any AI register into the mandatory voice of the final fiction.
 
@@ -75,6 +75,8 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 30. [ ] **Resolve Konrad's verified genealogy.** Decide which child produces the genuine grandson, map what remains biological afterward, and define how Samuel's unauthorized descendants, falsified records, and synthetic substitutions create the false flourishing dynasty.
 
 31. [ ] **Build Samuel Jr. and his company.** Name the replacement heir and his fictional government-integrated decision-systems company; define products, oversight, government dependence, colonization role, loyalties, and whether identity resolution exposes Samuel's hidden genealogy.
+
+31a. [ ] **Build Orzai's older brother and the legitimate company counterpart.** Name him and the company; define his bounded role, products or institutional mandate, oversight, government relationship, development purpose, and whether his systems cooperate or collide with Samuel Jr.'s company while exposing the hidden genealogy.
 
 32. [ ] **Test the visual-generation production section.** Build one environment packet, one technology packet, one multi-character scene, one three-frame sequence, and one short video/voice continuity test using approved identity references.
 
