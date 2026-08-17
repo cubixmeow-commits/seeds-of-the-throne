@@ -2,9 +2,9 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-13
+updated: 2026-08-17
 character: Samuel Franklin
-roles: contained criminal, future King, Throne founder, failed privileged heir
+roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
 
 # Samuel Franklin
@@ -13,99 +13,165 @@ roles: contained criminal, future King, Throne founder, failed privileged heir
 
 **Samuel Franklin** is the permanent name of the contained criminal who becomes the King at the center of the Throne.
 
-Samuel is born into a wealthy and exceptionally successful family of technology leaders in the older human civilization. His parents help build major software, AI, institutional, or technological systems. Their position gives Samuel access to education, wealth, networks, consequential tools, and a plausible path toward legitimate leadership.
+Samuel is born into a wealthy and powerful family inside **Konrad Fitzgerald's authoritarian purity movement** in the older civilization. His parents are true believers in bloodline purity, hereditary hierarchy, fascist social order, and the larger Fitzgerald project. Their wealth, technological access, institutional standing, and proximity to Konrad give Samuel extraordinary opportunity and a plausible path toward privileged status inside the organization.
 
-He fails that opportunity.
+He destroys that position through his own conduct.
+
+## Exile from the Fitzgerald order
+
+Samuel's parents discover conduct they regard as intolerable and disgraceful, including a sexual relationship with an underage girl and additional serious transgressions that remain to be developed. The exact legal, cultural, and organizational circumstances remain working, but Samuel is not exiled merely for ideological disagreement. He has committed real wrongdoing.
+
+His parents and the wider Fitzgerald organization cast him out.
+
+The exile becomes one of the central wounds of Samuel's life. He does not interpret it as accountability. He experiences it as humiliation, dispossession, and theft of the inheritance he believes should have been his. The organization that taught him to worship hierarchy, bloodline, continuity, and inherited status declares him unworthy of belonging to its own line.
+
+Samuel never truly forgives them.
+
+## Fall into the American-equivalent containment environment
+
+After exile, Samuel eventually falls into containment inside the large pluralistic empire that functions as the story's equivalent of America and later becomes the principal victor of the Great War.
+
+This places Samuel inside the very environment his parents, Konrad, and the Fitzgerald organization are later attempting to defeat.
+
+Samuel therefore acquires something they do not possess: experience with the containment environment, its institutions, social logic, procedures, incentives, story functionality, and opportunities for influence. He is still constrained and genuinely contained, but relative familiarity becomes a strategic advantage once his former organization arrives.
+
+His exact path from exile into formal containment remains unresolved and should be built out separately. The important established structure is:
+
+**Fitzgerald insider -> serious misconduct -> family exposure -> exile -> fall into containment in the American-equivalent empire -> estranged insider with knowledge of both worlds.**
+
+## Sabotage during the Great War
+
+While Konrad Fitzgerald's organization attempts global conquest, Samuel maintains or reopens relationships with his parents and other people inside the movement.
+
+He presents himself as someone who wants reconciliation, forgiveness, restoration, or eventual readmission. In reality, revenge and ambition increasingly shape the relationship.
+
+Samuel uses his position inside the future victorious containment environment to sabotage the organization that expelled him. The exact operations remain to be developed, but the strategic principle is established: **Samuel contributes to the collapse of his parents' movement while allowing them to believe he wants back in.**
+
+He can exploit family trust, private knowledge, institutional vulnerabilities, communications, strategic assumptions, or information available from inside the future victor. The sabotage should not single-handedly explain the Great War defeat; Konrad's organization loses because its own authoritarian project fails. Samuel's betrayal is an additional internal wound that accelerates or deepens the collapse.
+
+## The defeated organization falls into containment with him
+
+After the Great War, Konrad Fitzgerald, his senior partner, Samuel's parents, and other surviving leaders of the defeated organization are processed into containment roles inside the victorious American-equivalent empire.
+
+They therefore fall into an environment Samuel already knows.
+
+This reversal is foundational to Samuel's later rise. Before the war, Samuel was the disgraced son begging or pretending to beg for reentry. After the war, the people who expelled him arrive defeated, disoriented, and dependent inside the environment where he possesses greater local knowledge.
+
+Samuel hides the depth of his sabotage and presents himself as useful.
+
+He claims he can help them understand the new environment, preserve the organization, recover influence, protect bloodlines, navigate containment, and eventually regain what was lost. The defeated leaders mistake his familiarity for loyalty and his assistance for reconciliation.
+
+Samuel is not trying to rejoin the Fitzgerald order as a subordinate.
+
+He is beginning to take it over.
+
+## Revenge against the bloodlines
+
+Samuel's later targeting of the Fitzgerald breeding program is rooted directly in exile.
+
+The movement expelled him from a social world obsessed with bloodline, inheritance, purity, and dynastic belonging. Samuel eventually decides that the most devastating revenge is not merely to kill its leaders or expose their hypocrisy. It is to gain control of the institution through which they define who belongs to their families at all.
+
+He targets their bloodlines because bloodline is what they treated as sacred when they cast him out.
+
+This gives his reproductive and genealogical crimes a personal architecture:
+
+- they denied Samuel legitimate belonging;
+- Samuel gains authority over who is certified as belonging to them;
+- they treated ancestry as permanent truth;
+- Samuel makes ancestry manipulable;
+- they cast him out to preserve the order;
+- Samuel enters the order through its reproductive machinery and begins replacing it from inside.
+
+## Control of Konrad's breeding program
+
+Repeated inbreeding creates hereditary damage or another biological limitation the faction cannot publicly acknowledge. Admitting the problem would undermine its doctrine.
+
+Samuel offers the solution.
+
+Because he appears to have returned as a useful insider and because he possesses technical and procedural knowledge gained during containment, Konrad allows him access to advanced reproductive intervention, genetic material, hidden genealogy, certification records, technical personnel, and succession decisions.
+
+Samuel turns that access into a long-term coup.
+
+He arranges unauthorized reproductive interventions, falsifies genealogies, introduces descendants the faction's doctrine would reject, uses biological synthetics and substitutions, creates hidden parentage, and builds individualized blackmail around families that believe their cases are isolated.
+
+The program becomes the instrument through which Samuel takes revenge on the people who exiled him and appropriates the hierarchy that once rejected him.
+
+## Trying to become Konrad
+
+Samuel's objective evolves beyond revenge.
+
+At first he wants to hurt the people who expelled him. Then he discovers that controlling their bloodlines gives him something larger: the power to define the organization's past, present, and future.
+
+He becomes fixated on **Konrad Fitzgerald's position**.
+
+Konrad possesses what Samuel never had: doctrinal legitimacy, a sacred family line, followers trained to recognize hierarchy, a breeding apparatus, a historical narrative, and a permanent place at the top. Samuel begins by sabotaging that system and gradually starts trying to inhabit it.
+
+He does not merely want Konrad defeated. He wants to become the person whose interpretation determines what the Fitzgerald order is.
+
+The eventual Throne is therefore partly an attempted replacement of Konrad's authority by the man Konrad's organization once cast out.
+
+## Performed loyalty and the central deception
+
+Samuel's most important deception toward the defeated organization is that he still wants acceptance.
+
+He lets his parents and Konrad believe exile taught him obedience or that defeat has reunited them against a common enemy. He can express remorse selectively, preserve familiar rituals, defend portions of their doctrine when useful, and present himself as the only person capable of helping them survive containment.
+
+In reality, Samuel's relationship to the movement is parasitic and vengeful. He understands its hierarchy well enough to imitate loyalty while steadily converting dependence into personal control.
+
+The contained faction initially believes Samuel is fundamentally one of them.
+
+They are wrong.
 
 ## Chronological age
 
-Samuel is approximately **220 years old** at the final showdown with Sylvan. The exact birth year remains working, but the scale and order are established:
+Samuel is approximately **220 years old** at the final showdown with Sylvan. The exact birth year remains working.
 
-- roughly twenty years of childhood and early privilege before his independent campaign takes shape;
-- approximately fifty years of escalating criminal activity and distributed terror;
-- roughly twenty to thirty years of exposure, capture, processing, and integration;
-- approximately a century, potentially closer to 120 years, inside the current planet's colonization process before the showdown.
+Samuel is substantially younger than Konrad Fitzgerald and Konrad's senior partner, who are each approximately three hundred at the showdown. He is vastly younger than the legitimate real leaders, whose lives extend across multiple millennia and waves of planetary expansion.
 
-His approved visual appearance in his late sixties to early seventies is an apparent age, not his chronological age. Defeated aging and the process's embodied identities allow those ages to differ.
-
-Samuel is substantially younger than Konrad Fitzgerald and Konrad's senior partner, who are each approximately three hundred at the showdown. He is vastly younger than the legitimate real leaders, whose lives extend across multiple millennia and multiple waves of planetary expansion.
-
-Samuel manipulates his family, abuses access created by their achievements, and commits serious wrongdoing. He is genuinely busted and processed into containment because of his own conduct. His parents' success explains how he could reach systems capable of causing extraordinary harm; it does not transfer responsibility away from him.
-
-## The first cult and the stolen legacy
-
-Before becoming the King inside containment, Samuel builds an earlier cult-like organization using resources and credibility taken from his family.
-
-He manipulates his parents and gains control over some combination of their wealth, technology, institutional relationships, infrastructure, or public authority. He presents inherited access as evidence of personal importance and uses the trusted Franklin name to attract followers, secure cooperation, and make his organization appear more legitimate than it is.
-
-The organization spreads across multiple places and terrorizes large groups of people during a rampage lasting approximately half a century. Samuel's danger is therefore established before the city, the Great War, and the False Victory. Containment does not manufacture his authoritarian behavior; it gives an already dangerous organizer a controlled environment in which his choices can be observed, limited, and ultimately exposed.
-
-Samuel also damages his parents through attribution. Outsiders cannot easily distinguish his movement from the legitimate systems, wealth, and institutions that made his rise possible. His conduct destroys much of the family's good name and makes their earlier achievements appear complicit in his campaign.
-
-## His parents' intervention
-
-Samuel's parents eventually participate in exposing him, ending his rampage, and getting him processed into containment.
-
-Their motives combine public responsibility with the need to recover credibility. They want to stop the people being harmed, prevent Samuel from continuing to use their resources, and establish that his cult is not an authorized continuation of their work. Demonstrating that Samuel acted through manipulation and appropriation gives them a path toward separating their legacy from his crimes.
-
-Their involvement should remain morally textured rather than automatically exonerating. It remains unresolved whether they enabled him through denial, protected him too long, failed to supervise dangerous access, or initially prioritized the family name over victims. Ending his campaign can be both the right action and an attempt to repair damage they allowed to grow.
+His approved visual appearance in his late sixties to early seventies is an apparent age, not his chronological age.
 
 ## Failed succession
 
-Samuel is a failed privileged heir rather than a person denied every opportunity. He mistakes proximity to achievement for authorship of it and inheritance for proof of fitness.
+Samuel is a failed privileged heir rather than a person denied every opportunity.
 
-The distinction becomes central to his psychology. The real leaders' heirs receive demanding preparation, genuine responsibility, shared struggle, and opportunities to become happy and capable before inheriting civilization-scale authority. Samuel wants the standing produced by that process without accepting its obligations or tests.
+He is raised inside a movement that teaches him inherited hierarchy matters enormously, but when his own conduct leads to exile, he interprets accountability as illegitimate dispossession. He mistakes proximity to power for entitlement to power and later converts humiliation into a campaign against everyone else's inheritance.
 
-He later attempts to manufacture through political theater what he failed to earn through competence. His kingship is therefore partly an autobiographical fraud: a failed successor presenting himself as the founder of a dynasty.
+This sharpens the contrast with legitimate heirs such as Sylvan. Sylvan receives extraordinary inherited opportunity but is expected to develop competence, accept tests, form independent judgment, and eventually become a leader in his own right. Samuel wants inherited standing without accountability and reacts to exclusion by trying to corrupt succession itself.
 
-## Route into containment
+## Relationship with his parents
 
-Samuel's family position creates the route by which he is discovered and processed. He has enough access to commit abuses with consequences large enough to trigger intervention by the older civilization.
+Samuel's parents are not merely wealthy victims of his appropriation. They are members of Konrad's organization and committed participants in its authoritarian purity project.
 
-The broad initiating pattern is established: Samuel manipulates family resources, builds a cult-like organization, terrorizes populations in multiple places, and appropriates his parents' credibility. The exact offenses, technologies, locations, and sequence remain unresolved. They should connect his early conduct to later patterns without making his entire history feel predetermined. Useful mechanisms include abuse of advanced AI, manipulation of identity or reproductive systems, coercive control through private technological infrastructure, theft of institutional authority, or an early attempt to build a closed environment around other people.
+They expose Samuel's misconduct and participate in exiling him, but their reasons may mix genuine horror, family shame, ideological purity, political self-protection, and fear that Samuel's conduct threatens their standing inside the movement.
 
-Whatever the specific offense becomes, three facts are established:
+Later, Samuel reopens contact while they participate in the Great War. He convinces them that he wants reconciliation or readmission while secretly using the relationship to sabotage their movement.
 
-1. Samuel possesses extraordinary inherited opportunity.
-2. Samuel knowingly abuses that opportunity.
-3. He converts captured family resources and credibility into a dangerous distributed cult.
-4. His parents ultimately help expose and stop him while trying to separate their legacy from his organization.
-5. His processing into containment is real, justified by his conduct, and later concealed beneath his invented royal mythology.
+After defeat, when his parents fall into containment with the rest of the organization, the relationship becomes even more psychologically charged. They helped cast him out; now they arrive in the environment where he has accumulated experience and leverage.
 
-## Performed royalty
-
-Samuel does not begin as royalty. He builds that identity inside containment.
-
-He converts stewardship of a city into national capture, attempts global conquest, loses everything, and then transforms George's placement in the victorious republic into the False Victory. His followers eventually treat strategic claims, lineage control, public roles, and long containment seniority as evidence that Samuel possesses dynastic authority.
-
-The name **Samuel** remains important because it is respectable and recognizably human. He does not require a supernatural name. The terror comes from an ordinary failed heir persuading people that entitlement, secrecy, and control make him a god-ruler.
+Their exact later fate, degree of dependence on Samuel, knowledge of his betrayal, and role in his eventual exposure remain unresolved.
 
 ## Envy of legitimate heirs
 
-Samuel's conflict with Sylvan and the parent civilization is not merely political. Their heirs expose the difference between inherited opportunity and inherited entitlement.
+Samuel's conflict with Sylvan and the parent civilization remains deeply personal.
 
-Sylvan represents what Samuel wants others to believe Samuel is: a person born near extraordinary power who nevertheless develops real competence, accepts difficult tests, forms meaningful bonds, and earns trust. Samuel responds by trying to prove that every heir is secretly manufactured, compromised, or controllable.
+Sylvan represents what Samuel wants others to believe Samuel is: a person born near extraordinary power who develops real competence, survives difficult tests, forms meaningful bonds, and earns trust.
 
-His treatment of George and the unauthorized son repeats his own failed relationship to succession. He does not prepare children to become independent, capable, and happy. He constructs them as instruments meant to validate or replace him.
+Samuel responds by trying to prove that every heir is secretly manufactured, compromised, controllable, or fraudulent.
 
-## Obsession with Konrad's order
-
-Samuel's relationship to Konrad Fitzgerald and Konrad's still-unnamed fanatic partner exceeds tactical alliance and revenge. He is fascinated by the total structure they possess: an empire, doctrinal authority, followers trained to recognize hierarchy, a centralized breeding apparatus, sacred family status, and a permanent place at the top.
-
-He wants to expose and humiliate them, but he also wants to appropriate what they represent. Gaining control of their reproductive program lets him decide which descendants exist, which identities are certified, which family tree appears real, and which person can claim succession. Samuel increasingly behaves as if mastering their machinery makes him the true owner of the dynasty.
-
-This makes his sabotage imitative. He does not merely destroy Konrad's bloodline; he inserts his own descendants into it, manufactures false continuity around it, and attempts to replace Konrad as the authority who defines the family's past and future. The contradiction is central to Samuel: he hates inherited status because he failed to earn it, then tries to seize someone else's inherited order as proof that he belongs above everyone.
+His treatment of George and the unauthorized son repeats the same pathology. He does not prepare children to become independent and capable. He constructs them as instruments meant to validate, replace, or protect him.
 
 ## Open questions
 
-- Which specific cult operation finally causes Samuel to be busted?
-- What exact ages mark the start of his rampage, capture, integration, and arrival on the planet?
-- What did his parents build, and how much authority did they possess?
-- When did his parents recognize the danger, and how long did they protect or underestimate him first?
-- How much inherited wealth or technical access follows him into his first containment opportunity?
-- Which resources does Samuel successfully take from his parents, and which do they recover?
-- How does he make separate terror campaigns in multiple places feel like one movement to his followers?
-- What evidence finally lets his parents prove that Samuel, rather than their institutions, directed the campaign?
-- Does Samuel publicly claim royal ancestry, or does conquest itself become his entire claim?
-- Which failure involving his parents becomes the private humiliation he repeatedly reenacts through George and the other son?
-- At what point does Samuel recognize that revenge against Konrad has become a desire to replace him?
+- What are the exact additional acts, beyond the relationship with an underage girl, that lead Samuel's parents and Konrad's organization to exile him?
+- How old is Samuel when the exile occurs?
+- What does exile materially mean: loss of wealth, family name, citizenship, access, reproductive status, organizational membership, or several at once?
+- How does Samuel first fall into formal containment inside the American-equivalent empire?
+- Does the containment system know the full reason for Samuel's exile immediately, or does part of the case emerge later?
+- Which parent remains emotionally susceptible to Samuel's claim that he wants reconciliation?
+- What specific information or access does Samuel obtain through his parents during the Great War?
+- Which acts of sabotage materially contribute to Konrad's defeat without making Samuel solely responsible for it?
+- At what point does Samuel decide he no longer wants readmission and instead wants ownership of the organization?
+- When does revenge against his parents become revenge against every participating bloodline?
+- What exact hereditary problem lets Samuel obtain control of the breeding program?
+- When does Konrad first realize Samuel is not trying to save the Fitzgerald dynasty but replace its authority?
+- Does Samuel consciously formulate the goal 'become Konrad,' or does Sylvan recognize that pattern before Samuel does?
