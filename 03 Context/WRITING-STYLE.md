@@ -1,16 +1,16 @@
 ---
 type: context
-status: working
+status: active
 updated: 2026-08-17
 ---
 
 # Writing Style — Archive Thriller / Dark Historical Reconstruction
 
-## Current direction
+## Active project style
 
-Retire the earlier **Jurassic Park-style exposition** as the primary prose model. It can still inform occasional clarity or tour-like explanation, but it is no longer the house style for Seeds of the Throne.
+**Archive Thriller / Dark Historical Reconstruction is now the primary development writing style for Seeds of the Throne.**
 
-The new primary development register is **Archive Thriller / Dark Historical Reconstruction**.
+The earlier **Jurassic Park-style exposition is retired as a project register.** Do not use it as a default model for technical explanation, worldbuilding exposition, scene construction, or public-facing story material. Any clarity, accessibility, or sense of discovery previously associated with that reference should now be achieved inside the Archive Thriller framework rather than by reverting to the old style.
 
 The story should feel less like a technical thriller explaining a system and more like a historical conspiracy being reconstructed after the fact.
 
@@ -79,5 +79,7 @@ Samuel is no longer trying to rejoin Konrad's order.
 He is trying to become Konrad.
 
 ## Development note
+
+This style is adopted, but still open to refinement through scene tests. The next pass should test it against different material: Samuel's exile, Konrad's collapse, George's subjective reality, Sylvan's discoveries, and technical/world-system reveals. Refine compression, irony, cinematic intensity, and frequency of the turn without reopening the retired Jurassic Park register.
 
 The exact details of Samuel's original misconduct, his parents' individual roles in the exile, the mechanisms of his wartime sabotage, and the sequence by which the defeated faction becomes dependent on him remain working material for the next integration session.
