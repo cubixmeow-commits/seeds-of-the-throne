@@ -1,22 +1,22 @@
 ---
 type: context
 status: active
-updated: 2026-08-14
+updated: 2026-08-17
 ---
 
 # Treatment Bridge TODO
 
 ## Main diagnosis
 
-The beginning is strong:
+The revised beginning has a strong causal spine while leaving its operational details open:
 
-**Samuel pre-containment crimes → containment → city → national capture → George placement → Great War → defeat → False Victory**
+**Samuel misconduct and exile → Samuel enters the future victor's containment environment → Konrad's faction escalates toward world conquest → Samuel performs reconciliation while sabotaging the campaign → George is present inside the future victor by an unresolved mechanism → Konrad's faction is defeated and falls into Samuel's environment → Samuel becomes indispensable → False Victory → breeding/genealogy capture**
 
 The ending is strong:
 
 **Sylvan emerges → archive reconstruction → George's fixation → anomalies → Samuel-behind-George discovery → terminal environment → Throwaway Prince revelation → command-responsibility showdown**
 
-The main structural gap is the approximately eighty-year middle between the False Victory and Sylvan's endgame.
+The main structural gaps are the exact Great War/George bridge inside the revised opening and the approximately eighty-year middle between the False Victory and Sylvan's endgame.
 
 The middle is now governed by a clear engine:
 
@@ -64,6 +64,7 @@ Develop these one at a time across future brainstorming sessions. Exact order, c
 - [ ] **Samuel's appropriation habit:** independent success is repeatedly relabeled as one of his placements or operations.
 - [ ] **Surviving evidence:** each era must leave records, contradictions, witnesses, behavioral fingerprints, or institutional artifacts that can later be reconstructed.
 - [ ] **Bloodline corruption:** genealogy manipulation and Samuel's appropriation of Konrad's system should advance in parallel with the political fantasy.
+- [ ] **Exile inversion:** episodes should preserve the causal progression from Samuel being expelled by a bloodline order to his control of that order's genealogy, reproduction, certification, descendants, and replacement heirs.
 - [ ] **Luminai / Daemon development:** different generations provide opportunities to show healthy reality-testing versus increasingly corrupted interpretation.
 - [ ] **Sylvan convergence:** earlier threads should eventually become evidence or conditions Sylvan can encounter rather than exposition delivered to him.
 

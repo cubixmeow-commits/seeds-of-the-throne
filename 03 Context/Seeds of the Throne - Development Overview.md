@@ -1,14 +1,14 @@
 ---
 type: development-overview
 status: active
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Seeds of the Throne — Development Overview
 
 ## The story in one paragraph
 
-A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. A contained authoritarian receives a city, captures a country, and launches the Great War in an attempt at global conquest. Before his city falls, he places his son George inside the future victorious republic. After total defeat, he convinces the surviving organization that George secretly captured the victor and that their containment roles are covert offices in a continuing plan. For a century, story functionality lets him revise failure while he manipulates breeding, genealogy, and the faction's racist purity doctrine to blackmail leading families. George's public life becomes evidence for a victory that never happened. Sylvan Elaria preserves the record connecting events, revised stories, lineage abuse, and command responsibility. By the final confrontation, the father sends George into an unwinnable attack as both weapon and scapegoat, and George must choose while discovering what his life was built to prove.
+A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. Konrad Fitzgerald's fascist purity organization attempts world conquest and starts the Great War. Samuel Franklin—the exiled son of senior members—is already contained inside the future victorious empire, where he pretends to seek family reconciliation while covertly sabotaging the campaign. After defeat brings Konrad, Samuel's parents, and the surviving leadership into Samuel's environment, he becomes indispensable, rewrites George's real public life as proof that the victor was secretly captured, and constructs the False Victory. For a century, story functionality lets Samuel revise failure while he takes control of breeding, genealogy, descendants, replacement heirs, and the faction's racist purity doctrine. His revenge against the bloodline order that expelled him evolves into an attempt to replace Konrad. Sylvan Elaria preserves the record connecting betrayal, revised history, lineage abuse, and command responsibility. By the final confrontation, Samuel sends George into an unwinnable attack as both weapon and scapegoat, and George must choose while discovering what his life was built to prove.
 
 The antagonist's endpoint is total control rather than ordinary conquest. His movement seeks authority over government, history, culture, movement, family, ancestry, succession, and personal interpretation. His god-ruler claim places that authority beyond appeal: every contradiction can be renamed as hidden design. The faction believes it survived to rule humanity, but it is actually the first population he fully conquers through isolation, shame, fraudulent history, and control of legitimacy.
 
@@ -33,7 +33,7 @@ The world systems and endgame are substantially clearer than the opening and mid
 
 - Approximately 130 years old chronologically and visually about 75.
 - The Throne figure's son and the **Throwaway Prince**.
-- Placed inside the future victorious republic before the King's original city falls.
+- Present inside or placed into the future victorious republic before Konrad's leadership fully accepts defeat; the mechanism remains unresolved.
 - His public career is used to convince the defeated contained organization that he secretly controls the victor.
 - Lives roughly seventy-five years in the public story.
 - Serves three major public roles of roughly fifteen years each: administrator, statesman, and senior authority.
@@ -64,12 +64,13 @@ The world systems and endgame are substantially clearer than the opening and mid
 
 ### Samuel Franklin / the Throne figure — established name, working antagonist structure
 
-- Contained authoritarian who entered early and converted procedural seniority into false legitimacy.
-- Converts city stewardship into national capture and initiates the Great War through attempted global conquest.
+- Failed privileged heir born to senior members of Konrad's organization, then exiled after serious misconduct and separately contained inside the future victor.
+- Maintains contact with his parents during Konrad's conquest, performs reconciliation, and covertly sabotages the campaign without becoming its original leader or sole cause of defeat.
+- Converts preexisting containment experience into interpretive authority when Konrad's defeated faction enters the same environment.
 - Knows his faction lost and has maintained the **False Victory** for decades.
 - Claims George captured the victorious republic and that containment roles are covert offices.
 - Uses certification, records, genealogy, bloodline control, and managed information to create leverage.
-- Abuses the fallen empire's breeding and lineage program to create individualized blackmail across leading families.
+- Captures Konrad's breeding and lineage program to avenge his exile, corrupt pedigree and succession, create replacement heirs, and build individualized blackmail across leading families.
 - Treats identities, descendants, and institutions as instruments.
 - Manipulates George and George's Daemon into a proxy attack on Sylvan.
 - Plans to distance himself from George's final violence and survive through substitution.
@@ -131,7 +132,7 @@ George must choose before his identity can recover
 - A public phase change can reduce the information asymmetry on which concealed power depends.
 - Story functionality permits bounded influence over public interpretation while a sealed record preserves operational reality and provenance.
 - Much of the first colonization century contains and exposes coercive movements while training legitimate heirs to resist cultic mass manipulation.
-- The Great War grows from the King's city opportunity into national capture and attempted global conquest.
+- The Great War grows from Konrad's faction's still-unresolved political base into national or imperial expansion and attempted global conquest. Any retained city-to-country sequence belongs to that faction, not Samuel.
 - The defeated organization survives through a False Victory that interprets containment as successful infiltration of the victor.
 
 ## Core thematic structure

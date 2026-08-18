@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Cast
@@ -22,7 +22,7 @@ The tested first-person narrator follows a recurrence clue into questions about 
 
 ## Samuel Franklin
 
-Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Contained authoritarian and failed privileged heir who turns city stewardship into national capture and the Great War's failed global-conquest project. His wealthy, highly successful technology-leader parents give him access to extraordinary opportunity and consequential systems. Samuel manipulates them, captures some of their resources, builds a distributed cult, and terrorizes large populations through an approximately fifty-year rampage. His parents eventually help expose and contain him; several more decades pass through capture, processing, and integration before his century-scale history on the current planet. After defeat, Samuel claims George secretly captured the victorious republic and uses the False Victory to convert containment into apparent covert rule. His power rests on story influence, information, certification, manipulated genealogy, reproductive abuse, individualized lineage blackmail, and promises that are coming due. His performed royalty compensates for his failure to become a legitimate successor to his parents.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a failed privileged heir born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct—including a sexual relationship with an underage girl and additional abuses still to be developed—his parents and the organization exile him. He later falls into containment inside the future victorious American-equivalent empire. During Konrad's world-conquest campaign, Samuel pretends to seek reconciliation while covertly sabotaging the faction through continued contact with his parents. When the defeated leadership enters the same containment environment, Samuel uses his greater familiarity to become indispensable, construct the False Victory, seize the breeding and genealogy systems, and turn revenge for exile into an attempt to replace Konrad. His power rests on controlled interpretation, certification, manipulated genealogy, reproductive abuse, replacement heirs, individualized lineage blackmail, and promises that are coming due.
 
 ## Konrad Fitzgerald
 
@@ -30,7 +30,7 @@ Approximately 300 years old at the Sylvan showdown, as is his still-unnamed seni
 
 ## George White
 
-The King's son, placed inside the future victorious republic before the original city falls. His later public career becomes living evidence for the father's claim that the victor was captured from within. George may not understand that his biography is being used to hold the defeated contained organization together.
+Samuel's son, present inside the future victorious republic before Konrad's faction fully accepts defeat. The exact placement mechanism and Samuel's original purpose remain unresolved. George's later public career becomes living evidence for Samuel's claim that the victor was captured from within. George may not understand that his biography is being used to hold the defeated contained organization together.
 
 ## Sylvan Elaria
 

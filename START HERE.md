@@ -1,7 +1,7 @@
 ---
 type: index
 status: active
-updated: 2026-08-06
+updated: 2026-08-17
 ---
 
 # Seeds of the Throne
@@ -24,6 +24,8 @@ Reusable AI workflows live in [[skills/README|skills]]. Review the catalog and l
 Read [[07 Coordination/README|Coordination]] for the mobile-versus-desktop convention. Work requiring local files, testing, commits, publishing, or durable cross-device handoff belongs in [[07 Coordination/DESKTOP-QUEUE|the desktop queue]]. The short instruction for resuming implementation is: **Process the desktop queue.**
 
 Current system directions are summarized in [[02 Story/Systems/Advanced Technology Ecology]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Systems/Fascist Failure and Leadership Cultivation]], and [[02 Story/Systems/Visual Generation/README|Visual Generation]].
+
+The active project development register is [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]]. Jurassic Park-style exposition is retired as a current register.
 
 ## Memory layers
 

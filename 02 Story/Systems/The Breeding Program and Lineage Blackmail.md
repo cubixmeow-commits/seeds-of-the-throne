@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-13
+updated: 2026-08-17
 themes: breeding program, reproductive abuse, genealogy, racist purity doctrine, lineage blackmail, common knowledge, Sylvan evidence
 ---
 
@@ -13,7 +13,7 @@ The fallen empire maintained a centralized reproductive and lineage program tied
 
 Elements of the program continue inside containment through fertility services, genealogy, identity certification, family records, and the contained organization's insistence on preserving recognized lineages.
 
-The Throne figure gains administrative influence over these systems and converts them into a private blackmail architecture.
+Samuel Franklin gains influence over these systems after Konrad's defeated leadership enters the containment environment Samuel already understands. He presents technical rescue and interpretive guidance as renewed loyalty, then converts access into revenge, dynastic corruption, and private blackmail.
 
 ## The purity doctrine
 
@@ -71,7 +71,9 @@ Sylvan's reconstruction must therefore resolve both biology and identity provena
 
 ## Why he targets the entire organization
 
-After the Great War, the King's authority rests on the False Victory. He fears that other contained leaders will realize they lost everything and that George never captured the victorious republic.
+Samuel targets the organization because it exiled him from a social order that treated bloodline, pedigree, purity, succession, and inheritance as sacred. The parents and senior faction who decided Samuel did not belong eventually depend on him to determine who belongs to their own families.
+
+After the Great War, Samuel's authority also rests on the False Victory. He fears that other contained leaders will realize Konrad's faction lost everything, that Samuel helped sabotage it, and that George never captured the victorious republic.
 
 He therefore seeks individualized leverage over every important family. Each secretly compromised lineage gives him:
 
@@ -184,9 +186,10 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 
 ## Working statements to preserve
 
-- The fallen empire possessed a centralized breeding and lineage program rooted in a racist purity doctrine.
+- Konrad's defeated empire possessed a centralized breeding and lineage program rooted in a racist purity doctrine.
 - Elements of the program continued inside containment.
 - The King abused reproductive, genealogical, and certification systems to introduce condemned ancestry into leading families and conceal the truth.
+- Samuel's campaign begins as revenge against the bloodline order that exiled him and evolves into an attempt to replace Konrad by controlling pedigree, succession, descendants, and replacement heirs.
 - He intended to create private blackmail leverage across the contained organization.
 - Each target was encouraged to believe its case was isolated.
 - Common knowledge that the pattern is widespread can collapse the leverage.

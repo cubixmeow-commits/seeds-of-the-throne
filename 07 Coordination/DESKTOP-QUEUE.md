@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-13
+updated: 2026-08-17
 ---
 
 # Desktop Implementation Queue
@@ -24,6 +24,13 @@ No queued items.
 - **Unresolved:** choices the desktop session must not invent
 
 ## Completion log
+
+### 2026-08-17 — Samuel Franklin / Konrad Fitzgerald rewrite reconciliation
+
+- **Status:** completed
+- **Source:** `Samuel Franklin Rewrite Prep` conversation, August 17 session notes, and desktop repository audit
+- **Result:** Fast-forwarded to the recent GitHub rewrite commits; transferred Great War ownership to Konrad's faction; reconciled Samuel's exile, earlier containment, wartime sabotage, False Victory, breeding-program revenge, and attempted replacement of Konrad across compiled story, context, QA, handoff, and public atlas material; adopted Archive Thriller / Dark Historical Reconstruction and retired Jurassic Park-style exposition as current.
+- **Preserved unresolved:** Samuel's additional abuses, age and path into containment, exact sabotage, parents' individual roles, Konrad's political base and conquest sequence, George's placement mechanism, and the revenge-to-replacement threshold.
 
 ### 2026-08-13 — Conversation-to-vault reconciliation
 

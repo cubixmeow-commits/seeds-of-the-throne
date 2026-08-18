@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Story
@@ -16,13 +16,15 @@ Participants awaken into a world they misunderstand, receive only partial proces
 
 ## Throne arc
 
-A contained authoritarian receives a city, captures a country, and initiates the Great War through an attempted global conquest. Before his city falls, he places George inside the future victorious republic. After total defeat, he tells the surviving contained organization that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
+Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Samuel Franklin, the exiled son of senior members, is already contained inside the future victorious republic. He maintains contact with his parents, pretends to want reconciliation, and covertly worsens the faction's collapse. George is already inside the future victor before the defeated leadership fully accepts the loss; his exact placement mechanism remains unresolved.
+
+After total defeat brings Konrad, Samuel's parents, and the senior faction into Samuel's containment environment, Samuel becomes their indispensable interpreter. He tells them George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
 
 Story functionality allows him to revise failures, hide crimes, and preserve the False Victory while a sealed record accumulates underneath. He also exploits a breeding and lineage system inherited from the fallen empire, using the faction's racist purity doctrine to blackmail leading families through concealed parentage and fraudulent certification.
 
 The current treatment now treats the False Victory's long middle as the body's main episodic engine rather than a summary gap. Its detailed four-era architecture, provisional milestones, and bridge TODO remain working scaffolds. The immersion principle requires those episodes to remain grounded in an ordinary, consequential surface civilization whose independent institutions are not secretly fake merely because Samuel later claims them.
 
-His authority fails if private doubts become common knowledge: George never controlled the victor, the empire lost everything, public offices are containment roles, and supposedly isolated lineage secrets are instances of one systematic abuse.
+Samuel's authority fails if private doubts become common knowledge: George never controlled the victor, Konrad's empire lost everything, public offices are containment roles, Samuel helped sabotage the campaign, and supposedly isolated lineage secrets are instances of one systematic abuse.
 
 His ultimate doctrine seeks complete control over every population and every source of independent meaning. Government, law, public history, culture, movement, family, ancestry, succession, and personal interpretation all become extensions of the ruler's will. The god-ruler claim escalates this ambition beyond audit: every contradiction can be recast as hidden design. The organization that imagines itself destined to rule the world is, in reality, the first population the King completely conquers.
 
@@ -34,6 +36,6 @@ The decisive exposure does not require every follower to accept the truth. It su
 
 ## Narrative engine
 
-First-person present tense is the current working mode. The narrator has enough information to reason but not enough to conclude. Worldbuilding arrives through motivated, incomplete conversation rather than lectures.
+First-person present tense is the current working mode. The narrator has enough information to reason but not enough to conclude. The active project register is [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]]: worldbuilding emerges through records, consequences, motivated incomplete conversation, and sparing interpretive turns rather than lectures.
 
 **Working narration possibility:** before Sylvan appears, first-person narration may arise from independently operating Luminai or Daemon cognitive layers. These layers can function outside conscious human attention because their decisions emerge from the human subconscious mind, but they remain extensions of one human identity rather than separate narrating persons. The exact narrators, pronoun conventions, reader disclosure, and transition into Sylvan's unusually integrated voice remain unresolved.

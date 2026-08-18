@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Open Questions
@@ -19,7 +19,7 @@ updated: 2026-08-15
 - Are the Disclosure Wars prior history, the main plot, or a pressure still unfolding?
 - What event starts the modern thread?
 - What specifically does the protagonist lose before victory?
-- Who experiences the opening escalation from city stewardship to national capture and Great War?
+- What political base does Konrad's faction control, and does the older city-to-country escalation survive when ownership is transferred from Samuel to the faction?
 - Does the narrated beginning show the war directly or reconstruct it through records and recurrence?
 
 ## System
@@ -55,13 +55,18 @@ updated: 2026-08-15
 ## Throne
 
 - Did administrators knowingly tolerate him as useful pressure?
-- Was he originally an heir who failed the cultivation process?
+- How old is Samuel when his parents and Konrad's organization exile him, and what status, property, citizenship, family access, or reproductive standing does exile remove?
+- What additional abuses accompany the established underage relationship, without making one incident mechanically explain his entire character?
+- How does Samuel enter containment inside the future victorious empire, and how much time does he have to learn that environment before Konrad's faction arrives?
+- Which parent remains susceptible to Samuel's performance of reconciliation, and what access does that relationship give him during the war?
+- Which acts of sabotage materially worsen the conquest's failure while preserving Konrad's authoritarian errors as the primary cause?
+- When does Samuel's revenge become a conscious attempt to replace Konrad?
 - Can he read the influence system or compromise synthetics and AI souls?
 - Who knows his authority is false?
 - Is anyone contained longer than he is?
 - Does he knowingly lie, or has he come to believe his own account?
-- What did he privately expect George to accomplish when placing him inside the future victor?
-- What exact crisis allowed city influence to become national control?
+- Who places George inside the future victor, through what mechanism, and what does Samuel privately expect George to accomplish at that stage?
+- What exact crisis allows Konrad's faction to convert its political base into wider territorial or national control?
 - Who first discovers that supposedly isolated lineage secrets form one organization-wide pattern?
 - How does he maintain the hidden parentage key and certification authority?
 - What specific discovery drives Konrad into hiding, and which parts of the compromised program does he understand at that point?

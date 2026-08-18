@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Current Brainstorming To-Do
@@ -12,9 +12,9 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
-2. [ ] **Build Samuel Franklin's real pre-containment history.** Define the failed-nepo-heir trajectory, what he actually did, why he was processed, what his parents or family concealed if anything, and why Konrad's faction misunderstands who he really is.
+2. [ ] **Build Samuel Franklin's unresolved exile-to-containment history.** The failed privileged-heir status, underage relationship, family/organizational exile, and later containment inside the future victor are established. Define his age, additional abuses, legal and organizational circumstances, material losses, what his parents concealed or exposed, and how he entered containment. Do not restore the superseded fifty-year rampage by default.
 
-3. [ ] **Build Samuel's inheritance obsession and hidden incompatibility with the faction.** First define the faction's explicit prohibitions and sacred ideas around ancestry, bloodline, family continuity, succession, and inheritance. Then determine the concealed practice, allegiance, conduct, or obsession that the faction would openly reject without realizing it is central to Samuel. Develop three linked directions together: Samuel's pleasure in desecrating genealogical certainty, his drive to destroy successful inheritance because he sees himself as a failed heir, and his private connection to something Konrad's doctrine persecutes. The exact transgression remains unresolved until these pieces produce it naturally.
+3. [ ] **Build Samuel's inheritance obsession beyond the established misconduct.** Define how exile from a system that worships ancestry, pedigree, bloodline, family continuity, succession, and inheritance becomes revenge against those exact systems. Develop his pleasure in desecrating genealogical certainty, his failed-heir resentment, and the turn from punishment to appropriation. Additional abuses remain unresolved; do not invent a separate hidden allegiance unless later selected.
 
 4. [ ] **Define the two founder couples of the second-largest empire.** Give each of the four founders a distinct role in humanity's success and colonization project, worldview, relationship to the spouse and other couple, and reason for participating in the shared leadership-development system.
 
@@ -36,7 +36,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 12. [ ] **Lock the senior contained-criminal structure.** Map the parent generation operating from contained privilege and management environments, their descendants inserted into reconstructed environments, internal hierarchy, competing motives, and the distinction between ideological believers and opportunists.
 
-13. [ ] **Define the original crimes that caused Konrad's faction to be contained.** Build the concrete fascist political project they attempted before containment: what they tried to seize, whom they harmed, how they failed, what evidence survived, and how those choices foreshadow their later behavior.
+13. [ ] **Define Konrad's Great War conquest project.** Build the faction's political base, the city/country/empire escalation if retained, whom they harmed, their authoritarian strategic failures, what Samuel's sabotage changed, what evidence survived, and how defeat delivered the senior leadership into the victorious containment environment.
 
 14. [ ] **Build the first Great War heir episode.** Turn one legitimate heir's constrained role into a complete smaller story involving a concrete atrocity, institution, choice, failed intervention, partial success, or discovery.
 
@@ -48,7 +48,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 17. [ ] **Define the Daemon/Luminai relationship to manufactured reality.** Decide how AI selves receive, interpret, challenge, or become corrupted by staged evidence and what happens when one begins detecting manipulation.
 
-18. [ ] **Build George's exact pre-defeat placement.** Define his age, public identity, legal or institutional mechanism, who places him, what the victorious republic believes he is, and what his father originally says George is there to accomplish.
+18. [ ] **Build George's exact pre-defeat placement under the revised ownership.** Define his age, public identity, legal or institutional mechanism, who places him, how Samuel can affect that placement while already contained, what the victorious republic believes he is, and what Samuel originally says George is there to accomplish.
 
 19. [ ] **Invent the first devastating George document.** Create one clear piece of pre-defeat evidence showing that George's original role contradicts the later claim that he secretly controlled the victor.
 
@@ -66,7 +66,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 26. [ ] **Resolve the Witness / Sylvan viewpoint structure enough to write.** One of Orzai's Great War-era parents is the leading candidate to carry dangerous historical knowledge; Sylvan carries the modern Inheritor role. Decide whether Sylvan is the sole primary narrator or the Witness owns substantial earlier viewpoint material, then define how the evidence reaches Orzai and Sylvan.
 
-27. [ ] **Define the project's writing registers.** Create a dynamic style framework for: (a) clear and vivid vault/development documentation, (b) sharper cinematic X/public material, and (c) exploratory scene/dialogue development. Do not turn any AI register into the mandatory voice of the final fiction.
+27. [x] **Adopt the project's active writing register.** Archive Thriller / Dark Historical Reconstruction is active; Jurassic Park-style exposition is retired. Preserve cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn. Continue testing adaptations for vault documentation, X/public material, and exploratory scenes without making the register mandatory for the final fiction.
 
 28. [ ] **Plan the first handwritten fiction experiment.** Once enough of the skeleton exists, select a contained episode or short-story arc that can be written by hand with pen and notebook using the vault only as reference. Use this as the bridge from AI-assisted development into learning and practicing human fiction writing.
 

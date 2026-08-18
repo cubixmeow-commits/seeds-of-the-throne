@@ -1,6 +1,6 @@
 # Recovery Notes
 
-Status: integrated 2026-08-13
+Status: integrated through 2026-08-17
 
 Desktop integration completed after fast-forwarding to `origin/main` and reconciling the queued material with the permanent vault.
 
@@ -31,25 +31,23 @@ For characters with multiple long-lived roles, create an Appearance Timeline rec
 
 Samuel: during the Great War-equivalent era, use Samuel's authoritative identity reference but age-regress/rejuvenate him to an apparent age of approximately 40. Do not substitute Sylvan's identity. The Great War environment should use the established 1930s-1940s-equivalent surface civilization envelope unless a scene specifies otherwise.
 
-## Samuel / Conrad leverage arc — development, refine later
-Samuel's obsession with Conrad's group and breeding project is connected to resentment toward their bloodline-purity ideology and the consequences Samuel experienced from his parents after an earlier prohibited relationship produced a child outside the lineage expectations imposed on him. Samuel develops an additional concealed personal reason for viewing Conrad's ideology as hostile to him; the exact nature of that reason remains intentionally undefined for later development.
+## Samuel / Konrad rewrite — current recovery state
 
-Samuel presents himself to Conrad as possessing medical/scientific expertise capable of solving problems Conrad is trying to overcome within the breeding program. This gives Samuel privileged influence or access. Samuel then secretly subverts the program in a way Conrad's ideology regards as catastrophic. The specific biological and genealogical mechanics should be refined later rather than over-defined here.
+The earlier leverage note is superseded where it suggested a child from the underage relationship, a separate concealed allegiance, or Samuel's ownership of a revolution and conquest regime.
 
-The concealment becomes political leverage. Samuel threatens exposure of what happened to Conrad's followers/group, leaving Conrad and his fanatic partner trapped by their own ideology and by the reputational consequences of admitting the program was compromised. Their concealment/complacency allows Samuel to convert private leverage into influence and attempted control during a revolution.
+Current direction:
 
-The revolution does not need a clean path to victory. Samuel can possess enormous coercive leverage while simultaneously flailing strategically, trying both to seize control of Conrad's group and to punish/damage the group he hates. This contradiction is part of his characterization.
+- Samuel's wealthy parents are senior members of Konrad Fitzgerald's fascist purity and bloodline organization.
+- They and the organization exile Samuel after serious misconduct, including a sexual relationship with an underage girl. Additional abuses and the exact circumstances remain unresolved.
+- Samuel separately falls into containment inside the future victorious American-equivalent empire.
+- Konrad's faction owns the original political expansion, world-conquest attempt, and Great War.
+- Samuel maintains contact with his parents, performs reconciliation, and covertly sabotages the campaign from inside the future victor.
+- Defeat brings Konrad, Samuel's parents, and the surviving leadership into Samuel's containment environment.
+- Samuel uses superior familiarity to become indispensable, interpret defeat, construct the False Victory, and capture Konrad's breeding and genealogy systems.
+- His revenge targets bloodline, pedigree, purity, succession, inheritance, descendants, and replacement heirs, then evolves into an attempt to become Konrad's functional replacement.
+- George's exact pre-defeat placement mechanism, Samuel's sabotage operations, Samuel's age and path into containment, and the transition from revenge to replacement remain open.
 
-Potential staged Sylvan discovery structure:
-1. Something is wrong with Conrad's lineage/program.
-2. Conrad and his partner are concealing something.
-3. Samuel caused or engineered the compromise.
-4. Conrad is being controlled through the secret.
-5. The leverage is connected to Samuel's attempted revolution/seizure of control.
-6. Samuel's actions were deliberate retaliation, not merely opportunism.
-7. The deeper personal reason for Samuel's hatred is revealed later.
-
-Treat this section as development material requiring refinement, not fully locked canon.
+See [[01 Sessions/Daily/2026-08-17 - Samuel Franklin Konrad Rewrite Reconciliation]] for the desktop reconciliation record and [[07 QA/Contradictions]] for superseded structures that remain in dated history.
 
 ## Image generation / Visual World Compiler direction
 The GPT-first Visual World Compiler is now implemented as the next production layer. Keep v2 inside one ecosystem for now: use GPT Image 2 first; defer Grok and other renderer adapters until the core system is reliable.

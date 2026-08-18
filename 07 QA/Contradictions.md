@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Contradictions
@@ -14,3 +14,6 @@ updated: 2026-08-15
 | C-004 | The reconstruction is described both as the parent civilization's history and as possibly convergent. | Keep origin unresolved; no Earth exists in final story data. |
 | C-005 | The former Luminai bonding note required same-gender presentation, while the author's later decision establishes a developing complementary-gender tendency for heterosexual humans. | The 2026-08-13 decision supersedes the former presentation rule. Luminai remain extended cognition, the tendency is not universal, and presentation cannot create a romantic substitute. |
 | C-006 | An older overview described the other son's mother as another contained leader's wife, while later explicit decisions identify Konrad Fitzgerald's sister. | Use Konrad's sister. `Samuel Jr.` remains provisional, and the stale overview was corrected on 2026-08-13. |
+| C-007 | Older compiled notes assigned city stewardship, national capture, attempted world conquest, and the Great War to Samuel; the 2026-08-17 decision assigns the conquest project to Konrad's older faction. | Konrad's faction owns the conquest and war. Samuel is already exiled and contained inside the future victor, where he performs reconciliation and sabotages the faction. Preserve older dated sessions as history, not current canon. |
+| C-008 | Samuel's former approximately fifty-year rampage plus several-decade processing chronology no longer maps cleanly onto the exile, earlier containment, wartime sabotage, and age-220 anchor. | Keep age 220 as working; retire the old phase durations and remap his age at misconduct, exile, entry into containment, prewar experience, and the False Victory period before restoring any duration. |
+| C-009 | Older material states Samuel deliberately places and breaks George as a preplanned fallback before launching his own war; the revised structure still requires George inside the future victor but does not establish how that happens. | Preserve George and the False Victory, but leave the placer, mechanism, timing, Samuel's original purpose, and George's exact Great War public role unresolved. |

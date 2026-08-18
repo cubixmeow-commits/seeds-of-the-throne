@@ -1,7 +1,7 @@
 ---
 type: rules
 status: active
-updated: 2026-08-12
+updated: 2026-08-17
 ---
 
 # Rules
@@ -38,6 +38,8 @@ updated: 2026-08-12
 
 ## Prose and tone
 
-- Conversation, not lecture. Every explanation is partial, motivated, and limited by the speaker's knowledge.
+- [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]] is the active project development register. Jurassic Park-style exposition is retired wherever it was previously treated as current.
+- Use cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn reveal structure as supporting registers.
+- Prefer records, consequences, and motivated incomplete conversation over lecture. Every explanation is partial and limited by the speaker's knowledge.
 - First-person present tense is the current working mode, not an irreversible rule.
 - GPT may help develop or revise prose when asked, but the author's voice and judgment control the manuscript.

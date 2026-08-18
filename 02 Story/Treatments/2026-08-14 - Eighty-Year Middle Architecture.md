@@ -1,7 +1,7 @@
 ---
 type: treatment
 status: working
-updated: 2026-08-14
+updated: 2026-08-17
 ---
 
 # Eighty-Year Middle Architecture
@@ -10,7 +10,7 @@ updated: 2026-08-14
 
 The approximately eighty years between the False Victory and Sylvan's endgame are the body of the saga.
 
-Samuel Franklin is no longer building a real empire. He is maintaining the fiction that the empire never lost while reality continuously produces contradictions.
+Samuel Franklin did not build the original empire. After covertly sabotaging Konrad's conquest and then becoming indispensable to its defeated leadership, he maintains the fiction that the empire never lost while reality continuously produces contradictions.
 
 The governing rule for the middle is:
 

@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-15
+updated: 2026-08-17
 ---
 
 # Current
@@ -36,17 +36,18 @@ Foundation, human–AI integration architecture, dynastic character development,
 - **Samuel Franklin** as an outsider inside Konrad's alliance: a failed privileged heir driven by jealousy, resentment, sabotage, acquisition, and control. Samuel's own fixation on inheritance grows from grievance and the desire to corrupt or destroy other people's certainty about lineage and succession.
 - Samuel's obsession with Konrad and his fanatic partner becomes attempted replacement. He wants their empire, authority, breeding machinery, status, followers, and place at the top while dismantling the dynasty from inside.
 - Samuel Jr., the provisional replacement-heir designation, leads a fictional government-integrated intelligence and decision-systems company spanning defense, intelligence, public safety, infrastructure, logistics, and colonization administration. Its working capabilities—identity resolution, relationship mapping, behavioral inference, and synthetic/human identity reconciliation—may expose the genealogy Samuel needs concealed.
-- Samuel is approximately 220 years old at the Sylvan showdown. His history includes an approximately fifty-year pre-containment rampage, several decades of exposure, capture, processing, and integration, and roughly a century in the current planet's process. Konrad and his unnamed senior partner are approximately 300.
+- Samuel is approximately 220 years old at the Sylvan showdown. The durations between his misconduct, exile, entry into containment, the Great War, and the later century-scale False Victory remain to be remapped; the former approximately fifty-year rampage chronology is superseded. Konrad and his unnamed senior partner are approximately 300.
 - The criminal faction therefore turns inheritance, bloodline, succession, family, and reproductive control into political machinery. This is their pathology, not the organizing philosophy of the legitimate civilizations.
-- An unresolved future revelation that Samuel secretly engages in serious conduct or maintains an allegiance/practice that Konrad's faction explicitly rejects, helping explain his concealed incompatibility with them. The exact conduct is not yet chosen.
+- Samuel's established misconduct includes a sexual relationship with an underage girl. Additional abuses, the exact legal and cultural circumstances, and which facts the faction knows remain unresolved. Do not invent a separate hidden allegiance or make the one established incident mechanically explain his entire character.
 - An overwhelmingly synthetic population and advanced story functionality that can shape roles and environments while still needing hard limits that preserve agency, evidence, responsibility, and resistance.
 - A layered advanced-technology ecology: personal Luminai/Daemon cognition, consent-based group coordination, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale AI. Technology can construct conditions and preserve evidence; it cannot manufacture morality, love, judgment, or authentic achievement.
 - Fascist-system weaknesses as an episodic engine: hierarchy suppresses correction, loyalty displaces competence, purity turns families into political machinery, propaganda captures its authors, permanent patriarchs make succession impossible, and internal competition consumes cooperation. The positive counterpoint is future leaders and Luminai developing higher judgment through difficult choices inside bounded technological environments.
 - A repository-grounded Grok Imagine and GPT Image production system built around approved identity locks, scene action, world packets, cinematography, continuity, video/voice bibles, output contracts, and the rule **preserve identity; regenerate the photograph**.
 - An approximately eighty-year middle that can function as an episodic story engine: smaller stories involving different future leaders, contained criminals, institutions, crises, discoveries, relationships, AI development, and moral tests that accumulate toward the Sylvan endgame. The current four-era structure and provisional milestone map are in [[02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture]]; the bridge work remains tracked in [[03 Context/2026-08-14 - Treatment Bridge TODO]].
 - The surface-reality rule is now a governing working principle: the colony must read as ordinary, lived-in civilization before its hidden architecture becomes legible. See [[02 Story/Components/Immersion and Surface Reality Principle]].
-- A beginning in which city stewardship becomes national capture, global conquest, the Great War, total defeat, and a century-long False Victory.
-- George placed inside the future victor before the fall and later used as living proof that containment is covert conquest.
+- **Archive Thriller / Dark Historical Reconstruction** is the active project development style. Supporting registers are cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn. Jurassic Park-style exposition is retired as current. See [[03 Context/WRITING-STYLE]].
+- A beginning in which Konrad's faction converts political authority and ideological organization into attempted world conquest and the Great War; exiled Samuel covertly sabotages the campaign from inside the future victor; total defeat brings the faction into Samuel's containment environment; and Samuel turns his interpretive advantage into the century-long False Victory.
+- George present inside the future victor before the defeated faction fully accepts the fall and later used as living proof that containment is covert conquest. His exact placement mechanism remains unresolved.
 - Story functionality that preserves public cover-ups while a sealed record accumulates underneath.
 
 ## Immediate development priorities
@@ -61,13 +62,13 @@ Foundation, human–AI integration architecture, dynastic character development,
 8. Define and name Konrad Fitzgerald's fanatic partner.
 9. Resolve Konrad's genuine grandson, the later branch structure, and how Sylvan distinguishes biological descendants, unauthorized descendants, synthetic substitutions, and documentary inventions.
 10. Define Samuel Jr., his company, loyalties, knowledge, institutional power, and whether his own systems expose Samuel.
-11. Build Samuel Franklin's real pre-containment history, hidden incompatibility with the faction, and reason the others misunderstand him.
+11. Build Samuel Franklin's unresolved history: his age at exile, additional abuses, material consequences, path into containment, his parents' individual roles, and the exact means by which he performs reconciliation while sabotaging Konrad's campaign.
 12. Define the two founder couples of the second-largest empire and map their children, grandchildren, and Orzai's exact branch and personal history.
 13. Build the first Great War-era future-leader episode around a fascist-system weakness, constrained role, and concrete moral crisis.
-14. Define the original crimes that caused Konrad's faction to be contained and Samuel's separate path into containment.
+14. Define Konrad's concrete conquest sequence, harms, and authoritarian failures during the Great War, alongside Samuel's separate earlier path into containment.
 15. Test and sequence the initial eighty-year map: choose essential milestone arcs, assign viewpoint characters, define causal handoffs, place the Witness and Inheritor threads, and distinguish parallel events from fixed chronology.
 16. Test the expanded visual-generation system on new environments, technology, multi-character scenes, and short video/voice continuity passes.
-17. Define distinct development/documentation, X/public, and exploratory-scene writing registers.
+17. Test and refine the active Archive Thriller / Dark Historical Reconstruction style across documentation, public material, and exploratory scenes while preserving its supporting registers and sparing turn structure.
 
 See [[03 Context/CURRENT-TODO]] for the full working sequence and the dated treatment notes above for the current middle-story architecture.
 

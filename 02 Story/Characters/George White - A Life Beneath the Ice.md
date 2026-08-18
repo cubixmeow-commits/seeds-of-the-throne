@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-08
+updated: 2026-08-17
 character: George White
 theme: manufactured reality, public roles, remote weaponization, sacrificial confrontation
 ---
@@ -16,9 +16,9 @@ In reality, he was living at the bottom of an ocean.
 
 His life is best understood as a submarine trapped beneath miles of polar ice. George was born into a civilization large enough to build worlds, manage colonization systems, reconstruct entire historical environments, and place human beings inside realities whose true purpose they might never understand. Yet George knew virtually none of it.
 
-His father made certain of that.
+Samuel later makes certain that George remains inside a controlled interpretation of it.
 
-George was placed into the process early, before the rest of his father's defeated faction properly understood what had happened to them. From that point forward, his father did not need to stand beside him to control his life. He could remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
+George is present inside or placed into the future victorious republic before Konrad's defeated faction properly understands what has happened. Who places him, through what mechanism, and for what original purpose remain unresolved. Once Samuel converts George's public life into the False Victory, he does not need to stand beside his son to control the interpretation of that life. He can remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
 
 George became the captain of a submarine whose course had already been plotted by someone on the surface.
 
