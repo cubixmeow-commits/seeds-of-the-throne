@@ -21,7 +21,9 @@ The war is not Samuel's original conquest project. It belongs to the older ideol
 
 Samuel Franklin is born into the Fitzgerald organization through wealthy, committed parents.
 
-After serious misconduct, including a sexual relationship with an underage girl and other acts still to be developed, Samuel is exiled from the movement. He later falls into containment inside the large pluralistic empire that functions as the story's American equivalent.
+After serious misconduct, including a sexual relationship with an underage girl and other acts still to be developed, Samuel is exiled from the movement approximately thirty years before the Great War begins.
+
+During that interval, Samuel and George are placed into a situation inside the large pluralistic empire that functions as the story's American equivalent. George appears highly successful and his role appears unusually important. They privately commit serious wrongdoing and participate in a horribly planned attempt to take over the largest government. The attempt collapses in an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
 
 By the time Konrad's movement attempts world conquest, Samuel is already living inside the future victor's containment environment.
 
@@ -100,13 +102,13 @@ This is the beginning of his coup.
 
 ## George and the False Victory
 
-George White remains central to Samuel's later political mythology, but his placement must now be reconciled with the new prewar structure.
+George White remains central to Samuel's later political mythology. His route into containment is now established at the macro level: apparent success inside the largest government, joint private wrongdoing with Samuel, a badly planned takeover, humiliating exposure, and a real bust into containment.
 
-The working principle is that George exists inside or is placed into the victorious republic before the defeated leadership fully understands that the war is lost. Whether this is Samuel's own earlier placement, a family contingency, a protected relocation, or another mechanism remains open.
+Who places Samuel and George into the initial situation, what George's role actually controls, what they do privately, how the takeover is supposed to work, and what happens to Samuel when George is busted remain open.
 
 George never captures the victorious country.
 
-After the defeat, Samuel uses George's legitimate public career as proof that the Fitzgerald organization secretly controls the victor from within.
+After the defeat, Samuel uses George's genuine apparent success, important role, and later containment career as proof that the Fitzgerald organization secretly controls the victor from within.
 
 The foundational lie becomes:
 
@@ -155,6 +157,8 @@ This is the bridge between Samuel's exile and his eventual attempt to become Kon
 
 - Konrad Fitzgerald's authoritarian purity movement initiates the Great War through a global-conquest attempt.
 - Samuel is already exiled and inside the future victorious American-equivalent containment environment.
+- Samuel's exile occurs approximately thirty years before the Great War.
+- Before the war, Samuel and George appear successful inside an important situation in the largest government, then a humiliating failed takeover and exposure busts George into real containment.
 - Samuel maintains contact with his parents and secretly sabotages the movement while pretending he wants reconciliation or readmission.
 - The movement loses primarily because of its own authoritarian failures, with Samuel's betrayal worsening the collapse.
 - Konrad, Samuel's parents, and surviving senior figures fall into containment inside the victorious empire.
@@ -172,6 +176,8 @@ This is the bridge between Samuel's exile and his eventual attempt to become Kon
 - Which parent is more vulnerable to Samuel's claim that he wants back in?
 - Does Samuel ever directly aid the victorious government, or does he sabotage through indirect manipulation?
 - How much does the containment system know about Samuel's betrayal while it is occurring?
-- What is George's precise placement chronology under the revised structure?
+- Who places Samuel and George into the apparent-success situation, and what is Samuel's containment status at that point?
+- What private conduct and takeover plan cause George's humiliating bust?
+- How does the prewar role relate to George's later three-role progression?
 - What private pre-defeat record later proves Samuel rewrote George's role after the loss?
 - When do Konrad and Samuel's parents first suspect Samuel was never truly seeking reconciliation?

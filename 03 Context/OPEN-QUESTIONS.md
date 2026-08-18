@@ -55,9 +55,12 @@ updated: 2026-08-17
 ## Throne
 
 - Did administrators knowingly tolerate him as useful pressure?
-- How old is Samuel when his parents and Konrad's organization exile him, and what status, property, citizenship, family access, or reproductive standing does exile remove?
+- Samuel's exile occurs approximately thirty years before the Great War. How old is he, and what status, property, citizenship, family access, or reproductive standing does exile remove?
 - What additional abuses accompany the established underage relationship, without making one incident mechanically explain his entire character?
-- How does Samuel enter containment inside the future victorious empire, and how much time does he have to learn that environment before Konrad's faction arrives?
+- Who places Samuel and George into the important-seeming situation inside the future victorious empire, and is Samuel already formally contained?
+- What are Samuel and George doing privately, what makes their attempt to take over the largest government so badly planned, and what makes George's exposure exceptionally humiliating?
+- What consequences does Samuel face when George is busted into containment?
+- Is George's apparent-success role separate from, prior to, or the first of his later three public roles?
 - Which parent remains susceptible to Samuel's performance of reconciliation, and what access does that relationship give him during the war?
 - Which acts of sabotage materially worsen the conquest's failure while preserving Konrad's authoritarian errors as the primary cause?
 - When does Samuel's revenge become a conscious attempt to replace Konrad?
@@ -65,7 +68,7 @@ updated: 2026-08-17
 - Who knows his authority is false?
 - Is anyone contained longer than he is?
 - Does he knowingly lie, or has he come to believe his own account?
-- Who places George inside the future victor, through what mechanism, and what does Samuel privately expect George to accomplish at that stage?
+- What does Samuel originally expect George's important-seeming role to accomplish before the failed takeover and bust?
 - What exact crisis allows Konrad's faction to convert its political base into wider territorial or national control?
 - Who first discovers that supposedly isolated lineage secrets form one organization-wide pattern?
 - How does he maintain the hidden parentage key and certification authority?
@@ -83,7 +86,7 @@ updated: 2026-08-17
 
 ## Evidence and lineage
 
-- Which records prove George was a fallback before he was rewritten as the secret victor?
+- Which records prove George's important-seeming success, private wrongdoing, failed takeover, humiliating exposure, and real containment before Samuel rewrites them as secret victory?
 - Which anonymized evidence proves reproductive and genealogical abuse without exposing children?
 - How many families were targeted and across how many generations?
 - What reproductive mechanism did the King control directly?

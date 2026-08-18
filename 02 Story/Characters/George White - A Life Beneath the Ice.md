@@ -18,7 +18,11 @@ His life is best understood as a submarine trapped beneath miles of polar ice. G
 
 Samuel later makes certain that George remains inside a controlled interpretation of it.
 
-George is present inside or placed into the future victorious republic before Konrad's defeated faction properly understands what has happened. Who places him, through what mechanism, and for what original purpose remain unresolved. Once Samuel converts George's public life into the False Victory, he does not need to stand beside his son to control the interpretation of that life. He can remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
+Roughly thirty years separate Samuel's exile from the Great War. During that interval, Samuel and George are placed into a situation inside the future victorious republic where George appears highly successful and his role appears unusually important. Who places them and what authority the role truly carries remain unresolved.
+
+George and Samuel then commit serious wrongdoing in private and participate in a horribly planned attempt to take over the largest government. The attempt collapses in an extremely humiliating exposure. George is busted into containment for the private conduct and failed takeover.
+
+Once Samuel converts George's apparent success and subsequent containment into the False Victory, he does not need to stand beside his son to control the interpretation of that life. He can remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
 
 George became the captain of a submarine whose course had already been plotted by someone on the surface.
 
@@ -26,7 +30,13 @@ He could walk around the bridge. He could issue orders. He could receive reports
 
 What he could not do was surface.
 
-## Three public roles
+## The prewar apparent-success role
+
+Before the Great War, George has already experienced a role that looks highly successful and important. That visible success later gives Samuel authentic facts to weaponize: George really did appear consequential inside the largest government before he was busted.
+
+Whether this role is separate from, precedes, or becomes the first of the later three public roles remains unresolved.
+
+## Three later public roles
 
 George's approximately seventy-five-year period in the public story is divided into three major public roles followed by a final thirty-year campaign against Sylvan Elaria.
 

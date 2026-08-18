@@ -62,7 +62,7 @@ When following George, Sylvan, Samuel, Konrad, Orzai, or another viewpoint close
 
 Samuel's revised history is especially suited to this register.
 
-His family exiles him from Konrad Fitzgerald's purity-obsessed organization after discovering serious misconduct, including a relationship with an underage girl and other abuses still to be developed. Samuel later falls into containment inside the America-equivalent / largest empire.
+His family exiles him from Konrad Fitzgerald's purity-obsessed organization approximately thirty years before the Great War after discovering serious misconduct, including a relationship with an underage girl and other abuses still to be developed. During that interval, Samuel and George enter an important-seeming situation inside the America-equivalent / largest empire. George appears highly successful until private joint wrongdoing and a horribly planned government takeover collapse in his humiliating bust into real containment.
 
 While Konrad's faction attempts world conquest, Samuel maintains contact with his parents and convinces them that he wants reconciliation and a path back into the organization. In reality, he uses the relationship to sabotage them from inside the future victorious environment.
 

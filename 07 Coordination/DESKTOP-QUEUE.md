@@ -25,6 +25,13 @@ No queued items.
 
 ## Completion log
 
+### 2026-08-17 — George prewar success and containment bust
+
+- **Status:** completed
+- **Source:** author continuation after the Samuel/Konrad reconciliation
+- **Result:** Anchored Samuel's exile about thirty years before the Great War; established George's important-seeming success, joint private wrongdoing with Samuel, horribly planned takeover of the largest government, humiliating exposure, and real bust into containment; connected those facts to the later False Victory.
+- **Preserved unresolved:** who placed them, the private acts, takeover mechanics, Samuel's containment status and consequences, the exact humiliation, and the prewar role's relationship to George's later career.
+
 ### 2026-08-17 — Samuel Franklin / Konrad Fitzgerald rewrite reconciliation
 
 - **Status:** completed

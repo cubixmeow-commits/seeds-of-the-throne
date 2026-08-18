@@ -16,9 +16,9 @@ Participants awaken into a world they misunderstand, receive only partial proces
 
 ## Throne arc
 
-Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Samuel Franklin, the exiled son of senior members, is already contained inside the future victorious republic. He maintains contact with his parents, pretends to want reconciliation, and covertly worsens the faction's collapse. George is already inside the future victor before the defeated leadership fully accepts the loss; his exact placement mechanism remains unresolved.
+Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Samuel Franklin has been exiled for approximately thirty years. During that interval, Samuel and George enter an important-seeming situation inside the future victorious republic; George appears highly successful before private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating bust into real containment. Samuel later maintains contact with his parents, pretends to want reconciliation, and covertly worsens Konrad's collapse.
 
-After total defeat brings Konrad, Samuel's parents, and the senior faction into Samuel's containment environment, Samuel becomes their indispensable interpreter. He tells them George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
+After total defeat brings Konrad, Samuel's parents, and the senior faction into Samuel's containment environment, Samuel becomes their indispensable interpreter. He converts George's real apparent success and humiliating failure into the claim that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
 
 Story functionality allows him to revise failures, hide crimes, and preserve the False Victory while a sealed record accumulates underneath. He also exploits a breeding and lineage system inherited from the fallen empire, using the faction's racist purity doctrine to blackmail leading families through concealed parentage and fraudulent certification.
 

@@ -11,12 +11,12 @@ updated: 2026-08-17
 1. A long-lived civilization develops colonization worlds that also function as containment and leadership-cultivation systems.
 2. Synthetics establish a complete civilization before most humans enter it.
 3. Contained people and cultivated heirs are integrated under different conditions and with incomplete knowledge.
-4. Samuel Franklin is born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed, his family and organization exile him.
-5. Samuel separately falls into containment inside the large pluralistic empire that will become the principal victor.
-6. Konrad's faction converts a still-unresolved political base into attempted global conquest, producing the Great War. During the campaign, Samuel pretends to seek reconciliation with his parents while covertly sabotaging the faction from inside the future victor.
-7. George is present inside or placed into the future victorious republic before the defeated leadership fully accepts the loss. The mechanism and Samuel's original purpose remain unresolved.
+4. Samuel Franklin is born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed, his family and organization exile him approximately thirty years before the Great War.
+5. Samuel and George enter an important-seeming situation inside the large pluralistic empire that will become the principal victor. George appears highly successful.
+6. Samuel and George privately commit serious wrongdoing and participate in a horribly planned takeover attempt against the largest government. The plan collapses, and George is humiliatingly busted into real containment.
+7. Konrad's faction converts a still-unresolved political base into attempted global conquest, producing the Great War. During the campaign, Samuel pretends to seek reconciliation with his parents while covertly sabotaging the faction from inside the future victor.
 8. Konrad's conquest regime is defeated. Its state and military project collapse, and surviving leaders—including Konrad, Samuel's parents, and the senior faction—fall into public containment roles inside the victorious order Samuel already knows.
-9. Samuel becomes their interpreter, claims George secretly captured the victor, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory.
+9. Samuel becomes their interpreter, recasts George's apparent success and humiliating bust as secret conquest, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory.
 10. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
 
 ## Narrated middle — working architecture

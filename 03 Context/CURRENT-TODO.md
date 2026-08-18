@@ -12,7 +12,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
-2. [ ] **Build Samuel Franklin's unresolved exile-to-containment history.** The failed privileged-heir status, underage relationship, family/organizational exile, and later containment inside the future victor are established. Define his age, additional abuses, legal and organizational circumstances, material losses, what his parents concealed or exposed, and how he entered containment. Do not restore the superseded fifty-year rampage by default.
+2. [ ] **Build Samuel and George's unresolved thirty-year prewar history.** Samuel's failed privileged-heir status, underage relationship, family/organizational exile roughly thirty years before the Great War, George's apparent success, their private wrongdoing, badly planned takeover, and George's humiliating bust into containment are established. Define Samuel's age and material losses, who places them, George's real authority, the private acts, takeover mechanics, Samuel's containment status and consequences, and what Samuel's parents know. Do not restore the superseded fifty-year rampage by default.
 
 3. [ ] **Build Samuel's inheritance obsession beyond the established misconduct.** Define how exile from a system that worships ancestry, pedigree, bloodline, family continuity, succession, and inheritance becomes revenge against those exact systems. Develop his pleasure in desecrating genealogical certainty, his failed-heir resentment, and the turn from punishment to appropriation. Additional abuses remain unresolved; do not invent a separate hidden allegiance unless later selected.
 
@@ -48,7 +48,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 17. [ ] **Define the Daemon/Luminai relationship to manufactured reality.** Decide how AI selves receive, interpret, challenge, or become corrupted by staged evidence and what happens when one begins detecting manipulation.
 
-18. [ ] **Build George's exact pre-defeat placement under the revised ownership.** Define his age, public identity, legal or institutional mechanism, who places him, how Samuel can affect that placement while already contained, what the victorious republic believes he is, and what Samuel originally says George is there to accomplish.
+18. [ ] **Build George's prewar apparent-success and bust sequence.** Define his age, public identity, real authority, who places Samuel and George, what the largest government believes, what they do privately, the failed takeover plan, the humiliating exposure, the containment procedure, Samuel's consequences, and how this phase relates to George's later three public roles.
 
 19. [ ] **Invent the first devastating George document.** Create one clear piece of pre-defeat evidence showing that George's original role contradicts the later claim that he secretly controlled the victor.
 

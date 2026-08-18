@@ -27,9 +27,13 @@ Samuel grows up wealthy and close to the movement's inner order. His parents sha
 
 He destroys that position through his own conduct.
 
-His family discovers serious misconduct, including a sexual relationship with an underage girl and additional abuses that remain to be developed. Samuel's parents and the wider organization exile him. The exact age, legal circumstances, material consequences, and additional offenses remain unresolved; the wrongdoing and exile do not.
+His family discovers serious misconduct, including a sexual relationship with an underage girl and additional abuses that remain to be developed. Samuel's parents and the wider organization exile him approximately thirty years before the Great War. The exact age, legal circumstances, material consequences, and additional offenses remain unresolved; the wrongdoing, timing, and exile do not.
 
-Samuel later falls into containment inside the large pluralistic empire that will become the principal victor of the Great War. He enters as a failed privileged heir who interprets accountability as dispossession. Exile has taken away the inheritance he assumed was his.
+During the following three decades, Samuel and his son **George White** are placed into a situation inside the large pluralistic empire that will become the principal victor of the Great War. George appears highly successful. His role looks unusually important.
+
+Privately, Samuel and George are doing serious things that have not yet been defined. They also participate in a horribly planned attempt to take over the largest government. The plan collapses in an extremely humiliating exposure, and George is busted into real containment for the private conduct and failed takeover.
+
+Who placed them in the situation, what George's authority really was, what they were doing privately, how the takeover was supposed to work, Samuel's containment status, and what consequences Samuel faced remain unresolved.
 
 Konrad's movement, meanwhile, converts political power and ideological organization into an attempted world-conquest project. If the older city-to-country-to-empire escalation survives, those stages belong to Konrad's faction. Its exact political base and sequence remain open.
 
@@ -38,8 +42,6 @@ Konrad develops a centralized breeding and lineage system around the same suprem
 By the time the conquest becomes the **Great War**, Samuel is already inside the future victorious containment environment.
 
 He maintains contact with his parents and convinces them that he wants forgiveness, reconciliation, or eventual readmission. In reality, he uses that access and his position inside the future victor to sabotage the campaign. His exact operations remain unresolved. The faction's own authoritarian overreach, strategic blindness, and institutional brittleness remain the primary causes of defeat; Samuel's betrayal materially worsens the collapse.
-
-George White is present inside or placed into the future victorious republic before Konrad's leadership fully accepts that the war is lost. The exact mechanism, timing, and Samuel's original purpose remain unresolved. George is not yet the secret ruler Samuel will later claim him to be.
 
 Konrad's regime loses its political base, military project, and overt international network. The victorious republic absorbs Konrad, his senior partner, Samuel's parents, and other surviving members into containment roles where their behavior can continue to be observed.
 
@@ -51,7 +53,7 @@ Samuel transforms it into his greatest lie.
 
 Samuel conceals the depth of his sabotage, makes himself useful, and tells the defeated faction that the loss was planned.
 
-George, he claims, successfully infiltrated the victorious republic and secretly captured it from within. The destroyed empire was merely a disposable shell. The captured leadership are not prisoners but embedded operatives. Their restricted roles are secret assignments. Their lack of visible power is proof of how deeply hidden their real power has become.
+George, he claims, did not fail when the takeover collapsed and the system busted him. His earlier success and important role prove he successfully infiltrated the victorious republic and secretly captured it from within. The humiliating exposure becomes cover. The destroyed empire was merely a disposable shell. The captured leadership are not prisoners but embedded operatives. Their restricted roles are secret assignments. Their lack of visible power is proof of how deeply hidden their real power has become.
 
 The defeated organization embraces what becomes known as the **False Victory** because the alternative is unbearable. Accepting reality would mean admitting that Konrad's empire was destroyed, its doctrine failed, Samuel may have betrayed it, and the impressive lives they now inhabit are containment roles rather than positions inside a hidden world government.
 
@@ -107,9 +109,9 @@ That makes him the natural opposite of George.
 
 As Sylvan's influence grows, he begins reconstructing the hidden history beneath the public one. He connects the original Great War to later identities. He reconstructs biological genealogy and synthetic substitutions. He sees political actions presented as isolated events resolve into patterns of command. Most damagingly, he finds records showing that Samuel's description of George changed after the war.
 
-Before Samuel's defeat, George was a fallback and a contingency.
+Before Konrad's defeat, the record shows George's apparent success, private misconduct, failed takeover, humiliating exposure, and real containment.
 
-After Samuel's defeat, George suddenly became the mastermind who had supposedly captured the victorious republic.
+After Konrad's defeat, Samuel recasts those failures and consequences as the work of a mastermind who had supposedly captured the victorious republic.
 
 That contradiction begins breaking the False Victory apart.
 
@@ -183,7 +185,7 @@ The current story has a strong historical opening and a strong endgame. The leas
 
 The opening chain is already clear:
 
-**Samuel's misconduct and exile -> Samuel's separate entry into the future victor's containment environment -> Konrad's faction escalates toward world conquest -> Samuel performs reconciliation while sabotaging the campaign -> George is present inside the future victor by an unresolved mechanism -> Konrad's faction is totally defeated and enters Samuel's environment -> Samuel becomes indispensable -> False Victory.**
+**Samuel's misconduct and exile roughly thirty years before the war -> Samuel and George enter an important-seeming situation inside the largest government -> apparent success -> joint private wrongdoing and a horribly planned takeover -> George's humiliating bust into containment -> Konrad's faction escalates toward world conquest -> Samuel performs reconciliation while sabotaging the campaign -> Konrad's faction is totally defeated and enters Samuel's environment -> Samuel becomes indispensable -> George's failure is rewritten as the False Victory.**
 
 The ending chain is also clear:
 

@@ -21,7 +21,7 @@ He destroys that position through his own conduct.
 
 Samuel's parents discover conduct they regard as intolerable and disgraceful, including a sexual relationship with an underage girl and additional serious transgressions that remain to be developed. The exact legal, cultural, and organizational circumstances remain working, but Samuel is not exiled merely for ideological disagreement. He has committed real wrongdoing.
 
-His parents and the wider Fitzgerald organization cast him out.
+His parents and the wider Fitzgerald organization cast him out approximately thirty years before the Great War begins.
 
 The exile becomes one of the central wounds of Samuel's life. He does not interpret it as accountability. He experiences it as humiliation, dispossession, and theft of the inheritance he believes should have been his. The organization that taught him to worship hierarchy, bloodline, continuity, and inherited status declares him unworthy of belonging to its own line.
 
@@ -29,15 +29,17 @@ Samuel never truly forgives them.
 
 ## Fall into the American-equivalent containment environment
 
-After exile, Samuel eventually falls into containment inside the large pluralistic empire that functions as the story's equivalent of America and later becomes the principal victor of the Great War.
+After exile, Samuel and George are placed into a situation inside the large pluralistic empire that functions as the story's equivalent of America and later becomes the principal victor of the Great War. George appears highly successful and his role appears unusually important.
+
+Samuel and George privately commit serious wrongdoing and participate in a horribly planned attempt to take over the largest government. The plan fails, and George is exposed in an extremely humiliating situation and busted into containment for the private conduct and attempted takeover.
 
 This places Samuel inside the very environment his parents, Konrad, and the Fitzgerald organization are later attempting to defeat.
 
 Samuel therefore acquires something they do not possess: experience with the containment environment, its institutions, social logic, procedures, incentives, story functionality, and opportunities for influence. He is still constrained and genuinely contained, but relative familiarity becomes a strategic advantage once his former organization arrives.
 
-His exact path from exile into formal containment remains unresolved and should be built out separately. The important established structure is:
+Who places Samuel and George into this situation, Samuel's containment status when they enter it, the exact private conduct, the takeover mechanics, and the consequences Samuel faces when George is busted remain unresolved. The important established structure is:
 
-**Fitzgerald insider -> serious misconduct -> family exposure -> exile -> fall into containment in the American-equivalent empire -> estranged insider with knowledge of both worlds.**
+**Fitzgerald insider -> serious misconduct -> exile roughly thirty years before the Great War -> Samuel and George enter an apparent-success situation inside the largest empire -> private wrongdoing and a badly planned government takeover -> George's humiliating bust into containment -> Samuel retains knowledge of both worlds.**
 
 ## Sabotage during the Great War
 

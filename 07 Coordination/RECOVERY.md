@@ -38,16 +38,16 @@ The earlier leverage note is superseded where it suggested a child from the unde
 Current direction:
 
 - Samuel's wealthy parents are senior members of Konrad Fitzgerald's fascist purity and bloodline organization.
-- They and the organization exile Samuel after serious misconduct, including a sexual relationship with an underage girl. Additional abuses and the exact circumstances remain unresolved.
-- Samuel separately falls into containment inside the future victorious American-equivalent empire.
+- They and the organization exile Samuel approximately thirty years before the Great War after serious misconduct, including a sexual relationship with an underage girl. Additional abuses and the exact circumstances remain unresolved.
+- During that interval, Samuel and George enter an important-seeming situation inside the largest government. George appears highly successful before private joint wrongdoing and a horribly planned takeover collapse in an extremely humiliating exposure that busts George into real containment.
 - Konrad's faction owns the original political expansion, world-conquest attempt, and Great War.
 - Samuel maintains contact with his parents, performs reconciliation, and covertly sabotages the campaign from inside the future victor.
 - Defeat brings Konrad, Samuel's parents, and the surviving leadership into Samuel's containment environment.
 - Samuel uses superior familiarity to become indispensable, interpret defeat, construct the False Victory, and capture Konrad's breeding and genealogy systems.
 - His revenge targets bloodline, pedigree, purity, succession, inheritance, descendants, and replacement heirs, then evolves into an attempt to become Konrad's functional replacement.
-- George's exact pre-defeat placement mechanism, Samuel's sabotage operations, Samuel's age and path into containment, and the transition from revenge to replacement remain open.
+- Who placed Samuel and George, their private wrongdoing, takeover mechanics, Samuel's status and consequences, the prewar role's relationship to George's later roles, Samuel's sabotage operations, Samuel's age, and the transition from revenge to replacement remain open.
 
-See [[01 Sessions/Daily/2026-08-17 - Samuel Franklin Konrad Rewrite Reconciliation]] for the desktop reconciliation record and [[07 QA/Contradictions]] for superseded structures that remain in dated history.
+See [[01 Sessions/Daily/2026-08-17 - Samuel Franklin Konrad Rewrite Reconciliation]], [[01 Sessions/Daily/2026-08-17 - George Prewar Success and Humiliating Bust]], and [[07 QA/Contradictions]].
 
 ## Image generation / Visual World Compiler direction
 The GPT-first Visual World Compiler is now implemented as the next production layer. Keep v2 inside one ecosystem for now: use GPT Image 2 first; defer Grok and other renderer adapters until the core system is reliable.

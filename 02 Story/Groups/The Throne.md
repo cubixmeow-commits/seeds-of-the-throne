@@ -17,9 +17,9 @@ Samuel does not create that doctrine. He is born inside it, expelled from it, sa
 
 Samuel Franklin is the son of wealthy, powerful members of Konrad's organization. His parents are committed believers in bloodline purity, fascist hierarchy, hereditary status, and the Fitzgerald project.
 
-After they discover serious misconduct by Samuel, including a sexual relationship with an underage girl and other transgressions still to be developed, Samuel is exiled from the organization.
+After they discover serious misconduct by Samuel, including a sexual relationship with an underage girl and other transgressions still to be developed, Samuel is exiled from the organization approximately thirty years before the Great War.
 
-He later falls into containment inside the large pluralistic empire that functions as the setting's American equivalent.
+During that interval, Samuel and George enter an important-seeming situation inside the large pluralistic empire that functions as the setting's American equivalent. George appears highly successful before private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating exposure and real bust into containment.
 
 Samuel interprets exile not as accountability but as humiliation and dispossession. The movement that taught him to worship inheritance declares him unworthy of belonging to it. That grievance becomes the foundation of his revenge.
 
@@ -59,7 +59,7 @@ The defeated faction mistakes Samuel's familiarity for loyalty.
 
 Samuel eventually reframes defeat as hidden success.
 
-He uses George White's placement and public career inside the victorious republic as evidence that the organization secretly captured the victor from within. The visible destruction of Konrad's conquest project is rewritten as deliberate transition into covert rule.
+He uses George White's apparent success, important role, humiliating exposure, real containment, and later public career as evidence that the organization secretly captured the victor from within. The failed takeover becomes supposed infiltration; the visible destruction of Konrad's conquest project becomes deliberate transition into covert rule.
 
 The lie converts containment into prestige:
 

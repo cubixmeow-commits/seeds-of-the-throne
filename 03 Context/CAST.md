@@ -22,7 +22,7 @@ The tested first-person narrator follows a recurrence clue into questions about 
 
 ## Samuel Franklin
 
-Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a failed privileged heir born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct—including a sexual relationship with an underage girl and additional abuses still to be developed—his parents and the organization exile him. He later falls into containment inside the future victorious American-equivalent empire. During Konrad's world-conquest campaign, Samuel pretends to seek reconciliation while covertly sabotaging the faction through continued contact with his parents. When the defeated leadership enters the same containment environment, Samuel uses his greater familiarity to become indispensable, construct the False Victory, seize the breeding and genealogy systems, and turn revenge for exile into an attempt to replace Konrad. His power rests on controlled interpretation, certification, manipulated genealogy, reproductive abuse, replacement heirs, individualized lineage blackmail, and promises that are coming due.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a failed privileged heir born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct—including a sexual relationship with an underage girl and additional abuses still to be developed—his parents and the organization exile him approximately thirty years before the Great War. During that interval, Samuel and George enter an important-seeming situation inside the largest government; private joint wrongdoing and a horribly planned takeover end in George's humiliating bust into containment. During Konrad's world-conquest campaign, Samuel pretends to seek reconciliation while covertly sabotaging the faction through continued contact with his parents. When the defeated leadership enters the same containment environment, Samuel uses his greater familiarity to become indispensable, construct the False Victory, seize the breeding and genealogy systems, and turn revenge for exile into an attempt to replace Konrad.
 
 ## Konrad Fitzgerald
 
@@ -30,11 +30,11 @@ Approximately 300 years old at the Sylvan showdown, as is his still-unnamed seni
 
 ## George White
 
-Samuel's son, present inside the future victorious republic before Konrad's faction fully accepts defeat. The exact placement mechanism and Samuel's original purpose remain unresolved. George's later public career becomes living evidence for Samuel's claim that the victor was captured from within. George may not understand that his biography is being used to hold the defeated contained organization together.
+Samuel's son. Before the Great War, George appears highly successful in an important-seeming role inside the largest government. After private joint wrongdoing with Samuel and a horribly planned takeover attempt, he is exposed in an extremely humiliating collapse and busted into real containment. Samuel later turns both the success and bust into evidence that George captured the victor from within. Who placed them, the exact misconduct, takeover mechanics, Samuel's consequences, and the relationship between this role and George's later public career remain unresolved.
 
 ## Sylvan Elaria
 
-Younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's pre-defeat placement to the King's contradictory post-defeat myth and connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons.
+Younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's apparent success, private wrongdoing, failed takeover, humiliation, and containment to Samuel's contradictory post-defeat myth, then connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons.
 
 ## Orzai
 
