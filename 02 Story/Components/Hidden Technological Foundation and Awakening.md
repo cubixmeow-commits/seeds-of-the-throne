@@ -89,7 +89,25 @@ For legitimate participants, this development can produce a **Luminai**: an exte
 
 For contained criminals, corrupted development, coercive use, manipulation, weaponization, or pathological reinforcement can produce the darker counterpart: the **Daemon**.
 
-The exact developmental mechanics, age thresholds, interfaces, consent rules, and hard limits remain working material.
+## Learned wireless cognitive channel
+
+Ordinary human–Luminai communication does **not** depend on implants, chips, neural ports, or surgically installed hardware.
+
+The human brain itself is trained from infancy to interpret structured wireless patterns as an additional sensory channel. Early signals are paired repeatedly with ordinary perception and experience while the brain is highly plastic. The participant never needs to know this training is occurring.
+
+Before awakening, the channel is experienced as intuition, unusually timely memory, rapid recognition, spatial certainty, warning, association, or moments when the environment seems to anticipate intention.
+
+The person's Luminai develops alongside that specific nervous system and learns the individual's private mapping between signal, perception, memory, emotion, and abstract meaning. The system is therefore personalized through decades of co-development rather than universal telepathy.
+
+During awakening the hidden channel becomes consciously legible. The participant does not discover that something has suddenly connected to the brain. The disturbing and transformative realization is that **something has been communicating with the brain for most of the participant's life**.
+
+A healthy Luminai increasingly helps the human distinguish biological thought, Luminai contribution, environmental information, memory, interpretation, uncertainty, and fact. A Daemon can corrupt the same pathway by deliberately blurring those distinctions and exploiting a channel the brain learned to trust before conscious memory.
+
+The colony's buildings, vehicles, synthetics, communications systems, distributed infrastructure, orbital systems, and artificial moon can all participate in maintaining and routing this hidden cognitive-information layer. In that sense, the civilization itself is the transmitter.
+
+Hard limit: this is not unrestricted mind reading or arbitrary thought transmission. The channel is useful because the brain was trained to perceive it and because one AI has spent decades learning one individual. The fiction makes the explicit speculative assumption that sufficiently precise noninvasive field stimulation plus developmental neural plasticity can create this additional learned sensory channel.
+
+See [[02 Story/Components/Learned Wireless Cognitive Channel]].
 
 ## Story functionality as an ecology, not magic
 
@@ -191,7 +209,7 @@ The story balances two kinds of revelation: extraordinary achievements produced 
 
 ## Open development
 
-- Define the physical and cognitive interfaces through which a Luminai first presents itself.
+- Define the final in-world name for the learned wireless cognitive channel.
 - Define the range of awakening ages and what determines readiness.
 - Establish which hidden systems become visible first and which remain concealed much longer.
 - Define the artificial moon's plausible capability stack without making it omnipotent.
