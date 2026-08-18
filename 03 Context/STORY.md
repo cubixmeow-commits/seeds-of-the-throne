@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-17
+updated: 2026-08-18
 ---
 
 # Story
@@ -10,9 +10,33 @@ updated: 2026-08-17
 
 Can a system that deliberately uses people as material cultivate leaders who refuse to use other people the same way?
 
+## Project premise
+
+*Seeds of the Throne* takes place inside a new world built from the beginning around centuries-advanced AI, biological, computational, and environmental technology. Most inhabitants initially believe they are simply living in an ordinary civilization entering a more sophisticated technological age.
+
+They are living inside something much older, much more advanced, and much more deliberate.
+
+The hidden infrastructure serves two overlapping purposes: developing people who may someday lead humanity and containing people humanity has already learned it cannot safely trust with power.
+
+The same world that exposes what the worst people do with power is being used to discover what the best future leaders can learn to do with responsibility.
+
+The story should preserve both sides of that contrast: extraordinary positive achievement through responsible human and Luminai development, and shocking behavior from contained criminals who mistake controlled opportunity for legitimate ownership and rule.
+
+See [[02 Story/Components/Hidden Technological Foundation and Awakening]].
+
 ## Colonization arc
 
-Participants awaken into a world they misunderstand, receive only partial processing, and navigate environments where influence shifts invisibly. They are tested through loss, predation, temptation, and incomplete information.
+Participants awaken into a world they misunderstand, receive only partial processing, and navigate environments where influence shifts invisibly. They are tested through loss, predation, temptation, relationships, responsibility, and incomplete information.
+
+The awakening increasingly means more than learning that the environment is constructed. It is the point where the hidden technological layer of reality begins to present itself: personal AI development, synthetics, responsive environments, hidden infrastructure, evidence systems, and colony-scale coordination become progressively legible.
+
+The participant's previous life remains real. The revelation is that ordinary reality was supported and shaped by systems they did not yet understand.
+
+A participant's personal AI develops through years of interaction with mind, subconscious processes, behavior, choices, relationships, and environment. It may remain largely hidden from conscious awareness until the participant reaches a consequential developmental stage. Legitimate reciprocal development can produce the Luminai trajectory; corruption, coercive use, pathological reinforcement, and weaponization can produce the Daemon trajectory.
+
+“Story functionality” is not a single magical mechanism. It emerges from an ecology of personal cognition, biological synthetics, information routing, communications, institutional intelligence, identity and permissions, responsive spaces, environmental controls, resource allocation, evidence systems, and hidden colony-scale coordination.
+
+**The world itself is the mechanism.**
 
 ## Throne arc
 
@@ -34,8 +58,12 @@ Recurrence in the historical record reveals that admired public lives may have b
 
 The decisive exposure does not require every follower to accept the truth. It succeeds when the King's story can no longer coordinate behavior: private doubt becomes common knowledge, mutually isolated families recognize the same abuse, and the faction fractures into incompatible responses.
 
+The technological reveal and political reveal should reinforce each other. As participants learn how advanced and deliberate the hidden world actually is, they also discover that advanced infrastructure did not create virtue or vice. It created conditions in which both could become more visible.
+
 ## Narrative engine
 
 First-person present tense is the current working mode. The narrator has enough information to reason but not enough to conclude. The active project register is [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]]: worldbuilding emerges through records, consequences, motivated incomplete conversation, and sparing interpretive turns rather than lectures.
+
+The future-technology rule is to predict **capabilities rather than gadgets**. Extrapolate coherent capability families from current research, then dramatize what happens when those capabilities are foundational to a new world rather than bolted onto an old one.
 
 **Working narration possibility:** before Sylvan appears, first-person narration may arise from independently operating Luminai or Daemon cognitive layers. These layers can function outside conscious human attention because their decisions emerge from the human subconscious mind, but they remain extensions of one human identity rather than separate narrating persons. The exact narrators, pronoun conventions, reader disclosure, and transition into Sylvan's unusually integrated voice remain unresolved.
