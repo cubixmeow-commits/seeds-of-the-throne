@@ -11,6 +11,7 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
+from statistics import mean, median, pstdev
 
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?])(?:[\"'”’)]*)\s+")
 WORD = re.compile(r"[A-Za-z0-9']+")
@@ -32,6 +33,20 @@ def is_dialogue_paragraph(paragraph: str) -> bool:
     return paragraph.lstrip().startswith(DIALOGUE_START)
 
 
+def length_summary(values: list[int]) -> dict:
+    """Return descriptive geometry without imposing a quality threshold."""
+    if not values:
+        return {"count": 0, "min": 0, "max": 0, "mean": 0.0, "median": 0.0, "stdev": 0.0}
+    return {
+        "count": len(values),
+        "min": min(values),
+        "max": max(values),
+        "mean": round(mean(values), 2),
+        "median": round(median(values), 2),
+        "stdev": round(pstdev(values), 2),
+    }
+
+
 def lint(text: str) -> dict:
     sents = sentences(text)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text.strip()) if p.strip()]
@@ -42,6 +57,10 @@ def lint(text: str) -> dict:
     }
 
     narrative_paragraphs = [p for p in paragraphs if not is_dialogue_paragraph(p)]
+    sentence_word_counts = [len(WORD.findall(s)) for s in sents]
+    narrative_paragraph_word_counts = [
+        len(WORD.findall(p)) for p in narrative_paragraphs
+    ]
     one_sentence_narrative_paragraphs = sum(
         1 for p in narrative_paragraphs if len(sentences(p)) == 1
     )
@@ -97,6 +116,10 @@ def lint(text: str) -> dict:
         "sentence_count": len(sents),
         "paragraph_count": len(paragraphs),
         "narrative_paragraph_count": len(narrative_paragraphs),
+        "sentence_word_count_summary": length_summary(sentence_word_counts),
+        "narrative_paragraph_word_count_summary": length_summary(
+            narrative_paragraph_word_counts
+        ),
         "one_sentence_narrative_paragraph_ratio": round(one_sentence_narrative_ratio, 3),
         "longest_one_sentence_narrative_run": longest_one_sentence_narrative_run,
         "pattern_counts": patterns,

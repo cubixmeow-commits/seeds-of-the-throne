@@ -80,6 +80,24 @@ class ProseLintTests(unittest.TestCase):
         result = lint(text)
         self.assert_lacks_flag(result, "one_sentence_narrative_paragraph_cluster")
 
+    def test_variance_metrics_are_descriptive(self):
+        text = (
+            "Stop. The clerk looked down at the seal. "
+            "George had watched that hand certify eleven false inventories without once touching the red edge of the paper."
+        )
+        result = lint(text)
+        summary = result["sentence_word_count_summary"]
+        self.assertEqual(summary["count"], 3)
+        self.assertEqual(summary["min"], 1)
+        self.assertGreater(summary["max"], summary["min"])
+        self.assertFalse(any(flag["type"] == "low_variance" for flag in result["flags"]))
+
+    def test_uniform_sentence_lengths_do_not_create_automatic_variance_failure(self):
+        text = "One clerk signed today. Two guards waited outside. Three records stayed sealed."
+        result = lint(text)
+        self.assertTrue(result["pass"])
+        self.assertFalse(any("variance" in flag["type"] for flag in result["flags"]))
+
 
 if __name__ == "__main__":
     unittest.main()

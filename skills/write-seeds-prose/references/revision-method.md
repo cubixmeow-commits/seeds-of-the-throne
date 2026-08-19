@@ -40,7 +40,17 @@ Identify what each speaker is trying to make happen. Remove lines that only para
 Replace vague abstractions with a small number of consequential physical, procedural, or institutional details. Do not add decorative detail everywhere.
 
 ### Rhythm pass
-Vary sentence and paragraph shape according to thought and pressure. Remove accidental rhetorical templates and overused one-line emphasis.
+
+Identify the passage's local cadence before changing it. Mark where attention, pressure, knowledge, or tactic changes. Let sentence and paragraph shape respond at those points, and remove accidental rhetorical templates or overused one-line emphasis.
+
+### Controlled-variance pass
+
+Check both failure directions:
+
+- **equilibrium:** similar middle-length sentences, matching paragraph shapes, evenly distributed emphasis, or one register despite changing pressure;
+- **synthetic variance:** scheduled fragments, arbitrary rare words, random breaks, or constant long-short oscillation.
+
+Correct the cause before the surface. Expand what the viewpoint cannot leave alone, compress what it avoids or already knows, and break cadence only where cognition or circumstance changes. Do not revise toward a numerical sentence-length target.
 
 ### Anti-AI pass
 Use `anti-ai-prose.md` and `scripts/prose_lint.py` if available.

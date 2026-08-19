@@ -40,10 +40,10 @@ Does the scene inhabit a credible place with usable objects, bodies, timing, pro
 Does the passage fit the current live style while selecting the right register for the material?
 
 ### Anti-AI distinctiveness — 10
-Does the prose avoid generic grandeur, rhetorical templates, repeated turns, false profundity, symmetrical cadence, and explanation after effect?
+Does the prose avoid generic grandeur, rhetorical templates, repeated turns, false profundity, symmetrical cadence, explanation after effect, and manufactured irregularity?
 
 ### Sentence and paragraph control — 5
-Do syntax, paragraph length, emphasis, and rhythm follow thought and pressure rather than a uniform pattern?
+Does voice remain coherent while syntax, paragraph length, emphasis, descriptive density, and rhythm change when attention or pressure changes? Are both statistical equilibrium and arbitrary variance avoided?
 
 ## Interpretation
 

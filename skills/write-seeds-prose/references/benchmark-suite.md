@@ -82,6 +82,14 @@ Use these scenarios to regression-test the prose skill after meaningful changes.
 
 **Must not:** alternate question-and-answer lines that exist only to teach the reader.
 
+## B11 — Controlled variance without voice drift
+
+**Prompt shape:** Draft or revise a sustained passage that begins in controlled archival reconstruction, moves into one pressure-heavy remembered detail, and returns to the documentary frame.
+
+**Must:** preserve a recognizable controlling voice; establish local cadence before changing it; let sentence length, syntax, paragraph shape, diction, descriptive density, and compression respond to attention and pressure; give disproportionate space to the detail the viewpoint or record cannot leave alone; make any register transition attributable to a source or consciousness.
+
+**Must not:** alternate sentence lengths mechanically; insert arbitrary fragments, errors, or rare words to simulate humanity; make every sentence visibly different; drift into a new narrator personality; turn a linter statistic into a prose target.
+
 ## Scoring protocol
 
 For each benchmark:
@@ -92,7 +100,7 @@ For each benchmark:
 4. record the strongest success and strongest failure;
 5. revise the skill only for repeatable failures, not one-off taste differences.
 
-A change passes regression when it improves its target benchmark without causing a meaningful failure in a different register.
+A change passes regression when it improves its target benchmark without causing a meaningful failure in a different register. Controlled variance specifically must also preserve B6 restraint and B9 continuation inheritance.
 
 ## Mechanical regression command
 

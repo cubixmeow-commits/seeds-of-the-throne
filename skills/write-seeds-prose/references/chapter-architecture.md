@@ -67,6 +67,8 @@ Across neighboring chapters vary:
 
 The project voice should remain coherent without making the novel rhythmically uniform.
 
+Long-form variance must remain causal. Let chapter texture change with organizing consciousness, source type, dramatic pressure, and information state. Do not rotate registers or paragraph textures merely to create variety, and do not normalize a deliberately strange chapter during continuation.
+
 ## Recurrence and delayed meaning
 
 When using motifs, records, behavioral fingerprints, repeated identities, or callbacks, allow later material to change earlier meaning. Plant details that function naturally in their first appearance. Avoid highlighting every future clue as significant.

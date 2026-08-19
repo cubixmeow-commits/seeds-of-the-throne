@@ -20,6 +20,7 @@ Use each as a 1–5 working scale. These are calibration aids, not mandatory met
 | Turn frequency | rare | occasional | frequent |
 | Fragment tolerance | almost none | rare emphasis | frequent |
 | Sensory saturation | lean | selected senses | immersive |
+| Expression variance | steady surface | pressure-responsive | sharply irregular |
 
 ### Current recommended baseline
 
@@ -35,6 +36,7 @@ Use each as a 1–5 working scale. These are calibration aids, not mandatory met
 - Turn frequency: 2
 - Fragment tolerance: 1
 - Sensory saturation: 2
+- Expression variance: 4, always causally motivated
 
 These defaults remain subordinate to `03 Context/WRITING-STYLE.md`.
 
@@ -46,6 +48,9 @@ A scene may temporarily specify:
 - POV and psychic distance;
 - pace: slow / medium / fast;
 - dominant pressure type;
+- local cadence and the attention/pressure changes that may alter it;
+- expansion and compression points;
+- any justified register transition;
 - exposition budget: low / medium / high;
 - dialogue ratio target;
 - ambiguity to preserve;
@@ -54,6 +59,8 @@ A scene may temporarily specify:
 - any temporary banned habits.
 
 Do not save a per-scene preference as a global style rule.
+
+Expression variance controls amplitude, not quality and not a quota. A high setting permits larger pressure-driven changes in syntax, paragraph geometry, diction, and descriptive density. It never requires arbitrary fragments, rare words, or alternating sentence lengths.
 
 ## Approved examples
 

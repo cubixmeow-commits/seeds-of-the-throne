@@ -48,6 +48,7 @@ Always read:
 - `references/prose-checklist.md`
 - `references/voice-profile.md`
 - `references/anti-ai-prose.md`
+- `references/controlled-variance.md`
 
 Load when relevant:
 
@@ -76,7 +77,8 @@ Before drafting, establish internally:
 7. Information the reader should gain.
 8. Information the reader should *not* gain yet.
 9. Pressure change by the end.
-10. Authority status of every nontrivial fact: established, working, proposed, unresolved.
+10. Attention and expression map: what receives expansion, compression, a cadence break, or a justified register shift.
+11. Authority status of every nontrivial fact: established, working, proposed, unresolved.
 
 Infer safe connective details when exploratory. Mark them proposed outside the prose. Never use polished language to smuggle them into canon.
 
@@ -90,7 +92,7 @@ Apply in this order:
 4. **Character specificity**: attention, tactics, assumptions, and syntax should belong to the person, not merely the project-wide style.
 5. **Subtext**: characters speak to achieve something, not to inform the reader.
 6. **Information control**: reveal the minimum that makes the current beat legible and interesting.
-7. **Sentence craft**: vary length and shape according to pressure; prefer clean concrete sentences over ornamental performance.
+7. **Sentence craft**: keep voice consistent while length, syntax, paragraph shape, diction, and descriptive weight respond to attention and pressure. Establish local patterns before breaking them. Prefer clean concrete sentences over ornamental performance.
 8. **Seeds voice**: recovered-history pressure, contradiction, institutional evidence, subjective uncertainty, political grotesque where appropriate.
 
 ## Current style baseline
@@ -103,6 +105,7 @@ Follow `03 Context/WRITING-STYLE.md` as the live authority. Current defaults:
 - Systems appear through consequences, records, behavior, procedure, failure, and discovery rather than lectures.
 - Contradictions generate mystery.
 - The recurring **turn** may alter the meaning of preceding material, but must remain uncommon enough to retain force.
+- Controlled human variance: consistency at the level of voice, variance at the level of expression. Disruptions must arise from cognition, attention, circumstance, or pressure rather than randomization.
 - Political grotesque is available for contained senior leadership; close psychological prose is available for character-bound scenes.
 - No em dashes.
 
@@ -117,9 +120,10 @@ For revision or refinement:
 3. Preserve what already works.
 4. Use `revision-method.md` to fix the highest-level problem before line polishing.
 5. Run the anti-AI pass and `scripts/prose_lint.py` when available.
-6. Check canon/POV leakage.
-7. Check endings for unnecessary explanation or manufactured profundity.
-8. If the revision exposed a new unresolved story question, surface it outside the prose rather than solving it invisibly.
+6. Run the controlled-variance pass: identify the local cadence, the real pressure or attention changes, and whether expression responds without becoming random.
+7. Check canon/POV leakage.
+8. Check endings for unnecessary explanation or manufactured profundity.
+9. If the revision exposed a new unresolved story question, surface it outside the prose rather than solving it invisibly.
 
 Prefer one consequential revision over many cosmetic changes.
 
@@ -159,6 +163,7 @@ Prefer one consequential revision over many cosmetic changes.
 - Manipulation does not erase a character's remaining agency or responsibility.
 - Do not imitate a living author's distinctive style.
 - Do not default to melodramatic fragments, rhetorical symmetry, repeated ominous turns, generic grandeur, or explanation after the image already works.
+- Do not simulate humanity through scheduled fragments, arbitrary rare words, random register shifts, or sentence-length oscillation. Meaningful variance has a cause.
 - Do not rewrite merely because wording is unusual. Purposeful strangeness can be voice.
 
 ## Learning loop

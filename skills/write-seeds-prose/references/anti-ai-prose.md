@@ -31,6 +31,10 @@ Replace labels like dread, rage, confusion, devastation, and unease when behavio
 ### Symmetrical paragraphing
 Avoid every paragraph having similar length, similar internal rhythm, and a neat final sentence. Let structure follow thought and action.
 
+### Synthetic variance
+
+Do not try to appear human by inserting fragments, unusual words, abrupt register shifts, or conspicuously different sentence lengths on a schedule. Constant oscillation is as mechanical as constant sameness. Establish local cadence, then let cognition, attention, or pressure cause the break.
+
 ### False profundity
 Delete statements that sound important but add no new fact, choice, image, relationship, or interpretation.
 
@@ -54,6 +58,8 @@ After drafting, search mentally or with tools when available for:
 - clusters of one-sentence paragraphs;
 - repeated contrast templates;
 - multiple closing turns within a short span.
+- long passages that remain in a comfortable middle sentence length despite changes in pressure;
+- conspicuous short-long alternation or scheduled fragments used as artificial irregularity.
 
 Mechanical flags are prompts to inspect, not automatic errors.
 
