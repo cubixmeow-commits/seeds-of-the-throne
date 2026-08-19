@@ -1,6 +1,6 @@
 ---
 name: write-seeds-prose
-description: Draft, continue, refine, revise, or evaluate sustained Seeds of the Throne fiction using the project's modular prose system. Use for scenes, narration, dialogue, exposition, suspense, exploratory prose, manuscript candidates, continuations, and whole-scene revision. Preserve author authority, current canon, viewpoint limits, and project voice. Do not use when the user mainly wants coaching, story decisions, research, or continuity auditing.
+description: Draft, continue, refine, revise, or evaluate sustained Seeds of the Throne fiction using the project's modular prose system. Use for scenes, chapters, narration, dialogue, exposition, suspense, exploratory prose, manuscript candidates, continuations, and whole-scene revision. Preserve author authority, current canon, viewpoint limits, and project voice. Do not use when the user mainly wants coaching, story decisions, research, or continuity auditing.
 ---
 
 # Write Seeds Prose
@@ -52,11 +52,15 @@ Always read:
 Load when relevant:
 
 - scene design -> `references/scene-architecture.md`
+- chapter/long-form design -> `references/chapter-architecture.md`
+- character POV or dialogue voice -> `references/character-voice.md`
 - dialogue -> `references/dialogue.md`
 - exposition/world systems -> `references/exposition.md`
 - suspense/revelation -> `references/suspense-and-revelation.md`
 - missing information/research -> `references/research-and-questioning.md`
+- revision -> `references/revision-method.md`
 - evaluation/refinement -> `references/evaluation-rubric.md`
+- regression testing -> `references/benchmark-suite.md`
 - changing the system -> `references/customization.md`
 
 ## Build a scene packet
@@ -83,10 +87,11 @@ Apply in this order:
 1. **Dramatic causality**: every beat happens because of a want, obstacle, discovery, choice, consequence, or changed interpretation.
 2. **POV integrity**: language and information remain limited to the controlling consciousness/register.
 3. **Specific physical reality**: bodies, rooms, objects, procedures, records, interfaces, weather, sound, distance, time, and consequence.
-4. **Subtext**: characters speak to achieve something, not to inform the reader.
-5. **Information control**: reveal the minimum that makes the current beat legible and interesting.
-6. **Sentence craft**: vary length and shape according to pressure; prefer clean concrete sentences over ornamental performance.
-7. **Seeds voice**: recovered-history pressure, contradiction, institutional evidence, subjective uncertainty, political grotesque where appropriate.
+4. **Character specificity**: attention, tactics, assumptions, and syntax should belong to the person, not merely the project-wide style.
+5. **Subtext**: characters speak to achieve something, not to inform the reader.
+6. **Information control**: reveal the minimum that makes the current beat legible and interesting.
+7. **Sentence craft**: vary length and shape according to pressure; prefer clean concrete sentences over ornamental performance.
+8. **Seeds voice**: recovered-history pressure, contradiction, institutional evidence, subjective uncertainty, political grotesque where appropriate.
 
 ## Current style baseline
 
@@ -110,8 +115,8 @@ For revision or refinement:
 1. Name the strongest problem in one sentence.
 2. Score the passage using `evaluation-rubric.md` when the change is substantial.
 3. Preserve what already works.
-4. Revise at the scene/paragraph level before line polishing.
-5. Run the anti-AI pass.
+4. Use `revision-method.md` to fix the highest-level problem before line polishing.
+5. Run the anti-AI pass and `scripts/prose_lint.py` when available.
 6. Check canon/POV leakage.
 7. Check endings for unnecessary explanation or manufactured profundity.
 8. If the revision exposed a new unresolved story question, surface it outside the prose rather than solving it invisibly.
@@ -164,6 +169,7 @@ After author feedback on a draft:
 2. distinguish story preference from prose preference;
 3. convert repeatable prose preferences into a proposed rule;
 4. update the skill only after the pattern is clear enough to generalize;
-5. add or revise a benchmark when the new rule can be tested.
+5. add or revise a benchmark when the new rule can be tested;
+6. retire superseded rules explicitly rather than allowing old behavior to return silently.
 
 The goal is not a static prompt. The goal is a project-specific writer that becomes measurably better through approved examples, failures, and regression tests.
