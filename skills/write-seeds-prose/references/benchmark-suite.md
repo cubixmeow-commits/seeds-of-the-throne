@@ -93,3 +93,13 @@ For each benchmark:
 5. revise the skill only for repeatable failures, not one-off taste differences.
 
 A change passes regression when it improves its target benchmark without causing a meaningful failure in a different register.
+
+## Mechanical regression command
+
+From the vault root, run:
+
+```bash
+PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s skills/write-seeds-prose/scripts -p 'test_*.py' -v
+```
+
+This suite checks conservative mechanical invariants only. Passing it does not count as passing B1-B10, which require behavioral review of prose outputs.

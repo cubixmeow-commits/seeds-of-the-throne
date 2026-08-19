@@ -66,3 +66,18 @@ After the refinement, both representative smoke tests produced zero mechanical f
 The architecture is now complete enough for real use. The highest-value next improvements should come from actual prose sessions and explicit author reactions. Repeated preferences should be captured through the rule lifecycle in `references/customization.md` and added to the benchmark suite when they can be tested.
 
 Full fresh-agent forward testing across all ten prose benchmarks remains useful as a later QA pass, but should not block using the system now.
+
+## Desktop reconciliation and second linter refinement
+
+The desktop vault was safely fast-forwarded from `55b408c` to `413225d` after confirming that the local branch was clean, had no unique commits, and was exactly thirty commits behind `origin/main`. The August 18 modular prose work and the separate technology/awakening development were already present upstream, so no chat-only story material needed promotion.
+
+Review of the linter and benchmark suite found two reproducible mechanical gaps:
+
+1. repeated `It wasn’t X. It was Y.` constructions using a typographic apostrophe escaped the existing detector;
+2. the one-sentence-paragraph heuristic measured a global ratio, so scattered short paragraphs could be mislabeled as a cluster even when longer paragraphs broke the cadence.
+
+The contrast detector now accepts straight and typographic apostrophes. The paragraph warning now measures the longest consecutive run of one-sentence narrative paragraphs and resets across dialogue or multi-sentence paragraphs. Regression coverage increased from six to eight cases, including a smart-apostrophe positive case and a scattered-short-paragraph negative case.
+
+The test file now uses standard `unittest` discovery so a normal discovery run cannot silently report zero tests. All eight cases pass, the scripts compile, whitespace validation passes, and the official skill validator reports the skill as valid.
+
+This refinement changes no story facts, style authority, or canon status. Archive Thriller / Dark Historical Reconstruction remains active, and Jurassic Park-style exposition remains retired.

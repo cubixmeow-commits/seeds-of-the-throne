@@ -50,9 +50,21 @@ def lint(text: str) -> dict:
         if narrative_paragraphs else 0.0
     )
 
+    longest_one_sentence_narrative_run = 0
+    current_one_sentence_narrative_run = 0
+    for paragraph in paragraphs:
+        if not is_dialogue_paragraph(paragraph) and len(sentences(paragraph)) == 1:
+            current_one_sentence_narrative_run += 1
+            longest_one_sentence_narrative_run = max(
+                longest_one_sentence_narrative_run,
+                current_one_sentence_narrative_run,
+            )
+        else:
+            current_one_sentence_narrative_run = 0
+
     patterns = {
         "not_x_but_y": len(re.findall(r"\bnot\b[^.!?\n]{0,90}\bbut\b", text, flags=re.I)),
-        "it_wasnt_it_was": len(re.findall(r"\bit\s+was(?:n't| not)\b[^.!?]{0,90}[.!?]\s*\bit\s+was\b", text, flags=re.I)),
+        "it_wasnt_it_was": len(re.findall(r"\bit\s+was(?:n['’]t| not)\b[^.!?]{0,90}[.!?]\s*\bit\s+was\b", text, flags=re.I)),
         "question_was_not": len(re.findall(r"\bthe\s+question\s+was\s+not\b", text, flags=re.I)),
     }
 
@@ -74,12 +86,10 @@ def lint(text: str) -> dict:
 
     # Dialogue is commonly formatted as one sentence per paragraph. Only inspect
     # narrative paragraphs for this cadence warning to avoid punishing normal fiction.
-    if len(narrative_paragraphs) >= 5 and one_sentence_narrative_ratio >= 0.6:
+    if longest_one_sentence_narrative_run >= 5:
         flags.append({
             "type": "one_sentence_narrative_paragraph_cluster",
-            "count": one_sentence_narrative_paragraphs,
-            "paragraphs": len(narrative_paragraphs),
-            "ratio": round(one_sentence_narrative_ratio, 3),
+            "count": longest_one_sentence_narrative_run,
             "severity": "warning",
         })
 
@@ -88,6 +98,7 @@ def lint(text: str) -> dict:
         "paragraph_count": len(paragraphs),
         "narrative_paragraph_count": len(narrative_paragraphs),
         "one_sentence_narrative_paragraph_ratio": round(one_sentence_narrative_ratio, 3),
+        "longest_one_sentence_narrative_run": longest_one_sentence_narrative_run,
         "pattern_counts": patterns,
         "repeated_sentence_starters": repeated_starters,
         "flags": flags,
