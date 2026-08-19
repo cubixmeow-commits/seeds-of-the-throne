@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-17
+updated: 2026-08-19
 ---
 
 # Writing Style — Archive Thriller / Dark Historical Reconstruction
@@ -31,6 +31,41 @@ This suits the story's central material: false histories, containment, hidden mo
 - Prefer clean sentences over ornamental description.
 - End sections on implications, reversals, or unsettling consequences rather than explanations.
 - Do not make this AI development register the mandatory voice of the final human-authored fiction.
+
+## Controlled human variance
+
+Human prose is high-variance. It does not naturally settle into a statistical average of similarly sized sentences, predictable paragraph shapes, safe vocabulary, and evenly distributed emphasis. Human writers pick odd words, move from two-word sentences to forty-word ones, linger on an apparently minor physical detail, compress a major event into a phrase, establish a rhythm, and then break it.
+
+The project prose should preserve that irregularity deliberately, but **never randomly**.
+
+Core principle:
+
+> **Avoid statistical equilibrium. Human thought does not arrive in evenly sized packages. Allow sentence length, diction, syntax, paragraph shape, descriptive density, and register to fluctuate according to attention and emotional pressure. Establish patterns long enough for the reader to feel them, then occasionally break them. Prefer meaningful irregularity over arbitrary randomness.**
+
+The governing distinction is:
+
+> **Consistency at the level of voice. Variance at the level of expression.**
+
+A character, narrator, or documentary register should remain recognizably itself while the surface geometry of the prose changes according to what that mind is noticing, remembering, concealing, fearing, explaining, or deciding.
+
+### Forms of useful variance
+
+- **Sentence-length variance:** Permit abrupt two- or three-word sentences beside long, accumulating sentences when the thought requires it. Do not hover continually around a comfortable middle length.
+- **Lexical variance:** Prefer the strange, precise, physical, or context-specific word when it is better than the statistically obvious one.
+- **Structural variance:** Do not make every paragraph follow setup → elaboration → concluding punch. Begin with the consequence sometimes. Delay the explanation. Leave an implication unresolved when resolution would weaken it.
+- **Rhythmic breaks:** Establish cadence, then violate it at moments of recognition, fear, absurdity, violence, or revelation.
+- **Compression and expansion:** Give disproportionate space to whatever the viewpoint finds important. A tiny object may receive forty words. A death, collapse, war, or betrayal may sometimes be delivered in five.
+- **Register shifts:** Documentary, bureaucratic, intimate, vulgar, political, technical, religious, frightened, or brutally simple language can interrupt one another when viewpoint and circumstance justify the shift.
+- **Imperfect repetition:** Allow words and ideas to recur with mutation. Avoid overly polished rhetorical triplets and conspicuously engineered parallelism unless a speaker would naturally use them.
+- **Asymmetry:** Parallel ideas do not need parallel sentence structures or equal amounts of explanation.
+
+### Anti-pattern
+
+Do not simulate humanity by inserting arbitrary sentence fragments, unusual words, errors, or short sentences at regular intervals. A detectable "variance pattern" is simply another machine pattern.
+
+Every disruption should feel attributable to a mind doing something: noticing, remembering, reacting, explaining, hiding, rationalizing, hesitating, or deciding.
+
+The goal is not messiness. It is **controlled irregularity produced by cognition and pressure**.
 
 ## The turn
 
@@ -80,6 +115,6 @@ He is trying to become Konrad.
 
 ## Development note
 
-This style is adopted, but still open to refinement through scene tests. The next pass should test it against different material: Samuel's exile, Konrad's collapse, George's subjective reality, Sylvan's discoveries, and technical/world-system reveals. Refine compression, irony, cinematic intensity, and frequency of the turn without reopening the retired Jurassic Park register.
+This style is adopted, but still open to refinement through scene tests. The next pass should test it against different material: Samuel's exile, Konrad's collapse, George's subjective reality, Sylvan's discoveries, and technical/world-system reveals. Refine compression, irony, cinematic intensity, frequency of the turn, and controlled human variance without reopening the retired Jurassic Park register.
 
 The exact details of Samuel's original misconduct, his parents' individual roles in the exile, the mechanisms of his wartime sabotage, and the sequence by which the defeated faction becomes dependent on him remain working material for the next integration session.
