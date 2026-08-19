@@ -1,4 +1,4 @@
 interface:
   display_name: "Write Seeds Prose"
-  short_description: "Explore, refine, and promote Seeds fiction"
-  default_prompt: "Use $write-seeds-prose to create a non-canon exploratory scene that we can refine before promoting it to a manuscript candidate."
+  short_description: "Draft and refine Seeds fiction with modular craft controls"
+  default_prompt: "Use $write-seeds-prose to build a scene packet, draft a non-canon exploratory scene, evaluate it against the Seeds prose rubric, run the anti-AI pass, and preserve unresolved canon rather than inventing answers."
