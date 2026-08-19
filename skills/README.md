@@ -33,11 +33,11 @@ Each skill name uses lowercase hyphenated words. Each `SKILL.md` begins with YAM
 - [`research-story-material`](research-story-material/SKILL.md): investigate real-world mechanisms with sourced uncertainty and no automatic canon.
 - [`check-story-continuity`](check-story-continuity/SKILL.md): audit chronology, character knowledge, causality, systems, terminology, and status.
 - [`coach-seeds-writing`](coach-seeds-writing/SKILL.md): coach fiction craft by default and provide short, non-canon demonstrations when the author explicitly asks for samples.
-- [`write-seeds-prose`](write-seeds-prose/SKILL.md): explore, continue, refine, and deliberately promote sustained story prose without overriding the author's voice or canon authority.
+- [`write-seeds-prose`](write-seeds-prose/SKILL.md): modular story-writing system for scenes and chapters, including character voice, dialogue, exposition, suspense, revision, anti-AI checks, research/question triage, customizable style controls, a 100-point evaluation rubric, and regression benchmarks while preserving author and canon authority.
 - [`update-public-atlas`](update-public-atlas/SKILL.md): publish approved developments to the static story atlas and verify the result.
 - [`create-seeds-images`](create-seeds-images/SKILL.md): create, evaluate, and store consistent character art and story imagery through a model-neutral visual registry and approved reference library.
 
-The initial story-workflow set was structurally validated and forward-tested on 2026-08-11. The image system was added and validated on 2026-08-12. The coaching skill was added on 2026-08-15. Test results are recorded in `07 QA/Shared Skill Tests.md`.
+The initial story-workflow set was structurally validated and forward-tested on 2026-08-11. The image system was added and validated on 2026-08-12. The coaching skill was added on 2026-08-15. The prose skill was expanded into a modular writing and regression-testing system on 2026-08-18. Test results are recorded in `07 QA/Shared Skill Tests.md`.
 
 ## Creating a skill
 
