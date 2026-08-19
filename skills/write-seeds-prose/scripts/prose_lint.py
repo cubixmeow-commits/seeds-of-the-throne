@@ -14,6 +14,7 @@ from pathlib import Path
 
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?])(?:[\"'”’)]*)\s+")
 WORD = re.compile(r"[A-Za-z0-9']+")
+DIALOGUE_START = ('"', '“', "'", '‘')
 
 
 def sentences(text: str) -> list[str]:
@@ -27,6 +28,10 @@ def opening_key(sentence: str, n: int = 3) -> str | None:
     return " ".join(words[:n])
 
 
+def is_dialogue_paragraph(paragraph: str) -> bool:
+    return paragraph.lstrip().startswith(DIALOGUE_START)
+
+
 def lint(text: str) -> dict:
     sents = sentences(text)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", text.strip()) if p.strip()]
@@ -36,9 +41,13 @@ def lint(text: str) -> dict:
         key: count for key, count in starters.items() if count >= 3
     }
 
-    one_sentence_paragraphs = sum(1 for p in paragraphs if len(sentences(p)) == 1)
-    one_sentence_ratio = (
-        one_sentence_paragraphs / len(paragraphs) if paragraphs else 0.0
+    narrative_paragraphs = [p for p in paragraphs if not is_dialogue_paragraph(p)]
+    one_sentence_narrative_paragraphs = sum(
+        1 for p in narrative_paragraphs if len(sentences(p)) == 1
+    )
+    one_sentence_narrative_ratio = (
+        one_sentence_narrative_paragraphs / len(narrative_paragraphs)
+        if narrative_paragraphs else 0.0
     )
 
     patterns = {
@@ -63,19 +72,22 @@ def lint(text: str) -> dict:
             "severity": "warning",
         })
 
-    if len(paragraphs) >= 5 and one_sentence_ratio >= 0.6:
+    # Dialogue is commonly formatted as one sentence per paragraph. Only inspect
+    # narrative paragraphs for this cadence warning to avoid punishing normal fiction.
+    if len(narrative_paragraphs) >= 5 and one_sentence_narrative_ratio >= 0.6:
         flags.append({
-            "type": "one_sentence_paragraph_cluster",
-            "count": one_sentence_paragraphs,
-            "paragraphs": len(paragraphs),
-            "ratio": round(one_sentence_ratio, 3),
+            "type": "one_sentence_narrative_paragraph_cluster",
+            "count": one_sentence_narrative_paragraphs,
+            "paragraphs": len(narrative_paragraphs),
+            "ratio": round(one_sentence_narrative_ratio, 3),
             "severity": "warning",
         })
 
     return {
         "sentence_count": len(sents),
         "paragraph_count": len(paragraphs),
-        "one_sentence_paragraph_ratio": round(one_sentence_ratio, 3),
+        "narrative_paragraph_count": len(narrative_paragraphs),
+        "one_sentence_narrative_paragraph_ratio": round(one_sentence_narrative_ratio, 3),
         "pattern_counts": patterns,
         "repeated_sentence_starters": repeated_starters,
         "flags": flags,
