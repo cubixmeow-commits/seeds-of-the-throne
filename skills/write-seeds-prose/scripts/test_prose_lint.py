@@ -40,10 +40,26 @@ def test_repeated_starter_warns_at_three():
     assert any(flag["type"] == "repeated_sentence_starters" for flag in result["flags"])
 
 
-def test_one_sentence_paragraph_cluster_warns():
+def test_one_sentence_narrative_cluster_warns():
     text = "One thing happened.\n\nAnother thing happened.\n\nA third happened.\n\nA fourth happened.\n\nThen this ended."
     result = lint(text)
-    assert any(flag["type"] == "one_sentence_paragraph_cluster" for flag in result["flags"])
+    assert any(flag["type"] == "one_sentence_narrative_paragraph_cluster" for flag in result["flags"])
+
+
+def test_dialogue_paragraphs_do_not_trigger_cluster_warning():
+    text = (
+        '"Sit down," Samuel said.\n\n'
+        '"No."\n\n'
+        '"Then stand."\n\n'
+        "Konrad left the chair where it was. He put the register on the table and opened it.\n\n"
+        '"Three names are gone."\n\n'
+        '"I know."'
+    )
+    result = lint(text)
+    assert not any(
+        flag["type"] == "one_sentence_narrative_paragraph_cluster"
+        for flag in result["flags"]
+    )
 
 
 if __name__ == "__main__":
@@ -52,7 +68,8 @@ if __name__ == "__main__":
         test_em_dash_is_error,
         test_repeated_contrast_template_warns,
         test_repeated_starter_warns_at_three,
-        test_one_sentence_paragraph_cluster_warns,
+        test_one_sentence_narrative_cluster_warns,
+        test_dialogue_paragraphs_do_not_trigger_cluster_warning,
     ]
     for test in tests:
         test()
