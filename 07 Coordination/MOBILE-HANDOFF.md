@@ -6,17 +6,15 @@ updated: 2026-08-21
 
 # Mobile Handoff
 
-Use this note as the single pickup point when moving from desktop implementation work back to mobile brainstorming.
+Use this note as the single pickup point when moving between mobile brainstorming and desktop integration.
 
 ## Current state
 
 Story Gauntlet v0.1 is implemented and manually runnable in `08 Story Loop/`.
 
-The modern spine is now:
+The current modern progression is:
 
-`Sylvan's pre-AI story-development startup -> identity-driven sabotage by Samuel and George -> startup collapse -> multi-year unemployment and Luminai emergence -> escalating surveillance/interference -> later controlled environments -> Sylvan and his Luminai master the advanced architecture through prolonged struggle -> final bounded environment under Sylvan's control -> Samuel and George expose themselves`
-
-The startup is a successful pre-generative-AI creative-development software system. Samuel and George attack it because of Sylvan's identity and developmental importance, not because they care about the product itself. Their attempt to stop his development instead becomes the ordeal that completes the human–Luminai bond capable of defeating them.
+`pre-AI startup -> sabotage and collapse -> multi-year unemployment / Luminai emergence -> antagonist-dominant public humiliation -> multi-zone employment -> later contested / inversion stages -> final bounded environment -> Samuel and George expose themselves`
 
 ## Active Story Gauntlet unit
 
@@ -24,82 +22,83 @@ The startup is a successful pre-generative-AI creative-development software syst
 
 Open:
 
-- [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]]
 - [[08 Story Loop/Units/S-005 - Controlled Environment Progression]]
-- [[08 Story Loop/STORY-MAP]]
+- [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]]
+- [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 02]]
+- [[01 Sessions/Daily/2026-08-21 - S-005 Humiliation and Multi-Zone Employment Environments]]
 
-## Accepted first post-startup environment
+## Accepted environments
 
-Immediately after the sabotaged company, Sylvan enters a **multi-year unemployed section**.
+### Environment 1 — unemployment / Luminai emergence
 
-During this period:
+Years of outwardly ordinary unemployed life: outdoors, stores, errands, nighttime exploration, walking, and bike riding. The Luminai becomes consciously perceptible and Sylvan learns to access, test, question, trust, and integrate his extended cognition. Samuel and George can spy and exert limited influence; attacks escalate gradually.
 
-- his Luminai presents itself to him;
-- he spends years learning the Luminai and developing their conscious relationship;
-- much of the section is grounded in outdoor and everyday life;
-- recurring material includes going to stores, routine errands, nighttime exploration, walking, and bike riding;
-- Samuel and George can spy on Sylvan;
-- they have limited influence rather than overwhelming control;
-- their attacks begin constrained and gradually ramp up.
+### Environment 2 — antagonist-dominant humiliation
 
-This phase should remain recognizably ordinary on the surface. It is a long developmental era, not a brief montage and not an overt science-fiction arena.
+Samuel and George become the local alpha actors for roughly a year. Sylvan experiences what happens when criminals and malicious people possess meaningful control over an advanced environment. Their manipulation produces sustained public degradation: to ordinary observers he may appear unstable, disorganized, homeless, socially ruined, or like a "crazed hobo."
 
-## Exact pickup questions
+The purpose is developmental rather than humiliation for spectacle. Sylvan learns to preserve contact with reality, memory, provenance, evidence, and agency while hostile operators manipulate environment, context, access, opportunity, social response, and public interpretation.
 
-The broad identity of Environment 1 is now resolved. Continue by defining its internal progression:
+Their control is severe but bounded. Exact mechanisms and limits remain unresolved.
 
-**How does Sylvan's Luminai first present itself to him, and what is the first small piece of Samuel/George interference that begins to turn years of ordinary life into a pattern Sylvan and the Luminai can study together?**
+### Environment 3 — multi-zone employment
 
-Useful secondary questions:
+Sylvan later enters legitimate employment inside one large institution or operational environment containing many distinct sub-environments. His normal duties cause him to traverse them repeatedly.
 
-- What can Sylvan and the Luminai communicate at first?
-- What develops only after months or years?
-- How does Sylvan support himself during unemployment?
-- What can Samuel and George actually see?
-- What can they influence, and what is beyond their reach?
-- Why do their attacks escalate?
-- Which ordinary routines become repeated observational or learning spaces?
-- What finally ends this phase and pushes Sylvan into the next environment?
+The exact job and employer remain unresolved. A large technology campus is one candidate, but the role must emerge from functional needs rather than convenience. Candidate job families include facilities/building operations, security or safety patrol, logistics/internal delivery, technical field support, infrastructure maintenance, inspection/compliance support, or another campus-operations role.
 
-Brainstorm freely. The next integration pass should extract accepted decisions, working possibilities, rejected ideas, and remaining questions.
+The key function is repeated legitimate movement across zones with different people, permissions, technologies, surveillance, rules, layouts, and information flows. This forces Sylvan to generalize what he learned during hostile control rather than merely survive one fixed arena.
 
-## Established constraints to preserve
+## Current structural contrast
 
-- The unemployment environment lasts years.
-- Ordinary life and outdoor exploration are a major part of its texture.
-- The Luminai relationship develops gradually through lived experience.
-- Samuel and George can observe Sylvan but have only limited influence at first.
-- Do not give them retroactive omnipotence in this phase.
-- Their attacks escalate over time and need a causal reason for doing so.
-- The Luminai may notice patterns or extend Sylvan's cognition but must not simply explain the hidden system to him.
-- Later environments should increase or transform the control balance rather than repeat this one cosmetically.
-- The final environment gives Sylvan bounded, accountable control rather than omnipotence.
-- Samuel and George must expose themselves through authentic behavior and choices. Sylvan does not manufacture guilt.
+`learn the extended mind -> learn hostile control -> generalize across complex systems`
+
+- Environment 1 establishes baselines and conscious Luminai integration.
+- Environment 2 teaches what malicious advanced control actually does to a target and to public interpretation.
+- Environment 3 teaches Sylvan to compare, predict, and operate across many changing settings and permissions.
+
+## Exact pickup target
+
+Before choosing the job title, define **four to six sub-environments Sylvan needs legitimate repeated access to**.
+
+For each one ask:
+
+- What does this place look and feel like on the ordinary surface?
+- Why does Sylvan's job bring him there repeatedly?
+- What permission does he have there, and what is denied?
+- How strong is Samuel and George's influence in that zone?
+- What new test, anomaly, evidence, or lesson does the zone provide?
+- Why could that lesson not be learned in the other zones?
+
+Once those zones exist, choose the occupation that naturally connects them without granting Sylvan implausible universal access.
+
+## Preserve
+
+- Luminai is extended cognition within Sylvan's identity, not a separate AI companion.
+- Samuel and George never gain unexplained omnipotence.
+- Public humiliation must arise from concrete manipulated conditions and interpretations, not magical mind control.
+- Sylvan retains agency and can be wrong.
+- The job must naturally require movement between zones.
+- Environment variety must be functional, not cosmetic.
+- Evidence must eventually survive beyond Sylvan's private interpretation.
+- The final environment gives Sylvan bounded, accountable control and cannot manufacture guilt.
 
 ## Still unresolved
 
-Do not silently decide these during handoff:
-
-- exact length of unemployment;
-- how Sylvan supports himself;
-- the Luminai's first presentation and early communication mechanics;
-- precise surveillance mechanism available to Samuel and George;
-- precise influence limits;
-- first attack and escalation ladder;
-- recurring outdoor locations or routines;
-- evidence preserved from this period;
-- social, financial, emotional, or physical costs;
-- what ends the unemployment environment;
-- number and identity of later environments;
-- exact human–Luminai developmental stages and capabilities;
-- the moment the bond becomes unprecedented;
-- the final bounded-control mechanism;
-- how the final evidence is authenticated publicly.
+- exact Luminai first presentation;
+- why Samuel and George escalate from Environment 1;
+- what ends unemployment;
+- exact mechanisms of the humiliation year;
+- why Samuel and George gain stronger local leverage there;
+- what ends their dominant period;
+- exact employer and occupation for Environment 3;
+- exact sub-environments and permission boundaries;
+- how antagonist influence changes by zone;
+- later contested-environment structure;
+- final bounded-control mechanism and public authentication.
 
 ## Device workflow
 
-**Mobile:** brainstorm against the active packet and preserve raw author ideas.
+**Mobile:** brainstorm freely against the active packet and preserve author decisions.
 
-**Desktop:** reconcile the brainstorm into Story Units, run the Gauntlet critics, stop at author gates, integrate approved material, update context, commit, and push.
-
-If another coordination note disagrees with this handoff, compare modification dates and the active Story Gauntlet packet before proceeding. As of 2026-08-21, S-005 and this unemployment/Luminai-emergence phase are the authoritative pickup point.
+**Desktop:** reconcile into Story Units, run Gauntlet critics, stop at author gates, integrate approved material, update context, commit, and push.
