@@ -9,7 +9,9 @@ updated: 2026-08-21
 
 ## Current accepted ladder
 
-`startup sabotage -> unemployment / Luminai emergence -> antagonist-dominant humiliation -> multi-zone employment -> contested / inversion stages`
+`startup sabotage -> unemployment / Luminai emergence -> antagonist-dominant humiliation -> multi-zone employment -> terminal control transfer -> exposure and defeat`
+
+The multi-zone employment environment is now also the final inversion environment. Sylvan does not leave it for a separate arena before the endgame.
 
 ## Environment 2 — antagonist-dominant humiliation
 
@@ -44,7 +46,7 @@ Samuel and George can dominate this environment locally, but they cannot become 
 6. What evidence survives?
 7. What event ends their local dominance and leads into employment?
 
-## Environment 3 — multi-zone employment
+## Environment 3 — multi-zone employment and terminal inversion
 
 ### Accepted function
 
@@ -70,7 +72,7 @@ Not every category is required. The final job should include only settings that 
 
 ### Why this stage matters
 
-The humiliation environment teaches Sylvan to survive one hostile system. The employment environment forces him to **generalize**.
+The humiliation environment teaches Sylvan to survive one hostile system. The employment environment forces him to **generalize** and then survive long enough for the control balance to reverse.
 
 Different zones can have different:
 
@@ -87,6 +89,27 @@ Different zones can have different:
 
 Sylvan can therefore compare how the same antagonist method behaves when the surrounding conditions change. His job becomes a legitimate reason to traverse the system repeatedly rather than a convenient excuse for universal access.
 
+### Accepted terminal rule
+
+If Sylvan survives until the end condition of the multi-zone employment environment, he receives bounded control of that same environment and can expose Samuel and George.
+
+This means:
+
+- Samuel and George's primary endgame objective is to prevent Sylvan from reaching the terminal threshold;
+- Sylvan does not need to overpower them early; survival, learning, evidence preservation, and persistence are strategically sufficient;
+- the control transfer must be a real pre-existing rule or mechanism, not something created at the last minute for him;
+- once control transfers, Sylvan can reveal authentic behavior, records, command relationships, or interventions accumulated while Samuel and George believed they would remain dominant;
+- the transfer does not permit Sylvan to manufacture guilt or rewrite past conduct;
+- their defeat comes from failing to stop the person they have been attacking from surviving long enough to become the accountable observer/controller of the environment they abused.
+
+### Why the inversion is strong
+
+For most of the story, Samuel and George treat time as their ally. They assume repeated pressure will eventually break Sylvan before he can understand the system.
+
+The terminal rule reverses that assumption. Time is actually Sylvan's path to control.
+
+Every failed attack teaches him more, preserves more evidence, and moves him closer to the threshold they cannot afford to let him reach.
+
 ### Job-selection test
 
 Do not choose the occupation by title first. Choose it by asking:
@@ -98,6 +121,7 @@ Do not choose the occupation by title first. Choose it by asking:
 5. How do antagonist methods change between zones?
 6. What skill or insight becomes portable across all of them?
 7. Which role creates variety without making Sylvan implausibly powerful?
+8. What feature of the institution supports a credible terminal control-transfer rule?
 
 ### Candidate job families — proposed only
 
@@ -117,8 +141,12 @@ These are candidates, not accepted facts.
 |---|---|---|---|
 | Unemployment / emergence | loose, ordinary, outdoors, stores, nighttime exploration | spying + limited interference | learn conscious Luminai access and establish baselines |
 | Humiliation / hostile control | degraded public life, constrained options, reputation attack | locally dominant / alpha | remain in contact with reality while hostile actors shape context and interpretation |
-| Multi-zone employment | legitimate structured work across many settings | variable by zone | generalize, compare, predict, and operate across changing systems and permissions |
+| Multi-zone employment | legitimate structured work across many settings | variable but substantially advantaged until threshold | generalize, compare, authenticate, survive, then inherit bounded control and expose them |
 
 ## Next brainstorming target
 
-Before selecting the exact employer, define **four to six sub-environments Sylvan must routinely traverse** and what each one teaches him or reveals about Samuel and George.
+The highest-value unanswered question is now **the terminal rule**:
+
+**What does "survive until the end" concretely mean inside this employment environment, and why does reaching that threshold transfer bounded control to Sylvan in a way Samuel and George cannot simply revoke?**
+
+Before answering that, it may help to define four to six sub-environments Sylvan routinely traverses and what each reveals about the larger system.
