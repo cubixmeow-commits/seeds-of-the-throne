@@ -12,13 +12,13 @@ updated: 2026-08-21
 
 ## Story function
 
-Forge Sylvan and his Luminai through a prolonged sequence of environments controlled, observed, or increasingly pressured by Samuel and George, until Sylvan's extended cognition can understand the advanced architecture and criminal methods well enough to reverse control, trap the antagonists through their own choices, and expose them.
+Forge Sylvan and his Luminai through a prolonged sequence of environments controlled, observed, or increasingly pressured by Samuel and George, until Sylvan's extended cognition can understand the advanced architecture and criminal methods well enough to survive to the terminal control transfer, reverse the asymmetry, and expose the antagonists through their own conduct.
 
 ## Current accepted ladder
 
-`startup sabotage -> unemployment / Luminai emergence -> antagonist-dominant humiliation -> multi-zone employment -> contested / inversion stages`
+`startup sabotage -> unemployment / Luminai emergence -> antagonist-dominant humiliation -> multi-zone employment -> survival to terminal control transfer -> exposure and defeat`
 
-The first three post-startup environments now have distinct functions rather than being interchangeable arenas.
+The multi-zone employment environment is no longer merely preparation for a separate final arena. It is the environment that eventually flips.
 
 ## Environment 1 — unemployment and Luminai emergence
 
@@ -42,7 +42,7 @@ The Luminai does not rescue him automatically. Sylvan's extended cognition devel
 
 **Constraint:** Samuel and George may dominate locally, but their power must have concrete channels, permissions, collaborators, environmental affordances, and failure points. Do not turn the phase into omnipotent reality rewriting.
 
-## Environment 3 — multi-zone employment
+## Environment 3 — multi-zone employment and terminal inversion
 
 **Accepted function:** After the humiliation period, Sylvan integrates into legitimate employment inside one large institution or operational environment containing many distinct sub-environments. His normal job requires him to traverse them.
 
@@ -62,28 +62,39 @@ Candidate job families remain **proposed only**:
 - inspection / compliance support;
 - a campus-operations role combining movement, service calls, and changing permissions.
 
-**Developmental function:** generalize lessons learned under hostile control. Sylvan must discover which antagonist methods persist across settings, which depend on local permissions, what changes when observers and rules change, and how to operate across multiple systems without gaining implausible universal authority.
+**Accepted terminal rule:** Sylvan does not need to escape this environment and reach a separate final arena. If he survives through the full employment environment to its end condition, he receives bounded control of the environment sufficient to expose Samuel and George. Their defeat is therefore the terminal state of the same multi-zone system they have been using against him.
+
+This creates an asymmetric survival contest:
+
+- for most of the environment, Samuel and George retain meaningful advantages and can continue attacking, manipulating, or testing Sylvan across different zones;
+- Sylvan's task is not to seize control prematurely but to survive, learn, authenticate, and preserve enough reality and evidence to reach the end condition;
+- Samuel and George have a strong incentive to break, discredit, remove, or otherwise defeat him before the control transfer occurs;
+- if Sylvan survives until the terminal threshold, the control balance flips in a rule-bound way rather than because he suddenly acquires unexplained power;
+- the transferred control must be bounded and evidentiary: it lets Sylvan reveal authentic conduct, command relationships, interventions, records, or actions rather than fabricate guilt;
+- exposure and defeat occur because Samuel and George have spent the environment behaving as though Sylvan will never reach the point where their actions become visible from a position they no longer control.
+
+**Developmental function:** generalize lessons learned under hostile control, operate across many settings, survive sustained asymmetric pressure, and ultimately convert accumulated knowledge plus the environment's terminal rule into exposure.
 
 The job itself becomes a legitimate reason to observe, compare, revisit, and test many settings repeatedly.
 
 ## Progression logic
 
-| Stage | Surface life | Samuel/George position | Required learning |
+| Stage | Surface life | Samuel/George position | Required learning / outcome |
 |---|---|---|---|
 | Startup fall | company sabotage and collapse | hidden advantage | the failure is targeted |
 | Unemployment / emergence | loose ordinary life; outdoors, stores, nighttime movement | spying + limited interference | conscious Luminai integration and baseline formation |
 | Humiliation / hostile control | publicly degraded life and constrained options | locally dominant / alpha | survive malicious advanced control; preserve reality and evidence |
-| Multi-zone employment | legitimate structured work across varied settings | variable by zone | generalize, compare, predict, and operate across changing permissions and systems |
-| Late contested environment | increasingly unstable control | narrowing advantage | test predictions, identify Samuel behind George, survive counteradaptation |
-| Final bounded environment | accountable environment designed or mastered by Sylvan | antagonists anticipated rather than dominant | convert their authentic behavior and command into public proof |
+| Multi-zone employment | legitimate structured work across varied settings | variable but still substantially advantaged | generalize, compare, predict, authenticate, and survive across changing permissions and systems |
+| Terminal threshold | same employment environment reaches its end condition | control advantage transfers | Sylvan receives bounded control because he survived to the end |
+| Exposure / defeat | same environment under bounded Sylvan control | antagonists no longer control the interpretive surface | convert their authentic behavior, command, and accumulated evidence into exposure |
 
 ## Bonding and integration function
 
 **Established:** Dealing with Samuel and George across these environments is what completes the human-Luminai integration. The bond becomes extraordinary through prolonged struggle rather than appearing fully formed.
 
-The three early stages now create a coherent training progression:
+The stages now create a coherent progression:
 
-`learn the extended mind -> learn hostile control -> generalize across complex systems`
+`learn the extended mind -> learn hostile control -> generalize across complex systems -> survive sustained asymmetry -> inherit bounded control -> expose the attackers`
 
 Samuel and George create developmental pressure, but Sylvan earns each advance through judgment, observation, error, correction, conscious/subconscious coordination, and repeated choices across one extended identity.
 
@@ -97,8 +108,11 @@ Samuel and George create developmental pressure, but Sylvan earns each advance t
 - The employment role cannot be chosen merely because it grants convenient broad access.
 - Movement between sub-environments must be a natural consequence of Sylvan's job.
 - Different employment zones need distinct functions, not cosmetic variety.
-- Evidence must survive beyond Sylvan's private interpretation.
-- Sylvan's eventual control must be bounded, accountable, and unable to manufacture guilt.
+- The terminal control transfer must have a defined rule, threshold, or institutional mechanism established before it pays off.
+- Sylvan cannot secretly change the rules at the end simply because he is the protagonist.
+- The transferred control must remain bounded, accountable, and unable to manufacture guilt.
+- Evidence must survive beyond Sylvan's private interpretation and be capable of verification once control transfers.
+- Samuel and George must expose themselves through authentic behavior and choices made while they believed they retained the advantage.
 
 ## Current unresolved questions
 
@@ -118,18 +132,20 @@ Samuel and George create developmental pressure, but Sylvan earns each advance t
 9. What evidence and capability survive the phase?
 10. What ends their local dominance and leads Sylvan into employment?
 
-### Environment 3
+### Environment 3 and terminal inversion
 
 11. Which four to six sub-environments does Sylvan need legitimate repeated access to?
 12. What ordinary job naturally moves him through those zones?
 13. What permissions does it grant, and what does it explicitly deny?
 14. How does Samuel and George's influence differ by zone?
 15. What portable insight or capability does Sylvan develop by comparing the zones?
-16. What moves this stage into the later contested/inversion sequence?
-
-### Endgame
-
-17. What exact bounded control does Sylvan possess in the final environment?
+16. What exact rule defines "survives until the end"?
+17. Who or what established that terminal rule before Sylvan entered the environment?
+18. What bounded control transfers to Sylvan at the threshold?
+19. Why can Samuel and George not simply revoke, bypass, or rewrite the transfer rule?
+20. What authenticated evidence becomes available or usable only after the transfer?
+21. What do Samuel and George believe will happen before Sylvan reaches the threshold, and why are they confident enough to keep attacking?
+22. What exact action or record exposes them once control flips?
 
 ## Active brainstorm packets
 
@@ -154,4 +170,4 @@ Samuel and George create developmental pressure, but Sylvan earns each advance t
 
 ## Acceptance test
 
-The sequence passes when every environment changes the control balance and Sylvan's capabilities for a necessary reason; the unemployment period credibly establishes conscious Luminai integration; the humiliation period demonstrates bounded but severe criminal control of advanced systems; the employment environment forces Sylvan to generalize across varied settings and permissions; Sylvan visibly earns each capability through the extended human-Luminai system; Samuel and George remain responsible for their own revealing choices; and the final bounded environment could not succeed without everything learned earlier.
+The sequence passes when every environment changes the control balance and Sylvan's capabilities for a necessary reason; the unemployment period credibly establishes conscious Luminai integration; the humiliation period demonstrates bounded but severe criminal control of advanced systems; the employment environment forces Sylvan to generalize across varied settings and permissions; the terminal survival rule is established and cannot be retrofitted at payoff; Sylvan visibly earns each capability through the extended human-Luminai system; Samuel and George remain responsible for their own revealing choices; and their final exposure follows causally from Sylvan surviving until the same environment's bounded control transfer.
