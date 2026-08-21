@@ -2,7 +2,7 @@
 type: story-map
 status: working
 version: 0.1
-updated: 2026-08-20
+updated: 2026-08-21
 ---
 
 # STORY-MAP
@@ -53,7 +53,11 @@ The historical units `S-006` through `S-012` supply the evidence and causal hist
 
 ## Highest-value next unit
 
-**S-002 — Sylvan's modern inciting event.** It is missing and blocks commitment, the Witness-to-Inheritor bridge, the narrated opening, and scene preparation.
+**S-005 — Controlled Environment Progression.** The desktop session advanced S-001/S-002 enough to establish the startup, identity-driven sabotage, collapse trajectory, and developmental purpose of the attack. The active author-facing blocker is now the environment ladder connecting that collapse to Sylvan and his Luminai mastering the advanced architecture. Continue with [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]].
+
+First question: **After Sylvan's startup collapses, what ordinary-looking situation does he enter next, and what hidden advantage do Samuel and George possess inside it?**
+
+Preserve the exact number of environments, transitions, costs, surviving evidence, human–Luminai capabilities, and final bounded-control mechanism as unresolved until the author develops them.
 
 ## Map editing rule
 
