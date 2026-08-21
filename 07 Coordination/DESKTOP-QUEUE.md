@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-17
+updated: 2026-08-20
 ---
 
 # Desktop Implementation Queue
@@ -10,7 +10,14 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-No queued items.
+### Apply the Story Completion Framework to the live story map
+
+- **Status:** ready
+- **Source:** August 20 mobile brainstorming and vault audit
+- **Scope:** `02 Story`, `03 Context`, `07 QA`, and planning workflow
+- **Implement:** Use [[07 Coordination/Story Completion Framework]] to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, the essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Update existing canonical/working notes rather than creating duplicate parallel structures.
+- **Preserve:** Current author-established Great War/False Victory spine; ordinary surface-world rule; Sylvan's principle of not treating people as disposable instruments; recent obsession research and inverted containment mechanism remain developmental until integrated deliberately.
+- **Unresolved:** Do not invent the remaining causal answers automatically. Resolve them with the author during the desktop planning session.
 
 ## Item template
 
