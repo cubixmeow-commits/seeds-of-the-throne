@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-15
+updated: 2026-08-21
 themes: Luminai, Daemons, advanced AI, biological synthetics, physical environments, colonization, hard limits
 ---
 
@@ -94,6 +94,51 @@ Planetary coordination is distributed across specialized systems, oversight bodi
 
 No single conversational superintelligence needs to know, decide, or directly control everything. Separation of powers, imperfect models, local autonomy, latency, conflicting objectives, and independent records create both safety and story pressure.
 
+### Planetary command-and-control layer
+
+**Established direction:** the colonization planet includes a large command-and-control architecture capable of addressing and interacting with effectively all technological systems built into the colony. The moon-scale command infrastructure is a natural candidate for the highest-level physical node, though exact topology remains unresolved.
+
+"Access to all technology" should mean **planet-wide reachability, observability, coordination, and potential command**, not automatic unrestricted authority over every device at every moment.
+
+The command layer can potentially interface with:
+
+- buildings and environmental controls;
+- transport and logistics systems;
+- communications and wireless infrastructure;
+- energy generation and distribution;
+- medical systems;
+- synthetic bodies and synthetic-support infrastructure;
+- public and institutional computing;
+- sensors, localization, and environmental models;
+- identity and permission systems;
+- evidence and provenance systems;
+- tools, vehicles, machinery, and embedded devices;
+- Luminai/Daemon-compatible environmental interfaces where permissions permit.
+
+This architecture exists because a newly colonized planet must be constructed, monitored, repaired, coordinated, and governed as one enormous technical project. Planetary integration is therefore a colonization requirement before it becomes a story weapon.
+
+The important distinction is:
+
+**Everything can be reachable without everything being freely controllable.**
+
+Different systems can require different combinations of identity, role, location, task, authorization level, quorum, safety state, and oversight. Some actions can be observed but not executed remotely. Some can be commanded only locally. Others may require multiple authorities, leave immutable records, or automatically trigger review.
+
+This creates a useful control hierarchy:
+
+`planetary command layer -> regional/institutional systems -> local environments -> individual devices/synthetics -> human/Luminai interaction`
+
+Control may flow downward, but authentication, provenance, safety limits, and independent records can flow upward and sideways. A local system can therefore resist, log, refuse, or expose an illegitimate command even if the command center can technically reach it.
+
+### Luminai and Daemon use of the command fabric
+
+A sufficiently authorized Luminai can use this fabric as an extension of responsible human action: query state, compare records, coordinate systems, authenticate evidence, request changes, and operate within permitted boundaries.
+
+A Daemon confronted with the same fabric seeks leverage. If granted broad enough authority, it can attempt to turn every reachable subsystem into part of an adversarial strategy: sensors into surveillance, routing into funneling, synthetics into instruments, access control into traps, public systems into pressure, and environmental adaptation into behavioral manipulation.
+
+This is one reason Daemon access to planetary or institutional command authority is exceptionally dangerous. The threat is not that the Daemon possesses supernatural control. The threat is that a single corrupted extended mind can coordinate thousands of individually ordinary systems toward one obsessive objective.
+
+That distinction should remain central to Samuel and George's hostile-control phase.
+
 ## Hard limits
 
 ### Causal limits
@@ -120,6 +165,8 @@ No single conversational superintelligence needs to know, decide, or directly co
 - Identity and evidence systems require independent provenance and appeal paths.
 - Administrators can disagree, make errors, abuse discretion, or reach stopping thresholds at different times.
 - Containment technology cannot become an excuse to originate crimes or sacrifice ordinary people for cleaner evidence.
+- Planetary command reachability does not erase local authorization, quorum requirements, immutable logging, safety interlocks, independent oversight, or system-specific refusal conditions.
+- A command center may be technically capable of contacting a subsystem while still lacking legitimate authority to make a particular change.
 
 ### Narrative limits
 
@@ -141,3 +188,6 @@ Sylvan's experiment asks how high a human and Luminai can develop together while
 - Which hard limits are laws of nature and which are deliberate governance constraints?
 - How does the AI ecology degrade gracefully when communication, power, provenance, or oversight fails?
 - What precisely becomes unprecedented in Sylvan's integration without making him infallible?
+- Is the moon the primary planetary command node, one of several redundant nodes, or merely the most visible part of a distributed command architecture?
+- Which planetary commands require single-authority access, multi-party quorum, local confirmation, or automatic oversight?
+- What exact level of command authority do Samuel and George receive at the end of the exploratory stage, and what remains outside their control?
