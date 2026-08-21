@@ -15,9 +15,9 @@ Use this file for work that must survive a conversation handoff and requires loc
 - **Status:** ready
 - **Source:** August 20 mobile brainstorming and vault audit
 - **Scope:** `02 Story`, `03 Context`, `07 QA`, and planning workflow
-- **Implement:** Use [[07 Coordination/Story Completion Framework]] to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, the essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Update existing canonical/working notes rather than creating duplicate parallel structures.
+- **Implement:** Use [[07 Coordination/Story Completion Framework]] to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, the essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Explicitly integrate [[02 Story/Components/Obsession Expectation and Desperation Reversal]] so Samuel and George's final downfall grows from the same manipulation method they used against other contained criminals earlier. Update existing canonical/working notes rather than creating duplicate parallel structures.
 - **Preserve:** Current author-established Great War/False Victory spine; ordinary surface-world rule; Sylvan's principle of not treating people as disposable instruments; recent obsession research and inverted containment mechanism remain developmental until integrated deliberately.
-- **Unresolved:** Do not invent the remaining causal answers automatically. Resolve them with the author during the desktop planning session.
+- **Unresolved:** Do not invent the remaining causal answers automatically. Resolve them with the author during the desktop planning session, including where the obsession/expectation/desperation method first appears and exactly how its endgame reversal is revealed.
 
 ## Item template
 
