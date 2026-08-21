@@ -19,6 +19,31 @@ The key distinction is:
 
 Participants operate inside a rule-bound environment designed to preserve agency, accountability, evidence, containment integrity, and the developmental purpose of the colony.
 
+## Asymmetric participant advantage
+
+**Established direction:** contained criminals can hold a serious structural advantage over developmental participants while remaining bound by the same larger governing framework.
+
+Their advantage can include some combination of:
+
+- earlier or broader access to environmental controls;
+- better knowledge of how the rules work;
+- more experience exploiting permissions and edge cases;
+- greater surveillance or observability;
+- stronger influence over synthetics, local systems, scheduling, routing, and information delivery;
+- preexisting institutional relationships or delegated authority;
+- better knowledge of the participant's goals, vulnerabilities, and evaluation conditions;
+- the ability to initiate pressure while the developmental participant is still discovering what the environment is.
+
+This asymmetry is intentional enough to create a real ordeal, but not unlimited enough to predetermine the outcome.
+
+The contained criminal must still operate inside rules that preserve the validity of the contest. They cannot simply bypass the entire process, directly manufacture the result, or erase the evidence of their own choices without consequence.
+
+The core balance is:
+
+**contained criminals begin with major tactical and informational advantages; participants retain rule-protected paths to survival, learning, verification, and eventual reversal.**
+
+This makes the ordeal unfair in the ordinary sense while still being structurally winnable.
+
 ## Participant authority model
 
 Participant access should be constrained by combinations of:
@@ -85,6 +110,8 @@ Samuel's problem is therefore not lack of technological reach. It is that the sy
 
 Sylvan's survival depends partly on learning those boundaries faster than Samuel can exploit them.
 
+The same asymmetry also explains why Samuel can appear overwhelmingly dominant while still fearing time. His advantage is front-loaded. If Sylvan remains intact long enough to understand the rules, preserve evidence, and reach the protected transition conditions, Samuel's superior local leverage can cease to matter or even become evidence against him.
+
 ## Relationship to Luminai and Daemons
 
 A healthy Luminai can help a participant understand what is authorized, preserve provenance, detect conflicts between commands and rules, and distinguish technical capability from legitimate action.
@@ -102,6 +129,8 @@ The difference is not that one has technology and the other does not. They can t
 - The environment must preserve a path by which abusive use of legitimate authority can later be authenticated.
 - Strict rules cannot become arbitrary authorial barriers introduced only when needed to save Sylvan; important limits must be established before payoff.
 - Samuel and George may exploit rules, but they cannot silently rewrite the entire constitutional logic of the colony.
+- Contained criminals may have substantially greater practical power than developmental participants without possessing authority to predetermine the participant's moral or evaluative outcome.
+- A contained criminal's advantage must create pressure, not eliminate the possibility of valid resistance.
 
 ## Open questions
 
@@ -115,6 +144,8 @@ The difference is not that one has technology and the other does not. They can t
 8. What happens when a participant follows the literal rule while clearly violating its intended purpose?
 9. Can a Daemon combine many individually permitted actions into an outcome no single rule anticipated?
 10. Which participant rules ultimately make Samuel's eventual defeat unavoidable if Sylvan survives long enough?
+11. Which advantages are deliberately granted to contained criminals, which are inherited from their position, and which are illicitly accumulated?
+12. What minimum protected capabilities must Sylvan retain even during maximum hostile control so the ordeal remains valid?
 
 ## Story-development principle
 
