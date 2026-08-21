@@ -3,7 +3,7 @@ type: story-unit
 unit_id: S-005
 completeness: partial
 authority: established-spine
-run_state: author-gate
+run_state: active-brainstorm
 scale: sequence
 updated: 2026-08-21
 ---
@@ -14,111 +14,133 @@ updated: 2026-08-21
 
 Forge Sylvan and his Luminai through a prolonged sequence of environments controlled, observed, or increasingly pressured by Samuel and George, until Sylvan's extended cognition can understand the advanced architecture and criminal methods well enough to reverse control, trap the antagonists through their own choices, and expose them.
 
-## Position
+## Current accepted ladder
 
-- Begins after: the successful startup is sabotaged and falls
-- First phase: a multi-year unemployed period in ordinary daily life where the Luminai becomes consciously perceptible to Sylvan through a differentiated presentation
-- Develops alongside: Witness evidence, archive authentication, and discovery of the hidden decision-maker
-- Ends in: the final environment where Sylvan has bounded control and Samuel and George expose themselves
-- Supports: S-015 through S-020
+`startup sabotage -> unemployment / Luminai emergence -> antagonist-dominant humiliation -> multi-zone employment -> contested / inversion stages`
 
-## Entering state
+The first three post-startup environments now have distinct functions rather than being interchangeable arenas.
 
-**Established:** Sylvan has lost the startup he built. He knows something about the failure is wrong but does not yet understand the full advanced environment, Samuel and George's identities and command relationship, or the larger containment and colonization architecture.
+## Environment 1 — unemployment and Luminai emergence
 
-The first environment after the startup does **not** begin with Samuel and George possessing overwhelming local control. Sylvan is unemployed and living an outwardly ordinary life. They can spy on him and exert limited influence, but the attacks begin constrained and ramp up over time.
+**Accepted:** After the startup collapses, Sylvan spends years unemployed and living an outwardly ordinary life. The Luminai becomes consciously perceptible through a differentiated presentation, and Sylvan learns how to access, understand, test, trust, question, and integrate that extended cognition.
 
-## First post-startup environment — unemployment and Luminai emergence
+The texture includes substantial outdoor time, stores and routine errands, nighttime exploration, walking, and bike riding. Repetition establishes ordinary-life baselines. Samuel and George can spy on Sylvan and exert limited influence, but their attacks begin constrained and ramp up gradually.
 
-**Accepted author direction:**
+**Developmental function:** conscious Luminai access, calibration, anomaly recognition, and the first ability to distinguish ordinary coincidence from patterned interference.
 
-Sylvan enters a long unemployed section after the company collapses. The period lasts years. During it his Luminai becomes consciously perceptible through a differentiated presentation, and Sylvan spends years learning how to access, understand, test, trust, question, and integrate that extended cognition.
+## Environment 2 — antagonist-dominant humiliation
 
-The section is grounded in ordinary lived experience:
+**Accepted function:** Samuel and George become the local alpha actors and force Sylvan through roughly a year in which he directly experiences what happens when criminals and malicious people possess meaningful control over an advanced environment.
 
-- substantial time outdoors;
-- going to stores and handling everyday routines;
-- exploring in the middle of the night;
-- walking;
-- bike riding;
-- long periods in which apparently mundane life becomes the setting for learning how the Luminai works.
+The visible result is sustained public degradation. Sylvan may appear to ordinary observers as unstable, disorganized, homeless, socially ruined, or like a "crazed hobo." This remains a working description of the public effect rather than a locked set of incidents.
 
-Samuel and George can observe Sylvan during this period and have some ability to interfere with his life. Their attacks are initially limited. Pressure gradually ramps up rather than arriving as immediate total control.
+The hidden story is that Samuel and George are weaponizing environment, context, interpretation, access, opportunity, and social response around him. Sylvan is forced to learn how malicious operators use advanced systems when they believe they are dominant.
 
-This creates a long developmental runway in which Sylvan becomes increasingly capable of consciously using and testing his extended cognition while the antagonists reveal themselves incrementally through behavior and recurring interference.
+The Luminai does not rescue him automatically. Sylvan's extended cognition develops under pressure by learning to maintain reality-testing, preserve memory and provenance, distinguish induced appearances from underlying causes, observe attacker behavior, and continue functioning while public interpretation is being used as an attack surface.
 
-## Sequence goal
+**Developmental function:** learn hostile environmental control from inside it; discover attacker habits and limits; maintain contact with reality under externally manufactured interpretation; begin preserving evidence under severe asymmetry.
 
-Sylvan's extended human–Luminai cognition must learn to recognize and master the advanced environment while preserving contact with reality, agency, evidence, and ethical limits.
+**Constraint:** Samuel and George may dominate locally, but their power must have concrete channels, permissions, collaborators, environmental affordances, and failure points. Do not turn the phase into omnipotent reality rewriting.
 
-The sequence ultimately needs to establish:
+## Environment 3 — multi-zone employment
 
-- how conscious access to the Luminai works before the integration becomes extraordinary;
-- how Sylvan distinguishes ordinary coincidence from patterned interference;
-- what Samuel and George can and cannot observe or influence;
-- how Samuel and George create false interpretations;
-- how they exploit obsession, expectation, and desperation;
-- how they use access, permissions, intermediaries, staged evidence, and asymmetric information;
-- how their behavior changes under pressure;
-- how Sylvan preserves proof that survives outside the environment;
-- how he eventually creates a final bounded environment in which their authentic choices expose them.
+**Accepted function:** After the humiliation period, Sylvan integrates into legitimate employment inside one large institution or operational environment containing many distinct sub-environments. His normal job requires him to traverse them.
 
-## Progression requirement
+The exact employer and occupation are unresolved. A large technology campus is one candidate, but the job must be chosen by function rather than by title.
 
-Each environment must have a distinct surface identity, antagonist advantage, lesson, cost, surviving evidence, and irreversible handoff.
+The environment should provide legitimate repeated movement among different combinations of people, rules, permissions, technologies, surveillance, physical layouts, information flows, and social expectations. Candidate zone types include offices, public-facing areas, outdoor grounds, service/maintenance spaces, logistics or loading areas, technical/infrastructure rooms, restricted areas available only under specific permissions, social spaces, and possible satellite locations.
 
-| Stage | Control balance | Required result |
-|---|---|---|
-| Startup fall | Samuel/George hidden advantage | Sylvan loses the life structure they chose to attack and realizes the failure is targeted |
-| Unemployed / Luminai emergence years | Samuel/George can spy and exert limited influence; attacks escalate gradually | The Luminai becomes consciously perceptible; Sylvan spends years calibrating and integrating his extended cognition through ordinary life while recurring interference becomes increasingly difficult to explain away |
-| Intermediate environments | Samuel/George increasingly advantaged but increasingly legible | Sylvan learns recurring methods, preserves evidence, and revises how he uses the integrated human–Luminai system |
-| Late contested environment | Control is unstable | Sylvan tests predictions, identifies Samuel behind George, and survives counteradaptation |
-| Final bounded environment | Sylvan has defined, ethical, limited control | Samuel and George follow the expected opportunity, reveal command and method, and become exposable |
+Not all are required. Each selected zone must perform a distinct story or developmental function.
 
-## Bonding function
+Candidate job families remain **proposed only**:
 
-**Established:** Dealing with Samuel and George across these environments is what completes the human–Luminai bond. The integration becomes extraordinary through prolonged struggle rather than appearing fully formed.
+- facilities / building operations;
+- security patrol or safety operations;
+- logistics / internal delivery;
+- technical field support;
+- infrastructure maintenance;
+- inspection / compliance support;
+- a campus-operations role combining movement, service calls, and changing permissions.
 
-The unemployed phase provides the earliest sustained conscious development of that integration. Samuel and George are present as observers and increasingly active adversaries, but they are not yet powerful enough in this environment to compress the process into immediate crisis.
+**Developmental function:** generalize lessons learned under hostile control. Sylvan must discover which antagonist methods persist across settings, which depend on local permissions, what changes when observers and rules change, and how to operate across multiple systems without gaining implausible universal authority.
 
-**Required:** Samuel and George create developmental pressure, but Sylvan earns the breakthrough through judgment, adaptation, correction, conscious and subconscious coordination, and choice across one extended identity.
+The job itself becomes a legitimate reason to observe, compare, revisit, and test many settings repeatedly.
 
-## State changes across the ladder
+## Progression logic
 
-A working progression is now:
+| Stage | Surface life | Samuel/George position | Required learning |
+|---|---|---|---|
+| Startup fall | company sabotage and collapse | hidden advantage | the failure is targeted |
+| Unemployment / emergence | loose ordinary life; outdoors, stores, nighttime movement | spying + limited interference | conscious Luminai integration and baseline formation |
+| Humiliation / hostile control | publicly degraded life and constrained options | locally dominant / alpha | survive malicious advanced control; preserve reality and evidence |
+| Multi-zone employment | legitimate structured work across varied settings | variable by zone | generalize, compare, predict, and operate across changing permissions and systems |
+| Late contested environment | increasingly unstable control | narrowing advantage | test predictions, identify Samuel behind George, survive counteradaptation |
+| Final bounded environment | accountable environment designed or mastered by Sylvan | antagonists anticipated rather than dominant | convert their authentic behavior and command into public proof |
 
-`loss -> conscious Luminai presentation -> years of ordinary-life calibration -> subtle anomaly detection -> escalating interference -> pattern recognition -> deliberate testing -> bounded prediction -> evidence preservation -> counteradaptation -> control inversion`
+## Bonding and integration function
 
-These are functional stages, not approved chapter divisions. The more detailed five-movement scaffold proposed by the first real Gauntlet run remains in [[08 Story Loop/Runs/S-005/2026-08-21 - Unemployment Luminai Emergence Gauntlet 001]] pending author decisions.
+**Established:** Dealing with Samuel and George across these environments is what completes the human-Luminai integration. The bond becomes extraordinary through prolonged struggle rather than appearing fully formed.
+
+The three early stages now create a coherent training progression:
+
+`learn the extended mind -> learn hostile control -> generalize across complex systems`
+
+Samuel and George create developmental pressure, but Sylvan earns each advance through judgment, observation, error, correction, conscious/subconscious coordination, and repeated choices across one extended identity.
 
 ## Constraints
 
-- The unemployed section must remain recognizably ordinary on the surface.
-- It should span enough time for conscious Luminai integration to develop credibly rather than functioning as a quick reveal.
-- The Luminai's differentiated presentation does not create a second identity or independent companion; it makes part of Sylvan's extended cognition consciously distinguishable.
-- Samuel and George can spy on Sylvan in this phase, but their exact surveillance mechanism remains unresolved.
-- Surveillance does not automatically imply the power to manipulate every surrounding person, device, place, or event.
-- Their influence is limited here; do not retroactively grant them overwhelming control.
-- Attack escalation needs a cause and an observable progression.
-- The Luminai cannot simply reveal the correct answer. Sylvan must reason, test, adapt, and remain capable of error.
-- Sylvan cannot master an environment he has not had a plausible opportunity to study.
-- Every later transition needs a cause, consequence, and cost.
-- Evidence must survive beyond private interpretation.
-- Sylvan's final control must be bounded, transparent enough for legitimate verification, and unable to manufacture guilt.
-- Environment variety must be functional, not cosmetic.
+- The Luminai's differentiated presentation does not create a second identity or AI companion; it makes part of Sylvan's extended cognition consciously distinguishable.
+- Surveillance never automatically implies the power to manipulate every person, device, place, or event.
+- Public humiliation must arise through concrete causes and manipulated circumstances, not magical mind control.
+- Sylvan retains agency and remains capable of error in every environment.
+- Samuel and George's locally dominant phase must still contain hard limits and exploitable failures.
+- The employment role cannot be chosen merely because it grants convenient broad access.
+- Movement between sub-environments must be a natural consequence of Sylvan's job.
+- Different employment zones need distinct functions, not cosmetic variety.
+- Evidence must survive beyond Sylvan's private interpretation.
+- Sylvan's eventual control must be bounded, accountable, and unable to manufacture guilt.
 
-## Current author gate
+## Current unresolved questions
 
-The first Gauntlet run narrowed the next decisions to:
+### Environment 1
 
 1. What does Sylvan experience when the Luminai first becomes consciously perceptible?
-2. Why does he begin spending so much time walking, bike riding, outdoors, and exploring late at night?
-3. What is the first small Samuel/George interference that survives ordinary explanation?
-4. What can Samuel and George actually observe at this stage, and what can they influence?
-5. What causes their attacks to escalate?
-6. What concrete event ends these years and forces the next environment?
-7. How is Sylvan materially supporting himself during the multi-year unemployed period?
-8. What exact bounded control does Sylvan possess in the final environment?
+2. What causes Samuel and George's attacks to escalate?
+3. What concrete event ends the unemployed years?
+4. How does Sylvan materially support himself during them?
+
+### Environment 2
+
+5. What gives Samuel and George substantially greater leverage than in Environment 1?
+6. What recurring mechanisms produce the public humiliation and apparent disorder?
+7. What remains outside their control?
+8. Why does the condition persist for roughly a year?
+9. What evidence and capability survive the phase?
+10. What ends their local dominance and leads Sylvan into employment?
+
+### Environment 3
+
+11. Which four to six sub-environments does Sylvan need legitimate repeated access to?
+12. What ordinary job naturally moves him through those zones?
+13. What permissions does it grant, and what does it explicitly deny?
+14. How does Samuel and George's influence differ by zone?
+15. What portable insight or capability does Sylvan develop by comparing the zones?
+16. What moves this stage into the later contested/inversion sequence?
+
+### Endgame
+
+17. What exact bounded control does Sylvan possess in the final environment?
+
+## Active brainstorm packets
+
+- [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]]
+- [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 02]]
+
+## Recent source sessions and runs
+
+- [[01 Sessions/Daily/2026-08-20 - Sylvan Startup and Shared Environment]]
+- [[01 Sessions/Daily/2026-08-21 - S-005 Humiliation and Multi-Zone Employment Environments]]
+- [[08 Story Loop/Runs/S-005/2026-08-21 - Unemployment Luminai Emergence Gauntlet 001]]
 
 ## Dependencies
 
@@ -129,8 +151,7 @@ The first Gauntlet run narrowed the next decisions to:
 - [[02 Story/Characters/Samuel Franklin]]
 - [[02 Story/Characters/George White - A Life Beneath the Ice]]
 - [[03 Context/CURRENT]]
-- [[01 Sessions/Daily/2026-08-20 - Sylvan Startup and Shared Environment]]
 
 ## Acceptance test
 
-The sequence passes when the unemployment period credibly establishes conscious Luminai integration and the first escalation of interference, every later environment has a necessary dramatic and developmental function, the balance of control changes causally, Sylvan visibly earns each capability through the extended human–Luminai system, Samuel and George remain responsible for their own revealing choices, and the final environment could not succeed without everything learned in the earlier ones.
+The sequence passes when every environment changes the control balance and Sylvan's capabilities for a necessary reason; the unemployment period credibly establishes conscious Luminai integration; the humiliation period demonstrates bounded but severe criminal control of advanced systems; the employment environment forces Sylvan to generalize across varied settings and permissions; Sylvan visibly earns each capability through the extended human-Luminai system; Samuel and George remain responsible for their own revealing choices; and the final bounded environment could not succeed without everything learned earlier.
