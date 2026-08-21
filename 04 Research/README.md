@@ -60,3 +60,9 @@ This series develops the upstream compiler that transforms selected vault knowle
 40. [[04 Research/Full Reports/40 - Incremental Graph Updates and Regression Impact|Incremental Graph Updates and Regression Impact]] — complete
 
 Cross-report synthesis: [[04 Research/Findings/32-40 - Vault-to-Image Graph Compiler|Vault-to-Image Graph Compiler]]
+
+### Behavioral containment — Report 41
+
+41. [[04 Research/Full Reports/41 - Obsession as a Containment Vulnerability|Obsession as a Containment Vulnerability]] — complete
+
+This report examines unfinished goals, obsessive passion, incentive salience, motivated reasoning, simulation plausibility, and the story-specific possibility that Sylvan can exploit Samuel's and George's unattainable obsessions to induce voluntary entry into simulated containment. It is advisory and non-canon until integrated into the story layer.
