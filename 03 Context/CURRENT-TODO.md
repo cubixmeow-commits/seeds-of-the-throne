@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-17
+updated: 2026-08-19
 ---
 
 # Current Brainstorming To-Do
@@ -12,7 +12,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
-2. [ ] **Build Samuel and George's unresolved thirty-year prewar history.** Samuel's failed privileged-heir status, underage relationship, family/organizational exile roughly thirty years before the Great War, George's apparent success, their private wrongdoing, badly planned takeover, and George's humiliating bust into containment are established. Define Samuel's age and material losses, who places them, George's real authority, the private acts, takeover mechanics, Samuel's containment status and consequences, and what Samuel's parents know. Do not restore the superseded fifty-year rampage by default.
+2. [ ] **Build Samuel and George's unresolved thirty-year prewar history.** Samuel's failed privileged-heir status, underage relationship, family/organizational exile roughly thirty years before the Great War, the false explanation that exile is an important infiltration or control assignment, George's apparent success, their private wrongdoing, badly planned takeover, and George's humiliating bust into containment are established. Define Samuel's age and material losses, the faction's real purpose in placing him, who places them, George's real authority, the private acts, takeover mechanics, Samuel's containment status and consequences, and what Samuel's parents know. Do not restore the superseded fifty-year rampage by default.
 
 3. [ ] **Build Samuel's inheritance obsession beyond the established misconduct.** Define how exile from a system that worships ancestry, pedigree, bloodline, family continuity, succession, and inheritance becomes revenge against those exact systems. Develop his pleasure in desecrating genealogical certainty, his failed-heir resentment, and the turn from punishment to appropriation. Additional abuses remain unresolved; do not invent a separate hidden allegiance unless later selected.
 
@@ -52,7 +52,9 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 19. [ ] **Invent the first devastating George document.** Create one clear piece of pre-defeat evidence showing that George's original role contradicts the later claim that he secretly controlled the victor.
 
-20. [ ] **Work out how the False Victory is sold.** Define the post-defeat scene or sequence in which Samuel persuades surviving contained leaders that the loss was actually a covert victory through George. Identify the first doubters and why they remain silent.
+20. [ ] **Work out how the False Victory is sold.** Define the post-defeat scene or sequence in which Samuel claims his exile assignment succeeded, offers the defeated leaders access to systems he supposedly controls, and persuades them that the loss was actually a covert victory through George. Identify the first doubters and why they remain silent.
+
+20a. [ ] **Define the surveillance-deal mechanism without granting omniscience.** Decide what Samuel falsely claims to control, what narrower privileged access he really possesses, why the faction cannot verify the difference, what it must connect, adopt, authorize, or disclose, what first reveals the truth of his exile, how long the deception lasts, and which later genealogy or blackmail capabilities depend on the information he gains. Preserve agency and the established technology ecology.
 
 21. [ ] **Define George's subjective reality during the endgame.** Establish recurring categories of staged or manipulated evidence that convince him the final campaign remains real and winnable.
 

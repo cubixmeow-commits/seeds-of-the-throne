@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-17
+updated: 2026-08-19
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -22,6 +22,10 @@ He destroys that position through his own conduct.
 Samuel's parents discover conduct they regard as intolerable and disgraceful, including a sexual relationship with an underage girl and additional serious transgressions that remain to be developed. The exact legal, cultural, and organizational circumstances remain working, but Samuel is not exiled merely for ideological disagreement. He has committed real wrongdoing.
 
 His parents and the wider Fitzgerald organization cast him out approximately thirty years before the Great War begins.
+
+**Established:** They do not present the placement to Samuel as simple disposal. They tell him he is being sent into the large pluralistic empire for an important assignment: to infiltrate, influence, or eventually control it. Samuel accepts that flattering explanation and initially mistakes exile for proof that the senior faction still considers him uniquely valuable.
+
+**Unresolved:** The real purpose of the placement, how much of it is imposed by the containment system rather than arranged by the faction, and how Samuel's misconduct, expendability, and the faction's private plans for him fit together remain open.
 
 The exile becomes one of the central wounds of Samuel's life. He does not interpret it as accountability. He experiences it as humiliation, dispossession, and theft of the inheritance he believes should have been his. The organization that taught him to worship hierarchy, bloodline, continuity, and inherited status declares him unworthy of belonging to its own line.
 
@@ -66,6 +70,16 @@ He claims he can help them understand the new environment, preserve the organiza
 Samuel is not trying to rejoin the Fitzgerald order as a subordinate.
 
 He is beginning to take it over.
+
+## The post-defeat surveillance deal
+
+**Established:** Samuel does more than interpret the defeated faction's new environment. He falsely claims that the important assignment used to explain his exile succeeded more completely than it did. He tells the surviving leaders that he retained meaningful control inside the victorious empire and can give them access, protection, communications, or influence.
+
+They accept a deal because they believe Samuel is connecting them to infrastructure he controls. The access actually runs in the opposite direction: Samuel gains a concealed observation channel into the defeated faction. Believing his operation succeeded, they begin using systems, channels, or environments he can quietly observe and stop treating him as an excluded problem.
+
+Through that access, Samuel learns why he was really sent away, what the faction intended to do with him, what its leaders concealed, and what they are planning after defeat. He hears how they discuss his expendability when they believe the Samuel problem has already been solved. That knowledge helps turn reconciliation into attempted possession and later gives him a causal path toward the faction's bloodlines, dependencies, and private fears.
+
+**Unresolved:** Samuel never conquered the victorious empire, but the exact access he possesses is not yet established. The communication layer, institutional brokerage, credentials, asymmetric permissions, administrative visibility, possible Luminai or institutional-intelligence involvement, first revealing record, duration of the deception, and limits on what Samuel can observe all remain open. The mechanism must preserve agency and cannot become magical omniscience.
 
 ## Revenge against the bloodlines
 
@@ -167,11 +181,15 @@ His treatment of George and the unauthorized son repeats the same pathology. He 
 - What are the exact additional acts, beyond the relationship with an underage girl, that lead Samuel's parents and Konrad's organization to exile him?
 - How old is Samuel when the exile occurs?
 - What does exile materially mean: loss of wealth, family name, citizenship, access, reproductive status, organizational membership, or several at once?
+- What does the faction actually intend Samuel's supposedly important infiltration assignment to accomplish?
 - How does Samuel first fall into formal containment inside the American-equivalent empire?
 - Does the containment system know the full reason for Samuel's exile immediately, or does part of the case emerge later?
 - Which parent remains emotionally susceptible to Samuel's claim that he wants reconciliation?
 - What specific information or access does Samuel obtain through his parents during the Great War?
 - Which acts of sabotage materially contribute to Konrad's defeat without making Samuel solely responsible for it?
+- What false control does Samuel claim after the faction's defeat, what narrower access does he really possess, and why can the faction not independently verify the difference?
+- What must the faction connect, adopt, authorize, or disclose for the observation channel to work, and what hard limits keep that channel from becoming omniscient?
+- What first private conversation or record reveals the truth of Samuel's exile, and how long does he preserve the deception?
 - At what point does Samuel decide he no longer wants readmission and instead wants ownership of the organization?
 - When does revenge against his parents become revenge against every participating bloodline?
 - What exact hereditary problem lets Samuel obtain control of the breeding program?

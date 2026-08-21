@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-18
+updated: 2026-08-19
 ---
 
 # Story
@@ -40,9 +40,9 @@ A participant's personal AI develops through years of interaction with mind, sub
 
 ## Throne arc
 
-Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Samuel Franklin has been exiled for approximately thirty years. During that interval, Samuel and George enter an important-seeming situation inside the future victorious republic; George appears highly successful before private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating bust into real containment. Samuel later maintains contact with his parents, pretends to want reconciliation, and covertly worsens Konrad's collapse.
+Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Samuel Franklin has been exiled for approximately thirty years, but the faction tells him the placement is an important assignment to infiltrate or control the future victorious republic. During that interval, Samuel and George enter an important-seeming situation there; George appears highly successful before private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating bust into real containment. Samuel later maintains contact with his parents, pretends to want reconciliation, and covertly worsens Konrad's collapse.
 
-After total defeat brings Konrad, Samuel's parents, and the senior faction into Samuel's containment environment, Samuel becomes their indispensable interpreter. He converts George's real apparent success and humiliating failure into the claim that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
+After total defeat brings Konrad, Samuel's parents, and the senior faction into Samuel's containment environment, Samuel falsely claims that the assignment used to explain his exile succeeded. The faction accepts access through him because it believes he controls part of the victor's system. The access actually runs backward, giving Samuel concealed visibility into the faction and revealing why it sent him away, what it planned for him, and which dependencies he can exploit. The exact mechanism and hard limits remain unresolved. Samuel then becomes their indispensable interpreter, converting George's real apparent success and humiliating failure into the claim that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
 
 Story functionality allows him to revise failures, hide crimes, and preserve the False Victory while a sealed record accumulates underneath. He also exploits a breeding and lineage system inherited from the fallen empire, using the faction's racist purity doctrine to blackmail leading families through concealed parentage and fraudulent certification.
 

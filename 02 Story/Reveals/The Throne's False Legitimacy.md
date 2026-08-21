@@ -1,7 +1,7 @@
 ---
 type: reveal
 status: established
-updated: 2026-08-17
+updated: 2026-08-19
 ---
 
 # The Throne's False Legitimacy
@@ -9,6 +9,10 @@ updated: 2026-08-17
 The Throne's central lie is not that the system, war, public offices, George's apparent success, failed takeover, humiliating exposure, or containment are imaginary. The supporting events are real.
 
 Konrad's faction builds a real conquest regime and loses the Great War. About thirty years before the war, Samuel and George enter an important-seeming situation inside the future victorious republic. George appears highly successful, then private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating bust into real containment.
+
+Samuel's earlier placement is itself given a false meaning. The faction tells him exile is an important mission to infiltrate or control the future victor. After defeat, Samuel claims the mission succeeded, and the surviving leadership accepts access through him because it believes he controls part of the victor's system.
+
+He does not. The access is narrower and inverted: it gives Samuel concealed visibility into the faction, allowing him to learn why he was sent away and what its leaders conceal. The surveillance inversion is established; the exact channel, permissions, verification failure, and limits remain unresolved.
 
 The false part is Samuel's claim that George's success and bust prove covert infiltration, that George secretly took control of the victor, and that Konrad's empire deliberately converted territorial rule into hidden global authority.
 

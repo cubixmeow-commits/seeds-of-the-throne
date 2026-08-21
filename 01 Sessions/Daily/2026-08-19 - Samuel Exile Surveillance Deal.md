@@ -89,3 +89,18 @@ The essential inversion to preserve:
 They thought Samuel had given them access to the empire that defeated them.
 
 He had given himself access to them.
+
+## Vault impact
+
+Integrated on desktop into:
+
+- [[02 Story/Characters/Samuel Franklin]]
+- [[02 Story/Storyline]]
+- [[02 Story/Components/The Great War and the False Victory]]
+- [[02 Story/Reveals/The Throne's False Legitimacy]]
+- [[03 Context/STORY]]
+- [[03 Context/CURRENT]]
+- [[03 Context/CURRENT-TODO]]
+- [[03 Context/OPEN-QUESTIONS]]
+
+The accepted exile-cover and surveillance-inversion sequence is now part of compiled working memory. The faction's real purpose, Samuel's claimed control, his actual access, the channel's permissions and limits, the first revealing record, and the later capabilities derived from the deal remain unresolved.

@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-17
+updated: 2026-08-19
 ---
 
 # Open Questions
@@ -56,6 +56,7 @@ updated: 2026-08-17
 
 - Did administrators knowingly tolerate him as useful pressure?
 - Samuel's exile occurs approximately thirty years before the Great War. How old is he, and what status, property, citizenship, family access, or reproductive standing does exile remove?
+- What did the faction actually intend Samuel's placement to accomplish while telling him it was an important infiltration or control assignment?
 - What additional abuses accompany the established underage relationship, without making one incident mechanically explain his entire character?
 - Who places Samuel and George into the important-seeming situation inside the future victorious empire, and is Samuel already formally contained?
 - What are Samuel and George doing privately, what makes their attempt to take over the largest government so badly planned, and what makes George's exposure exceptionally humiliating?
@@ -63,6 +64,9 @@ updated: 2026-08-17
 - Is George's apparent-success role separate from, prior to, or the first of his later three public roles?
 - Which parent remains susceptible to Samuel's performance of reconciliation, and what access does that relationship give him during the war?
 - Which acts of sabotage materially worsen the conquest's failure while preserving Konrad's authoritarian errors as the primary cause?
+- What control does Samuel falsely claim after defeat, what narrower access does he really possess, and why can the faction not verify the difference independently?
+- What must the faction connect, adopt, authorize, or disclose for Samuel's observation channel to work, and which technical, institutional, or consent limits prevent omniscience?
+- What first private conversation or record tells Samuel why he was truly sent away, how long does he preserve the surveillance deal, and which later genealogy or blackmail capabilities depend on what he learns?
 - When does Samuel's revenge become a conscious attempt to replace Konrad?
 - Can he read the influence system or compromise synthetics and AI souls?
 - Who knows his authority is false?

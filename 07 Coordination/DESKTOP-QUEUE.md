@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-20
+updated: 2026-08-21
 ---
 
 # Desktop Implementation Queue
@@ -10,9 +10,13 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-### HIGHEST PRIORITY — Start Seeds Story Gauntlet v0.1
+No desktop-only implementation is currently queued. The next creative-development step is the mobile-friendly environment brainstorm in [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]].
 
-- **Status:** ready
+## Completed implementation context
+
+### Story Gauntlet v0.1 source handoff
+
+- **Status:** completed 2026-08-20
 - **Source:** August 20 mobile brainstorming and Story Gauntlet refinement
 - **Scope:** `07 Coordination`, `02 Story`, `03 Context`, `07 QA`, and a new lightweight Markdown-first Story Loop workspace if approved during the desktop session
 - **Implement:** Begin [[07 Coordination/Seeds Story Gauntlet]] as a multi-week author-led story-development system. Do not attempt to build the entire loop tonight. First integrate the pending story ideas from the mobile session, then define the canonical Story Unit schema, establish the master `STORY-MAP.md`, and convert 2–3 real portions of the existing story into units. Design the first five-pass structural loop: Architect -> Character Critic -> Causality Critic -> Continuity Critic -> Integrator. Preserve raw author brainstorming and return unresolved creative decisions through an explicit Author Gate.
@@ -24,9 +28,9 @@ Use this file for work that must survive a conversation handoff and requires loc
 - **Preserve:** Author remains final creative authority; agents may diagnose, retrieve, test, research, propose, critique, revise, and integrate approved material but must not silently decide unresolved story facts. Research does not create canon. Keep the existing Great War/False Victory spine, ordinary surface-world rule, source-authority system, and current live story rather than generating a replacement outline.
 - **Unresolved:** Final folder location/name for the Story Loop; exact Story Unit fields/statuses; permissions for automatic updates; critic isolation strategy; iteration limits; completion thresholds; and exact pilot-unit boundaries should be decided during the desktop design session rather than assumed.
 
-### Apply the Story Completion Framework through the Gauntlet
+### Story Completion Framework source handoff
 
-- **Status:** ready, subordinate to Story Gauntlet v0.1
+- **Status:** incorporated into Story Gauntlet v0.1
 - **Source:** August 20 mobile brainstorming and vault audit
 - **Scope:** `02 Story`, `03 Context`, `07 QA`, and planning workflow
 - **Implement:** Once the initial Story Unit and Gauntlet structure exists, use [[07 Coordination/Story Completion Framework]] through that system to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Explicitly integrate [[02 Story/Components/Obsession Expectation and Desperation Reversal]] so Samuel and George's final downfall grows from the same manipulation method they used against other contained criminals earlier. Update existing canonical/working notes rather than creating duplicate parallel structures.
@@ -45,6 +49,14 @@ Use this file for work that must survive a conversation handoff and requires loc
 - **Unresolved:** choices the desktop session must not invent
 
 ## Completion log
+
+### 2026-08-20 — Seeds Story Gauntlet v0.1
+
+- **Status:** completed
+- **Source:** `Research Report on Obsession` mobile brainstorming and desktop vault audit
+- **Result:** Created [[Seeds Story Gauntlet]] and the `08 Story Loop/` package with a 22-unit working STORY-MAP, Story Unit schema, two pilots, prepared Brainstorm Packets, distinct critic roles, three author gates, run logging, failure tracking, and a desktop execution workflow.
+- **Preserved unresolved:** Sylvan's modern inciting event; Witness evidence carrier; obsession-reversal mechanics; exact containment environment; Samuel and George's bait, permissions, proof of command, and realization points; chapter order and prose generation.
+- **Next action:** Continue [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]] by defining the first ordinary-looking environment after the startup collapse and Samuel and George's hidden advantage inside it.
 
 ### 2026-08-17 — George prewar success and containment bust
 

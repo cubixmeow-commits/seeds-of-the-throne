@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-17
+updated: 2026-08-19
 ---
 
 # Storyline
@@ -11,20 +11,21 @@ updated: 2026-08-17
 1. A long-lived civilization develops colonization worlds that also function as containment and leadership-cultivation systems.
 2. Synthetics establish a complete civilization before most humans enter it.
 3. Contained people and cultivated heirs are integrated under different conditions and with incomplete knowledge.
-4. Samuel Franklin is born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed, his family and organization exile him approximately thirty years before the Great War.
+4. Samuel Franklin is born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed, his family and organization exile him approximately thirty years before the Great War. They disguise the placement as an important assignment to infiltrate, influence, or eventually control the future victorious empire; Samuel initially believes the flattering explanation. The faction's real purpose remains unresolved.
 5. Samuel and George enter an important-seeming situation inside the large pluralistic empire that will become the principal victor. George appears highly successful.
 6. Samuel and George privately commit serious wrongdoing and participate in a horribly planned takeover attempt against the largest government. The plan collapses, and George is humiliatingly busted into real containment.
 7. Konrad's faction converts a still-unresolved political base into attempted global conquest, producing the Great War. During the campaign, Samuel pretends to seek reconciliation with his parents while covertly sabotaging the faction from inside the future victor.
 8. Konrad's conquest regime is defeated. Its state and military project collapse, and surviving leaders—including Konrad, Samuel's parents, and the senior faction—fall into public containment roles inside the victorious order Samuel already knows.
-9. Samuel becomes their interpreter, recasts George's apparent success and humiliating bust as secret conquest, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory.
-10. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
+9. Samuel claims that the assignment used to explain his exile succeeded and offers the defeated leadership access to systems he supposedly controls. They accept the deal. Samuel never conquered the victor: the narrower access runs backward, giving him concealed visibility into the faction while its leaders believe he has opened a window into the empire that defeated them. He learns why they sent him away, what they intended for him, and which secrets and dependencies can later be exploited. The exact technical and institutional mechanism remains unresolved.
+10. Samuel becomes their interpreter, recasts George's apparent success and humiliating bust as secret conquest, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory.
+11. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
 
 ## Narrated middle — working architecture
 
-11. The False Victory's long middle is developed as four provisional eras: first proof and fragile denial; inherited victory mythology; distributed hidden empire and imaginary jurisdictions; and the late world-scale claim in which independent institutions are repeatedly annexed into Samuel's story. The era structure is working, not a fixed episode order.
-12. Konrad's breeding and lineage program continues inside containment. Samuel uses the faction's dependence on his interpretations to capture the machinery that defines pedigree, purity, succession, and inheritance. Konrad believes the genuine son, daughter, and grandson of his Great War line have become a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
-13. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
-14. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
+12. The False Victory's long middle is developed as four provisional eras: first proof and fragile denial; inherited victory mythology; distributed hidden empire and imaginary jurisdictions; and the late world-scale claim in which independent institutions are repeatedly annexed into Samuel's story. The era structure is working, not a fixed episode order.
+13. Konrad's breeding and lineage program continues inside containment. Samuel uses the faction's dependence on his interpretations, together with knowledge acquired through the post-defeat deal, to capture the machinery that defines pedigree, purity, succession, and inheritance. Konrad believes the genuine son, daughter, and grandson of his Great War line have become a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
+14. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
+15. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
 ## Thread A — the Great War Witness
 

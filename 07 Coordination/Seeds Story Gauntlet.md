@@ -1,10 +1,27 @@
 ---
 type: coordination-system
-status: highest-priority-design
-updated: 2026-08-20
+status: active
+version: 0.1
+updated: 2026-08-21
 ---
 
 # Seeds Story Gauntlet
+
+## Implementation status
+
+Version 0.1 is implemented as a manual, Markdown-first system under `08 Story Loop/`.
+
+1. Open [[08 Story Loop/STORY-MAP]].
+2. Choose the highest-value unit that is `missing`, `partial`, or `blocked`.
+3. Open its Story Unit and Brainstorm Packet.
+4. Follow [[08 Story Loop/DESKTOP-WORKFLOW]].
+5. Use [[08 Story Loop/CRITIC-LOOP]] and [[08 Story Loop/QUALITY-BAR]].
+6. Stop at every author gate.
+7. Record the run under `08 Story Loop/Runs/`.
+
+The current active development packet is [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]]. It continues the accepted progression from Sylvan's startup collapse through multiple antagonist-controlled environments to the final bounded control inversion.
+
+> Build. Attack. Resolve. Integrate. Advance.
 
 ## Purpose
 
