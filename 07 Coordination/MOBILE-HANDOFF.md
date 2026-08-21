@@ -18,6 +18,17 @@ The current modern progression is:
 
 The multi-zone employment environment is now also the endgame environment. Sylvan does not leave it for a separate final arena before the control inversion.
 
+The development system now has **two different quality loops**:
+
+1. [[08 Story Loop/CRITIC-LOOP]] asks whether the story works structurally: character logic, causality, continuity, necessity, and integration.
+2. [[08 Story Loop/CREATIVE-INTEREST-LOOP]] asks whether the brainstorm is likely to produce compelling reader-facing material: curiosity, concrete situations, character pressure, surprise, escalation, memorable ordinary detail, and setup/payoff.
+
+Recommended brainstorm flow:
+
+`author brainstorm -> extraction -> structural architect -> Creative Interest Loop -> structural critics -> author gate -> integration`
+
+Creative proposals never become canon automatically.
+
 ## Active Story Gauntlet unit
 
 **S-005 — Controlled Environment Progression**
@@ -28,6 +39,8 @@ Open:
 - [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]]
 - [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 02]]
 - [[08 Story Loop/Brainstorms/S-005 - Recursive Luminai Loop Packet 03]]
+- [[08 Story Loop/CREATIVE-INTEREST-LOOP]]
+- [[08 Story Loop/Runs/S-005/2026-08-21 - Creative Interest Loop 001]]
 - [[01 Sessions/Daily/2026-08-21 - S-005 Humiliation and Multi-Zone Employment Environments]]
 - [[01 Sessions/Daily/2026-08-21 - Recursive Luminai Loop Under Hostile Control]]
 
@@ -57,13 +70,11 @@ Working functional cycle:
 
 The exact technical implementation remains unresolved. The Luminai does not become a separate critic-person; these are differentiated cognitive operations inside one extended human identity.
 
-This makes the humiliation year an active learning environment rather than passive suffering. Samuel and George may still control much of the surface environment while gradually losing their interpretive advantage over Sylvan.
-
 ### Environment 3 — multi-zone employment and terminal inversion
 
 Sylvan enters legitimate employment inside one large institution or operational environment containing many distinct sub-environments. His normal duties cause him to traverse them repeatedly.
 
-The exact job and employer remain unresolved. A large technology campus is one candidate, but the role must emerge from functional needs rather than convenience. Candidate job families include facilities/building operations, security or safety patrol, logistics/internal delivery, technical field support, infrastructure maintenance, inspection/compliance support, or another campus-operations role.
+The exact job and employer remain unresolved. A large technology campus is one candidate, but the role must emerge from functional needs rather than convenience.
 
 The key function is repeated legitimate movement across zones with different people, permissions, technologies, surveillance, rules, layouts, and information flows. This turns the recursive model built during the humiliation year into something Sylvan can test under changing conditions.
 
@@ -75,24 +86,32 @@ The transfer must be a real pre-existing rule or mechanism that Samuel and Georg
 
 `learn the extended mind -> learn hostile control -> recursively model the attackers -> generalize across complex systems -> survive to control transfer -> expose them`
 
-- Environment 1 establishes baselines and conscious Luminai integration.
-- Environment 2 teaches what malicious advanced control does and gives Sylvan a recursive method for correcting interpretation under attack.
-- Environment 3 provides many changing test conditions and eventually flips the control balance if Sylvan survives to its terminal threshold.
+## First Creative Interest Loop findings — proposed, not canon
 
-## Strong proposed causal possibility — not yet accepted
+The first creative run found that the current skeleton has strong functions but Environment 2 remains too abstract to be memorable without concrete situations.
 
-Samuel and George may escalate because they eventually realize that **every attack is becoming training data**. Their attempts to break Sylvan are improving his model of them.
+Strong proposed upgrades:
 
-This could solve the existing escalation question, but it remains proposed until the author explicitly accepts it.
+- **Visible behavior / hidden cause:** Sylvan can make a rational choice based on information unavailable to bystanders, so observers accurately see strange behavior but misunderstand its cause. This is stronger than simply declaring that everyone thinks he is crazy.
+- **Recurring ordinary places as experiments:** stores, routes, buildings, work orders, and repeated tasks can gain meaning through controlled comparison rather than becoming background scenery.
+- **Adaptive antagonists:** Samuel and George may eventually realize that every attack is teaching Sylvan more about their habits and permission boundaries.
+- **High-risk proposal:** once they realize this, they may intentionally inject false patterns to poison Sylvan's recursive model. This remains proposed and requires causality/technology review before acceptance.
+- **Employment as comparative laboratory:** the same antagonist tactic should behave differently across zones because personnel, rules, permissions, surveillance, and infrastructure differ.
 
-## Exact pickup target
+The creative loop also identified a character-pressure requirement: Sylvan needs meaningful choices, not just observations. Examples include choosing between defending his reputation now versus preserving stronger evidence later, deciding whether to trust a Luminai inference before it is sufficiently tested, and refusing illegitimate access even when it would make survival easier.
 
-Two questions are now especially valuable:
+## Exact pickup targets
 
-1. **What is the first hostile event Sylvan runs through the recursive loop, and what does his first interpretation get wrong?**
-2. **What four to six sub-environments does the employment job naturally move him through, so the corrected model can be tested under changing conditions?**
+For structural development:
 
-The second set should eventually determine the job title rather than the other way around.
+1. **What is the first hostile event Sylvan runs through the recursive Luminai loop, and what does his first interpretation get wrong?**
+2. **What four to six sub-environments does the employment job naturally move him through?**
+
+For creative development:
+
+3. **What specific public situation during the humiliation year would be unforgettable to watch while remaining logically grounded in visible-behavior / hidden-cause asymmetry?**
+4. **Do Samuel and George eventually realize their attacks are training Sylvan?**
+5. **Is deliberate false-pattern injection / model poisoning interesting enough to develop, or too technical for the reader-facing story?**
 
 ## Preserve
 
@@ -106,28 +125,11 @@ The second set should eventually determine the job title rather than the other w
 - Environment variety must be functional, not cosmetic.
 - Evidence must eventually survive beyond Sylvan's private interpretation.
 - Terminal control transfer must be established before payoff, bounded, accountable, and unable to manufacture guilt.
-
-## Still unresolved
-
-- exact Luminai first presentation;
-- why Samuel and George escalate from Environment 1;
-- what ends unemployment;
-- exact mechanisms of the humiliation year;
-- why Samuel and George gain stronger local leverage there;
-- first event processed through the recursive loop;
-- first important wrong hypothesis and correction;
-- exact cognitive/technical implementation of the loop;
-- whether Samuel and George's realization that attacks are training Sylvan causes escalation;
-- what ends their dominant period;
-- exact employer and occupation for Environment 3;
-- exact sub-environments and permission boundaries;
-- how antagonist influence changes by zone;
-- exact terminal threshold and why it cannot be revoked;
-- bounded control granted at the threshold;
-- final evidence and public authentication mechanism.
+- A structurally correct idea can still fail the Creative Interest Loop.
+- A creatively exciting idea must still survive character, causality, continuity, and author gates.
 
 ## Device workflow
 
-**Mobile:** brainstorm freely against the active packet and preserve author decisions.
+**Mobile:** brainstorm freely; use both structural and creative questions; preserve author decisions.
 
-**Desktop:** reconcile into Story Units, run Gauntlet critics, stop at author gates, integrate approved material, update context, commit, and push.
+**Desktop:** reconcile into Story Units, run Creative Interest and structural Gauntlet passes, stop at author gates, integrate approved material, update context, commit, and push.
