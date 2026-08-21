@@ -10,12 +10,23 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-### Apply the Story Completion Framework to the live story map
+### HIGHEST PRIORITY — Design the Seeds Story Gauntlet
 
 - **Status:** ready
+- **Source:** August 20 mobile brainstorming after Story Completion Framework design
+- **Scope:** `07 Coordination`, `02 Story`, `03 Context`, `07 QA`, and future agentic story-planning workflow
+- **Implement:** Design [[07 Coordination/Seeds Story Gauntlet]] as the author-led agentic loop for finishing the story. Establish the master story-map location/schema, dependency ranking, separate architect/character/causality/continuity/structure/research/integration passes, fresh-context critic boundaries, author gates, iteration limits, automatic-update permissions, pass/fail rubrics, and the transition from story completion to sequences, scenes, and prose. The loop must use the existing vault and current story rather than generating a replacement outline.
+- **Primary objective:** Convert ride-home author brainstorming into systematically resolved causal story structure until the whole novel can be followed from beginning to ending without blocking gaps.
+- **Optimization order:** CLOSE A GAP > STRENGTHEN EXISTING STRUCTURE > NEW EXPANSION.
+- **Preserve:** Author remains final creative authority; agents may diagnose, retrieve, test, research, propose, and integrate approved material but must not silently decide unresolved story facts. Research does not create canon. Keep the existing Great War/False Victory spine, ordinary surface-world rule, and current story authority/status system intact.
+- **Unresolved:** The exact loop architecture, file schema, ranking algorithm, permissions, critic isolation strategy, and completion thresholds are design decisions for tonight's desktop session and must not be invented automatically before that pass.
+
+### Apply the Story Completion Framework to the live story map
+
+- **Status:** ready, but subordinate to Story Gauntlet design
 - **Source:** August 20 mobile brainstorming and vault audit
 - **Scope:** `02 Story`, `03 Context`, `07 QA`, and planning workflow
-- **Implement:** Use [[07 Coordination/Story Completion Framework]] to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, the essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Explicitly integrate [[02 Story/Components/Obsession Expectation and Desperation Reversal]] so Samuel and George's final downfall grows from the same manipulation method they used against other contained criminals earlier. Update existing canonical/working notes rather than creating duplicate parallel structures.
+- **Implement:** After the Story Gauntlet architecture is decided, use [[07 Coordination/Story Completion Framework]] through that loop to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, the essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Explicitly integrate [[02 Story/Components/Obsession Expectation and Desperation Reversal]] so Samuel and George's final downfall grows from the same manipulation method they used against other contained criminals earlier. Update existing canonical/working notes rather than creating duplicate parallel structures.
 - **Preserve:** Current author-established Great War/False Victory spine; ordinary surface-world rule; Sylvan's principle of not treating people as disposable instruments; recent obsession research and inverted containment mechanism remain developmental until integrated deliberately.
 - **Unresolved:** Do not invent the remaining causal answers automatically. Resolve them with the author during the desktop planning session, including where the obsession/expectation/desperation method first appears and exactly how its endgame reversal is revealed.
 
