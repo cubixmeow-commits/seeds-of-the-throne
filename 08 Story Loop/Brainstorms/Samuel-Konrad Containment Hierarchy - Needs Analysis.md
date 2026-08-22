@@ -13,7 +13,7 @@ This mechanism remains **UNRESOLVED IN ITS DETAILS** and should be developed in 
 
 Do not patch the remaining mechanism by inference. Do not assume motivations or technical rules that have not been worked through with the author.
 
-Question 1 now has an accepted conceptual answer. The exact limits and operating mechanism of the alpha's perceptual control remain unresolved and must be settled before Question 1 is considered operationally complete.
+Question 1 now has an accepted conceptual and operational answer. The exact safeguards, resistance paths, and external oversight remain unresolved for the later bounded-power questions.
 
 ## Question 1 — accepted conceptual answer
 
@@ -25,7 +25,11 @@ Konrad and his fanatic partner used this power to draw their population into the
 
 After the Fitzgerald group enters containment, Samuel uses the hierarchy and a constructed story environment to take control of the group. Across roughly eighty years, he gradually changes its belief system and priorities toward something darker. After discovering that he had truly been exiled, he tries to project his own failures onto the entire group. His campaign destroys bloodlines and spreads transgressions through the population, turning his control into a long destruction of what the already-evil group considered important.
 
-This establishes the hierarchy's **function and moral danger**. It does not yet establish whether the alpha directly edits awareness, controls the story environment and available evidence, controls decision permissions, or combines these powers under specific limits.
+This establishes the hierarchy's **function and moral danger**.
+
+The accepted mechanism is **layered control**. The alpha directly governs the experienced reality and available decision structure but does not simply overwrite every private belief. Samuel must identify the older generation loyal to Konrad and separate those people from the larger population. Konrad and the old loyalists experience a responsive reality based on whatever they believe they are trying to do, so they perceive progress and believe the organization is functioning normally. Outside their awareness, Samuel slowly corrupts the later generations.
+
+The old leadership's isolation prevents it from serving as a living source of continuity for the younger population. This makes the eighty-year duration, generational corruption, bloodline destruction, and spreading of transgressions causally necessary rather than decorative.
 
 ## Hard constraints
 
@@ -77,7 +81,7 @@ Do **not** treat Konrad's later reactivation as restoration of neutral property.
 
 Work through these one at a time rather than solving them all at once:
 
-1. What exactly is the containment hierarchy in practical terms? **Conceptually answered; exact control mechanism and limits still open.**
+1. What exactly is the containment hierarchy in practical terms? **Answered: layered control of experienced reality and decision structure, with generational change rather than arbitrary private-belief rewriting.**
 2. What does "primary contained criminal" mean operationally?
 3. What exact event counts as the first integration and triggers the lock?
 4. What specifically locks: authority, dependency graph, program ownership, administrative routing, narrative role, jurisdiction, or some combination?
@@ -123,6 +127,9 @@ Accepted:
 - Contained criminal populations receive access to the same class of technology inside bounded containment, including for their own population, breeding, and organizational structures.
 - Konrad and his fanatic partner used the system to align their population with their beliefs and fascist obsessions.
 - Samuel later uses the system and a story environment to take control of the Fitzgerald group and slowly redirect its beliefs and priorities over approximately eighty years.
+- Samuel identifies and separates the older-generation people loyal to Konrad from the larger population.
+- Konrad and the old loyalists remain inside a responsive reality based on what they believe they are trying to accomplish and therefore believe everything is proceeding successfully.
+- Samuel corrupts later generations outside the old leadership's awareness rather than directly converting Konrad and the loyal older generation.
 - Samuel's destructive campaign follows his discovery that his supposed assignment was actually exile; he projects his failures onto the group, destroys bloodlines, and spreads transgressions through it.
 - Konrad never considered failure.
 - Samuel remains an outsider in Konrad's eyes.
@@ -140,7 +147,6 @@ Accepted:
 - The resulting mistake is one of the principal mechanisms that permanently destroys the Fitzgerald group.
 
 Unresolved:
-- whether alpha control directly edits awareness, curates the experienced story reality, governs decision permissions, or combines these functions under bounded rules;
 - what resistance, residual agency, memory, evidence, or external correction remains available to people below the alpha;
 - the precise definition of "primary contained criminal";
 - the exact lock event;

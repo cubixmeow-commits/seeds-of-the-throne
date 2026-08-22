@@ -1,6 +1,6 @@
 ---
 type: daily-session
-status: active-brainstorm
+status: question-1-accepted
 updated: 2026-08-21
 characters: Samuel Franklin, Konrad Fitzgerald
 themes: containment hierarchy, alpha control, awareness, decisions, story environments, colonization
@@ -48,3 +48,25 @@ Before moving to the definition of "primary contained criminal," settle one rema
 **How directly can the alpha control another participant's perception and decisions?**
 
 The next exchange should compare a small number of bounded mechanisms and let the author accept, combine, revise, or reject them.
+
+## Author selection — layered control accepted
+
+The author selected the layered-control model.
+
+The alpha directly governs the reality presented to participants and the structure of decisions available inside it, but does not simply rewrite every private belief. Samuel must identify the older-generation people who remain loyal to Konrad and separate them from the larger group. He then corrupts the later generations gradually, outside the knowledge of Konrad and the older leadership.
+
+Konrad and the loyal older leaders believe everything is proceeding successfully. They remain trapped inside a responsive reality built around whatever they believe they are trying to accomplish. Their apparent work, progress, and choices therefore do not reveal what Samuel is doing to the population beyond their perceived environment.
+
+This separation gives the eighty-year process a necessary causal function:
+
+`identify legacy loyalists -> separate their experienced reality from the larger population -> let them perceive continued progress -> shape later generations outside their awareness -> replace the group's living beliefs, priorities, and bloodlines over time`
+
+Samuel does not need to persuade Konrad that Samuel's darker program is correct. He needs to prevent Konrad and the old loyalists from perceiving that the real population is diverging from the reality in which they believe they are still leading.
+
+Question 1 is accepted at the practical-mechanism level. Exact safeguards, resistance paths, and external oversight can be handled when the brainstorm reaches bounded power and containment rules.
+
+## Next question
+
+Proceed to Question 2:
+
+**What does "primary contained criminal" mean operationally? What exact status, relationship, or responsibility distinguishes the primary from a criminal who is merely present in the environment?**

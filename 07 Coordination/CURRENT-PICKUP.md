@@ -33,13 +33,13 @@ Resume the dedicated Samuel–Konrad containment session from:
 
 [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
 
-Question 1 has an accepted conceptual answer: the hierarchy controls decisions and awareness, and the alpha controls how participants perceive reality during colonization. Legitimate leaders can use this technology honestly; contained criminals receive bounded access to the same class of system and can abuse it. Konrad and his fanatic partner used it to impose their beliefs and fascist obsessions. Samuel later uses a story environment and the hierarchy to reshape the group across roughly eighty years, destroying bloodlines and spreading transgressions after learning the truth of his exile.
+Question 1 is accepted. The hierarchy controls decisions and awareness through layered control. The alpha governs experienced reality and the available decision structure but does not simply rewrite every private belief. Legitimate leaders can use this technology honestly; contained criminals receive bounded access to the same class of system and can abuse it. Konrad and his fanatic partner used it to impose their beliefs and fascist obsessions. Samuel later separates Konrad and the loyal older generation from the larger population. They experience a responsive reality based on what they believe they are accomplishing and think everything is proceeding normally, while Samuel corrupts later generations outside their awareness across roughly eighty years, destroying bloodlines and spreading transgressions after learning the truth of his exile.
 
-Before moving to Question 2, finish only the remaining mechanism question inside Question 1:
+Proceed to Question 2 only:
 
-> **How directly can the alpha control another participant's perception and decisions?**
+> **What does "primary contained criminal" mean operationally? What exact status, relationship, or responsibility distinguishes the primary from a criminal who is merely present in the environment?**
 
-Do not yet assume direct mind rewriting, purely indirect environmental curation, automatic obedience, total loss of agency, omniscience, or the absence of external safeguards.
+Do not yet solve the integration event, hierarchy lock, or Samuel's acquisition of primary status.
 
 Use:
 
@@ -61,7 +61,6 @@ Do not solve later questions in advance.
 
 ## Still unresolved
 
-- practical hierarchy architecture;
 - definition of primary contained criminal;
 - exact integration/lock event and purpose;
 - what Samuel knew and when;
