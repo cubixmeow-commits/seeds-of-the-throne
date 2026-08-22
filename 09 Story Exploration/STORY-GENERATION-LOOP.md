@@ -13,6 +13,8 @@ Generate multiple possible stories from the current Seeds of the Throne vault fo
 
 The system should behave more like a creative search engine than a single-answer generator.
 
+When available, begin from a [[08 Story Loop/GAP-ANALYZER|Gap Analyzer]] packet and declare a Micro, Standard, Deep, or Cascade token mode. Return shortlisted candidates to [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] rather than integrating them here.
+
 ## Loop
 
 ### 1. Retrieve
@@ -54,6 +56,8 @@ Every run should have a narrow creative question, such as:
 - What scenes could reveal the hierarchy lock without exposition?
 - What are alternate ways George's failed takeover could create later consequences?
 
+Also record the current scale, run mode, explicit exclusions, and stop condition.
+
 ### 4. Diverge
 
 Generate **5–12 genuinely different candidate directions**.
@@ -90,6 +94,8 @@ Select the most promising 3–5 and expand each into:
 - what new assumptions it requires
 - likely downstream consequences
 
+Generate only the character functions needed to compare candidates. Use [[08 Story Loop/CHARACTER-FACTORY]] for Tier C/D packets only after a role proves necessary. Names remain placeholders unless the author promotes them.
+
 ### 6. Adversarial critic pass
 
 Run separate critic lenses rather than letting the generator grade itself casually.
@@ -112,6 +118,12 @@ Does it create curiosity, pressure, surprise, memorable scenes, reversals, or se
 #### Distinctiveness Critic
 Is this actually a different direction, or only a rewrite of another candidate?
 
+#### Problem-Solving / Listener-Clarity Critic
+Can the candidate produce a clear immediate objective, an attempt, a result, a changed state, and a scene understandable without the whole system? Use the criteria in [[08 Story Loop/PROBLEM-SOLVING-STORY-ENGINE]].
+
+#### Cost Critic
+Does the candidate justify its new characters, systems, assumptions, exposition, and token depth?
+
 ### 7. Rank without canonizing
 
 Score surviving candidates 1–5 on:
@@ -122,6 +134,11 @@ Score surviving candidates 1–5 on:
 - Creative Interest
 - Scene Potential
 - Payoff Potential
+- Immediate Objective Clarity
+- Problem-Solving Potential
+- Escalation Potential
+- Audiobook Legibility
+- Solution-to-Consequence Payoff
 - Required New Assumptions (reverse score: fewer is better)
 
 Do not declare a winner as canon.
@@ -156,6 +173,10 @@ Save the run with:
 - unanswered questions
 - explicit `NON-CANON` warning
 
+### 9A. Optional representative prototype
+
+Use a short [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE|development prototype]] only when story-in-motion can distinguish surviving candidates better than further outline debate. Prototype one representative scene, not every branch. State what it tests and list every provisional invention. Readability is not evidence of canon or manuscript readiness.
+
 ### 10. Author Promotion Gate
 
 Stop.
@@ -172,6 +193,15 @@ The author chooses whether to:
 - send candidate into `08 Story Loop/`
 
 Only selected material enters the main story-development process.
+
+## Token modes
+
+- **Micro:** 3 narrow candidates, 2–3 critics, no prose by default.
+- **Standard:** 4–6 candidates, expand 2, focused critics, optional 500–900 word prototype.
+- **Deep:** 5–10 candidates, shortlist 3, mutation round, one representative prototype at most.
+- **Cascade:** 3–5 broad candidates, follow one working branch down through scales, then stop at the author gate.
+
+Use breadth cheaply and depth selectively. Do not fully render every alternative.
 
 ## Two useful modes
 

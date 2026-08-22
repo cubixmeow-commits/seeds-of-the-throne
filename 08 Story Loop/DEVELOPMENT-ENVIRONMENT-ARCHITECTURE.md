@@ -98,6 +98,8 @@ Output:
 
 A prioritized development queue.
 
+Use [[08 Story Loop/GAP-ANALYZER]] so every gap is classified by type, impact, authority needed, dependency reach, cheapest useful test, and stop condition. Gap analysis diagnoses missing links; it does not fill author decisions.
+
 Priority order remains:
 
 **CLOSE A GAP > STRENGTHEN EXISTING STRUCTURE > NEW EXPANSION**
@@ -271,6 +273,8 @@ Research produces new mechanisms or situations for a specific gap.
 ## Ideal end-to-end development flow
 
 `author idea -> retrieve canon -> identify gap -> research if useful -> generate alternatives -> rank by story fit -> build structure -> generate required characters -> simulate in readable story form -> critic loop -> author decision -> integrate -> repeat at finer scale`
+
+The executable routing contract is [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]]. Use [[08 Story Loop/Templates/development-run]] for durable run state and [[08 Story Loop/Templates/development-chapter-packet]] before chapter or compressed-chapter prototypes.
 
 ## Why development prototypes matter
 

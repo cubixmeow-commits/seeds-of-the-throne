@@ -1,14 +1,16 @@
 ---
 type: context
 status: active
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # Writing Style — Archive Thriller / Dark Historical Reconstruction
 
-## Active project style
+## Later manuscript candidate
 
-**Archive Thriller / Dark Historical Reconstruction is now the primary development writing style for Seeds of the Throne.**
+**Archive Thriller / Dark Historical Reconstruction remains the active candidate for later Seeds manuscript prose. It is no longer the default story-development rendering mode.**
+
+During the current phase, use [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]] for short readable story tests. Those prototypes prioritize clear objectives, conversational scenes, active problem-solving, listener orientation, and cheap comparison. They are disposable and non-canon. Apply this file when the author explicitly requests a later-prose test, manuscript candidate, or refinement of this register.
 
 The earlier **Jurassic Park-style exposition is retired as a project register.** Do not use it as a default model for technical explanation, worldbuilding exposition, scene construction, or public-facing story material. Any clarity, accessibility, or sense of discovery previously associated with that reference should now be achieved inside the Archive Thriller framework rather than by reverting to the old style.
 
@@ -101,7 +103,7 @@ His family exiles him from Konrad Fitzgerald's purity-obsessed organization appr
 
 While Konrad's faction attempts world conquest, Samuel maintains contact with his parents and convinces them that he wants reconciliation and a path back into the organization. In reality, he uses the relationship to sabotage them from inside the future victorious environment.
 
-When Konrad, Samuel's parents, and the defeated leadership eventually fall into the same containment system, Samuel already understands the environment better than they do. He becomes useful by interpreting the system, obtaining access, and explaining their defeat in terms they can psychologically survive.
+When Konrad, Samuel's parents, and the defeated leadership eventually enter the largest empire's containment environment, Samuel already understands more of it and has a separate bounded jurisdiction there. Konrad had genuinely controlled his own city and never considered failure. Samuel remains an outsider, but lies about what his position can restore and induces Konrad to migrate Fitzgerald machinery into his jurisdiction. The exact hierarchy implementation remains unresolved.
 
 His revenge then becomes an inversion of his exile: the family that once decided Samuel did not belong eventually depends on Samuel to determine who belongs to their own families.
 
@@ -115,6 +117,6 @@ He is trying to become Konrad.
 
 ## Development note
 
-This style is adopted, but still open to refinement through scene tests. The next pass should test it against different material: Samuel's exile, Konrad's collapse, George's subjective reality, Sylvan's discoveries, and technical/world-system reveals. Refine compression, irony, cinematic intensity, frequency of the turn, and controlled human variance without reopening the retired Jurassic Park register.
+This style remains available for later manuscript-specific scene tests. Routine development should first test Samuel's exile, Konrad's collapse, George's subjective reality, Sylvan's discoveries, and technical/world-system reveals through Development Prototype Style. Promote only structurally useful survivors into later prose testing. Refine compression, irony, cinematic intensity, frequency of the turn, and controlled human variance without reopening the retired Jurassic Park register.
 
 The exact details of Samuel's original misconduct, his parents' individual roles in the exile, the mechanisms of his wartime sabotage, and the sequence by which the defeated faction becomes dependent on him remain working material for the next integration session.

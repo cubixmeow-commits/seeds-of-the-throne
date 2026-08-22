@@ -17,6 +17,8 @@ Primary flow:
 
 `retrieve -> map gap -> generate alternatives -> critique -> select working candidate -> expand one scale -> critique -> expand one scale -> simulate -> author gate`
 
+Use [[08 Story Loop/GAP-ANALYZER]] for the initial map and [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] for routing and stop conditions. Record new runs with [[08 Story Loop/Templates/development-run]].
+
 The loop should spend tokens where uncertainty is highest rather than generating large amounts of prose prematurely.
 
 ## Core rule
@@ -331,6 +333,8 @@ Before generating a development chapter, assemble only:
 - unresolved details allowed to remain provisional.
 
 Then prototype.
+
+Reusable form: [[08 Story Loop/Templates/development-chapter-packet]].
 
 ## Failure modes
 

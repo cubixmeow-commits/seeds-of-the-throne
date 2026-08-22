@@ -271,6 +271,8 @@ Samuel's sabotage should exploit existing failure modes rather than replace them
 
 The postwar transition is especially suited to this engine.
 
+This section summarizes the accepted dramatic hinge, not the unresolved implementation. It may guide scene questions, but it must not decide the practical hierarchy architecture, definition of primary, exact lock event, transferred powers, precise lie, reset limits, or destruction chain. Those belong to [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
+
 At the immediate level, Konrad has a simple problem:
 
 **The machinery that made his authority real is gone or inactive. He wants it back.**
@@ -283,9 +285,9 @@ That success encourages Konrad to restore more.
 
 But the larger structure is:
 
-`loss of city-based control -> need to restore programs -> Samuel provides path -> programs reactivate inside largest-empire containment environment -> hierarchy was already locked around Samuel -> restored systems operate inside Samuel's jurisdiction -> dependency grows -> surveillance/control consequences emerge -> Fitzgerald group is permanently damaged`
+`genuine control in Konrad's own city -> unanticipated defeat -> loss of that city-based jurisdiction -> need to restore programs -> Samuel provides a path inside his separate bounded part of the largest empire's containment environment -> earlier first-primary lock gives Samuel structural priority there -> Konrad reactivates/migrates machinery inside Samuel's jurisdiction -> still-unresolved dependency, surveillance, and control consequences -> Fitzgerald group is permanently damaged`
 
-The reader should understand the immediate success before fully understanding its hidden cost.
+Samuel remains an outsider and may remain contemptible in Konrad's eyes throughout this process. The reader should understand the immediate success before fully understanding its hidden cost, but the exact success and cost must be selected through the author-led brainstorm rather than inferred here.
 
 ## Integration into the Story Exploration Lab
 

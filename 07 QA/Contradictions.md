@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-17
+updated: 2026-08-21
 ---
 
 # Contradictions
@@ -17,3 +17,5 @@ updated: 2026-08-17
 | C-007 | Older compiled notes assigned city stewardship, national capture, attempted world conquest, and the Great War to Samuel; the 2026-08-17 decision assigns the conquest project to Konrad's older faction. | Konrad's faction owns the conquest and war. Samuel is already exiled and contained inside the future victor, where he performs reconciliation and sabotages the faction. Preserve older dated sessions as history, not current canon. |
 | C-008 | Samuel's former approximately fifty-year rampage plus several-decade processing chronology no longer maps cleanly onto the exile, earlier containment, wartime sabotage, and age-220 anchor. | Keep age 220 as working; retire the old phase durations and remap his age at misconduct, exile, entry into containment, prewar experience, and the False Victory period before restoring any duration. |
 | C-009 | Older material states Samuel deliberately breaks and places George as a preplanned fallback before launching his own war. The revised sequence instead gives George apparent success inside the largest government before private joint wrongdoing with Samuel and a badly planned takeover end in his humiliating bust into containment. | Use the 2026-08-17 revised bust sequence. Konrad still owns the later Great War. Leave who placed Samuel and George, their exact private conduct, the takeover mechanics, Samuel's consequences, and the prewar role's relationship to George's later public roles unresolved. |
+| C-010 | Current context and older compiled summaries described the defeated Fitzgerald faction as falling into “Samuel's environment,” which can imply that Konrad never held independent authority or that the whole victorious containment system belongs to Samuel. | Konrad genuinely controls his own city before a defeat he never considered. The later group enters the largest empire's containment environment, within which Samuel has a separate bounded jurisdiction and earlier first-primary structural priority. Samuel remains an outsider. Exact mechanics remain unresolved. |
+| C-011 | Archive Thriller / Dark Historical Reconstruction was described as the default project-development style, while the author's later August 21 direction makes finished-novel prose downstream of short readable development prototypes. | Use Development Prototype Style for routine story simulation. Preserve Archive Thriller / Dark Historical Reconstruction as a later manuscript candidate and optional supporting register, not the default development output. |

@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-17
+updated: 2026-08-21
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, original conquest leader, contained criminal
 ---
@@ -45,6 +45,8 @@ Konrad, his senior partner, his family network, Samuel's parents, and the larger
 
 The exact sequence from initial territorial or national power to attempted world conquest remains to be developed, but Konrad is directly responsible for the project and its ideology.
 
+Konrad's control in his own city and over the Fitzgerald machinery there is genuine. He never considers failure, anticipates containment, or prepares a post-defeat fallback hierarchy.
+
 The movement loses catastrophically.
 
 Its defeat destroys the overt conquest project and results in Konrad and surviving senior figures being processed into containment roles inside the large pluralistic empire that defeated them.
@@ -63,17 +65,17 @@ Konrad's movement does not lose solely because Samuel betrays it. Its own author
 
 Whether Konrad knows about the sabotage at the time of defeat is unresolved. The stronger working direction is that he does not understand its full scope.
 
-## Falling into Samuel's environment
+## Entering the largest empire's containment environment
 
 After defeat, Konrad and surviving leaders are processed into the victorious containment environment.
 
-They arrive politically broken, stripped of overt empire, and forced to navigate a system they do not understand. Samuel, by contrast, has already accumulated experience inside it.
+They arrive politically broken, stripped of the genuine city-based jurisdiction Konrad once held, and forced to navigate a system they do not understand. Samuel, by contrast, was integrated earlier and has his own separate bounded jurisdiction there.
 
 This reversal creates the opening for Samuel's rise.
 
-Samuel presents himself as useful, familiar, and potentially reconciled with the organization. He claims he can help them understand containment, preserve their networks, navigate public roles, recover influence, protect their bloodlines, and eventually reverse defeat.
+Samuel remains a pathetic outsider in Konrad's eyes. He nevertheless presents his bounded technical position as useful and claims he can help them understand containment, preserve their networks, reactivate Fitzgerald machinery, recover influence, protect their bloodlines, and eventually reverse defeat.
 
-Konrad mistakes Samuel's usefulness for renewed loyalty.
+Konrad mistakes Samuel's usefulness for a tool he can control. He does not recognize that reactivation inside Samuel's jurisdiction occurs under a hierarchy whose first-primary structural priority was already set. The practical rule, lock event, exact lie, transferred powers, and reset limits remain unresolved.
 
 ## The problem Samuel promises to solve
 
@@ -92,7 +94,7 @@ The promise gives Samuel access to:
 - the program's technical personnel;
 - decisions about succession and permitted reproduction.
 
-Konrad accepts the arrangement because Samuel appears to have returned as a useful insider and because he offers scientific-looking confirmation of what Konrad already wants to believe.
+Konrad accepts the arrangement because the outsider appears to control infrastructure Konrad needs and offers scientific-looking confirmation of what Konrad already wants to believe. Practical dependency does not require respect or social restoration.
 
 ## Samuel's revenge and appropriation of the line
 
@@ -162,6 +164,8 @@ Sylvan suspects Samuel continues controlling or blackmailing Konrad through one 
 - Which strategic failures make the Great War defeat inevitable even without Samuel's sabotage?
 - What specific information does Samuel obtain from his parents during the war?
 - When does Konrad first suspect Samuel materially contributed to the defeat?
+- What is the containment hierarchy in practical terms, what does Konrad reactivate inside Samuel's bounded jurisdiction, and what remains genuinely under Konrad's authority?
+- What exact lie makes the migration look like restoration, what evidence records the jurisdictional reality, and why can it not simply be reset?
 - What supposedly exceptional abilities does Konrad want the breeding program to produce?
 - Which specific intervention first makes Konrad understand the breeding program has been compromised?
 - Does Konrad learn the organization-wide scope and coup purpose before, during, or after Sylvan's results presentation?

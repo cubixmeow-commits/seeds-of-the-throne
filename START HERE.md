@@ -21,11 +21,11 @@ Reusable AI workflows live in [[skills/README|skills]]. Review the catalog and l
 
 ## Coordination
 
-Read [[07 Coordination/README|Coordination]] for the mobile-versus-desktop convention. Work requiring local files, testing, commits, publishing, or durable cross-device handoff belongs in [[07 Coordination/DESKTOP-QUEUE|the desktop queue]]. The short instruction for resuming implementation is: **Process the desktop queue.**
+Read [[07 Coordination/CURRENT-PICKUP]] first, then [[07 Coordination/README|Coordination]] for the mobile-versus-desktop convention. Work requiring local files, testing, commits, publishing, or durable cross-device handoff belongs in [[07 Coordination/DESKTOP-QUEUE|the desktop queue]]. The short instruction for resuming the project is: **Open Current Pickup.**
 
-Current system directions are summarized in [[02 Story/Systems/Advanced Technology Ecology]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Systems/Fascist Failure and Leadership Cultivation]], and [[02 Story/Systems/Visual Generation/README|Visual Generation]].
+Current story-system directions are summarized in [[02 Story/Systems/Advanced Technology Ecology]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Systems/Fascist Failure and Leadership Cultivation]], and [[02 Story/Systems/Visual Generation/README|Visual Generation]].
 
-The active project development register is [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]]. Jurassic Park-style exposition is retired as a current register.
+Current development work begins with [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] and [[08 Story Loop/GAP-ANALYZER]]. Short, readable [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE|development prototypes]] are the default story-rendering mode at this stage. [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]] remains an available later manuscript register, not the default form for discovering the story. Jurassic Park-style exposition remains retired.
 
 ## Memory layers
 

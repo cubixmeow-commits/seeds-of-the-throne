@@ -1,14 +1,14 @@
 ---
 type: development-overview
 status: active
-updated: 2026-08-17
+updated: 2026-08-21
 ---
 
 # Seeds of the Throne — Development Overview
 
 ## The story in one paragraph
 
-A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. About thirty years before Konrad Fitzgerald's fascist purity organization starts the Great War, it exiles Samuel Franklin. Samuel and George then enter an important-seeming situation inside the largest government; George's apparent success ends when private joint wrongdoing and a horribly planned takeover collapse in a humiliating exposure that busts him into real containment. During Konrad's later conquest, Samuel pretends to seek family reconciliation while covertly sabotaging the campaign. After defeat brings Konrad, Samuel's parents, and the surviving leadership into Samuel's environment, he becomes indispensable, rewrites George's real success and failure as proof that the victor was secretly captured, and constructs the False Victory. For a century, Samuel revises failure while taking control of breeding, genealogy, descendants, and replacement heirs. His revenge evolves into an attempt to replace Konrad. Sylvan Elaria preserves the record connecting betrayal, revised history, lineage abuse, and command responsibility.
+A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. About thirty years before Konrad Fitzgerald's fascist purity organization starts the Great War, it exiles Samuel Franklin. Samuel and George then enter an important-seeming situation inside the largest government; George's apparent success ends when private joint wrongdoing and a horribly planned takeover collapse in a humiliating exposure that busts him into real containment. During Konrad's later conquest, Samuel pretends to seek family reconciliation while covertly sabotaging the campaign. Konrad genuinely controls his own city and never considers failure. After defeat moves the surviving leadership into the largest empire's containment environment, Samuel remains an outsider but uses an earlier first-primary placement and separate bounded jurisdiction to trick Konrad into migrating Fitzgerald machinery there. He rewrites George's real success and failure as proof that the victor was secretly captured and constructs the False Victory. For a century, Samuel revises failure while taking control of breeding, genealogy, descendants, and replacement heirs. His revenge evolves into an attempt to replace Konrad. Sylvan Elaria preserves the record connecting betrayal, revised history, lineage abuse, and command responsibility. The hierarchy implementation remains unresolved.
 
 The antagonist's endpoint is total control rather than ordinary conquest. His movement seeks authority over government, history, culture, movement, family, ancestry, succession, and personal interpretation. His god-ruler claim places that authority beyond appeal: every contradiction can be renamed as hidden design. The faction believes it survived to rule humanity, but it is actually the first population he fully conquers through isolation, shame, fraudulent history, and control of legitimacy.
 
@@ -66,7 +66,7 @@ The world systems and endgame are substantially clearer than the opening and mid
 
 - Failed privileged heir born to senior members of Konrad's organization, then exiled after serious misconduct and separately contained inside the future victor.
 - Maintains contact with his parents during Konrad's conquest, performs reconciliation, and covertly sabotages the campaign without becoming its original leader or sole cause of defeat.
-- Converts preexisting containment experience into interpretive authority when Konrad's defeated faction enters the same environment.
+- Converts preexisting containment experience and a separate bounded jurisdiction into structural leverage when Konrad's defeated faction enters the largest empire's containment environment; he remains an outsider in Konrad's eyes.
 - Knows his faction lost and has maintained the **False Victory** for decades.
 - Claims George captured the victorious republic and that containment roles are covert offices.
 - Uses certification, records, genealogy, bloodline control, and managed information to create leverage.

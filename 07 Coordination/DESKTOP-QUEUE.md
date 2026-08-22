@@ -10,7 +10,7 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-No desktop-only implementation is currently queued. The next creative-development step is the mobile-friendly environment brainstorm in [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]].
+No desktop-only implementation is currently queued. Resume creative development from [[CURRENT-PICKUP]].
 
 ## Completed implementation context
 
@@ -49,6 +49,14 @@ No desktop-only implementation is currently queued. The next creative-developmen
 - **Unresolved:** choices the desktop session must not invent
 
 ## Completion log
+
+### 2026-08-21 — Development-first environment integration
+
+- **Status:** completed
+- **Source:** full August 21 mobile/chat development-system session
+- **Result:** Added the Gap Analyzer, Development Orchestrator, development run and chapter packet templates; wired the Story Exploration Lab, multiscale Gauntlet, Character Factory, research loop, problem-solving engine, prototype mode, focused critics, token modes, and author gates; corrected the Konrad/Samuel containment framing across live context and compiled summaries; consolidated the next session into [[CURRENT-PICKUP]].
+- **Preserved unresolved:** practical containment hierarchy, primary definition, lock event and purpose, exact lie, migration procedure, transferred powers, evidence, reset limits, permanent-destruction chain, and all unpromoted Great War sample material.
+- **Next action:** Begin Question 1 in [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 
 ### 2026-08-20 — Seeds Story Gauntlet v0.1
 

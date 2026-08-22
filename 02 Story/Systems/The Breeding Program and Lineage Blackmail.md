@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-17
+updated: 2026-08-21
 themes: breeding program, reproductive abuse, genealogy, racist purity doctrine, lineage blackmail, common knowledge, Sylvan evidence
 ---
 
@@ -13,7 +13,7 @@ The fallen empire maintained a centralized reproductive and lineage program tied
 
 Elements of the program continue inside containment through fertility services, genealogy, identity certification, family records, and the contained organization's insistence on preserving recognized lineages.
 
-Samuel Franklin gains influence over these systems after Konrad's defeated leadership enters the containment environment Samuel already understands. He presents technical rescue and interpretive guidance as renewed loyalty, then converts access into revenge, dynastic corruption, and private blackmail.
+Konrad genuinely controls these systems in his own city before the defeat he never considered. After the surviving leadership enters the largest empire's containment environment, Samuel remains an outsider but persuades Konrad to reactivate or migrate Fitzgerald machinery inside Samuel's separate bounded jurisdiction. That accepted migration creates the causal path toward Samuel's influence, revenge, dynastic corruption, and private blackmail. The exact hierarchy, reactivation mechanism, automatic powers, and later manipulations remain unresolved.
 
 ## The purity doctrine
 

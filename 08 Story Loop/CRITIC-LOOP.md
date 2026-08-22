@@ -1,8 +1,8 @@
 ---
 type: story-loop-protocol
 status: active
-version: 0.1
-updated: 2026-08-20
+version: 0.2
+updated: 2026-08-21
 ---
 
 # Critic Loop
@@ -37,15 +37,25 @@ Checks the proposal against current vault authority, chronology, world rules, te
 
 Tests whether the unit is necessary, changes the story, escalates or resolves pressure, supports the larger trajectory, and hands off cleanly. Structural theories are diagnostic lenses, not mandatory formulas.
 
-## 8. Integration Editor
+## 8. Optional focused critics
+
+Select only the lenses relevant to the current uncertainty:
+
+- **System Critic** — permissions, containment, Luminai/Daemon, evidence, technology, institutions, and capability limits.
+- **Creative Interest Critic** — curiosity, concrete situations, meaningful pressure, surprise, escalation, and setup/payoff; see [[08 Story Loop/CREATIVE-INTEREST-LOOP]].
+- **Problem-Solving / Listener-Clarity Critic** — immediate objective, current model, attempt, result, changed state, audible causality, manageable term density, and speaker/location orientation; see [[08 Story Loop/PROBLEM-SOLVING-STORY-ENGINE]].
+- **Story Fit Critic** — whether research-derived mechanisms belong in Seeds; see [[08 Story Loop/RESEARCH-CREATIVITY-FIT-LOOP]].
+- **Cost Critic** — whether the value justifies new characters, systems, assumptions, context, and tokens.
+
+## 9. Integration Editor
 
 Receives the Architect proposal and critic reports. It may repair only issues whose solution is already authorized. Otherwise it creates an Author Decision request. It produces a concise change set and lists every affected vault file before any compiled note is edited.
 
-## 9. Author Gate
+## 10. Author Gate
 
 Only the author may accept, reject, combine, or defer unresolved creative options. Silence is not approval. Approval of a concept does not approve newly invented implementation details.
 
-## 10. Run Recorder
+## 11. Run Recorder
 
 Records inputs, source notes, outputs, failures, author decisions, changed files, and follow-up work. Repeated failures are added to [[08 Story Loop/Evaluations/Failure Modes]].
 

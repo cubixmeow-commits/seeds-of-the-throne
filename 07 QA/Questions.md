@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-17
+updated: 2026-08-21
 ---
 
 # Questions
@@ -27,3 +27,6 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-015 | At what point does Samuel's revenge for exile become a conscious attempt to replace Konrad rather than merely destroy his order? | [[02 Story/Characters/Samuel Franklin]] | open |
 | Q-016 | What are Samuel and George doing privately, how is their takeover of the largest government supposed to work, why is it so badly planned, and what makes George's exposure exceptionally humiliating? | [[02 Story/Characters/George White - A Life Beneath the Ice]] | open |
 | Q-017 | Is George's prewar apparent-success role separate from, prior to, or the first of his later three major public roles? | [[02 Story/Characters/George White - A Life Beneath the Ice]] | open |
+| Q-018 | What is the containment hierarchy in practical terms, what makes a contained criminal “primary,” and what exact integration event locks structural priority? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |
+| Q-019 | What does Konrad reactivate or migrate inside Samuel's bounded jurisdiction, what control follows automatically versus through later manipulation, and what remains genuinely Konrad's? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |
+| Q-020 | What is Samuel's exact lie, why does Konrad believe it while still regarding Samuel as an outsider, what evidence exists, and why can the hierarchy not simply be reset? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |

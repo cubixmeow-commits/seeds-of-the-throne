@@ -1,7 +1,7 @@
 ---
 type: reveal
 status: established
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # The Throne's False Legitimacy
@@ -10,9 +10,9 @@ The Throne's central lie is not that the system, war, public offices, George's a
 
 Konrad's faction builds a real conquest regime and loses the Great War. About thirty years before the war, Samuel and George enter an important-seeming situation inside the future victorious republic. George appears highly successful, then private joint wrongdoing and a horribly planned takeover of the largest government end in his humiliating bust into real containment.
 
-Samuel's earlier placement is itself given a false meaning. The faction tells him exile is an important mission to infiltrate or control the future victor. After defeat, Samuel claims the mission succeeded, and the surviving leadership accepts access through him because it believes he controls part of the victor's system.
+Samuel's earlier placement is itself given a false meaning. The faction tells him exile is an important mission to infiltrate or control the future victor. Konrad meanwhile holds genuine control in his own city and never considers failure. After defeat moves the surviving leadership into the largest empire's containment environment, Samuel remains an outsider but claims the mission succeeded and misrepresents what his separate bounded jurisdiction can restore.
 
-He does not. The access is narrower and inverted: it gives Samuel concealed visibility into the faction, allowing him to learn why he was sent away and what its leaders conceal. The surveillance inversion is established; the exact channel, permissions, verification failure, and limits remain unresolved.
+He does not control the victorious empire. His earlier first-primary integration nevertheless gives him structural priority in the relevant hierarchy. Konrad authorizes or reactivates Fitzgerald machinery inside Samuel's jurisdiction, believing he is restoring his own empire. The resulting access is inverted against Konrad and allows Samuel to learn why he was sent away and what the leaders conceal. The accepted migration hinge is established; the practical lock, transfer, channel, permissions, verification failure, reset rules, and limits remain unresolved.
 
 The false part is Samuel's claim that George's success and bust prove covert infiltration, that George secretly took control of the victor, and that Konrad's empire deliberately converted territorial rule into hidden global authority.
 

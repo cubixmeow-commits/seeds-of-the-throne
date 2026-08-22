@@ -10,6 +10,8 @@ scope: Great War / Konrad Fitzgerald / Samuel Franklin / George / fall into cont
 
 > **NON-CANON STORY EXPLORATION — inspiration only. Nothing below is established unless promoted by the author through the main Story Loop.**
 
+> **Integration audit, 2026-08-21:** This run remains a useful non-canon breadth-first baseline, not a completed end-to-end development cascade. Its seven-part arc, events, character functions, names, and mutations have not passed an author promotion gate. The containment bridge preserves Konrad's genuine city control, unanticipated defeat, Samuel's outsider status, and the later largest-empire transition, but it may not be used to infer the unresolved hierarchy implementation. Future reuse should begin with a Gap Analyzer packet and the current Development Orchestrator.
+
 ## Exploration question
 
 What possible multi-part story structure, new events, and new supporting characters could make the Great War dramatically compelling while preserving the established causes of Konrad Fitzgerald's defeat and driving naturally toward the later containment power shift with Samuel?
@@ -537,6 +539,16 @@ Strongest images/scenes:
 ## Distinctiveness Critic — PASS
 
 This feels less like a generic futuristic world war and more like a Seeds-specific collapse driven by hierarchy, information, provenance, permissions, systems, and the inability to debug ideology.
+
+## Problem-Solving / Listener-Clarity Critic — PROMISING / NOT YET TESTED IN PROTOTYPE
+
+The map, transport, authentic-intelligence, and off-ramp candidates each supply a concrete objective, active attempt, visible result, and changed state. They are likely to work by ear because the immediate problem can remain simple while the institutional failure accumulates underneath.
+
+Condition: build only one representative chapter packet and prototype before judging this dimension as passed. A readable outline is not evidence that the dialogue, exposition, viewpoint, or orientation works in motion.
+
+## Cost Critic — PASS WITH LIMITS
+
+The run generated useful character functions at low depth. Do not promote all six names or build full biographies. Select the chapter function first, then create only the 2–4 characters it needs and deepen survivors.
 
 ---
 

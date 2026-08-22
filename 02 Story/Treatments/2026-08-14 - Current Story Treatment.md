@@ -1,7 +1,7 @@
 ---
 type: treatment
 status: working
-updated: 2026-08-17
+updated: 2026-08-21
 scope: full chronological story
 ---
 
@@ -43,15 +43,15 @@ By the time the conquest becomes the **Great War**, Samuel is already inside the
 
 He maintains contact with his parents and convinces them that he wants forgiveness, reconciliation, or eventual readmission. In reality, he uses that access and his position inside the future victor to sabotage the campaign. His exact operations remain unresolved. The faction's own authoritarian overreach, strategic blindness, and institutional brittleness remain the primary causes of defeat; Samuel's betrayal materially worsens the collapse.
 
-Konrad's regime loses its political base, military project, and overt international network. The victorious republic absorbs Konrad, his senior partner, Samuel's parents, and other surviving members into containment roles where their behavior can continue to be observed.
+Konrad's regime loses its political base, military project, and overt international network. Until this defeat, Konrad genuinely controlled his own city and its Fitzgerald machinery. He never considered failure and prepared no post-defeat hierarchy. The victorious republic absorbs Konrad, his senior partner, Samuel's parents, and other surviving members into the largest empire's containment environment.
 
 It is total defeat.
 
-The defeated leadership has fallen into the environment Samuel already understands.
+The defeated leadership has entered the larger containment environment Samuel already understands. Samuel has his own separate bounded jurisdiction there; Konrad's former city and organization were not always subordinate to him.
 
 Samuel transforms it into his greatest lie.
 
-Samuel conceals the depth of his sabotage, makes himself useful, and tells the defeated faction that the loss was planned.
+Samuel remains a pathetic outsider in Konrad's eyes. He nevertheless conceals the depth of his sabotage, makes his bounded technical position useful, lies about what it can restore, and induces Konrad to reactivate Fitzgerald machinery inside Samuel's jurisdiction. Konrad thinks Samuel is giving him back his empire; in reality, he has migrated its machinery into Samuel's jurisdiction. The first-primary hierarchy lock is established at this level, but its practical architecture, trigger, automatic powers, evidence, reset limits, and full consequences remain unresolved.
 
 George, he claims, did not fail when the takeover collapsed and the system busted him. His earlier success and important role prove he successfully infiltrated the victorious republic and secretly captured it from within. The humiliating exposure becomes cover. The destroyed empire was merely a disposable shell. The captured leadership are not prisoners but embedded operatives. Their restricted roles are secret assignments. Their lack of visible power is proof of how deeply hidden their real power has become.
 
@@ -185,7 +185,7 @@ The current story has a strong historical opening and a strong endgame. The leas
 
 The opening chain is already clear:
 
-**Samuel's misconduct and exile roughly thirty years before the war -> Samuel and George enter an important-seeming situation inside the largest government -> apparent success -> joint private wrongdoing and a horribly planned takeover -> George's humiliating bust into containment -> Konrad's faction escalates toward world conquest -> Samuel performs reconciliation while sabotaging the campaign -> Konrad's faction is totally defeated and enters Samuel's environment -> Samuel becomes indispensable -> George's failure is rewritten as the False Victory.**
+**Samuel's misconduct and exile roughly thirty years before the war -> Samuel and George enter an important-seeming situation inside the largest government -> apparent success -> joint private wrongdoing and a horribly planned takeover -> George's humiliating bust into containment -> Konrad's faction escalates from genuine control in its own city toward world conquest -> Samuel performs reconciliation while sabotaging the campaign -> Konrad suffers a total defeat he never considered -> the surviving faction enters the largest empire's containment environment -> Samuel remains an outsider but tricks Konrad into migrating Fitzgerald machinery into Samuel's bounded jurisdiction -> George's failure is rewritten as the False Victory.**
 
 The ending chain is also clear:
 

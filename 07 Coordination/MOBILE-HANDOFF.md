@@ -1,10 +1,12 @@
 ---
 type: coordination-handoff
-status: active
+status: superseded
 updated: 2026-08-21
 ---
 
 # Mobile Handoff
+
+> Superseded by [[07 Coordination/CURRENT-PICKUP]]. Retained as the historical record of the August 21 environment-development session.
 
 Use this note as the single pickup point when moving between mobile brainstorming and desktop integration.
 

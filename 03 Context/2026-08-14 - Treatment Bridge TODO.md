@@ -10,7 +10,7 @@ updated: 2026-08-17
 
 The revised beginning has a strong causal spine while leaving its operational details open:
 
-**Samuel misconduct and exile roughly thirty years before the war → Samuel and George enter an important-seeming situation in the largest government → George's apparent success → private joint wrongdoing and a horribly planned takeover → humiliating exposure and George's real containment bust → Konrad's faction escalates toward world conquest → Samuel performs reconciliation while sabotaging the campaign → Konrad's faction is defeated and falls into Samuel's environment → Samuel becomes indispensable → George's failure becomes the False Victory → breeding/genealogy capture**
+**Samuel misconduct and exile roughly thirty years before the war → Samuel and George enter an important-seeming situation in the largest government → George's apparent success → private joint wrongdoing and a horribly planned takeover → humiliating exposure and George's real containment bust → Konrad's faction escalates from genuine control in its own city toward world conquest → Samuel performs reconciliation while sabotaging the campaign → Konrad suffers a defeat he never considered → the surviving faction enters the largest empire's containment environment → Samuel remains an outsider but uses his earlier bounded jurisdiction to trick Konrad into migrating Fitzgerald machinery there → George's failure becomes the False Victory → breeding/genealogy capture**
 
 The ending is strong:
 

@@ -1,12 +1,12 @@
 ---
 type: component
 status: established
-updated: 2026-08-17
+updated: 2026-08-21
 ---
 
 # Tone and Narrative Method
 
-The active project development style is **Archive Thriller / Dark Historical Reconstruction**. The previous Jurassic Park-style explanatory register is retired as a current model. See [[03 Context/WRITING-STYLE]] for the full framework.
+The current development default is [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE|Development Prototype Style]]: short, readable, problem-solving-driven, conversational story simulations used to test structure. **Archive Thriller / Dark Historical Reconstruction** remains the active later manuscript candidate and supporting register. The previous Jurassic Park-style explanatory register is retired. See [[03 Context/WRITING-STYLE]].
 
 - Reconstruct the accepted history, the surviving record, and the detail that changes the interpretation.
 - Reveal technology and world systems through records, consequences, and use rather than explanatory set pieces.
@@ -17,4 +17,4 @@ The active project development style is **Archive Thriller / Dark Historical Rec
 - An agricultural register—seeds, cultivation, bloodlines, lineage, harvest—connects the colony and the Throne because both grow people to specification.
 - The current narration mode is first-person present tense. Narrator ignorance is an engine, not a defect.
 - Development notes should prioritize structural clarity: the component, people involved, mechanism, evidence, and function in the larger story.
-- Exploratory prose is not automatically manuscript prose. Names remain provisional, and GPT should not add decorative canon while organizing a concept.
+- Development prototypes and exploratory prose are not manuscript prose or canon. Names remain provisional, and GPT should not add decorative canon while organizing a concept.

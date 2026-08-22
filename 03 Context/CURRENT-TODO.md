@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # Current Brainstorming To-Do
@@ -9,6 +9,8 @@ updated: 2026-08-19
 Work through these one at a time in the next brainstorming sessions. The immediate center of gravity has shifted toward defining the contained-criminal leadership, the legitimate dynasties, Sylvan's unique developmental process, and the approximately eighty-year episodic middle.
 
 ## Current sequence
+
+0. [ ] **Use the development-first system for each priority below.** Begin with the Gap Analyzer, generate breadth cheaply, deepen only survivors, use research only when it can change the story, create only the cast required by structure, prototype one representative scene when useful, run Creative Interest plus relevant structural/listener critics, and stop at the author gate. See [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]].
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
@@ -56,6 +58,8 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 20a. [ ] **Define the surveillance-deal mechanism without granting omniscience.** Decide what Samuel falsely claims to control, what narrower privileged access he really possesses, why the faction cannot verify the difference, what it must connect, adopt, authorize, or disclose, what first reveals the truth of his exile, how long the deception lasts, and which later genealogy or blackmail capabilities depend on the information he gains. Preserve agency and the established technology ecology.
 
+20b. [ ] **Resolve the Samuel–Konrad containment hierarchy piece by piece.** Preserve that Konrad genuinely controlled his own city, never considered failure, loses jurisdiction only after defeat inside the largest empire's containment environment, and still sees Samuel as an outsider. Define one at a time the first-primary rule, lock event, Samuel's bounded jurisdiction, exact lie, reactivation/migration, automatic versus later powers, evidence, reset limits, and permanent-destruction chain. Use [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]; do not infer the missing mechanics from the accepted migration hinge.
+
 21. [ ] **Define George's subjective reality during the endgame.** Establish recurring categories of staged or manipulated evidence that convince him the final campaign remains real and winnable.
 
 22. [ ] **Design Sylvan's first proof rather than his final proof.** Choose a limited, undeniable discovery that causes people to question Samuel's narrative before the full archive or lineage system is exposed.
@@ -68,7 +72,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 26. [ ] **Resolve the Witness / Sylvan viewpoint structure enough to write.** One of Orzai's Great War-era parents is the leading candidate to carry dangerous historical knowledge; Sylvan carries the modern Inheritor role. Decide whether Sylvan is the sole primary narrator or the Witness owns substantial earlier viewpoint material, then define how the evidence reaches Orzai and Sylvan.
 
-27. [x] **Adopt the project's active writing register.** Archive Thriller / Dark Historical Reconstruction is active; Jurassic Park-style exposition is retired. Preserve cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn. Continue testing adaptations for vault documentation, X/public material, and exploratory scenes without making the register mandatory for the final fiction.
+27. [x] **Separate development rendering from later finished prose.** Development prototypes are now the default story-rendering mode: short, readable, conversational, problem-solving-driven, and disposable. Archive Thriller / Dark Historical Reconstruction remains an active later manuscript candidate and supporting register; Jurassic Park-style exposition remains retired. General *Expeditionary Force*-associated structural principles may influence development, but Craig Alanson's exact prose and distinctive expression may not be imitated.
 
 28. [ ] **Plan the first handwritten fiction experiment.** Once enough of the skeleton exists, select a contained episode or short-story arc that can be written by hand with pen and notebook using the vault only as reference. Use this as the bridge from AI-assisted development into learning and practicing human fiction writing.
 

@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-08-19
+updated: 2026-08-21
 themes: Great War, authoritarian conquest, Samuel exile, sabotage, defeat, containment, false victory, George placement
 ---
 
@@ -13,7 +13,7 @@ The Great War is now the result of **Konrad Fitzgerald's authoritarian purity mo
 
 The working sequence is:
 
-**Fitzgerald movement rises -> Samuel's exile is disguised as an infiltration assignment -> world-conquest attempt -> Samuel sabotages from inside future victor -> catastrophic defeat -> surviving leadership falls into containment -> Samuel sells a false-control deal whose access runs backward -> Samuel becomes their interpreter -> False Victory**
+**Fitzgerald movement rises under Konrad's genuine city-based control -> Samuel's exile is disguised as an infiltration assignment -> world-conquest attempt -> Samuel sabotages from inside future victor -> catastrophic defeat Konrad never planned for -> surviving leadership enters the largest empire's containment environment -> Samuel uses his earlier bounded jurisdiction and lies about restoration -> Konrad migrates machinery into Samuel's jurisdiction -> consequences run backward against the Fitzgerald order -> False Victory**
 
 The war is not Samuel's original conquest project. It belongs to the older ideological faction that raised and later exiled him.
 
@@ -78,11 +78,11 @@ Konrad's movement must still be responsible for losing its own war.
 
 The large pluralistic empire defeats the Fitzgerald conquest project.
 
-The overt regime, military project, and international network collapse. Surviving senior figures are not simply executed. They are processed into containment roles inside the victorious empire.
+The overt regime, military project, and international network collapse. Until this point Konrad has genuine authority over his city and its Fitzgerald machinery; he never designed a contingency for losing it. Surviving senior figures are not simply executed. They are processed into the largest empire's containment environment.
 
 That includes Konrad, his senior partner, Samuel's parents, and other senior members.
 
-They fall into the environment where Samuel already lives.
+They enter the larger containment environment in which Samuel was integrated earlier and has his own separate bounded jurisdiction. This is not the claim that Konrad's original city or organization was always subordinate to Samuel.
 
 This is the great reversal.
 
@@ -92,13 +92,13 @@ After defeat, the people who cast him out arrive stripped of their empire and de
 
 ## Samuel becomes indispensable
 
-Samuel hides the depth of his wartime betrayal and presents himself as useful. He claims that the original mission used to explain his exile succeeded more completely than it did and that he retains meaningful control inside the victor.
+Samuel hides the depth of his wartime betrayal and presents himself as technically useful while remaining a pathetic outsider in Konrad's eyes. He claims that the original mission used to explain his exile succeeded more completely than it did and misrepresents what his bounded position inside the victor can restore.
 
-The defeated leaders accept a deal because they believe Samuel can give them access, protection, communications, or influence. Samuel never conquered the empire. The narrower access he does possess runs backward: systems, channels, or environments adopted through the deal give him concealed visibility into the faction.
+The defeated leaders accept a deal because they believe Samuel can give them access, protection, communications, or influence. Konrad authorizes or reactivates Fitzgerald machinery inside Samuel's jurisdiction. Samuel never conquered the empire, and Konrad never socially accepts him as superior. The reactivated systems nevertheless operate within a hierarchy whose structural priority was established by Samuel's earlier first-primary integration.
 
 They think Samuel has given them a window into the victor. He has given himself a window into them.
 
-That observation channel lets Samuel discover why he was sent away, what the senior faction intended for him, and which secrets, dependencies, bloodlines, and fears can later be exploited. Its technical and institutional form, verification failure, permissions, first revealing record, duration, and hard limits remain unresolved.
+The resulting observation, dependency, or control consequences let Samuel discover why he was sent away, what the senior faction intended for him, and which secrets, dependencies, bloodlines, and fears can later be exploited. The practical hierarchy architecture, definition of primary, exact lock event, reactivation path, automatic versus later powers, verification failure, first revealing record, duration, reset limits, and hard limits remain unresolved.
 
 He helps the defeated organization interpret public roles, institutional constraints, status signals, containment procedures, and opportunities for influence.
 

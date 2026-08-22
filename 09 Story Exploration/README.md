@@ -15,6 +15,8 @@ The goal is not to decide what the story is. The goal is to discover possibiliti
 
 This system exists alongside, but outside, the main Story Gauntlet in `08 Story Loop/`.
 
+Enter the lab through [[08 Story Loop/GAP-ANALYZER]] when possible. The gap report gives the run a narrow target, authority packet, constraints, and token mode. Return surviving candidates to [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]]; the lab never performs canon integration.
+
 ## Hard boundary
 
 **Nothing generated here is canon.**
@@ -60,12 +62,12 @@ The lab may produce:
 - resolve author decisions without approval
 - overwrite unresolved questions
 - assume speculative output is true because it is interesting
-- generate prose and treat prose quality as evidence of story quality
+- generate prose and treat prose quality as evidence of story truth or canon status
 - collapse multiple possible versions into one "correct" answer
 
 ## Core workflow
 
-`retrieve -> constrain -> diverge -> generate -> critic -> rank -> archive -> author promotion gate`
+`gap packet -> retrieve -> constrain -> diverge cheaply -> shortlist -> optional character packets/prototype -> focused critics -> rank -> archive -> author promotion gate`
 
 Detailed process: [[STORY-GENERATION-LOOP]]
 

@@ -12,8 +12,19 @@ scope: non-canon story exploration run
 
 - Date:
 - Exploration mode: Targeted Inspiration / Story Miner
+- Token mode: Micro / Standard / Deep / Cascade
+- Current scale: era / arc / sequence / chapter / scene / prototype
 - Story area:
 - Exploration question:
+- Explicit exclusions:
+- Stop condition:
+
+## Gap packet
+
+- Highest-value gap:
+- Why it matters:
+- Authority needed:
+- Downstream dependencies:
 
 ## Retrieved story state
 
@@ -69,11 +80,17 @@ scope: non-canon story exploration run
 ### Distinctiveness Critic
 -
 
+### Problem-Solving / Listener-Clarity Critic
+-
+
+### Cost Critic
+-
+
 ## Ranked shortlist
 
-| Candidate | Story Fit | Character Pressure | Causal Strength | Creative Interest | Scene Potential | Payoff | Few New Assumptions | Status |
-|---|---:|---:|---:|---:|---:|---:|---:|---|
-| | | | | | | | | |
+| Candidate | Story Fit | Character Pressure | Causal Strength | Creative Interest | Scene Potential | Objective Clarity | Problem Solving | Escalation | Audio Legibility | Solution/Consequence | Payoff | Few New Assumptions | Status |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| | | | | | | | | | | | | | |
 
 ## Mutation round
 
@@ -91,6 +108,17 @@ scope: non-canon story exploration run
 
 ## Better questions revealed by the run
 -
+
+## Required character functions
+
+Use lightweight packets only for shortlisted candidates.
+
+## Optional representative prototype
+
+- Candidate tested:
+- Question tested:
+- Provisional inventions:
+- Result:
 
 ## Author promotion gate
 

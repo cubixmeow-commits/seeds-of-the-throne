@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-19
+updated: 2026-08-21
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -55,13 +55,13 @@ Samuel uses his position inside the future victorious containment environment to
 
 He can exploit family trust, private knowledge, institutional vulnerabilities, communications, strategic assumptions, or information available from inside the future victor. The sabotage should not single-handedly explain the Great War defeat; Konrad's organization loses because its own authoritarian project fails. Samuel's betrayal is an additional internal wound that accelerates or deepens the collapse.
 
-## The defeated organization falls into containment with him
+## The defeated organization enters the larger containment environment
 
 After the Great War, Konrad Fitzgerald, his senior partner, Samuel's parents, and other surviving leaders of the defeated organization are processed into containment roles inside the victorious American-equivalent empire.
 
-They therefore fall into an environment Samuel already knows.
+Konrad had genuine control over his own city and Fitzgerald machinery before this defeat. He never considered failure or prepared a fallback hierarchy. The surviving group now enters the largest empire's containment environment, where Samuel was integrated earlier and has a separate bounded jurisdiction.
 
-This reversal is foundational to Samuel's later rise. Before the war, Samuel was the disgraced son begging or pretending to beg for reentry. After the war, the people who expelled him arrive defeated, disoriented, and dependent inside the environment where he possesses greater local knowledge.
+This reversal is foundational to Samuel's later rise. Before the war, Samuel was the disgraced son begging or pretending to beg for reentry. After the war, the people who expelled him arrive defeated and disoriented in the larger environment where his earlier first-primary placement matters. Samuel remains a pathetic outsider in Konrad's eyes; structural priority does not restore his social status.
 
 Samuel hides the depth of his sabotage and presents himself as useful.
 
@@ -71,15 +71,15 @@ Samuel is not trying to rejoin the Fitzgerald order as a subordinate.
 
 He is beginning to take it over.
 
-## The post-defeat surveillance deal
+## The post-defeat reactivation and surveillance deal
 
-**Established:** Samuel does more than interpret the defeated faction's new environment. He falsely claims that the important assignment used to explain his exile succeeded more completely than it did. He tells the surviving leaders that he retained meaningful control inside the victorious empire and can give them access, protection, communications, or influence.
+**Established:** Samuel does more than interpret the defeated faction's new environment. He falsely claims that the important assignment used to explain his exile succeeded more completely than it did. He misrepresents what his bounded position can restore and persuades Konrad to authorize, reactivate, or migrate Fitzgerald machinery inside Samuel's jurisdiction.
 
-They accept a deal because they believe Samuel is connecting them to infrastructure he controls. The access actually runs in the opposite direction: Samuel gains a concealed observation channel into the defeated faction. Believing his operation succeeded, they begin using systems, channels, or environments he can quietly observe and stop treating him as an excluded problem.
+Konrad thinks Samuel is giving him back his empire. In reality, Konrad has migrated its machinery into Samuel's jurisdiction, within a hierarchy whose structural priority was established by Samuel's earlier first-primary integration. The access, dependency, and observation consequences run against the defeated faction even though Konrad continues to regard Samuel as beneath him.
 
 Through that access, Samuel learns why he was really sent away, what the faction intended to do with him, what its leaders concealed, and what they are planning after defeat. He hears how they discuss his expendability when they believe the Samuel problem has already been solved. That knowledge helps turn reconciliation into attempted possession and later gives him a causal path toward the faction's bloodlines, dependencies, and private fears.
 
-**Unresolved:** Samuel never conquered the victorious empire, but the exact access he possesses is not yet established. The communication layer, institutional brokerage, credentials, asymmetric permissions, administrative visibility, possible Luminai or institutional-intelligence involvement, first revealing record, duration of the deception, and limits on what Samuel can observe all remain open. The mechanism must preserve agency and cannot become magical omniscience.
+**Unresolved:** Samuel never conquered the victorious empire. The practical hierarchy, definition of primary, exact lock event and purpose, what Samuel knew and when, precise lie, reactivation/migration procedure, automatic versus later powers, communication layer, institutional brokerage, credentials, administrative visibility, first revealing record, duration, reset limits, and observation boundaries all remain open. The mechanism must preserve agency and cannot become magical omniscience. Resolve it only through [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 
 ## Revenge against the bloodlines
 
@@ -104,7 +104,7 @@ Repeated inbreeding creates hereditary damage or another biological limitation t
 
 Samuel offers the solution.
 
-Because he appears to have returned as a useful insider and because he possesses technical and procedural knowledge gained during containment, Konrad allows him access to advanced reproductive intervention, genetic material, hidden genealogy, certification records, technical personnel, and succession decisions.
+Because the outsider appears to control infrastructure Konrad needs and possesses technical and procedural knowledge gained during containment, Konrad allows him access to advanced reproductive intervention, genetic material, hidden genealogy, certification records, technical personnel, and succession decisions. This practical dependence does not restore Samuel to social legitimacy.
 
 Samuel turns that access into a long-term coup.
 
@@ -187,8 +187,10 @@ His treatment of George and the unauthorized son repeats the same pathology. He 
 - Which parent remains emotionally susceptible to Samuel's claim that he wants reconciliation?
 - What specific information or access does Samuel obtain through his parents during the Great War?
 - Which acts of sabotage materially contribute to Konrad's defeat without making Samuel solely responsible for it?
-- What false control does Samuel claim after the faction's defeat, what narrower access does he really possess, and why can the faction not independently verify the difference?
-- What must the faction connect, adopt, authorize, or disclose for the observation channel to work, and what hard limits keep that channel from becoming omniscient?
+- What is the hierarchy in practical terms, what makes Samuel the first primary contained criminal, and what exact integration event locks structural priority?
+- What false control does Samuel claim, what exactly does Konrad reactivate or migrate, what powers follow automatically versus later manipulation, and why can the faction not independently verify the difference?
+- What must the faction connect, adopt, authorize, or disclose for observation and dependency to develop, what remains genuinely Konrad's, and what hard limits prevent omniscience?
+- What evidence records the jurisdictional transfer, and why can the hierarchy not simply reset?
 - What first private conversation or record reveals the truth of Samuel's exile, and how long does he preserve the deception?
 - At what point does Samuel decide he no longer wants readmission and instead wants ownership of the organization?
 - When does revenge against his parents become revenge against every participating bloodline?

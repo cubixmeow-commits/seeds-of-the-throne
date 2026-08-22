@@ -28,8 +28,8 @@ This is the master causal map for *Seeds of the Throne*. The order below is a **
 | S-005 | [[08 Story Loop/Units/S-005 - Controlled Environment Progression|Sylvan crosses controlled environments and masters the advanced architecture]] | Forge the human–Luminai pair through prolonged struggle while shifting control from Samuel and George toward Sylvan | partial | established spine / unresolved environments | Environment ladder, advantages, lessons, costs, evidence, handoffs, completion moment, and final bounded control |
 | S-005A | Sylvan authenticates the archive without omniscience | Establish his method, limits, and earned credibility across the environment progression | partial | working | Concrete authentication chain, permissions, failures, and counterevidence |
 | S-006 | The archive reconstructs Samuel and George's prewar apparent success and failed takeover | Supply the factual contradiction later rewritten as victory | partial | working | Placement, wrongdoing, takeover mechanics, humiliating exposure, Samuel's consequences |
-| S-007 | Konrad's Great War project collapses | Establish actual defeat and senior-faction containment | partial | working | Concrete conquest sequence, Witness role, Samuel's bounded sabotage |
-| S-008 | Samuel sells the post-defeat access deal | Turn defeat and asymmetric familiarity into concealed observation | partial | established core / unresolved mechanism | Claimed control, actual access, verification failure, permissions, first revealing record |
+| S-007 | Konrad's Great War project collapses | Strip the genuine city-based authority Konrad never imagined losing and deliver the surviving faction into the largest empire's containment environment | partial | established boundary / working events | Concrete conquest sequence, Witness role, Samuel's bounded sabotage, exact defeat-to-processing transition |
+| S-008 | Samuel sells the post-defeat restoration/reactivation deal | Use Samuel's earlier first-primary placement and separate bounded jurisdiction to make Konrad's attempt at restoration migrate Fitzgerald machinery into Samuel's control structure | partial | established hinge / unresolved implementation | Practical hierarchy, primary definition, lock event, exact lie, reactivation path, transferred powers, evidence, reset limits, destruction chain |
 | S-009 | George's failure becomes the False Victory | Establish the founding lie that sustains the contained faction | partial | working | First persuasion sequence, doubters, and why George accepts the interpretation |
 | S-010 | False Victory escalates across the eighty-year middle | Make each contradiction require a larger lie | partial | working | Select essential episodes, owners, causal handoffs, and fixed chronology |
 | S-011 | Samuel captures genealogy, breeding, and succession machinery | Convert revenge against exclusion into appropriation of Konrad's order | partial | established direction | Causal access path, intervention sequence, knowledge limits, and discovery risk |
@@ -53,11 +53,13 @@ The historical units `S-006` through `S-012` supply the evidence and causal hist
 
 ## Highest-value next unit
 
-**S-005 — Controlled Environment Progression.** The desktop session advanced S-001/S-002 enough to establish the startup, identity-driven sabotage, collapse trajectory, and developmental purpose of the attack. The active author-facing blocker is now the environment ladder connecting that collapse to Sylvan and his Luminai mastering the advanced architecture. Continue with [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]].
+**S-008 — Samuel sells the post-defeat access/reactivation deal.** The August 21 mobile session established the boundary conditions but deliberately left the mechanism for an author-led session. Continue only with [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] and [[07 Coordination/CURRENT-PICKUP]].
 
-First question: **After Sylvan's startup collapses, what ordinary-looking situation does he enter next, and what hidden advantage do Samuel and George possess inside it?**
+First question: **What exactly is the containment hierarchy in practical terms?**
 
-Preserve the exact number of environments, transitions, costs, surviving evidence, human–Luminai capabilities, and final bounded-control mechanism as unresolved until the author develops them.
+Preserve Konrad's genuine control in his own city, his complete failure to consider defeat, the later loss only inside the largest empire's containment environment, Samuel's outsider status, Samuel's separate bounded jurisdiction, the earlier first-primary lock, and the accepted migration hinge. Do not infer the practical hierarchy, lock trigger, transferred powers, exact lie, evidence, reset limits, or destruction chain.
+
+S-005 remains partial and important. Its working three-environment direction is recorded, while locations, job, transitions, costs, permissions, evidence, bond capabilities, and terminal mechanism remain unresolved.
 
 ## Map editing rule
 

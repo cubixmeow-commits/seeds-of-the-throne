@@ -29,11 +29,13 @@ Hand off instead when the dominant task is:
 - external factual research -> `research-story-material`;
 - continuity/canon verification -> `check-story-continuity`.
 
+If the purpose is to test an unresolved idea in one or two readable pages, route first to `08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE.md` through the Development Orchestrator. This finished-prose skill is downstream and should not become the default way the vault discovers story structure.
+
 The prose skill may identify a missing question or research need, but should not silently answer unresolved story facts.
 
 ## Select mode
 
-Choose one:
+Choose one only after prose work is actually the requested stage:
 
 - **Exploratory draft**: default for a new scene. Complete, coherent, non-canon.
 - **Manuscript candidate**: only by explicit author request or promotion.
@@ -95,7 +97,7 @@ Apply in this order:
 7. **Sentence craft**: keep voice consistent while length, syntax, paragraph shape, diction, and descriptive weight respond to attention and pressure. Establish local patterns before breaking them. Prefer clean concrete sentences over ornamental performance.
 8. **Seeds voice**: recovered-history pressure, contradiction, institutional evidence, subjective uncertainty, political grotesque where appropriate.
 
-## Current style baseline
+## Later-prose style baseline
 
 Follow `03 Context/WRITING-STYLE.md` as the live authority. Current defaults:
 

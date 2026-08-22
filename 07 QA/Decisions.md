@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-17
+updated: 2026-08-21
 ---
 
 # Decisions
@@ -61,3 +61,6 @@ updated: 2026-08-17
 | 2026-08-17 | Tie Samuel's capture of breeding, genealogy, descendants, and replacement heirs directly to revenge for exile, with the goal evolving into attempted replacement of Konrad. | Samuel attacks what the organization worships—bloodline, pedigree, purity, succession, and inheritance—then starts occupying Konrad's functions. |
 | 2026-08-17 | Adopt Archive Thriller / Dark Historical Reconstruction as the active project development style and retire Jurassic Park-style exposition as a current register. | Use cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn while preserving the author's control of final fiction voice. |
 | 2026-08-17 | Place Samuel's exile approximately thirty years before the Great War. During that interval, Samuel and George enter an important-seeming situation inside the largest government; George appears highly successful before their private wrongdoing and a horribly planned takeover collapse in a humiliating exposure that busts George into real containment. | The sequence gives George's containment a concrete cause and emotional character while supplying authentic success and status that Samuel can later reinterpret as the False Victory. Who placed them, the private conduct, takeover mechanics, Samuel's status and consequences, and the relationship to George's later roles remain unresolved. |
+| 2026-08-21 | Make the vault development-first: finished-novel prose is downstream, while short readable non-canon prototypes are the default story-rendering test during development. | The current task is to discover and test story structure cheaply; prototype clarity exposes weak ideas without attaching the project to prematurely polished prose. |
+| 2026-08-21 | Use general high-level *Expeditionary Force*-associated storytelling principles for development without imitating Craig Alanson's exact prose or distinctive expression. | Clear immediate objectives, active problem-solving, conversational exposition, competence, escalation, and listener orientation are transferable structural techniques; the final voice must remain Seeds-specific and author-controlled. |
+| 2026-08-21 | Establish the containment boundary: Konrad genuinely controlled his own city, never considered failure, and loses jurisdiction only after entering/reactivating within the largest empire's containment environment; Samuel remains an outsider but has earlier first-primary structural priority and a separate bounded jurisdiction there. | This corrects the earlier implication that Konrad's organization began inside Samuel's environment while preserving the accepted migration hinge. Practical hierarchy mechanics remain unresolved for the dedicated author-led brainstorm. |

@@ -1,21 +1,22 @@
 ---
 type: story-loop-workflow
 status: active
-version: 0.1
-updated: 2026-08-20
+version: 0.2
+updated: 2026-08-21
 ---
 
 # Desktop Workflow
 
-This is the manual v0.1 execution path. One session should normally process one Story Unit. Two or three adjacent units may be grouped only when their causal handoff is the actual problem.
+This is the manual execution path. [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] is the controlling route. One session should normally process one scoped gap or Story Unit; adjacent units may be grouped only when their causal handoff is the actual problem.
 
 ## Before the session
 
 1. Read [[START HERE]], [[03 Context/CURRENT|CURRENT]], and [[03 Context/RULES|RULES]].
 2. Check repository changes and preserve unrelated work.
-3. Open [[STORY-MAP]] and select the highest-value unresolved unit.
-4. Classify the run: `close-gap`, `strengthen-structure`, or `new-expansion`.
-5. Create a run log from [[08 Story Loop/Templates/run-log]].
+3. Open [[STORY-MAP]] and select the highest-value unresolved unit or author-selected area.
+4. Run [[08 Story Loop/GAP-ANALYZER]] and select one highest-value gap or tightly connected cluster.
+5. Classify the run: `close-gap`, `strengthen-structure`, or `new-expansion`; choose Micro, Standard, Deep, or Cascade mode.
+6. Create a run record from [[08 Story Loop/Templates/development-run]]. Use the older [[08 Story Loop/Templates/run-log]] only for legacy v0.1 unit runs.
 
 ## Stage A — retrieve and prepare
 
@@ -38,11 +39,15 @@ Do not treat conversational exploration as blanket approval.
 
 ## Stage B — build and attack
 
-1. The Architect creates a proposal from accepted decisions and current sources.
-2. Run Character, Causality, Continuity, and Structure critics independently.
-3. Record each report with [[08 Story Loop/Templates/critique]].
-4. The Integration Editor repairs only authorized issues.
-5. Stop after two revision cycles if a load-bearing choice remains.
+1. Generate compact alternatives before expansion unless the author has already selected the structure.
+2. The Architect expands only the selected working branch from accepted decisions and current sources.
+3. Use [[08 Story Loop/CHARACTER-FACTORY]] only for roles the structure requires.
+4. Run the relevant Character, Causality, Continuity, Structure, System, Creative Interest, Listener-Clarity, and Cost critics independently; do not run every critic automatically.
+5. Record each report with [[08 Story Loop/Templates/critique]].
+6. The Integration Editor repairs only authorized issues.
+7. Stop after two revision cycles if a load-bearing choice remains.
+
+When a readable test would answer something the outline cannot, build [[08 Story Loop/Templates/development-chapter-packet]] and generate one short non-canon prototype with [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]]. Do not polish it as manuscript prose.
 
 ### Author Gate B — creative decisions
 

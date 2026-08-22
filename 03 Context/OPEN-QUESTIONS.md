@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # Open Questions
@@ -64,9 +64,12 @@ updated: 2026-08-19
 - Is George's apparent-success role separate from, prior to, or the first of his later three public roles?
 - Which parent remains susceptible to Samuel's performance of reconciliation, and what access does that relationship give him during the war?
 - Which acts of sabotage materially worsen the conquest's failure while preserving Konrad's authoritarian errors as the primary cause?
-- What control does Samuel falsely claim after defeat, what narrower access does he really possess, and why can the faction not verify the difference independently?
-- What must the faction connect, adopt, authorize, or disclose for Samuel's observation channel to work, and which technical, institutional, or consent limits prevent omniscience?
+- What control does Samuel falsely claim after defeat, what bounded jurisdiction and structural priority does he really possess, and why can the faction not verify the difference independently?
+- What must Konrad reactivate, migrate, connect, adopt, authorize, or disclose for observation and dependency to develop, and which technical, institutional, or consent limits prevent omniscience?
 - What first private conversation or record tells Samuel why he was truly sent away, how long does he preserve the surveillance deal, and which later genealogy or blackmail capabilities depend on what he learns?
+- What is the containment hierarchy in practical terms, what qualifies the first primary contained criminal, what event locks the hierarchy, and why does the system use that rule?
+- Which parts of Konrad's genuine city-based machinery can be reactivated inside Samuel's separate bounded jurisdiction, what does Konrad authorize, and what crosses the jurisdictional boundary?
+- Which powers follow automatically from the earlier lock, which require Samuel's later manipulation, what remains genuinely under Konrad's authority, what evidence records the transfer, and why can the hierarchy not simply reset?
 - When does Samuel's revenge become a conscious attempt to replace Konrad?
 - Can he read the influence system or compromise synthetics and AI souls?
 - Who knows his authority is false?

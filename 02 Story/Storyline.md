@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-19
+updated: 2026-08-21
 ---
 
 # Storyline
@@ -15,9 +15,9 @@ updated: 2026-08-19
 5. Samuel and George enter an important-seeming situation inside the large pluralistic empire that will become the principal victor. George appears highly successful.
 6. Samuel and George privately commit serious wrongdoing and participate in a horribly planned takeover attempt against the largest government. The plan collapses, and George is humiliatingly busted into real containment.
 7. Konrad's faction converts a still-unresolved political base into attempted global conquest, producing the Great War. During the campaign, Samuel pretends to seek reconciliation with his parents while covertly sabotaging the faction from inside the future victor.
-8. Konrad's conquest regime is defeated. Its state and military project collapse, and surviving leaders—including Konrad, Samuel's parents, and the senior faction—fall into public containment roles inside the victorious order Samuel already knows.
-9. Samuel claims that the assignment used to explain his exile succeeded and offers the defeated leadership access to systems he supposedly controls. They accept the deal. Samuel never conquered the victor: the narrower access runs backward, giving him concealed visibility into the faction while its leaders believe he has opened a window into the empire that defeated them. He learns why they sent him away, what they intended for him, and which secrets and dependencies can later be exploited. The exact technical and institutional mechanism remains unresolved.
-10. Samuel becomes their interpreter, recasts George's apparent success and humiliating bust as secret conquest, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory.
+8. Konrad's conquest regime is defeated. Konrad never considered failure or prepared a post-defeat fallback. His state and military project collapse, and surviving leaders—including Konrad, Samuel's parents, and the senior faction—lose the genuine control they held in Konrad's city and enter the largest empire's containment environment.
+9. Samuel remains an outsider in Konrad's eyes, but he was integrated into the relevant hierarchy earlier and has his own separate bounded jurisdiction there. He lies about what that position means and offers a path to reactivate Fitzgerald machinery. Konrad thinks he is restoring his empire; he is migrating its machinery into Samuel's jurisdiction. The first-primary hierarchy lock is established at this structural level, while its practical architecture, exact trigger, powers, evidence, and reset limits remain unresolved.
+10. The resulting access and dependency run against Konrad. Samuel becomes an interpreter, recasts George's apparent success and humiliating bust as secret conquest, and reframes visible defeat as a planned transition to covert rule. The contained organization accepts the False Victory. The exact chain from reactivation through surveillance, genealogy access, and permanent destruction remains for the dedicated author-led brainstorm.
 11. Story functionality lets the organization hide crimes, revise failed operations, and preserve the belief that conquest continues, while a sealed record accumulates underneath.
 
 ## Narrated middle — working architecture
