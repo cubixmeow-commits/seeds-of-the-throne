@@ -33,9 +33,13 @@ Resume the dedicated Samuel–Konrad containment session from:
 
 [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
 
-Begin with only Question 1:
+Question 1 has an accepted conceptual answer: the hierarchy controls decisions and awareness, and the alpha controls how participants perceive reality during colonization. Legitimate leaders can use this technology honestly; contained criminals receive bounded access to the same class of system and can abuse it. Konrad and his fanatic partner used it to impose their beliefs and fascist obsessions. Samuel later uses a story environment and the hierarchy to reshape the group across roughly eighty years, destroying bloodlines and spreading transgressions after learning the truth of his exile.
 
-> **What exactly is the containment hierarchy in practical terms?**
+Before moving to Question 2, finish only the remaining mechanism question inside Question 1:
+
+> **How directly can the alpha control another participant's perception and decisions?**
+
+Do not yet assume direct mind rewriting, purely indirect environmental curation, automatic obedience, total loss of agency, omniscience, or the absence of external safeguards.
 
 Use:
 
