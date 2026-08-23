@@ -352,6 +352,7 @@ h1, h2, h3, p { margin-block-start: 0; }
   .site-nav a[aria-current="page"] { border-color: var(--blue); background: var(--blue-pale); }
   .story-hero h1, .page-hero h1 { font-size: clamp(3rem,14vw,4.8rem); }
   .section-head, .split, .school-grid, .pair-diagram, .alliance, .next-links, .identity-card, .environment-reference, .visual-language { grid-template-columns: 1fr; }
+  .split-panel h3 { font-size: clamp(1.75rem, 8vw, 2.2rem); overflow-wrap: anywhere; }
   .visual-language article, .visual-language article:nth-child(4), .visual-language article:nth-child(5) { grid-column: auto; }
   .pair-versus, .alliance-mark { text-align: center; }
   .route, .route.wide { grid-column: 1 / -1; min-height: 15rem; }

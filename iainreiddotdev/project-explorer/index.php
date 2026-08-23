@@ -58,13 +58,56 @@ if ($requested !== '') {
     }
 }
 
-$matches = [];
-if ($query !== '') {
-    $matches = array_values(array_filter(
-        $files,
-        static fn (string $path): bool => stripos($path, $query) !== false
-    ));
-}
+$matches = explorer_search_markdown($repositoryRoot, $files, $query);
+
+$latestBuildEntries = [
+    [
+        'label' => 'Current story',
+        'title' => 'Development-first story spine',
+        'description' => 'Sylvan’s startup collapse now leads through hostile controlled environments toward a bounded endgame that exposes Samuel’s command.',
+        'path' => '03 Context/CURRENT.md',
+    ],
+    [
+        'label' => 'Story system',
+        'title' => 'A routed development environment',
+        'description' => 'Gap analysis, breadth-first alternatives, selective research, multiscale structure, focused critics, and an explicit author gate now form one pipeline.',
+        'path' => '08 Story Loop/DEVELOPMENT-ORCHESTRATOR.md',
+    ],
+    [
+        'label' => 'World mechanics',
+        'title' => 'Advanced environments gain hard rules',
+        'description' => 'Participant governance, command priority, Luminai and Daemon interaction, and bounded environmental control are separated by authority and status.',
+        'path' => '02 Story/Systems/Participant Governance and Command Rules.md',
+    ],
+    [
+        'label' => 'Story generation',
+        'title' => 'Exploration stays non-canon',
+        'description' => 'A separate story-mining loop can generate and test alternatives without silently promoting persuasive output into the story.',
+        'path' => '09 Story Exploration/STORY-GENERATION-LOOP.md',
+    ],
+    [
+        'label' => 'Character system',
+        'title' => 'Depth now follows story function',
+        'description' => 'The tiered Character Factory creates only the anchor, recurring, supporting, or temporary depth that a tested story function requires.',
+        'path' => '08 Story Loop/CHARACTER-FACTORY.md',
+    ],
+    [
+        'label' => 'Prose system',
+        'title' => 'Prototype before manuscript',
+        'description' => 'Readable development tests now precede the modular finished-prose workflow, which protects viewpoint, canon status, controlled variance, and author voice.',
+        'path' => 'skills/write-seeds-prose/SKILL.md',
+    ],
+    [
+        'label' => 'August 22',
+        'title' => 'Wildlife posts get a durable workflow',
+        'description' => 'Source fidelity, dynamic palettes, original episode direction, warm humor, and a fixed factual X caption structure are now documented.',
+        'path' => '05 Public/Meme Adventures/README.md',
+    ],
+];
+$latestBuildEntries = array_values(array_filter(
+    $latestBuildEntries,
+    static fn (array $entry): bool => isset($fileSet[$entry['path']])
+));
 
 $data = portfolio();
 $identity = $data['identity'];
@@ -72,7 +115,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260814b';
+$assetVersion = '20260822a';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -157,12 +200,44 @@ function explorer_format_bytes(?int $bytes): string
                 <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
                 <p class="explorer-hero__lede">Enter the living archive behind the story: canon, research, visual systems, drafts, and the decisions that connect them.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="#archive">
-                        <span>Enter the archive</span>
+                    <a class="archive-cta archive-cta--primary" href="#latest-build">
+                        <span>See what changed</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
+                    <a class="archive-cta" href="#archive">Enter the archive</a>
                     <a class="archive-cta" href="../../docs/">Open the story atlas</a>
                 </div>
+            </div>
+        </section>
+
+        <section class="explorer-ledger" id="latest-build" aria-labelledby="latest-build-title">
+            <div class="wrap">
+                <header class="explorer-ledger__header">
+                    <p class="archive-intro__index">Build ledger · August 22, 2026</p>
+                    <div>
+                        <h2 id="latest-build-title">The archive has moved.</h2>
+                        <p>Since the August 14 explorer build, 167 Markdown documents were added or revised across canon, development systems, story loops, prose tools, public work, and session history.</p>
+                    </div>
+                </header>
+
+                <div class="explorer-ledger__stats" aria-label="Current repository summary">
+                    <p><strong><?= e((string) count($files)) ?></strong><span>documents now available</span></p>
+                    <p><strong>22</strong><span>mapped story units</span></p>
+                    <p><strong><?= e((string) count($latestBuildEntries)) ?></strong><span>essential entry points</span></p>
+                </div>
+
+                <ol class="explorer-ledger__entries">
+                    <?php foreach ($latestBuildEntries as $entry): ?>
+                        <li>
+                            <a href="<?= e(explorer_file_url($entry['path'])) ?>">
+                                <span class="explorer-ledger__label"><?= e($entry['label']) ?></span>
+                                <span class="explorer-ledger__title"><?= e($entry['title']) ?></span>
+                                <span class="explorer-ledger__description"><?= e($entry['description']) ?></span>
+                                <span class="explorer-ledger__arrow" aria-hidden="true">↗</span>
+                            </a>
+                        </li>
+                    <?php endforeach; ?>
+                </ol>
             </div>
         </section>
 
@@ -185,7 +260,7 @@ function explorer_format_bytes(?int $bytes): string
                             name="q"
                             type="search"
                             value="<?= e($query) ?>"
-                            placeholder="Character, system, report...">
+                            placeholder="Search names, ideas, or systems...">
                         <button class="btn" type="submit">Search</button>
                     </div>
                 </form>
@@ -197,11 +272,18 @@ function explorer_format_bytes(?int $bytes): string
                             <a href="<?= e(explorer_file_url($requested)) ?>">Clear search</a>
                         </div>
                         <?php if ($matches === []): ?>
-                            <p>No document paths contain “<?= e($query) ?>”. Try a character, place, system, or report name.</p>
+                            <p>No document titles or contents contain “<?= e($query) ?>”. Try a character, place, system, or report name.</p>
                         <?php else: ?>
                             <ul>
-                                <?php foreach ($matches as $path): ?>
-                                    <li><a href="<?= e(explorer_file_url($path)) ?>"><?= e($path) ?></a></li>
+                                <?php foreach ($matches as $match): ?>
+                                    <li>
+                                        <a href="<?= e(explorer_file_url($match['path'])) ?>">
+                                            <span><?= e($match['path']) ?></span>
+                                            <?php if ($match['context'] !== ''): ?>
+                                                <small><?= e($match['context']) ?></small>
+                                            <?php endif; ?>
+                                        </a>
+                                    </li>
                                 <?php endforeach; ?>
                             </ul>
                         <?php endif; ?>

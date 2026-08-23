@@ -97,6 +97,62 @@ function explorer_file_url(string $path, string $fragment = 'archive'): string
 }
 
 /**
+ * Search document paths and Markdown contents.
+ *
+ * @param list<string> $paths
+ * @return list<array{path: string, context: string, path_match: bool}>
+ */
+function explorer_search_markdown(string $root, array $paths, string $query): array
+{
+    $query = trim($query);
+    if ($query === '') {
+        return [];
+    }
+
+    $root = rtrim((string) realpath($root), DIRECTORY_SEPARATOR);
+    $matches = [];
+
+    foreach ($paths as $path) {
+        $pathMatch = stripos($path, $query) !== false;
+        $contents = file_get_contents($root . DIRECTORY_SEPARATOR . str_replace('/', DIRECTORY_SEPARATOR, $path));
+        $contentMatch = $contents !== false ? stripos($contents, $query) : false;
+
+        if (!$pathMatch && $contentMatch === false) {
+            continue;
+        }
+
+        $context = '';
+        if ($contentMatch !== false && $contents !== false) {
+            $start = max(0, $contentMatch - 90);
+            $context = substr($contents, $start, strlen($query) + 180);
+            $context = preg_replace('/\s+/u', ' ', $context) ?? $context;
+            $context = trim($context, " \t\n\r\0\x0B#>*_-|");
+            if ($start > 0) {
+                $context = '…' . $context;
+            }
+            if ($contentMatch + strlen($query) + 90 < strlen($contents)) {
+                $context .= '…';
+            }
+        }
+
+        $matches[] = [
+            'path' => $path,
+            'context' => $context,
+            'path_match' => $pathMatch,
+        ];
+    }
+
+    usort($matches, static function (array $a, array $b): int {
+        if ($a['path_match'] !== $b['path_match']) {
+            return $a['path_match'] ? -1 : 1;
+        }
+        return strnatcasecmp($a['path'], $b['path']);
+    });
+
+    return $matches;
+}
+
+/**
  * Render the nested repository tree using native disclosure controls.
  *
  * @param array{directories: array<string, mixed>, files: list<array{name: string, path: string}>, count: int} $node
