@@ -15,9 +15,9 @@ tags: [artifact/journal, evidence, exile, behavioral-fingerprint]
 
 ## Authority boundary
 
-**Established/working context:** Samuel is expelled after real serious misconduct, and the placement is disguised to him as important infiltration or control work. Konrad continues to see Samuel as a contemptible outsider later.
+**Established context:** Samuel is expelled after real serious misconduct. Konrad personally disguises disposal as an impossible mission to take control of the largest empire, expects Samuel to fail, and continues to see Samuel as a contemptible outsider later.
 
-**Proposed:** Konrad personally writes this page, uses the candidate derogatory framing, or plans the exact losses. His role in approving, enforcing, or merely accepting the exile remains unresolved.
+**Proposed:** Konrad personally writes this page, uses the candidate derogatory framing, or records the exact method by which failure is guaranteed. His authorship or dictation of this specific artifact remains unresolved even though his responsibility for giving the impossible mission is established.
 
 ## Artifact state
 
@@ -33,7 +33,7 @@ The strongest page-level contrast is that the words are derogatory while the pag
 
 ## Narrative and evidence purpose
 
-If approved, the entry can prove that the placement's flattering explanation concealed disposal and that Konrad did not consider Samuel a future superior. It should expose both hypocrisy and causal injury without converting Samuel's later crimes into justified retaliation.
+If approved, the entry can prove that the flattering conquest mission concealed disposal, that Konrad expected failure, and that he did not consider Samuel a future superior. It should expose both hypocrisy and causal injury without converting Samuel's later crimes into justified retaliation.
 
 ## Author gate
 

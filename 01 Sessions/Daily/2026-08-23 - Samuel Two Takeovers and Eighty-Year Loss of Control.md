@@ -42,9 +42,9 @@ The revolution grows beyond a bounded coup. Samuel accumulates bloodline interve
 
 Samuel does not become less intelligent. His rage changes the objective faster than his strategy can stabilize. He keeps using brilliant manipulation to defend an increasingly incoherent revolution.
 
-## Proposed early-takeover mirror
+## Superseded foundational proposal for the early takeover
 
-The exact prewar takeover remains **proposed**.
+**Superseded as the foundational explanation on 2026-08-23:** the early idea below may remain a contributing mechanism, but the author has established that Konrad designed the entire mission as an impossible setup Samuel had no chance of completing.
 
 A strong explanation is that early Samuel mistakes control of visible people for control of the largest government. He and George acquire real access and influence. Samuel accurately manipulates several decision-makers, sees George's important-seeming success, becomes impatient, and concludes that the government is already theirs in practice.
 
@@ -73,7 +73,7 @@ Later pages remain brilliant but become overloaded with exception handling: more
 
 ## Unresolved questions
 
-- Does the proposed “captured people versus uncaptured system” mechanism become the established reason the early takeover fails?
+- Does the “captured people versus uncaptured system” mechanism remain one way Konrad makes the impossible mission appear locally successful while guaranteeing system-level failure?
 - What overt act does Samuel push George to perform?
 - What exact part of the collapse is humiliating to George?
 - What does Samuel lose or learn when George is contained?
@@ -83,5 +83,5 @@ Later pages remain brilliant but become overloaded with exception handling: more
 
 ## Vault impact
 
-- Preserve the early takeover mechanism as proposed.
+- Preserve the captured-people-versus-system mechanism only as a possible subordinate mechanism; it is superseded as the foundational cause of failure by [[01 Sessions/Daily/2026-08-23 - Konrad's Impossible Mission and Samuel's Betrayal]].
 - Promote the author-established eighty-year rage, revolution, loss-of-control, and Sylvan-exposure arc into Samuel, the endgame system, Story Unit S-018, journal evolution, current context, and QA decisions.

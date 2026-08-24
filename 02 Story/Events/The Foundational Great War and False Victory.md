@@ -18,7 +18,7 @@ This is the current macro sequence for the foundational war. It establishes owne
 
 4. During that thirty-year interval, Samuel and George are placed into a situation inside the large pluralistic empire that will become the principal victor. George appears highly successful and his role appears unusually important.
 
-5. Samuel and George privately commit serious wrongdoing and participate in a horribly planned attempt to take over the largest government. The plan collapses in an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
+5. Konrad's takeover mission is an impossible setup designed to fail, although Samuel and George's authentic local success makes it feel achievable. They privately commit serious wrongdoing and choose to pursue the takeover. Its designed collapse produces an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
 
 6. During the war, Samuel maintains contact with his parents and convinces them he wants forgiveness, reconciliation, or eventual readmission. He covertly uses that access and his position inside the future victor to sabotage Konrad's campaign.
 
@@ -26,7 +26,7 @@ This is the current macro sequence for the foundational war. It establishes owne
 
 8. The victorious republic and its allies defeat Konrad's conquest project. The faction loses its state, military project, and overt international network.
 
-9. Konrad, his senior partner, Samuel's parents, and other surviving senior figures lose the genuine city-based jurisdiction they held before defeat and enter the largest empire's containment environment. Konrad never considered failure and has no prepared post-defeat hierarchy.
+9. Konrad, his senior partner, Samuel's parents, and other surviving senior figures lose the genuine city-based jurisdiction they held before defeat and enter the largest empire's containment environment. Konrad planned Samuel's failure but never considered that his own Great War could fail, so he has no prepared post-defeat hierarchy.
 
 10. Samuel remains a disdained outsider, but his earlier first-primary integration and separate bounded jurisdiction give him structural priority inside the relevant containment hierarchy. He conceals the depth of his wartime betrayal, lies about what his position can restore, and induces Konrad to reactivate or migrate Fitzgerald machinery inside Samuel's jurisdiction. The accepted hinge is established; the exact lock, transfer, permissions, evidence, surveillance path, and reset limits remain unresolved.
 
@@ -42,7 +42,7 @@ This is the current macro sequence for the foundational war. It establishes owne
 
 The same historical fact supports two incompatible accounts:
 
-**Sealed reality:** George appears successful in an important role, participates with Samuel in private wrongdoing and a badly planned takeover attempt, and is humiliatingly busted into real containment when it fails. He does not secretly control the victor.
+**Sealed reality:** George appears successful in an important role, participates with Samuel in private wrongdoing and an impossible takeover mission Konrad designed to fail, and is humiliatingly busted into real containment when it collapses. He does not secretly control the victor.
 
 **False Victory:** Samuel claims George's presence and public authority prove that the faction deliberately captured the victorious country from within.
 
@@ -50,4 +50,4 @@ The archive does not ultimately need to prove that George's public life was fabr
 
 ## Development boundary
 
-The ownership and inversion are established working direction: Konrad's faction leads the conquest from a city where Konrad holds genuine control; Samuel is exiled about thirty years before the war; George's apparent success ends in a humiliating bust after joint private wrongdoing and a failed takeover; Samuel sabotages Konrad from inside the future victor; Konrad never plans for failure; the defeated leadership enters the largest empire's containment environment; and Samuel builds the False Victory after inducing Konrad to migrate machinery into Samuel's separate jurisdiction. Do not invent who places Samuel and George, the private conduct, takeover mechanics, Samuel's consequences, the faction's political base, Samuel's wartime sabotage, or the unresolved hierarchy implementation until the author resolves them.
+The ownership and inversion are established working direction: Konrad's faction leads the conquest from a city where Konrad holds genuine control; about thirty years before the war Konrad sends Samuel on an impossible takeover mission designed to fail; George's authentic apparent success ends in a humiliating bust after joint private wrongdoing and chosen takeover acts; Samuel later discovers the setup and sabotages Konrad from inside the future victor; Konrad never plans for his own failure; the defeated leadership enters the largest empire's containment environment; and Samuel builds the False Victory after inducing Konrad to migrate machinery into Samuel's separate jurisdiction. Do not invent the operational placement, failure mechanism, private conduct, exact takeover acts, Samuel's consequences, the faction's political base, Samuel's wartime sabotage, or the unresolved hierarchy implementation until the author resolves them.

@@ -53,9 +53,11 @@ Samuel's parents discover conduct they regard as intolerable and disgraceful, in
 
 His parents and the wider Fitzgerald organization cast him out approximately thirty years before the Great War begins.
 
-**Established:** They do not present the placement to Samuel as simple disposal. They tell him he is being sent into the large pluralistic empire for an important assignment: to infiltrate, influence, or eventually control it. Samuel accepts that flattering explanation and initially mistakes exile for proof that the senior faction still considers him uniquely valuable.
+**Established:** Konrad does not present the placement to Samuel as simple disposal. He gives Samuel an extraordinary mission: infiltrate and take control of the largest pluralistic empire. Samuel accepts that flattering explanation and initially mistakes exile for proof that Konrad and the senior faction still consider him uniquely valuable.
 
-**Unresolved:** The real purpose of the placement, how much of it is imposed by the containment system rather than arranged by the faction, and how Samuel's misconduct, expendability, and the faction's private plans for him fit together remain open.
+**Established:** The mission is a setup designed to fail. Taking control of the largest empire is an impossible assignment, and Samuel has no genuine chance of completing it. Konrad uses Samuel's vanity, intelligence, and need to feel indispensable to make disposal resemble trust.
+
+**Unresolved:** How Konrad guarantees failure, how much of Samuel's placement is imposed by the containment system rather than operationally arranged by the faction, and whether Konrad expects any useful secondary effect beyond Samuel's removal remain open.
 
 The exile becomes one of the central wounds of Samuel's life. He does not interpret it as accountability. He experiences it as humiliation, dispossession, and theft of the inheritance he believes should have been his. The organization that taught him to worship hierarchy, bloodline, continuity, and inherited status declares him unworthy of belonging to its own line.
 
@@ -65,15 +67,15 @@ Samuel never truly forgives them.
 
 After exile, Samuel and George are placed into a situation inside the large pluralistic empire that functions as the story's equivalent of America and later becomes the principal victor of the Great War. George appears highly successful and his role appears unusually important.
 
-Samuel and George privately commit serious wrongdoing and participate in a horribly planned attempt to take over the largest government. The plan fails, and George is exposed in an extremely humiliating situation and busted into containment for the private conduct and attempted takeover.
+Samuel and George privately commit serious wrongdoing and participate in the attempted takeover Konrad assigned. Their local access and authentic apparent success make the impossible mission feel achievable, but the takeover has been designed to fail. Their wrongdoing and overt choices remain their own. The plan collapses, and George is exposed in an extremely humiliating situation and busted into containment for the private conduct and attempted takeover.
 
 This places Samuel inside the very environment his parents, Konrad, and the Fitzgerald organization are later attempting to defeat.
 
 Samuel therefore acquires something they do not possess: experience with the containment environment, its institutions, social logic, procedures, incentives, story functionality, and opportunities for influence. He is still constrained and genuinely contained, but relative familiarity becomes a strategic advantage once his former organization arrives.
 
-Who places Samuel and George into this situation, Samuel's containment status when they enter it, the exact private conduct, the takeover mechanics, and the consequences Samuel faces when George is busted remain unresolved. The important established structure is:
+Who operationally places Samuel and George into this situation, Samuel's containment status when they enter it, the exact private conduct, how Konrad makes the objective impossible, the takeover mechanics, and the consequences Samuel faces when George is busted remain unresolved. The important established structure is:
 
-**Fitzgerald insider -> serious misconduct -> exile roughly thirty years before the Great War -> Samuel and George enter an apparent-success situation inside the largest empire -> private wrongdoing and a badly planned government takeover -> George's humiliating bust into containment -> Samuel retains knowledge of both worlds.**
+**Fitzgerald insider -> serious misconduct -> Konrad disguises disposal as an impossible mission to capture the largest empire -> Samuel and George achieve misleading but authentic local success -> private wrongdoing and a takeover they never had a chance to complete -> George's humiliating bust into containment -> Samuel later discovers the setup -> betrayal and revenge -> Samuel retains knowledge of both worlds.**
 
 ## Sabotage during the Great War
 
@@ -227,7 +229,7 @@ His treatment of George and the unauthorized son repeats the same pathology. He 
 - What are the exact additional acts, beyond the relationship with an underage girl, that lead Samuel's parents and Konrad's organization to exile him?
 - How old is Samuel when the exile occurs?
 - What does exile materially mean: loss of wealth, family name, citizenship, access, reproductive status, organizational membership, or several at once?
-- What does the faction actually intend Samuel's supposedly important infiltration assignment to accomplish?
+- How does Konrad make Samuel's takeover mission impossible while allowing enough authentic local success to sustain the deception, and does Konrad expect any secondary benefit from the failure?
 - How does Samuel first fall into formal containment inside the American-equivalent empire?
 - Does the containment system know the full reason for Samuel's exile immediately, or does part of the case emerge later?
 - Which parent remains emotionally susceptible to Samuel's claim that he wants reconciliation?
@@ -237,7 +239,7 @@ His treatment of George and the unauthorized son repeats the same pathology. He 
 - What false control does Samuel claim, what exactly does Konrad reactivate or migrate, what powers follow automatically versus later manipulation, and why can the faction not independently verify the difference?
 - What must the faction connect, adopt, authorize, or disclose for observation and dependency to develop, what remains genuinely Konrad's, and what hard limits prevent omniscience?
 - What evidence records the jurisdictional transfer, and why can the hierarchy not simply reset?
-- What first private conversation or record reveals the truth of Samuel's exile, and how long does he preserve the deception?
+- What first private conversation or record proves that Konrad designed the mission to fail, and how long does Samuel preserve the resulting surveillance access before acting openly?
 - At what point does Samuel decide he no longer wants readmission and instead wants ownership of the organization?
 - When does revenge against his parents become revenge against every participating bloodline?
 - What exact hereditary problem lets Samuel obtain control of the breeding program?

@@ -15,7 +15,7 @@ tags: [artifact/journal, evidence, surveillance, false-history]
 
 ## Authority boundary
 
-**Working story direction:** Samuel learns the truth of his exile after Konrad and the defeated faction enter the same broader containment environment and the surveillance inversion gives Samuel access to their private treatment of him.
+**Established story direction:** Samuel learns after Konrad and the defeated faction enter the same broader containment environment that Konrad designed his supposed mission to capture the largest empire as an impossible setup. The surveillance inversion gives Samuel bounded access to their private contempt and evidence that Konrad expected him to fail.
 
 **Proposed artifact:** this page, its wording, its physical form, and the exact record Samuel has seen. The channel, permissions, first revealing record, and observation boundaries remain unresolved.
 
@@ -28,13 +28,13 @@ tags: [artifact/journal, evidence, surveillance, false-history]
 
 ## Knowledge model
 
-Samuel knows that the senior faction lied about the purpose and honor of his placement. He has bounded access to evidence of their contempt and planning. He does not yet possess omniscience or every later genealogy capability.
+Samuel knows that Konrad lied about the purpose and possibility of the mission. He has bounded access to evidence of Konrad's contempt and expectation of failure. He does not yet possess omniscience or every later genealogy capability.
 
 ## Candidate page content
 
-The central visual movement is from a copied exile label or reference on the left toward a developing Fitzgerald hierarchy on the right. `Konrad Fitzgerald` is written more than once. One line changes Samuel's former mission from honor to disposal; another begins treating Konrad's authority as a structure that can be occupied.
+The central visual movement is from a copied mission label or reference on the left toward a developing Fitzgerald hierarchy on the right. `Konrad Fitzgerald` is written more than once. One line changes the impossible conquest from honor to disposal; another begins treating Konrad's authority as a structure that can be occupied.
 
-Do not lock exact visible prose until the revealing record and Konrad's role in the exile decision are resolved.
+Do not lock exact visible prose until the revealing record, its provenance, and Konrad's authorship of that specific record are resolved. Konrad's role in assigning the impossible mission itself is established.
 
 ## Narrative and evidence purpose
 
@@ -43,7 +43,8 @@ Show the point when revenge stops being abstract and gains documentary cause wit
 ## Author gate
 
 - [ ] exact revealing record defined
-- [ ] Konrad's authorship/approval role defined
+- [x] Konrad's role in assigning the impossible mission defined
+- [ ] author of the specific revealing record defined
 - [ ] visible wording approved
 - [ ] chronology and access checked
 - [ ] image approved

@@ -33,9 +33,9 @@ The old leadership's isolation prevents it from serving as a living source of co
 
 ## Hard constraints
 
-**Konrad Fitzgerald never considered failure.**
+**Konrad Fitzgerald never considered that his own Great War conquest could fail.**
 
-Any model in which Konrad planned for defeat, anticipated containment, prepared a fallback hierarchy for losing the Great War, or knowingly designed a post-defeat succession arrangement is incorrect unless the author later changes this.
+Konrad deliberately planned Samuel's takeover mission to fail. That is distinct from his ideological blindness about his own power. Any model in which Konrad planned for his own defeat, anticipated his own containment, prepared a fallback hierarchy for losing the Great War, or knowingly designed a post-defeat succession arrangement is incorrect unless the author later changes this.
 
 **Critical environment distinction:** Konrad's group did not begin powerless inside the containment environment of the largest empire. Konrad had real control in his own city and over the Fitzgerald machinery operating there. The catastrophic loss of control occurs later, when Konrad's group enters/reactivates within the containment environment of the largest empire, where Samuel's earlier placement and jurisdiction matter.
 
@@ -49,8 +49,9 @@ The long-term consequence of that misunderstanding is catastrophic: by reactivat
 
 ## Established pieces that need to be reconciled
 
-- Samuel was exiled from the Fitzgerald order and was told a false story about an important foreign-government takeover assignment.
-- Samuel and George later attempted to take over a government and were caught; Konrad knew about that failure.
+- Konrad exiles Samuel from the Fitzgerald order by giving him an impossible mission to take control of the largest empire. The assignment is a setup designed to fail, although its exact failure mechanism remains unresolved.
+- Samuel and George obtain enough authentic local success to believe the mission, then commit real wrongdoing and choose to attempt the takeover. The designed collapse ends in George's humiliating exposure and containment.
+- Samuel later discovers that Konrad expected the mission to fail. That discovery becomes the foundation of his betrayal and revenge without absolving his own conduct.
 - Samuel remains an outsider in Konrad's eyes rather than being naturally restored to prestige.
 - Konrad had real control in his own city before the Great War collapse; the Fitzgerald organization was not originally operating as Samuel's subordinate structure there.
 - Samuel is the contained criminal exiled into the relevant containment structure of the largest empire before Konrad's later defeat.
@@ -59,6 +60,7 @@ The long-term consequence of that misunderstanding is catastrophic: by reactivat
 - After the Great War, Konrad and his surviving faction enter containment associated with the largest empire and lose the control they previously possessed in their own city.
 - Samuel has a separate part/domain of that containment environment in which he has real bounded control.
 - Samuel lies to Konrad about what the hierarchy means and what Konrad can recover.
+- Samuel's post-defeat lie structurally mirrors Konrad's original lie: Konrad called disposal a takeover mission; Samuel calls subordination restoration.
 - Samuel's lie is driven in part by revenge for exile and by his longer-term intention to replace Konrad with himself.
 - Samuel tricks Konrad into reactivating Fitzgerald programs inside Samuel's containment jurisdiction.
 - Core hinge accepted by the author:
@@ -69,7 +71,7 @@ The long-term consequence of that misunderstanding is catastrophic: by reactivat
 
 ## Important corrections
 
-Do **not** assume that Konrad made plans around the possibility of losing. He did not consider failure. Therefore Samuel's opportunity and Konrad's later decisions arise from conditions created by defeat and containment, not from a Fitzgerald contingency plan.
+Do **not** assume that Konrad made plans around the possibility of losing the Great War. He expected Samuel's mission to fail but did not consider his own defeat. Therefore Samuel's opportunity and Konrad's later decisions arise from conditions created by defeat and containment, not from a Fitzgerald contingency plan.
 
 Do **not** treat the entire Fitzgerald organization as if it began inside Samuel's containment hierarchy. Konrad had genuine authority in his own city before defeat. The hierarchy problem concerns the group's later integration/reactivation inside the largest empire's containment environment.
 
@@ -131,7 +133,7 @@ Accepted:
 - Konrad and the old loyalists remain inside a responsive reality based on what they believe they are trying to accomplish and therefore believe everything is proceeding successfully.
 - Samuel corrupts later generations outside the old leadership's awareness rather than directly converting Konrad and the loyal older generation.
 - Samuel's destructive campaign follows his discovery that his supposed assignment was actually exile; he projects his failures onto the group, destroys bloodlines, and spreads transgressions through it.
-- Konrad never considered failure.
+- Konrad never considered that his own Great War conquest could fail; this does not conflict with his deliberate plan for Samuel's mission to fail.
 - Samuel remains an outsider in Konrad's eyes.
 - Konrad had real control in his own city before defeat.
 - The Fitzgerald group's catastrophic loss of control occurs when it enters/reactivates inside the containment environment of the largest empire, not at the origin of the organization.

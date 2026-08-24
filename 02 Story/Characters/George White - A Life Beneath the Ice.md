@@ -20,7 +20,7 @@ Samuel later makes certain that George remains inside a controlled interpretatio
 
 Roughly thirty years separate Samuel's exile from the Great War. During that interval, Samuel and George are placed into a situation inside the future victorious republic where George appears highly successful and his role appears unusually important. Who places them and what authority the role truly carries remain unresolved.
 
-George and Samuel then commit serious wrongdoing in private and participate in a horribly planned attempt to take over the largest government. The attempt collapses in an extremely humiliating exposure. George is busted into containment for the private conduct and failed takeover.
+Konrad has given Samuel an impossible mission to take over the largest empire, designed from the beginning to fail. George's authentic apparent success helps make the mission feel possible. George and Samuel then commit serious wrongdoing in private and choose to pursue the takeover. Its designed collapse produces an extremely humiliating exposure. George is busted into containment for the private conduct and failed takeover.
 
 Once Samuel converts George's apparent success and subsequent containment into the False Victory, he does not need to stand beside his son to control the interpretation of that life. He can remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
 

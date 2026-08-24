@@ -31,7 +31,9 @@ Samuel's wealthy parents are committed members of the Fitzgerald order. They sha
 
 Samuel therefore grows up close to Konrad's movement but does not remain a trusted member of it. After Samuel's parents discover serious misconduct, including a sexual relationship with an underage girl and other acts still to be developed, they participate in exiling him from the organization.
 
-Konrad's exact personal role in approving, enforcing, or merely accepting Samuel's exile remains unresolved.
+**Established:** Konrad personally turns Samuel's removal into an impossible assignment. He tells Samuel to infiltrate and take control of the largest empire, although Samuel has no genuine chance of succeeding. The assignment is a setup designed to fail, using Samuel's vanity and need to remain important to disguise disposal as trust. The exact administrative pathway, placement mechanics, and any secondary purpose Konrad expects from the failure remain unresolved.
+
+Konrad's choice becomes the foundation of Samuel's later sense of betrayal. It does not excuse Samuel's misconduct or the choices he and George make inside the mission.
 
 ## The Fitzgerald line
 
@@ -49,7 +51,7 @@ Konrad, his senior partner, his family network, Samuel's parents, and the larger
 
 The exact sequence from initial territorial or national power to attempted world conquest remains to be developed, but Konrad is directly responsible for the project and its ideology.
 
-Konrad's control in his own city and over the Fitzgerald machinery there is genuine. He never considers failure, anticipates containment, or prepares a post-defeat fallback hierarchy.
+Konrad's control in his own city and over the Fitzgerald machinery there is genuine. Although he deliberately plans Samuel's failure, he never considers that his own Great War conquest could fail, anticipates his own containment, or prepares a post-defeat fallback hierarchy.
 
 The movement loses catastrophically.
 
@@ -60,6 +62,8 @@ Crucially, Samuel Franklin is already there.
 ## Samuel before the defeat
 
 Samuel has been exiled from the Fitzgerald order and has fallen into containment inside the future victorious American-equivalent empire.
+
+Before that containment is fully understood, Konrad has already sent Samuel toward the empire under the impossible takeover mission. Samuel and George's apparent local success helps preserve the lie, but Konrad expects the larger mission to fail.
 
 During the Great War he reopens or maintains contact with his parents and presents himself as someone seeking reconciliation, forgiveness, or eventual readmission.
 

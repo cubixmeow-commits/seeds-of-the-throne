@@ -23,9 +23,9 @@ Samuel Franklin is born into the Fitzgerald organization through wealthy, commit
 
 After serious misconduct, including a sexual relationship with an underage girl and other acts still to be developed, Samuel is exiled from the movement approximately thirty years before the Great War begins.
 
-The faction tells Samuel the placement is an important assignment to infiltrate, influence, or eventually control the other empire. Samuel initially believes this flattering explanation. What the faction actually intends the placement to accomplish remains unresolved.
+Konrad tells Samuel the placement is an important assignment to infiltrate and take control of the other empire. Samuel initially believes this flattering explanation. The assignment is actually an impossible setup designed to fail: Konrad is disposing of Samuel while allowing him to mistake removal for proof of unique importance. How Konrad guarantees failure and whether he expects any useful secondary effect remain unresolved.
 
-During that interval, Samuel and George are placed into a situation inside the large pluralistic empire that functions as the story's American equivalent. George appears highly successful and his role appears unusually important. They privately commit serious wrongdoing and participate in a horribly planned attempt to take over the largest government. The attempt collapses in an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
+During that interval, Samuel and George are placed into a situation inside the large pluralistic empire that functions as the story's American equivalent. George appears highly successful and his role appears unusually important. The authentic local success helps convince them that Konrad's impossible mission can work. They privately commit serious wrongdoing and choose to attempt the takeover. Its designed collapse produces an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
 
 By the time Konrad's movement attempts world conquest, Samuel is already living inside the future victor's containment environment.
 
@@ -165,7 +165,7 @@ This is the bridge between Samuel's exile and his eventual attempt to become Kon
 
 - Konrad Fitzgerald's authoritarian purity movement initiates the Great War through a global-conquest attempt.
 - Samuel is already exiled and inside the future victorious American-equivalent containment environment.
-- Samuel's exile occurs approximately thirty years before the Great War and is presented to him as an important infiltration or control assignment; the faction's real purpose remains unresolved.
+- Samuel's exile occurs approximately thirty years before the Great War; Konrad presents it as a mission to capture the largest empire while actually designing it as an impossible setup and method of disposal.
 - Before the war, Samuel and George appear successful inside an important situation in the largest government, then a humiliating failed takeover and exposure busts George into real containment.
 - Samuel maintains contact with his parents and secretly sabotages the movement while pretending he wants reconciliation or readmission.
 - The movement loses primarily because of its own authoritarian failures, with Samuel's betrayal worsening the collapse.
@@ -186,7 +186,7 @@ This is the bridge between Samuel's exile and his eventual attempt to become Kon
 - Which parent is more vulnerable to Samuel's claim that he wants back in?
 - Does Samuel ever directly aid the victorious government, or does he sabotage through indirect manipulation?
 - How much does the containment system know about Samuel's betrayal while it is occurring?
-- What did the faction actually intend Samuel's supposedly important exile assignment to accomplish?
+- Why did Konrad choose an impossible takeover mission as disposal, how did he guarantee failure, and did he expect a useful secondary effect?
 - Who places Samuel and George into the apparent-success situation, and what is Samuel's containment status at that point?
 - What private conduct and takeover plan cause George's humiliating bust?
 - How does the prewar role relate to George's later three-role progression?
