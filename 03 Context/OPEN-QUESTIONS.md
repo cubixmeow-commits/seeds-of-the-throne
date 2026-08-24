@@ -110,6 +110,8 @@ updated: 2026-08-21
 - Which cross-couple are Orzai's parents, which parent carries the Witness role, and what independent life and ambitions does Orzai have before choosing Sylvan?
 - What roles train Sylvan and Orzai before they work together, what is each one's first significant leadership failure, and what do they learn from one another that formal cultivation could not teach?
 - What first disagreement over pace, disclosure, or evidence demonstrates that their complementarity preserves rather than erases independent judgment?
+- What education and first professional home join Orzai's health/nutrition knowledge with creative design, video, and 3D modeling during the 2015–2020-equivalent transition?
+- Which visualization does Orzai refuse to simplify or falsify, what does that refusal cost, and which later colonization responsibility grows from it?
 - What is Orzai's older brother called, what company receives his developmental placement, and how does its mandate and oversight differ from Samuel Jr.'s company?
 - Do Orzai's brother and Samuel Jr. cooperate, compete, audit one another, or independently expose different portions of the same hidden system?
 - What concrete behavioral signature reveals recurrence?

@@ -15,7 +15,9 @@ Orzai is one of the two granddaughters descended from both founder couples of th
 
 **Established:** Orzai and Sylvan are both being trained as emerging leaders in the larger colonization process. Orzai is somewhat more reserved and introverted than Sylvan, and their temperaments complement one another extremely well.
 
-Her exact age, parent branch, independent ambition, career, first meeting with Sylvan, knowledge of the Witness evidence, Luminai development, and final leadership role remain unresolved.
+**Established:** Orzai develops interests and capability across health, nutrition, creative design, video, and 3D modeling during a rapidly changing surface era analogous to approximately 2015–2020.
+
+Her exact age, parent branch, education, employer, first professional medium, first meeting with Sylvan, knowledge of the Witness evidence, Luminai development, and final leadership role remain unresolved.
 
 ## Emerging-leader formation
 
@@ -56,6 +58,26 @@ Her reserve is not timidity, passivity, or lack of authority. She is comfortable
 - stability when public approval shifts;
 - willingness to preserve uncertainty until evidence supports action.
 
+## Health, nutrition, and creative technology
+
+Orzai is drawn to systems people live inside but cannot directly see: metabolism, recovery, nutrient pathways, health behavior, environmental influence, risk, and long-term consequence. Creative design, video, and 3D modeling let her make those systems spatial, temporal, and emotionally legible.
+
+Her creative work is not merely decoration applied after technical decisions. She asks whether a model is accurate, whether an audience can use it, what uncertainty has been hidden, whose body is treated as normal, and whether persuasion supports informed choice or quietly replaces it.
+
+The surface civilization around her is undergoing an invented capability transition analogous to approximately 2015–2020: high-quality small-team video becomes widely accessible; mobile and online viewing reshape explanation; 3D tools reach beyond specialist studios; real-time rendering, interactive media, spatial design, distributed production, and personal health data become increasingly practical; and polished health communication spreads faster than trustworthy interpretation.
+
+**Working professional arc:**
+
+**hands-on health/nutrition and visual production -> interdisciplinary health visualization -> interactive and real-time 3D training/design -> population-scale nutrition, care, and habitat systems within colonization**
+
+An early studio, laboratory, institution, or independent practice could combine nutritional education, 3D anatomy or food/process modeling, documentary and explanatory video, storyboarding, editing, motion, interactive training, and collaboration with health professionals, food workers, educators, software developers, and affected communities. The exact organization and first project remain unresolved.
+
+Her field gives her consequential ethical problems. A beautiful model can make weak evidence appear certain. Personalized nutrition can become invasive surveillance. Health campaigns can inform or shame. Simulations can train judgment or choreograph a sponsor's desired answer. Health records can improve care while exposing identity, lineage, synthetic provenance, or private family information.
+
+Orzai's constructive aim is to help people understand enough to choose. Her later colonization leadership can grow from designing comprehensible nutrition and care systems, modeling food and recovery flows across habitats, evaluating health effects of built environments, creating training for diverse populations, and making policy assumptions visible before an institution imposes them.
+
+This path trains her through service before command. It requires interdisciplinary translation, consent, privacy, evidence discipline, acknowledgment of uncertainty, and responsibility for how representation changes behavior.
+
 ## Vulnerabilities and development needs
 
 The same temperament can cause Orzai to wait too long for sufficient confidence, carry dangerous information alone, allow more visible people to establish the first frame, underestimate how much others need to hear her intermediate reasoning, or appear distant when she is processing carefully.
@@ -70,6 +92,8 @@ Orzai is not merely Sylvan's brake, private adviser, evidence courier, or emotio
 
 Their productive conflicts should arise around pace, disclosure, and evidentiary thresholds. Both must identify who bears the risk of action or delay, what evidence would change their position, which choices are reversible, and when consent must be renewed.
 
+Their creative work provides a natural possible point of professional contact. Sylvan organizes stories, relationships, evidence, dependencies, and creative development through software. Orzai turns health and human systems into visual and spatial experiences. She might use, test, challenge, or collaborate through his platform, but the exact meeting and project remain proposed rather than established.
+
 ## Journal artifact
 
 Orzai's proposed journal profile is [[02 Story/Artifacts/Journals/Characters/Orzai/Journal Profile]]. Its physical object, handwriting, diagram grammar, emotional variants, and reference images remain unapproved.
@@ -78,7 +102,10 @@ Orzai's proposed journal profile is [[02 Story/Artifacts/Journals/Characters/Orz
 
 - Which founder cross-couple are Orzai's parents?
 - Which parent carries the Witness role?
-- What is Orzai's independent ambition and chosen field of service?
+- What exact health/nutrition and creative-design role becomes Orzai's first professional home?
+- Which medium first becomes her strongest craft: video, editing, motion design, 3D modeling, real-time environments, or a deliberate combination?
+- What health visualization does she refuse to simplify or falsify?
+- What later colonization responsibility grows directly from her early practice?
 - What environments or offices shape her leadership before she meets Sylvan?
 - How and when do they meet?
 - What does Orzai know about her family's evidence before Sylvan?

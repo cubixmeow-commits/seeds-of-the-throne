@@ -29,4 +29,6 @@ Orzai's reserved, introverted, deliberate style complements Sylvan's outgoing in
 
 Neither is merely the other's missing half or assigned a permanent accelerator/brake role. Orzai may act first when sustained observation has already produced clarity, while Sylvan may be the one who slows a process to secure evidence or consent. Their relationship becomes strongest when independent judgment survives intimacy.
 
+Orzai's health/nutrition practice and her work in creative design, video, and 3D modeling create a natural but unresolved professional intersection with Sylvan's database-driven creative-development system. Her visual and spatial health projects could test, challenge, or use his platform, while her insistence that representation changes behavior can expose assumptions his software treats as neutral. Whether this is how they meet remains proposed.
+
 Open: inciting event, what reaches him from the Witness generation, Orzai's role in that transmission, what he knows on entry, what accepting the evidence costs him, his specific leadership failure, whether he is the sole primary narrator, and his ultimate placement.

@@ -1,7 +1,7 @@
 ---
 type: visual-research
 status: working
-updated: 2026-08-13
+updated: 2026-08-23
 purpose: surface-civilization era grounding for Visual Generation System v2
 ---
 
@@ -151,6 +151,12 @@ The image generator should use the era packet to constrain clothing, visible tec
 
 ### Generator guardrails
 - Avoid making all contemporary spaces minimalist tech-company interiors. Ordinary homes, aging infrastructure, older cars/buildings and analog remnants remain everywhere.
+
+### Sylvan and Orzai transitional work envelope
+
+Their early professional world spans a 2015–2020-equivalent transition before widespread public generative AI. Visible creative work may include ordinary cameras, microphones, lighting, editing stations, drawing tablets, color-calibrated displays, 3D workstations, render previews, storyboards, reference photography, small motion-capture or spatial-capture setups, asset libraries, and early real-time or immersive experiments. Health and nutrition work may include conventional clinics, kitchens, classrooms, studios, public institutions, wearable or self-tracking data, anatomical references, food/process models, and privacy-conscious records.
+
+Do not visualize this as effortless generative production, holographic medicine, automatic perfect 3D reconstruction, or open access to hidden colony systems. Small teams still plan, film, model, revise, render, verify claims, manage files, and make visible tradeoffs between time, accuracy, cost, and persuasion.
 
 ---
 
