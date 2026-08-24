@@ -10,7 +10,7 @@ journal_id: SE-JRN
 
 ## Authority and scope
 
-Sylvan's evidence-oriented role, software/story-development background, Luminai development, and discovery that Samuel is the hidden opponent are working story memory. Exact notebooks, entries, investigative methods, and evidence sequence remain unresolved.
+Sylvan's evidence-oriented role, software/story-development background, Luminai development, discovery that Samuel is the hidden opponent, emerging-leader preparation, outgoing temperament, and complementary partnership with Orzai are established or working story memory. Exact notebooks, entries, investigative methods, shared-work permissions, and evidence sequence remain unresolved.
 
 Physical design and hand: `working`. Journal-specific approved references: none.
 
@@ -34,11 +34,11 @@ Checksums, provenance, limitations, and priority remain authoritative in the vis
 
 ## Handwriting identity
 
-Clear, economical, observational. Stable baseline, moderate spacing, legible dates, source codes, small questions, restrained corrections, and enough blank space for later verification. Under pressure the page grows denser but remains traceable.
+Clear, economical, observational, and visibly conversational. Stable baseline, moderate spacing, legible dates, source codes, names and perspectives gathered from other people, small questions, restrained corrections, and enough blank space for later verification. Under pressure the page grows denser but remains traceable.
 
 ## Drawing and diagram grammar
 
-Timelines, maps, system boundaries, evidence chains, competing hypotheses, witness links, behavior comparisons, permission paths, and contradictions. Samuel circles answers; Sylvan circles questions.
+Timelines, maps, system boundaries, evidence chains, competing hypotheses, witness links, behavior comparisons, permission paths, contradictions, and broad stakeholder maps. Samuel circles answers; Sylvan circles questions. His outgoing cognition often records an idea early enough for dialogue to change it.
 
 ## Recurring motifs
 
@@ -57,6 +57,8 @@ Open question ring, branching path with alternatives left intact, paired observa
 ## Content and knowledge rules
 
 Sylvan records hypotheses at their actual confidence. He cannot use later revelations in earlier notes. His Luminai may help index, compare, or authenticate only within unresolved capability and consent limits; the notebook must not become a magical answer engine.
+
+Shared work with Orzai must preserve her independent judgment and privacy. Use cross-references, permissioned extracts, recorded disagreements, and separate confidence levels rather than visually merging their minds or making Orzai an anonymous source of conclusions.
 
 ## Evidence and forensics
 

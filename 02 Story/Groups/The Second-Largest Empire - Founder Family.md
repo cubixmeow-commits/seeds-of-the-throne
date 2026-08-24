@@ -39,7 +39,7 @@ Founder Couple A                         Founder Couple B
 
 The structure turns cooperation between the founders into a lived family history across three generations. The founders build one empire together. Their children bind the two households through chosen relationships. Their grandchildren inherit both sides of the founding family rather than representing isolated dynastic branches.
 
-Orzai, Sylvan's intended partner, therefore belongs to both founder couples by descent. She belongs to Sylvan's generation and is slightly younger than him. Her relationship with Sylvan can carry long-term significance for cooperation between the largest and second-largest empires, but that significance must not replace her independent identity or personal choice.
+Orzai, Sylvan's intended partner, therefore belongs to both founder couples by descent. She belongs to Sylvan's generation and is slightly younger than him. She and Sylvan are both being trained as emerging leaders in the larger colonization process. Orzai is somewhat more reserved and introverted than outgoing Sylvan: observant, deliberate, selective, resistant to crowd pressure, and capable of precise intervention. Their temperaments complement one another, but her relationship with Sylvan cannot replace her independent identity, ambition, judgment, or personal choice. Its possible significance for cooperation between the largest and second-largest empires remains a consequence of their relationship, not its reason for existing.
 
 Orzai's branch also includes an older brother, the son born to the same cross-couple. He is approximately a decade older than Sylvan and is placed for development and training inside a company similar in institutional importance and capability to the government-integrated decision-systems company associated with Samuel's replacement heir. He provides a legitimate-heir counterpart rather than a duplicate: his exact authority, constraints, company mandate, and relationship to Samuel Jr. remain unresolved.
 
@@ -54,6 +54,7 @@ The leading working placement for the earlier Witness is one of Orzai's parents.
 - two cross-couple relationships between their children;
 - one son and one daughter born to each cross-couple;
 - Orzai is the granddaughter who becomes Sylvan's partner; she is his contemporary and slightly younger than him.
+- Orzai and Sylvan are both being trained as emerging leaders; Orzai is somewhat more reserved and introverted, Sylvan is more outgoing, and their independent temperaments complement one another.
 - Orzai's older brother is approximately a decade older than Sylvan and is placed in a consequential company comparable to Samuel Jr.'s institutional environment.
 
 ### Unresolved
@@ -64,5 +65,5 @@ The leading working placement for the earlier Witness is one of Orzai's parents.
 - Orzai's brother's name, exact age, company, authority, constraints, and relationship to Samuel Jr.;
 - ages and exact chronology;
 - Great War roles and professional pairings;
-- personalities, capabilities, ambitions, and internal family dynamics;
+- remaining personalities, specific capabilities, ambitions, and internal family dynamics;
 - how Sylvan and his partner meet and choose one another.

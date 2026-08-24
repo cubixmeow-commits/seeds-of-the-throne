@@ -64,6 +64,10 @@ Each episode should contain a local objective, a real institutional pressure, a 
 
 The same technologically constrained world can give legitimate future leaders unusually rich opportunities to develop. The objective is not merely to teach that fascism is wrong. It is to place future leaders in bounded roles where they must discover how to resist domination without reproducing it.
 
+Sylvan and Orzai provide a current character expression of the intended formation. Both are trained toward contact with reality, comfort with correction, respect for autonomy and consent, competence under constraint, long-horizon systems thinking, distributed authority, responsibility for indirect consequences, cross-cultural cooperation, and ethical restraint. Training can create repeated opportunities to practice these capacities; it cannot guarantee their moral use.
+
+Temperament does not determine leadership value. Sylvan's outgoing style supports initiation, broad trust, accessible explanation, and collaborative momentum. Orzai's more reserved and introverted style supports sustained attention, resistance to social pressure, durable trust, precise intervention, and protection of excluded voices. Each must develop against the failure mode of the same strength: Sylvan against overextension and premature movement; Orzai against over-withholding and delayed warning.
+
 They must practice questions such as:
 
 - How do you preserve dignity when cruelty appears efficient?

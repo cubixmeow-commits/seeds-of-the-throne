@@ -14,7 +14,7 @@ Earlier-era legitimate heir and possible Thread A protagonist. The leading worki
 
 ## Sylvan / the Inheritor
 
-**Sylvan Elaria carries the modern Inheritor role.** He is competent, advantaged, and plausibly headed toward consequential public responsibility. He interprets awakening through surveillance, artificial intelligence, targeted technology, and his developing Luminai. Evidence surviving from Orzai's parent generation may save him, derail him, or both.
+**Sylvan Elaria carries the modern Inheritor role.** He and Orzai are being trained as emerging leaders in the larger colonization process. Sylvan is the more outgoing partner: socially curious, verbally exploratory, comfortable initiating contact, able to build broad networks, explain difficult systems accessibly, and create collaborative momentum. His risks include overextension, filling silence, mistaking openness for earned trust, and moving before quieter evidence matures. He interprets awakening through surveillance, artificial intelligence, targeted technology, and his developing Luminai. Evidence surviving from Orzai's parent generation may save him, derail him, or both.
 
 ## The Protagonist
 
@@ -36,11 +36,11 @@ Samuel's son. Before the Great War, George appears highly successful in an impor
 
 ## Sylvan Elaria
 
-Younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's apparent success, private wrongdoing, failed takeover, humiliation, and containment to Samuel's contradictory post-defeat myth, then connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons.
+Outgoing younger leader preserving evidence that compares the sealed reality record with the public story. His archive can connect George's apparent success, private wrongdoing, failed takeover, humiliation, and containment to Samuel's contradictory post-defeat myth, then connect reproductive manipulation to lineage blackmail across the contained organization. His ethical challenge is exposing the system without turning children and private parentage into public weapons. His leadership development emphasizes reality contact, correction, consent, distributed authority, and restraint rather than inherited override power.
 
 ## Orzai
 
-Sylvan's intended partner, one of the two granddaughters descended from both founder couples of the second-largest empire. She belongs to Sylvan's generation and is slightly younger than him. She is not the Witness; one of her Great War-era parents is the leading candidate for that role. Her exact age, parent branch, worldview, capabilities, ambitions, relationship with Sylvan, and role in carrying her family's evidence remain unresolved.
+Sylvan's intended partner and an emerging colonization leader, one of the two granddaughters descended from both founder couples of the second-largest empire. She belongs to Sylvan's generation and is slightly younger than him. Orzai is somewhat more reserved and introverted than Sylvan: observant, deliberate, selective in disclosure, resistant to crowd pressure, and capable of concise high-leverage intervention. She builds fewer relationships initially but develops deep, durable trust. Her vulnerabilities include waiting too long for certainty, carrying information alone, and allowing more visible people to establish the first frame. Her temperament complements Sylvan's outgoing momentum while her agency, ambition, and judgment remain independent. She is not the Witness; one of her Great War-era parents is the leading candidate for that role. Her exact age, parent branch, independent ambition, career, first meeting with Sylvan, and role in carrying her family's evidence remain unresolved.
 
 ## Orzai's older brother
 

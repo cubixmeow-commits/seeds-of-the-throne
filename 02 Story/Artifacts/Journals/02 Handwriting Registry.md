@@ -11,6 +11,7 @@ updated: 2026-08-23
 | SF-HW-01 | Samuel Franklin | narrow, controlled, analytical | heavy underlining; branching arrows; behavioral profiles; pressure-point maps; lie trees; rewritten names; compressed spacing; later selective imitation of Konrad | remains highly analytical while jealousy increasingly forces evidence into replacement conclusions | no approved sheet |
 | KF-HW-01 | Konrad Fitzgerald | large, formal, disciplined | strong capitals; stable margins; decisive punctuation; minimal corrections; lineage formatting | pressure increases force without visibly surrendering order | no approved sheet |
 | SE-HW-01 | Sylvan Elaria | clear, economical, observational | source marks; questions; competing hypotheses; dates; evidence references; small maps | remains legible under pressure while density and cross-reference depth increase | no approved sheet |
+| OR-HW-01 | Orzai | compact, precise, calm | deliberate spacing; clean corrections; threshold marks; paired interpretations; absent-voice notes; generous margins | compression and density increase before visible disorder; later conclusions become shorter and more public | no approved sheet |
 | GW-HW-01 | George | initially neat, instructed, and imitative | copied headings; inherited terminology; hesitant corrections; unexplained remembered forms | becomes more individual as imposed identity loses control | no approved sheet |
 
 ## Required approval sheet
