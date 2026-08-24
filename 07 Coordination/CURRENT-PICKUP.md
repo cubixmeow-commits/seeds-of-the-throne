@@ -13,7 +13,7 @@ This is the single current pickup point for the next Seeds session. Older dated 
 
 The Character Journal Artifact System and Weekly Story Synthesis v1.0 are implemented.
 
-- [[02 Story/Artifacts/Journals/00 Journal System]] defines physical design, handwriting, drawing grammar, motifs, emotional evolution, reference approval, entries, and evidence/forensic use. Samuel Franklin, Konrad Fitzgerald, Sylvan Elaria, and George have seeded profiles. Two chat-derived pages are stored as proposed artifacts, not canon.
+- [[02 Story/Artifacts/Journals/00 Journal System]] defines physical design, handwriting, drawing grammar, motifs, emotional evolution, reference approval, entries, and evidence/forensic use. Samuel Franklin, Konrad Fitzgerald, Sylvan Elaria, Orzai, and George have seeded profiles. Samuel, Konrad, Sylvan, and Orzai now also have extensive writing/drawing sample libraries and materially distinct object-only candidate boards. The boards remain unapproved, generated lettering is illustrative, and two chat-derived pages remain proposed artifacts rather than canon.
 - [[07 Coordination/Weekly Synthesis/README]] provides ten dated core reports, three optional high-capacity audits, a master prompt, configuration, run manifest, and direct routing into the Gap Analyzer and Gauntlet.
 - Samuel learns the truth of his exile after Konrad and the defeated faction enter the same broader containment environment and the surveillance inversion begins. The exact record, channel, permissions, and evidentiary path remain unresolved.
 

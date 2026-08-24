@@ -1,6 +1,6 @@
 ---
 type: journal-profile
-status: proposed
+status: working
 updated: 2026-08-23
 character: Orzai
 journal_id: OR-JRN
@@ -12,20 +12,27 @@ journal_id: OR-JRN
 
 Orzai's emerging-leader training, reserved and introverted temperament, observational strength, health and nutrition interests, creative design, video and 3D-modeling capability, deliberate intervention style, and complementary partnership with Sylvan are established or working story memory. Her exact career, notebook objects, strongest medium, handwriting, Luminai use, entries, and evidence custody remain unresolved.
 
-Physical design, handwriting, diagrams, and journal-specific visual references: `proposed`. No approved identity or journal reference exists. Return `NEEDS DEFINITION` if a generation requires Orzai's face, hands, signature, exact belongings, or a recurring personal mark.
+Physical design, handwriting, and diagrams: `working visual development`, not approved artifact canon. Journal-specific visual references remain candidate only. No approved identity reference exists. Return `NEEDS DEFINITION` if a generation requires Orzai's face, hands, signature, exact belongings, or a recurring personal mark.
 
 ## Physical identity
 
-- **Proposed object family:** compact, durable notebooks selected for private observation and long retrieval rather than display.
-- Fewer concurrent volumes than Sylvan, with careful dates, stable internal indexes, and restrained inserts.
-- Generous margins and page space are functional: room remains for later qualification, corroboration, or changed judgment.
-- Exact size, cover, binding, paper, instruments, era, acquisition, wear, ownership marks, and storage remain unresolved.
+- **Working object family:** compact lay-flat interdisciplinary journals, approximately 155 × 215 mm, selected for private observation, visual modeling, and long retrieval.
+- **Cover:** slate-blue woven linen across the boards with a pale undyed vegetable-tanned leather spine and narrow fore-edge guard. No ornamental closure, floral pattern, or identity mark.
+- **Binding:** concealed flexible sewing that opens completely flat. A shallow rear pocket stores precisely registered translucent overlays without making the book bulky.
+- **Paper:** warm-white mixed-media leaves with a subtle 5 mm registration grid printed only at the corners. Translucent vellum-like overlays carry alternate interpretations, consent boundaries, camera paths, and model corrections.
+- **Instruments:** hard and soft graphite, fine indigo ink, muted terracotta pencil for thresholds or human consequences, and occasional white pencil on toned inserts. Exact pigments and surface-era supply remain undefined.
+- **Navigation:** careful dates, page/version codes, small registration ticks, medium label, and later-corroboration field. Fewer concurrent volumes than Sylvan; indexes are stable and restrained.
+- **Wear:** linen becomes smooth at the lower spine, overlay corners cloud from handling, graphite ghosts transfer between studies, and the pale leather darkens where the book is opened. Damage is repaired precisely.
+- **Functional negative space:** wide margins are reserved for later qualification, an absent voice, a missing measurement, or a changed commitment.
+- **Unresolved:** acquisition, maker, exact overlay material, storage, ownership mark, era-specific pigment availability, and which career stage first establishes this format.
 
 ## Handwriting identity
 
 Compact, precise, calm, and highly legible at close scale. Consistent baseline, moderate-to-small letters, deliberate spacing, light-to-moderate pressure, restrained punctuation, and few decorative flourishes. Corrections are exact rather than obscuring: a clean strike, replacement, date, or confidence mark.
 
 Under pressure, the writing may become smaller and denser before it becomes visibly erratic. The most important warning sign is not disorder but excessive compression and too much information kept private.
+
+Full construction rules and reusable exercises: [[02 Story/Artifacts/Journals/Characters/Orzai/Writing and Drawing Samples]].
 
 ## Drawing and diagram grammar
 
@@ -34,6 +41,8 @@ Paired interpretations, threshold lines, compact comparison tables, speaker/abse
 Creative-work pages may add health and nutrition pathways, ingredient/meal/environment flows, simplified anatomy, storyboard thumbnails, shot lists, camera and lighting plans, timing marks, 3D form/topology/material studies, motion paths, annotated renders, and separate checks for accuracy, comprehension, and persuasive effect.
 
 Avoid duplicating Sylvan's broad branching hypothesis maps. Sylvan often records the developing conversation; Orzai records the observation that changes its meaning.
+
+Her unique integration rule is **the layered model**: the base page records observation and structure, while a registered translucent overlay adds interpretation, uncertainty, consent, or persuasive effect. A small threshold triangle marks the seam where the model justifies a reversible action. Removing the overlay makes the difference between observed fact and constructed meaning physically visible.
 
 ## Recurring motifs
 
@@ -75,3 +84,5 @@ Preserve negative space, restraint, legibility, exact distinctions, independent 
 - [ ] diagram sheet approved
 - [ ] cover/interior spread approved
 - [ ] emotional-state variants approved
+
+Current candidate board and exact sample transcriptions are indexed in [[02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards]] and [[02 Story/Artifacts/Journals/Characters/Orzai/Writing and Drawing Samples]].

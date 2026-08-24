@@ -64,6 +64,7 @@ Neat is not good and disorder is not evil. Journal design reveals cognition, pre
 - `Characters/<name>/Journal Profile.md` — complete character-specific system.
 - `Characters/<name>/Entries/` — individual artifact records.
 - `Templates/` — profile, entry, and generation brief contracts.
+- `Candidate Images/` — unapproved visual-development outputs, prompts, checksums, and explicit warnings.
 - `Reference Images/` — approval policy and, when approved, journal-specific sheets and spreads.
 
 ## Relationship to other systems

@@ -27,18 +27,26 @@ Checksums, provenance, limitations, and priority remain authoritative in the vis
 
 ## Physical identity
 
-- Functional, durable field/investigative notebooks rather than one ceremonial volume.
-- Replaceable volumes with dates, evidence cross-references, and a stable indexing method.
-- Materials and devices must fit the resolved surface era; paper notebooks can coexist with digital records for specific human reasons that must be stated.
-- Wear comes from use, transport, comparison, and retrieval rather than decorative distress.
+- **Working object family:** modular field/investigative notebooks, approximately 140 × 205 mm, rather than one ceremonial volume.
+- **Cover:** weather-resistant charcoal woven-composite cloth over thin flexible boards, rounded corners, visible warm-gray repairable stitching, and a simple elastic closure. No logo or inherited insignia.
+- **Binding:** exposed sewn signatures that lie flat and make removed pages obvious. Volumes are replaceable, date-ranged, and cross-indexed rather than treated as sacred objects.
+- **Paper:** warm-white mixed stock—faint dot grid for systems, blank leaves for maps, and occasional perforated provenance slips. Page ruling changes by function but stable indexing prevents ambiguity.
+- **Instruments:** blue-black waterproof fine-nib ink for durable observations, graphite for hypotheses, muted amber removable tabs for unresolved review. Exact commercial era equivalents remain undefined.
+- **Navigation:** volume code, date range, page number, source bracket, permission mark, and next-review date. A removable rear index card maps related digital records without pretending the paper contains them.
+- **Wear:** softened corners, rain spotting, flattened page edges, repaired thread, and graphite transfer from frequent comparison. Wear records use, transport, and retrieval rather than decorative distress.
+- **Unresolved:** why he preserves particular work on paper, exact surface-era material availability, manufacturer, volume chronology, and Luminai-assisted indexing limits.
 
 ## Handwriting identity
 
 Clear, economical, observational, and visibly conversational. Stable baseline, moderate spacing, legible dates, source codes, names and perspectives gathered from other people, small questions, restrained corrections, and enough blank space for later verification. Under pressure the page grows denser but remains traceable.
 
+Full construction rules and reusable exercises: [[02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Writing and Drawing Samples]].
+
 ## Drawing and diagram grammar
 
 Timelines, maps, system boundaries, evidence chains, competing hypotheses, witness links, behavior comparisons, permission paths, contradictions, and broad stakeholder maps. Samuel circles answers; Sylvan circles questions. His outgoing cognition often records an idea early enough for dialogue to change it.
+
+His unique integration rule is **conversation remains visible inside the map**: prose observations open into incomplete question rings, alternatives retain their falsification tests, and every evidentiary arrow carries provenance and permission. Dense inquiry resolves into one bounded action line with a review date.
 
 ## Recurring motifs
 
@@ -75,3 +83,5 @@ Preserve legibility, questions, evidence provenance, era fit, and the current st
 - [ ] diagram sheet approved
 - [ ] cover/interior spread approved
 - [ ] emotional-state variants approved
+
+Current candidate board and exact sample transcriptions are indexed in [[02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards]] and [[02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Writing and Drawing Samples]].

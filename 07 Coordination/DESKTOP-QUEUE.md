@@ -50,6 +50,14 @@ No desktop-only implementation is currently queued. Resume creative development 
 
 ## Completion log
 
+### 2026-08-23 — Four-character journal design bibles
+
+- **Status:** completed
+- **Source:** author request to make Samuel, Konrad, Sylvan, and Orzai's journals materially and graphically unique
+- **Result:** Expanded all four profiles with object specifications; added exact handwriting construction, emotional bands, extensive writing drills, twelve-plus drawing forms, word/image integration rules, and forensic clusters; added a four-way differentiation matrix and four object-only generated design boards with prompts, checksums, and visual QA.
+- **Preserved unresolved:** All images remain candidates; signatures, crests, makers, exact era materials, entry dates, and artifact existence remain unapproved. Generated lettering is not transcription. Sylvan's board contains invalid placeholder dates and numeric confidence and is explicitly barred from story use.
+- **Next action:** Run a component-by-component author approval pass, then create deterministic alphabet/numeral/emotional-state handwriting sheets only for approved directions.
+
 ### 2026-08-23 — Character journals and Weekly Story Synthesis v1.0
 
 - **Status:** completed

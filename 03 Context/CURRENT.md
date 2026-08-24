@@ -8,7 +8,7 @@ updated: 2026-08-23
 
 ## Current phase
 
-Two support systems are now active. [[02 Story/Artifacts/Journals/00 Journal System|Character Journals]] stores physical, written, visual, emotional, and forensic continuity without treating generated pages as canon. [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]] is the dated end-of-credit-cycle diagnostic intake for the Story Loop. Its reports recommend work but do not promote story decisions.
+Two support systems are now active. [[02 Story/Artifacts/Journals/00 Journal System|Character Journals]] stores physical, written, visual, emotional, and forensic continuity without treating generated pages as canon. Samuel, Konrad, Sylvan, and Orzai now have complete working design bibles, exact writing/drawing sample libraries, and unapproved object-only candidate boards compared in [[02 Story/Artifacts/Journals/05 Four-Journal Differentiation Matrix]]. [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]] is the dated end-of-credit-cycle diagnostic intake for the Story Loop. Its reports recommend work but do not promote story decisions.
 
 Foundation, human–AI integration architecture, dynastic character development, and construction of the middle story. The central positive-development question is no longer inheritance. The real leaders and their children are not preoccupied with inheritance as an ideology; they are focused on preparing capable people, advancing human development, cooperation between civilizations, and discovering deeper forms of human–Luminai integration. **Inheritance is primarily an obsession of the contained criminal faction.**
 

@@ -26,16 +26,23 @@ Checksums, provenance, limitations, and supporting-image priority remain authori
 
 ## Physical identity
 
-- **Working object:** an old, high-quality leather volume Samuel selects or preserves because it looks historically consequential. Its exact age and provenance must not be invented.
-- **Performance:** even private pages anticipate discovery. Ownership marks and orderly early folios project the archive of a future founder.
-- **Interior:** warm paper, deliberate numbering, controlled margins, later inserts and folded genealogical tables. Exact materials, dimensions, binding, and ink require era/material definition.
-- **Damage:** grows through handling, reworking, attached diagrams, and reopened pages rather than random picturesque decay.
+- **Working object:** a refined intelligence portfolio disguised as a consequential old volume: approximately 165 × 235 mm, flexible enough to carry, expensive enough to perform importance.
+- **Cover:** deep black-green polished calfskin with almost invisible edge tooling. No crest. A narrow recessed frame resembles an ownership panel without naming its owner.
+- **Binding:** replaceable thread-sewn packets held by a dark leather spine structure. Samuel can reorder or substitute sections without the object looking temporary. Hidden inner pockets hold folded trees, copied statements, and correction slips.
+- **Paper:** fine cream laid paper with a faint vertical chain texture. Main packets use narrow graphite ruling; inserts may be thinner and slightly cooler, making later intervention detectable.
+- **Instruments:** near-black ink for the controlled record, hard graphite for models, restrained red pencil for leverage, timing, and danger. Exact ink chemistry awaits era/material research.
+- **Performance:** even private pages anticipate discovery. Early folios project the archive of a future founder; later modularity becomes a tool for occupation and false continuity.
+- **Numbering and navigation:** small upper-corner folio numbers, packet letter, target code, and revision tick. Samuel prefers relational indexing over dates when concealment matters.
+- **Wear:** polished at the lower front edge, stressed around packet anchors, thumb-darkened at repeatedly reopened names. Damage grows through handling and reworking, not picturesque decay.
+- **Unresolved:** acquisition, true age, manufacturer, exact closure, precise ink, ownership history, and whether concealed replacement leaves an intentional forensic flaw.
 
 ## Handwriting identity
 
 Narrow, controlled, analytical hand with compressed spacing, firm pressure, heavy underlining, branching arrows, rewritten names, and dense relational diagrams. Early pages preserve space; later pages fill margins and overwrite categorical boundaries.
 
 Proposed forensic evolution: Samuel selectively borrows Konrad's capitals, declaration spacing, or lineage conventions. This may be conscious forgery, unconscious identification, or both; do not decide without an author gate.
+
+Full construction rules and reusable exercises: [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Writing and Drawing Samples]].
 
 ## Manipulation and behavioral analysis
 
@@ -56,6 +63,8 @@ The journal should often prove that Samuel understood another person with fright
 ## Drawing and diagram grammar
 
 Genealogical trees, succession networks, institutional structures, loyalty calculations, behavioral profiles, pressure-point maps, branching scripts, lie trees, replacement candidates, names crossed out, arrows between people and systems, and alternate versions of events. His pages move from observing structures to editing them.
+
+His unique integration rule is **sentence becomes mechanism**: an underlined noun extends into a behavioral diagram, then returns to replace a verb in the original sentence. Official prose occupies the center while private response models invade from the margins. Prediction and observation remain paired early enough to prove his intelligence; later pages force observations into the replacement model.
 
 ## Recurring motifs
 
@@ -92,3 +101,5 @@ Preserve the defined object version, narrow hand, dense relational thinking, exa
 - [ ] diagram sheet approved
 - [ ] cover/interior spread approved
 - [ ] emotional-state variants approved
+
+Current candidate board and exact sample transcriptions are indexed in [[02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards]] and [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Writing and Drawing Samples]].

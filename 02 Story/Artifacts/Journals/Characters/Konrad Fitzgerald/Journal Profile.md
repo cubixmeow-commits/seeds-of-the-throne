@@ -1,6 +1,6 @@
 ---
 type: journal-profile
-status: proposed
+status: working
 updated: 2026-08-23
 character: Konrad Fitzgerald
 journal_id: KF-JRN
@@ -12,14 +12,18 @@ journal_id: KF-JRN
 
 Konrad's patriarchal authority, bloodline doctrine, contempt for Samuel, genuine pre-defeat control, brilliant organizational leadership, cult persuasion, authorship of Samuel's impossible mission, and post-defeat migration mistake are established or working story memory. Whether Konrad personally writes the proposed exile artifact and the existence/form of this ledger remain unresolved.
 
-Physical design, handwriting, and diagrams: `proposed`. Approved identity or journal references: none. Return `NEEDS DEFINITION` if a generation requires Konrad's face, hands, exact crest, signature, or family insignia.
+Physical design, handwriting, and diagrams: `working visual development`, not approved artifact canon. Approved identity or journal references: none. Return `NEEDS DEFINITION` if a generation requires Konrad's face, hands, exact crest, signature, or family insignia.
 
 ## Physical identity
 
-- **Proposed object:** an inherited formal family ledger rather than a confessional diary.
-- Heavy durable binding, generational annotations, controlled folios, and a family ownership mark whose exact design is undefined.
-- Entries prioritize decisions, births, duties, sanctions, and lineage rather than introspection.
-- Materials, crest, dimensions, provenance, and which generations used the object require author and era approval.
+- **Working object:** a monumental dynastic ledger rather than a confessional diary, approximately 260 × 360 mm and intended for a desk or stand rather than a pocket.
+- **Cover:** dark oxblood full-grain goatskin stretched over rigid boards, blind-tooled double rules, protected dark-metal corners, and one functional clasp. The central cartouche stays blank until a family mark is approved.
+- **Binding:** raised bands and a durable sewn structure intended to imply institutional continuity. No invented antique date or manufacturing claim is permitted.
+- **Paper:** thick warm rag-like leaves with formal vertical ruling, wide inner gutter, numbered folios, and prepared spaces for rank, duty, sanction, and attestation.
+- **Instruments:** broad-nib dark sepia-black ink for declarations; narrower matching ink for quantities and attestations. No decorative red unless a later administrative code is established.
+- **Navigation:** generations and jurisdictions receive tabbed edge cuts or restrained linen markers. Headings are centered and more visually dominant than dates.
+- **Wear:** squared corners soften, clasp contact leaves dark pressure marks, and frequently reaffirmed folios show impressed writing. The object remains maintained even as its claims fail.
+- **Unresolved:** provenance, exact era, ownership succession, maker, metal composition, cartouche design, and whether any sections are written by clerks or dictated.
 
 ## Handwriting identity
 
@@ -27,11 +31,15 @@ Large, confident, disciplined, traditional, with strong capitals, straight margi
 
 Short rhetorical formulations may be drafted and recopied until they appear inevitable. Controlled repetition, parallel syntax, and carefully placed terminal phrases reflect his ability to turn complicated conditions into language followers can carry.
 
+Full construction rules and reusable exercises: [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Writing and Drawing Samples]].
+
 ## Drawing and diagram grammar
 
 Vertical lines of descent, rigid boxes, formal brackets, ordinal ranks, sanctioned and removed branches, sparse territorial or administrative plans. Diagrams presume hierarchy instead of exploring alternatives.
 
 People are classified by role in the order—service, ancestry, reliability, susceptibility to collective grievance, capacity for discipline, and risk of public dissent. Avoid duplicating Samuel's intimate pressure maps: Konrad absorbs a person into a category and shared destiny, while Samuel models the person's unique vulnerabilities.
+
+His unique integration rule is **declaration becomes structure**: a centered proposition acts as the load-bearing beam for a descending hierarchy, lineage, or territorial classification. Counterevidence can be accurately copied yet placed outside the ruled field, allowing the page itself to deny its power to revise the conclusion.
 
 ## Recurring motifs
 
@@ -67,3 +75,5 @@ Preserve disciplined hierarchy, exact transcription, object-version rules, and t
 - [ ] diagram sheet approved
 - [ ] crest/ownership mark approved
 - [ ] cover/interior spread approved
+
+Current candidate board and exact sample transcriptions are indexed in [[02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards]] and [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Writing and Drawing Samples]].

@@ -12,9 +12,11 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 0. [ ] **Use the development-first system for each priority below.** Begin with the Gap Analyzer, generate breadth cheaply, deepen only survivors, use research only when it can change the story, create only the cast required by structure, prototype one representative scene when useful, run Creative Interest plus relevant structural/listener critics, and stop at the author gate. See [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]].
 
-0a. [x] **Implement journal artifacts and Weekly Story Synthesis.** The vault now has five seeded journal profiles, including Orzai's proposed profile, plus registries, entry/image templates, forensic integration, two proposed Samuel/Konrad entries, ten weekly reports, three optional audits, and Story Loop routing. See [[02 Story/Artifacts/Journals/00 Journal System]] and [[07 Coordination/Weekly Synthesis/README]].
+0a. [x] **Implement journal artifacts and Weekly Story Synthesis.** The vault now has five seeded journal profiles, including Orzai's working visual-development profile, plus registries, entry/image templates, forensic integration, two proposed Samuel/Konrad entries, ten weekly reports, three optional audits, and Story Loop routing. See [[02 Story/Artifacts/Journals/00 Journal System]] and [[07 Coordination/Weekly Synthesis/README]].
 
 0b. [ ] **Run the first Weekly Story Synthesis and journal approval pass.** Use Deep or Exhaustive mode against the full vault, then review the queue before any promotions. Separately decide the first journal object/handwriting reference to approve; do not generate Konrad or George as visible people until identity references exist.
+
+0c. [x] **Build four distinct journal design bibles and candidate boards.** Samuel, Konrad, Sylvan, and Orzai now have differentiated physical objects, handwriting construction, drawing grammar, word/image integration, emotional variants, forensic fingerprints, extensive exact sample libraries, and object-only candidate boards. All boards remain unapproved; Sylvan's generated dates and numeric confidence are explicitly invalid placeholders. See [[02 Story/Artifacts/Journals/05 Four-Journal Differentiation Matrix]].
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 
