@@ -10,7 +10,7 @@ journal_id: KF-JRN
 
 ## Authority and scope
 
-Konrad's patriarchal authority, bloodline doctrine, contempt for Samuel, genuine pre-defeat control, and post-defeat migration mistake are working story memory. His exact personal role in Samuel's exile and the existence/form of this ledger remain unresolved.
+Konrad's patriarchal authority, bloodline doctrine, contempt for Samuel, genuine pre-defeat control, brilliant organizational leadership, cult persuasion, authorship of Samuel's impossible mission, and post-defeat migration mistake are established or working story memory. Whether Konrad personally writes the proposed exile artifact and the existence/form of this ledger remain unresolved.
 
 Physical design, handwriting, and diagrams: `proposed`. Approved identity or journal references: none. Return `NEEDS DEFINITION` if a generation requires Konrad's face, hands, exact crest, signature, or family insignia.
 
@@ -25,9 +25,13 @@ Physical design, handwriting, and diagrams: `proposed`. Approved identity or jou
 
 Large, confident, disciplined, traditional, with strong capitals, straight margins, decisive punctuation, and few visible corrections. Where Samuel draws networks, Konrad writes declarations. Increased pressure should appear as heavier force and sharper terminal marks, not sudden chaos.
 
+Short rhetorical formulations may be drafted and recopied until they appear inevitable. Controlled repetition, parallel syntax, and carefully placed terminal phrases reflect his ability to turn complicated conditions into language followers can carry.
+
 ## Drawing and diagram grammar
 
 Vertical lines of descent, rigid boxes, formal brackets, ordinal ranks, sanctioned and removed branches, sparse territorial or administrative plans. Diagrams presume hierarchy instead of exploring alternatives.
+
+People are classified by role in the order—service, ancestry, reliability, susceptibility to collective grievance, capacity for discipline, and risk of public dissent. Avoid duplicating Samuel's intimate pressure maps: Konrad absorbs a person into a category and shared destiny, while Samuel models the person's unique vulnerabilities.
 
 ## Recurring motifs
 
@@ -37,10 +41,10 @@ Unbroken line, root and crown, numbered generations, sealed branch, boundary, du
 
 | State | Story period | Written/layout change | Meaning |
 |---|---|---|---|
-| sovereign certainty | before defeat | perfect margins, minimal commentary | Reality and family order are presumed permanent. |
+| sovereign certainty | before defeat | perfect margins, compressed doctrine, audience and loyalty classifications | Reality and family order are presumed permanent; persuasion and administration reinforce one another. |
 | Samuel disposal | prewar exile | clipped administrative contempt | Samuel is beneath rivalry and treated as a problem to remove. |
 | false restoration | early containment | older headings reactivated in a new environment | Konrad mistakes continuity of form for continuity of control. |
-| isolation | later middle/endgame | still formal, but with missing attestations and proxy marks | Order survives on the page as external reality diverges. |
+| isolation | later middle/endgame | still formal, but with missing attestations, harsher loyalty categories, ritual reaffirmations, and proxy marks | Order survives on the page as independent evidence and external reality diverge. |
 
 ## Content and knowledge rules
 

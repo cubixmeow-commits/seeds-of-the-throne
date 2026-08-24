@@ -11,6 +11,8 @@ themes: authoritarian failure, story engine, leadership cultivation, morality, L
 
 The contained fascist system supplies recurring stories because its failures grow from its own operating principles. Outside opposition does not need to invent every weakness. The hierarchy repeatedly creates the conditions for betrayal, misjudgment, corruption, and collapse.
 
+Konrad demonstrates the governing character principle: authoritarian failure does not require an unintelligent leader. His strategic, persuasive, and organizational abilities create real early success. The same abilities become self-defeating when ideological certainty, personal authority, loyalty selection, and contempt for limits prevent correction. Capability explains why the system becomes powerful; its operating principles explain why that power becomes brittle.
+
 ## Self-generated weaknesses
 
 ### Absolute hierarchy suppresses correction

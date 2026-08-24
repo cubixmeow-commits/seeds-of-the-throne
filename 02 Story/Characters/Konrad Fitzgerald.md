@@ -23,6 +23,57 @@ Konrad is approximately **300 years old** at the final showdown with Sylvan. His
 
 The breeding program is Konrad's most cherished initiative.
 
+## Personality and leadership
+
+**Established:** Konrad is brilliant and effective as a leader and criminal, with powerful persuasive and cult-leader qualities. His eventual defeat grows from the authoritarian corruption of real ability rather than hidden incompetence.
+
+Konrad is controlled, commanding, ideologically certain, and extraordinarily effective at turning fear, grievance, belonging, and ambition into collective obedience. He presents himself as the person willing to name the danger, impose order, accept historical responsibility, and lead followers toward a destiny that weaker people refuse to recognize.
+
+His central traits are:
+
+- grandiose historical purpose expressed with discipline rather than frivolity;
+- absolute moral certainty and binary classification;
+- personal magnetism, selective warmth, and an excellent memory for service, family ties, injuries, and ambition;
+- strategic imagination, patience, and institutional intelligence;
+- theatrical command of symbols, ritual, timing, and collective emotion;
+- contempt for pluralism, compromise, vulnerability, and ordinary limits;
+- grievance transformed into doctrine and manufactured enemies;
+- a demand for loyalty that gradually suppresses truthful correction;
+- escalating suspicion when reality stops confirming his promises;
+- an inability to experience retreat as anything other than humiliation or correction as anything other than disloyalty.
+
+Konrad can make followers feel individually recognized while binding that recognition to the movement. He gives them a complete explanation of who they are, why they have suffered, who betrayed them, what history demands, and which sacrifices prove belonging. He alternates paternal approval with moral exclusion, turns obedience into identity, presents cruelty as reluctant duty, and gives followers permission to act on fears, resentments, and ambitions they might otherwise resist.
+
+His intelligence is primarily organizational and historical. He can turn diffuse grievance into a disciplined movement, recruit specialists, unite competing factions around a shared enemy, simplify complex conditions into repeatable doctrine, build parallel loyalty structures inside ordinary institutions, and sequence legality, patronage, intimidation, propaganda, institutional capture, and force. He makes criminal acts feel administrative, honorable, and inevitable.
+
+Konrad is capable of tactical lies, staged evidence, concealment, and euphemism, but he is not a habitual individualized liar in Samuel's mode. He genuinely believes the central myth and treats falsehood as a permitted instrument in service of what he considers a higher truth. Disproving one claim therefore rarely penetrates the worldview that authorized it.
+
+In private, he remains ideological but can show dry humor, restrained affection, mentorship, and genuine pride toward people he believes embody his order. These real social rewards help explain why intelligent followers love him, not merely why frightened followers obey him.
+
+### Strengths becoming failure
+
+Konrad's weaknesses are corruptions of his strengths:
+
+- conviction becomes impermeability;
+- discipline becomes suppression of dissent;
+- strategic simplification becomes false binary thinking;
+- loyalty-building selects against honest reporting;
+- mythic purpose makes material constraints seem contemptible;
+- successful risk-taking becomes escalation without an exit;
+- public certainty traps him inside claims he cannot revise;
+- centralized control makes the organization brittle and gives Samuel a concentrated system to capture;
+- contempt for outsiders prevents him from recognizing Samuel as a genuine strategic rival.
+
+Konrad can design Samuel's failure because Samuel is beneath him and therefore available for cold analysis. He cannot plan around his own Great War defeat because that possibility attacks the sacred identity from which he reasons.
+
+### Distinction from Samuel
+
+**Konrad builds believers; Samuel builds dependencies.**
+
+Konrad manipulates groups through identity, destiny, ritual, doctrine, and belonging. Samuel reads individuals through insecurity, status hunger, jealousy, fear, and self-deception. Konrad wants people to become extensions of an order he considers sacred. Samuel wants their experienced reality to depend on his interpretation.
+
+Samuel eventually uses Konrad's own cult-leader blind spot against him. He offers the one story Konrad cannot resist: defeat was not defeat, the dynasty still flourishes, and history still recognizes Konrad as its rightful patriarch.
+
 ## The original organization
 
 Konrad's movement predates Samuel's rise and is the organization into which Samuel is born.
@@ -166,7 +217,7 @@ Sylvan suspects Samuel continues controlling or blackmailing Konrad through one 
 ## Open questions
 
 - What title does the faction give Konrad?
-- What exact role does Konrad play in Samuel's original exile?
+- Why does Konrad choose the impossible mission as the form of Samuel's disposal, how does he guarantee failure, and who operationally implements it?
 - What additional conduct beyond the underage relationship causes Samuel's expulsion?
 - What national or imperial base does Konrad's movement control before attempting world conquest?
 - Which strategic failures make the Great War defeat inevitable even without Samuel's sabotage?

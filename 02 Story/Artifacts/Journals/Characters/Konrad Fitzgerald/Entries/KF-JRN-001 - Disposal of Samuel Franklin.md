@@ -37,7 +37,7 @@ If approved, the entry can prove that the flattering conquest mission concealed 
 
 ## Author gate
 
-- [ ] Konrad's exact role in exile established
+- [x] Konrad's responsibility for assigning the impossible mission established
 - [ ] material sanctions established
 - [ ] author/dictation/countersignature established
 - [ ] visible wording approved
