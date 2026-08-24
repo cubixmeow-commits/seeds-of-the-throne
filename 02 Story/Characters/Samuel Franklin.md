@@ -2,12 +2,16 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-21
+updated: 2026-08-23
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
 
 # Samuel Franklin
+
+## Journal artifact
+
+Samuel's working physical/written artifact profile is [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Journal Profile]]. It develops his movement from curated importance through surveillance discovery into invasive replacement diagrams. The profile and proposed entry do not resolve the exact revealing record, access channel, visible wording, or forensic proof.
 
 ## Established identity
 

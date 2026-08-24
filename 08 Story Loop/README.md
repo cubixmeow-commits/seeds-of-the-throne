@@ -2,7 +2,7 @@
 type: story-loop-index
 status: active
 version: 0.2
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Story Loop
@@ -16,6 +16,12 @@ The Story Loop is a human-readable, Obsidian-native development environment for 
 3. Choose Micro, Standard, Deep, or Cascade mode.
 4. Route only to the modules needed for the uncertainty.
 5. Stop at the author gate before promotion.
+
+## Weekly intake
+
+[[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]] is the high-capacity diagnostic front end for the loop. Its dated reports may reconstruct the story, rank gaps, mine scenes, and recommend maintenance, but they do not establish canon. Route selected `BUILD NOW` and `BRAINSTORM NEXT` items through the Gap Analyzer and Development Orchestrator. Preserve `LEAVE OPEN` items as deliberate ambiguity until a revisit trigger occurs.
+
+Character journals and other physical records are indexed under [[02 Story/Artifacts/Journals/00 Journal System|Character Journal Artifact System]]. Treat proposed artifacts as evidence/scene candidates until their story facts, knowledge state, provenance, and author gate are resolved.
 
 ## v0.1 target
 

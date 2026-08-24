@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Questions
@@ -30,3 +30,7 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-018 | What is the containment hierarchy in practical terms, what makes a contained criminal “primary,” and what exact integration event locks structural priority? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |
 | Q-019 | What does Konrad reactivate or migrate inside Samuel's bounded jurisdiction, what control follows automatically versus through later manipulation, and what remains genuinely Konrad's? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |
 | Q-020 | What is Samuel's exact lie, why does Konrad believe it while still regarding Samuel as an outsider, what evidence exists, and why can the hierarchy not simply be reset? | [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]] | open |
+| Q-021 | Did Konrad personally write, dictate, approve, or merely know about the derogatory exile plan represented by proposed artifact KF-JRN-001? | [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Entries/KF-JRN-001 - Disposal of Samuel Franklin]] | open |
+| Q-022 | What exact record first reveals the truth of Samuel's exile after the faction enters his broader containment environment, and how is that record authenticated later? | [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Entries/SF-JRN-001 - The Exile Record Changes Meaning]] | open |
+| Q-023 | Which object, handwriting, diagram, and interior-spread reference should be approved first for Samuel, Konrad, Sylvan, and George? | [[02 Story/Artifacts/Journals/01 Journal Registry]] | open |
+| Q-024 | When should the first full-vault Weekly Story Synthesis run, and which optional modules should the first baseline include? | [[07 Coordination/Weekly Synthesis/CONFIG]] | open |

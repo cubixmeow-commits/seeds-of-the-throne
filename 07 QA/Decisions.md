@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Decisions
@@ -64,3 +64,6 @@ updated: 2026-08-21
 | 2026-08-21 | Make the vault development-first: finished-novel prose is downstream, while short readable non-canon prototypes are the default story-rendering test during development. | The current task is to discover and test story structure cheaply; prototype clarity exposes weak ideas without attaching the project to prematurely polished prose. |
 | 2026-08-21 | Use general high-level *Expeditionary Force*-associated storytelling principles for development without imitating Craig Alanson's exact prose or distinctive expression. | Clear immediate objectives, active problem-solving, conversational exposition, competence, escalation, and listener orientation are transferable structural techniques; the final voice must remain Seeds-specific and author-controlled. |
 | 2026-08-21 | Establish the containment boundary: Konrad genuinely controlled his own city, never considered failure, and loses jurisdiction only after entering/reactivating within the largest empire's containment environment; Samuel remains an outsider but has earlier first-primary structural priority and a separate bounded jurisdiction there. | This corrects the earlier implication that Konrad's organization began inside Samuel's environment while preserving the accepted migration hinge. Practical hierarchy mechanics remain unresolved for the dedicated author-led brainstorm. |
+| 2026-08-23 | Establish a vault-native Character Journal Artifact System with separate story authority, physical-design, handwriting, diagram, image-approval, and evidence/provenance states. | Journals must remain consistent, character-specific story objects and usable forensic evidence without allowing attractive generated pages to establish canon. |
+| 2026-08-23 | Seed journal profiles for Samuel Franklin, Konrad Fitzgerald, Sylvan Elaria, and George; retain Samuel's surveillance-discovery timing while keeping the exact record, access path, and chat-derived page wording unresolved. | The four profiles create distinct visual languages and preserve the author's timing correction without silently deciding containment mechanics or Konrad's exact authorship role. |
+| 2026-08-23 | Establish Weekly Story Synthesis as a dated, non-overwriting diagnostic intake to the Story Loop with ten core reports, optional high-capacity audits, and BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN queues. | End-of-cycle analysis should determine what the development system works on next while preserving deliberate ambiguity and the author promotion gate. |

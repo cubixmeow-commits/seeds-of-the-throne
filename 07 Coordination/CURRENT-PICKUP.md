@@ -1,7 +1,7 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 scope: single current pickup point
 ---
 
@@ -10,6 +10,14 @@ scope: single current pickup point
 This is the single current pickup point for the next Seeds session. Older dated desktop pickups and `MOBILE-HANDOFF.md` are historical context, not competing instructions.
 
 ## What is complete
+
+The Character Journal Artifact System and Weekly Story Synthesis v1.0 are implemented.
+
+- [[02 Story/Artifacts/Journals/00 Journal System]] defines physical design, handwriting, drawing grammar, motifs, emotional evolution, reference approval, entries, and evidence/forensic use. Samuel Franklin, Konrad Fitzgerald, Sylvan Elaria, and George have seeded profiles. Two chat-derived pages are stored as proposed artifacts, not canon.
+- [[07 Coordination/Weekly Synthesis/README]] provides ten dated core reports, three optional high-capacity audits, a master prompt, configuration, run manifest, and direct routing into the Gap Analyzer and Gauntlet.
+- Samuel learns the truth of his exile after Konrad and the defeated faction enter the same broader containment environment and the surveillance inversion begins. The exact record, channel, permissions, and evidentiary path remain unresolved.
+
+These systems do not replace the active author-led containment session below.
 
 The August 21 development-system integration is complete.
 

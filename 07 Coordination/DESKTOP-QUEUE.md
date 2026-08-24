@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Desktop Implementation Queue
@@ -49,6 +49,14 @@ No desktop-only implementation is currently queued. Resume creative development 
 - **Unresolved:** choices the desktop session must not invent
 
 ## Completion log
+
+### 2026-08-23 — Character journals and Weekly Story Synthesis v1.0
+
+- **Status:** completed
+- **Source:** Analyze Betrayal Motives continuation and desktop integration request
+- **Result:** Added the journal artifact system with registries, templates, reference policy, forensic rules, Samuel/Konrad/Sylvan/George profiles, and two proposed entries; added the ten-report Weekly Story Synthesis, optional editorial/causal/readiness modules, master prompt, configuration, and Story Loop/Gauntlet routing; updated current context, QA, TODO, and handoff notes.
+- **Preserved unresolved:** Konrad's exact role and wording in the exile plan; the first revealing record; surveillance permissions and limits; journal materials; Konrad/George identity references; all journal-specific visual approvals; and all author-gated story promotion.
+- **Next action:** Continue Question 2 in the active containment-hierarchy packet, or run the first full-vault synthesis when the author chooses the end-of-cycle baseline.
 
 ### 2026-08-21 — Development-first environment integration
 

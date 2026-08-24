@@ -2,7 +2,7 @@
 type: coordination-system
 status: active
 version: 0.2
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Seeds Story Gauntlet
@@ -20,6 +20,8 @@ Version 0.2 is implemented as a manual, Markdown-first development system under 
 7. Record the run under `08 Story Loop/Runs/`.
 
 The current active author packet is [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]. The next session begins with its first practical-hierarchy question and may not infer later mechanics.
+
+The periodic high-capacity intake is [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]]. It reconstructs current state, ranks gaps, and creates `BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN` queues. It feeds this Gauntlet but cannot bypass an author gate or promote its own outline.
 
 > Build. Attack. Resolve. Integrate. Advance.
 

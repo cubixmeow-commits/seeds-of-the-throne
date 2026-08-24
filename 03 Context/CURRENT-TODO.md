@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Current Brainstorming To-Do
@@ -11,6 +11,10 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 ## Current sequence
 
 0. [ ] **Use the development-first system for each priority below.** Begin with the Gap Analyzer, generate breadth cheaply, deepen only survivors, use research only when it can change the story, create only the cast required by structure, prototype one representative scene when useful, run Creative Interest plus relevant structural/listener critics, and stop at the author gate. See [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]].
+
+0a. [x] **Implement journal artifacts and Weekly Story Synthesis.** The vault now has four seeded journal profiles, registries, entry/image templates, forensic integration, two proposed Samuel/Konrad entries, ten weekly reports, three optional audits, and Story Loop routing. See [[02 Story/Artifacts/Journals/00 Journal System]] and [[07 Coordination/Weekly Synthesis/README]].
+
+0b. [ ] **Run the first Weekly Story Synthesis and journal approval pass.** Use Deep or Exhaustive mode against the full vault, then review the queue before any promotions. Separately decide the first journal object/handwriting reference to approve; do not generate Konrad or George as visible people until identity references exist.
 
 1. [ ] **Define Konrad Fitzgerald's fanatic partner.** Give the senior contained faction a second sincere ideological leader: name, personality, doctrine, relationship to Konrad, organizational role, family, and eventual relationship to Samuel Franklin.
 

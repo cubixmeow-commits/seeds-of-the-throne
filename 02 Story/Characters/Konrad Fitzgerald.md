@@ -2,12 +2,16 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-21
+updated: 2026-08-23
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, original conquest leader, contained criminal
 ---
 
 # Konrad Fitzgerald
+
+## Journal artifact
+
+Konrad's proposed inherited-ledger profile is [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Journal Profile]]. [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Entries/KF-JRN-001 - Disposal of Samuel Franklin]] preserves the chat-derived contempt/exile-page concept behind an author gate; it does not establish that Konrad personally wrote or dictated the plan.
 
 ## Established identity
 

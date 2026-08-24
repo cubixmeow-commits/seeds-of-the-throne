@@ -1,12 +1,16 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-15
+updated: 2026-08-23
 character: George White
 theme: awakening, weaponization, and consequence
 ---
 
 # George White — The Collapse of the Lie
+
+## Journal artifact
+
+George's proposed issued-to-independent journal evolution is [[02 Story/Artifacts/Journals/Characters/George/Journal Profile]]. The object, issuer, monitoring method, identity reference, entries, and exact awakening sequence remain unresolved.
 
 ## Central endgame concept
 

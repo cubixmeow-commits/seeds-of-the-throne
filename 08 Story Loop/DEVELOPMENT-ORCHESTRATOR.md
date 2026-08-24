@@ -1,7 +1,7 @@
 ---
 type: development-system
 status: active
-updated: 2026-08-21
+updated: 2026-08-23
 scope: end-to-end routing for story development
 ---
 
@@ -30,6 +30,8 @@ Declare:
 
 Default to `close-gap`. Use Cascade only when the author asks to move from broad structure into a representative story sample in one run.
 
+If the target comes from [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]], copy its source paths, authority labels, queue classification, and exact stop condition into the run. The synthesis ranking recommends where to work; it does not bypass this orchestrator or the author gate.
+
 ## Step 2 — Retrieve and classify
 
 Build one compact context packet from direct sources. Separate:
@@ -57,6 +59,7 @@ Run [[08 Story Loop/GAP-ANALYZER]]. Select one highest-value gap or one tightly 
 - **Need scene propulsion/clarity:** use [[08 Story Loop/PROBLEM-SOLVING-STORY-ENGINE]].
 - **Need to feel the candidate as story:** use [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]].
 - **Need finished prose:** route separately to the prose workflow only after explicit selection and sufficient structural stability.
+- **Need an artifact or evidence node:** use [[02 Story/Artifacts/Journals/00 Journal System|the journal artifact contract]] or the applicable evidence record, then test authorship, knowledge, custody, authentication, reveal, and consequence before scene development.
 
 Routes may combine, but every module must answer a specific uncertainty.
 
@@ -141,6 +144,7 @@ Only after approval:
 
 - update the relevant Story Unit or compiled note with explicit status;
 - update dependencies and open questions;
+- link any weekly-synthesis queue item or journal/evidence record that initiated the run;
 - record consequential decisions or contradictions in `07 QA/`;
 - preserve rejected alternatives when useful;
 - record a compact next state rather than the entire reasoning transcript.
