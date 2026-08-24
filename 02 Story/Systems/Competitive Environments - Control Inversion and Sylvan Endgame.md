@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-09
+updated: 2026-08-23
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
@@ -151,6 +151,16 @@ The King's final dilemma becomes:
 **Continue the story, and guarantee that the manipulation becomes so obvious that everyone else eventually sees it too.**
 
 There is no longer a path back to secrecy. Only a choice about **who discovers the truth first.**
+
+## The eighty-year revolution controls its creator
+
+Samuel's original manipulation of Konrad is brilliant. He reads Konrad's need to experience defeat as restoration and dependency as continued patriarchal authority. The migration succeeds because Samuel makes Konrad's cooperation feel like proof that Konrad remains in command.
+
+Across roughly eighty years, Samuel's surveillance access exposes him to Konrad's personal conversations and repeated contempt for Samuel. Strategic access becomes an emotional injury source. Revenge expands the bounded coup into a revolution against Konrad's identity, bloodlines, followers, history, and place at the top.
+
+Samuel eventually depends on maintaining too many connected realities to withdraw cleanly. George must keep believing victory is possible. Konrad and the loyal older generation must remain isolated from the corrupted descendants and organization-wide pattern. Families must continue believing their lineage compromises are separate. Proxies must carry incompatible accounts without comparing them. The false genealogies must remain authoritative.
+
+The revolution becomes a dependency network that controls Samuel's choices. He is intelligent enough to understand that each new intervention increases exposure, but rage and fear make non-intervention feel even more dangerous. Sylvan's final environment turns that conflict into evidence: every unnecessary correction, sign, attack, proxy instruction, or effort to preserve George's story demonstrates that Samuel remains the hidden active commander.
 
 ## Why the signs continue after they stop working
 

@@ -66,14 +66,16 @@ Broken branches reconnected under his name; crowns reduced to nodes; enclosures 
 | State | Story period | Written/layout change | Meaning |
 |---|---|---|---|
 | performed importance | exile/early containment | spacious, curated, explanatory; sharp profiles of allies and targets | Samuel expects history to vindicate him and accurately identifies what others need to hear. |
-| surveillance discovery | post-defeat migration | tighter annotations, layered cross-references, and audience-specific lie trees | Humiliation acquires documentary proof and becomes a manipulation campaign. |
-| bloodline capture | False Victory middle | trees become editable systems; names and beliefs are both treated as controllable variables | Revenge becomes control of belonging and perceived reality. |
-| attempted replacement | later Throne | Konrad's forms appear inside Samuel's hand; contradictory evidence is forced into increasingly elegant models | Samuel frames himself as continuity while jealousy begins corrupting excellent analysis. |
-| exposure | endgame | conflicting inks, corrections, and provenance become legible to others | The archive he curated can testify against him. |
+| surveillance discovery | post-defeat migration | tighter annotations, layered cross-references, audience-specific lie trees, and captured negative statements about Samuel | Humiliation acquires documentary proof and becomes a manipulation campaign. |
+| bloodline capture | False Victory middle | trees become editable systems; names and beliefs are treated as controllable variables; exceptions and dependencies multiply | Revenge becomes control of belonging and perceived reality while the coup expands into revolution. |
+| attempted replacement | later Throne | Konrad's forms appear inside Samuel's hand; contradictory evidence is forced into increasingly elegant models; every audience requires its own maintenance branch | Samuel frames himself as continuity while jealousy corrupts excellent analysis and the revolution begins directing him. |
+| exposure | endgame | conflicting inks, corrections, emergency scripts, and provenance become legible to others | The archive he curated becomes a map of the interventions he cannot stop making. |
 
 ## Content and knowledge rules
 
 Samuel may record conclusions as certainties while bending evidence toward them. He is exceptionally accurate at reading motives and predicting behavior, but he cannot know the surveillance system's full design, legitimate oversight, private facts outside his access, or choices grounded in values he refuses to respect. Separate genuine observations, strategic inferences, audience-specific lies, self-dramatization, forged history, and later annotations.
+
+Surveillance-derived statements about Samuel must be tied to an available channel, date, speaker, and plausible record. Their emotional effect may be established while exact quotations remain unresolved. Over time, distinguish the original plan from later revenge annotations so the physical journal can show objective drift and expanding maintenance burden.
 
 ## Evidence and forensics
 

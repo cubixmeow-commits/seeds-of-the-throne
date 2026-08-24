@@ -111,6 +111,22 @@ Through that access, Samuel learns why he was really sent away, what the faction
 
 **Unresolved:** Samuel never conquered the victorious empire. The practical hierarchy, definition of primary, exact lock event and purpose, what Samuel knew and when, precise lie, reactivation/migration procedure, automatic versus later powers, communication layer, institutional brokerage, credentials, administrative visibility, first revealing record, duration, reset limits, and observation boundaries all remain open. The mechanism must preserve agency and cannot become magical omniscience. Resolve it only through [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 
+## From brilliant coup to uncontrolled revolution
+
+Samuel's manipulation of Konrad is brilliant and effective. He understands that Konrad cannot psychologically accept ordinary defeat, subordination, or dependence on a disgraced outsider. Samuel therefore presents the migration as restoration: Konrad remains the rightful patriarch, while Samuel is merely the useful subordinate returning Konrad's machinery and empire to him. The lie succeeds because it protects Konrad's identity while inducing the exact authorization Samuel needs.
+
+Across roughly eighty years, Samuel's access includes Konrad's personal conversations and the older leadership's private discussions. He repeatedly hears intensely negative judgments of himself: contempt, dismissal, humiliation, and the assumption that he remains permanently beneath them. The access that gives Samuel strategic mastery also becomes a continuous source of personal injury.
+
+His objective escalates:
+
+`control the migrated organization -> punish the people who rejected him -> corrupt what they value -> replace Konrad -> force the whole system to validate Samuel -> preserve the revolution after it no longer serves a coherent objective`
+
+Samuel's impulsiveness and rage do not erase his intelligence. They keep changing what victory means. Each brilliant short-term manipulation creates another bloodline intervention, false genealogy, synthetic substitution, proxy, isolated audience, manipulated descendant, or maintained reality that must be protected. The original coup expands into a revolution Samuel can no longer fully direct or safely end.
+
+This loss of control becomes causal to his final defeat. Samuel cannot stop maintaining George's false reality, Konrad's isolation, the proxy stories, and the concealed genealogy without risking cascading discovery. Continuing the manipulation creates new evidence of active command. Sylvan's final bounded environment makes restraint the strategically correct choice, but Samuel's rage, obsession, and fear of disclosure make restraint emotionally impossible. His voluntary attempts to keep the revolution alive help trap and expose him.
+
+Samuel is not defeated because his manipulation of Konrad was foolish. He is defeated because a brilliant coup becomes an eighty-year revenge system whose maintenance demands eventually control its creator.
+
 ## Revenge against the bloodlines
 
 Samuel's later targeting of the Fitzgerald breeding program is rooted directly in exile.

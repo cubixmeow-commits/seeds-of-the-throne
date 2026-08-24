@@ -4,7 +4,7 @@ unit_id: S-018
 completeness: partial
 authority: established-principle
 run_state: ready-for-brainstorm
-updated: 2026-08-20
+updated: 2026-08-23
 ---
 
 # S-018 — Obsession Reversal and Inverted Containment
@@ -25,6 +25,8 @@ Use Sylvan's successfully completed human–Luminai bond to turn Samuel and Geor
 
 **Working:** Samuel and George believe they understand how desperate contained people can be steered by giving them evidence that matches what they most need to believe.
 
+**Established direction:** Samuel's brilliant post-defeat manipulation of Konrad expands across roughly eighty years into a revenge-driven revolution. Access to Konrad's private contempt intensifies Samuel's rage. By the end Samuel must keep servicing George's reality, Konrad's isolation, proxy accounts, and false genealogies because stopping any one layer risks cascading exposure.
+
 ## Goal
 
 **Sylvan:** Expose the active command structure, stop the attacks, and preserve usable evidence without performing Samuel's intended destruction of George.
@@ -44,6 +46,8 @@ Sylvan must offer a believable apparent path toward what Samuel and George expec
 **Established outcome:** Sylvan's successful completion of the unprecedented human–Luminai bond is what makes stopping Samuel and George possible.
 
 **Established inversion:** Samuel and George's campaign against Sylvan is the ordeal that completes the bond. They create the pressure required for Sylvan and his Luminai to achieve the development they are trying to stop.
+
+**Established character cause:** Samuel loses control of the revolution because impulsiveness, rage, obsession, and fear of disclosure keep him intervening after strategic restraint would be safer. The final trap must expose Samuel through choices he voluntarily makes to preserve the system.
 
 **Unresolved:** Which capability of the completed bond is decisive; why it could not act earlier; its costs and limits; and the exact bait, environment, permissions, evidence, ethical safeguard, proof of command, point of realization, and George's remaining choice.
 
