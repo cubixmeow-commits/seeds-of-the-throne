@@ -35,6 +35,8 @@ The movement requires threats to justify emergency power and internal unity. Pea
 
 Public stories initially protect the regime from consequences. Over time, leaders make decisions using their own revisions. Defeat becomes secret victory, failures become sabotage, and suppressed evidence becomes proof of conspiracy. The system loses contact with reality while increasing the punishment for anyone who restores it.
 
+Konrad's arrogance intensifies this mechanism. He is desperate to remain the winner and cannot admit that an inferior opponent correctly judged his limits. When material victory becomes impossible, he tries to control the meaning of defeat. This makes Samuel's False Victory emotionally useful before it becomes institutionally compulsory: it lets Konrad preserve patriarchal identity while authorizing the dependencies that subordinate him.
+
 ### Permanent patriarchs make succession impossible
 
 Descendants are expected to extend the founders' power without becoming independent enough to replace them. Every capable heir becomes a threat; every submissive heir becomes inadequate. The hierarchy therefore produces repeated replacement plots, disposable children, hidden contingencies, and conflict between continuity and control.

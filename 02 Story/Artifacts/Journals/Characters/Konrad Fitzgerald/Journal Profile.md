@@ -35,7 +35,7 @@ People are classified by role in the order—service, ancestry, reliability, sus
 
 ## Recurring motifs
 
-Unbroken line, root and crown, numbered generations, sealed branch, boundary, duty, inheritance, removal without reconsideration.
+Unbroken line, root and crown, numbered generations, sealed branch, boundary, duty, inheritance, removal without reconsideration, victory through every transition.
 
 ## Emotional and chronological evolution
 
@@ -43,16 +43,17 @@ Unbroken line, root and crown, numbered generations, sealed branch, boundary, du
 |---|---|---|---|
 | sovereign certainty | before defeat | perfect margins, compressed doctrine, audience and loyalty classifications | Reality and family order are presumed permanent; persuasion and administration reinforce one another. |
 | Samuel disposal | prewar exile | clipped administrative contempt | Samuel is beneath rivalry and treated as a problem to remove. |
-| false restoration | early containment | older headings reactivated in a new environment | Konrad mistakes continuity of form for continuity of control. |
-| isolation | later middle/endgame | still formal, but with missing attestations, harsher loyalty categories, ritual reaffirmations, and proxy marks | Order survives on the page as independent evidence and external reality diverge. |
+| Great War collapse | defeat and processing | accurate material totals paired with euphemistic phase language; no explicit defeat heading | Konrad preserves the winner's identity by refusing the event's plain meaning. |
+| false restoration | early containment | older headings reactivated in a new environment; migration called reclamation or continuation | Konrad mistakes continuity of form for continuity of control. |
+| isolation | later middle/endgame | still formal, but with triumphant headings over shrinking totals, missing attestations, harsher loyalty categories, ritual reaffirmations, and proxy marks | Order and victory survive on the page as independent evidence and external reality diverge. |
 
 ## Content and knowledge rules
 
-Konrad writes doctrine and decision, not authorial truth. He cannot record awareness of Samuel's jurisdictional coup before he has evidence of it. His contempt can coexist with technical dependence. Distinguish entries written by Konrad, dictated by him, countersigned by others, or added by later hands.
+Konrad writes doctrine and decision, not authorial truth. He cannot record awareness of Samuel's jurisdictional coup before he has evidence of it. His contempt can coexist with technical dependence. He avoids the vocabulary of defeat: withdrawals become consolidations, destroyed structures become completed phases, containment becomes transferred jurisdiction, and dependence becomes delegated implementation. Distinguish entries written by Konrad, dictated by him, countersigned by others, or added by later hands.
 
 ## Evidence and forensics
 
-Potential evidence includes original exile authorization, program migration approvals, old lineage conventions, missing attestations, later false annotations, and differences between Konrad's hand and Samuel's imitations. Authorship and custody remain essential.
+Potential evidence includes original exile authorization, program migration approvals, old lineage conventions, missing attestations, later false annotations, differences between Konrad's hand and Samuel's imitations, and the widening contradiction between declining material totals and increasingly triumphant classifications. Authorship and custody remain essential.
 
 ## Visual generation contract
 

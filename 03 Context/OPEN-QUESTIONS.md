@@ -65,6 +65,7 @@ updated: 2026-08-21
 - Is George's apparent-success role separate from, prior to, or the first of his later three public roles?
 - Which parent remains susceptible to Samuel's performance of reconciliation, and what access does that relationship give him during the war?
 - Which acts of sabotage materially worsen the conquest's failure while preserving Konrad's authoritarian errors as the primary cause?
+- What is the first limited defeat Konrad refuses to acknowledge during the Great War, which adviser offers a recoverable retreat, and what does Konrad do to preserve the appearance of inevitable victory?
 - What control does Samuel falsely claim after defeat, what bounded jurisdiction and structural priority does he really possess, and why can the faction not verify the difference independently?
 - What must Konrad reactivate, migrate, connect, adopt, authorize, or disclose for observation and dependency to develop, and which technical, institutional, or consent limits prevent omniscience?
 - What first private conversation or record proves that Konrad designed the takeover mission to fail, how long does Samuel preserve the surveillance deal, and which later genealogy or blackmail capabilities depend on what he learns?
@@ -83,6 +84,7 @@ updated: 2026-08-21
 - What specific discovery drives Konrad into hiding, and which parts of the compromised program does he understand at that point?
 - Which proxy or chain of proxies carries Samuel's blackmail or control to Konrad?
 - Does Konrad learn that every participating bloodline was targeted and that the campaign was a coup before, during, or after the results presentation?
+- What part of Sylvan's final evidence is hardest for Konrad to reinterpret as victory, and can he ever make one genuine concession?
 
 ## Story functionality
 

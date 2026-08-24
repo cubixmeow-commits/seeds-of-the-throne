@@ -74,6 +74,22 @@ Konrad manipulates groups through identity, destiny, ritual, doctrine, and belon
 
 Samuel eventually uses Konrad's own cult-leader blind spot against him. He offers the one story Konrad cannot resist: defeat was not defeat, the dynasty still flourishes, and history still recognizes Konrad as its rightful patriarch.
 
+### Arrogance and the compulsion to win
+
+**Established:** Konrad is profoundly arrogant, cannot accept consequential defeat, and is desperate to remain or become the winner. This is one of his most important exploitable personality traits.
+
+His arrogance is not limited to boasting. He assumes hierarchy expresses reality and that a person of his supposed rank cannot be finally judged, defeated, or subordinated by people he considers inferior. Evidence of loss therefore becomes evidence, in his mind, that the true contest has been misunderstood, sabotaged, interrupted, or driven into a hidden phase.
+
+Konrad can accept setbacks only when they can be classified as chosen sacrifices, consolidations, purifications, tactical withdrawals, or stages of a larger victory. He cannot accept an outcome in which an opponent was right about his limits or in which he is no longer the final source of meaning.
+
+This compulsion explains his escalating Great War failure. A recoverable retreat would require acknowledging that pluralistic opponents and honest subordinates understood something he denied. He instead increases the stakes, suppresses correction, and sacrifices material options to protect the appearance of inevitable victory.
+
+After the Great War, Konrad urgently needs an interpretation that preserves command and destiny. Samuel offers exactly that. Containment becomes covert positioning; dependency becomes use of a subordinate specialist; migration into Samuel's jurisdiction becomes restoration; George's humiliating failure becomes successful infiltration. Konrad accepts the dangerous structure because it allows him to experience subordination as continued leadership.
+
+His contempt for Samuel deepens the trap. Recognizing Samuel's coup would require accepting defeat by both the largest empire and the expelled outsider Konrad considered beneath rivalry. Konrad can distrust Samuel, rage at him, and punish intermediaries while still protecting the central story Samuel supplies: Konrad remains the winner and Samuel remains merely his instrument.
+
+As real power contracts, Konrad becomes more rigid about titles, ceremony, lineage, obedience, and symbolic demonstrations of victory. Each short-term defense of status reduces honest information, increases dependence on Samuel, and makes eventual exposure more devastating.
+
 ## The original organization
 
 Konrad's movement predates Samuel's rise and is the organization into which Samuel is born.
@@ -221,6 +237,7 @@ Sylvan suspects Samuel continues controlling or blackmailing Konrad through one 
 - What additional conduct beyond the underage relationship causes Samuel's expulsion?
 - What national or imperial base does Konrad's movement control before attempting world conquest?
 - Which strategic failures make the Great War defeat inevitable even without Samuel's sabotage?
+- What is the first limited defeat Konrad refuses to acknowledge, which adviser proposes a recoverable retreat, and how does Konrad punish or silence that correction?
 - What specific information does Samuel obtain from his parents during the war?
 - When does Konrad first suspect Samuel materially contributed to the defeat?
 - What is the containment hierarchy in practical terms, what does Konrad reactivate inside Samuel's bounded jurisdiction, and what remains genuinely under Konrad's authority?
@@ -231,3 +248,4 @@ Sylvan suspects Samuel continues controlling or blackmailing Konrad through one 
 - Which proxy carries Samuel's blackmail or control into Konrad's isolation?
 - Is Konrad hiding primarily from victims, his faction, the legitimate system, Samuel, or all four?
 - At what point does Konrad understand that Samuel is not trying to return to the Fitzgerald order but replace him?
+- What part of Sylvan's final evidence is hardest for Konrad to redefine as another form of victory, and can he ever make one genuine concession?

@@ -154,7 +154,7 @@ There is no longer a path back to secrecy. Only a choice about **who discovers t
 
 ## The eighty-year revolution controls its creator
 
-Samuel's original manipulation of Konrad is brilliant. He reads Konrad's need to experience defeat as restoration and dependency as continued patriarchal authority. The migration succeeds because Samuel makes Konrad's cooperation feel like proof that Konrad remains in command.
+Samuel's original manipulation of Konrad is brilliant. He reads Konrad's profound arrogance, inability to accept defeat, and desperation to remain the winner. He presents defeat as restoration, containment as covert positioning, and dependency as continued patriarchal authority. The migration succeeds because Samuel makes Konrad's cooperation feel like proof that Konrad remains in command. Konrad's contempt for Samuel intensifies the blind spot: recognizing the trick would require admitting that a disgraced inferior defeated him after the Great War already had.
 
 Across roughly eighty years, Samuel's surveillance access exposes him to Konrad's personal conversations and repeated contempt for Samuel. Strategic access becomes an emotional injury source. Revenge expands the bounded coup into a revolution against Konrad's identity, bloodlines, followers, history, and place at the top.
 

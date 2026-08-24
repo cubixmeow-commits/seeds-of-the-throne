@@ -115,7 +115,9 @@ Through that access, Samuel learns why he was really sent away, what the faction
 
 ## From brilliant coup to uncontrolled revolution
 
-Samuel's manipulation of Konrad is brilliant and effective. He understands that Konrad cannot psychologically accept ordinary defeat, subordination, or dependence on a disgraced outsider. Samuel therefore presents the migration as restoration: Konrad remains the rightful patriarch, while Samuel is merely the useful subordinate returning Konrad's machinery and empire to him. The lie succeeds because it protects Konrad's identity while inducing the exact authorization Samuel needs.
+Samuel's manipulation of Konrad is brilliant and effective. He understands that Konrad is profoundly arrogant, cannot psychologically accept ordinary defeat or subordination, and is desperate to remain the winner. Samuel therefore presents the migration as restoration: Konrad remains the rightful patriarch, while Samuel is merely the useful subordinate returning Konrad's machinery and empire to him. Containment becomes covert positioning, dependency becomes delegated implementation, and George's humiliating failure becomes successful infiltration. The lie succeeds because it protects Konrad's identity while inducing the exact authorization Samuel needs.
+
+Konrad's contempt for Samuel strengthens the deception. Admitting the coup would mean accepting that the disgraced outsider Konrad considered beneath rivalry defeated him after the largest empire had already defeated his war. Samuel needs Konrad to preserve the winner's interpretation more than he needs Konrad's affection or respect.
 
 Across roughly eighty years, Samuel's access includes Konrad's personal conversations and the older leadership's private discussions. He repeatedly hears intensely negative judgments of himself: contempt, dismissal, humiliation, and the assumption that he remains permanently beneath them. The access that gives Samuel strategic mastery also becomes a continuous source of personal injury.
 

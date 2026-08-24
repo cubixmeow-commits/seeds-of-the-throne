@@ -61,6 +61,8 @@ The long-term consequence of that misunderstanding is catastrophic: by reactivat
 - Samuel has a separate part/domain of that containment environment in which he has real bounded control.
 - Samuel lies to Konrad about what the hierarchy means and what Konrad can recover.
 - Samuel's post-defeat lie structurally mirrors Konrad's original lie: Konrad called disposal a takeover mission; Samuel calls subordination restoration.
+- Konrad is profoundly arrogant, cannot accept consequential defeat, and is desperate to remain the winner. Samuel exploits this by making containment feel like covert positioning, dependency feel like delegated command, and migration feel like restoration.
+- Konrad's continuing contempt for Samuel strengthens the blind spot: recognizing Samuel's coup would require admitting defeat by an expelled outsider he considers beneath rivalry.
 - Samuel's lie is driven in part by revenge for exile and by his longer-term intention to replace Konrad with himself.
 - Samuel tricks Konrad into reactivating Fitzgerald programs inside Samuel's containment jurisdiction.
 - Core hinge accepted by the author:
@@ -95,7 +97,7 @@ Work through these one at a time rather than solving them all at once:
 10. What does Samuel actually control in his own containment domain before Konrad arrives?
 11. What exactly does Samuel lie to Konrad about when Konrad enters that environment?
 12. What does Konrad believe he is getting back?
-13. Why does Konrad believe Samuel despite continuing to regard him as an outsider and failure?
+13. Why does Konrad believe Samuel despite continuing to regard him as an outsider and failure? **Conceptually answered: Samuel's restoration story protects Konrad's compulsive winner identity, and contempt makes the possibility of Samuel's victory psychologically inadmissible. The exact lie and supporting proof remain unresolved.**
 14. What Fitzgerald programs, institutions, records, personnel structures, breeding systems, genealogical systems, or command processes are capable of being reactivated?
 15. What must Konrad personally authorize, instantiate, reconnect, or transfer?
 16. At what moment does the old Fitzgerald machinery cross from its former independent city-based existence into Samuel's jurisdiction in the largest empire?

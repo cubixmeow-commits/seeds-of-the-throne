@@ -13,7 +13,7 @@ The Great War is now the result of **Konrad Fitzgerald's authoritarian purity mo
 
 The working sequence is:
 
-**Fitzgerald movement rises under Konrad's genuine city-based control -> Samuel's exile is disguised as an infiltration assignment -> world-conquest attempt -> Samuel sabotages from inside future victor -> catastrophic defeat Konrad never planned for -> surviving leadership enters the largest empire's containment environment -> Samuel uses his earlier bounded jurisdiction and lies about restoration -> Konrad migrates machinery into Samuel's jurisdiction -> consequences run backward against the Fitzgerald order -> False Victory**
+**Fitzgerald movement rises under Konrad's genuine city-based control -> Samuel's exile is disguised as an infiltration assignment -> world-conquest attempt -> Konrad's arrogance converts correction into disloyalty and retreat into humiliation -> Samuel sabotages from inside future victor -> catastrophic defeat Konrad cannot accept -> surviving leadership enters the largest empire's containment environment -> Samuel exploits Konrad's desperation to remain the winner and lies about restoration -> Konrad migrates machinery into Samuel's jurisdiction -> consequences run backward against the Fitzgerald order -> False Victory**
 
 The war is not Samuel's original conquest project. It belongs to the older ideological faction that raised and later exiled him.
 
@@ -94,7 +94,7 @@ After defeat, the people who cast him out arrive stripped of their empire and de
 
 Samuel hides the depth of his wartime betrayal and presents himself as technically useful while remaining a pathetic outsider in Konrad's eyes. He claims that the original mission used to explain his exile succeeded more completely than it did and misrepresents what his bounded position inside the victor can restore.
 
-The defeated leaders accept a deal because they believe Samuel can give them access, protection, communications, or influence. Konrad authorizes or reactivates Fitzgerald machinery inside Samuel's jurisdiction. Samuel never conquered the empire, and Konrad never socially accepts him as superior. The reactivated systems nevertheless operate within a hierarchy whose structural priority was established by Samuel's earlier first-primary integration.
+The defeated leaders accept a deal because they believe Samuel can give them access, protection, communications, or influence. For Konrad, the deeper inducement is psychological: Samuel's restoration account lets him remain the winner and final patriarch rather than a defeated contained leader. Konrad authorizes or reactivates Fitzgerald machinery inside Samuel's jurisdiction. Samuel never conquered the empire, and Konrad never socially accepts him as superior. That contempt makes the deception harder to recognize, while the reactivated systems operate within a hierarchy whose structural priority was established by Samuel's earlier first-primary integration.
 
 They think Samuel has given them a window into the victor. He has given himself a window into them.
 
