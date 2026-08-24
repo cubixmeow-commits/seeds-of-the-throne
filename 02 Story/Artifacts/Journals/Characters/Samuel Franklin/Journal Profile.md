@@ -37,9 +37,25 @@ Narrow, controlled, analytical hand with compressed spacing, firm pressure, heav
 
 Proposed forensic evolution: Samuel selectively borrows Konrad's capitals, declaration spacing, or lineage conventions. This may be conscious forgery, unconscious identification, or both; do not decide without an author gate.
 
+## Manipulation and behavioral analysis
+
+Samuel's pages should demonstrate exceptional social intelligence. He records what each person wants to believe about themselves, which fear or desire controls their choices, what truth can make a larger lie credible, and how different audiences must receive compatible versions of the same event.
+
+Recurring page structures include:
+
+- target profiles separating public posture from private need;
+- pressure-point maps and predicted reactions;
+- branching conversation scripts;
+- lie trees showing audience-specific versions and shared facts;
+- timing windows, incentives, apparent choices, and fallback explanations;
+- notes on which person should believe an idea originated with them;
+- post-event comparisons between predicted and observed behavior.
+
+The journal should often prove that Samuel understood another person with frightening accuracy. Its later failure is not loss of intelligence. Jealousy and obsession increasingly force the analysis toward conclusions Samuel needs to be true.
+
 ## Drawing and diagram grammar
 
-Genealogical trees, succession networks, institutional structures, loyalty calculations, replacement candidates, names crossed out, arrows between people and systems, and alternate versions of events. His pages move from observing structures to editing them.
+Genealogical trees, succession networks, institutional structures, loyalty calculations, behavioral profiles, pressure-point maps, branching scripts, lie trees, replacement candidates, names crossed out, arrows between people and systems, and alternate versions of events. His pages move from observing structures to editing them.
 
 ## Recurring motifs
 
@@ -49,15 +65,15 @@ Broken branches reconnected under his name; crowns reduced to nodes; enclosures 
 
 | State | Story period | Written/layout change | Meaning |
 |---|---|---|---|
-| performed importance | exile/early containment | spacious, curated, explanatory | Samuel expects history to vindicate him. |
-| surveillance discovery | post-defeat migration | tighter annotations and layered cross-references | Humiliation acquires documentary proof. |
-| bloodline capture | False Victory middle | trees become editable systems; names are replaced | Revenge becomes control of belonging. |
-| attempted replacement | later Throne | Konrad's forms appear inside Samuel's hand | Samuel frames himself as continuity. |
+| performed importance | exile/early containment | spacious, curated, explanatory; sharp profiles of allies and targets | Samuel expects history to vindicate him and accurately identifies what others need to hear. |
+| surveillance discovery | post-defeat migration | tighter annotations, layered cross-references, and audience-specific lie trees | Humiliation acquires documentary proof and becomes a manipulation campaign. |
+| bloodline capture | False Victory middle | trees become editable systems; names and beliefs are both treated as controllable variables | Revenge becomes control of belonging and perceived reality. |
+| attempted replacement | later Throne | Konrad's forms appear inside Samuel's hand; contradictory evidence is forced into increasingly elegant models | Samuel frames himself as continuity while jealousy begins corrupting excellent analysis. |
 | exposure | endgame | conflicting inks, corrections, and provenance become legible to others | The archive he curated can testify against him. |
 
 ## Content and knowledge rules
 
-Samuel may record conclusions as certainties while bending evidence toward them. He cannot know the surveillance system's full design, legitimate oversight, or facts not available through his bounded access. Separate genuine observations, inferences, self-dramatization, forged history, and later annotations.
+Samuel may record conclusions as certainties while bending evidence toward them. He is exceptionally accurate at reading motives and predicting behavior, but he cannot know the surveillance system's full design, legitimate oversight, private facts outside his access, or choices grounded in values he refuses to respect. Separate genuine observations, strategic inferences, audience-specific lies, self-dramatization, forged history, and later annotations.
 
 ## Evidence and forensics
 

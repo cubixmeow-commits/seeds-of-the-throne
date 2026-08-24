@@ -21,6 +21,32 @@ Samuel is born into a wealthy and powerful family inside **Konrad Fitzgerald's a
 
 He destroys that position through his own conduct.
 
+## Intelligence and manipulation
+
+Samuel is **highly intelligent**, with an almost genius-level ability to read and deceive people. This is a defining capability and the reason his impulsiveness, obsession, greed, jealousy, and dishonesty become historically dangerous rather than merely self-destructive.
+
+He reads status needs, insecurities, ambitions, loyalties, resentments, shame, and the explanations people use to protect their self-image. He then constructs a lie around what the target already wants or needs to believe. His best manipulations do not feel like commands. He arranges framing, timing, evidence, incentives, apparent alternatives, and social pressure so that other people experience cooperation as their own reasonable judgment.
+
+Samuel can:
+
+- maintain different but compatible stories for different audiences;
+- mirror a target's vocabulary, values, and emotional posture;
+- identify which truth can be admitted safely to make a larger lie credible;
+- predict how pride, fear, loyalty, or humiliation will cause a person to dismiss warning signs;
+- turn dependency into apparent partnership;
+- give people flattering explanations that make them participate in their own deception;
+- study failures and rapidly replace a damaged story with a more resilient one.
+
+This intelligence does not make him omniscient or emotionally disciplined. His flaws corrupt his models:
+
+- impulsiveness makes him act before his own analysis is complete;
+- obsession narrows a brilliant mind around one rival or grievance;
+- greed makes a successful manipulation expand beyond what is necessary;
+- jealousy causes him to distort evidence of another person's genuine superiority;
+- long success at exploiting self-deception makes him underestimate principled people who will accept painful truth or sacrifice status to remain in contact with reality.
+
+Samuel therefore remains formidable even when he fails. His eventual defeat must come from the interaction between excellent manipulation and the emotional compulsions that make him misuse it—not from suddenly becoming unintelligent.
+
 ## Exile from the Fitzgerald order
 
 Samuel's parents discover conduct they regard as intolerable and disgraceful, including a sexual relationship with an underage girl and additional serious transgressions that remain to be developed. The exact legal, cultural, and organizational circumstances remain working, but Samuel is not exiled merely for ideological disagreement. He has committed real wrongdoing.

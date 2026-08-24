@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Cast
@@ -22,7 +22,7 @@ The tested first-person narrator follows a recurrence clue into questions about 
 
 ## Samuel Franklin
 
-Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a failed privileged heir born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct—including a sexual relationship with an underage girl and additional abuses still to be developed—his parents and the organization exile him approximately thirty years before the Great War. During that interval, Samuel and George enter an important-seeming situation inside the largest government; private joint wrongdoing and a horribly planned takeover end in George's humiliating bust into containment. During Konrad's world-conquest campaign, Samuel pretends to seek reconciliation while covertly sabotaging the faction through continued contact with his parents. After defeat, Samuel remains an outsider in Konrad's eyes. His earlier integration and separate bounded jurisdiction inside the largest empire's containment environment nevertheless let him trick Konrad into migrating Fitzgerald machinery there. The exact hierarchy implementation remains unresolved. The resulting leverage supports the False Victory, genealogy capture, revenge, and eventual attempt to replace Konrad.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a highly intelligent failed privileged heir, master manipulator, and near-genius reader of motives, insecurities, status needs, and self-deception. His impulsiveness, obsession, greed, jealousy, and habitual lying corrupt rather than erase that intelligence. Born to wealthy senior members of Konrad Fitzgerald's fascist purity organization, he is exiled approximately thirty years before the Great War after serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed. During that interval, Samuel and George enter an important-seeming situation inside the largest government; private joint wrongdoing and a horribly planned takeover end in George's humiliating bust into containment. During Konrad's world-conquest campaign, Samuel performs reconciliation while covertly sabotaging the faction. After defeat, he remains an outsider in Konrad's eyes, but uses tailored flattering explanations and his earlier bounded jurisdiction to make Konrad participate in migrating Fitzgerald machinery there. The exact hierarchy implementation remains unresolved. The resulting leverage supports the False Victory, genealogy capture, revenge, and eventual attempt to replace Konrad.
 
 ## Konrad Fitzgerald
 
