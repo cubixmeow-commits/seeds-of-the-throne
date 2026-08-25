@@ -80,7 +80,7 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - **Done when:** the endgame cannot be accused of introducing a late magical solution.
 
 - [ ] **Define a hard limit and cost.**
-  - **Live progress:** SC-009 is active at Macro Shape. Current author gate: **what is the most important thing the Luminai still cannot do even after the Sylvan–Luminai bond becomes highly developed?** The hard boundary should keep Sylvan necessary as a human decision-maker rather than turning the Luminai into unrestricted control.
+  - **Live progress:** SC-009 Question 1 accepted. The primary hard limit is **process-enforced human decision authority**. The Luminai can become extraordinarily capable, but consequential actions remain gated by Sylvan's conscious authorization. The later permission model should be designed like a real mature safety-critical human–AI architecture: distinguish observation, recommendation, reversible local action, and consequential action; require stronger explicit authorization as impact rises; preserve auditability; and allow autonomy only inside narrow bounded categories. Responsibility for consequential decisions remains with Sylvan. Current author gate: **what is the main cost, risk, or burden Sylvan personally carries because consequential Luminai action requires his conscious authorization?**
   - State what the bond can never do.
   - State what using the decisive capability costs, risks, or requires.
   - **Done when:** Sylvan still has to make human choices after the capability becomes available.
