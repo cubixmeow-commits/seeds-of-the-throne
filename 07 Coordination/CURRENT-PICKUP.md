@@ -15,43 +15,27 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - SC-002 — **Finish the S-008 containment hierarchy needs analysis** — complete at Macro Shape.
 - SC-003 — **Define Konrad's verification failure** — complete at Macro Shape.
 - SC-004 — **Choose the exact target of the attack on Sylvan's startup** — complete at Macro Shape.
-- SC-005 — **Define Sylvan's irreversible choice and loss** — active.
-- Completed at this depth: **4 / 27**.
+- SC-005 — **Define Sylvan's irreversible choice and loss** — complete at Macro Shape.
+- SC-006 — **Plant the first anomaly George cannot explain** — active.
+- Completed at this depth: **5 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
-Open:
+## Accepted modern-start macro result so far
 
-- [[Story Completion Workflow/Tasks/SC-005]]
-- [[Story Completion Workflow/Tasks/SC-004]]
-- [[Story Completion Workflow/CURRENT]]
+- The first sabotage is a rare multi-hour loss of external connectivity at Sylvan's physical server-hosting center during a convention presentation.
+- Sylvan still presents but cannot perform the live demo; the immediate damage is minor and the event remains plausibly coincidental.
+- It is the first entry in a much longer sequence of attacks that escalates substantially.
+- The later collapse is not caused by one avoidable choice by Sylvan.
+- Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping their beliefs outside Sylvan's awareness.
+- The startup descends into increasing chaos until Sylvan's partners turn against him and the team structure becomes nonviable.
+- The irreversible loss is the startup/team and the trust relationships that sustained it.
+- The collapse forces Sylvan into the next stage of the story in another city.
 
-## Accepted containment macro result
+## Current author gate — SC-006 Question 1
 
-- Primary status is a negotiated alpha position in a tiered permissions hierarchy.
-- Samuel's original prosecution placement gives him broad cross-domain power, information, surveillance, influence, and decision authority once initiatives operate inside his containment sphere.
-- Konrad and other negotiated leaders retain genuine protected positions and domain authority; there is no universal alpha override.
-- Samuel cannot directly remove Konrad or the senior Fitzgerald leadership because their prosecution deals guarantee those positions through the containment/development/training phase.
-- Konrad must participate in or accept the migration/reactivation of the Fitzgerald lineage/breeding and younger-generation training systems into Samuel's sphere.
-- Samuel falsely presents that move as restoration or protected separation. Konrad believes the program remains Fitzgerald-controlled while Samuel becomes structurally alpha over the migrated initiatives.
-- Konrad remains beta with substantial real operating authority and continues the plan inside the apparent separate environment.
-- The story environment hides Samuel's surveillance, competing decisions, lineage sabotage, and younger-generation redirection until Sylvan eventually exposes the truth.
-- Konrad's verification failure is false process enforceability reinforced by a two-sided story environment and his obsession with completing his supremacist god-king project.
+> **What is the first small anomaly George notices during or after this early sabotage period that does not fit the explanation he is being given?**
 
-## Accepted SC-004 macro result
-
-- The first modern sabotage targets the **physical hosting environment for Sylvan's own servers**.
-- It happens during a high-stakes convention presentation intended to win attention, credibility, and investment/backing.
-- The hosting center loses external connectivity for several hours. The outage is possible but very rare.
-- The provider gives a plausible explanation with a slightly suspicious edge.
-- Sylvan still gives the presentation, but cannot perform the live demo.
-- There is no major immediate business loss. The incident remains easy to dismiss as coincidence.
-- Its real narrative function is to become the first event in a **long sequence of attacks that later escalate substantially**, allowing its significance to emerge retrospectively.
-
-## Current author gate — SC-005 Question 1
-
-> **As the attacks escalate beyond the harmless convention outage, what does Sylvan eventually choose to do that he could have avoided by walking away from the startup or accepting defeat?**
-
-Define only the major choice. The exact attack that forces it and the full consequences can be developed in later gates.
+It should be something he can plausibly observe himself and dismiss at first, but which later helps prove that someone has been actively maintaining or manipulating the false reality around him.
 
 ## Interaction rule
 
