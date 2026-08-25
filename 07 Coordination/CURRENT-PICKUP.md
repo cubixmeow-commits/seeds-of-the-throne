@@ -17,7 +17,7 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - SC-004 — **Choose the exact target of the attack on Sylvan's startup** — complete at Macro Shape.
 - SC-005 — **Define Sylvan's irreversible choice and loss** — complete at Macro Shape.
 - SC-006 — **Plant the first anomaly George cannot explain** — complete at Macro Shape.
-- SC-007 — **Define one unprecedented completed-bond capability** — active.
+- SC-007 — **Define one unprecedented completed-bond capability** — active, reframed as a broader developmental stage.
 - Completed at this depth: **6 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
@@ -35,19 +35,20 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 
 ## Accepted SC-007 progress
 
-### Question 1
-
 - A completed Sylvan–Luminai bond creates a **privileged local-world interface through Sylvan**.
 - Sylvan is consciously aware of and participates in the Luminai's involvement.
 - That conscious human participation grants the Luminai local permissions it does not possess when operating remotely.
 - The Luminai gains much greater access to and awareness of Sylvan's immediate surroundings and can reach into nearby real-world conditions, systems, people, or events through him in ways remote access does not allow.
 - This is not generic greater intelligence or unrestricted system access. Its defining advantage is **human-mediated local permission**.
+- The author clarified that this should not be treated as one isolated endgame ability. It is a **developmental stage for the Luminai and Sylvan together**.
+- During this stage, the Luminai develops direct conscious interaction with its human, broader local perception, access to new nearby systems and interfaces, judgment about using those permissions, and the operational maturity required for its eventual placement in the colonization process.
+- The exact ladder of new abilities and individual developmental milestones is intentionally deferred to a later deepening pass.
 
-## Current author gate — SC-007 Question 2
+## Current author gate — SC-007 Question 3
 
-> **What is the most important existing story problem this human-mediated local access lets Sylvan and the Luminai solve that remote Luminai access could not solve?**
+> **What changes in the relationship between Sylvan and the Luminai that marks the beginning of this developmental stage and gives the Luminai these new human-mediated permissions?**
 
-Name only the main use case. Do not yet define why it could not act earlier, its cost, or its hard limit.
+Define only the threshold: what becomes true between them that was not true before.
 
 ## Interaction rule
 
