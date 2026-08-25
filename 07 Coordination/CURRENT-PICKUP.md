@@ -1,7 +1,7 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-08-24
+updated: 2026-08-25
 scope: single current pickup point
 ---
 
@@ -54,11 +54,13 @@ Begin the Macro Shape sweep from [[Story Completion Workflow/CURRENT]]. Resume t
 
 Question 1 is accepted. The hierarchy controls decisions and awareness through layered control. The alpha governs experienced reality and the available decision structure but does not simply rewrite every private belief. Legitimate leaders can use this technology honestly; contained criminals receive bounded access to the same class of system and can abuse it. Konrad and his fanatic partner used it to impose their beliefs and fascist obsessions. Samuel later separates Konrad and the loyal older generation from the larger population. They experience a responsive reality based on what they believe they are accomplishing and think everything is proceeding normally, while Samuel corrupts later generations outside their awareness across roughly eighty years, destroying bloodlines and spreading transgressions after learning the truth of his exile.
 
-Proceed to Question 2 only for SC-001:
+Question 2 is accepted. Every contained criminal enters colonization through prosecution and negotiated deals that determine containment placement, role, jurisdiction, and authority. A **primary contained criminal** is therefore a formally negotiated alpha-status criminal whose prosecution deal establishes structural priority within a containment environment rather than merely placing that person inside it. When Samuel Franklin was prosecuted, he sold out more people than anyone else and negotiated to become the alpha criminal in containment. Konrad separately negotiated to lead his own group and possess his own city. Konrad did not know Samuel had secured broader alpha priority. The exile itself was secretly part of Samuel Franklin's plan and deal, but that fact is an endgame reveal and must remain hidden from the audience until near the end. The unresolved macro problem is how Konrad's apparently sovereign deal can coexist with Samuel's concealed senior priority and later betrayal without making Konrad's earlier control unreal.
 
-> **What does "primary contained criminal" mean operationally? What exact status, relationship, or responsibility distinguishes the primary from a criminal who is merely present in the environment?**
+Proceed to Question 3 only for SC-001:
 
-Do not yet solve the integration event, hierarchy lock, or Samuel's acquisition of primary status. Record only SC-001's macro function, dependencies, candidate directions, and preserved unknowns. Then continue horizontally to SC-002 and the rest of the registry before deepening any one branch.
+> **What did Konrad believe his prosecution deal guaranteed him after defeat: permanent sovereignty over his people and machinery wherever they were placed, sovereignty only inside his original city, or a right to re-establish that sovereignty if his group was moved into another containment environment?**
+
+Do not yet solve the exact integration event, hierarchy lock, Samuel's acquisition procedure, or the reveal mechanics of the exile. Record only SC-001's macro function, dependencies, candidate directions, and preserved unknowns. Then continue horizontally to SC-002 and the rest of the registry before deepening any one branch.
 
 Use:
 
@@ -91,10 +93,15 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - Konrad later reactivates or migrates Fitzgerald machinery into Samuel's jurisdiction.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - The consequences materially contribute to the Fitzgerald group's permanent destruction.
+- All contained criminals enter through prosecution and negotiated deals that determine placement and authority.
+- Samuel's deal secretly establishes him as alpha criminal in containment after he betrays more people than anyone else.
+- Konrad's deal genuinely establishes leadership of his group and his own city.
+- Konrad does not know Samuel negotiated superior alpha status.
+- Samuel's exile is secretly part of Samuel's own plan/deal; this is withheld until the endgame reveal.
 
 ## Still unresolved
 
-- definition of primary contained criminal;
+- exact scope and portability of Konrad's negotiated sovereignty;
 - exact integration/lock event and purpose;
 - what Samuel knew and when;
 - Samuel's exact lie and why Konrad believes it;
@@ -103,7 +110,8 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - evidence and verification failure;
 - what remains under Konrad's authority;
 - reset or supersession limits;
-- exact path to surveillance, genealogy access, replacement, and permanent destruction.
+- exact path to surveillance, genealogy access, replacement, and permanent destruction;
+- how Samuel's concealed alpha deal and Konrad's city/leadership deal legally or structurally coexist before the betrayal.
 
 ## After SC-001's macro pass
 
