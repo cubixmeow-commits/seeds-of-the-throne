@@ -18,8 +18,8 @@ The weekly TODO owns the checklist wording and public completion state. This reg
 | SC-005 | 2 | Define Sylvan's irreversible choice and loss | MACRO | COMPLETE | NOT-RUN | SC-004 |
 | SC-006 | 2 | Plant the first anomaly George cannot explain | MACRO | COMPLETE | NOT-RUN | SC-004 |
 | SC-007 | 3 | Define one unprecedented completed-bond capability | MACRO | COMPLETE | NOT-RUN | — |
-| SC-008 | 3 | Define why the capability could not act earlier | MACRO | AUTHOR-GATE | NOT-RUN | SC-007 |
-| SC-009 | 3 | Define a hard limit and cost | UNTOUCHED | IDLE | NOT-RUN | SC-007, SC-008 |
+| SC-008 | 3 | Define why the capability could not act earlier | MACRO | COMPLETE | NOT-RUN | SC-007 |
+| SC-009 | 3 | Define a hard limit and cost | MACRO | AUTHOR-GATE | NOT-RUN | SC-007, SC-008 |
 | SC-010 | 3 | Build an endgame setup coverage matrix | UNTOUCHED | IDLE | NOT-RUN | SC-007, SC-008, SC-009 |
 | SC-011 | 4 | Choose the first record proving Konrad designed Samuel's mission to fail | UNTOUCHED | IDLE | NOT-RUN | — |
 | SC-012 | 4 | Choose the Witness | UNTOUCHED | IDLE | NOT-RUN | — |
