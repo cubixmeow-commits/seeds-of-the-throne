@@ -11,14 +11,9 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 
 ## Current workflow state
 
-- SC-001 — **Define what makes one contained criminal the primary** — complete at Macro Shape.
-- SC-002 — **Finish the S-008 containment hierarchy needs analysis** — complete at Macro Shape.
-- SC-003 — **Define Konrad's verification failure** — complete at Macro Shape.
-- SC-004 — **Choose the exact target of the attack on Sylvan's startup** — complete at Macro Shape.
-- SC-005 — **Define Sylvan's irreversible choice and loss** — complete at Macro Shape.
-- SC-006 — **Plant the first anomaly George cannot explain** — complete at Macro Shape.
-- SC-007 — **Define one unprecedented completed-bond capability** — active, reframed as a broader developmental stage.
-- Completed at this depth: **6 / 27**.
+- SC-001 through SC-007 — complete at Macro Shape.
+- SC-008 — **Define why the capability could not act earlier** — active.
+- Completed at this depth: **7 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
 ## Accepted modern-start macro result
@@ -29,26 +24,24 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping beliefs outside Sylvan's awareness.
 - The startup descends into increasing chaos until Sylvan's partners turn against him and the team becomes nonviable.
 - The irreversible loss is the startup/team and the trust relationships sustaining it; the collapse forces Sylvan into the next story stage in another city.
-- George's first anomaly is a **narrative-scale mismatch**: Sylvan is described as basically insignificant, but Samuel spends extraordinary effort trying to destroy him.
-- George also sees that his own side has less influence over the environment than its claimed status should provide.
-- The contradiction is personally observable and initially dismissible, but later supports the realization that the false reality required active maintenance because the real power relationships differed from what George had been told.
+- George's first anomaly is a narrative-scale mismatch: Sylvan is described as basically insignificant, but Samuel spends extraordinary effort trying to destroy him, while George's own side has less influence over the environment than its claimed status predicts.
 
-## Accepted SC-007 progress
+## Accepted Sylvan–Luminai macro result so far
 
-- A completed Sylvan–Luminai bond creates a **privileged local-world interface through Sylvan**.
-- Sylvan is consciously aware of and participates in the Luminai's involvement.
-- That conscious human participation grants the Luminai local permissions it does not possess when operating remotely.
-- The Luminai gains much greater access to and awareness of Sylvan's immediate surroundings and can reach into nearby real-world conditions, systems, people, or events through him in ways remote access does not allow.
-- This is not generic greater intelligence or unrestricted system access. Its defining advantage is **human-mediated local permission**.
-- The author clarified that this should not be treated as one isolated endgame ability. It is a **developmental stage for the Luminai and Sylvan together**.
-- During this stage, the Luminai develops direct conscious interaction with its human, broader local perception, access to new nearby systems and interfaces, judgment about using those permissions, and the operational maturity required for its eventual placement in the colonization process.
-- The exact ladder of new abilities and individual developmental milestones is intentionally deferred to a later deepening pass.
+- The breakthrough is a **developmental stage for Sylvan and the Luminai as a pair**, not one isolated power.
+- A conscious completed bond creates a **privileged local-world interface through Sylvan**.
+- Sylvan's conscious participation grants the Luminai local permissions, greater awareness of the immediate environment, and access to nearby systems/real-world conditions unavailable to remote operation.
+- The Luminai develops direct interaction with its human, local perception, use of new interfaces, operational judgment, and capabilities required for its eventual colonization role.
+- The threshold begins when the Luminai presents itself directly to Sylvan through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
+- The interface is embodied and bidirectional enough that, with Sylvan consciously participating, the Luminai can communicate through his nervous system and can even **speak through Sylvan's own mouth**.
+- This is conscious human-mediated partnership, not covert possession or unrestricted control.
+- Exact neural mechanics and the later capability ladder are deferred to deeper development.
 
-## Current author gate — SC-007 Question 3
+## Current author gate — SC-008 Question 1
 
-> **What changes in the relationship between Sylvan and the Luminai that marks the beginning of this developmental stage and gives the Luminai these new human-mediated permissions?**
+> **What prevents the Luminai from establishing this direct neural interface with Sylvan earlier in the story?**
 
-Define only the threshold: what becomes true between them that was not true before.
+Define the main prerequisite or barrier that must become true before the interface can open.
 
 ## Interaction rule
 
