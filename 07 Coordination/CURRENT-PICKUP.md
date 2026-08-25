@@ -45,7 +45,7 @@ Open:
 
 ## Accepted SC-002 progress
 
-Question 1 is accepted.
+### Question 1
 
 - The most important later takeover elements that do **not** follow automatically from alpha status are the Fitzgerald **breeding/lineage program** and the **training system for the younger generation**.
 - Konrad must participate in or accept their migration/reactivation inside Samuel's sphere.
@@ -55,11 +55,21 @@ Question 1 is accepted.
 - The younger generation is redirected away from the senior Fitzgerald leadership's intended ideology toward a fictional counterculture shaped by Samuel.
 - Real-world historical comparisons used by the author are **development-only** and must not be copied into the bible/canon. Preserve only fictional functional equivalents: controlled lineage planning, ideological youth formation, and Samuel's generational counter-programming.
 
-## Current author gate — SC-002 Question 2
+### Question 2
 
-> **After Konrad accepts Samuel's false deal and the breeding/lineage and younger-generation training systems are reactivated inside Samuel's sphere, what authority does Samuel gain automatically because of his office/alpha position, and what authority does Konrad still retain inside those same systems?**
+- Samuel keeps the alpha position because of his original placement in the colonization containment structure.
+- Once Konrad accepts the false deal and migrates/reactivates the Fitzgerald breeding/lineage and younger-generation initiatives inside Samuel's sphere, Samuel becomes structurally **alpha over those initiatives**.
+- Konrad remains the **beta leader** with substantial real operating and decision-making authority and continues his plan.
+- Samuel makes Konrad believe that the Fitzgerald breeding program, younger-generation training, and group are operating in a separate protected environment and that this separation is enforced.
+- Konrad therefore sees primarily his own actions and apparent progress while Samuel's interventions, surveillance, competing decisions, and corruption of the wider system remain hidden.
+- The false separation persists until near the end of the later Sylvan conflict, when **Sylvan exposes Samuel's real hidden actions and control to Konrad**.
+- Exact evidence, timing, and disclosure mechanics are deferred to the later evidence/endgame tasks.
 
-Define only the broad split of control at Macro Shape. The exact permission matrix can be designed later for individual story situations.
+## Current author gate — SC-002 Question 3
+
+> **What is the single most important thing Samuel can change inside the migrated breeding/lineage and younger-generation systems without Konrad noticing at the time, while Konrad still believes he is successfully running his own separate program?**
+
+Define only the macro function of the hidden intervention, not its detailed implementation.
 
 ## Preserve exactly
 
@@ -73,6 +83,8 @@ Define only the broad split of control at Macro Shape. The exact permission matr
 - Prosecution deals protect Konrad and the senior Fitzgerald leadership from direct removal during the containment/development/training phase.
 - Konrad's cooperation/mistake is required to move the breeding/lineage and younger-generation training machinery into Samuel's sphere.
 - Samuel's false deal makes Konrad believe he is regaining or preserving control while Samuel retains influence through his office/alpha position.
+- Once migrated, Samuel is alpha over the initiatives while Konrad remains beta and continues meaningful operation inside the apparent separate program.
+- The story environment hides Samuel's real interventions from Konrad until Sylvan later exposes them.
 - Samuel's later generational corruption targets both bloodline continuity and ideological formation.
 - Do not store the author's real-world historical analogies in the bible/canon; translate only the underlying fictional functions.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
