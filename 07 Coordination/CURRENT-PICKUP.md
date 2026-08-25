@@ -66,6 +66,20 @@ Use:
 
 Do not solve later questions in advance.
 
+### Live dashboard synchronization
+
+The GitHub-connected mobile app has repository write access. Keep the public Story Completion dashboard synchronized during the author-question loop.
+
+After every **author-accepted** answer, before asking the next question:
+
+1. Record the approved result in the authoritative brainstorm or task packet.
+2. Update this Current Pickup note with the accepted result and the exact next question.
+3. Add or replace a scope-neutral `**Live progress:**` detail beneath the current item in the checklist named by `Weekly Synthesis/CURRENT-COMPLETION-TODO.md`. State what was accepted and what question is current. The dashboard renders that checklist detail.
+4. Update `Story Completion Workflow/CURRENT.md`, `TASK-REGISTRY.md`, dependencies, and QA records only when their actual state changes.
+5. Save the repository changes through the GitHub connector and verify that the write succeeded before continuing the question loop.
+
+Do not wait until the end of the session to publish accepted progress. Do not publish exploratory, rejected, or unapproved possibilities. Do not check off a task until its existing **Done when** condition is satisfied. Never hard-code progress into `docs/todo.html` or create a shadow checklist; the webpage must continue reading the authoritative repository Markdown.
+
 ## Preserve exactly
 
 - Konrad genuinely controlled his own city and Fitzgerald machinery before defeat.
