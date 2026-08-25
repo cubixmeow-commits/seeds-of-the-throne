@@ -7,71 +7,53 @@ scope: single current pickup point
 
 # Current Pickup
 
-This is the single current pickup point for the next Seeds session. Older dated desktop pickups and `MOBILE-HANDOFF.md` are historical context, not competing instructions.
-
 The active workflow is the horizontal **Macro Shape** sweep from [[Story Completion Workflow/CURRENT]]. The authoritative author-facing checklist remains [[Weekly Synthesis/CURRENT-COMPLETION-TODO]].
 
 ## Current workflow state
 
 - SC-001 — **Define what makes one contained criminal the primary** — complete at Macro Shape.
 - SC-002 — **Finish the S-008 containment hierarchy needs analysis** — complete at Macro Shape.
-- SC-003 — **Define Konrad's verification failure** — active.
-- Completed at this depth: **2 / 27**.
-- Do not deepen SC-001 or SC-002 until all active tasks have received the Macro Shape pass.
+- SC-003 — **Define Konrad's verification failure** — complete at Macro Shape.
+- SC-004 — **Choose the exact target of the attack on Sylvan's startup** — active.
+- Completed at this depth: **3 / 27**.
+- Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
 Open:
 
-- [[Story Completion Workflow/Tasks/SC-003]]
-- [[Story Completion Workflow/Tasks/SC-002]]
-- [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
+- [[Story Completion Workflow/Tasks/SC-004]]
 - [[Story Completion Workflow/CURRENT]]
 
-## Accepted containment macro result so far
+## Accepted containment macro result
 
 - Primary status is a negotiated alpha position in a tiered permissions hierarchy.
 - Samuel's original prosecution placement gives him broad cross-domain power, information, surveillance, influence, and decision authority once initiatives operate inside his containment sphere.
-- Konrad and other negotiated leaders retain genuine protected positions and domain authority. There is no universal alpha override.
+- Konrad and other negotiated leaders retain genuine protected positions and domain authority; there is no universal alpha override.
 - Samuel cannot directly remove Konrad or the senior Fitzgerald leadership because their prosecution deals guarantee those positions through the containment/development/training phase.
 - Konrad must participate in or accept the migration/reactivation of the Fitzgerald lineage/breeding and younger-generation training systems into Samuel's sphere.
 - Samuel falsely presents that move as restoration or protected separation. Konrad believes the program remains Fitzgerald-controlled while Samuel becomes structurally alpha over the migrated initiatives.
-- Konrad remains beta with substantial real operating authority and therefore continues the plan inside the apparent separate environment.
-- The story environment hides Samuel's surveillance, competing decisions, and interventions from Konrad.
-- Samuel's most important hidden lineage intervention is not merely deciding which lines live or die. He allows Konrad to believe the program still follows Konrad's obsessive supremacist design while secretly corrupting the selection criteria so the resulting population increasingly contradicts the traits and categories Konrad's ideology privileges.
-- The story must frame those traits as things **Konrad's racist/eugenic worldview devalues**, not as objective inferiority.
-- Samuel also redirects younger-generation formation away from Fitzgerald loyalties and values.
+- Konrad remains beta with substantial real operating authority and continues the plan inside the apparent separate environment.
+- The story environment hides Samuel's surveillance, competing decisions, lineage sabotage, and younger-generation redirection until Sylvan eventually exposes the truth.
+- The story frames Samuel's lineage sabotage as an attack on **Konrad's racist/supremacist criteria**, not as an objective hierarchy of human worth.
 - Samuel's motive becomes increasingly obsessive and personal after surveillance reveals Konrad's betrayal, contempt, and persecution of Samuel's countercultural beliefs.
-- Sylvan eventually exposes Samuel's hidden actions to Konrad near the end of the later Sylvan conflict; exact evidence and timing are deferred.
-- The author's real-world historical analogies are development-only and must not be copied into bible/canon material. Preserve only the fictional functions.
+- Real-world historical comparisons remain development-only and are not copied into bible/canon material.
 
-## Accepted SC-003 progress
+## Accepted SC-003 macro result
 
-### Question 1
+Konrad's verification failure is **false process enforceability + sustained environmental confirmation + obsession-driven motivated reasoning**.
 
-- Samuel does **not** prove a real separation because no real separation ever exists.
-- He convinces Konrad that their deal is recognized and enforceable by the colonization process and therefore creates a protected Fitzgerald sphere.
-- The supposed separation is a story environment Samuel maintains for almost a century.
-- Samuel keeps Konrad focused on his own work and apparent progress while hiding Samuel's actions, interventions, surveillance, and generational corruption.
-- Two visibly distinct sides of the containment environment reinforce the false premise and make the separation appear institutionally real.
-- Konrad's obsessions are the central vulnerability Samuel exploits: the arrangement gives him a way to believe his original project, authority, and ideological plan survived defeat.
+- Samuel convinces Konrad that their deal is recognized and enforceable by the colonization process and therefore creates a protected Fitzgerald sphere.
+- No real separation exists. Samuel maintains a two-sided story environment for almost a century that appears to confirm autonomy while hiding Samuel's interventions.
+- Konrad's defining obsession is a megalomaniacal supremacist project: to engineer what he believes is a superior population, lead it to dominate worlds, and eventually establish himself as a god-king.
+- Samuel's supposed process-enforced separation appears to preserve that future after defeat, making the arrangement emotionally and strategically irresistible.
+- Konrad does not need to respect Samuel; he only needs to believe Samuel has found a mechanism that lets Konrad continue the project he cannot surrender.
 
-## Current author gate — SC-003 Question 2
+## Current author gate — SC-004 Question 1
 
-> **What specifically about Konrad's obsession makes him accept Samuel's claim that the deal is enforceable by the colonization process even though Samuel is an expelled outsider he does not respect?**
+> **What is the single most important thing in Sylvan's startup that the antagonists attack or sabotage first?**
 
-Define only the character-level reason the false legal premise is emotionally and strategically irresistible to Konrad.
+Name the concrete target: a core product/system, critical demonstration, customer or partner relationship, financial/operational dependency, research asset, or another specific function the startup cannot simply replace.
 
-## Preserve exactly
-
-- Konrad genuinely controlled his own city and Fitzgerald machinery before defeat.
-- Konrad never considered failure and had no post-defeat fallback hierarchy.
-- Samuel remains an outsider and may remain contemptible in Konrad's eyes.
-- Lower leaders retain real negotiated authority; alpha is powerful but bounded.
-- Konrad's cooperation/mistake is required to move the lineage and youth-training machinery into Samuel's sphere.
-- Once migrated, Samuel is alpha over the initiatives while Konrad remains beta and continues meaningful operation inside the apparent separate program.
-- The story environment hides Samuel's real interventions until Sylvan later exposes them.
-- The false separation is not a real structural boundary; Samuel makes Konrad believe their deal is process-enforceable while maintaining only the appearance of two separate sides.
-- Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
-- Samuel's exile is secretly part of Samuel's own plan/deal; this is withheld until the endgame reveal.
+At Macro Shape, define only the target. Access path, culprit framing, surviving anomaly, and Sylvan's irreversible loss come later.
 
 ## Interaction rule
 
