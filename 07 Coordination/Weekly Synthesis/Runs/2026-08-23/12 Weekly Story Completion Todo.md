@@ -35,8 +35,8 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - Identify which later Samuel/Konrad actions require separate permissions or mistakes.
   - **Done when:** Samuel's eventual advantage can be explained without hand-waving or omnipotent access.
 
-- [ ] **Define Konrad's verification failure.**
-  - **Live progress:** SC-003 Question 1 accepted. Samuel never proves a real separation because none exists. He convinces Konrad that their deal is recognized and enforceable by the colonization process, then maintains a two-sided story environment for almost a century that appears to confirm Fitzgerald autonomy while hiding Samuel's surveillance and interventions. Konrad's obsessions make the false premise attractive because it lets him believe his original project, authority, and ideological plan survived defeat. Current author gate: **what specifically about Konrad's obsession makes Samuel's supposedly enforceable deal emotionally and strategically irresistible despite Konrad's contempt for Samuel?**
+- [x] **Define Konrad's verification failure.**
+  - **Live progress:** Macro Shape accepted. Samuel convinces Konrad that their deal is enforceable by the colonization process even though no real separation exists, then maintains a two-sided story environment for almost a century that appears to confirm Fitzgerald autonomy. Konrad accepts it because the arrangement appears to preserve his megalomaniacal supremacist project: engineering what he believes is a superior population, leading it to dominate worlds, and ultimately becoming a god-king. His arrogance and obsession create motivated reasoning rather than stupidity.
   - What does Samuel offer that Konrad cannot obtain elsewhere?
   - What concrete check does Konrad perform before trusting the restoration/migration plan?
   - Why does that check falsely reassure him without making Konrad stupid?
@@ -47,6 +47,7 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
 # Priority 2 — Make the modern story actually begin
 
 - [ ] **Choose the exact target of the attack on Sylvan's startup.**
+  - **Live progress:** SC-004 Question 1 accepted. The first sabotage target is the **physical hosting environment for Sylvan's own servers**, timed around a high-stakes convention presentation where he needs the system working to attract attention, establish credibility, and pursue investment/backing. The event must initially look plausibly accidental, like a hosting-provider, infrastructure, equipment, or ordinary operational failure. Current author gate: **what visible failure actually happens to the hosted servers at the crucial moment?**
   - Generate 3 materially different sabotage patterns before selecting one.
   - Each option must identify the attacked asset, access path, human consequence, surviving anomaly, and who appears responsible at first.
   - **Done when:** the attack can be described as a concrete event rather than as "the startup is sabotaged."
