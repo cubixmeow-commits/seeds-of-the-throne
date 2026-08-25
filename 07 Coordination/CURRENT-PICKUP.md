@@ -58,11 +58,13 @@ Question 2 is accepted. Every contained criminal enters colonization through pro
 
 Question 3 is accepted. Konrad did not understand his deal as a narrow grant of authority tied only to one city. He believed the colonization rules permitted conquest to expand his jurisdiction. His ambition was to conquer the other empires, then every country on the colonization planet, until he controlled the entire colonization world and could effectively make his own rules. He therefore expected his authority to grow through successful conquest under the planet's rules, not to terminate at the boundary of his original city. He never planned around defeat because he did not believe his conquest could fail.
 
-Proceed to Question 4 only for SC-001:
+Question 4 is accepted. Samuel's negotiated alpha status becomes operational in the largest empire during the phase surrounding Samuel Jr.'s attempted takeover of the government. Samuel himself is already part of an isolated, luxury controller class that presents itself to the participants as effectively godlike. Members of this class control and manage participant populations, their own bloodlines and other bloodlines/groups associated with them, and synthetics from outside the ordinary lived environment. When Samuel Jr.'s attempted takeover pushes that group into the relevant containment structure, Samuel's previously negotiated alpha status is no longer merely a prosecution promise; it becomes active inside that environment. The exact technical or administrative lock produced by that activation remains unresolved.
 
-> **What exact event counts as Samuel's first integration into the largest empire's containment hierarchy and causes his negotiated alpha status to become structurally active there?**
+Proceed to Question 5 only for SC-001:
 
-Do not yet solve what specifically locks, why the system uses the lock, Samuel's later exploitation mechanics, or Konrad's reactivation procedure. Record only the event that makes Samuel's prior prosecution deal operational inside that containment environment.
+> **What specifically becomes structurally subordinate to Samuel when his alpha status activates: the people assigned to that containment environment, the control/administrative systems serving them, the bloodline and synthetic-management programs, or some combination of those?**
+
+Do not yet solve why the system uses the lock, Samuel's later exploitation mechanics, Konrad's reactivation procedure, or reset limits. Define only the scope of what alpha activation actually places beneath Samuel's structural priority.
 
 Use:
 
@@ -93,6 +95,7 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - Samuel remains an outsider and may remain contemptible in Konrad's eyes.
 - Samuel has a separate bounded jurisdiction in that larger environment.
 - Samuel's earlier first-primary integration establishes structural priority there.
+- Samuel's first active integration occurs during the phase surrounding Samuel Jr.'s attempted government takeover, while Samuel belongs to the isolated luxury controller class managing participants, bloodlines/groups, and synthetics.
 - Konrad later reactivates or migrates Fitzgerald machinery into Samuel's jurisdiction.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - The consequences materially contribute to the Fitzgerald group's permanent destruction.
@@ -104,8 +107,8 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 
 ## Still unresolved
 
-- exact event that activates Samuel's alpha status through first integration in the largest empire;
-- what specifically locks and why the system uses that rule;
+- what specifically becomes subordinate when Samuel's alpha status activates;
+- why the system uses that structural priority/lock;
 - what Samuel knew and when;
 - Samuel's exact lie and why Konrad believes it;
 - reactivation/migration procedure;
