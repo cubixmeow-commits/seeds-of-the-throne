@@ -1,7 +1,7 @@
 ---
 type: task-registry
 status: active
-updated: 2026-08-24
+updated: 2026-08-25
 source: 07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo.md
 ---
 
@@ -11,8 +11,8 @@ The weekly TODO owns the checklist wording and public completion state. This reg
 
 | ID | Priority | Task | Depth | Phase | Validation | Direct prerequisites |
 |---|---:|---|---|---|---|---|
-| SC-001 | 1 | Define what makes one contained criminal the primary | UNTOUCHED | CONTEXT | NOT-RUN | — |
-| SC-002 | 1 | Finish the S-008 containment hierarchy needs analysis | UNTOUCHED | IDLE | NOT-RUN | SC-001 |
+| SC-001 | 1 | Define what makes one contained criminal the primary | MACRO | COMPLETE | NOT-RUN | — |
+| SC-002 | 1 | Finish the S-008 containment hierarchy needs analysis | MACRO | AUTHOR-GATE | NOT-RUN | SC-001 |
 | SC-003 | 1 | Define Konrad's verification failure | UNTOUCHED | IDLE | NOT-RUN | SC-001, SC-002 |
 | SC-004 | 2 | Choose the exact target of the attack on Sylvan's startup | UNTOUCHED | IDLE | NOT-RUN | — |
 | SC-005 | 2 | Define Sylvan's irreversible choice and loss | UNTOUCHED | IDLE | NOT-RUN | SC-004 |
