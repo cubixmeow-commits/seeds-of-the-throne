@@ -21,14 +21,15 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
 
 # Priority 1 — Resolve the containment hinge
 
-- [ ] **Define what makes one contained criminal the `primary`.**
-  - **Live progress:** Accepted macro rule: `primary` is a negotiated alpha-status position in a tiered permissions hierarchy. Samuel secretly negotiated alpha status; Konrad separately retains genuine leadership authority. Alpha gives Samuel broad cross-domain power, control, information, surveillance, and decision influence, but it does **not** let him remove Konrad or erase the senior Fitzgerald leadership. Their prosecution deals guarantee those leadership positions through the containment/development/training phase. Much of the Fitzgerald leadership still believes it is taking control of the colonization process and can eventually dispose of Samuel, so Samuel's bloodline-destruction campaign is partly an indirect strategy against a leadership structure he cannot directly delete. A later Sylvan-linked phase offers them a chance to earn a city, but those mechanics are deferred. Current question: when Samuel and Konrad directly disagree while both negotiated positions remain valid, how is that authority conflict resolved?
+- [x] **Define what makes one contained criminal the `primary`.**
+  - **Live progress:** Macro Shape accepted. `Primary` is a negotiated alpha-status position in a tiered permissions hierarchy. Samuel's deal gives him broad cross-domain power, control, information, surveillance, and decision influence, but not blanket sovereignty or a universal override. Konrad and other negotiated leaders retain real protected positions and domain authority; direct conflicts can be separated by environment/function or resolved through a combination of their influence. Samuel cannot simply remove Konrad because the prosecution deals guarantee those leadership positions through the containment/development/training phase.
   - Answer in operational terms: responsibility, jurisdiction, accountability, or relationship.
   - It must distinguish a primary from someone who is merely present in the environment.
   - Do not yet decide the later lock event, Samuel's acquisition mechanics, migration powers, or reset limits.
   - **Done when:** the rule is specific enough that two hypothetical contained criminals could be compared and only one could qualify as primary.
 
 - [ ] **Use that answer to finish the S-008 containment hierarchy needs analysis.**
+  - **Live progress:** SC-002 is now the active Macro Shape task. The hierarchy is bounded: alpha power does not automatically grant every later takeover action. Current author gate: **Which single later action in Samuel's takeover of the Fitzgerald organization should not follow automatically from alpha status and should instead require Konrad's own authorization, cooperation, or mistake?**
   - Identify what authority follows from primary status.
   - Identify what does *not* follow from it.
   - Identify which later Samuel/Konrad actions require separate permissions or mistakes.
