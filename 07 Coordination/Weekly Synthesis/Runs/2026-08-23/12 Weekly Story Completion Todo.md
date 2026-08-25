@@ -46,13 +46,14 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
 
 # Priority 2 — Make the modern story actually begin
 
-- [ ] **Choose the exact target of the attack on Sylvan's startup.**
-  - **Live progress:** SC-004 Questions 1–2 accepted. The sabotage targets the **physical hosting environment for Sylvan's own servers** during a high-stakes convention presentation. At the crucial moment, the hosting center loses external connectivity for several hours. Such an outage is possible but very rare; the provider gives a plausible explanation with a slightly suspicious edge. At this stage it remains only a coincidence from Sylvan's perspective, with no proof of sabotage. Current author gate: **what immediate human/business consequence does the outage cause at the convention?**
+- [x] **Choose the exact target of the attack on Sylvan's startup.**
+  - **Live progress:** Macro Shape accepted. The first sabotage targets the **physical hosting environment for Sylvan's own servers** during a high-stakes convention presentation. The hosting center loses external connectivity for several hours, a possible but very rare outage, and the provider gives a plausible explanation with a slightly suspicious edge. Sylvan still gives the presentation but cannot perform the live demo. The immediate damage is minor by design; the incident remains easy to dismiss as coincidence and becomes important only in retrospect as the first event in a long sequence of attacks that later escalate substantially.
   - Generate 3 materially different sabotage patterns before selecting one.
   - Each option must identify the attacked asset, access path, human consequence, surviving anomaly, and who appears responsible at first.
   - **Done when:** the attack can be described as a concrete event rather than as "the startup is sabotaged."
 
 - [ ] **Define Sylvan's irreversible choice and loss.**
+  - **Live progress:** SC-005 is active at Macro Shape. The first convention outage causes no major loss; later attacks escalate substantially. Current author gate: **as those attacks escalate, what does Sylvan eventually choose to do that he could have avoided by walking away from the startup or accepting defeat?**
   - The collapse should not happen only because antagonists are powerful.
   - Sylvan must make a bounded decision that costs him something real and closes an easier path back.
   - **Done when:** the modern inciting event changes his life, forces the next environment, and creates an emotional cost that can echo at the ending.
