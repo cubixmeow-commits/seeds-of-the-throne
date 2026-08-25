@@ -109,13 +109,115 @@ $latestBuildEntries = array_values(array_filter(
     static fn (array $entry): bool => isset($fileSet[$entry['path']])
 ));
 
+$completionPointerPath = '07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md';
+$completionRegistryPath = '07 Coordination/Story Completion Workflow/TASK-REGISTRY.md';
+$completionCurrentPath = '07 Coordination/Story Completion Workflow/CURRENT.md';
+$completionSweeps = [
+    'Macro',
+    'Causal',
+    'Agency',
+    'Systems + evidence',
+    'Sequence',
+    'Scene map',
+    'Scene development',
+    'Draft',
+];
+$completionPublicLabels = [
+    1 => 'Containment rules',
+    2 => 'Modern inciting loss',
+    3 => 'Human–Luminai breakthrough',
+    4 => 'Evidence chain',
+    5 => 'Character agency',
+    6 => 'Eighty-year middle',
+    7 => 'Endgame mechanics',
+    8 => 'Narrative form',
+];
+$completion = [
+    'available' => false,
+    'completed' => 0,
+    'total' => 0,
+    'percent' => 0,
+    'current_sweep' => 'Macro Shape',
+    'current_task' => 'SC-001',
+    'active_sweep' => 0,
+    'working_fronts' => [],
+];
+
+if (
+    isset($fileSet[$completionPointerPath], $fileSet[$completionRegistryPath], $fileSet[$completionCurrentPath])
+) {
+    $pointerContents = file_get_contents($repositoryRoot . DIRECTORY_SEPARATOR . str_replace('/', DIRECTORY_SEPARATOR, $completionPointerPath));
+    $currentContents = file_get_contents($repositoryRoot . DIRECTORY_SEPARATOR . str_replace('/', DIRECTORY_SEPARATOR, $completionCurrentPath));
+
+    if (
+        $pointerContents !== false
+        && $currentContents !== false
+        && preg_match('/^source_path:\s*(.+)$/m', $pointerContents, $pointerMatch) === 1
+    ) {
+        $todoPath = trim($pointerMatch[1]);
+        if (isset($fileSet[$todoPath])) {
+            $todoContents = file_get_contents($repositoryRoot . DIRECTORY_SEPARATOR . str_replace('/', DIRECTORY_SEPARATOR, $todoPath));
+            if ($todoContents !== false) {
+                $priority = null;
+                $priorityCounts = [];
+                foreach (preg_split('/\R/', $todoContents) ?: [] as $line) {
+                    if (preg_match('/^# Priority (\d+)\b/', $line, $priorityMatch) === 1) {
+                        $priority = (int) $priorityMatch[1];
+                        $priorityCounts[$priority] ??= ['completed' => 0, 'total' => 0];
+                        continue;
+                    }
+                    if (str_starts_with($line, '# ')) {
+                        $priority = null;
+                        continue;
+                    }
+                    if ($priority !== null && preg_match('/^- \[([ xX])\]/', $line, $taskMatch) === 1) {
+                        $priorityCounts[$priority]['total']++;
+                        $completion['total']++;
+                        if (strtolower($taskMatch[1]) === 'x') {
+                            $priorityCounts[$priority]['completed']++;
+                            $completion['completed']++;
+                        }
+                    }
+                }
+
+                foreach ($priorityCounts as $number => $counts) {
+                    if ($counts['completed'] < $counts['total'] && isset($completionPublicLabels[$number])) {
+                        $completion['working_fronts'][] = $completionPublicLabels[$number];
+                    }
+                    if (count($completion['working_fronts']) === 3) {
+                        break;
+                    }
+                }
+
+                if (preg_match('/\*\*Current sweep:\*\*\s*([^\n]+)/', $currentContents, $sweepMatch) === 1) {
+                    $completion['current_sweep'] = trim($sweepMatch[1]);
+                }
+                if (preg_match('/\*\*Current task:\*\*\s*(SC-\d{3})\b/', $currentContents, $taskMatch) === 1) {
+                    $completion['current_task'] = $taskMatch[1];
+                }
+                $sweepNeedle = strtolower(strtok($completion['current_sweep'], ' ') ?: 'macro');
+                foreach ($completionSweeps as $index => $sweep) {
+                    if (str_starts_with(strtolower($sweep), $sweepNeedle)) {
+                        $completion['active_sweep'] = $index;
+                        break;
+                    }
+                }
+                $completion['percent'] = $completion['total'] > 0
+                    ? (int) round(($completion['completed'] / $completion['total']) * 100)
+                    : 0;
+                $completion['available'] = $completion['total'] > 0;
+            }
+        }
+    }
+}
+
 $data = portfolio();
 $identity = $data['identity'];
 $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260822a';
+$assetVersion = '20260824b';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -200,13 +302,65 @@ function explorer_format_bytes(?int $bytes): string
                 <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
                 <p class="explorer-hero__lede">Enter the living archive behind the story: canon, research, visual systems, drafts, and the decisions that connect them.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="#latest-build">
-                        <span>See what changed</span>
+                    <a class="archive-cta archive-cta--primary" href="#story-progress">
+                        <span>Story progress</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
                     <a class="archive-cta" href="#archive">Enter the archive</a>
                     <a class="archive-cta" href="../../docs/">Open the story atlas</a>
                 </div>
+            </div>
+        </section>
+
+        <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">
+            <div class="wrap">
+                <header class="explorer-progress__header">
+                    <p class="archive-intro__index">Story completion · Live from the vault</p>
+                    <div>
+                        <h2 id="story-progress-title">From architecture to manuscript.</h2>
+                        <p>The story advances horizontally: every active problem receives the same level of development before any one branch moves deeper.</p>
+                    </div>
+                </header>
+
+                <?php if ($completion['available']): ?>
+                    <div class="explorer-progress__summary">
+                        <p class="explorer-progress__count"><strong><?= e((string) $completion['completed']) ?> / <?= e((string) $completion['total']) ?></strong><span>story tasks complete</span></p>
+                        <div class="explorer-progress__meter">
+                            <div><span>Overall completion</span><strong><?= e((string) $completion['percent']) ?>%</strong></div>
+                            <progress max="100" value="<?= e((string) $completion['percent']) ?>" aria-label="Overall story completion"><?= e((string) $completion['percent']) ?>%</progress>
+                        </div>
+                        <dl class="explorer-progress__current">
+                            <div><dt>Current sweep</dt><dd><?= e($completion['current_sweep']) ?></dd></div>
+                            <div><dt>Current task</dt><dd><?= e($completion['current_task']) ?></dd></div>
+                        </dl>
+                    </div>
+
+                    <ol class="explorer-progress__sweeps" aria-label="Story completion sweep sequence">
+                        <?php foreach ($completionSweeps as $index => $sweep): ?>
+                            <li<?= $index === $completion['active_sweep'] ? ' class="is-current" aria-current="step"' : '' ?>>
+                                <span><?= e(str_pad((string) ($index + 1), 2, '0', STR_PAD_LEFT)) ?></span>
+                                <strong><?= e($sweep) ?></strong>
+                            </li>
+                        <?php endforeach; ?>
+                    </ol>
+
+                    <div class="explorer-progress__footer">
+                        <div>
+                            <p>Current working fronts</p>
+                            <ul>
+                                <?php foreach ($completion['working_fronts'] as $front): ?>
+                                    <li><?= e($front) ?></li>
+                                <?php endforeach; ?>
+                            </ul>
+                        </div>
+                        <a class="explorer-progress__link" href="../../docs/todo.html"><span>Open the full story roadmap</span><span aria-hidden="true">↗</span></a>
+                    </div>
+                <?php else: ?>
+                    <div class="explorer-progress__unavailable">
+                        <p>Live story progress is temporarily unavailable.</p>
+                        <a class="explorer-progress__link" href="../../docs/todo.html">Open the full story roadmap <span aria-hidden="true">↗</span></a>
+                    </div>
+                <?php endif; ?>
             </div>
         </section>
 

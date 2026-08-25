@@ -54,3 +54,11 @@ None. All 27 current completion tasks remain unresolved and begin at `UNTOUCHED`
 - `07 Coordination/` pickup/index/weekly synthesis
 - `07 QA/Decisions.md`
 - `docs/` weekly TODO dashboard and navigation
+- `iainreiddotdev/project-explorer/index.php`
+- `iainreiddotdev/project-explorer/assets/project-explorer.css`
+
+## Project Explorer integration
+
+The Project Explorer front page now includes a public, spoiler-aware Story Completion summary directly below its introduction. It derives completion totals from the current weekly TODO and reads the current sweep and task from the completion-workflow pointer, keeping the vault's Markdown records authoritative instead of maintaining a second checklist in the website.
+
+The public view exposes only workflow state: overall progress, the active macro-to-micro sweep, the current task ID, eight sweep stages, and broad working-front labels. It does not expose task wording or establish story facts. The full vault dashboard remains available through the linked public TODO page.
