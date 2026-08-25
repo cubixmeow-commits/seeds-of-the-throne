@@ -16,26 +16,28 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - SC-003 — **Define Konrad's verification failure** — complete at Macro Shape.
 - SC-004 — **Choose the exact target of the attack on Sylvan's startup** — complete at Macro Shape.
 - SC-005 — **Define Sylvan's irreversible choice and loss** — complete at Macro Shape.
-- SC-006 — **Plant the first anomaly George cannot explain** — active.
-- Completed at this depth: **5 / 27**.
+- SC-006 — **Plant the first anomaly George cannot explain** — complete at Macro Shape.
+- SC-007 — **Define one unprecedented completed-bond capability** — active.
+- Completed at this depth: **6 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
-## Accepted modern-start macro result so far
+## Accepted modern-start macro result
 
 - The first sabotage is a rare multi-hour loss of external connectivity at Sylvan's physical server-hosting center during a convention presentation.
 - Sylvan still presents but cannot perform the live demo; the immediate damage is minor and the event remains plausibly coincidental.
 - It is the first entry in a much longer sequence of attacks that escalates substantially.
-- The later collapse is not caused by one avoidable choice by Sylvan.
-- Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping their beliefs outside Sylvan's awareness.
-- The startup descends into increasing chaos until Sylvan's partners turn against him and the team structure becomes nonviable.
-- The irreversible loss is the startup/team and the trust relationships that sustained it.
-- The collapse forces Sylvan into the next stage of the story in another city.
+- Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping beliefs outside Sylvan's awareness.
+- The startup descends into increasing chaos until Sylvan's partners turn against him and the team becomes nonviable.
+- The irreversible loss is the startup/team and the trust relationships sustaining it; the collapse forces Sylvan into the next story stage in another city.
+- George's first anomaly is a **narrative-scale mismatch**: Sylvan is described as basically insignificant, but Samuel spends extraordinary effort trying to destroy him.
+- George also sees that his own side has less influence over the environment than its claimed status should provide.
+- The contradiction is personally observable and initially dismissible, but later supports the realization that the false reality required active maintenance because the real power relationships differed from what George had been told.
 
-## Current author gate — SC-006 Question 1
+## Current author gate — SC-007 Question 1
 
-> **What is the first small anomaly George notices during or after this early sabotage period that does not fit the explanation he is being given?**
+> **What is the one thing Sylvan and the Luminai can do together after their bond is fully completed that neither of them could do before?**
 
-It should be something he can plausibly observe himself and dismiss at first, but which later helps prove that someone has been actively maintaining or manipulating the false reality around him.
+It should solve a problem the story already contains and be a concrete capability, not generic greater intelligence, awareness, or unrestricted system access.
 
 ## Interaction rule
 
