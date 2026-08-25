@@ -14,96 +14,104 @@ The workflow should function as the operating system for finishing *Seeds of the
 
 The TODO list supplies the work order. The guided workflow supplies the method.
 
-Never jump directly from an unresolved story problem to polished prose. Every significant item moves through multiple controlled loops:
+The workflow must NOT take one TODO item from macro concept all the way to scene/prose completion before touching the others.
 
-1. Context assembly
-2. Problem definition
-3. Breadth generation
-4. Adversarial critique
-5. Author decision
-6. Causal integration
-7. Continuity validation
-8. Prototype / scene testing when appropriate
-9. Second adversarial pass
-10. Promotion into working story authority
-11. Update TODO and progress dashboard
-12. Advance to the next unlocked task
+Instead, it should move horizontally across the entire active TODO list at one level of abstraction, then make another complete pass at the next level of detail.
 
-A task may loop backward as many times as needed.
+This lets the whole story take shape together and makes cross-item dependencies, contradictions, opportunities, and thematic echoes visible before any one branch becomes overdeveloped.
 
-## Macro-to-micro hierarchy
+## Horizontal sweep model
 
-The workflow should move through levels in order and only descend when the upper level is stable enough.
+Think of the workflow as concentric passes across every important TODO item.
 
-### Level 1 — Story architecture
+### Sweep 1 — Macro shape across all items
 
-Resolve the load-bearing causal structure:
+For every active TODO item, answer only:
 
-- containment hierarchy and primary responsibility
-- Sylvan's initiating loss
-- Sylvan–Luminai capability and hard limit
-- evidence chain and custody
-- eighty-year causal spine
-- final trap / proof mechanism
-- victory cost and aftermath
+- What story function does this solve?
+- What changes because of it?
+- Who is affected?
+- What must be true before it?
+- What must be true after it?
+- What major dependencies connect it to other TODO items?
+- What are 2–4 broad candidate directions?
+- What remains unknown?
 
-Output: a complete beginning-to-end causal story that can survive adversarial questioning.
+Do not fully resolve any one item unless a small author decision is required to keep the sweep coherent.
 
-### Level 2 — Era / sequence architecture
+Output: a complete high-level map of how every major unresolved story problem fits into the beginning-to-end story.
 
-Break the story into indispensable sequences and historical phases.
+### Sweep 2 — Causal architecture across all items
+
+Return to every item and define:
+
+- cause
+- decision
+- consequence
+- irreversible change
+- evidence created or destroyed
+- control gained or lost
+- belief changed
+- next event forced by it
+
+Run forward and reverse causality checks.
+
+Output: the major causal bridges become visible across the entire story at once.
+
+### Sweep 3 — Character and agency across all items
+
+For every item ask:
+
+- what each involved character knows
+- what they could independently verify
+- what choices are actually available
+- why they choose as they do
+- what it costs them
+- how responsibility is preserved under manipulation
+- what relationship changes
+
+Output: character agency is synchronized across the whole plot rather than patched scene by scene.
+
+### Sweep 4 — Systems, limits, and evidence across all items
+
+For every relevant item define:
+
+- actor
+- channel
+- permission
+- resource
+- blind spot
+- audit trail
+- failure mode
+- evidence creator
+- custody
+- authentication
+- access
+- challenge
+- reveal threshold
+
+Output: technologies, Luminai, surveillance, environments, containment, and evidence operate consistently across the story.
+
+### Sweep 5 — Sequence architecture across all items
+
+Only after the prior sweeps are coherent, convert the story into indispensable sequences.
 
 For each sequence establish:
 
 - starting state
-- protagonist / antagonist objective
+- objective
+- opposition
 - irreversible event
-- evidence created or destroyed
-- belief changed
-- control gained or lost
+- evidence change
+- belief change
+- control change
 - consequence that forces the next sequence
 
-Output: ordered sequence map with no unexplained major transitions.
+Output: an ordered sequence map with no unexplained major transitions.
 
-### Level 3 — Character arc architecture
+### Sweep 6 — Scene architecture across all sequences
 
-For each major character, align:
-
-- desire
-- false belief / defensive model
-- available evidence
-- meaningful choices
-- escalating cost
-- irreversible decisions
-- relationship changes
-- final state
-
-Characters must retain agency even when manipulated.
-
-Output: character arcs synchronized to the sequence map.
-
-### Level 4 — Evidence / foreshadowing architecture
-
-For every endgame proof or revelation define:
-
-- creator
-- creation event
-- custody
-- authentication
-- blind spots
-- attempted suppression
-- rediscovery
-- who can legitimately access it
-- who must believe it
-- privacy limitations
-
-Then seed those elements earlier.
-
-Output: evidence chain that makes the ending earned rather than convenient.
-
-### Level 5 — Scene architecture
-
-Convert each approved sequence into scene candidates.
+Now move horizontally through all sequences and identify the minimum necessary scenes.
 
 Each scene must perform one or more necessary functions:
 
@@ -116,11 +124,13 @@ Each scene must perform one or more necessary functions:
 - establish a capability or limit
 - pay off prior setup
 
-Scenes without causal work should be challenged or removed.
+Do not polish scenes yet.
 
-Output: scene map / chapter candidate structure.
+Output: a complete scene/chapter candidate map for the whole novel.
 
-### Level 6 — Scene development loops
+### Sweep 7 — Scene development loops
+
+Only after the whole scene map exists should individual scenes receive deeper loops.
 
 For each scene:
 
@@ -133,13 +143,13 @@ For each scene:
 7. test continuity and knowledge boundaries
 8. test setup/payoff
 9. revise concept if necessary
-10. only then mark scene architecture stable
+10. mark scene architecture stable only when it fits the larger whole
 
-Output: development-ready scene packet, not final prose.
+Output: development-ready scene packets, not final prose.
 
-### Level 7 — Draft-generation loop
+### Sweep 8 — Draft-generation loop
 
-Only after scene structure is stable:
+Only after the scene structure is stable across the whole manuscript:
 
 1. retrieve approved context
 2. write prose using the Seeds prose skill
@@ -153,37 +163,126 @@ Only after scene structure is stable:
 
 Final fiction remains author-controlled.
 
-## Task-loop state machine
+## Why horizontal passes matter
 
-Every TODO item should visibly have one state:
+The purpose is not efficiency at the level of an individual task. The purpose is coherence at the level of the whole story.
 
-- LOCKED — dependency unresolved
-- READY — safe to begin
-- CONTEXT — assembling relevant vault material
-- BRAINSTORM — generating alternatives
-- CRITIC — adversarial testing
-- AUTHOR GATE — waiting for author decision
-- INTEGRATE — propagating decision through story
-- VALIDATE — continuity / causality testing
-- PROTOTYPE — testing through scene or artifact
-- DONE — definition of done satisfied
-- REOPENED — later work exposed a problem
+A deep solution to one TODO item can become wrong once another part of the story is clarified. Horizontal passes reduce that waste.
 
-The workflow should automatically show why a locked task is locked and what completing the current task unlocks.
+Each sweep should expose:
+
+- contradictions between TODO items
+- shared causal mechanisms
+- duplicated story functions
+- missing setup/payoff relationships
+- character arcs that intersect
+- evidence that can serve more than one plot function
+- opportunities to simplify the story
+
+The workflow should prefer a coherent whole at 60% detail over one branch at 100% while the rest remains at 10%.
+
+## Per-item loop inside each sweep
+
+Each TODO item can still use mini-loops, but only to the depth appropriate for the current sweep.
+
+A typical mini-loop:
+
+1. Context assembly
+2. Problem definition
+3. Breadth generation
+4. Adversarial critique
+5. provisional author direction
+6. record dependencies and consequences
+7. move to the next TODO item
+
+Do not fully integrate and close the task yet unless the current sweep requires that decision.
+
+After all active items have been visited, run a whole-story cross-check before beginning the next sweep.
+
+## Whole-story cross-check after every sweep
+
+At the end of each pass, review the entire story and ask:
+
+- Does the beginning still cause the middle?
+- Does the middle still cause the ending?
+- Are Samuel, Konrad, George, Sylvan, Orzai, and the Witness all acting from understandable information and motives?
+- Are any solutions dependent on coincidence or hidden omnipotence?
+- Did resolving one item invalidate another?
+- Can any two mechanisms be combined into one stronger mechanism?
+- Did new unanswered questions appear?
+- What should be reopened before descending to more detail?
+
+Only then begin the next level.
+
+## Macro TODO set for the first sweep
+
+The first horizontal pass should cover the entire current completion set, including at minimum:
+
+1. primary contained criminal / operational responsibility
+2. Sylvan startup sabotage and initiating loss
+3. Sylvan–Luminai unprecedented capability and hard limit
+4. employment-environment terminal rule and bounded transfer
+5. Witness identity, role, artifact, custody, and transfer
+6. Konrad-to-Samuel migration / false reassurance / hierarchy
+7. Samuel surveillance boundaries
+8. George's independent verification and refusal points
+9. relative chronology anchors
+10. public disclosure audience, threshold, privacy, and cost
+11. cultivation safeguards and ethical distinction
+12. indispensable eighty-year middle milestones
+13. Orzai's independent professional refusal
+14. Great War defeat and Konrad escalation
+15. victory cost and final character states
+16. viewpoint architecture
+
+The purpose of Sweep 1 is not to solve all sixteen. It is to see how all sixteen fit together.
+
+## Task-loop state model
+
+Because work now happens by sweep, task state should track both task status and depth.
+
+Suggested states:
+
+- UNTOUCHED
+- MACRO-MAPPED
+- CAUSAL-MAPPED
+- AGENCY-MAPPED
+- SYSTEM/EVIDENCE-MAPPED
+- SEQUENCE-INTEGRATED
+- SCENE-MAPPED
+- SCENE-DEVELOPED
+- DRAFTED
+- DONE
+- REOPENED
+
+A separate field can track whether the current pass is:
+
+- CONTEXT
+- BRAINSTORM
+- CRITIC
+- AUTHOR GATE
+- INTEGRATE
+- VALIDATE
+
+This prevents the dashboard from implying that an item is simply “done” when it is actually only solved at one level of detail.
 
 ## Definition-of-done rule
 
 A checkbox is not complete merely because an answer exists.
 
-A task becomes DONE only when:
+A task becomes fully DONE only when:
 
 1. the author-approved decision is recorded;
 2. downstream affected notes / units are identified;
 3. the decision is integrated into the working story;
 4. adversarial review finds no blocking causal failure;
 5. contradictions / open questions are updated;
-6. the Weekly Story Completion TODO is checked off;
-7. the public dashboard reflects the new progress.
+6. the item is represented in the sequence and scene architecture;
+7. required setup/payoff and evidence are mapped;
+8. the Weekly Story Completion TODO is checked off;
+9. the public dashboard reflects the new progress.
+
+Before that, the dashboard should show the deepest completed sweep rather than a binary finished state.
 
 ## Loop types
 
@@ -191,7 +290,7 @@ The guided workflow should be able to invoke different loops depending on the pr
 
 ### Gap Loop
 
-Problem → constraints → 3–5 alternatives → critic → author gate → integration.
+Problem → constraints → 3–5 alternatives → critic → provisional direction → dependency record.
 
 ### Causality Loop
 
@@ -209,6 +308,10 @@ Create → preserve → authenticate → access → challenge → reveal → aud
 
 Capability → permission → resource → blind spot → audit trail → failure mode → exploit test.
 
+### Sequence Loop
+
+Starting state → objective → conflict → irreversible event → consequence → next sequence.
+
 ### Scene Loop
 
 Required function → multiple executions → prototype → critic → revise → scene packet.
@@ -221,22 +324,21 @@ Scene packet → prose → adversarial prose critic → voice → variance / ant
 
 The GitHub Pages Weekly TODO page can later become the front end for this workflow.
 
+It should emphasize horizontal progress through the story.
+
 Suggested display:
 
 - overall story-completion percentage
-- current level (Macro / Sequence / Character / Evidence / Scene / Draft)
-- current active task
-- why this task matters
-- dependencies
-- what it unlocks
-- current loop stage
-- definition of done
-- completed loops / number of iterations
+- current sweep: Macro / Causal / Agency / Systems-Evidence / Sequence / Scene / Draft
+- progress through current sweep: e.g. 11 of 16 items macro-mapped
+- every TODO item in a grid or list with its deepest completed level
+- active item within the current sweep
+- unresolved dependencies discovered during the pass
+- whole-story issues to revisit before next sweep
 - author decisions still required
-- next three unlocked tasks
 - deferred / intentionally open items
 
-The public view can be simpler, while the vault contains the complete working state.
+This makes it possible to visually watch the whole novel gain resolution layer by layer.
 
 ## Progress storage
 
@@ -246,11 +348,12 @@ Possible structure:
 
 `07 Coordination/Story Completion Workflow/`
 
-- `WORKFLOW.md` — workflow rules
-- `CURRENT.md` — active task and current loop
-- `TASK-REGISTRY.md` — all TODO tasks, dependencies, states, definitions of done
+- `WORKFLOW.md` — workflow rules and horizontal-sweep model
+- `CURRENT.md` — current sweep and current item within it
+- `TASK-REGISTRY.md` — all TODO items and deepest completed level
+- `SWEEP-LOG.md` — summary of each complete horizontal pass
 - `DECISION-LOG.md` — approved author gates
-- `LOOP-LOG.md` — iterations and critic results
+- `LOOP-LOG.md` — individual item iterations and critic results
 - `UNLOCK-MAP.md` — dependency graph
 - `COMPLETION.md` — high-level progress summary
 
@@ -264,34 +367,45 @@ Each task packet should preserve:
 - source TODO item
 - dependencies
 - context paths
-- unresolved question
+- macro model
+- causal model
+- agency model
+- systems/evidence model
+- sequence integration
+- scene integration
 - brainstorming outputs
 - critic outputs
-- author decision
-- integration targets
-- validation results
-- status
-- completion date
+- author decisions
+- unresolved questions
+- deepest completed sweep
 
 ## Critical behavior
 
-The system must resist sideways expansion.
+The system must resist both sideways expansion and premature depth.
 
 Before adding research, lore, characters, technology, institutions, or scenes, ask:
 
-**Does this directly help satisfy the active task's definition of done?**
+**Does this directly help the current sweep clarify this TODO item's relationship to the whole story?**
 
-If no, record it as a later idea and continue the active loop.
+If no, record it as a later idea and continue.
 
-## First workflow task
+Likewise, if a macro pass starts turning into detailed scene construction, stop and record the promising detail for the appropriate later sweep.
 
-Start with the current highest-leverage item:
+## First workflow execution
 
-**What operational responsibility or relationship makes one contained criminal the primary rather than merely present?**
+Do NOT start by taking the containment hierarchy task all the way through the system.
 
-Run it through the full macro Gap Loop before moving to Samuel's later lock, acquisition, migration powers, or reset limits.
+Instead:
 
-After that task is integrated and validated, allow the dependency graph to unlock the next appropriate work.
+1. begin Sweep 1: Macro Shape;
+2. visit the primary-contained-criminal question first;
+3. establish only its macro function, dependencies, candidate directions, and unknowns;
+4. move to Sylvan's initiating loss;
+5. continue through every major TODO item;
+6. complete a whole-story macro review;
+7. only then begin Sweep 2.
+
+The first major deliverable should therefore be a **Macro Story Completion Map** containing every TODO item in one coherent view.
 
 ## Tonight's implementation target
 
@@ -300,10 +414,12 @@ When back on desktop:
 1. Sync local vault from GitHub.
 2. Read this handoff plus `12 Weekly Story Completion Todo.md` and the August 24 chat.
 3. Build the Story Completion Workflow folder and templates.
-4. Convert the weekly completion TODO into a dependency-aware task registry.
-5. Create `CURRENT.md` pointing at the first containment-hierarchy task.
-6. Build the first reusable loop packet / task template.
-7. Connect task completion back to the weekly TODO.
-8. If practical, expose workflow progress through the planned GitHub Pages TODO dashboard.
+4. Convert the weekly completion TODO into the horizontal task registry.
+5. Create `CURRENT.md` with `Current Sweep: Macro Shape` and the first TODO item.
+6. Build a reusable per-item macro-pass template.
+7. Build `SWEEP-LOG.md` and a whole-story cross-check template.
+8. Run the macro sweep across every major TODO item before deepening any one item.
+9. Connect each item's deepest completed level back to the weekly TODO/dashboard.
+10. If practical, expose sweep progress through the planned GitHub Pages TODO dashboard.
 
-The objective is not to automate authorship. It is to make it difficult to lose the thread, skip causal work, or prematurely jump into prose while moving steadily from the macro story to finished scenes and eventually the final manuscript.
+The objective is not to finish one problem at a time. It is to progressively increase the resolution of the entire story until the whole novel moves together from architecture to sequences to scenes to final prose.
