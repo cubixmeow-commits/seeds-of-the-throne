@@ -7,17 +7,17 @@ source: 07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Complet
 
 # Story Completion Task Registry
 
-The weekly TODO owns the checklist wording and public completion state. This registry adds execution depth without changing story authority. All initial states are deliberately `UNTOUCHED`.
+The weekly TODO owns the checklist wording and public completion state. This registry adds execution depth without changing story authority.
 
 | ID | Priority | Task | Depth | Phase | Validation | Direct prerequisites |
 |---|---:|---|---|---|---|---|
 | SC-001 | 1 | Define what makes one contained criminal the primary | MACRO | COMPLETE | NOT-RUN | — |
-| SC-002 | 1 | Finish the S-008 containment hierarchy needs analysis | MACRO | AUTHOR-GATE | NOT-RUN | SC-001 |
-| SC-003 | 1 | Define Konrad's verification failure | UNTOUCHED | IDLE | NOT-RUN | SC-001, SC-002 |
-| SC-004 | 2 | Choose the exact target of the attack on Sylvan's startup | UNTOUCHED | IDLE | NOT-RUN | — |
-| SC-005 | 2 | Define Sylvan's irreversible choice and loss | UNTOUCHED | IDLE | NOT-RUN | SC-004 |
-| SC-006 | 2 | Plant the first anomaly George cannot explain | UNTOUCHED | IDLE | NOT-RUN | SC-004 |
-| SC-007 | 3 | Define one unprecedented completed-bond capability | UNTOUCHED | IDLE | NOT-RUN | — |
+| SC-002 | 1 | Finish the S-008 containment hierarchy needs analysis | MACRO | COMPLETE | NOT-RUN | SC-001 |
+| SC-003 | 1 | Define Konrad's verification failure | MACRO | COMPLETE | NOT-RUN | SC-001, SC-002 |
+| SC-004 | 2 | Choose the exact target of the attack on Sylvan's startup | MACRO | COMPLETE | NOT-RUN | — |
+| SC-005 | 2 | Define Sylvan's irreversible choice and loss | MACRO | COMPLETE | NOT-RUN | SC-004 |
+| SC-006 | 2 | Plant the first anomaly George cannot explain | MACRO | COMPLETE | NOT-RUN | SC-004 |
+| SC-007 | 3 | Define one unprecedented completed-bond capability | MACRO | AUTHOR-GATE | NOT-RUN | — |
 | SC-008 | 3 | Define why the capability could not act earlier | UNTOUCHED | IDLE | NOT-RUN | SC-007 |
 | SC-009 | 3 | Define a hard limit and cost | UNTOUCHED | IDLE | NOT-RUN | SC-007, SC-008 |
 | SC-010 | 3 | Build an endgame setup coverage matrix | UNTOUCHED | IDLE | NOT-RUN | SC-007, SC-008, SC-009 |
