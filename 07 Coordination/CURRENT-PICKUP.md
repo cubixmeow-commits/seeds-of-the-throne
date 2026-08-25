@@ -58,13 +58,15 @@ Question 2 is accepted. Every contained criminal enters colonization through pro
 
 Question 3 is accepted. Konrad did not understand his deal as a narrow grant of authority tied only to one city. He believed the colonization rules permitted conquest to expand his jurisdiction. His ambition was to conquer the other empires, then every country on the colonization planet, until he controlled the entire colonization world and could effectively make his own rules. He therefore expected his authority to grow through successful conquest under the planet's rules, not to terminate at the boundary of his original city. He never planned around defeat because he did not believe his conquest could fail.
 
-Question 4 is accepted. Samuel's negotiated alpha status becomes operational in the largest empire during the phase surrounding Samuel Jr.'s attempted takeover of the government. Samuel himself is already part of an isolated, luxury controller class that presents itself to the participants as effectively godlike. Members of this class control and manage participant populations, their own bloodlines and other bloodlines/groups associated with them, and synthetics from outside the ordinary lived environment. When Samuel Jr.'s attempted takeover pushes that group into the relevant containment structure, Samuel's previously negotiated alpha status is no longer merely a prosecution promise; it becomes active inside that environment. The exact technical or administrative lock produced by that activation remains unresolved.
+Question 4 is accepted. Samuel's negotiated alpha status becomes operational in the largest empire during the phase surrounding Samuel Jr.'s attempted takeover of the government. Samuel himself is already part of an isolated, luxury controller class that presents itself to the participants as effectively godlike. Members of this class control and manage participant populations, their own bloodlines and other bloodlines/groups associated with them, and synthetics from outside the ordinary lived environment. When Samuel Jr.'s attempted takeover pushes that group into the relevant containment structure, Samuel's previously negotiated alpha status is no longer merely a prosecution promise; it becomes active inside that environment.
 
-Proceed to Question 5 only for SC-001:
+Question 5 is accepted. Containment decision-making will use a **tiered permission hierarchy**, analogous to permissions in a computer system. Authority is divided across distinct decision-making elements rather than collapsing into blanket ownership. Each leader has defined permissions over specific domains. Alpha status places Samuel at the highest structural tier, but it does not automatically mean unlimited control over every person, system, bloodline, synthetic, or decision. The exact permission matrix will be designed element by element to further the effectiveness of the overall story, preserve meaningful lower-level authority, and create bounded conflicts, dependencies, mistakes, and opportunities for manipulation.
 
-> **What specifically becomes structurally subordinate to Samuel when his alpha status activates: the people assigned to that containment environment, the control/administrative systems serving them, the bloodline and synthetic-management programs, or some combination of those?**
+Proceed to Question 6 only for SC-001:
 
-Do not yet solve why the system uses the lock, Samuel's later exploitation mechanics, Konrad's reactivation procedure, or reset limits. Define only the scope of what alpha activation actually places beneath Samuel's structural priority.
+> **In this tiered permission hierarchy, what is the defining advantage of the alpha tier over lower leaders: can the alpha override lower-tier decisions, assign or revoke permissions, approve cross-domain actions, control only reserved top-level functions, or some bounded combination of those?**
+
+Do not yet build the full permission matrix, explain why the hierarchy locks, or solve Samuel's later exploitation of Konrad. Define only what makes alpha structurally different from the next tier down.
 
 Use:
 
@@ -96,6 +98,7 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - Samuel has a separate bounded jurisdiction in that larger environment.
 - Samuel's earlier first-primary integration establishes structural priority there.
 - Samuel's first active integration occurs during the phase surrounding Samuel Jr.'s attempted government takeover, while Samuel belongs to the isolated luxury controller class managing participants, bloodlines/groups, and synthetics.
+- Containment authority is tiered by permissions; lower leaders retain real authority in their assigned domains and alpha status must remain bounded rather than omnipotent.
 - Konrad later reactivates or migrates Fitzgerald machinery into Samuel's jurisdiction.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - The consequences materially contribute to the Fitzgerald group's permanent destruction.
@@ -107,8 +110,9 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 
 ## Still unresolved
 
-- what specifically becomes subordinate when Samuel's alpha status activates;
-- why the system uses that structural priority/lock;
+- defining alpha-tier permissions versus the next tier down;
+- the full permission matrix across containment decision-making elements;
+- why the system uses structural priority/lock;
 - what Samuel knew and when;
 - Samuel's exact lie and why Konrad believes it;
 - reactivation/migration procedure;
