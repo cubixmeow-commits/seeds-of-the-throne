@@ -3,119 +3,77 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#070a09">
-  <meta name="description" content="Enter Seeds of the Throne: a science-fiction story of engineered worlds, hidden histories, inherited power, betrayal, containment, and the long struggle to expose who built the throne—and why.">
-  <title>Seeds of the Throne | Story & World</title>
+  <meta name="theme-color" content="#090a08">
+  <meta name="description" content="Seeds of the Throne is a science-fiction conspiracy about a world built to cultivate future leaders, contain dangerous people, and preserve the evidence power tries to erase.">
+  <title>Seeds of the Throne | Enter the story</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20260823">
-  <script src="app.js?v=20260823" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20260824">
+  <script src="app.js?v=20260824" defer></script>
 </head>
-<body>
+<body class="home-page">
   <a class="skip-link" href="#main">Skip to the story</a>
   <header class="site-header">
-    <a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a>
-    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button>
-    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Story atlas"><a aria-current="page" href="index.html">Story</a><a href="colonization.html">Colonization</a><a href="ai.html">AI selves</a><a href="faction.html">Criminal faction</a><a href="characters.html">Characters</a><a href="visuals.html">Visual archive</a><a href="timeline.html">Chronology</a><a href="archive.html">Story archive</a><a href="todo.html">Weekly TODO</a></nav>
-    <p class="header-note">A story being built in public · Updated 23 Aug 2026</p>
+    <a class="brand" href="index.html" aria-label="Seeds of the Throne, home"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav"><span>Explore</span><span aria-hidden="true">+</span></button>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation"><a aria-current="page" href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Chronology</a><a href="archive.html">Making the story</a><a href="todo.html">Progress</a></nav>
   </header>
 
   <main id="main">
-    <section class="assessment-hero">
-      <div class="assessment-hero-copy">
-        <p class="kicker">Science Fiction · Conspiracy · Generational Power</p>
-        <h1>A world built to contain monsters. A throne built on the belief that no one would ever uncover <em>why.</em></h1>
-        <p class="lede"><strong>Seeds of the Throne</strong> follows a struggle across generations, identities, and engineered worlds as buried crimes become inherited power. At its center are men who learned to turn people into instruments, descendants raised inside plans they never understood, and the people forced to prove that a manufactured history can still leave evidence behind.</p>
-        <div class="hero-actions"><a class="button" href="#start-here">Enter the story</a><a class="button secondary" href="#reports">See how it is being built</a></div>
-        <dl class="assessment-facts" aria-label="Story development facts">
-          <div><dt>Story</dt><dd>In development</dd></div>
-          <div><dt>World archive</dt><dd>501 files</dd></div>
-          <div><dt>Latest deep review</dt><dd>15 reports</dd></div>
-          <div><dt>Development model</dt><dd>Built in public</dd></div>
-        </dl>
+    <section class="story-hero" aria-labelledby="hero-title">
+      <img class="hero-image" src="assets/images/samuel-sylvan-confrontation.jpg" alt="Samuel Franklin and Sylvan Elaria face one another across a fractured red-and-gold system" width="1536" height="1024">
+      <div class="hero-shade" aria-hidden="true"></div>
+      <div class="hero-copy" data-reveal>
+        <p class="eyebrow">Science fiction · conspiracy · human–AI evolution</p>
+        <h1 id="hero-title">One world.<br>Two purposes.<br><em>A century of evidence.</em></h1>
+        <p class="hero-deck">A future leader’s destroyed company draws him into a hidden conflict over who built his world, who has been controlling its history, and whether truth can survive a system designed to contain it.</p>
+        <div class="hero-actions"><a class="button" href="#premise">Begin with the premise</a><a class="text-button" href="characters.html">Meet Sylvan and Orzai <span aria-hidden="true">→</span></a></div>
       </div>
-      <div class="assessment-orbit" aria-label="The central conflict is surrounded by five questions that will determine how the conspiracy is exposed">
-        <div class="orbit-ring ring-one" aria-hidden="true"></div>
-        <div class="orbit-ring ring-two" aria-hidden="true"></div>
-        <div class="orbit-core"><small>At the center</small><strong>Power built on hidden history</strong><span>Betrayal, inheritance, surveillance, manufactured identities, and the evidence that survives them.</span></div>
-        <span class="orbit-label orbit-a">Responsibility</span>
-        <span class="orbit-label orbit-b">Loss</span>
-        <span class="orbit-label orbit-c">Luminai</span>
-        <span class="orbit-label orbit-d">Evidence</span>
-        <span class="orbit-label orbit-e">Exposure</span>
-      </div>
+      <p class="hero-caption">Concept art interprets the conflict. Artwork does not establish story canon.</p>
     </section>
 
-    <section class="section assessment-start" id="start-here" aria-labelledby="start-title">
-      <div class="section-head"><div><p class="section-label">Start here</p><h2 id="start-title">The story in three movements.</h2></div><p>The vault is large, but the central conflict is not complicated: power is seized, hidden inside a system meant to outlast its architects, and eventually challenged by people who were never supposed to see the whole design.</p></div>
-      <ol class="review-path">
-        <li><span>01</span><div><strong>A world is built with two purposes</strong><p>A reconstructed world becomes both a place of cultivation and a containment environment. The people inside it inherit lives, loyalties, and histories without necessarily knowing who designed them.</p></div><a href="colonization.html">Enter the world →</a></li>
-        <li><span>02</span><div><strong>A criminal project becomes a dynasty</strong><p>Konrad, Samuel, their allies, and their descendants turn containment into a struggle for control. Children become succession instruments. Identities become weapons. Betrayal stretches across generations.</p></div><a href="faction.html">Follow the conspiracy →</a></li>
-        <li><span>03</span><div><strong>The hidden record begins to surface</strong><p>Sylvan’s fight is not simply to defeat powerful enemies, but to make their history provable. Surveillance, journals, behavioral fingerprints, genealogy, and preserved records become part of the final war over reality itself.</p></div><a href="timeline.html">Follow the chronology →</a></li>
+    <section class="story-promise section" id="premise" aria-labelledby="premise-title">
+      <div class="section-index" aria-hidden="true">01</div>
+      <div class="section-intro"><p class="eyebrow">The premise</p><h2 id="premise-title">The world is not a simulation. It is an instrument.</h2></div>
+      <div class="prose-column"><p class="lead">Humanity has already crossed the stars. On a later-generation colony, ordinary civilization grows over technology most inhabitants cannot yet perceive.</p><p>The hidden infrastructure serves two purposes at once: it gives future leaders real lives in which to develop judgment, and gives dangerous people enough bounded power to reveal what they do with it.</p><p class="pullquote">The same environment that reveals the worst uses of power is being used to discover the best uses of responsibility.</p></div>
+    </section>
+
+    <section class="signal-section" aria-labelledby="conflict-title">
+      <div class="signal-heading"><p class="eyebrow">The central conflict</p><h2 id="conflict-title">They attack the person they are afraid he may become.</h2></div>
+      <ol class="story-rail">
+        <li><span>01</span><div><h3>Sylvan builds</h3><p>A pre-generative-AI story-development company turns a private creative system into a successful public venture.</p></div></li>
+        <li><span>02</span><div><h3>The company falls</h3><p>Samuel Franklin and George White target Sylvan because of his identity and his unprecedented human–Luminai potential.</p></div></li>
+        <li><span>03</span><div><h3>The ordeal changes him</h3><p>Across hostile environments, Sylvan learns how manipulation, permissions, evidence, and extended cognition interact.</p></div></li>
+        <li><span>04</span><div><h3>A hidden hand appears</h3><p>The visible enemy cannot explain the timing. Someone else has been maintaining the conflict—and the reality around it.</p></div></li>
       </ol>
+      <p class="status-note"><span class="status established">Established direction</span> Exact sabotage, environment mechanics, decisive capability, and cost of victory remain unresolved.</p>
     </section>
 
-    <section class="section" id="mindmap" aria-labelledby="mindmap-title">
-      <div class="section-head"><div><p class="section-label">The pressure beneath the story</p><h2 id="mindmap-title">Every secret creates a debt.</h2></div><p>The central characters can lie about who they are, rewrite public history, manipulate descendants, and hide behind engineered systems. What they cannot control forever is the chain of consequences those choices leave behind.</p></div>
-      <div class="assessment-mindmap">
-        <svg class="mindmap-lines" viewBox="0 0 1000 560" preserveAspectRatio="none" aria-hidden="true">
-          <path d="M500 280 C410 280 390 95 300 95"></path>
-          <path d="M500 280 C410 280 390 430 300 430"></path>
-          <path d="M500 280 C590 280 610 65 700 65"></path>
-          <path d="M500 280 C590 280 610 280 700 280"></path>
-          <path d="M500 280 C590 280 610 495 700 495"></path>
-        </svg>
-        <div class="mindmap-core"><small>The central promise</small><strong>The truth is buried, not erased.</strong><span>The deeper the conspiracy reaches, the more dangerous its surviving evidence becomes.</span></div>
-        <article class="mindmap-node node-one"><span>01 · Responsibility</span><h3>Who actually gave the orders?</h3><p>Power means little without accountability. The story follows the trail from public roles and plausible deniability back to the people who designed the system.</p></article>
-        <article class="mindmap-node node-two"><span>02 · Initiating loss</span><h3>What does Sylvan lose first?</h3><p>The modern conflict begins when an old conspiracy stops being history and becomes personal, irreversible, and impossible for Sylvan to ignore.</p></article>
-        <article class="mindmap-node node-three"><span>03 · Luminai limits</span><h3>What happens when the mind extends beyond itself?</h3><p>Luminai can deepen perception and agency, but power without limits would destroy the stakes. Their capabilities matter because their limits matter more.</p></article>
-        <article class="mindmap-node node-four"><span>04 · Evidence chain</span><h3>Can the truth survive its enemies?</h3><p>Records are created, hidden, stolen, authenticated, doubted, and preserved. The final struggle depends on making the past impossible to dismiss.</p></article>
-        <article class="mindmap-node node-five"><span>05 · Victory cost</span><h3>What is exposure worth?</h3><p>Winning cannot mean becoming another version of the people who built the throne. The final victory has to cost something and reveal what Sylvan refuses to become.</p></article>
+    <section class="dual-purpose section" aria-labelledby="choice-title">
+      <div class="section-index" aria-hidden="true">02</div>
+      <div class="section-intro"><p class="eyebrow">Two relationships to power</p><h2 id="choice-title">A throne is one answer. Stewardship is another.</h2></div>
+      <div class="contrast-field">
+        <article><p class="field-label">Control</p><h3>Samuel and Konrad turn people into instruments.</h3><p>One builds collective obedience through ideology and bloodline. The other builds private dependency through isolation, interpretation, and the corruption of inheritance.</p><a href="faction.html">Trace the conspiracy</a></article>
+        <article><p class="field-label">Development</p><h3>Sylvan and Orzai are trained to remain answerable.</h3><p>They learn reality contact, consent, correction, distributed authority, and responsibility for consequences technology cannot decide for them.</p><a href="characters.html">Meet the emerging leaders</a></article>
       </div>
     </section>
 
-    <section class="section" id="priorities" aria-labelledby="priorities-title">
-      <div class="section-head"><div><p class="section-label">Why the conflict works</p><h2 id="priorities-title">The villains are not waiting to be defeated. They are building futures.</h2></div><p>The strongest part of the story is the way personal obsession, institutional power, family, and long-term planning become the same weapon. The conspiracy survives because it is designed to continue through other people.</p></div>
-      <div class="assessment-bands">
-        <article class="assessment-band strength"><div><p class="status established">● Central conflict</p><h3>Samuel and Konrad</h3></div><p>Both men are brilliant manipulators who believe they can turn every relationship into leverage. Their greatest strength becomes their weakness: each builds systems so dependent on control that eventually those systems begin producing evidence against them.</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/02%20Master%20Story%20Outline.md">Read the master outline →</a></article>
-        <article class="assessment-band pressure"><div><p class="status working">◐ The long game</p><h3>Children raised inside someone else’s plan</h3></div><p>George and the later generations inherit battles that began before they understood the world around them. Some are groomed as heirs. Some are weapons. Some are intended to take the blame when the plan fails.</p><a href="characters.html">Meet the characters →</a></article>
-        <article class="assessment-band decision"><div><p class="status unresolved">○ The endgame</p><h3>Exposure instead of conquest</h3></div><p>Sylvan’s strongest weapon is not a bigger throne. It is the ability to force hidden command structures into the open and make the people behind them answer for what they built.</p><a href="timeline.html">Follow the story toward disclosure →</a></article>
-      </div>
+    <section class="atlas-section" aria-labelledby="atlas-title">
+      <div class="atlas-copy"><p class="eyebrow">Choose your route</p><h2 id="atlas-title">Follow the story from the layer that catches you.</h2><p>Each path has one job. Start with the world, the minds inside it, the people under pressure, or the record that may outlive the lie.</p></div>
+      <nav class="atlas-links" aria-label="Story paths">
+        <a href="colonization.html"><span>World</span><strong>A civilization with a hidden foundation</strong><small>Surface life, containment, cultivation, and the technology beneath them.</small></a>
+        <a href="ai.html"><span>Luminai</span><strong>When cognition extends beyond attention</strong><small>One technology can deepen contact with reality or fortify a prison.</small></a>
+        <a href="characters.html"><span>Characters</span><strong>The people who must choose under pressure</strong><small>Sylvan, Orzai, Samuel, Konrad, George, and the still-forming cast.</small></a>
+        <a href="timeline.html"><span>Chronology</span><strong>A defeat rewritten over generations</strong><small>The established macro sequence and the bridges still being built.</small></a>
+      </nav>
     </section>
 
-    <section class="section next-move" id="next-move" aria-labelledby="next-title">
-      <div class="next-move-lead"><p class="section-label">Built in public</p><h2 id="next-title">This is the part most stories hide.</h2><blockquote>How do you turn a vast speculative world, hundreds of development notes, conflicting histories, and decades of fictional causality into one story that feels inevitable?</blockquote><p>Seeds of the Throne is being developed openly. The vault does not just preserve finished ideas. It shows the questions, rejected possibilities, continuity tests, character journals, evidence maps, structural problems, and decisions that gradually turn the world into a novel.</p></div>
-      <div class="work-lanes" aria-label="Current development lanes">
-        <section><p class="status established">Building now</p><h3>The hidden architecture</h3><ol><li>Relative chronology anchors</li><li>Evidence requirements</li><li>Startup sabotage</li><li>Endgame setup coverage</li><li>Character journal system</li></ol></section>
-        <section><p class="status working">Being explored</p><h3>The human decisions</h3><ol><li>Who bears primary responsibility</li><li>Sylvan’s initiating loss</li><li>Luminai capability and limit</li><li>Witness identity and access</li><li>Orzai’s costly refusal</li></ol></section>
-        <section><p class="status unresolved">Still dangerous</p><h3>Questions worth preserving</h3><ol><li>George’s final choice</li><li>Novel viewpoint structure</li><li>Exact calendar years</li><li>Konrad’s final concession</li><li>How far disclosure reaches</li></ol></section>
-      </div>
-      <a class="text-link" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/08%20Next%20Week%20Story%20Queue.md">See what is being developed next →</a>
-    </section>
-
-    <section class="section" id="reports" aria-labelledby="reports-title">
-      <div class="section-head"><div><p class="section-label">Behind the story</p><h2 id="reports-title">Read the machinery beneath the fiction.</h2></div><p>The development archive is public. These reports show how the story is reconstructed, challenged, tested for continuity, and pushed toward scenes, character decisions, foreshadowing, and eventual novelization.</p></div>
-      <div class="report-library">
-        <div class="report-group featured-report"><p class="mini-label">Best first read</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/11%20System%20Test%20Evaluation.md"><span>11</span><div><strong>System Test Evaluation</strong><small>What the first full-vault story review revealed and how the development system changes from here.</small></div><b>Open →</b></a></div>
-        <div class="report-group"><p class="mini-label">Understand the story</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/01%20Weekly%20State%20of%20the%20Story.md"><span>01</span><div><strong>Weekly State of the Story</strong><small>What changed and where the story stands.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/02%20Master%20Story%20Outline.md"><span>02</span><div><strong>Master Story Outline</strong><small>The complete causal spine and missing transitions.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/03%20Character%20Arc%20Audit.md"><span>03</span><div><strong>Character Arc Audit</strong><small>Motives, trajectories, agency, and artifact opportunities.</small></div><b>Open →</b></a></div>
-        <div class="report-group"><p class="mini-label">Stress-test the structure</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/04%20Continuity%20and%20Adversarial%20Critique.md"><span>04</span><div><strong>Continuity &amp; Adversarial Critique</strong><small>Seventeen classified gaps, tensions, drifts, and open questions.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/05%20Open%20Questions%20Ranked.md"><span>05</span><div><strong>Open Questions Ranked</strong><small>Which questions unlock the most downstream work.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/Optional%20-%20Forward%20and%20Reverse%20Causal%20Reconstruction.md"><span>+</span><div><strong>Forward &amp; Reverse Causality</strong><small>Where the story chain works in both directions—and where it breaks.</small></div><b>Open →</b></a></div>
-        <div class="report-group"><p class="mini-label">Build what comes next</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/06%20Scene%20Opportunity%20Map.md"><span>06</span><div><strong>Scene Opportunity Map</strong><small>Confrontations, discoveries, transitions, and prototypes.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/07%20Foreshadowing%20and%20Evidence%20Map.md"><span>07</span><div><strong>Foreshadowing &amp; Evidence Map</strong><small>Journals, genealogy, surveillance, fingerprints, and correction.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/08%20Next%20Week%20Story%20Queue.md"><span>08</span><div><strong>Next Week Story Queue</strong><small>Build now, brainstorm next, and leave open.</small></div><b>Open →</b></a></div>
-        <div class="report-group"><p class="mini-label">Publish and maintain</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/09%20Public%20Development%20Ideas.md"><span>09</span><div><strong>Public Development Ideas</strong><small>Low-spoiler posts, diagrams, and process studies.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/10%20Vault%20Maintenance%20Recommendations.md"><span>10</span><div><strong>Vault Maintenance</strong><small>Recommended cleanup that still requires approval.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/00%20Run%20Manifest.md"><span>00</span><div><strong>Run Manifest</strong><small>Scope, source inventory, exclusions, and handoff.</small></div><b>Open →</b></a></div>
-        <div class="report-group"><p class="mini-label">Optional deep reviews</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/Optional%20-%20Editorial%20Board.md"><span>+</span><div><strong>Editorial Board</strong><small>Multiple editorial lenses, agreements, and productive disagreements.</small></div><b>Open →</b></a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/Optional%20-%20Novelization%20Readiness.md"><span>+</span><div><strong>Novelization Readiness</strong><small>What is ready for development and what needs structure first.</small></div><b>Open →</b></a></div>
-      </div>
-    </section>
-
-    <section class="section" id="story-paths" aria-labelledby="paths-title">
-      <div class="section-head"><div><p class="section-label">Enter the story atlas</p><h2 id="paths-title">Choose which secret to uncover first.</h2></div><p>The story can be entered through its world, its characters, its hidden criminal architecture, its chronology, or the artificial intelligences that reshape what a human mind can become.</p></div>
-      <div class="route-grid">
-        <a class="route wide" href="colonization.html"><span>World system</span><h3>Why was this world built?</h3><p>A terraformed reconstruction, a moon-sized command structure, biological synthetics, containment roles, legitimate heirs, and an experiment whose ethical purpose becomes inseparable from its abuse.</p><b>Open colonization →</b></a>
-        <a class="route wide ai" href="ai.html"><span>Cognitive system</span><h3>What are Luminai and Daemons?</h3><p>Two very different forms of extended intelligence: one capable of deepening a human being’s contact with reality, the other of amplifying the machinery that traps a person inside obsession and control.</p><b>Open AI selves →</b></a>
-        <a class="route wide threat" href="faction.html"><span>Criminal system</span><h3>Who tried to inherit the world?</h3><p>Konrad’s doctrine, Samuel’s takeover, the breeding program, the long coup, and sons raised not simply as children but as succession instruments.</p><b>Open the faction →</b></a>
-        <a class="route" href="characters.html"><span>People</span><h3>Who carries the story?</h3><p>Sylvan, George, Samuel, Konrad, Orzai, the heir cohort, and the people forced to decide whether inheritance is destiny.</p><b>Open characters →</b></a>
-        <a class="route" href="timeline.html"><span>History</span><h3>What actually happened?</h3><p>Preparation, conquest, betrayal, defeat, decades of hidden maneuvering, and the final struggle to expose the architecture behind the throne.</p><b>Open chronology →</b></a>
-        <a class="route" href="archive.html"><span>Evidence + development</span><h3>What can be proven?</h3><p>Operational reality, public story, sealed records, unresolved architecture, and the evidence that turns mythology back into history.</p><b>Open the archive →</b></a>
-      </div>
+    <section class="development-teaser section" aria-labelledby="development-title">
+      <div class="section-index" aria-hidden="true">03</div>
+      <div class="section-intro"><p class="eyebrow">The experiment behind the fiction</p><h2 id="development-title">The archive does not pretend uncertainty is canon.</h2></div>
+      <div class="prose-column"><p>The vault separates established decisions, strong working directions, proposed possibilities, and unresolved questions. AI helps map causality, test alternatives, preserve continuity, and expose missing bridges. The author decides what becomes story—and intends to write the final fiction by hand.</p><div class="status-key" aria-label="Story status key"><span class="status established">Established</span><span class="status working">Working</span><span class="status proposed">Proposed</span><span class="status unresolved">Unresolved</span></div><div class="inline-actions"><a class="button secondary" href="archive.html">See how the vault works</a><a class="text-button" href="todo.html">View live story progress <span aria-hidden="true">→</span></a></div></div>
     </section>
   </main>
-  <footer class="site-footer"><strong>Seeds of the Throne</strong><p>A science-fiction world and novel being developed in public. AI assists with research, organization, and adversarial analysis. Final fiction is written by hand.</p><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne">Explore the public story vault on GitHub</a></footer>
+
+  <footer class="site-footer"><div><strong>Seeds of the Throne</strong><p>A story about power, evidence, and the discipline of remaining in contact with reality.</p></div><nav aria-label="Footer navigation"><a href="visuals.html">Visual archive</a><a href="archive.html">Development method</a><a href="todo.html">Live progress</a></nav></footer>
 </body>
 </html>

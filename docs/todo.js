@@ -56,6 +56,13 @@
     return match[1].trim().split("/").map(segment => encodeURIComponent(segment)).join("/");
   }
 
+  function updateWeeklySourceLink(encodedPath) {
+    const link = document.querySelector("#weekly-source-link");
+    if (!link) return;
+    link.href = `https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/${encodedPath}`;
+    link.textContent = "Open current weekly checklist";
+  }
+
   function element(name, className, text) {
     const node = document.createElement(name);
     if (className) node.className = className;
@@ -119,6 +126,7 @@
     const pointerResponse = await fetch(sourceRoot + POINTER_PATH, { cache: "no-store" });
     if (!pointerResponse.ok) throw new Error("The current weekly completion pointer could not be loaded.");
     const weeklyPath = parsePointer(await pointerResponse.text());
+    updateWeeklySourceLink(weeklyPath);
     const responses = await Promise.all([fetch(sourceRoot + weeklyPath, { cache: "no-store" }), fetch(sourceRoot + REGISTRY_PATH, { cache: "no-store" }), fetch(sourceRoot + CURRENT_PATH, { cache: "no-store" })]);
     if (responses.some(item => !item.ok)) throw new Error("One or more Markdown sources could not be loaded.");
     const [weekly, registry, current] = await Promise.all(responses.map(item => item.text()));
