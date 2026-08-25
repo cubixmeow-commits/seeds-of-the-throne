@@ -74,12 +74,13 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - It cannot simply be "better intelligence" or unrestricted system access.
   - **Done when:** the capability can be stated in one sentence with a specific use case.
 
-- [ ] **Define why it could not act earlier.**
-  - **Live progress:** SC-008 Question 1 accepted. The deeper interface is gated by a deliberately activated **growth-and-development training program**. When Sylvan is placed with the contained criminals, his parents activate the program for the Sylvan–Luminai pair. Before that placement and activation, the Luminai is not in the permitted developmental state required for the deeper neural/embodied interface. The contained-criminal environment therefore functions both as a real adversarial environment and as a designed developmental environment for their eventual colonization roles. Current author gate: **what is the broad developmental objective Sylvan and the Luminai are supposed to achieve during this program?**
+- [x] **Define why it could not act earlier.**
+  - **Live progress:** Macro Shape accepted. The deeper interface is gated by a deliberately activated **growth-and-development training program**. When Sylvan is placed with the contained criminals, his parents activate the program for the Sylvan–Luminai pair. Before that placement and activation, the Luminai is not in the permitted developmental state required for the deeper neural/embodied interface. The program trains the human, trains the Luminai, and teaches both to work as a **unified operational team**. Sylvan develops knowledge, experience, skills and judgment while the Luminai develops knowledge, experience, system competence, judgment and increasingly extensive ways of interfacing with Sylvan. The intended end state is a human–Luminai pair capable of operating together at a level neither could reach alone.
   - Identify the developmental threshold, missing permission, incomplete bond, insufficient evidence, or environmental condition.
   - **Done when:** the endgame cannot be accused of introducing a late magical solution.
 
 - [ ] **Define a hard limit and cost.**
+  - **Live progress:** SC-009 is active at Macro Shape. Current author gate: **what is the most important thing the Luminai still cannot do even after the Sylvan–Luminai bond becomes highly developed?** The hard boundary should keep Sylvan necessary as a human decision-maker rather than turning the Luminai into unrestricted control.
   - State what the bond can never do.
   - State what using the decisive capability costs, risks, or requires.
   - **Done when:** Sylvan still has to make human choices after the capability becomes available.
