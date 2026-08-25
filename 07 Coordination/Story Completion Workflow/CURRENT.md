@@ -8,18 +8,18 @@ updated: 2026-08-25
 
 - **Current sweep:** Macro Shape
 - **Sweep status:** IN-PROGRESS
-- **Current task:** SC-004 — Choose the exact target of the attack on Sylvan's startup
+- **Current task:** SC-005 — Define Sylvan's irreversible choice and loss
 - **Current loop phase:** AUTHOR-GATE
-- **Completed at this depth:** 3 / 27
+- **Completed at this depth:** 4 / 27
 - **Blocked tasks:** 0 (dependencies are sequencing guidance until a task is actively evaluated)
-- **Next required author action:** identify the single most important concrete asset, operation, system, relationship, or business-critical function attacked first in Sylvan's startup
+- **Next required author action:** define the major choice Sylvan makes as the startup attacks escalate that he could avoid by walking away or accepting defeat
 
 ## Resume
 
 1. Read [[WORKFLOW]].
-2. Open [[TASK-REGISTRY]] and `Tasks/SC-004.md`.
+2. Open [[TASK-REGISTRY]] and `Tasks/SC-005.md`.
 3. Use `Templates/macro-pass.md`.
 4. Stop at the author gate; do not infer an answer.
-5. Continue horizontally only after SC-004 has a recorded macro result or explicit blocked state.
+5. Continue horizontally only after SC-005 has a recorded macro result or explicit blocked state.
 
-SC-001, SC-002, and SC-003 are complete at Macro Shape. Do not deepen them before all 27 active tasks have received the same sweep.
+SC-001 through SC-004 are complete at Macro Shape. Do not deepen them before all 27 active tasks have received the same sweep.
