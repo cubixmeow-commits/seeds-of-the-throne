@@ -13,7 +13,7 @@ This mechanism remains **UNRESOLVED IN ITS DETAILS** and should be developed in 
 
 Do not patch the remaining mechanism by inference. Do not assume motivations or technical rules that have not been worked through with the author.
 
-Questions 1 and 2 now have accepted macro answers. The exact safeguards, resistance paths, lock event, portability of Konrad's authority, and later permissions remain unresolved.
+Questions 1 through 3 now have accepted macro answers. The exact safeguards, resistance paths, lock event, and later permissions remain unresolved.
 
 ## Question 1 — accepted conceptual answer
 
@@ -43,7 +43,15 @@ This preserves both facts: Konrad's earlier sovereignty was real, and Samuel's l
 
 A further accepted endgame fact is that Samuel's apparent exile was secretly part of Samuel Franklin's own plan and prosecution deal. The audience does not learn this until near the end. At the current macro stage, the mechanism by which that concealed deal squares with Konrad's betrayal, Samuel's apparent humiliation, and the later containment lock remains intentionally unresolved.
 
-The immediate next issue is therefore the scope of Konrad's own negotiated authority after defeat: what Konrad believed his deal continued to guarantee when his group left its original city and entered another containment environment.
+## Question 3 — accepted macro answer
+
+Konrad did not believe his negotiated authority was permanently confined to his original city. He understood the colonization planet as a rule-governed world in which successful conquest could expand his jurisdiction.
+
+His operating ambition was essentially total planetary conquest. He intended to conquer the other empires, then the countries beyond his own, until he controlled the entire colonization planet. In his own understanding, that would effectively give him a world of his own in which he could make the rules.
+
+Therefore Konrad did not prepare a post-defeat portability theory because he did not believe defeat was a meaningful possibility. He believed the colonization rules themselves would validate the expansion of his authority through victory. His real city-based authority was the starting platform for that conquest, not the limit he expected to remain within.
+
+This sharpens the later betrayal problem: Samuel's concealed alpha deal does not invalidate Konrad's earlier authority, but it creates a hidden structural rule that becomes relevant only when Konrad's defeated organization enters a containment environment where Samuel's status is already active.
 
 ## Hard constraints
 
@@ -58,6 +66,8 @@ Konrad deliberately planned Samuel's takeover mission to fail. That is distinct 
 **Established Samuel status:** Samuel Franklin's prosecution deal secretly establishes him as the alpha/primary contained criminal in the relevant containment structure after he sells out more people than anyone else.
 
 **Established Konrad status:** Konrad's prosecution deal genuinely establishes leadership over his group and control of his own city. Samuel's later advantage must not retroactively make that authority fake.
+
+**Established Konrad belief:** Konrad believes the colonization rules allow successful conquest to expand his jurisdiction until he controls the entire planet and effectively makes his own rules. He does not conceptualize his city as a permanent jurisdictional ceiling.
 
 **Knowledge constraint:** Konrad does not know Samuel negotiated the broader alpha status that later matters inside the largest empire's containment environment.
 
@@ -76,6 +86,7 @@ The long-term consequence of that misunderstanding is catastrophic: by reactivat
 - All contained criminals were prosecuted into the colonization process, and their deals determined their placement in containment.
 - Samuel Franklin sold out more people than anyone else and negotiated to become the alpha criminal in containment.
 - Konrad negotiated to lead his own group and possess his own city.
+- Konrad believed successful conquest under the colonization rules could expand his jurisdiction until he controlled the entire planet.
 - Konrad does not know Samuel negotiated the superior alpha position in the later-relevant containment structure.
 - Samuel's exile is secretly part of Samuel's own plan/deal, but that truth is withheld until the endgame.
 - Konrad exiles Samuel from the Fitzgerald order by giving him an impossible mission to take control of the largest empire. From Konrad's perspective the assignment is a setup designed to fail; the exact relationship between that betrayal and Samuel's concealed deal remains unresolved.
@@ -106,6 +117,8 @@ Do **not** assume that Konrad made plans around the possibility of losing the Gr
 
 Do **not** treat the entire Fitzgerald organization as if it began inside Samuel's containment hierarchy. Konrad had genuine authority in his own city before defeat. The hierarchy problem concerns the group's later integration/reactivation inside the largest empire's containment environment.
 
+Do **not** interpret Konrad's city as a permanent ceiling on the authority he believed he could acquire. His city was the real initial jurisdiction from which he expected conquest to expand his control across the colonization planet.
+
 Do **not** assume Samuel must socially replace Konrad before gaining structural advantage. Samuel may remain contemptible or pathetic in Konrad's eyes while nevertheless occupying the structurally primary position created by the containment system in the largest empire.
 
 Do **not** treat Konrad's later reactivation as restoration of neutral property. Once his programs are reactivated inside the locked largest-empire hierarchy, they are already operating inside Samuel's jurisdictional structure.
@@ -118,8 +131,8 @@ Work through these one at a time rather than solving them all at once:
 
 1. What exactly is the containment hierarchy in practical terms? **Answered: layered control of experienced reality and decision structure, with generational change rather than arbitrary private-belief rewriting.**
 2. What does "primary contained criminal" mean operationally? **Answered at macro level: a negotiated prosecution status establishing structural alpha priority within a containment environment; Samuel secretly negotiated that status, while Konrad separately negotiated genuine leadership of his group and city.**
-3. What did Konrad believe his prosecution deal guaranteed him after defeat: permanent sovereignty over his people and machinery wherever they were placed, sovereignty only inside his original city, or a right to re-establish that sovereignty if his group was moved into another containment environment?
-4. What exact event counts as the first integration and triggers the lock?
+3. What did Konrad believe his prosecution deal guaranteed him after defeat? **Answered at macro level: Konrad did not plan around defeat; he believed the colonization rules allowed conquest to expand his jurisdiction from his real city across every empire and country until he controlled the entire planet and could effectively make his own rules.**
+4. What exact event counts as Samuel's first integration into the largest empire's containment hierarchy and causes his negotiated alpha status to become structurally active there?
 5. What specifically locks: authority, dependency graph, program ownership, administrative routing, narrative role, jurisdiction, or some combination?
 6. Why does the containment system use an irreversible or effectively irreversible first-primary rule?
 7. Who knows this rule before the lock occurs?
@@ -171,6 +184,7 @@ Accepted:
 - A primary contained criminal is a negotiated alpha-status criminal with structural priority in the relevant containment environment.
 - Samuel sold out more people than anyone else and negotiated to become the alpha criminal in containment.
 - Konrad separately negotiated genuine leadership of his group and his own city.
+- Konrad believed successful conquest under the colonization rules could expand his jurisdiction until he controlled the entire planet and effectively made his own rules.
 - Konrad does not know Samuel secured broader alpha status.
 - Samuel's apparent exile is secretly part of Samuel's own plan/deal, and that is an endgame reveal rather than an early explanation.
 - Konrad never considered that his own Great War conquest could fail; this does not conflict with his deliberate plan for Samuel's mission to fail.
@@ -190,9 +204,8 @@ Accepted:
 
 Unresolved:
 - what resistance, residual agency, memory, evidence, or external correction remains available to people below the alpha;
-- the exact scope and portability of Konrad's negotiated sovereignty after defeat;
-- the exact lock event;
-- why the system uses this rule;
+- the exact first-integration event that activates Samuel's alpha status in the largest empire;
+- what specifically locks and why the system uses this rule;
 - how Samuel learns and exploits it;
 - the exact transition from Konrad's genuine city-based control to loss of control in the largest empire;
 - how Samuel's concealed alpha deal squares structurally with Konrad's betrayal and the apparent exile;
