@@ -43,11 +43,22 @@ Open:
 - Sylvan eventually exposes Samuel's hidden actions to Konrad near the end of the later Sylvan conflict; exact evidence and timing are deferred.
 - The author's real-world historical analogies are development-only and must not be copied into bible/canon material. Preserve only the fictional functions.
 
-## Current author gate — SC-003 Question 1
+## Accepted SC-003 progress
 
-> **What concrete proof or verification does Samuel show Konrad that convinces him the breeding/lineage and younger-generation programs are truly separate and still under Fitzgerald control?**
+### Question 1
 
-The proof must be strong enough to reassure Konrad without revealing Samuel's hidden alpha position or later interventions.
+- Samuel does **not** prove a real separation because no real separation ever exists.
+- He convinces Konrad that their deal is recognized and enforceable by the colonization process and therefore creates a protected Fitzgerald sphere.
+- The supposed separation is a story environment Samuel maintains for almost a century.
+- Samuel keeps Konrad focused on his own work and apparent progress while hiding Samuel's actions, interventions, surveillance, and generational corruption.
+- Two visibly distinct sides of the containment environment reinforce the false premise and make the separation appear institutionally real.
+- Konrad's obsessions are the central vulnerability Samuel exploits: the arrangement gives him a way to believe his original project, authority, and ideological plan survived defeat.
+
+## Current author gate — SC-003 Question 2
+
+> **What specifically about Konrad's obsession makes him accept Samuel's claim that the deal is enforceable by the colonization process even though Samuel is an expelled outsider he does not respect?**
+
+Define only the character-level reason the false legal premise is emotionally and strategically irresistible to Konrad.
 
 ## Preserve exactly
 
@@ -58,6 +69,7 @@ The proof must be strong enough to reassure Konrad without revealing Samuel's hi
 - Konrad's cooperation/mistake is required to move the lineage and youth-training machinery into Samuel's sphere.
 - Once migrated, Samuel is alpha over the initiatives while Konrad remains beta and continues meaningful operation inside the apparent separate program.
 - The story environment hides Samuel's real interventions until Sylvan later exposes them.
+- The false separation is not a real structural boundary; Samuel makes Konrad believe their deal is process-enforceable while maintaining only the appearance of two separate sides.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - Samuel's exile is secretly part of Samuel's own plan/deal; this is withheld until the endgame reveal.
 
