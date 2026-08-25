@@ -1,7 +1,7 @@
 ---
 type: development-system
 status: active
-updated: 2026-08-23
+updated: 2026-08-24
 scope: end-to-end routing for story development
 ---
 
@@ -17,6 +17,8 @@ Provide one executable path through the development environment. This document d
 
 Finished-novel drafting is not part of the default pipeline.
 
+When work comes from the weekly completion set, [[07 Coordination/Story Completion Workflow/WORKFLOW|Story Completion Workflow]] controls horizontal progression. The orchestrator runs one task at the current sweep depth; it does not take that task through every scale before the rest of the registry catches up.
+
 ## Step 1 — Scope the run
 
 Declare:
@@ -29,6 +31,8 @@ Declare:
 - token mode: Micro, Standard, Deep, or Cascade.
 
 Default to `close-gap`. Use Cascade only when the author asks to move from broad structure into a representative story sample in one run.
+
+For a registered completion task, also declare task ID, current sweep, current depth, loop phase, prerequisites, and downstream review reach from [[07 Coordination/Story Completion Workflow/TASK-REGISTRY]].
 
 If the target comes from [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]], copy its source paths, authority labels, queue classification, and exact stop condition into the run. The synthesis ranking recommends where to work; it does not bypass this orchestrator or the author gate.
 
@@ -149,7 +153,21 @@ Only after approval:
 - preserve rejected alternatives when useful;
 - record a compact next state rather than the entire reasoning transcript.
 
+Then run decision propagation when anything approved changed:
+
+- trace typed outgoing dependencies in [[07 Coordination/Story Completion Workflow/UNLOCK-MAP]];
+- classify affected artifacts as valid, review, stale, blocked, or superseded;
+- select checks from [[07 Coordination/Story Completion Workflow/REGRESSION-SUITE]];
+- reopen invalidated tasks, sequences, scenes, or drafts visibly;
+- update registry depth, phase, validation, current sweep, and completion summary.
+
 Use [[08 Story Loop/Templates/development-run]] for the durable run record.
+
+## Sequence, scene, and draft boundary
+
+Use [[08 Story Loop/Templates/sequence-packet]] once a task reaches sequence integration and [[08 Story Loop/Templates/scene-packet]] once the whole sequence layer is coherent. Treat every packet as a state-transition contract, not canon.
+
+Finished prose is admitted only through [[08 Story Loop/Templates/draft-pipeline-run]]. The scene must already be structurally stable, the author must explicitly request drafting, and only author-approved prose may enter ordered manuscript material.
 
 ## Hard stop conditions
 

@@ -1,7 +1,7 @@
 ---
 type: development-system
 status: active
-updated: 2026-08-21
+updated: 2026-08-24
 scope: token-aware recursive development from large structure to story prototype
 ---
 
@@ -26,6 +26,8 @@ The loop should spend tokens where uncertainty is highest rather than generating
 **Do not solve a scene-level problem with novel-scale context, and do not solve an arc-level problem by rewriting paragraphs.**
 
 Every run declares its current scale.
+
+For the active weekly completion set, scale progression is horizontal: run the same scale across every active task, close with a whole-story cross-check, and only then descend. Do not use Cascade mode to bypass [[07 Coordination/Story Completion Workflow/WORKFLOW|the horizontal sweep contract]].
 
 ## Scales
 
@@ -77,6 +79,8 @@ Output:
 - location/participant requirements;
 - event dependencies.
 
+Reusable state-transition contract: [[08 Story Loop/Templates/sequence-packet]].
+
 ### Scale 3 — Chapter
 
 Questions:
@@ -110,6 +114,8 @@ Output:
 - concrete actions;
 - development assumptions.
 
+Reusable input/output contract: [[08 Story Loop/Templates/scene-packet]].
+
 ### Scale 5 — Development prototype
 
 Render the scene or compressed chapter with [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]].
@@ -125,6 +131,8 @@ Purpose:
 Separate later workflow.
 
 Do not enter this scale merely because a prototype is readable.
+
+Admission and promotion record: [[08 Story Loop/Templates/draft-pipeline-run]].
 
 ## Roles
 

@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Decisions
@@ -75,3 +75,4 @@ updated: 2026-08-23
 | 2026-08-23 | Establish Sylvan and Orzai as emerging leaders being trained for the larger colonization process; make Sylvan more outgoing and Orzai somewhat more reserved and introverted, with strongly complementary but independent temperaments. | Shared cultivation develops reality contact, correction, autonomy, consent, competence under constraint, systems thinking, distributed authority, responsibility, cooperation, and restraint. Sylvan creates broad connection and momentum; Orzai contributes observation, depth, pressure resistance, and precise intervention. Neither exists merely to complete or manage the other. |
 | 2026-08-23 | Establish Orzai's development across health, nutrition, creative design, video, and 3D modeling during a rapid surface-technological transition analogous to approximately 2015–2020. | The interdisciplinary path gives Orzai an independent craft and leadership foundation. A working arc can scale from health visualization to interactive training and population-level nutrition, care, and habitat systems while preserving unresolved education, employer, medium, project, and first meeting with Sylvan. |
 | 2026-08-23 | Establish four deliberately non-convergent working journal designs for Samuel, Konrad, Sylvan, and Orzai while keeping every generated board at candidate status. | Samuel's portable modular portfolio occupies pages; Konrad's monumental ledger classifies downward; Sylvan's field notebooks preserve conversational inquiry and provenance; Orzai's layered mixed-media journal separates observation from representation and action thresholds. Exact sample text remains separate from generated lettering, and no visual candidate promotes an object or entry into canon. |
+| 2026-08-24 | Establish a Markdown-native Story Completion Workflow that advances the entire weekly task set horizontally from macro through draft while tracking task depth, loop phase, typed dependencies, blast radius, regression, and reopening separately from story authority. | The vault already has strong reasoning modules; persistent execution state and validated propagation are the missing bridge between story development and repeatable sequence/scene production. This is a development-system decision and establishes no story fact. |

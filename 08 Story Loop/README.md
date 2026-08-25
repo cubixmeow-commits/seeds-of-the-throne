@@ -1,8 +1,8 @@
 ---
 type: story-loop-index
 status: active
-version: 0.2
-updated: 2026-08-23
+version: 0.3
+updated: 2026-08-24
 ---
 
 # Story Loop
@@ -22,6 +22,8 @@ The Story Loop is a human-readable, Obsidian-native development environment for 
 [[07 Coordination/Weekly Synthesis/README|Weekly Story Synthesis]] is the high-capacity diagnostic front end for the loop. Its dated reports may reconstruct the story, rank gaps, mine scenes, and recommend maintenance, but they do not establish canon. Route selected `BUILD NOW` and `BRAINSTORM NEXT` items through the Gap Analyzer and Development Orchestrator. Preserve `LEAVE OPEN` items as deliberate ambiguity until a revisit trigger occurs.
 
 Character journals and other physical records are indexed under [[02 Story/Artifacts/Journals/00 Journal System|Character Journal Artifact System]]. Treat proposed artifacts as evidence/scene candidates until their story facts, knowledge state, provenance, and author gate are resolved.
+
+The current weekly completion set is executed through [[07 Coordination/Story Completion Workflow/WORKFLOW|Story Completion Workflow]]. It adds horizontal sweep state, task depth, typed dependencies, blast-radius tracing, regression selection, reopening, and public progress without changing story authority. See [[STORY-CREATION-ENGINE-ROADMAP]] for the path from the present development environment to repeatable sequence, scene, and draft production.
 
 ## v0.1 target
 
@@ -44,6 +46,8 @@ A complete causal story map in which every load-bearing unit has:
 - `Runs/` — chronological records of proposals, critiques, gates, revisions, and outcomes.
 - `Templates/` — reusable Markdown forms.
 - `Evaluations/` — recurring failure modes and later quality calibration.
+- [[STORY-CREATION-ENGINE-ROADMAP]] — maturity snapshot, layered target architecture, proof milestones, and non-goals.
+- `Templates/sequence-packet.md`, `scene-packet.md`, and `draft-pipeline-run.md` — state-transition contracts downstream of structural stability.
 
 ## Status vocabulary
 

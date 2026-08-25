@@ -1,8 +1,8 @@
 ---
 type: coordination-system
 status: active
-version: 1.0
-updated: 2026-08-23
+version: 1.1
+updated: 2026-08-24
 ---
 
 # Weekly Story Synthesis
@@ -45,6 +45,7 @@ The synthesis may recommend promotion, merging, renaming, archiving, cross-linki
 - Create or update Story Units only after the author gate.
 - Treat journal pages, genealogies, surveillance records, and behavioral fingerprints as evidence nodes with setup, custody, authentication, reveal, and consequence.
 - Record the final queue as `BUILD NOW`, `BRAINSTORM NEXT`, or `LEAVE OPEN` so deliberate ambiguity is not mistaken for a defect.
+- Convert the approved weekly completion set into [[07 Coordination/Story Completion Workflow/TASK-REGISTRY|the task registry]] and advance it horizontally through [[07 Coordination/Story Completion Workflow/WORKFLOW|Story Completion Workflow]]. The weekly checklist remains the binary/public source of truth; the registry records depth and validation.
 
 ## Validation
 

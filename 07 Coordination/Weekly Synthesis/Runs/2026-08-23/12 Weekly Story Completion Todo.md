@@ -3,6 +3,8 @@
 **Run:** 2026-08-23 baseline synthesis  
 **Purpose:** Convert the full weekly assessment into one execution list that moves *Seeds of the Throne* toward a finished story rather than toward more general lore.
 
+**Execution:** This checklist remains the source of truth for binary completion and the public `docs/todo.html` dashboard. [[07 Coordination/Story Completion Workflow/TASK-REGISTRY|TASK-REGISTRY]] tracks each item's current depth, phase, dependencies, and validation without duplicating its completion state.
+
 ## This week's objective
 
 By the end of this work cycle, the story should have a **testable causal spine from the prewar betrayal through the modern endgame**, with the largest blocking permissions, evidence, and character-choice gaps either resolved by the author or reduced to narrow options.

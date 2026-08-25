@@ -1,7 +1,7 @@
 ---
 type: planning-framework
 status: active
-updated: 2026-08-20
+updated: 2026-08-24
 source_authority: author-directed synthesis
 ---
 
@@ -12,6 +12,10 @@ source_authority: author-directed synthesis
 This framework is not a generic novel-planning template. It is built from the current state of the *Seeds of the Throne* vault and exists for one reason: finish the overall story architecture, close the remaining causal gaps, and prepare the novel to be written without turning planning into endless expansion.
 
 The vault already contains a large amount of usable story material. The task now is not to invent a world from scratch. The task is to convert what already exists into a complete causal story map.
+
+## Execution update — 2026-08-24
+
+This note remains the conceptual content framework. [[07 Coordination/Story Completion Workflow/WORKFLOW|Story Completion Workflow]] is now the active execution system: it moves the current weekly task registry horizontally through Macro, Causal, Agency, Systems/Evidence, Sequence, Scene Map, Scene Development, and Draft sweeps. Use [[08 Story Loop/STORY-CREATION-ENGINE-ROADMAP]] for implementation milestones and the workflow registry for live state.
 
 ## What the vault already has
 
@@ -142,7 +146,7 @@ This mechanism should now be tested against the larger endgame:
 
 ## The simplified completion model
 
-From this point forward, story development should use five working layers only.
+This framework groups story content into five conceptual layers. The active workflow maps them into eight execution sweeps so every task advances at the same depth before the system descends.
 
 ## Layer 1 — Core Story Map
 

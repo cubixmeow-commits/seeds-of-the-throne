@@ -1,7 +1,7 @@
 ---
 type: coordination-index
 status: active
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Coordination
@@ -15,6 +15,7 @@ This folder holds operating conventions for moving work between conversations, d
 - [[DESKTOP-QUEUE]] — the durable handoff list for filesystem, repository, website, testing, commit, and publishing work.
 - [[SUBAGENT-PROTOCOL|Seeds Delegation Protocol]] — when and how to delegate independent work while preserving primary-agent authority, canon boundaries, and safe file ownership.
 - [[Weekly Synthesis/README|Weekly Story Synthesis]] — dated end-of-credit-cycle full-vault analysis, ranked development intake, and maintenance recommendations.
+- [[Story Completion Workflow/WORKFLOW|Story Completion Workflow]] — horizontal macro-to-draft task state, dependencies, propagation, regression, and completion tracking.
 
 The short resume instruction is: **Open Current Pickup.** For implementation work, process the desktop queue after reading that note. A desktop session should sync safely, inspect existing files before editing, implement each ready item, record story decisions through the normal session workflow, verify the diff, and then mark completed queue items with their resulting files or commit.
 

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#070a09">
+  <meta name="description" content="Live weekly story-completion progress for Seeds of the Throne, sourced from the project’s Markdown workflow.">
+  <title>Weekly Story Completion | Seeds of the Throne</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=20260824">
+  <script src="app.js?v=20260824" defer></script>
+  <script src="todo.js?v=20260824" defer></script>
+</head>
+<body class="todo-page">
+  <a class="skip-link" href="#main-content">Skip to story progress</a>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Story atlas"><a href="index.html">Story</a><a href="colonization.html">Colonization</a><a href="ai.html">AI selves</a><a href="faction.html">Criminal faction</a><a href="characters.html">Characters</a><a href="visuals.html">Visual archive</a><a href="timeline.html">Chronology</a><a href="archive.html">Story archive</a><a aria-current="page" href="todo.html">Weekly TODO</a></nav>
+    <p class="header-note">Development file · RUN–24 · Live from Markdown</p>
+  </header>
+
+  <main id="main-content">
+    <section class="todo-intro" aria-labelledby="todo-title">
+      <div><p class="kicker">Story completion runtime</p><h1 id="todo-title">The whole story comes into focus together.</h1><p class="todo-deck">Each unresolved story problem advances through the same macro-to-micro sweep before any one branch moves deeper.</p></div>
+      <p class="todo-principle">Current rule<br><strong>Coherent whole first.<br>Premature detail later.</strong></p>
+    </section>
+
+    <section class="todo-runtime" aria-labelledby="runtime-title">
+      <div class="todo-progress-copy"><p class="section-label">Live workflow</p><h2 id="runtime-title">Weekly completion</h2><p id="todo-status" role="status" aria-live="polite">Loading the authoritative Markdown…</p></div>
+      <div class="todo-metrics" aria-label="Completion metrics"><div><strong id="overall-count">—</strong><span>tasks complete</span></div><div><strong id="overall-percent">—</strong><span>overall progress</span></div><div><strong id="current-sweep">—</strong><span>current sweep</span></div></div>
+      <div class="todo-meter-wrap"><div class="todo-meter-label"><span>Story-completion tasks</span><span id="overall-fraction">— / —</span></div><progress id="overall-progress" max="100" value="0" aria-label="Overall story-completion progress">0%</progress></div>
+    </section>
+
+    <section class="todo-sweeps" aria-labelledby="sweeps-title">
+      <div class="section-head"><div><p class="section-label">Horizontal depth</p><h2 id="sweeps-title">Macro before micro</h2></div><p>Task checkboxes show true completion. Depth labels show how far each item has been validated.</p></div>
+      <ol class="sweep-line" id="sweep-line" aria-label="Story completion sweep sequence"></ol>
+    </section>
+
+    <section class="todo-work" aria-labelledby="work-title">
+      <div class="section-head"><div><p class="section-label">Active work order</p><h2 id="work-title">The weekly story map</h2></div><p>Completed work remains visible. Deferred questions do not inflate or reduce completion.</p></div>
+      <div id="todo-groups" class="todo-groups" aria-busy="true"></div>
+    </section>
+
+    <section class="todo-gates" aria-labelledby="gates-title">
+      <div class="section-head"><div><p class="section-label">Exit test</p><h2 id="gates-title">When architecture becomes scenes</h2></div><p>The weekly gate tests whether the causal spine is ready for sequence and scene construction.</p></div>
+      <div id="gate-list" class="gate-list"></div>
+    </section>
+
+    <section class="todo-source" aria-labelledby="source-title">
+      <p class="section-label">Provenance</p><h2 id="source-title">One source, no shadow checklist.</h2>
+      <p>The page reads the current weekly TODO and workflow registry directly from the public repository. A checked box or changed task depth appears here after the Markdown is pushed.</p>
+      <div class="source-links"><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/12%20Weekly%20Story%20Completion%20Todo.md">Open weekly TODO source</a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Story%20Completion%20Workflow/TASK-REGISTRY.md">Open task registry</a></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><strong>Seeds of the Throne</strong><p>AI-assisted development. Final fiction remains author-controlled.</p><a href="archive.html">Read story status and open questions</a></footer>
+</body>
+</html>

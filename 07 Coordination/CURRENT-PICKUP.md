@@ -1,7 +1,7 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-08-23
+updated: 2026-08-24
 scope: single current pickup point
 ---
 
@@ -21,6 +21,15 @@ These systems do not replace the active author-led containment session below.
 
 The August 21 development-system integration is complete.
 
+The August 24 execution layer is also implemented:
+
+- [[Story Completion Workflow/WORKFLOW|Story Completion Workflow]] advances the whole 27-item completion set horizontally from Macro Shape through draft.
+- [[Story Completion Workflow/TASK-REGISTRY|TASK-REGISTRY]] separates depth, loop phase, validation, and authority.
+- [[Story Completion Workflow/UNLOCK-MAP|UNLOCK-MAP]] provides typed dependencies, decision propagation, and blast-radius tracing.
+- [[Story Completion Workflow/REGRESSION-SUITE|REGRESSION-SUITE]] selects continuity checks after changes and sweep closes.
+- [[08 Story Loop/STORY-CREATION-ENGINE-ROADMAP|Story Creation Engine Roadmap]] defines the sequence, scene, generation, and runtime milestones.
+- The public `docs/todo.html` dashboard reads the weekly TODO and workflow state from repository Markdown; it does not own a duplicate checklist.
+
 The current development path is:
 
 `scope -> retrieve and classify authority -> Gap Analyzer -> choose token mode and scale -> generate breadth cheaply -> shortlist -> research only if useful -> expand one branch -> create only required characters -> build structure -> optional readable prototype -> focused critics -> author gate -> approved integration`
@@ -37,17 +46,17 @@ Finished-novel prose is not the default at this stage. Use short non-canon devel
 
 ## Next author-led work
 
-Resume the dedicated Samuel–Konrad containment session from:
+Begin the Macro Shape sweep from [[Story Completion Workflow/CURRENT]]. Resume the dedicated Samuel–Konrad containment session for the first task from:
 
 [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
 
 Question 1 is accepted. The hierarchy controls decisions and awareness through layered control. The alpha governs experienced reality and the available decision structure but does not simply rewrite every private belief. Legitimate leaders can use this technology honestly; contained criminals receive bounded access to the same class of system and can abuse it. Konrad and his fanatic partner used it to impose their beliefs and fascist obsessions. Samuel later separates Konrad and the loyal older generation from the larger population. They experience a responsive reality based on what they believe they are accomplishing and think everything is proceeding normally, while Samuel corrupts later generations outside their awareness across roughly eighty years, destroying bloodlines and spreading transgressions after learning the truth of his exile.
 
-Proceed to Question 2 only:
+Proceed to Question 2 only for SC-001:
 
 > **What does "primary contained criminal" mean operationally? What exact status, relationship, or responsibility distinguishes the primary from a criminal who is merely present in the environment?**
 
-Do not yet solve the integration event, hierarchy lock, or Samuel's acquisition of primary status.
+Do not yet solve the integration event, hierarchy lock, or Samuel's acquisition of primary status. Record only SC-001's macro function, dependencies, candidate directions, and preserved unknowns. Then continue horizontally to SC-002 and the rest of the registry before deepening any one branch.
 
 Use:
 
@@ -80,6 +89,6 @@ Do not solve later questions in advance.
 - reset or supersession limits;
 - exact path to surveillance, genealogy access, replacement, and permanent destruction.
 
-## After the hierarchy session
+## After SC-001's macro pass
 
-Run the first full development cascade on one author-selected Great War gap using [[08 Story Loop/Templates/development-run]] and [[08 Story Loop/Templates/development-chapter-packet]]. Treat [[09 Story Exploration/Runs/2026-08-21 - Great War Story Miner Sample 001]] as a non-canon candidate baseline only. Generate breadth first, deepen one branch, prototype one representative scene, then stop at the author gate.
+Update its task packet, registry depth, loop log, dependencies, and any required QA record. Continue through all 27 tasks at Macro Shape. Do not run the earlier proposed full Great War cascade until the horizontal macro sweep and whole-story cross-check are complete. Treat [[09 Story Exploration/Runs/2026-08-21 - Great War Story Miner Sample 001]] as a non-canon candidate baseline only.

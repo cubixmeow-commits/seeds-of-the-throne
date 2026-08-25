@@ -501,5 +501,66 @@ h1, h2, h3, p { margin-block-start: 0; }
   .site-footer a { justify-self: start; }
 }
 
+/* Weekly story-completion dashboard */
+.todo-page main { overflow: hidden; }
+.todo-intro { display: grid; grid-template-columns: minmax(0,1.5fr) minmax(16rem,.5fr); gap: 4rem; align-items: end; max-width: 92rem; margin: 0 auto; padding: clamp(5rem,10vw,10rem) clamp(1.25rem,5vw,5rem) clamp(4rem,8vw,7rem); }
+.todo-intro h1 { max-width: 16ch; margin: .6rem 0 1.25rem; font-size: clamp(3rem,7vw,7.5rem); line-height: .9; letter-spacing: -.055em; }
+.todo-deck { max-width: 56ch; font-size: clamp(1.05rem,1.8vw,1.35rem); color: var(--soft); }
+.todo-principle { margin: 0; padding-inline-start: 1.5rem; border-inline-start: 1px solid var(--blue); color: var(--soft); font: 700 .7rem/1.6 var(--mono); letter-spacing: .1em; text-transform: uppercase; }
+.todo-principle strong { display: inline-block; margin-block-start: .75rem; color: var(--blue); font-family: var(--serif); font-size: 1.35rem; line-height: 1.2; letter-spacing: 0; text-transform: none; }
+.todo-runtime { display: grid; grid-template-columns: minmax(15rem,.8fr) minmax(22rem,1.2fr); gap: 2rem 5rem; padding: clamp(3rem,6vw,6rem) max(1.25rem,calc((100vw - 82rem)/2)); border-block: 1px solid var(--line); background: var(--white); }
+.todo-progress-copy h2, .todo-source h2 { margin: .25rem 0 .7rem; font-size: clamp(2rem,4vw,4rem); }
+.todo-progress-copy > p:last-child { color: var(--soft); }
+.todo-metrics { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--line); }
+.todo-metrics div { display: grid; align-content: center; min-height: 9rem; padding: 1.25rem; background: var(--paper); }
+.todo-metrics strong { color: var(--blue); font: 700 clamp(1.6rem,3vw,3.2rem)/1 var(--mono); }
+.todo-metrics span { margin-block-start: .6rem; color: var(--soft); font: 700 .68rem var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.todo-meter-wrap { grid-column: 1/-1; }
+.todo-meter-label { display: flex; justify-content: space-between; margin-block-end: .65rem; font: 700 .68rem var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.todo-meter-wrap progress { width: 100%; height: .7rem; border: 0; background: var(--line); }
+.todo-meter-wrap progress::-webkit-progress-bar { background: var(--line); }
+.todo-meter-wrap progress::-webkit-progress-value { background: var(--blue); transition: width .45s ease; }
+.todo-meter-wrap progress::-moz-progress-bar { background: var(--blue); }
+.todo-sweeps, .todo-work, .todo-gates, .todo-source { max-width: 92rem; margin: 0 auto; padding: clamp(4rem,8vw,8rem) clamp(1.25rem,5vw,5rem); }
+.sweep-line { display: grid; grid-template-columns: repeat(8,1fr); gap: 0; margin: 3rem 0 0; padding: 0; list-style: none; counter-reset: sweep; border-block-start: 1px solid var(--line); }
+.sweep-line li { position: relative; min-height: 8rem; padding: 1.2rem .7rem; color: var(--soft); border-inline-start: 1px solid var(--line); font: 700 .67rem/1.35 var(--mono); letter-spacing: .06em; text-transform: uppercase; counter-increment: sweep; }
+.sweep-line li::after { content: "0" counter(sweep); position: absolute; inset-block-end: .8rem; inset-inline-start: .7rem; color: var(--line); font-size: 1.6rem; }
+.sweep-line li.is-current { color: var(--blue); background: var(--blue-pale); }
+.sweep-line li.is-current::after { color: var(--blue); }
+.todo-work { padding-block-start: 2rem; }
+.todo-groups { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 4rem; margin-block-start: 3rem; }
+.todo-group { break-inside: avoid; padding-block: 1.5rem 3rem; border-block-start: 1px solid var(--line); }
+.todo-group-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-block-end: 1rem; }
+.todo-group-head h3 { margin: 0; font-size: 1.25rem; }
+.todo-group-head p { flex: none; margin: 0; color: var(--soft); font: 700 .65rem var(--mono); text-transform: uppercase; }
+.todo-task { display: grid; grid-template-columns: 1.6rem 1fr; gap: .8rem; padding: 1.05rem 0; border-block-start: 1px solid color-mix(in srgb,var(--line),transparent 45%); }
+.todo-check { color: var(--blue); font: 700 1.1rem var(--mono); }
+.todo-task-title { margin: 0; color: var(--ink); font-weight: 700; font-size: 1rem; line-height: 1.35; }
+.todo-state { display: inline-block; margin: .5rem 0 0; color: var(--violet); font: 700 .62rem var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.todo-detail { margin: .55rem 0 0; color: var(--soft); font-size: .88rem; line-height: 1.5; }
+.todo-task.is-done { opacity: .68; }
+.todo-task.is-done .todo-task-title { text-decoration: line-through; text-decoration-thickness: 1px; }
+.todo-task.is-done .todo-state { color: var(--green); }
+.todo-gates { border-block-start: 1px solid var(--line); }
+.gate-list { columns: 2; column-gap: 4rem; margin-block-start: 3rem; }
+.gate-list .todo-task { break-inside: avoid; }
+.todo-source { max-width: none; padding-inline: max(1.25rem,calc((100vw - 82rem)/2)); background: var(--blue-pale); }
+.todo-source > p:not(.section-label) { max-width: 65ch; }
+.source-links { display: flex; flex-wrap: wrap; gap: 1rem; margin-block-start: 2rem; }
+.source-links a { min-height: 2.75rem; display: inline-flex; align-items: center; padding: .7rem 1rem; border: 1px solid var(--blue); text-decoration: none; }
+.todo-error { padding: 1rem; border: 1px solid var(--red); color: var(--red); }
+.todo-page a:focus-visible, .todo-page button:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .todo-intro > div, .todo-principle { animation: todo-enter .55s ease both; }
+  .todo-principle { animation-delay: .12s; }
+  .todo-task { transition: background-color .2s ease, transform .2s ease; }
+  .todo-task:hover { transform: translateX(.25rem); background: var(--blue-pale); }
+  @keyframes todo-enter { from { opacity: 0; transform: translateY(1rem); } to { opacity: 1; transform: none; } }
+}
+
+@media (max-width: 70rem) { .sweep-line { grid-template-columns: repeat(4,1fr); } .todo-groups { grid-template-columns: 1fr; } }
+@media (max-width: 48rem) { .todo-intro, .todo-runtime { grid-template-columns: 1fr; } .todo-intro { gap: 2rem; } .todo-metrics { grid-template-columns: 1fr; } .todo-metrics div { min-height: 6rem; } .sweep-line { grid-template-columns: repeat(2,1fr); } .gate-list { columns: 1; } .todo-group-head { align-items: flex-start; flex-direction: column; } }
+
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .assessment-hero-copy, .assessment-orbit, .ring-two { animation: none; } .mindmap-node, .report-group > a { transition: none; } }
 @media (forced-colors: active) { a:focus-visible, button:focus-visible, summary:focus-visible { outline-color: Highlight; } }
