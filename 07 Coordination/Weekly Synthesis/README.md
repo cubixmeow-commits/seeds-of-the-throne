@@ -1,7 +1,7 @@
 ---
 type: coordination-system
 status: active
-version: 1.1
+version: 1.2
 updated: 2026-08-24
 ---
 
@@ -10,6 +10,16 @@ updated: 2026-08-24
 ## Purpose
 
 Use an end-of-credit-cycle deep pass to reconstruct the current project, find the highest-value gaps, and create a bounded next-week development queue. This is analysis and coordination, not an autonomous canon-writing process.
+
+The approved completion checklist named by [[CURRENT-COMPLETION-TODO]] is the sole author-facing story-development TODO. The synthesis may replace that checklist after author review; it must never create a second active execution list.
+
+## Weekly intake funnel
+
+During the week, brainstorm freely in dated session notes and focused Story Loop brainstorm packets. Add a brief, source-linked signal to [[CURRENT-WEEK-INTAKE]] only when a discovery may change completion scope, dependencies, validation, or future priority. The intake index has no checkboxes or working order and is not something the author works through.
+
+At the next synthesis, inventory all changed files and reconcile every intake signal using `Templates/13 Weekly Intake Reconciliation.md`. Each signal must be classified as already covered, revise existing, promote new, leave open, or no TODO change. Deduplicate aggressively: prefer linking new evidence to an existing `SC-###` task over creating another task.
+
+Only an author-approved replacement checklist may become current. After approval, update the stable pointer, reconcile the task registry and dependency map, carry forward valid completion evidence, verify the public dashboard, and reset the intake index for the new week.
 
 Never overwrite an earlier run. Create:
 
@@ -34,7 +44,7 @@ High-capacity options: Editorial Board, Forward/Reverse Causal Reconstruction, a
 
 ## Operating flow
 
-`read rules and current pickup -> declare cutoff/budget -> inventory changed and authoritative material -> run core reports -> optional modules -> classify BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN -> route selected gaps to the Story Loop -> author gate -> apply approved maintenance separately`
+`capture daily work -> index consequential signals -> read rules and current pickup -> declare cutoff/budget -> inventory all changed and authoritative material -> reconcile intake against the current TODO -> run core reports -> classify BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN -> draft one replacement checklist -> author gate -> update pointer/registry/dashboard -> apply approved maintenance separately`
 
 The synthesis may recommend promotion, merging, renaming, archiving, cross-linking, or TODO changes. It must not perform those mutations merely because they appear in the report.
 
@@ -46,6 +56,7 @@ The synthesis may recommend promotion, merging, renaming, archiving, cross-linki
 - Treat journal pages, genealogies, surveillance records, and behavioral fingerprints as evidence nodes with setup, custody, authentication, reveal, and consequence.
 - Record the final queue as `BUILD NOW`, `BRAINSTORM NEXT`, or `LEAVE OPEN` so deliberate ambiguity is not mistaken for a defect.
 - Convert the approved weekly completion set into [[07 Coordination/Story Completion Workflow/TASK-REGISTRY|the task registry]] and advance it horizontally through [[07 Coordination/Story Completion Workflow/WORKFLOW|Story Completion Workflow]]. The weekly checklist remains the binary/public source of truth; the registry records depth and validation.
+- Treat `BUILD NOW` and `BRAINSTORM NEXT` as synthesis classifications used to construct the one completion TODO, not as separate lists for the author to work from.
 
 ## Validation
 
@@ -56,5 +67,6 @@ Before closing a run, verify source paths, authority labels, chronology, charact
 - [[CONFIG]] — scope, modes, scoring, and stop rules.
 - [[MASTER PROMPT]] — reusable execution prompt.
 - [[CURRENT-COMPLETION-TODO]] — stable pointer used by the public dashboard; update it only after a replacement completion checklist is approved.
+- [[CURRENT-WEEK-INTAKE]] — non-executable index of consequential material awaiting the next synthesis.
 - `Templates/` — copyable run manifest and report contracts.
 - `Runs/` — dated, immutable-by-convention analysis history.

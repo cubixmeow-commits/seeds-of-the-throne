@@ -9,6 +9,8 @@ scope: single current pickup point
 
 This is the single current pickup point for the next Seeds session. Older dated desktop pickups and `MOBILE-HANDOFF.md` are historical context, not competing instructions.
 
+This note identifies where to resume inside [[Weekly Synthesis/CURRENT-COMPLETION-TODO|the only author-facing story-development TODO]]. It may not add work or priority that is absent from that checklist. New directions go to [[Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] for weekly reconciliation.
+
 ## What is complete
 
 The Character Journal Artifact System and Weekly Story Synthesis v1.0 are implemented.

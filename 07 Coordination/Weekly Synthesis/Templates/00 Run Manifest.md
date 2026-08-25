@@ -37,9 +37,12 @@ updated: YYYY-MM-DD
 - [ ] 08 Next Week Story Queue
 - [ ] 09 Public Development Ideas
 - [ ] 10 Vault Maintenance Recommendations
+- [ ] 13 Weekly Intake Reconciliation
 - [ ] selected optional modules
 - [ ] continuity/status validation
 - [ ] compact handoff
+- [ ] one author-approved completion TODO or an explicit no-change decision
+- [ ] stable pointer, task registry, and public dashboard reconciled
 
 ## Final handoff
 

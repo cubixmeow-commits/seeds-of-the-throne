@@ -5,6 +5,8 @@
 
 **Execution:** This checklist remains the source of truth for binary completion and the public `docs/todo.html` dashboard. [[07 Coordination/Story Completion Workflow/TASK-REGISTRY|TASK-REGISTRY]] tracks each item's current depth, phase, dependencies, and validation without duplicating its completion state.
 
+**Single-list rule:** This is the only author-facing story-development TODO for the current cycle. New ideas belong in dated sessions and [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] until the next synthesis reconciles them into an author-approved replacement.
+
 ## This week's objective
 
 By the end of this work cycle, the story should have a **testable causal spine from the prewar betrayal through the modern endgame**, with the largest blocking permissions, evidence, and character-choice gaps either resolved by the author or reduced to narrow options.
@@ -277,4 +279,4 @@ If those seven statements are true, the project should move from **macro story a
 14. Endgame setup audit.
 15. Opening/viewpoint prototypes and revelation order.
 
-**Rule for the week:** when a new idea does not resolve one of these dependencies, capture it in the vault and return to the list.
+**Rule for the week:** when a new idea does not resolve one of these dependencies, capture it in a dated session, index it in [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] when consequential, and return to this list.

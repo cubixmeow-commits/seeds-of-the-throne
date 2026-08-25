@@ -1,14 +1,17 @@
 ---
 type: context
-status: active
-updated: 2026-08-23
+status: superseded-as-execution-list
+updated: 2026-08-24
 ---
 
-# Current Brainstorming To-Do
+# Legacy Brainstorming Inventory
+
+> [!IMPORTANT]
+> **Do not work from this checklist.** It is a legacy brainstorming inventory preserved as context. The only current author-facing story-development TODO is named by [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]] and displayed on the public Story Completion dashboard. New discoveries go through [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] and the weekly synthesis before they can alter that list.
 
 Work through these one at a time in the next brainstorming sessions. The immediate center of gravity has shifted toward defining the contained-criminal leadership, the legitimate dynasties, Sylvan's unique developmental process, and the approximately eighty-year episodic middle.
 
-## Current sequence
+## Preserved former sequence
 
 0. [ ] **Use the development-first system for each priority below.** Begin with the Gap Analyzer, generate breadth cheaply, deepen only survivors, use research only when it can change the story, create only the cast required by structure, prototype one representative scene when useful, run Creative Interest plus relevant structural/listener critics, and stop at the author gate. See [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]].
 

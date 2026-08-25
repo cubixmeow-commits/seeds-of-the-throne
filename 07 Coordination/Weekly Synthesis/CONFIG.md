@@ -1,7 +1,7 @@
 ---
 type: synthesis-config
 status: active
-version: 1.0
+version: 1.1
 updated: 2026-08-23
 ---
 
@@ -21,6 +21,7 @@ Always read `START HERE.md`, `03 Context/CURRENT.md`, `03 Context/RULES.md`, `03
 
 Then inventory, without treating all as equal authority:
 
+- every signal in `CURRENT-WEEK-INTAKE.md`;
 - files changed since the last synthesis;
 - active Story Units, runs, and brainstorms;
 - implicated character/system/event notes;
@@ -51,6 +52,8 @@ Score 1–5 for causal leverage, downstream blockage, character importance, evid
 - **BUILD NOW:** sufficiently established/working and structurally ready for a Story Unit, sequence, scene specification, or approved vault task.
 - **BRAINSTORM NEXT:** important but blocked by an author decision, missing alternatives, research, or mechanism.
 - **LEAVE OPEN:** ambiguity currently creates value or the dependency is too remote to justify work.
+
+These are analysis classifications, not parallel author TODO lists. Reconcile them into one proposed replacement completion checklist, deduplicated against the current task registry, and stop for author approval before changing the stable pointer.
 
 ## Stop rules
 

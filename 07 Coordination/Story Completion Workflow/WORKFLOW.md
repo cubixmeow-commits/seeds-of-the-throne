@@ -1,7 +1,7 @@
 ---
 type: coordination-system
 status: active
-version: 1.0
+version: 1.1
 updated: 2026-08-24
 ---
 
@@ -21,13 +21,15 @@ Every active task receives the current sweep before any task descends to the nex
 
 ## Sources of truth
 
-- [[07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo|Weekly Story Completion TODO]] owns the public completion checkboxes.
+- [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]] points to the sole author-facing story-development execution list and owns the public completion checkboxes.
 - [[TASK-REGISTRY]] owns task IDs, depth, phase, and validation state.
 - [[UNLOCK-MAP]] owns typed dependencies and reverse-impact paths.
 - [[CURRENT]] owns the active sweep and current task.
 - `07 QA/Decisions.md`, `Contradictions.md`, and `Questions.md` remain the durable authority/QA records.
 
 No dashboard, task state, packet, prototype, or generated draft establishes canon.
+
+[[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] captures signals for later reconciliation but is not an execution list. Current Pickup may identify where to resume, and the registry may route engine state, but neither may introduce author priorities absent from the current completion TODO.
 
 ## State model
 

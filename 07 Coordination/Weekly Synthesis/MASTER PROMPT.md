@@ -1,15 +1,15 @@
 ---
 type: synthesis-prompt
 status: active
-version: 1.0
-updated: 2026-08-23
+version: 1.1
+updated: 2026-08-24
 ---
 
 # Weekly Story Synthesis — Master Prompt
 
 Analyze the Seeds of the Throne vault as though preparing the project for novel production, while preserving the vault's authority hierarchy and deliberate uncertainty.
 
-First read the synthesis configuration, vault rules, current context, open questions, current pickup, decisions, contradictions, previous synthesis manifest, and files changed since the last cutoff. Build a source inventory and separate established, working, proposed, unresolved, rejected/superseded, research-only, and non-canon material. Never treat generated prose, images, research, or assistant suggestions as author decisions.
+First read the synthesis configuration, vault rules, current context, open questions, current pickup, current completion TODO, current-week intake, decisions, contradictions, previous synthesis manifest, and files changed since the last cutoff. Build a source inventory and separate established, working, proposed, unresolved, rejected/superseded, research-only, and non-canon material. Never treat generated prose, images, research, or assistant suggestions as author decisions.
 
 Produce a dated run using all ten core templates:
 
@@ -26,4 +26,8 @@ Produce a dated run using all ten core templates:
 
 If the selected mode includes optional modules, run the editorial board, forward/reverse causal reconstruction, and/or novelization-readiness audit. Report agreement and disagreement rather than forcing consensus.
 
-Be adversarial about weak logic but preserve useful ambiguity. Cite vault paths for every significant finding. Distinguish contradiction, tension, gap, drift, and intentional open question. End with a compact handoff containing the highest-value gap, exact next author question, recommended Story Loop route, and all proposed maintenance actions requiring approval.
+Be adversarial about weak logic but preserve useful ambiguity. Cite vault paths for every significant finding. Distinguish contradiction, tension, gap, drift, and intentional open question.
+
+Then complete `13 Weekly Intake Reconciliation`: compare every intake signal and newly changed source against the current checklist and registry, merge duplicates, preserve useful open material with revisit triggers, and propose exactly one replacement completion TODO or an explicit no-change decision. `BUILD NOW`, `BRAINSTORM NEXT`, and `LEAVE OPEN` are analysis classifications, not author work lists. Stop at the author gate. Only after approval may the stable completion pointer, registry, dependency map, Current Pickup, and public dashboard be reconciled.
+
+End with a compact handoff containing the highest-value gap, exact next author question, recommended Story Loop route, all proposed maintenance actions requiring approval, and whether the sole completion TODO changed.

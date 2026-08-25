@@ -64,3 +64,9 @@ The Project Explorer front page now includes a public, spoiler-aware Story Compl
 The public view exposes only workflow state: overall progress, the active macro-to-micro sweep, the current task ID, eight sweep stages, and broad working-front labels. It does not expose task wording or establish story facts. The full vault dashboard remains available through the linked public TODO page.
 
 The dated build-ledger section was subsequently removed from the Project Explorer. Its useful repository scope and live document count were folded into the explorer introduction, leaving a clearer public flow: Story Completion followed by Project Explorer.
+
+## Single TODO and weekly intake decision
+
+The author selected the completion checklist named by `07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md` as the only story-development TODO they will work from. Daily sessions and focused brainstorm packets remain the free-development space. Consequential discoveries receive a source-linked signal in `CURRENT-WEEK-INTAKE.md`, which has no checkboxes or execution order. The weekly synthesis inventories all changed material, reconciles intake against existing tasks, and may replace the completion checklist only after an author gate. The task registry, Current Pickup, open questions, and technical desktop queue support that list without competing with it.
+
+This is a workflow decision only. It changes no story authority or canon.

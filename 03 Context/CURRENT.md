@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Current
@@ -79,7 +79,10 @@ The next author-led work is the Samuel–Konrad containment hierarchy, one quest
 - George's real apparent success, important-seeming role, humiliating exposure, and containment bust become the factual material Samuel later rewrites as proof of covert conquest.
 - Story functionality that preserves public cover-ups while a sealed record accumulates underneath.
 
-## Immediate development priorities
+## Legacy development inventory — reference only
+
+> [!IMPORTANT]
+> The numbered material below is preserved as historical scope, not as an active execution list. Work only from [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]]. The weekly synthesis reconciles useful uncovered material through [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]].
 
 1. **Define the advanced human–Luminai integration process.** Establish physical interfaces, ordinary cognitive access, presentation development, risks, constraints, and what is new about Sylvan's process.
 2. **Define the unprecedented Luminai outcome.** Determine what Sylvan and his Luminai become capable of together and which hard limits prevent omniscience, magical control, or consequence-free integration.
@@ -99,7 +102,7 @@ The next author-led work is the Samuel–Konrad containment hierarchy, one quest
 16. Test the expanded visual-generation system on new environments, technology, multi-character scenes, and short video/voice continuity passes.
 17. Test the development-first pipeline on one contained Great War gap: Gap Analyzer -> breadth-first alternatives -> Character Factory -> chapter packet -> optional 500–1,000 word prototype -> Creative Interest plus structural/listener critics -> author gate. Keep Archive Thriller / Dark Historical Reconstruction for later manuscript-specific testing.
 
-See [[03 Context/CURRENT-TODO]] for the full working sequence and the dated treatment notes above for the current middle-story architecture.
+See [[03 Context/CURRENT-TODO]] for the fuller legacy inventory and the dated treatment notes above for the current middle-story architecture. Neither replaces the current completion TODO.
 
 ## Thematic distinctions to preserve
 

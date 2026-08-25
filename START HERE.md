@@ -1,7 +1,7 @@
 ---
 type: index
 status: active
-updated: 2026-08-17
+updated: 2026-08-24
 ---
 
 # Seeds of the Throne
@@ -14,6 +14,7 @@ This vault is persistent working memory for developing the story. It preserves t
 2. Read whichever of [[03 Context/CAST]], [[03 Context/WORLD]], or [[03 Context/STORY]] applies.
 3. Check [[03 Context/OPEN-QUESTIONS]].
 4. Record new work in `01 Sessions/Daily/` before updating compiled story notes.
+5. For author-facing story work, use only the checklist named by [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]]. Capture consequential new directions in [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] for the next synthesis rather than starting another task list.
 
 ## Shared methods
 
@@ -21,7 +22,7 @@ Reusable AI workflows live in [[skills/README|skills]]. Review the catalog and l
 
 ## Coordination
 
-Read [[07 Coordination/CURRENT-PICKUP]] first, then [[07 Coordination/README|Coordination]] for the mobile-versus-desktop convention. Work requiring local files, testing, commits, publishing, or durable cross-device handoff belongs in [[07 Coordination/DESKTOP-QUEUE|the desktop queue]]. The short instruction for resuming the project is: **Open Current Pickup.**
+Read [[07 Coordination/CURRENT-PICKUP]] for the exact resume point, then [[07 Coordination/README|Coordination]] for the mobile-versus-desktop convention. Current Pickup routes into the one completion TODO; it does not create separate story priorities. Work requiring local files, testing, commits, publishing, or durable cross-device handoff belongs in [[07 Coordination/DESKTOP-QUEUE|the desktop queue]], which is a technical handoff rather than an author story list. The short instruction for resuming the project is: **Open Current Pickup.**
 
 Current story-system directions are summarized in [[02 Story/Systems/Advanced Technology Ecology]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Systems/Fascist Failure and Leadership Cultivation]], and [[02 Story/Systems/Visual Generation/README|Visual Generation]].
 
