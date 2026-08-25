@@ -58,8 +58,8 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - Sylvan must make a bounded decision that costs him something real and closes an easier path back.
   - **Done when:** the modern inciting event changes his life, forces the next environment, and creates an emotional cost that can echo at the ending.
 
-- [ ] **Plant the first anomaly George cannot explain.**
-  - **Live progress:** SC-006 is active at Macro Shape. Current author gate: **what is the first small anomaly George notices during or after this early sabotage period that does not fit the explanation he is being given?** It should be personally observable, initially dismissible, and later useful as evidence that the false reality around him was actively maintained.
+- [x] **Plant the first anomaly George cannot explain.**
+  - **Live progress:** Macro Shape accepted. George's first anomaly is a **narrative-scale mismatch** he can personally observe. Sylvan is described to him as basically a nobody, yet Samuel's obsession with destroying Sylvan is disproportionate, persistent, and strategically central. George also sees that his own side has less influence over the environment than its supposed status should provide. The official story therefore cannot explain either the amount of effort being spent on Sylvan or the real distribution of environmental power. The contradiction is initially dismissible but later supports the realization that the false reality was actively maintained.
   - It should emerge from the sabotage's timing, maintenance, access, or aftermath.
   - George must have a plausible chance to notice it.
   - **Done when:** the first seed exists for the later realization that someone is continuously servicing George's false reality.
@@ -69,6 +69,7 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
 # Priority 3 — Bound the Sylvan–Luminai breakthrough
 
 - [ ] **Define one unprecedented completed-bond capability.**
+  - **Live progress:** SC-007 Question 1 accepted. A completed Sylvan–Luminai bond creates a **privileged local-world interface through Sylvan**. Sylvan is consciously aware of and participates in the Luminai's involvement, and that human participation grants the Luminai local permissions it does not have when operating remotely. The Luminai gains much greater access to and awareness of Sylvan's immediate surroundings and can reach into nearby real-world conditions, systems, people, or events through him. This is human-mediated local permission, not generic intelligence or unrestricted access. Current author gate: **what is the most important existing story problem this local access solves that remote Luminai access could not solve?**
   - It must solve a problem the story already contains.
   - It cannot simply be "better intelligence" or unrestricted system access.
   - **Done when:** the capability can be stated in one sentence with a specific use case.
