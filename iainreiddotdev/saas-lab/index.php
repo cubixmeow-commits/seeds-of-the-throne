@@ -460,7 +460,6 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
                     <div class="inv-group">
                         <h3>AI assistance</h3>
                         <ul>
-                            <li>Claude</li>
                             <li>Cursor</li>
                             <li>ChatGPT</li>
                             <li>Gemini</li>

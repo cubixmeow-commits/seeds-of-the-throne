@@ -1,7 +1,7 @@
 ---
 type: rules
 status: active
-updated: 2026-08-17
+updated: 2026-08-24
 ---
 
 # Rules
@@ -10,7 +10,7 @@ updated: 2026-08-17
 
 - The author decides the story and has final authority.
 - GPT is the story-development and organization command center: structure, continuity, questions, synthesis, and collaborative development.
-- Claude is research-only. Claude may answer assigned research questions but may not invent story facts, names, characters, scenes, or prose.
+- Research tools may answer tightly scoped, source-backed questions but may not invent story facts, names, characters, scenes, or prose.
 - Other agents may use the shared vault skills only within the scope assigned by the author. Image-capable agents may create visual interpretations, but their outputs do not establish story canon.
 
 ## Story memory

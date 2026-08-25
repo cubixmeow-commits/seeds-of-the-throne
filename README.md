@@ -23,7 +23,7 @@ The old working vault is kept separately as `Seeds of the Throne archive`. It is
 
 - The author makes story decisions and controls final voice.
 - GPT is the story-development and organization command center.
-- Claude is research-only. Research informs decisions but does not create canon automatically.
+- Research is advisory and does not create canon automatically.
 
 ## Session workflow
 

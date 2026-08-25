@@ -39,4 +39,4 @@ Current development work begins with [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] 
 
 ## Authority
 
-The author's direct statements and decisions control the story. GPT develops, organizes, questions, and maintains continuity. Claude performs assigned research only. See [[03 Context/RULES]].
+The author's direct statements and decisions control the story. GPT develops, organizes, questions, and maintains continuity. Research remains advisory regardless of the tool used. See [[03 Context/RULES]].

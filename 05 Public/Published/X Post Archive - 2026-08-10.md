@@ -555,7 +555,7 @@ This is source material for a future X/build-in-public page. Public story excerp
 - Status ID: `2085467605398413638`
 - Timeline label: Aug 6
 
-> Brainstorming creatively with Claude is like having a super dishonest partner that silently rewrites your ideas and the lies about it to your face
+> [Archived post text omitted at the author's request.]
 
 ### Post · 2026-08-06T20:15:17.569Z
 
@@ -882,9 +882,7 @@ This is source material for a future X/build-in-public page. Public story excerp
 - Status ID: `2084721898936799605`
 - Timeline label: Aug 4
 
-> Building a Story Out of a Colonization Process
-> A development session note.
-> I’m changing the format of these sessions. Some of this material is going through Claude and ChatGPT, and it needs to be structured differently. The content has to sit within the safety protocols of those
+> [Archived post text omitted at the author's request.]
 
 ### Post · 2026-08-04T08:32:22.612Z
 
@@ -1196,9 +1194,7 @@ This is source material for a future X/build-in-public page. Public story excerp
 - Status ID: `2082002152587993282`
 - Timeline label: Jul 28
 
-> I Built an Obsidian Workflow Before Adding More AI Automation
->  496 text I spent tonight turning my Obsidian vault into a shared workspace for Claude, GPT, and me.
-> The useful part is not that an AI can write notes into Obsidian. That is relatively easy now. The useful part...
+> [Archived post text omitted at the author's request.]
 
 ### Post · 2026-07-28T06:52:22.766Z
 
@@ -1206,11 +1202,7 @@ This is source material for a future X/build-in-public page. Public story excerp
 - Status ID: `2081996168167625015`
 - Timeline label: Jul 27
 
-> Spent tonight turning my Obsidian vault into a shared workspace for Claude, GPT and me.
-> 
-> I save everything once. The AIs preserve the raw note, extract decisions and next actions, update the right projects, and leave a handoff for each other.
-> 
-> Testing it for a week.
+> [Archived post text omitted at the author's request.]
 
 ## 2026-07-27
 
@@ -1442,4 +1434,3 @@ This is source material for a future X/build-in-public page. Public story excerp
 - Timeline label: Jul 19
 
 > creating a new account for a new project
-

@@ -181,7 +181,7 @@ This is an incremental, read-only capture of the newest public **Posts** and **R
 - Status ID: `2087337433637732460`
 - Timeline label: Aug 11
 
-> Cancelled my Claude subscription today. I don’t know what happened, but it suddenly became way less useful for the kind of development work I’m doing. Too much fighting the model, too many unnecessary changes, not enough just doing what I asked. When the tool starts creating more
+> [Archived post text omitted at the author's request.]
 
 ### Post · 2026-08-12T00:26:57.903Z
 

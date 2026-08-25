@@ -70,3 +70,9 @@ The dated build-ledger section was subsequently removed from the Project Explore
 The author selected the completion checklist named by `07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md` as the only story-development TODO they will work from. Daily sessions and focused brainstorm packets remain the free-development space. Consequential discoveries receive a source-linked signal in `CURRENT-WEEK-INTAKE.md`, which has no checkboxes or execution order. The weekly synthesis inventories all changed material, reconciles intake against existing tasks, and may replace the completion checklist only after an author gate. The task registry, Current Pickup, open questions, and technical desktop queue support that list without competing with it.
 
 This is a workflow decision only. It changes no story authority or canon.
+
+## Research-provider removal
+
+After the author ended the subscription in response to management conduct, the discontinued research provider was removed from active roles, research instructions, workflow history, product copy, and public archives. Research authority is now stated entirely in tool-neutral terms: external research is tightly scoped, source-backed, advisory, and cannot establish canon. Affected archived posts are marked as omitted rather than silently rewritten.
+
+This is a tooling and documentation decision only. It changes no story authority or canon.

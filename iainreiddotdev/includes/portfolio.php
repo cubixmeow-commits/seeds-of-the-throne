@@ -227,7 +227,7 @@ function portfolio(): array
             'sequence' => [
                 ['label' => 'Pantry', 'hint' => 'Persistent context'],
                 ['label' => 'Recipe', 'hint' => 'One sequential step'],
-                ['label' => 'Run in ChatGPT / Claude / Gemini', 'hint' => 'Use existing subscriptions'],
+                ['label' => 'Run in ChatGPT / Gemini', 'hint' => 'Use existing subscriptions'],
                 ['label' => 'Bring back result', 'hint' => 'Capture the artifact'],
                 ['label' => 'Quality check', 'hint' => 'Success criteria & failure signals'],
                 ['label' => 'Next Recipe', 'hint' => 'Continue the workflow'],

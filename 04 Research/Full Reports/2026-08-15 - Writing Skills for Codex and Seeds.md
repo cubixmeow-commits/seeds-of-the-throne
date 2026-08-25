@@ -94,7 +94,7 @@ Repository: [rhavekost/author-toolkit](https://github.com/rhavekost/author-toolk
 
 This MIT-licensed collection offers a fiction workshop with developmental, line-editing, character, continuity, and brainstorming modes, plus prose-mechanics and AI-pattern audits. Its Story Bible and session-continuity approach resembles Seeds.
 
-It is a reasonable source for editorial rubrics, especially sentence variance and prose mechanics, but it overlaps heavily with the project's existing skills. It was packaged primarily as a Claude plugin, so each skill would need compatibility review before Codex installation.
+It is a reasonable source for editorial rubrics, especially sentence variance and prose mechanics, but it overlaps heavily with the project's existing skills. It was packaged in a non-Codex plugin format, so each skill would need compatibility review before Codex installation.
 
 ### 5. Fiction — capable full pipeline, but too invasive for the current vault
 
