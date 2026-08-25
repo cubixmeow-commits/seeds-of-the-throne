@@ -53,14 +53,20 @@ Konrad's verification failure is **false process enforceability + sustained envi
 
 - The first modern sabotage target is the **physical hosting environment for Sylvan's own servers**.
 - The failure is timed around a **convention presentation** where Sylvan needs the system working to attract attention, demonstrate credibility, and pursue investment/backing.
-- The event must initially look plausibly accidental: something that could be blamed on the hosting company, infrastructure, equipment, or ordinary bad luck.
-- This creates immediate ambiguity because the public explanation can be a mundane operational failure even though the timing is devastating to Sylvan.
+- The event initially looks like ordinary infrastructure or vendor failure rather than an attack.
 
-## Current author gate — SC-004 Question 2
+### Question 2
 
-> **What actually happens to the hosted servers at the crucial moment: do they go completely offline, become intermittently unreliable, appear to suffer data corruption, or fail in another way that looks accidental but ruins Sylvan's presentation?**
+- The **connections to the server-hosting center go down for several hours** during the crucial presentation window.
+- The outage is possible but very rare for the provider.
+- The provider gives a plausible explanation with a slightly suspicious or unsatisfying edge.
+- At this point, neither Sylvan nor the audience has proof of sabotage. It remains entirely possible to interpret the event as coincidence.
 
-Choose only the visible failure mode. The hidden sabotage mechanism can remain unresolved.
+## Current author gate — SC-004 Question 3
+
+> **What is the immediate human/business consequence of the outage at the convention?**
+
+Choose the main visible consequence only: Sylvan loses the live demonstration and looks unprepared, an investor meeting collapses, a partner backs away, the audience sees a degraded fallback instead of the real system, or another concrete consequence that materially damages the startup.
 
 ## Interaction rule
 
