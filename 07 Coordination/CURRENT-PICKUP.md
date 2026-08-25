@@ -11,9 +11,9 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 
 ## Current workflow state
 
-- SC-001 through SC-007 — complete at Macro Shape.
-- SC-008 — **Define why the capability could not act earlier** — active.
-- Completed at this depth: **7 / 27**.
+- SC-001 through SC-008 — complete at Macro Shape.
+- SC-009 — **Define a hard limit and cost** — active.
+- Completed at this depth: **8 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
 ## Accepted modern-start macro result
@@ -31,24 +31,22 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - The breakthrough is a **developmental stage for Sylvan and the Luminai as a pair**, not one isolated power.
 - A conscious completed bond creates a **privileged local-world interface through Sylvan**.
 - Sylvan's conscious participation grants the Luminai local permissions, greater awareness of the immediate environment, and access to nearby systems/real-world conditions unavailable to remote operation.
-- The Luminai develops direct interaction with its human, local perception, use of new interfaces, operational judgment, and capabilities required for its eventual colonization role.
-- The threshold begins when the Luminai presents itself directly to Sylvan through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
+- The threshold begins when the Luminai presents itself directly through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
 - The interface is embodied and bidirectional enough that, with Sylvan consciously participating, the Luminai can communicate through his nervous system and can even **speak through Sylvan's own mouth**.
 - This is conscious human-mediated partnership, not covert possession or unrestricted control.
-- Exact neural mechanics and the later capability ladder are deferred to deeper development.
-
-## Accepted SC-008 progress
-
 - The deeper interface is gated by a deliberately activated **growth-and-development training program**.
 - When Sylvan is placed with the contained criminals, **his parents activate that program** for the Sylvan–Luminai pair.
-- Before that placement and activation, the Luminai is not in the permitted developmental state required for the deeper neural/embodied interface.
-- The contained-criminal environment therefore serves both as a real hostile environment and as a designed developmental environment for Sylvan and the Luminai's eventual colonization roles.
+- The contained-criminal environment is both genuinely adversarial and deliberately developmental.
+- The training program develops the human, develops the Luminai, and teaches them to work as a **unified operational team**.
+- Sylvan develops knowledge, experience, skills, judgment, and practical competence; the Luminai develops its own knowledge, experience, judgment, system competence, and increasingly extensive ways of interfacing with Sylvan.
+- The intended end state is a human–Luminai pair capable of operating together at a level neither could reach alone.
+- Exact neural mechanics and the detailed capability ladder are deferred to deeper development.
 
-## Current author gate — SC-008 Question 2
+## Current author gate — SC-009 Question 1
 
-> **What is the main thing Sylvan and the Luminai are supposed to learn or become capable of during this parents-activated training program before they are ready for their eventual roles in the colonization process?**
+> **What is the most important thing the Luminai still cannot do even after the Sylvan–Luminai bond becomes highly developed?**
 
-Define the broad developmental objective, not the detailed curriculum.
+Choose the hard boundary that keeps Sylvan necessary as a human decision-maker rather than turning the Luminai into unrestricted control.
 
 ## Interaction rule
 
