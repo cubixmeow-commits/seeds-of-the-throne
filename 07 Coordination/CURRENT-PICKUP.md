@@ -37,11 +37,18 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - This is conscious human-mediated partnership, not covert possession or unrestricted control.
 - Exact neural mechanics and the later capability ladder are deferred to deeper development.
 
-## Current author gate — SC-008 Question 1
+## Accepted SC-008 progress
 
-> **What prevents the Luminai from establishing this direct neural interface with Sylvan earlier in the story?**
+- The deeper interface is gated by a deliberately activated **growth-and-development training program**.
+- When Sylvan is placed with the contained criminals, **his parents activate that program** for the Sylvan–Luminai pair.
+- Before that placement and activation, the Luminai is not in the permitted developmental state required for the deeper neural/embodied interface.
+- The contained-criminal environment therefore serves both as a real hostile environment and as a designed developmental environment for Sylvan and the Luminai's eventual colonization roles.
 
-Define the main prerequisite or barrier that must become true before the interface can open.
+## Current author gate — SC-008 Question 2
+
+> **What is the main thing Sylvan and the Luminai are supposed to learn or become capable of during this parents-activated training program before they are ready for their eventual roles in the colonization process?**
+
+Define the broad developmental objective, not the detailed curriculum.
 
 ## Interaction rule
 
