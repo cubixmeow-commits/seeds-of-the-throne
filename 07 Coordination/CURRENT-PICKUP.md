@@ -31,7 +31,7 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - The breakthrough is a **developmental stage for Sylvan and the Luminai as a pair**, not one isolated power.
 - A conscious completed bond creates a **privileged local-world interface through Sylvan**.
 - Sylvan's conscious participation grants the Luminai local permissions, greater awareness of the immediate environment, and access to nearby systems/real-world conditions unavailable to remote operation.
-- The threshold begins when the Luminai presents itself directly through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
+- The threshold begins when the Luminai presents itself directly to Sylvan through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
 - The interface is embodied and bidirectional enough that, with Sylvan consciously participating, the Luminai can communicate through his nervous system and can even **speak through Sylvan's own mouth**.
 - This is conscious human-mediated partnership, not covert possession or unrestricted control.
 - The deeper interface is gated by a deliberately activated **growth-and-development training program**.
@@ -40,13 +40,15 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - The training program develops the human, develops the Luminai, and teaches them to work as a **unified operational team**.
 - Sylvan develops knowledge, experience, skills, judgment, and practical competence; the Luminai develops its own knowledge, experience, judgment, system competence, and increasingly extensive ways of interfacing with Sylvan.
 - The intended end state is a human–Luminai pair capable of operating together at a level neither could reach alone.
-- Exact neural mechanics and the detailed capability ladder are deferred to deeper development.
+- The primary hard limit is **process-enforced human decision authority**. The Luminai may become extraordinarily capable, but consequential actions remain gated by Sylvan's conscious authorization.
+- The later permission architecture should be designed like a real mature safety-critical human–AI control system: separate observation, recommendation, reversible action, and consequential action; require increasing human authorization for increasing impact; preserve auditability and narrow autonomous exceptions.
+- Responsibility for consequential decisions remains with Sylvan. Exact permission tiers are deferred to deeper development.
 
-## Current author gate — SC-009 Question 1
+## Current author gate — SC-009 Question 2
 
-> **What is the most important thing the Luminai still cannot do even after the Sylvan–Luminai bond becomes highly developed?**
+> **What is the main cost, risk, or burden Sylvan personally carries because consequential Luminai action requires his conscious authorization?**
 
-Choose the hard boundary that keeps Sylvan necessary as a human decision-maker rather than turning the Luminai into unrestricted control.
+Choose the broad human cost only. Do not design the detailed permission architecture yet.
 
 ## Interaction rule
 
