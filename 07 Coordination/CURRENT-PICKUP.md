@@ -14,12 +14,14 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - SC-001 — **Define what makes one contained criminal the primary** — complete at Macro Shape.
 - SC-002 — **Finish the S-008 containment hierarchy needs analysis** — complete at Macro Shape.
 - SC-003 — **Define Konrad's verification failure** — complete at Macro Shape.
-- SC-004 — **Choose the exact target of the attack on Sylvan's startup** — active.
-- Completed at this depth: **3 / 27**.
+- SC-004 — **Choose the exact target of the attack on Sylvan's startup** — complete at Macro Shape.
+- SC-005 — **Define Sylvan's irreversible choice and loss** — active.
+- Completed at this depth: **4 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
 Open:
 
+- [[Story Completion Workflow/Tasks/SC-005]]
 - [[Story Completion Workflow/Tasks/SC-004]]
 - [[Story Completion Workflow/CURRENT]]
 
@@ -33,40 +35,23 @@ Open:
 - Samuel falsely presents that move as restoration or protected separation. Konrad believes the program remains Fitzgerald-controlled while Samuel becomes structurally alpha over the migrated initiatives.
 - Konrad remains beta with substantial real operating authority and continues the plan inside the apparent separate environment.
 - The story environment hides Samuel's surveillance, competing decisions, lineage sabotage, and younger-generation redirection until Sylvan eventually exposes the truth.
-- The story frames Samuel's lineage sabotage as an attack on **Konrad's racist/supremacist criteria**, not as an objective hierarchy of human worth.
-- Samuel's motive becomes increasingly obsessive and personal after surveillance reveals Konrad's betrayal, contempt, and persecution of Samuel's countercultural beliefs.
-- Real-world historical comparisons remain development-only and are not copied into bible/canon material.
+- Konrad's verification failure is false process enforceability reinforced by a two-sided story environment and his obsession with completing his supremacist god-king project.
 
-## Accepted SC-003 macro result
+## Accepted SC-004 macro result
 
-Konrad's verification failure is **false process enforceability + sustained environmental confirmation + obsession-driven motivated reasoning**.
+- The first modern sabotage targets the **physical hosting environment for Sylvan's own servers**.
+- It happens during a high-stakes convention presentation intended to win attention, credibility, and investment/backing.
+- The hosting center loses external connectivity for several hours. The outage is possible but very rare.
+- The provider gives a plausible explanation with a slightly suspicious edge.
+- Sylvan still gives the presentation, but cannot perform the live demo.
+- There is no major immediate business loss. The incident remains easy to dismiss as coincidence.
+- Its real narrative function is to become the first event in a **long sequence of attacks that later escalate substantially**, allowing its significance to emerge retrospectively.
 
-- Samuel convinces Konrad that their deal is recognized and enforceable by the colonization process and therefore creates a protected Fitzgerald sphere.
-- No real separation exists. Samuel maintains a two-sided story environment for almost a century that appears to confirm autonomy while hiding Samuel's interventions.
-- Konrad's defining obsession is a megalomaniacal supremacist project: to engineer what he believes is a superior population, lead it to dominate worlds, and eventually establish himself as a god-king.
-- Samuel's supposed process-enforced separation appears to preserve that future after defeat, making the arrangement emotionally and strategically irresistible.
-- Konrad does not need to respect Samuel; he only needs to believe Samuel has found a mechanism that lets Konrad continue the project he cannot surrender.
+## Current author gate — SC-005 Question 1
 
-## Accepted SC-004 progress
+> **As the attacks escalate beyond the harmless convention outage, what does Sylvan eventually choose to do that he could have avoided by walking away from the startup or accepting defeat?**
 
-### Question 1
-
-- The first modern sabotage target is the **physical hosting environment for Sylvan's own servers**.
-- The failure is timed around a **convention presentation** where Sylvan needs the system working to attract attention, demonstrate credibility, and pursue investment/backing.
-- The event initially looks like ordinary infrastructure or vendor failure rather than an attack.
-
-### Question 2
-
-- The **connections to the server-hosting center go down for several hours** during the crucial presentation window.
-- The outage is possible but very rare for the provider.
-- The provider gives a plausible explanation with a slightly suspicious or unsatisfying edge.
-- At this point, neither Sylvan nor the audience has proof of sabotage. It remains entirely possible to interpret the event as coincidence.
-
-## Current author gate — SC-004 Question 3
-
-> **What is the immediate human/business consequence of the outage at the convention?**
-
-Choose the main visible consequence only: Sylvan loses the live demonstration and looks unprepared, an investor meeting collapses, a partner backs away, the audience sees a degraded fallback instead of the real system, or another concrete consequence that materially damages the startup.
+Define only the major choice. The exact attack that forces it and the full consequences can be developed in later gates.
 
 ## Interaction rule
 
