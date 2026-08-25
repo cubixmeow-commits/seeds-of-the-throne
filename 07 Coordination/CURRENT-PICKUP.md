@@ -52,7 +52,7 @@ Begin the Macro Shape sweep from [[Story Completion Workflow/CURRENT]]. Resume t
 
 [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
 
-Questions 1–6 are accepted for SC-001.
+Questions 1–7 are accepted for SC-001.
 
 - The hierarchy controls decisions and awareness through layered control rather than arbitrary private-belief rewriting.
 - Primary status is a negotiated prosecution status that establishes alpha priority in a relevant containment environment.
@@ -61,13 +61,14 @@ Questions 1–6 are accepted for SC-001.
 - Samuel's alpha status becomes operational in the largest empire during the phase surrounding Samuel Jr.'s attempted government takeover, while Samuel is part of the isolated luxury controller class managing participants, bloodlines/groups, and synthetics.
 - Containment uses a tiered permission hierarchy like a computer permissions system. Each leader retains defined authority over specific decision-making elements rather than blanket ownership.
 - The alpha tier gives Samuel broad cross-domain **power, control, and information**: access to and influence over essentially everything lower-tier leaders do, meaningful decision-making authority across those activities, the ability to install surveillance, and superior visibility into their operations. Lower-tier permissions still remain real.
+- The critical hard boundary is that Samuel cannot simply remove Konrad or erase the senior Fitzgerald leadership. Konrad retains substantial real decision-making authority, and much of his leadership still believes they are in charge, are taking control of the colonization process, and can eventually get rid of Samuel. Samuel's long bloodline-destruction campaign is partly an indirect strategy to solve this problem by destroying the continuity and future basis of a leadership structure he cannot directly delete.
 - Samuel's apparent exile being part of his own plan/deal remains an endgame reveal.
 
-Proceed to Question 7 only for SC-001:
+Proceed to Question 8 only for SC-001:
 
-> **What is the most important thing the alpha cannot do without a lower-tier leader's participation, authorization, or mistake? In other words, what hard boundary keeps Samuel from simply taking Konrad's organization the moment Konrad enters containment?**
+> **Why can't Samuel simply remove Konrad or the senior Fitzgerald leadership? Is their continued authority protected by their own prosecution deals, by a rule that alpha cannot revoke another negotiated leadership identity, by required consent or thresholds, or by another structural safeguard?**
 
-Do not yet build the full permission matrix, explain why the hierarchy locks, or solve Samuel's later exploitation of Konrad. Define only the most important hard boundary on alpha power.
+Do not yet build the full permission matrix, explain the entire lock system, or solve the exact generational mechanism of the bloodline campaign. Define only the structural reason this leadership cannot be directly removed by Samuel.
 
 Use:
 
@@ -101,6 +102,8 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - Samuel's first active integration occurs during the phase surrounding Samuel Jr.'s attempted government takeover, while Samuel belongs to the isolated luxury controller class managing participants, bloodlines/groups, and synthetics.
 - Containment authority is tiered by permissions; lower leaders retain real authority in their assigned domains.
 - Alpha gives Samuel broad cross-domain power, control, information, surveillance, and decision influence, but not automatic erasure of lower-tier permissions.
+- Samuel cannot simply remove Konrad or the senior Fitzgerald leadership; their continuing real authority forces Samuel to pursue indirect long-term destruction.
+- The destruction of Fitzgerald bloodlines is partly motivated by Samuel's inability to eliminate that leadership directly.
 - Konrad later reactivates or migrates Fitzgerald machinery into Samuel's jurisdiction.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - The consequences materially contribute to the Fitzgerald group's permanent destruction.
@@ -112,7 +115,7 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 
 ## Still unresolved
 
-- the most important hard boundary on alpha power;
+- the structural reason Samuel cannot directly remove Konrad or senior Fitzgerald leadership;
 - the full permission matrix across containment decision-making elements;
 - why the system uses structural priority/lock;
 - what Samuel knew and when;
@@ -122,7 +125,7 @@ Do not wait until the end of the session to publish accepted progress. Do not pu
 - evidence and verification failure;
 - what remains under Konrad's authority;
 - reset or supersession limits;
-- exact path to surveillance, genealogy access, replacement, and permanent destruction;
+- exact path from bloodline destruction to replacement and permanent destruction;
 - how Samuel's concealed alpha deal and Konrad's expansionist conquest assumptions structurally collide after defeat.
 
 ## After SC-001's macro pass
