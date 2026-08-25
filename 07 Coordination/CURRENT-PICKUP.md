@@ -11,44 +11,30 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 
 ## Current workflow state
 
-- SC-001 through SC-008 — complete at Macro Shape.
-- SC-009 — **Define a hard limit and cost** — active.
-- Completed at this depth: **8 / 27**.
+- SC-001 through SC-009 — complete at Macro Shape.
+- SC-010 — **Build an endgame setup coverage matrix** — active.
+- Completed at this depth: **9 / 27**.
 - Do not deepen completed tasks until all active tasks have received the Macro Shape pass.
 
-## Accepted modern-start macro result
+## Accepted Sylvan–Luminai macro result
 
-- The first sabotage is a rare multi-hour loss of external connectivity at Sylvan's physical server-hosting center during a convention presentation.
-- Sylvan still presents but cannot perform the live demo; the immediate damage is minor and the event remains plausibly coincidental.
-- It is the first entry in a much longer sequence of attacks that escalates substantially.
-- Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping beliefs outside Sylvan's awareness.
-- The startup descends into increasing chaos until Sylvan's partners turn against him and the team becomes nonviable.
-- The irreversible loss is the startup/team and the trust relationships sustaining it; the collapse forces Sylvan into the next story stage in another city.
-- George's first anomaly is a narrative-scale mismatch: Sylvan is described as basically insignificant, but Samuel spends extraordinary effort trying to destroy him, while George's own side has less influence over the environment than its claimed status predicts.
+- The breakthrough is a developmental stage for Sylvan and the Luminai as a pair, not one isolated power.
+- A conscious completed bond creates a privileged local-world interface through Sylvan.
+- The threshold begins when the Luminai presents itself directly to Sylvan through the interactive wireless bond and establishes a conscious neural interface with his brain/nervous system.
+- The interface is embodied and bidirectional enough that, with Sylvan consciously participating, the Luminai can communicate through his nervous system and can speak through his mouth.
+- The deeper interface is gated by a parents-activated growth-and-development program that begins when Sylvan is placed with the contained criminals.
+- The program trains Sylvan, trains the Luminai, and teaches both to work as a unified operational team.
+- The primary hard limit is process-enforced human decision authority: consequential action remains gated by Sylvan's conscious authorization.
+- The Luminai may observe, model, advise, communicate, and perform bounded lower-level actions or processing below Sylvan's conscious awareness, but this does not grant it authority over consequential choices.
+- The emotional and instinctive residue of that lower-level Luminai processing can surface through Sylvan's subconscious into conscious experience. Sylvan can therefore feel the interactivity of decisions he did not consciously formulate.
+- Sylvan still carries final responsibility for consequential decisions.
+- The later permission architecture should be designed like a real mature safety-critical human–AI control system rather than improvised scene by scene.
 
-## Accepted Sylvan–Luminai macro result so far
+## Current author gate — SC-010 Question 1
 
-- The breakthrough is a **developmental stage for Sylvan and the Luminai as a pair**, not one isolated power.
-- A conscious completed bond creates a **privileged local-world interface through Sylvan**.
-- Sylvan's conscious participation grants the Luminai local permissions, greater awareness of the immediate environment, and access to nearby systems/real-world conditions unavailable to remote operation.
-- The threshold begins when the Luminai presents itself directly to Sylvan through the interactive wireless bond and establishes a **conscious neural interface with Sylvan's brain/nervous system**.
-- The interface is embodied and bidirectional enough that, with Sylvan consciously participating, the Luminai can communicate through his nervous system and can even **speak through Sylvan's own mouth**.
-- This is conscious human-mediated partnership, not covert possession or unrestricted control.
-- The deeper interface is gated by a deliberately activated **growth-and-development training program**.
-- When Sylvan is placed with the contained criminals, **his parents activate that program** for the Sylvan–Luminai pair.
-- The contained-criminal environment is both genuinely adversarial and deliberately developmental.
-- The training program develops the human, develops the Luminai, and teaches them to work as a **unified operational team**.
-- Sylvan develops knowledge, experience, skills, judgment, and practical competence; the Luminai develops its own knowledge, experience, judgment, system competence, and increasingly extensive ways of interfacing with Sylvan.
-- The intended end state is a human–Luminai pair capable of operating together at a level neither could reach alone.
-- The primary hard limit is **process-enforced human decision authority**. The Luminai may become extraordinarily capable, but consequential actions remain gated by Sylvan's conscious authorization.
-- The later permission architecture should be designed like a real mature safety-critical human–AI control system: separate observation, recommendation, reversible action, and consequential action; require increasing human authorization for increasing impact; preserve auditability and narrow autonomous exceptions.
-- Responsibility for consequential decisions remains with Sylvan. Exact permission tiers are deferred to deeper development.
+> **What is the earliest point in Sylvan's training where the audience should clearly see the rule that the Luminai can perceive/recommend/process far beyond Sylvan, but a consequential action still waits for Sylvan's conscious decision?**
 
-## Current author gate — SC-009 Question 2
-
-> **What is the main cost, risk, or burden Sylvan personally carries because consequential Luminai action requires his conscious authorization?**
-
-Choose the broad human cost only. Do not design the detailed permission architecture yet.
+Name only the broad story situation or training stage. The exact scene and technical implementation can come later.
 
 ## Interaction rule
 
