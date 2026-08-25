@@ -36,7 +36,7 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - **Done when:** Samuel's eventual advantage can be explained without hand-waving or omnipotent access.
 
 - [ ] **Define Konrad's verification failure.**
-  - **Live progress:** SC-003 is now active at Macro Shape. Current author gate: **What concrete proof or verification does Samuel show Konrad that convinces him the breeding/lineage and younger-generation programs are truly separate and still under Fitzgerald control?**
+  - **Live progress:** SC-003 Question 1 accepted. Samuel never proves a real separation because none exists. He convinces Konrad that their deal is recognized and enforceable by the colonization process, then maintains a two-sided story environment for almost a century that appears to confirm Fitzgerald autonomy while hiding Samuel's surveillance and interventions. Konrad's obsessions make the false premise attractive because it lets him believe his original project, authority, and ideological plan survived defeat. Current author gate: **what specifically about Konrad's obsession makes Samuel's supposedly enforceable deal emotionally and strategically irresistible despite Konrad's contempt for Samuel?**
   - What does Samuel offer that Konrad cannot obtain elsewhere?
   - What concrete check does Konrad perform before trusting the restoration/migration plan?
   - Why does that check falsely reassure him without making Konrad stupid?
