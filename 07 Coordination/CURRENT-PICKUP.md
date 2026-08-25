@@ -33,11 +33,21 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - George also sees that his own side has less influence over the environment than its claimed status should provide.
 - The contradiction is personally observable and initially dismissible, but later supports the realization that the false reality required active maintenance because the real power relationships differed from what George had been told.
 
-## Current author gate — SC-007 Question 1
+## Accepted SC-007 progress
 
-> **What is the one thing Sylvan and the Luminai can do together after their bond is fully completed that neither of them could do before?**
+### Question 1
 
-It should solve a problem the story already contains and be a concrete capability, not generic greater intelligence, awareness, or unrestricted system access.
+- A completed Sylvan–Luminai bond creates a **privileged local-world interface through Sylvan**.
+- Sylvan is consciously aware of and participates in the Luminai's involvement.
+- That conscious human participation grants the Luminai local permissions it does not possess when operating remotely.
+- The Luminai gains much greater access to and awareness of Sylvan's immediate surroundings and can reach into nearby real-world conditions, systems, people, or events through him in ways remote access does not allow.
+- This is not generic greater intelligence or unrestricted system access. Its defining advantage is **human-mediated local permission**.
+
+## Current author gate — SC-007 Question 2
+
+> **What is the most important existing story problem this human-mediated local access lets Sylvan and the Luminai solve that remote Luminai access could not solve?**
+
+Name only the main use case. Do not yet define why it could not act earlier, its cost, or its hard limit.
 
 ## Interaction rule
 
