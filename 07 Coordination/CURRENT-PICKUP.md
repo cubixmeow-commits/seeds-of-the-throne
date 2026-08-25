@@ -14,7 +14,7 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 ## Current workflow state
 
 - SC-001 — **Define what makes one contained criminal the primary** — is complete at Macro Shape.
-- SC-002 — **Finish the S-008 containment hierarchy needs analysis** — is now active.
+- SC-002 — **Finish the S-008 containment hierarchy needs analysis** — is active.
 - Completed at this depth: **1 / 27**.
 - Do not deepen SC-001 until all active tasks have received the Macro Shape pass.
 
@@ -43,13 +43,23 @@ Open:
 - Samuel later manipulates Konrad into another attempted takeover against Sylvan; develop that later, not inside the current SC-002 gate.
 - Samuel's apparent exile being part of his own plan/deal remains an endgame reveal.
 
-## Current author gate — SC-002 Question 1
+## Accepted SC-002 progress
 
-> **Which single later action in Samuel's takeover of the Fitzgerald organization should *not* follow automatically from alpha status and should instead require Konrad's own authorization, cooperation, or mistake?**
+Question 1 is accepted.
 
-Possible categories only, not preselected answers: reactivating Fitzgerald machinery inside Samuel's environment, reconnecting genealogy/bloodline systems, moving people or programs between environments, or granting Samuel visibility into a protected Fitzgerald domain.
+- The most important later takeover elements that do **not** follow automatically from alpha status are the Fitzgerald **breeding/lineage program** and the **training system for the younger generation**.
+- Konrad must participate in or accept their migration/reactivation inside Samuel's sphere.
+- Samuel persuades Konrad that Konrad is effectively locked out unless he accepts Samuel's proposed arrangement.
+- The arrangement is false or misleading: Konrad believes it restores or preserves Fitzgerald control while Samuel continues to possess meaningful influence, information, access, and decision-making authority through his office/alpha position.
+- Once the systems are inside Samuel's sphere, Samuel can progressively hijack lineage continuity and younger-generation formation.
+- The younger generation is redirected away from the senior Fitzgerald leadership's intended ideology toward a fictional counterculture shaped by Samuel.
+- Real-world historical comparisons used by the author are **development-only** and must not be copied into the bible/canon. Preserve only fictional functional equivalents: controlled lineage planning, ideological youth formation, and Samuel's generational counter-programming.
 
-The purpose of this gate is to separate **what alpha status gives Samuel automatically** from **what Samuel can obtain only because Konrad acts, authorizes something, cooperates, or makes a mistake**.
+## Current author gate — SC-002 Question 2
+
+> **After Konrad accepts Samuel's false deal and the breeding/lineage and younger-generation training systems are reactivated inside Samuel's sphere, what authority does Samuel gain automatically because of his office/alpha position, and what authority does Konrad still retain inside those same systems?**
+
+Define only the broad split of control at Macro Shape. The exact permission matrix can be designed later for individual story situations.
 
 ## Preserve exactly
 
@@ -61,9 +71,11 @@ The purpose of this gate is to separate **what alpha status gives Samuel automat
 - Samuel's earlier first-primary integration establishes structural priority there.
 - Lower leaders retain real negotiated authority; alpha is powerful but bounded.
 - Prosecution deals protect Konrad and the senior Fitzgerald leadership from direct removal during the containment/development/training phase.
-- Konrad later reactivates or migrates Fitzgerald machinery into Samuel's jurisdiction.
+- Konrad's cooperation/mistake is required to move the breeding/lineage and younger-generation training machinery into Samuel's sphere.
+- Samuel's false deal makes Konrad believe he is regaining or preserving control while Samuel retains influence through his office/alpha position.
+- Samuel's later generational corruption targets both bloodline continuity and ideological formation.
+- Do not store the author's real-world historical analogies in the bible/canon; translate only the underlying fictional functions.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
-- The consequences materially contribute to the Fitzgerald group's permanent destruction.
 - Samuel's exile is secretly part of Samuel's own plan/deal; this is withheld until the endgame reveal.
 
 ## Interaction rule
