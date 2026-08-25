@@ -52,13 +52,14 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - Each option must identify the attacked asset, access path, human consequence, surviving anomaly, and who appears responsible at first.
   - **Done when:** the attack can be described as a concrete event rather than as "the startup is sabotaged."
 
-- [ ] **Define Sylvan's irreversible choice and loss.**
-  - **Live progress:** SC-005 is active at Macro Shape. The first convention outage causes no major loss; later attacks escalate substantially. Current author gate: **as those attacks escalate, what does Sylvan eventually choose to do that he could have avoided by walking away from the startup or accepting defeat?**
+- [x] **Define Sylvan's irreversible choice and loss.**
+  - **Live progress:** Macro Shape accepted with an author correction to the original premise. There is no single avoidable choice that causes the collapse. The attacks escalate into descending chaos while Samuel and George manipulate Sylvan's partners inside a separate wireless/story environment, making promises and shaping their beliefs outside Sylvan's awareness. The partners eventually turn on Sylvan, destroying the startup/team and the trust relationships that made it viable. The collapse forces Sylvan into the next stage of the story in another city. His agency belongs primarily in how he responds to that forced transition, not in choosing whether the collapse happens.
   - The collapse should not happen only because antagonists are powerful.
   - Sylvan must make a bounded decision that costs him something real and closes an easier path back.
   - **Done when:** the modern inciting event changes his life, forces the next environment, and creates an emotional cost that can echo at the ending.
 
 - [ ] **Plant the first anomaly George cannot explain.**
+  - **Live progress:** SC-006 is active at Macro Shape. Current author gate: **what is the first small anomaly George notices during or after this early sabotage period that does not fit the explanation he is being given?** It should be personally observable, initially dismissible, and later useful as evidence that the false reality around him was actively maintained.
   - It should emerge from the sabotage's timing, maintenance, access, or aftermath.
   - George must have a plausible chance to notice it.
   - **Done when:** the first seed exists for the later realization that someone is continuously servicing George's false reality.
