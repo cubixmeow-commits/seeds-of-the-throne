@@ -68,13 +68,14 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
 
 # Priority 3 — Bound the Sylvan–Luminai breakthrough
 
-- [ ] **Define one unprecedented completed-bond capability.**
-  - **Live progress:** SC-007 is active at Macro Shape and has been author-reframed as a broader **developmental stage** rather than one isolated power. A conscious Sylvan–Luminai bond creates a privileged local-world interface through Sylvan: human participation grants the Luminai local permissions, awareness, and access to nearby systems and real-world conditions that remote operation does not provide. This stage is where the Luminai learns direct interaction with its human, broader local perception, use of new interfaces, and the operational judgment needed for its eventual placement in the colonization process. The exact ladder of first-time capabilities is deferred to later deepening. Current author gate: **what relationship threshold between Sylvan and the Luminai begins this developmental stage and unlocks those human-mediated permissions?**
+- [x] **Define one unprecedented completed-bond capability.**
+  - **Live progress:** Macro Shape accepted with author reframing. The breakthrough is a broader **developmental stage** rather than one isolated power. A conscious Sylvan–Luminai bond creates a privileged local-world interface through Sylvan: human participation grants the Luminai local permissions, awareness, and access to nearby systems and real-world conditions that remote operation does not provide. The stage begins when the Luminai presents itself directly through the interactive wireless bond and establishes a conscious neural interface with Sylvan's brain/nervous system, embodied enough that the Luminai can communicate through his nervous system and, with Sylvan's participation, speak through his mouth. The exact ladder of first-time capabilities is deferred to later deepening.
   - It must solve a problem the story already contains.
   - It cannot simply be "better intelligence" or unrestricted system access.
   - **Done when:** the capability can be stated in one sentence with a specific use case.
 
 - [ ] **Define why it could not act earlier.**
+  - **Live progress:** SC-008 Question 1 accepted. The deeper interface is gated by a deliberately activated **growth-and-development training program**. When Sylvan is placed with the contained criminals, his parents activate the program for the Sylvan–Luminai pair. Before that placement and activation, the Luminai is not in the permitted developmental state required for the deeper neural/embodied interface. The contained-criminal environment therefore functions both as a real adversarial environment and as a designed developmental environment for their eventual colonization roles. Current author gate: **what is the broad developmental objective Sylvan and the Luminai are supposed to achieve during this program?**
   - Identify the developmental threshold, missing permission, incomplete bond, insufficient evidence, or environmental condition.
   - **Done when:** the endgame cannot be accused of introducing a late magical solution.
 
