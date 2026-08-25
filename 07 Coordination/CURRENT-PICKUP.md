@@ -47,13 +47,20 @@ Konrad's verification failure is **false process enforceability + sustained envi
 - Samuel's supposed process-enforced separation appears to preserve that future after defeat, making the arrangement emotionally and strategically irresistible.
 - Konrad does not need to respect Samuel; he only needs to believe Samuel has found a mechanism that lets Konrad continue the project he cannot surrender.
 
-## Current author gate — SC-004 Question 1
+## Accepted SC-004 progress
 
-> **What is the single most important thing in Sylvan's startup that the antagonists attack or sabotage first?**
+### Question 1
 
-Name the concrete target: a core product/system, critical demonstration, customer or partner relationship, financial/operational dependency, research asset, or another specific function the startup cannot simply replace.
+- The first modern sabotage target is the **physical hosting environment for Sylvan's own servers**.
+- The failure is timed around a **convention presentation** where Sylvan needs the system working to attract attention, demonstrate credibility, and pursue investment/backing.
+- The event must initially look plausibly accidental: something that could be blamed on the hosting company, infrastructure, equipment, or ordinary bad luck.
+- This creates immediate ambiguity because the public explanation can be a mundane operational failure even though the timing is devastating to Sylvan.
 
-At Macro Shape, define only the target. Access path, culprit framing, surviving anomaly, and Sylvan's irreversible loss come later.
+## Current author gate — SC-004 Question 2
+
+> **What actually happens to the hosted servers at the crucial moment: do they go completely offline, become intermittently unreliable, appear to suffer data corruption, or fail in another way that looks accidental but ruins Sylvan's presentation?**
+
+Choose only the visible failure mode. The hidden sabotage mechanism can remain unresolved.
 
 ## Interaction rule
 
