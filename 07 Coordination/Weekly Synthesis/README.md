@@ -55,5 +55,6 @@ Before closing a run, verify source paths, authority labels, chronology, charact
 
 - [[CONFIG]] — scope, modes, scoring, and stop rules.
 - [[MASTER PROMPT]] — reusable execution prompt.
+- [[CURRENT-COMPLETION-TODO]] — stable pointer used by the public dashboard; update it only after a replacement completion checklist is approved.
 - `Templates/` — copyable run manifest and report contracts.
 - `Runs/` — dated, immutable-by-convention analysis history.

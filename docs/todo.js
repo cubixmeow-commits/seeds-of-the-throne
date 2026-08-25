@@ -1,7 +1,7 @@
 (() => {
   "use strict";
   const REPO_RAW = "https://raw.githubusercontent.com/cubixmeow-commits/seeds-of-the-throne/main/";
-  const WEEKLY_PATH = "07%20Coordination/Weekly%20Synthesis/Runs/2026-08-23/12%20Weekly%20Story%20Completion%20Todo.md";
+  const POINTER_PATH = "07%20Coordination/Weekly%20Synthesis/CURRENT-COMPLETION-TODO.md";
   const REGISTRY_PATH = "07%20Coordination/Story%20Completion%20Workflow/TASK-REGISTRY.md";
   const CURRENT_PATH = "07%20Coordination/Story%20Completion%20Workflow/CURRENT.md";
   const SWEEPS = ["Macro", "Causal", "Agency", "Systems + evidence", "Sequence", "Scene map", "Scene development", "Draft"];
@@ -48,6 +48,12 @@
   function parseCurrent(markdown) {
     const match = markdown.match(/\*\*Current sweep:\*\*\s*([^\n]+)/);
     return match ? cleanMarkdown(match[1]) : "Macro Shape";
+  }
+
+  function parsePointer(markdown) {
+    const match = markdown.match(/^source_path:\s*(.+)$/m);
+    if (!match) throw new Error("The weekly completion pointer has no source_path.");
+    return match[1].trim().split("/").map(segment => encodeURIComponent(segment)).join("/");
   }
 
   function element(name, className, text) {
@@ -110,7 +116,10 @@
   async function loadDashboard() {
     const localPreview = ["localhost", "127.0.0.1"].includes(window.location.hostname);
     const sourceRoot = localPreview ? "../" : REPO_RAW;
-    const responses = await Promise.all([fetch(sourceRoot + WEEKLY_PATH, { cache: "no-store" }), fetch(sourceRoot + REGISTRY_PATH, { cache: "no-store" }), fetch(sourceRoot + CURRENT_PATH, { cache: "no-store" })]);
+    const pointerResponse = await fetch(sourceRoot + POINTER_PATH, { cache: "no-store" });
+    if (!pointerResponse.ok) throw new Error("The current weekly completion pointer could not be loaded.");
+    const weeklyPath = parsePointer(await pointerResponse.text());
+    const responses = await Promise.all([fetch(sourceRoot + weeklyPath, { cache: "no-store" }), fetch(sourceRoot + REGISTRY_PATH, { cache: "no-store" }), fetch(sourceRoot + CURRENT_PATH, { cache: "no-store" })]);
     if (responses.some(item => !item.ok)) throw new Error("One or more Markdown sources could not be loaded.");
     const [weekly, registry, current] = await Promise.all(responses.map(item => item.text()));
     render(parseWeekly(weekly), parseRegistry(registry), parseCurrent(current));
@@ -121,5 +130,5 @@
     document.querySelector("#todo-groups").setAttribute("aria-busy", "false");
     document.querySelector("#todo-groups").append(element("p", "todo-error", error.message));
   });
-  if (typeof module !== "undefined") module.exports = { parseWeekly, parseRegistry, parseCurrent };
+  if (typeof module !== "undefined") module.exports = { parseWeekly, parseRegistry, parseCurrent, parsePointer };
 })();
