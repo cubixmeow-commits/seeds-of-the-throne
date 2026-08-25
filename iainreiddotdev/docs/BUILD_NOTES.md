@@ -78,6 +78,11 @@ than unresolved story content. If any required source is unavailable, the
 module shows an unavailable state instead of inventing values. Its full-roadmap
 link opens `docs/todo.html`.
 
+The public page intentionally has only two working areas after its introduction:
+the Story Completion summary and the repository explorer. The former build
+ledger was removed; its useful scope description and live document count now
+appear in the explorer introduction.
+
 ## Retro (MEOWNET BBS)
 
 `retro/index.php` is a self-contained joke page: a 1990s dial-up bulletin board
