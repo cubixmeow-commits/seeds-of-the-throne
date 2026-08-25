@@ -28,14 +28,15 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - Do not yet decide the later lock event, Samuel's acquisition mechanics, migration powers, or reset limits.
   - **Done when:** the rule is specific enough that two hypothetical contained criminals could be compared and only one could qualify as primary.
 
-- [ ] **Use that answer to finish the S-008 containment hierarchy needs analysis.**
-  - **Live progress:** SC-002 Questions 1–2 accepted. The Fitzgerald breeding/lineage program and younger-generation training system do not fall to Samuel automatically; Konrad must accept their migration/reactivation inside Samuel's sphere. Samuel falsely persuades Konrad that the programs are restored as a separate protected Fitzgerald environment, while Samuel's original containment placement makes him structurally alpha over the migrated initiatives. Konrad remains beta with substantial real operating authority and continues the plan, seeing primarily his own actions and apparent progress. Samuel's hidden interventions, surveillance, competing decisions, and generational corruption are concealed by the story environment until Sylvan exposes Samuel's real actions to Konrad near the end of the later Sylvan conflict. Current author gate: **what is the single most important thing Samuel can secretly change inside those systems while Konrad still believes he is successfully running his own separate program?**
+- [x] **Use that answer to finish the S-008 containment hierarchy needs analysis.**
+  - **Live progress:** Macro Shape accepted. Samuel automatically retains alpha standing, cross-domain visibility, surveillance, influence, information, and meaningful decision authority over initiatives operating inside his containment sphere, but the Fitzgerald breeding/lineage and younger-generation systems do not migrate there automatically. Konrad must accept/reactivate them and then remains beta with substantial real operating authority inside the program he believes is separate. Samuel uses the false separation to conceal competing interventions, including secretly corrupting lineage-selection outcomes so they contradict Konrad's supremacist criteria and redirecting younger generations away from Fitzgerald values. The story treats those criteria as Konrad's prejudice, not objective human hierarchy. Sylvan later exposes Samuel's hidden actions. Detailed permission weighting and proof remain for later tasks.
   - Identify what authority follows from primary status.
   - Identify what does *not* follow from it.
   - Identify which later Samuel/Konrad actions require separate permissions or mistakes.
   - **Done when:** Samuel's eventual advantage can be explained without hand-waving or omnipotent access.
 
 - [ ] **Define Konrad's verification failure.**
+  - **Live progress:** SC-003 is now active at Macro Shape. Current author gate: **What concrete proof or verification does Samuel show Konrad that convinces him the breeding/lineage and younger-generation programs are truly separate and still under Fitzgerald control?**
   - What does Samuel offer that Konrad cannot obtain elsewhere?
   - What concrete check does Konrad perform before trusting the restoration/migration plan?
   - Why does that check falsely reassure him without making Konrad stupid?
