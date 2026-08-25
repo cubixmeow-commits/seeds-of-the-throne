@@ -1,11 +1,21 @@
 ---
 type: synthesis-config
 status: active
-version: 1.1
-updated: 2026-08-23
+version: 1.2
+updated: 2026-08-24
 ---
 
 # Weekly Synthesis Configuration
+
+## Scheduled cycle
+
+- **Author work days:** Sunday through Thursday.
+- **Synthesis:** Thursday night after the day's work is captured.
+- **Timezone:** `America/Los_Angeles`.
+- **Run date:** the Thursday closing the work cycle.
+- **Cutoff:** record the exact Thursday-night timestamp in the run manifest.
+- **Output use:** an author-approved checklist governs the next Sunday–Thursday cycle.
+- **After-cutoff material:** hold for the next intake window; do not reopen the closed run by default.
 
 ## Modes
 

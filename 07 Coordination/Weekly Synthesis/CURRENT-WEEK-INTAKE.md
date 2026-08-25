@@ -1,7 +1,11 @@
 ---
 type: weekly-intake-index
 status: active
-week_of: 2026-08-24
+week_of: 2026-08-23
+cycle_start: 2026-08-23
+cycle_end: 2026-08-27
+synthesis_due: 2026-08-27 Thursday night
+timezone: America/Los_Angeles
 updated: 2026-08-24
 ---
 
@@ -10,6 +14,8 @@ updated: 2026-08-24
 This is an intake index, **not a TODO list or work queue**. It exists so useful discoveries made during the week cannot disappear before the next [[README|Weekly Story Synthesis]].
 
 The author's only story-development execution list is the checklist named by [[CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]] and shown on the public Story Completion dashboard.
+
+The active author work cycle runs **Sunday through Thursday**. Thursday's work is included, then the full synthesis runs Thursday night in `America/Los_Angeles`. Its approved checklist becomes the execution list for the next Sunday–Thursday cycle. Material captured after the Thursday cutoff belongs to the next intake window.
 
 ## Capture rule
 
@@ -40,8 +46,9 @@ None recorded after the 2026-08-23 baseline cutoff.
 
 At the next synthesis:
 
-1. copy every signal into that run's `13 Weekly Intake Reconciliation.md`;
-2. reconcile it against the current completion TODO, task registry, dependencies, QA, and changed files;
-3. obtain author approval for any replacement completion TODO;
-4. update [[CURRENT-COMPLETION-TODO]] only after approval;
-5. reset this file for the next cutoff without deleting the reconciliation record from the dated run.
+1. close the intake after Thursday's work and create a run dated for that Thursday;
+2. copy every signal into that run's `13 Weekly Intake Reconciliation.md`;
+3. reconcile it against the current completion TODO, task registry, dependencies, QA, and changed files;
+4. obtain author approval for any replacement completion TODO;
+5. update [[CURRENT-COMPLETION-TODO]] only after approval;
+6. reset this file for the next Sunday–Thursday cycle without deleting the reconciliation record from the dated run.

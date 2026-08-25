@@ -2,6 +2,10 @@
 type: weekly-synthesis-manifest
 status: planned
 run_date: YYYY-MM-DD
+work_cycle_start: YYYY-MM-DD
+work_cycle_end: YYYY-MM-DD
+scheduled_close: Thursday night
+timezone: America/Los_Angeles
 cutoff_start:
 cutoff_end:
 mode: Standard
@@ -15,6 +19,8 @@ updated: YYYY-MM-DD
 - Mode:
 - Capacity/time budget:
 - Previous run:
+- Work cycle: Sunday through Thursday
+- Scheduled or off-cycle:
 - Cutoff and comparison base:
 - Explicit exclusions:
 - Optional modules:

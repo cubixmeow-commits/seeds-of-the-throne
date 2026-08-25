@@ -8,6 +8,8 @@ updated: 2026-08-24
 
 This folder holds operating conventions for moving work between conversations, devices, and the local repository. It is workflow memory, not story canon.
 
+The author develops the project Sunday through Thursday. Thursday night's [[Weekly Synthesis/README|Weekly Story Synthesis]] closes the work week and prepares the one completion TODO for the following cycle.
+
 ## Start here
 
 - [[Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]] — the only author-facing story-development TODO; the public dashboard renders its approved checklist.

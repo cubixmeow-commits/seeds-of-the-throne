@@ -1,7 +1,7 @@
 ---
 type: coordination-system
 status: active
-version: 1.2
+version: 1.3
 updated: 2026-08-24
 ---
 
@@ -12,6 +12,14 @@ updated: 2026-08-24
 Use an end-of-credit-cycle deep pass to reconstruct the current project, find the highest-value gaps, and create a bounded next-week development queue. This is analysis and coordination, not an autonomous canon-writing process.
 
 The approved completion checklist named by [[CURRENT-COMPLETION-TODO]] is the sole author-facing story-development TODO. The synthesis may replace that checklist after author review; it must never create a second active execution list.
+
+## Cadence
+
+The author's active work week is **Sunday through Thursday**. Run the full Weekly Story Synthesis on **Thursday night, America/Los_Angeles**, after Thursday's development work is captured. Use the Thursday date for the run folder and record the exact cutoff in its manifest.
+
+The Thursday synthesis is the end-of-week update. Once its replacement checklist passes the author gate, that checklist becomes the sole TODO for the following Sunday–Thursday cycle. Friday and Saturday are outside the scheduled work week; any incidental material captured after the Thursday cutoff enters the next cycle's intake rather than reopening the completed synthesis.
+
+The current TODO remains active until an approved replacement is installed, so there is never an interval with two active lists or no active list.
 
 ## Weekly intake funnel
 
@@ -44,7 +52,7 @@ High-capacity options: Editorial Board, Forward/Reverse Causal Reconstruction, a
 
 ## Operating flow
 
-`capture daily work -> index consequential signals -> read rules and current pickup -> declare cutoff/budget -> inventory all changed and authoritative material -> reconcile intake against the current TODO -> run core reports -> classify BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN -> draft one replacement checklist -> author gate -> update pointer/registry/dashboard -> apply approved maintenance separately`
+`Sunday–Thursday work -> capture daily brainstorming -> index consequential signals -> Thursday-night cutoff -> read rules and current pickup -> declare cutoff/budget -> inventory all changed and authoritative material -> reconcile intake against the current TODO -> run core reports -> classify BUILD NOW / BRAINSTORM NEXT / LEAVE OPEN -> draft one replacement checklist -> author gate -> update pointer/registry/dashboard -> apply approved maintenance separately -> next Sunday cycle`
 
 The synthesis may recommend promotion, merging, renaming, archiving, cross-linking, or TODO changes. It must not perform those mutations merely because they appear in the report.
 

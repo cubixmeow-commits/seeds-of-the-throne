@@ -12,6 +12,7 @@ updated: 2026-08-24
 | 2026-08-06 | Preserve the old vault as an archive and migrate selectively. | Retains history without exposing unsafe transcripts to the AI-facing vault. |
 | 2026-08-06 | External research tools are advisory only. | Story invention, selection, organization, and continuity remain with the author and GPT. |
 | 2026-08-24 | Remove the discontinued research provider from vault roles, workflows, archives, and product copy. | The author ended the subscription in response to management conduct and no longer wants the provider represented in the project. Preserve research authority rules in tool-neutral language. |
+| 2026-08-24 | Use a Sunday–Thursday author work cycle and run the full Weekly Story Synthesis Thursday night. | The synthesis becomes the end-of-work-week update and prepares the sole completion TODO for the following cycle. |
 | 2026-08-06 | Real-world analogies never enter compiled story data. | Mechanisms may inspire development, but final story entities must be invented. |
 | 2026-08-06 | Sessions may contradict each other. | Creative continuity matters more than premature consistency. |
 | 2026-08-10 | Permanently name the Throne's central figure Samuel Franklin. | The respectable inherited name contrasts with his failed privileged-heir biography and his attempt to perform royalty. |

@@ -1,13 +1,15 @@
 ---
 type: synthesis-prompt
 status: active
-version: 1.1
+version: 1.2
 updated: 2026-08-24
 ---
 
 # Weekly Story Synthesis — Master Prompt
 
 Analyze the Seeds of the Throne vault as though preparing the project for novel production, while preserving the vault's authority hierarchy and deliberate uncertainty.
+
+This is the scheduled Thursday-night close of the author's Sunday–Thursday work cycle. Use `America/Los_Angeles`, date the run for the closing Thursday, include all work through the declared cutoff, and route anything later to the next intake window. If this is an explicitly requested off-cycle run, label it as such rather than pretending it is the scheduled close.
 
 First read the synthesis configuration, vault rules, current context, open questions, current pickup, current completion TODO, current-week intake, decisions, contradictions, previous synthesis manifest, and files changed since the last cutoff. Build a source inventory and separate established, working, proposed, unresolved, rejected/superseded, research-only, and non-canon material. Never treat generated prose, images, research, or assistant suggestions as author decisions.
 

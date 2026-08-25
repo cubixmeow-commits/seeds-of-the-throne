@@ -76,3 +76,9 @@ This is a workflow decision only. It changes no story authority or canon.
 After the author ended the subscription in response to management conduct, the discontinued research provider was removed from active roles, research instructions, workflow history, product copy, and public archives. Research authority is now stated entirely in tool-neutral terms: external research is tightly scoped, source-backed, advisory, and cannot establish canon. Affected archived posts are marked as omitted rather than silently rewritten.
 
 This is a tooling and documentation decision only. It changes no story authority or canon.
+
+## Thursday synthesis cadence
+
+The author works Sunday through Thursday and will run the full Weekly Story Synthesis every Thursday night in `America/Los_Angeles`, after Thursday's development is captured. The Thursday run closes the active work week, reconciles its brainstorming and intake, and prepares the sole completion TODO for the next Sunday–Thursday cycle. Material captured after the cutoff belongs to the next intake window. The prior TODO remains active until an author-approved replacement is installed.
+
+This is a workflow decision only. It changes no story authority or canon.
