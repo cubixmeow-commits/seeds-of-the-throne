@@ -13,80 +13,51 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 
 ## Current workflow state
 
-- SC-001 — **Define what makes one contained criminal the primary** — is complete at Macro Shape.
-- SC-002 — **Finish the S-008 containment hierarchy needs analysis** — is active.
-- Completed at this depth: **1 / 27**.
-- Do not deepen SC-001 until all active tasks have received the Macro Shape pass.
+- SC-001 — **Define what makes one contained criminal the primary** — complete at Macro Shape.
+- SC-002 — **Finish the S-008 containment hierarchy needs analysis** — complete at Macro Shape.
+- SC-003 — **Define Konrad's verification failure** — active.
+- Completed at this depth: **2 / 27**.
+- Do not deepen SC-001 or SC-002 until all active tasks have received the Macro Shape pass.
 
 Open:
 
+- [[Story Completion Workflow/Tasks/SC-003]]
 - [[Story Completion Workflow/Tasks/SC-002]]
 - [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
 - [[Story Completion Workflow/CURRENT]]
 
-## Accepted SC-001 macro result
+## Accepted containment macro result so far
 
-- All contained criminals enter colonization through prosecution deals that determine placement and can establish role, jurisdiction, responsibility, and authority.
-- A **primary contained criminal** is a negotiated alpha-status criminal whose deal establishes the highest structural tier in a relevant containment environment.
-- Samuel Franklin secretly negotiated that alpha position after selling out more people than anyone else.
-- Konrad separately negotiated genuine leadership of his group and city and did not know Samuel had the broader alpha deal.
-- Konrad believed the colonization rules would let conquest expand his jurisdiction until he controlled the entire planet; he did not plan around defeat.
-- Samuel's alpha status becomes operational in the largest empire during the phase surrounding Samuel Jr.'s attempted government takeover, while Samuel is part of the isolated luxury controller class managing participants, bloodlines/groups, and synthetics.
-- Containment authority is a **tiered permissions hierarchy**, analogous to permissions in a computer system.
-- Alpha gives Samuel broad cross-domain **power, control, and information**: access, surveillance, superior visibility, influence, and meaningful decision authority across lower-tier activity.
-- Alpha does **not** erase lower-tier permissions or create universal sovereignty.
-- Samuel cannot simply remove Konrad or the senior Fitzgerald leadership. Their prosecution deals guarantee those positions through the containment/development/training phase.
-- Konrad and much of his leadership retain substantial real decision-making authority and believe they are ultimately taking control of the colonization process and can get rid of Samuel.
-- Samuel's bloodline-destruction campaign is partly an indirect strategy against leadership continuity he cannot directly delete.
-- Direct Samuel/Konrad conflicts do **not** use a universal alpha override. Some authority is separated by environment or function; other decisions can combine their influence. Exact weighting can be designed creatively for story effectiveness while preserving the negotiated permissions.
-- A later Sylvan-linked phase offers the contained leadership a chance to earn a city when the process moves beyond containment/development/training. Exact mechanics are deferred.
-- Samuel later manipulates Konrad into another attempted takeover against Sylvan; develop that later, not inside the current SC-002 gate.
-- Samuel's apparent exile being part of his own plan/deal remains an endgame reveal.
+- Primary status is a negotiated alpha position in a tiered permissions hierarchy.
+- Samuel's original prosecution placement gives him broad cross-domain power, information, surveillance, influence, and decision authority once initiatives operate inside his containment sphere.
+- Konrad and other negotiated leaders retain genuine protected positions and domain authority. There is no universal alpha override.
+- Samuel cannot directly remove Konrad or the senior Fitzgerald leadership because their prosecution deals guarantee those positions through the containment/development/training phase.
+- Konrad must participate in or accept the migration/reactivation of the Fitzgerald lineage/breeding and younger-generation training systems into Samuel's sphere.
+- Samuel falsely presents that move as restoration or protected separation. Konrad believes the program remains Fitzgerald-controlled while Samuel becomes structurally alpha over the migrated initiatives.
+- Konrad remains beta with substantial real operating authority and therefore continues the plan inside the apparent separate environment.
+- The story environment hides Samuel's surveillance, competing decisions, and interventions from Konrad.
+- Samuel's most important hidden lineage intervention is not merely deciding which lines live or die. He allows Konrad to believe the program still follows Konrad's obsessive supremacist design while secretly corrupting the selection criteria so the resulting population increasingly contradicts the traits and categories Konrad's ideology privileges.
+- The story must frame those traits as things **Konrad's racist/eugenic worldview devalues**, not as objective inferiority.
+- Samuel also redirects younger-generation formation away from Fitzgerald loyalties and values.
+- Samuel's motive becomes increasingly obsessive and personal after surveillance reveals Konrad's betrayal, contempt, and persecution of Samuel's countercultural beliefs.
+- Sylvan eventually exposes Samuel's hidden actions to Konrad near the end of the later Sylvan conflict; exact evidence and timing are deferred.
+- The author's real-world historical analogies are development-only and must not be copied into bible/canon material. Preserve only the fictional functions.
 
-## Accepted SC-002 progress
+## Current author gate — SC-003 Question 1
 
-### Question 1
+> **What concrete proof or verification does Samuel show Konrad that convinces him the breeding/lineage and younger-generation programs are truly separate and still under Fitzgerald control?**
 
-- The most important later takeover elements that do **not** follow automatically from alpha status are the Fitzgerald **breeding/lineage program** and the **training system for the younger generation**.
-- Konrad must participate in or accept their migration/reactivation inside Samuel's sphere.
-- Samuel persuades Konrad that Konrad is effectively locked out unless he accepts Samuel's proposed arrangement.
-- The arrangement is false or misleading: Konrad believes it restores or preserves Fitzgerald control while Samuel continues to possess meaningful influence, information, access, and decision-making authority through his office/alpha position.
-- Once the systems are inside Samuel's sphere, Samuel can progressively hijack lineage continuity and younger-generation formation.
-- The younger generation is redirected away from the senior Fitzgerald leadership's intended ideology toward a fictional counterculture shaped by Samuel.
-- Real-world historical comparisons used by the author are **development-only** and must not be copied into the bible/canon. Preserve only fictional functional equivalents: controlled lineage planning, ideological youth formation, and Samuel's generational counter-programming.
-
-### Question 2
-
-- Samuel keeps the alpha position because of his original placement in the colonization containment structure.
-- Once Konrad accepts the false deal and migrates/reactivates the Fitzgerald breeding/lineage and younger-generation initiatives inside Samuel's sphere, Samuel becomes structurally **alpha over those initiatives**.
-- Konrad remains the **beta leader** with substantial real operating and decision-making authority and continues his plan.
-- Samuel makes Konrad believe that the Fitzgerald breeding program, younger-generation training, and group are operating in a separate protected environment and that this separation is enforced.
-- Konrad therefore sees primarily his own actions and apparent progress while Samuel's interventions, surveillance, competing decisions, and corruption of the wider system remain hidden.
-- The false separation persists until near the end of the later Sylvan conflict, when **Sylvan exposes Samuel's real hidden actions and control to Konrad**.
-- Exact evidence, timing, and disclosure mechanics are deferred to the later evidence/endgame tasks.
-
-## Current author gate — SC-002 Question 3
-
-> **What is the single most important thing Samuel can change inside the migrated breeding/lineage and younger-generation systems without Konrad noticing at the time, while Konrad still believes he is successfully running his own separate program?**
-
-Define only the macro function of the hidden intervention, not its detailed implementation.
+The proof must be strong enough to reassure Konrad without revealing Samuel's hidden alpha position or later interventions.
 
 ## Preserve exactly
 
 - Konrad genuinely controlled his own city and Fitzgerald machinery before defeat.
 - Konrad never considered failure and had no post-defeat fallback hierarchy.
-- The catastrophic loss of control occurs only after his group enters/reactivates within the largest empire's containment environment.
 - Samuel remains an outsider and may remain contemptible in Konrad's eyes.
-- Samuel has a separate bounded jurisdiction in that larger environment.
-- Samuel's earlier first-primary integration establishes structural priority there.
 - Lower leaders retain real negotiated authority; alpha is powerful but bounded.
-- Prosecution deals protect Konrad and the senior Fitzgerald leadership from direct removal during the containment/development/training phase.
-- Konrad's cooperation/mistake is required to move the breeding/lineage and younger-generation training machinery into Samuel's sphere.
-- Samuel's false deal makes Konrad believe he is regaining or preserving control while Samuel retains influence through his office/alpha position.
+- Konrad's cooperation/mistake is required to move the lineage and youth-training machinery into Samuel's sphere.
 - Once migrated, Samuel is alpha over the initiatives while Konrad remains beta and continues meaningful operation inside the apparent separate program.
-- The story environment hides Samuel's real interventions from Konrad until Sylvan later exposes them.
-- Samuel's later generational corruption targets both bloodline continuity and ideological formation.
-- Do not store the author's real-world historical analogies in the bible/canon; translate only the underlying fictional functions.
+- The story environment hides Samuel's real interventions until Sylvan later exposes them.
 - Accepted hinge: **Konrad thinks Samuel is giving him back his empire. In reality, Konrad has just migrated the machinery of his organization into Samuel's jurisdiction.**
 - Samuel's exile is secretly part of Samuel's own plan/deal; this is withheld until the endgame reveal.
 
