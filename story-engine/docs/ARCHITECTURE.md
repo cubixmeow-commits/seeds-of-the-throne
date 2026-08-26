@@ -37,4 +37,4 @@ A Flutter client should generate Dart types from the JSON schemas or implement e
 6. Save a proposed artifact with provenance.
 7. Prove that an author gate cannot advance without an explicit author decision.
 
-The first test integration implements steps 1–4 as a read-only path. It reads only a fixed allowlist of coordination and story-context files, caps the total packet size, and does not expose a filesystem-write command to the model.
+The first test integration implements steps 1–4 as a read-only path. It combines a fixed allowlist of authority/current-state files with a small set of question-matched Markdown sources, caps the total packet size, and does not expose a filesystem-write command to the model. Model reasoning blocks are removed before display so the interface shows only the final answer.

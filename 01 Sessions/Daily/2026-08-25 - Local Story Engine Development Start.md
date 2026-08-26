@@ -51,5 +51,7 @@ The first app surface centers the active run, retrieved authority packet, protec
 - The copy excludes Git history and the `story-engine/` source tree; it is separate from the canonical working vault.
 - Story Engine supplies Qwen a bounded allowlist of orientation, current-state, rules, workflow, and SC-010 files rather than granting the model unrestricted filesystem access.
 - The first live pass showed that a 52,000-character packet was too slow for the 8 GB Neo; the tested integration now uses a roughly 24,000-character packet with an 8K model context.
+- Retrieval now combines protected orientation/current-state files with up to four Markdown files matched to the question. A Luminai/Daemon definition test correctly retrieved the dedicated Human–Luminai system file.
+- Qwen thinking output is stripped before display. The final repeated test returned only a concise definition while preserving the distinction between operational independence and identity independence.
 - The interface discloses which files were supplied and labels every response as local, read-only, and not canon.
 - The test path exposes no vault-write command and cannot accept or advance the paused SC-010 author gate.
