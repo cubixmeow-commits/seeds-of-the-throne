@@ -41,8 +41,13 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - Sylvan develops the ability to distinguish factual, reliable information coming through the Luminai relationship from lies, distortions, and manipulative signals coming from contained-criminal daemons.
 - This is a trained epistemic skill, not automatic omniscience or a magical lie detector. The Luminai becomes a more reliable internal reference point, but Sylvan still has to judge competing information.
 - The audience must see this skill develop before later reveals or endgame decisions depend on Sylvan knowing which information channel deserves trust.
+- The third setup category is **cross-bond Luminai coordination through bonded humans**.
+- Sylvan can deliberately use his Luminai to establish structured interaction with another bonded Luminai, such as Orzai's.
+- This can support communication, mutual verification, shared situational awareness, and coordinated action between two human–Luminai teams.
+- Each human remains the conscious authority for consequential decisions on their side. Neither Luminai gains authority over the other human, and the connection does not become an AI-only decision channel.
+- Exact authentication, privacy, bandwidth, and first-scene mechanics are deferred.
 
-## Current author gate — SC-010 Question 3
+## Current author gate — SC-010 Question 4
 
 > **What is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
 
