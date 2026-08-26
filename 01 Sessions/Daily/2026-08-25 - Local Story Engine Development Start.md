@@ -44,3 +44,12 @@ The first app surface centers the active run, retrieved authority packet, protec
 - **Visual thesis:** a quiet, dark editorial workspace with parchment warmth and one sharp growth accent; dense enough for serious work but calm enough for long sessions.
 - **Content plan:** project orientation, current workflow run, protected author decision, retrieved context, and local-model state.
 - **Interaction thesis:** restrained staged entry, clear current-state transitions, and tactile button feedback, all disabled or reduced when the operating system requests less motion.
+
+## Read-only vault chat test
+
+- A disposable test copy was created at `/Users/realiainreid/Documents/sotr app development/seeds-vault-test`.
+- The copy excludes Git history and the `story-engine/` source tree; it is separate from the canonical working vault.
+- Story Engine supplies Qwen a bounded allowlist of orientation, current-state, rules, workflow, and SC-010 files rather than granting the model unrestricted filesystem access.
+- The first live pass showed that a 52,000-character packet was too slow for the 8 GB Neo; the tested integration now uses a roughly 24,000-character packet with an 8K model context.
+- The interface discloses which files were supplied and labels every response as local, read-only, and not canon.
+- The test path exposes no vault-write command and cannot accept or advance the paused SC-010 author gate.

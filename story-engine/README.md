@@ -39,7 +39,9 @@ DEVELOPER_DIR=/Library/Developer/CommandLineTools cargo clippy --all-targets -- 
 - Protected SC-010 author gate shown as paused
 - Current run and retrieved-context presentation
 - Native Ollama installation, service, and model discovery
+- Read-only Qwen chat over a bounded packet from a selected Seeds vault copy
+- Visible disclosure of every vault file supplied to the model
 - Portable project and workflow-state schemas
 - TypeScript provider and engine boundary contracts
 
-Filesystem project opening, scoped retrieval, generation, and atomic artifact writes are the next implementation milestone.
+Broader scoped retrieval, reusable project selection, and atomic proposed-artifact writes are the next implementation milestone.

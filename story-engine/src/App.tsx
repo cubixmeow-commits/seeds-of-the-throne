@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
 
@@ -9,6 +9,15 @@ type EnvironmentStatus = {
   models: string[];
   defaultModel: string;
 };
+
+type VaultAnswer = {
+  answer: string;
+  sources: string[];
+  model: string;
+  mode: string;
+};
+
+const TEST_VAULT_PATH = "/Users/realiainreid/Documents/sotr app development/seeds-vault-test";
 
 type IconName = "focus" | "map" | "canon" | "search" | "draft" | "check" | "settings";
 
@@ -53,6 +62,36 @@ function App() {
     defaultModel: "qwen3:4b",
   });
   const [announcement, setAnnouncement] = useState("");
+  const [vaultPath, setVaultPath] = useState(TEST_VAULT_PATH);
+  const [question, setQuestion] = useState("Give me a six-bullet briefing covering the current story spine, established canon, active workflow, paused gate, safe next development actions, and missing context. Do not propose or accept an SC-010 answer.");
+  const [vaultAnswer, setVaultAnswer] = useState<VaultAnswer | null>(null);
+  const [vaultError, setVaultError] = useState("");
+  const [isAsking, setIsAsking] = useState(false);
+  const questionRef = useRef<HTMLTextAreaElement>(null);
+
+  async function askVault(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    setVaultError("");
+    if (!vaultPath.trim() || !question.trim()) {
+      setVaultError("Enter the vault path and a question.");
+      questionRef.current?.focus();
+      return;
+    }
+
+    setIsAsking(true);
+    setAnnouncement("Qwen is reading the selected vault packet.");
+    try {
+      const response = await invoke<VaultAnswer>("ask_vault", { vaultPath, question });
+      setVaultAnswer(response);
+      setAnnouncement(`Answer ready from ${response.model}.`);
+    } catch (error) {
+      const message = typeof error === "string" ? error : "Unable to ask the vault. Check Ollama and try again.";
+      setVaultError(message);
+      setAnnouncement(message);
+    } finally {
+      setIsAsking(false);
+    }
+  }
 
   useEffect(() => {
     invoke<EnvironmentStatus>("environment_status")
@@ -143,6 +182,35 @@ function App() {
             <button className="text-button" type="button" onClick={() => setAnnouncement("Run packet preview is part of the next filesystem integration milestone.")}>View retrieved sources <span aria-hidden="true">→</span></button>
           </aside>
         </div>
+
+        <section className="vault-chat-section" aria-labelledby="vault-chat-heading">
+          <div className="section-heading">
+            <div><p className="eyebrow">Local vault test</p><h2 id="vault-chat-heading">Ask Qwen about Seeds</h2></div>
+            <span className="read-only-badge">Read-only</span>
+          </div>
+          <p className="supporting-copy">Story Engine sends a bounded packet from the test copy to Qwen through local Ollama. Answers are not canon and cannot change the vault.</p>
+
+          <form className="vault-chat-form" onSubmit={askVault}>
+            <label htmlFor="vault-path">Test vault folder</label>
+            <input id="vault-path" name="vaultPath" value={vaultPath} onChange={(event) => setVaultPath(event.currentTarget.value)} autoComplete="off" spellCheck={false} />
+            <label htmlFor="vault-question">Question</label>
+            <textarea ref={questionRef} id="vault-question" name="question" value={question} onChange={(event) => setQuestion(event.currentTarget.value)} rows={4} aria-invalid={vaultError ? "true" : undefined} aria-describedby={vaultError ? "vault-error" : "vault-question-hint"} />
+            <span id="vault-question-hint" className="field-hint">Try a story briefing, continuity question, or workflow question.</span>
+            {vaultError && <p id="vault-error" className="field-error" role="alert">{vaultError}</p>}
+            <button className="ask-button" type="submit" disabled={isAsking}>{isAsking ? "Reading vault…" : "Ask Qwen"}</button>
+          </form>
+
+          {vaultAnswer && (
+            <article className="vault-answer" aria-labelledby="vault-answer-heading">
+              <div className="answer-meta"><h3 id="vault-answer-heading">Qwen response</h3><span>{vaultAnswer.model} · {vaultAnswer.mode}</span></div>
+              <p className="answer-content">{vaultAnswer.answer}</p>
+              <details>
+                <summary>{vaultAnswer.sources.length} vault files supplied</summary>
+                <ul>{vaultAnswer.sources.map((source) => <li key={source}>{source}</li>)}</ul>
+              </details>
+            </article>
+          )}
+        </section>
 
         <section className="next-section" aria-labelledby="next-heading">
           <div><p className="eyebrow">V1 foundation</p><h2 id="next-heading">Local-first, portable by contract</h2></div>

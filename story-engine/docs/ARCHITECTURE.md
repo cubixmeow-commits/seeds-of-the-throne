@@ -30,9 +30,11 @@ A Flutter client should generate Dart types from the JSON schemas or implement e
 ## First vertical slice
 
 1. Discover Ollama and installed models.
-2. Open a local Seeds project.
-3. Reconstruct its current workflow state without changing it.
-4. Assemble a source-and-authority packet.
-5. Run one bounded local analysis.
+2. Open a local Seeds project copy.
+3. Assemble a bounded, explicit source-and-authority packet without changing it.
+4. Run local Qwen analysis through Ollama and disclose the supplied files.
+5. Reconstruct workflow state from portable contracts.
 6. Save a proposed artifact with provenance.
 7. Prove that an author gate cannot advance without an explicit author decision.
+
+The first test integration implements steps 1–4 as a read-only path. It reads only a fixed allowlist of coordination and story-context files, caps the total packet size, and does not expose a filesystem-write command to the model.
