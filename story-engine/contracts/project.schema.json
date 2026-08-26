@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://seedsofthethrone.local/contracts/project.schema.json",
+  "title": "Story Engine Project Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["formatVersion", "projectId", "title", "defaultProvider", "defaultModel", "paths"],
+  "properties": {
+    "formatVersion": { "type": "string", "const": "1.0" },
+    "projectId": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "defaultProvider": { "type": "string", "default": "ollama" },
+    "defaultModel": { "type": "string", "default": "qwen3:4b" },
+    "paths": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["context", "story", "workflow", "qa", "artifacts"],
+      "properties": {
+        "context": { "type": "string" },
+        "story": { "type": "string" },
+        "workflow": { "type": "string" },
+        "qa": { "type": "string" },
+        "artifacts": { "type": "string" }
+      }
+    }
+  }
+}
