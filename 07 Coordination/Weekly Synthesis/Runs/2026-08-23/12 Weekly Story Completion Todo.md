@@ -79,13 +79,14 @@ Do **not** spend the week expanding general worldbuilding, naming institutions, 
   - Identify the developmental threshold, missing permission, incomplete bond, insufficient evidence, or environmental condition.
   - **Done when:** the endgame cannot be accused of introducing a late magical solution.
 
-- [ ] **Define a hard limit and cost.**
-  - **Live progress:** SC-009 Question 1 accepted. The primary hard limit is **process-enforced human decision authority**. The Luminai can become extraordinarily capable, but consequential actions remain gated by Sylvan's conscious authorization. The later permission model should be designed like a real mature safety-critical human–AI architecture: distinguish observation, recommendation, reversible local action, and consequential action; require stronger explicit authorization as impact rises; preserve auditability; and allow autonomy only inside narrow bounded categories. Responsibility for consequential decisions remains with Sylvan. Current author gate: **what is the main cost, risk, or burden Sylvan personally carries because consequential Luminai action requires his conscious authorization?**
+- [x] **Define a hard limit and cost.**
+  - **Live progress:** Macro Shape accepted. The primary hard limit is **process-enforced human decision authority**: consequential actions remain gated by Sylvan's conscious authorization even when the Luminai can observe, model, advise, and perform bounded lower-level processing far beyond him. Lower-level Luminai decisions may pass through Sylvan's subconscious, with their emotional or instinctive residue surfacing into conscious awareness, but this does not grant subconscious authority over consequential choices. Sylvan still bears final responsibility for major decisions and their consequences. The later permission model should be designed like a mature safety-critical human–AI architecture rather than improvised scene by scene.
   - State what the bond can never do.
   - State what using the decisive capability costs, risks, or requires.
   - **Done when:** Sylvan still has to make human choices after the capability becomes available.
 
 - [ ] **Build an endgame setup coverage matrix.**
+  - **Live progress:** SC-010 is active at Macro Shape. The first required setup is the startup-collapse bond reveal: the Luminai explains that Sylvan is in danger of being processed and strongly recommends escape, but cannot make that consequential choice for him; Sylvan consciously chooses to abandon the startup and flee, using a portable financial asset as a survival bridge until employment. The second required setup category is **source discrimination inside the bond**: Sylvan learns to distinguish factual/reliable information coming through the Luminai relationship from lies, distortions, and manipulative signals coming from contained-criminal daemons. This is a trained epistemic skill, not automatic omniscience or a magical lie detector. Current author gate: **what is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
   - For every final capability, proof method, transfer rule, and trap mechanism, identify its earliest prior setup.
   - **Done when:** every decisive endgame mechanism has at least one earlier demonstration or clearly planned seed.
 
