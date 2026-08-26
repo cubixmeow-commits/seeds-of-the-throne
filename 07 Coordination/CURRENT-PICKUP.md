@@ -37,13 +37,16 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - It persuades Sylvan to consciously decide to abandon the startup and flee.
 - Sylvan takes a portable financial asset he still controls — exact form deferred, possibly stock, crypto, or another liquid account — and uses it to survive until the later employment environment.
 - This establishes early that the Luminai can know more, recommend strongly, and expose hidden danger while consequential action still requires Sylvan's conscious decision.
-- The bond reveal therefore directly causes the transition out of the startup stage instead of functioning as detached exposition.
+- The second setup category is **source discrimination inside the bond**.
+- Sylvan develops the ability to distinguish factual, reliable information coming through the Luminai relationship from lies, distortions, and manipulative signals coming from contained-criminal daemons.
+- This is a trained epistemic skill, not automatic omniscience or a magical lie detector. The Luminai becomes a more reliable internal reference point, but Sylvan still has to judge competing information.
+- The audience must see this skill develop before later reveals or endgame decisions depend on Sylvan knowing which information channel deserves trust.
 
-## Current author gate — SC-010 Question 2
+## Current author gate — SC-010 Question 3
 
-> **What is the next broad kind of Sylvan–Luminai capability or rule that the audience must see demonstrated before the endgame depends on it?**
+> **What is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
 
-Name only the category, not the exact scene. Examples could include expanded local-system access, subconscious emotional signaling, the Luminai speaking through Sylvan, a permission escalation, or another decisive rule.
+Name only one category. Do not design its exact scene yet.
 
 ## Interaction rule
 
