@@ -53,5 +53,13 @@ The first app surface centers the active run, retrieved authority packet, protec
 - The first live pass showed that a 52,000-character packet was too slow for the 8 GB Neo; the tested integration now uses a roughly 24,000-character packet with an 8K model context.
 - Retrieval now combines protected orientation/current-state files with up to four Markdown files matched to the question. A Luminai/Daemon definition test correctly retrieved the dedicated Human–Luminai system file.
 - Qwen thinking output is stripped before display. The final repeated test returned only a concise definition while preserving the distinction between operational independence and identity independence.
+
+## Additional local models
+
+- Installed `nchapman/dolphin3.0-llama3:3b` (2.0 GB) as the hardware-fit Dolphin option for the 8 GB Neo.
+- Installed `huihui_ai/qwen3.5-abliterated:4B` (3.3 GB) as a local exploratory-brainstorming option.
+- Both models passed a short fictional succession-brainstorming smoke test with a 4K context cap. Story Engine still defaults to `qwen3:4b`.
+- The character-dialogue experiment is paused after establishing character-file routing and structured final-answer handling. Generated dialogue remains non-canon and still needs a dedicated continuity critic before it is trustworthy.
+- All Ollama models, the Ollama app, and the local Ollama service were stopped at the end of the session.
 - The interface discloses which files were supplied and labels every response as local, read-only, and not canon.
 - The test path exposes no vault-write command and cannot accept or advance the paused SC-010 author gate.
