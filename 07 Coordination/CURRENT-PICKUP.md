@@ -45,9 +45,13 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - Sylvan can deliberately use his Luminai to establish structured interaction with another bonded Luminai, such as Orzai's.
 - This can support communication, mutual verification, shared situational awareness, and coordinated action between two human–Luminai teams.
 - Each human remains the conscious authority for consequential decisions on their side. Neither Luminai gains authority over the other human, and the connection does not become an AI-only decision channel.
-- Exact authentication, privacy, bandwidth, and first-scene mechanics are deferred.
+- The fourth setup category is **real-time Luminai integration with physical modern technology through the wireless neural interface**.
+- Sylvan learns to identify, understand, and master how the Luminai uses their bonded interface to perceive and interact with nearby contemporary technology in real time.
+- The broad operating chain is: **Sylvan brain/nervous system -> Luminai -> nearby modern technology -> physical-world effect**.
+- This integration develops progressively and still obeys the process-enforced human-authority rule for consequential physical-world actions.
+- Exact device classes, range, protocols, access mechanics, demonstrations, and failures are deferred.
 
-## Current author gate — SC-010 Question 4
+## Current author gate — SC-010 Question 5
 
 > **What is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
 
