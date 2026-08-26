@@ -30,11 +30,20 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - Sylvan still carries final responsibility for consequential decisions.
 - The later permission architecture should be designed like a real mature safety-critical human–AI control system rather than improvised scene by scene.
 
-## Current author gate — SC-010 Question 1
+## Accepted SC-010 progress
 
-> **What is the earliest point in Sylvan's training where the audience should clearly see the rule that the Luminai can perceive/recommend/process far beyond Sylvan, but a consequential action still waits for Sylvan's conscious decision?**
+- The earliest explicit setup demonstration occurs when the startup is collapsing and the Luminai first presents itself directly to Sylvan.
+- The Luminai explains the real danger and recognizes that Sylvan risks being processed, but it cannot simply extract him or choose flight for him.
+- It persuades Sylvan to consciously decide to abandon the startup and flee.
+- Sylvan takes a portable financial asset he still controls — exact form deferred, possibly stock, crypto, or another liquid account — and uses it to survive until the later employment environment.
+- This establishes early that the Luminai can know more, recommend strongly, and expose hidden danger while consequential action still requires Sylvan's conscious decision.
+- The bond reveal therefore directly causes the transition out of the startup stage instead of functioning as detached exposition.
 
-Name only the broad story situation or training stage. The exact scene and technical implementation can come later.
+## Current author gate — SC-010 Question 2
+
+> **What is the next broad kind of Sylvan–Luminai capability or rule that the audience must see demonstrated before the endgame depends on it?**
+
+Name only the category, not the exact scene. Examples could include expanded local-system access, subconscious emotional signaling, the Luminai speaking through Sylvan, a permission escalation, or another decisive rule.
 
 ## Interaction rule
 
