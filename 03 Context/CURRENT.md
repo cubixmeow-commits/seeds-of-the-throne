@@ -14,6 +14,8 @@ Foundation, human–AI integration architecture, dynastic character development,
 
 The vault is now explicitly a **development-first environment**. Use [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] to move from scoped retrieval and [[08 Story Loop/GAP-ANALYZER|gap analysis]] through breadth-first alternatives, selective research, multiscale structure, lightweight characters, optional short prototypes, focused critics, and an author gate. Finished-novel prose is downstream. When story-form testing is useful, default to 500–1,500 word non-canon prototypes using [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]], not polished manuscript chapters.
 
+Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. The research exposes **consequential command-role discrimination** as one possible answer category for active SC-010 Question 5, but it is not selected or canon. Current Pickup remains the exact author gate.
+
 ## Active development handoff — 2026-08-21
 
 The current modern-story spine is now:

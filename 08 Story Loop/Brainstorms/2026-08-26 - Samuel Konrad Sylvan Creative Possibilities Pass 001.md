@@ -4,6 +4,7 @@ status: awaiting-author-review
 authority: non-canon-exploration
 date: 2026-08-26
 scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final cooperation requirement
+research_status: R-01 through R-05 complete and integrated
 ---
 
 # Creative Possibilities Pass 001 — Samuel / Konrad / Sylvan Endgame
@@ -31,6 +32,12 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 - [[07 Coordination/Weekly Synthesis/Runs/2026-08-23/06 Scene Opportunity Map]]
 - [[07 Coordination/Weekly Synthesis/Runs/2026-08-23/07 Foreshadowing and Evidence Map]]
 - [[04 Research/Full Reports/41 - Obsession as a Containment Vulnerability]]
+- [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]
+- [[04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle]]
+- [[04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning]]
+- [[04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail]]
+- [[04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems]]
+- [[04 Research/Full Reports/46 - Public Surrender as Political Theater]]
 
 ## Authority ledger
 
@@ -69,6 +76,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 - **Claim / mechanism:** motivated reasoning favors desired conclusions but still needs plausible justifications. **Evidence class:** SUPPORTED.
 - **Claim / mechanism:** a resistant, almost-possible environment can be more convincing than instant wish fulfillment. **Evidence class:** STORY INFERENCE FROM SUPPORTED MECHANISMS.
 - **Claim / mechanism:** a containment environment can invert force when leaving means surrendering the target's terminal obsession. **Evidence class:** FICTIONAL SYNTHESIS / PREMISE.
+- **Claim / mechanism:** public pattern proof can be separated from private identity-bearing evidence through scoped consent, sealed records, controlled access, and independent verification. **Evidence class:** STORY INFERENCE FROM SUPPORTED INVESTIGATIVE AND PRIVACY PRACTICE.
+- **Claim / mechanism:** predictions become more accountable when success criteria, observation windows, revisions, and outcomes are recorded before and after the event without overwriting history. **Evidence class:** SUPPORTED.
+- **Claim / mechanism:** common knowledge supports risky coordination more strongly than identical information delivered privately; protected matching can precede public disclosure. **Evidence class:** SUPPORTED, WITH STORY EXTRAPOLATION.
+- **Claim / mechanism:** safety-critical systems distinguish identity, access, request, authorization, concurrence, execution, audit, and override. **Evidence class:** SUPPORTED.
+- **Claim / mechanism:** public rituals establish legitimacy through recognizable witnessed acts, documents, declarations, and shared recognition. **Evidence class:** SUPPORTED.
 
 ### Conflicts or stale statements corrected before generation
 
@@ -82,6 +94,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 3. Samuel's need to keep each bloodline case isolated means carefully created common knowledge is more dangerous to him than indiscriminate exposure.
 4. The false separation is best proven through effects that could not have crossed a real boundary, not through an explanatory lecture about hierarchy.
 5. The real cooperation requirement can be demonstrated as an available action Samuel and Konrad repeatedly refuse, making failure chosen rather than bureaucratically assigned.
+6. The ethical evidence problem is not “public or hidden.” Identity-bearing proof can remain sealed while a bounded pattern becomes publicly verifiable.
+7. Failed attacks become stronger evidence when Samuel and Konrad commit to observable success criteria before each attempt and cannot erase later definition drift.
+8. Private corroboration and public common knowledge are different thresholds; the story can build suspense between safe pattern discovery and coordinated disclosure.
+9. Samuel can possess broad access yet still lack a valid consequential command because another legitimate human role must independently authorize or concur.
+10. A coronation/audit reversal is strongest when the ceremony's own recognition, declaration, procession, transfer, and custody steps change meaning one by one.
 
 ## Generator gaps and tensions
 
@@ -99,11 +116,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** reveal / set piece
-- **Possibility:** Sylvan appears at the public event Konrad expects to become a witnessed surrender, but uses the same witnesses and ceremonial architecture to present a bounded proof sequence. Each ritual step meant to confirm Konrad's legitimacy instead verifies a broken prediction, a crossed boundary, or a falsified lineage claim.
+- **Possibility:** Sylvan appears at the public event Konrad expects to become a witnessed surrender, but uses the same witnesses and ceremonial grammar to present a bounded proof sequence. Each required act—recognition, declaration, procession, transfer, homage, or entry into custody—fixes a claim or verifies a contradiction, so the ceremony manufactures common knowledge of the failed premises instead of Konrad's legitimacy.
 - **Builds on:** Konrad's need for public surrender; Sylvan's evidence orientation; the direct child revelation.
 - **Story function:** unifies Konrad's god-king obsession, bloodline exposure, and collapse of the false victory condition in one reversible public meaning.
 - **Character choice:** Konrad must decide whether to stop the ceremony and visibly abandon the coronation he demanded or continue and let the proof complete.
-- **Dramatic expression:** banners, ranks, witnesses, and a formal procession remain visually unchanged while their meaning reverses item by item.
+- **Dramatic expression:** banners, ranks, witnesses, and a formal procession remain visually unchanged while each legitimating step becomes an evidentiary step; witnesses see the same proof and one another's recognition of it.
 - **Continuity / authority risk:** could over-compress several reveals or expose children carelessly; exact ceremony is unresolved.
 - **Next gate:** Explore.
 
@@ -111,11 +128,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** natural consequence / evidence
-- **Possibility:** Sylvan does not merely survive the alleged superweapon. He preserves a chronological ledger of Samuel's claims, Konrad's attack choices, predicted results, actual results, and the increasingly elaborate explanations required after each failure.
+- **Possibility:** Sylvan does not merely survive the alleged superweapon. Before major attacks, claimed outcomes, observation windows, responsibility, and success thresholds are fixed in an append-only record. The ledger then preserves actual results, legitimate revisions, and the increasingly elaborate definition drift required after each failure.
 - **Builds on:** attacks with almost no effect; Sylvan's source-discrimination and evidence development; Samuel's maintenance compulsion.
 - **Story function:** turns repeated action into an escalating proof structure and gives Konrad a reason to see Sylvan's explanation as more predictive than Samuel's.
 - **Character choice:** Konrad must choose whether to authorize another attack after seeing that each previous authorization strengthened Sylvan's case.
-- **Dramatic expression:** a simple sequence of promised decisive moments becomes an undeniable visual pattern of near-zero effect and rising narrative maintenance.
+- **Dramatic expression:** a simple sequence of promised decisive moments becomes a visible pattern of near-zero effect, moving success criteria, and explanations that contradict what Samuel and Konrad committed to before the outcome.
 - **Continuity / authority risk:** must not imply Sylvan has perfect observability or can authenticate hidden facts without setup.
 - **Next gate:** Explore.
 
@@ -135,11 +152,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** character / system opportunity
-- **Possibility:** Sylvan proves the organization-wide pattern through anonymized counts, independently held fragments, and a consent-based assembly in which affected families discover they are not isolated—without publicly mapping individual children to parents.
+- **Possibility:** Sylvan uses a two-layer proof. Identity-bearing records remain sealed with independent custodians under field-by-field consent, while non-identifying pattern claims are verified publicly. Confidential deposits first trigger protected matches among isolated targets; only then does a synchronized assembly create common knowledge without mapping individual children to parents.
 - **Builds on:** Samuel's individualized blackmail; common knowledge destroys leverage; Sylvan's ethical test.
 - **Story function:** gives Sylvan a constructive leadership act that defeats Samuel's isolation mechanism rather than copying his weaponization of ancestry.
 - **Character choice:** targeted leaders must choose coordinated truth and protection over private status; Sylvan must accept a less spectacular proof to protect people.
-- **Dramatic expression:** isolated sealed records become meaningful only when many custodians reveal one non-identifying field at the same time.
+- **Dramatic expression:** isolated sealed records first produce private threshold matches; later, many custodians reveal the same bounded non-identifying field at once, and every participant can see that the others received the same authenticated proposition.
 - **Continuity / authority risk:** needs credible authentication and participant consent; cannot make the entire faction instantly cooperative.
 - **Next gate:** Explore.
 
@@ -147,11 +164,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** character / plot escalation
-- **Possibility:** before announcing complete failure, Sylvan gives Samuel and Konrad one bounded, observable task that can only succeed through genuine cooperation with him and another legitimate leader. It offers no symbolic domination and cannot be completed through a proxy.
+- **Possibility:** before announcing complete failure, Sylvan gives Samuel and Konrad one bounded, observable task whose request, authorization, concurrence, execution, and verification belong to different legitimate human roles. Broad access can open the path, but no one operator can complete it through force, proxy, or a master credential.
 - **Builds on:** real requirement to stop and cooperate; human decision authority; Samuel/Konrad's obsession with victory conditions.
 - **Story function:** demonstrates the true process rule through action and makes their continued failure voluntary.
 - **Character choice:** each must choose a modest constructive act that contradicts the identity he has spent decades protecting.
-- **Dramatic expression:** an ordinary repair, release, verification, or protection task sits beside the enormous coronation fantasy and remains undone because neither man will relinquish control.
+- **Dramatic expression:** an ordinary repair, release, verification, or protection task sits beside the enormous coronation fantasy; the interface openly shows the one missing human concurrence while refusal and attempted bypass enter the audit record.
 - **Continuity / authority risk:** the exact task could accidentally define scoring, permissions, or absolution too cheaply.
 - **Next gate:** Explore.
 
@@ -159,11 +176,11 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** system / recontextualization
-- **Possibility:** Samuel finally attempts to invoke the synthetic command structure he believes Sylvan can unlock. The response does not reveal a hidden army awaiting a master; it exposes a chain of human authorization, responsibility, and bonded consent that his conquest theory cannot satisfy.
+- **Possibility:** Samuel finally reaches the synthetic command surface he believes Sylvan can unlock. His identity and access may be valid, but the operation exposes separate roles for request, authorization, concurrence, execution, and audit. The command cannot become valid because Samuel cannot manufacture the missing independent human decisions.
 - **Builds on:** Samuel's synthetic-army ambition; process-enforced human decision authority; legitimate leader cooperation.
 - **Story function:** collapses Samuel's larger conquest fantasy through an already established Seeds principle rather than a new counterweapon.
 - **Character choice:** Samuel can ask a real person to cooperate under accountable terms or continue pretending control can substitute for consent.
-- **Dramatic expression:** a massive apparently obedient system remains still because the missing input is not a code but a legitimate human decision Samuel cannot compel.
+- **Dramatic expression:** a massive apparently obedient system acknowledges Samuel's request yet remains in a bounded safe state because access is not authorization and the missing input is an accountable human decision he cannot compel.
 - **Continuity / authority risk:** high risk of over-defining synthetic command and making a thematic answer function like a technical override.
 - **Next gate:** Maybe; research/system pass required before exploration.
 
@@ -171,7 +188,7 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** character opportunity
-- **Possibility:** once Sylvan's account begins predicting events better, Konrad secretly changes one attack parameter or preserves one record outside Samuel's expected channel—not to help Sylvan, but to test whether Samuel is controlling the shared environment.
+- **Possibility:** once Sylvan's account begins predicting events better, Konrad secretly preserves Samuel's pre-attack prediction and success threshold outside Samuel's expected channel, then changes one parameter—not to help Sylvan, but to test both the claimed mechanism and whether Samuel is controlling the shared environment.
 - **Builds on:** constant alpha/beta struggle; Konrad's intelligence; cognitive collapse; ineffective attacks.
 - **Story function:** preserves Konrad's capability and agency while showing how difficult it is for him to use evidence against the identity he protects.
 - **Character choice:** when the test implicates Samuel, Konrad must reveal it and admit why he ran it or bury it and resume the fantasy.
@@ -195,7 +212,7 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 - **Status:** NON-CANON EXPLORATION
 - **Family:** high-risk character recontextualization
-- **Possibility:** one or more adult unauthorized descendants participate in the evidence process but explicitly reject being presented as proof of impurity, heirs, weapons against Konrad, or moral symbols for Sylvan. They set the terms of what can be disclosed.
+- **Possibility:** one or more adult unauthorized descendants participate in the evidence process but explicitly reject being presented as proof of impurity, heirs, weapons against Konrad, or moral symbols for Sylvan. They set field-by-field disclosure terms, can remain behind independent custodians, and force the public case to prove the system without publishing their genealogy.
 - **Builds on:** tens of thousands of unauthorized children; Sylvan's ethical test; the danger of treating people as genealogy.
 - **Story function:** gives personhood and agency to the population whose existence currently functions mostly as revelation and leverage.
 - **Character choice:** Sylvan must surrender the cleanest dramatic proof if it violates their terms; Konrad must confront people who do not accept his categories.
@@ -238,26 +255,33 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 
 ## Suggested research queue
 
-- [ ] **R-01 — Ethical disclosure without genealogical spectacle**
+- [x] **R-01 — Ethical disclosure without genealogical spectacle**
   - **Supports:** P-04, P-09
   - **Question:** How have investigators, truth commissions, and survivor-led processes proven systemic reproductive or identity abuse while minimizing involuntary disclosure of individual parentage?
   - **Use:** Define consent, anonymization, custody, representative evidence, and descendant authority before designing Sylvan's presentation.
-- [ ] **R-02 — Failed predictions under motivated reasoning**
+  - **Result:** [[04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle]] — use a two-layer proof with scoped consent, sealed identity records, and independently verified public pattern claims.
+- [x] **R-02 — Failed predictions under motivated reasoning**
   - **Supports:** P-02, P-07
   - **Question:** Which forms of prediction logging, precommitment, and repeated forecast comparison make discrepancies difficult to rationalize away for a committed believer?
   - **Use:** Make the failure ledger psychologically and procedurally credible without granting Sylvan perfect observability.
-- [ ] **R-03 — Common knowledge against distributed blackmail**
+  - **Result:** [[04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning]] — lock observable criteria before outcomes and preserve revisions and explanation drift.
+- [x] **R-03 — Common knowledge against distributed blackmail**
   - **Supports:** P-04
   - **Question:** What communication structures let isolated targets discover a shared coercion pattern and coordinate safely when each fears being the first to disclose?
   - **Use:** Turn private lineage leverage into a believable coordinated refusal rather than an instant faction-wide reversal.
-- [ ] **R-04 — Human authorization in safety-critical command systems**
+  - **Result:** [[04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail]] — separate private deposit, threshold matching, protected coordination, and public common knowledge.
+- [x] **R-04 — Human authorization in safety-critical command systems**
   - **Supports:** P-05, P-06
   - **Question:** How do mature command systems distinguish access, recommendation, authorization, identity, and accountable consent when a powerful operator attempts to seize control?
   - **Use:** Pressure-test the cooperation task and synthetic-command possibility without inventing a magical moral refusal.
-- [ ] **R-05 — Public surrender as political theater**
+  - **Result:** [[04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems]] — distinguish identity, access, request, authorization, concurrence, execution, audit, and override.
+- [x] **R-05 — Public surrender as political theater**
   - **Supports:** P-01
   - **Question:** How have staged capitulations, coronations, trials, or truth presentations changed meaning in front of the same witnesses, and which ritual details made the reversal legible?
   - **Use:** Give the coronation/audit possibility concrete dramatic structure without prematurely choosing the final venue.
+  - **Result:** [[04 Research/Full Reports/46 - Public Surrender as Political Theater]] — reverse the event through its own witnessed recognition grammar rather than attaching an unrelated evidence presentation.
+
+Cross-report synthesis: [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]].
 
 ## Author review board
 

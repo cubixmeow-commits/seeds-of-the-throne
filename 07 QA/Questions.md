@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-23
+updated: 2026-08-26
 ---
 
 # Questions
@@ -38,3 +38,4 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-026 | What first limited Great War defeat does Konrad refuse to acknowledge, what recoverable retreat does he reject, and what exact restoration phrase later lets Samuel exploit Konrad's compulsion to remain the winner? | [[02 Story/Characters/Konrad Fitzgerald]] | open |
 | Q-027 | What independent roles train Sylvan and Orzai, what significant leadership failure belongs to each, and what first pace/disclosure/evidence conflict demonstrates complementary but independent judgment? | [[01 Sessions/Daily/2026-08-23 - Sylvan and Orzai Emerging Leaders]] | open |
 | Q-028 | What education, workplace, strongest medium, and signature project join Orzai's health/nutrition practice with video and 3D design, and how does that work lead toward colonization-scale responsibility? | [[01 Sessions/Daily/2026-08-23 - Orzai Health Nutrition and Creative Technology]] | open |
+| Q-029 | Should Konrad's demanded surrender spectacle and Sylvan's first bounded public audit share one ritual architecture, or remain separate events so failed predictions, false separation, lineage abuse, descendant agency, and the cooperation test do not overload one reveal? | [[08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001]] | open / non-canon author gate |

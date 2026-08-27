@@ -18,6 +18,15 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - This sidecar pass did not advance, complete, or replace SC-010. Resume the Macro Shape sweep at the author gate below after the author reviews or parks the creative packet.
 - The Story Discipline iPhone app concept remains preserved in [[00 Inbox/Mobile Notes/2026-08-26 - Story Discipline App and Creative Possibilities Pass]]; no app implementation or implementation planning began in this run.
 
+## 2026-08-26 five-report research checkpoint
+
+- R-01 through R-05 in the active Creative Possibilities packet are complete.
+- The source reports are [[04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle]], [[04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning]], [[04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail]], [[04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems]], and [[04 Research/Full Reports/46 - Public Surrender as Political Theater]].
+- Cross-report findings are in [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]].
+- The research strengthens two-layer ethical evidence, prediction locking, protected matching and common knowledge, multi-role human authorization, and stepwise ritual reversal.
+- One new SC-010 possibility is visible: **consequential command-role discrimination**, meaning Sylvan learns to distinguish observing, requesting, authorizing, concurring, executing, verifying, and auditing. It remains an offered non-canon category until the author answers Question 5.
+- Every experimental idea remains non-canon and UNREVIEWED. The research did not advance SC-010 or alter the author gate.
+
 ## Current workflow state
 
 - SC-001 through SC-009 — complete at Macro Shape.
@@ -65,6 +74,8 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 > **What is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
 
 Name only one category. Do not design its exact scene yet.
+
+Research-derived option now available, not selected: **consequential command-role discrimination**.
 
 ## Interaction rule
 

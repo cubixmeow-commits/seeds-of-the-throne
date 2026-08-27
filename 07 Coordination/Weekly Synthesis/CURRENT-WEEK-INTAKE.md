@@ -40,7 +40,12 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
-None recorded after the 2026-08-23 baseline cutoff.
+### 2026-08-26 — Five-report endgame research integration
+
+- **Source:** [[01 Sessions/Daily/2026-08-26 - Five Endgame Research Reports and Creative Packet Integration]]
+- **Type:** research
+- **Possible relationship:** SC-010, P-01, P-02, P-04, P-05, P-06, P-07, P-09
+- **Signal:** Five completed reports strengthen ethical evidence, prediction accountability, protected coordination, human authorization, and public-ritual mechanics, and expose consequential command-role discrimination as a non-canon candidate for the active SC-010 author gate.
 
 ## Weekly reset
 
