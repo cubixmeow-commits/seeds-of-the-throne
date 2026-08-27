@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-23
+updated: 2026-08-26
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
@@ -142,6 +142,12 @@ The lineage record creates a parallel trap. Konrad has already withdrawn into hi
 
 If Sylvan's evidence makes that pattern common knowledge, Samuel risks losing both the private leverage that keeps families isolated and the partial account that still contains Konrad. Samuel's need for a time extension can therefore become desperate once he realizes the results presentation includes the breeding scandal and documented targeting of the Fitzgerald line.
 
+Samuel converts that fear into a false offensive promise. He tells Konrad that a superweapon can decisively harm Sylvan and that defeating or processing Sylvan will transfer legitimate process control. The attacks have almost no meaningful effect. Their failure gives Konrad an accumulating comparison test: Samuel's predictions fail while Sylvan's explanation increasingly accounts for what actually happens.
+
+Konrad's preferred imagined victory is not Sylvan's destruction but his willing public surrender and processing before leaders and populations. He needs the spectacle to function as validation of a god king, which makes him more willing to continue an ineffective campaign rather than accept a private or technical outcome.
+
+The actual endgame requirement is the inverse of the promise: Samuel and Konrad must stop the rampage and cooperate with Sylvan and other legitimate leaders to earn a successful outcome. Sylvan reveals this after neutralizing their attacks and exposing them to each other.
+
 If the signs stop, George may begin working backward through decades of apparent evidence and asking how much of his life his father manufactured. Under the succession-betrayal possibility, the most devastating discovery may be that **George realizes his father knowingly sent him into an unwinnable environment because his father wanted him removed.**
 
 The King's final dilemma becomes:
@@ -223,10 +229,12 @@ Working development to preserve for future sessions:
 - stopping the story risks consequences from George discovering what happened;
 - continuing the story guarantees accumulating evidence visible to everyone else;
 - Sylvan's final offer remains cooperation and earned stewardship versus honest processing based on reality.
-- Konrad is already in hiding or severe isolation after recognizing his culpability in enabling a compromised breeding program;
-- Konrad's knowledge of the organization-wide targeting and its function as Samuel's coup remains unresolved;
+- Konrad enters the final revelation from hiding or severe isolation after recognizing his culpability in enabling a compromised breeding program;
+- dozens of unauthorized children visibly resembling his leaders establish the organization-wide targeting for Konrad and reveal that Samuel maintained the supposedly separated shared environment;
 - Sylvan suspects Samuel continues blackmailing or controlling Konrad through proxies;
 - evidence of the breeding scandal and Fitzgerald targeting can turn Samuel's procedural request for an extension into open desperation.
+- Samuel's claimed superweapon is an operational lie whose attacks have almost no effect;
+- Samuel and Konrad's actual path is to end the rampage and cooperate with legitimate leaders, not process Sylvan.
 
 ## Open questions
 

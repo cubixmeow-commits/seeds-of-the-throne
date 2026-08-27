@@ -1,7 +1,7 @@
 ---
 type: brainstorm-note
 status: unresolved
-updated: 2026-08-25
+updated: 2026-08-26
 scope: Samuel Franklin / Konrad Fitzgerald / containment hierarchy
 ---
 
@@ -13,7 +13,7 @@ This mechanism remains **UNRESOLVED IN ITS DETAILS** and should be developed in 
 
 Do not patch the remaining mechanism by inference. Do not assume motivations or technical rules that have not been worked through with the author.
 
-Questions 1 through 3 now have accepted macro answers. The exact safeguards, resistance paths, lock event, and later permissions remain unresolved.
+Questions 1 through 3 and the 2026-08-26 alpha/beta and false-separation questions now have accepted macro answers. The exact safeguards, resistance paths, lock event, supporting proof, and later permissions remain unresolved.
 
 ## Question 1 — accepted conceptual answer
 
@@ -127,6 +127,20 @@ Do **not** reveal early that Samuel's exile was part of his own negotiated plan.
 
 ## Questions for the dedicated brainstorm
 
+### 2026-08-26 authority update
+
+The following macro questions are now author-resolved:
+
+- Samuel is the primary decision-making alpha and Konrad eventually the beta. The relation is a constant power struggle; the advantage shifts by decision but remains structurally important.
+- Samuel's conditional advantage matters only because Konrad and the group end up contained in the same empire where Samuel negotiated placement.
+- Konrad initially knows only that Samuel arrived first. He does not understand Samuel's broader priority.
+- Samuel identifies Konrad's desperation and offers an apparently separate half of the environment. The separation is false and is reinforced with story/environment functionality.
+- Samuel maintains the shared underlying environment, allowing him to interfere with Konrad's initiatives and eventually much of his group.
+- Konrad discovers the false separation near the end after Sylvan shows him dozens of unauthorized children resembling his leaders. The children prove that Samuel could reach across the supposed boundary.
+- The eight-year period of apparent autonomy is therefore a constructed reality, not a genuinely separate jurisdiction later invaded by Samuel.
+
+The following remain unresolved and must not be inferred from the macro answers: the exact integration/lock event; technical permissions; what is automatic versus actively manipulated; resistance, residual agency, and external correction; reset limits; the exact evidence trail; and the precise implementation of surveillance and story functionality.
+
 Work through these one at a time rather than solving them all at once:
 
 1. What exactly is the containment hierarchy in practical terms? **Answered: layered control of experienced reality and decision structure, with generational change rather than arbitrary private-belief rewriting.**
@@ -139,21 +153,21 @@ Work through these one at a time rather than solving them all at once:
 8. When and how does Samuel learn the rule?
 9. Does Samuel understand the full consequence immediately, or only realize later that he can use it against Konrad?
 10. What exactly did Konrad control in his own city before defeat, and which parts of that control are lost when the group enters the largest empire's containment environment?
-11. What does Samuel actually control in his own containment domain before Konrad arrives?
-12. What exactly does Samuel lie to Konrad about when Konrad enters that environment?
-13. What does Konrad believe he is getting back?
+11. What does Samuel actually control in his own containment domain before Konrad arrives? **Partly answered: enough shared-environment priority to offer a false separate half and preserve structural advantage; exact permissions remain open.**
+12. What exactly does Samuel lie to Konrad about when Konrad enters that environment? **Answered at macro level: that Konrad receives a separate half/domain and a legitimate path to restoration; supporting proof and interface remain open.**
+13. What does Konrad believe he is getting back? **Answered at macro level: a genuinely separate domain with his own initiatives, population, and route back to legitimate planetary rule.**
 14. Why does Konrad believe Samuel despite continuing to regard him as an outsider and failure? **Conceptually answered: Samuel's restoration story protects Konrad's compulsive winner identity, and contempt makes the possibility of Samuel's victory psychologically inadmissible. The exact lie and supporting proof remain unresolved.**
 15. What Fitzgerald programs, institutions, records, personnel structures, breeding systems, genealogical systems, or command processes are capable of being reactivated?
 16. What must Konrad personally authorize, instantiate, reconnect, or transfer?
 17. At what moment does the old Fitzgerald machinery cross from its former independent city-based existence into Samuel's jurisdiction in the largest empire?
 18. Which parts are under Samuel's control automatically because of the hierarchy lock, and which still require later manipulation?
 19. What evidence of the locked jurisdiction exists, and why does Konrad fail to interpret it correctly?
-20. What remains genuinely under Konrad's authority after reactivation?
-21. What becomes visible, governable, surveillable, or alterable by Samuel?
+20. What remains genuinely under Konrad's authority after reactivation? **Partly answered: meaningful beta authority and decision-by-decision power remain; the exact boundary is open.**
+21. What becomes visible, governable, surveillable, or alterable by Samuel? **Partly answered: enough to interfere with initiatives and ultimately much of the group; exact capabilities and limits remain open.**
 22. How does Samuel conceal the fact that the machinery is operating under his jurisdiction?
 23. How does this lead specifically into the genealogy/breeding-program takeover?
 24. How does Samuel use the hierarchy to pursue replacement of Konrad without immediately exposing that intention?
-25. When does Konrad finally realize that he did not restore his empire but installed it inside Samuel's domain?
+25. When does Konrad finally realize that he did not restore his empire but installed it inside Samuel's domain? **Answered: near the end, when dozens of recognizable unauthorized children prove the bloodline targeting and the absence of real separation.**
 26. Why is the discovery too late to save the group?
 27. Why can the system not simply reset the hierarchy after Samuel's deception is exposed?
 28. What exact chain turns this mistake from a temporary loss of control into the permanent destruction of the Fitzgerald group?
@@ -207,10 +221,10 @@ Unresolved:
 - the exact first-integration event that activates Samuel's alpha status in the largest empire;
 - what specifically locks and why the system uses this rule;
 - how Samuel learns and exploits it;
-- the exact transition from Konrad's genuine city-based control to loss of control in the largest empire;
+- the technical transition from Konrad's genuine city-based control to the established alpha/beta shared environment in the largest empire;
 - how Samuel's concealed alpha deal squares structurally with Konrad's betrayal and the apparent exile;
-- Samuel's exact lie;
-- Konrad's exact interpretation;
+- the exact supporting mechanism and evidence used to sustain Samuel's established false-separation lie;
+- the concrete institutions, population, and controls that make Konrad's apparent half feel autonomous;
 - the reactivation mechanism;
 - what powers transfer automatically and what still require manipulation;
 - why the lock cannot be reset;

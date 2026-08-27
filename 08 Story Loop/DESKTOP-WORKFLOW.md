@@ -1,8 +1,8 @@
 ---
 type: story-loop-workflow
 status: active
-version: 0.2
-updated: 2026-08-21
+version: 0.3
+updated: 2026-08-26
 ---
 
 # Desktop Workflow
@@ -24,6 +24,8 @@ This is the manual execution path. [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] is
 2. Retrieve only its listed source notes and immediate dependencies.
 3. Update the unit's known facts, constraints, missing decisions, and contradictions without solving them.
 4. Prepare a Brainstorm Packet from [[08 Story Loop/Templates/brainstorm-packet]].
+
+For a creative/inspiration session, reconcile recent author answers into canon first, then use [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|Research → Creative Possibilities / Inspiration Pass]] with an explicit cutoff and exclusions. Do not let app ideas, implementation planning, or other adjacent work enter the story pass unless separately requested.
 
 ### Author Gate A — brainstorm scope
 
@@ -78,6 +80,7 @@ The author approves the exact decision set and affected-file list. Approval is s
 3. Identify the next highest-value unit from the map.
 4. Verify links and repository diff.
 5. Commit or publish only when separately authorized.
+6. If the output is an inspiration portfolio, leave its review board `UNREVIEWED`, name one next author-gate question, and keep every candidate out of canon until the author responds.
 
 ## First desktop command in plain language
 

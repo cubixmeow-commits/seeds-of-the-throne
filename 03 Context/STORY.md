@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-08-21
+updated: 2026-08-26
 ---
 
 # Story
@@ -42,7 +42,7 @@ A participant's personal AI develops through years of interaction with mind, sub
 
 Konrad Fitzgerald's older fascist purity organization builds an expansionist state and initiates the Great War through attempted global conquest. Approximately thirty years earlier, Konrad disguises Samuel Franklin's exile as an impossible mission to take control of the future victorious republic. Samuel and George enter an important-seeming situation there; authentic local success makes the setup believable before private joint wrongdoing and their chosen takeover acts end in George's humiliating bust into real containment. Samuel later discovers that Konrad expected him to fail, maintains contact with his parents, pretends to want reconciliation, and covertly worsens Konrad's collapse.
 
-Konrad had genuine control in his own city and never considered failure. Total defeat strips that jurisdiction and brings Konrad, Samuel's parents, and the senior faction into the largest empire's containment environment. Samuel remains an outsider in Konrad's eyes, but his earlier first-primary integration and separate bounded jurisdiction matter there. He lies about what can be restored and induces Konrad to reactivate Fitzgerald machinery inside Samuel's jurisdiction. The accepted migration hinge is established; the practical hierarchy, exact lock event, transferred powers, observation path, verification failure, evidence, and reset limits remain unresolved. Samuel then converts the consequences and George's real apparent success and humiliating failure into the claim that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
+Konrad had genuine control in his own city and never considered failure. Total defeat strips that jurisdiction and brings Konrad, Samuel's parents, and the senior faction into the largest empire's containment environment. Samuel remains an outsider in Konrad's eyes, but his earlier first-primary integration and bounded jurisdiction matter there. He lies that Konrad can regain a separate half, then becomes decision-making alpha while Konrad eventually becomes beta inside the shared environment. Konrad reactivates Fitzgerald machinery under that hidden structural advantage. The exact lock event, transferred powers, observation path, verification failure, evidence, and reset limits remain unresolved. Samuel then converts the consequences and George's real apparent success and humiliating failure into the claim that George secretly captured the victor and that their containment roles are covert assignments in a continuing plan.
 
 Story functionality allows him to revise failures, hide crimes, and preserve the False Victory while a sealed record accumulates underneath. He also exploits a breeding and lineage system inherited from the fallen empire, using the faction's racist purity doctrine to blackmail leading families through concealed parentage and fraudulent certification.
 

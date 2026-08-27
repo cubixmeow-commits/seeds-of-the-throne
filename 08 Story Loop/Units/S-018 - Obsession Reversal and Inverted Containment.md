@@ -4,7 +4,7 @@ unit_id: S-018
 completeness: partial
 authority: established-principle
 run_state: ready-for-brainstorm
-updated: 2026-08-23
+updated: 2026-08-26
 ---
 
 # S-018 — Obsession Reversal and Inverted Containment
@@ -22,6 +22,8 @@ Use Sylvan's successfully completed human–Luminai bond to turn Samuel and Geor
 ## Entering state
 
 **Established direction:** George appears to be the active hostile figure, but Samuel is maintaining the conflict and expects Sylvan to treat George as the enemy. Samuel wants George destroyed, blamed, or processed so the son absorbs responsibility for the collapse.
+
+**Established 2026-08-26 addition:** Samuel also keeps Konrad attacking through a false superweapon promise and the claim that processing Sylvan transfers legitimate control. The attacks have almost no meaningful effect. Konrad prefers Sylvan's willing public surrender because he needs witnessed god-king validation. Their real path is to stop the rampage and cooperate with Sylvan and other legitimate leaders.
 
 **Working:** Samuel and George believe they understand how desperate contained people can be steered by giving them evidence that matches what they most need to believe.
 
@@ -66,6 +68,8 @@ Sylvan must offer a believable apparent path toward what Samuel and George expec
 ## Required author decisions
 
 1. What exact outcome would make Samuel believe he has successfully appropriated Sylvan's role in the colonization process?
+
+Current non-canon directions generated from these decisions are parked in [[08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001]]. They do not answer this question until author review.
 2. What does George expect the final environment to prove about himself?
 3. What apparent opportunity can Sylvan present without fabricating wrongdoing?
 4. What action by Samuel proves that he is still commanding or servicing George's reality?

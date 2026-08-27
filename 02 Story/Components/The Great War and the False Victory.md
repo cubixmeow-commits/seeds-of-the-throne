@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-08-21
+updated: 2026-08-26
 themes: Great War, authoritarian conquest, Samuel exile, sabotage, defeat, containment, false victory, George placement
 ---
 
@@ -98,7 +98,7 @@ The defeated leaders accept a deal because they believe Samuel can give them acc
 
 They think Samuel has given them a window into the victor. He has given himself a window into them.
 
-The resulting observation, dependency, or control consequences let Samuel discover why he was sent away, what the senior faction intended for him, and which secrets, dependencies, bloodlines, and fears can later be exploited. The practical hierarchy architecture, definition of primary, exact lock event, reactivation path, automatic versus later powers, verification failure, first revealing record, duration, reset limits, and hard limits remain unresolved.
+The resulting observation, dependency, or control consequences let Samuel discover why he was sent away, what the senior faction intended for him, and which secrets, dependencies, bloodlines, and fears can later be exploited. At macro level Samuel becomes the decision-making alpha and Konrad eventually the beta in an ongoing power struggle. Samuel's offer of a separate half is false; he maintains the shared environment and can interfere with Konrad's initiatives. The exact lock event, reactivation path, automatic versus later powers, verification failure, first revealing record, reset limits, and hard limits remain unresolved.
 
 He helps the defeated organization interpret public roles, institutional constraints, status signals, containment procedures, and opportunities for influence.
 

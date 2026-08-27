@@ -1,8 +1,8 @@
 ---
 type: story-loop-protocol
 status: active
-version: 0.1
-updated: 2026-08-21
+version: 0.2
+updated: 2026-08-26
 ---
 
 # Research → Creativity → Story Fit Loop
@@ -18,6 +18,8 @@ This loop exists because technically interesting research is not automatically g
 `story question -> targeted research -> evidence classification -> creative translation -> interest test -> story-fit critique -> author gate -> integrate or park`
 
 The loop never promotes research or AI-generated possibilities directly into canon.
+
+If the relevant research already exists and the goal is to mine a recent multi-note development window for several directions, begin with [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|Research → Creative Possibilities / Inspiration Pass]]. Bring selected candidates back here for evidence classification and Story Fit when their mechanism depends on research.
 
 ## 1. Story Question
 

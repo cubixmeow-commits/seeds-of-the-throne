@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-23
+updated: 2026-08-26
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -53,11 +53,13 @@ Samuel's parents discover conduct they regard as intolerable and disgraceful, in
 
 His parents and the wider Fitzgerald organization cast him out approximately thirty years before the Great War begins.
 
-**Established:** Konrad does not present the placement to Samuel as simple disposal. He gives Samuel an extraordinary mission: infiltrate and take control of the largest pluralistic empire. Samuel accepts that flattering explanation and initially mistakes exile for proof that Konrad and the senior faction still consider him uniquely valuable.
+**Established:** Konrad does not present the placement to Samuel as simple disposal. He gives Samuel an extraordinary mission: infiltrate and take control of the largest pluralistic empire. Samuel believes the larger group is supposed to conquer that empire and absorb his work later, but he also suspects Konrad and the others have betrayed him and does not expect the direct revolution to succeed.
 
 **Established:** The mission is a setup designed to fail. Taking control of the largest empire is an impossible assignment, and Samuel has no genuine chance of completing it. Konrad uses Samuel's vanity, intelligence, and need to feel indispensable to make disposal resemble trust.
 
-**Unresolved:** How Konrad guarantees failure, how much of Samuel's placement is imposed by the containment system rather than operationally arranged by the faction, and whether Konrad expects any useful secondary effect beyond Samuel's removal remain open.
+Samuel therefore enters with a parallel bet. He has made secret placement/prosecution deals and expects failure to funnel Konrad and the others into the same empire's containment structure, where Samuel's conditional alpha priority will place Konrad below him. Konrad always intends the mission as removal; Samuel accepts it because he believes its failure can still produce the hierarchy he negotiated. The Great War changes the route but produces the same containment convergence.
+
+**Unresolved:** How Konrad operationally guarantees failure, how Samuel's concealed deal interacts with imposed placement, and what each side can prove before the endgame remain open.
 
 The exile becomes one of the central wounds of Samuel's life. He does not interpret it as accountability. He experiences it as humiliation, dispossession, and theft of the inheritance he believes should have been his. The organization that taught him to worship hierarchy, bloodline, continuity, and inherited status declares him unworthy of belonging to its own line.
 
@@ -111,7 +113,21 @@ Konrad thinks Samuel is giving him back his empire. In reality, Konrad has migra
 
 Through that access, Samuel learns why he was really sent away, what the faction intended to do with him, what its leaders concealed, and what they are planning after defeat. He hears how they discuss his expendability when they believe the Samuel problem has already been solved. That knowledge helps turn reconciliation into attempted possession and later gives him a causal path toward the faction's bloodlines, dependencies, and private fears.
 
-**Unresolved:** Samuel never conquered the victorious empire. The practical hierarchy, definition of primary, exact lock event and purpose, what Samuel knew and when, precise lie, reactivation/migration procedure, automatic versus later powers, communication layer, institutional brokerage, credentials, administrative visibility, first revealing record, duration, reset limits, and observation boundaries all remain open. The mechanism must preserve agency and cannot become magical omniscience. Resolve it only through [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
+**Established at macro level:** Samuel becomes the primary decision-making **alpha** and Konrad eventually occupies the **beta** position inside the relevant shared environment. This is not absolute command over every action. Power changes from decision to decision, but Samuel's structural advantage repeatedly lets him obstruct, redirect, absorb, or take control of Konrad's initiatives and eventually much of Konrad's group.
+
+Samuel immediately recognizes Konrad's desperation for autonomy and offers what appears to be a separate half of the containment environment. That separation is a lie reinforced through story/environment functionality. Konrad can build institutions, initiatives, and a lived sense of domain, but Samuel retains control of the shared environment beneath the apparent division.
+
+**Still unresolved:** Samuel never conquered the victorious empire. The exact lock event and purpose, reactivation/migration procedure, automatic versus later powers, communication layer, institutional brokerage, credentials, administrative visibility, first revealing record, reset limits, and bounded observation mechanics remain open. The mechanism must preserve agency and cannot become magical omniscience. Resolve it only through [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
+
+## The Sylvan victory-condition lie
+
+Samuel convinces Konrad that Sylvan's legitimate place in the colonization process can be converted into control: if they defeat and process Sylvan, legitimate authority will pass to them and eventually unlock the colonization planet.
+
+Samuel occupies a dangerous middle state between knowing this is a lie and convincing himself some version of it must be true. His larger fantasy is to exploit Sylvan as an access point to the synthetic command structure, use the synthetics as an army, conquer the colonization planet, then expand against the wider colonization process and the rest of humanity. He has no sound mechanism. The plan remains an improvised megalomaniacal certainty built from extortion, coercion, control, and whatever opportunity he can reinterpret as proof.
+
+Konrad's attacks on Sylvan are organized around three imagined victory paths: exhaust Sylvan's resources, force his willing surrender and processing, or provoke a process-rule violation that strips his legitimate standing. Samuel uses this belief to keep Konrad attacking.
+
+The real outcome does not depend upon defeating Sylvan. Samuel and Konrad have to earn progress by ending their rampage and cooperating with Sylvan and other legitimate leaders. They do not understand that condition until the end.
 
 ## From brilliant coup to uncontrolled revolution
 
@@ -126,6 +142,8 @@ His objective escalates:
 `control the migrated organization -> punish the people who rejected him -> corrupt what they value -> replace Konrad -> force the whole system to validate Samuel -> preserve the revolution after it no longer serves a coherent objective`
 
 Samuel's impulsiveness and rage do not erase his intelligence. They keep changing what victory means. Each brilliant short-term manipulation creates another bloodline intervention, false genealogy, synthetic substitution, proxy, isolated audience, manipulated descendant, or maintained reality that must be protected. The original coup expands into a revolution Samuel can no longer fully direct or safely end.
+
+The bloodline campaign is not an accidental byproduct of that loss of control. Across roughly eighty years, Samuel personally chooses to drive participating bloodlines to their maximum, producing tens of thousands of unauthorized children. Revenge becomes an obsession with secretly exercising Konrad's own reproductive power. Samuel could stop at any point and repeatedly chooses not to.
 
 This loss of control becomes causal to his final defeat. Samuel cannot stop maintaining George's false reality, Konrad's isolation, the proxy stories, and the concealed genealogy without risking cascading discovery. Continuing the manipulation creates new evidence of active command. Sylvan's final bounded environment makes restraint the strategically correct choice, but Samuel's rage, obsession, and fear of disclosure make restraint emotionally impossible. His voluntary attempts to keep the revolution alive help trap and expose him.
 
@@ -161,6 +179,16 @@ Samuel turns that access into a long-term coup.
 He arranges unauthorized reproductive interventions, falsifies genealogies, introduces descendants the faction's doctrine would reject, uses biological synthetics and substitutions, creates hidden parentage, and builds individualized blackmail around families that believe their cases are isolated.
 
 The program becomes the instrument through which Samuel takes revenge on the people who exiled him and appropriates the hierarchy that once rejected him.
+
+Samuel never intends the organization-wide intervention to become common knowledge. The children, altered pedigrees, and hidden branches are meant to remain partitioned so they can blackmail leaders and troublemakers one at a time. Sylvan's ability to make the pattern visible converts Samuel's long-term leverage into an exposure threat.
+
+## The superweapon lie and exposure panic
+
+Once Sylvan approaches the bloodline pattern, Samuel urgently needs him neutralized or processed. He promises Konrad a superweapon capable of decisively harming Sylvan. The promise is a desperate operational lie, not a functioning capability.
+
+The attacks have almost no meaningful effect. Their failure becomes one of the first discrepancies that Samuel cannot explain indefinitely: Sylvan's account of the environment begins to predict events better than Samuel's promises do. Samuel nevertheless keeps the attack going because processing Sylvan appears to delay or prevent disclosure of the bloodline operation.
+
+At the final exposure, Sylvan neutralizes the attacks, exposes Samuel and Konrad to each other, and states the real cooperation requirement. Samuel immediately attempts to preserve control by blackmailing Konrad with exposure of both the breeding program and Konrad's responsibility for enabling it. The blackmail can delay public recognition but cannot erase the evidence Sylvan and other legitimate leaders already possess.
 
 ## Trying to become Konrad
 
@@ -237,13 +265,15 @@ His treatment of George and the unauthorized son repeats the same pathology. He 
 - Which parent remains emotionally susceptible to Samuel's claim that he wants reconciliation?
 - What specific information or access does Samuel obtain through his parents during the Great War?
 - Which acts of sabotage materially contribute to Konrad's defeat without making Samuel solely responsible for it?
-- What is the hierarchy in practical terms, what makes Samuel the first primary contained criminal, and what exact integration event locks structural priority?
+- What exact integration event activates Samuel's negotiated alpha status, which powers follow automatically, and what bounded resistance or correction remains for people below him?
 - What false control does Samuel claim, what exactly does Konrad reactivate or migrate, what powers follow automatically versus later manipulation, and why can the faction not independently verify the difference?
 - What must the faction connect, adopt, authorize, or disclose for observation and dependency to develop, what remains genuinely Konrad's, and what hard limits prevent omniscience?
 - What evidence records the jurisdictional transfer, and why can the hierarchy not simply reset?
 - What first private conversation or record proves that Konrad designed the mission to fail, and how long does Samuel preserve the resulting surveillance access before acting openly?
 - At what point does Samuel decide he no longer wants readmission and instead wants ownership of the organization?
-- When does revenge against his parents become revenge against every participating bloodline?
+- What sequence turns revenge against his parents into the explicit decision to maximize every participating bloodline?
 - What exact hereditary problem lets Samuel obtain control of the breeding program?
 - When does Konrad first realize Samuel is not trying to save the Fitzgerald dynasty but replace its authority?
 - Does Samuel consciously formulate the goal 'become Konrad,' or does Sylvan recognize that pattern before Samuel does?
+- What false or improvised mechanism does Samuel claim would convert Sylvan's legitimate process position into control of the synthetic command structure?
+- What does the alleged superweapon physically or procedurally appear to be, and why can its repeated ineffectiveness not be hidden from Konrad?

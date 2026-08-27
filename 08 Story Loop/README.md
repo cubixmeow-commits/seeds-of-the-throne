@@ -1,8 +1,8 @@
 ---
 type: story-loop-index
 status: active
-version: 0.3
-updated: 2026-08-24
+version: 0.4
+updated: 2026-08-26
 ---
 
 # Story Loop
@@ -16,6 +16,8 @@ The Story Loop is a human-readable, Obsidian-native development environment for 
 3. Choose Micro, Standard, Deep, or Cascade mode.
 4. Route only to the modules needed for the uncertainty.
 5. Stop at the author gate before promotion.
+
+When the vault already contains enough recent research and brainstorming but needs fresh directions rather than another answer, run [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|Research → Creative Possibilities / Inspiration Pass]]. Its output is a non-canon portfolio for author review, not a canon update.
 
 ## Weekly intake
 
@@ -43,6 +45,7 @@ A complete causal story map in which every load-bearing unit has:
 - [[08 Story Loop/GAP-ANALYZER|GAP-ANALYZER]] — the front end for prioritizing missing structure.
 - `Units/` — one durable specification per Story Unit.
 - `Brainstorms/` — prepared context and author questions, followed by extracted decisions.
+- [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|CREATIVE-POSSIBILITIES-PASS]] — bounded synthesis of recent material into multiple non-canon directions.
 - `Runs/` — chronological records of proposals, critiques, gates, revisions, and outcomes.
 - `Templates/` — reusable Markdown forms.
 - `Evaluations/` — recurring failure modes and later quality calibration.

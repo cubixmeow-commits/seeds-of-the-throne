@@ -1,7 +1,7 @@
 ---
 type: development-system
 status: active
-updated: 2026-08-24
+updated: 2026-08-26
 scope: end-to-end routing for story development
 ---
 
@@ -14,6 +14,8 @@ Provide one executable path through the development environment. This document d
 ## Default pipeline
 
 `scope -> retrieve -> classify authority -> Gap Analyzer -> choose mode/scale -> diverge cheaply -> shortlist -> optional research -> expand one branch -> Character Factory as needed -> structure packet -> optional development prototype -> relevant critics -> author gate -> approved integration -> next-state record`
+
+When recent research, brainstorming, and canon have accumulated but no single candidate has been selected, insert [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|Research → Creative Possibilities / Inspiration Pass]] after status-safe extraction and gap analysis. It creates a portfolio for author interest selection; it does not replace the later author gate or critics.
 
 Finished-novel drafting is not part of the default pipeline.
 
@@ -77,6 +79,8 @@ Generate compact alternatives before detailed development.
 - Cascade: 3–5 broad options; follow only 1 working branch downward.
 
 An AI shortlist is a recommendation, not author approval or canon.
+
+For a weekly or cross-note inspiration request, use the Creative Possibilities Pass here. Keep the source window bounded, generate candidates across different families, and save the unreviewed packet in `Brainstorms/` with every candidate marked **NON-CANON EXPLORATION**.
 
 ## Step 6 — Research selectively
 
@@ -183,9 +187,9 @@ Stop before further expansion when:
 
 ## Current containment boundary
 
-The following are established at the current level: Konrad genuinely controlled his own city; he never considered failure; the later loss occurs in the largest empire's containment environment; Samuel remains an outsider; Samuel's earlier first-primary placement and bounded jurisdiction matter; Konrad later reactivates or migrates machinery there; the migration places it inside Samuel's jurisdiction; and the consequences help destroy the group.
+The following are established at the current level: Konrad genuinely controlled his own city; he never considered failure; the later loss occurs in the largest empire's containment environment; Samuel remains an outsider; Samuel's earlier first-primary placement and bounded jurisdiction matter; Konrad later reactivates or migrates machinery there; Samuel becomes decision-making alpha and Konrad eventually beta inside an ongoing power struggle; Samuel offers Konrad an apparently separate half but maintains the shared environment; and the false separation helps him take over initiatives and much of the group.
 
-The practical hierarchy, definition of primary, exact lock trigger, technical transfer, precise lie, automatic versus later powers, evidence, reset limits, and destruction chain remain unresolved. Route those questions to the dedicated piece-by-piece brainstorm. Do not use a prototype or exploration run to decide them silently.
+The exact lock trigger, technical transfer, supporting proof, automatic versus later powers, bounded resistance, evidence, reset limits, and destruction chain remain unresolved. Route those questions to the dedicated piece-by-piece brainstorm. Do not use a prototype or exploration run to decide them silently.
 
 ## Success condition
 

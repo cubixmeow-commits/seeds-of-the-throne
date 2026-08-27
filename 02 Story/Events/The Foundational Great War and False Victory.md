@@ -1,7 +1,7 @@
 ---
 type: event
 status: working
-updated: 2026-08-21
+updated: 2026-08-26
 ---
 
 # The Foundational Great War and False Victory
@@ -14,11 +14,11 @@ This is the current macro sequence for the foundational war. It establishes owne
 
 2. The faction converts an unresolved territorial, national, or imperial base into attempted world conquest. The older city-to-country-to-Great-War sequence belongs here if it survives later development; it no longer belongs to Samuel.
 
-3. Samuel is exiled from that organization approximately thirty years before the Great War after serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed.
+3. Samuel is exiled from that organization approximately thirty years before the Great War after serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed. Konrad always intends the impossible mission as a way to remove a threat and later absorb whatever Samuel builds.
 
 4. During that thirty-year interval, Samuel and George are placed into a situation inside the large pluralistic empire that will become the principal victor. George appears highly successful and his role appears unusually important.
 
-5. Konrad's takeover mission is an impossible setup designed to fail, although Samuel and George's authentic local success makes it feel achievable. They privately commit serious wrongdoing and choose to pursue the takeover. Its designed collapse produces an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
+5. Konrad's takeover mission is an impossible setup designed to fail, although Samuel and George's authentic local success makes it feel achievable. Samuel suspects betrayal, has made secret placement/prosecution deals, and expects the direct revolution to fail in a way that eventually places Konrad below him if Konrad reaches the same empire's containment hierarchy. They privately commit serious wrongdoing and choose to pursue the takeover. Its designed collapse produces an extremely humiliating exposure, and George is busted into containment for the private conduct and failed takeover.
 
 6. During the war, Samuel maintains contact with his parents and convinces them he wants forgiveness, reconciliation, or eventual readmission. He covertly uses that access and his position inside the future victor to sabotage Konrad's campaign.
 
@@ -28,7 +28,7 @@ This is the current macro sequence for the foundational war. It establishes owne
 
 9. Konrad, his senior partner, Samuel's parents, and other surviving senior figures lose the genuine city-based jurisdiction they held before defeat and enter the largest empire's containment environment. Konrad planned Samuel's failure but never considered that his own Great War could fail, so he has no prepared post-defeat hierarchy.
 
-10. Samuel remains a disdained outsider, but his earlier first-primary integration and separate bounded jurisdiction give him structural priority inside the relevant containment hierarchy. He conceals the depth of his wartime betrayal, lies about what his position can restore, and induces Konrad to reactivate or migrate Fitzgerald machinery inside Samuel's jurisdiction. The accepted hinge is established; the exact lock, transfer, permissions, evidence, surveillance path, and reset limits remain unresolved.
+10. Samuel remains a disdained outsider, but his earlier first-primary integration and separate bounded jurisdiction give him structural priority inside the relevant containment hierarchy. Samuel becomes the decision-making alpha and Konrad eventually the beta inside an ongoing power struggle. Samuel offers an apparently separate half of the environment, reinforces the false separation through story functionality, and induces Konrad to reactivate or migrate Fitzgerald machinery inside Samuel's shared jurisdiction. The exact lock, transfer, permissions, evidence, surveillance path, and reset limits remain unresolved.
 
 11. Samuel reframes George's apparent success, important role, humiliating exposure, and real containment as evidence that George secretly captured the victor from within.
 

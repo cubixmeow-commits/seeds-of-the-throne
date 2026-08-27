@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: working
-updated: 2026-08-17
+updated: 2026-08-26
 ---
 
 # Timeline
@@ -15,16 +15,16 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 5. Samuel grows up as a privileged prospective heir inside that organization. His parents discover serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed; they and the organization exile him approximately thirty years before the Great War begins.
 6. The current moon and planet are constructed; synthetics establish civilization. First human populations and hundreds of heirs are integrated over time.
 7. During the roughly thirty-year interval between exile and war, Samuel and George are placed into a situation inside the large pluralistic American-equivalent empire. George appears highly successful and his role appears unusually important. Who places them, the role's exact authority, and Samuel's own containment status at entry remain unresolved.
-8. Konrad's mission to take over the largest empire is an impossible setup designed to fail. Samuel and George achieve authentic local success, privately commit serious wrongdoing, and choose to pursue the takeover. The exact failure mechanism, conduct, plan, targets, and division of responsibility remain unresolved.
+8. Konrad's mission to take over the largest empire is an impossible setup designed to fail and remove Samuel as a threat. Samuel suspects the betrayal, has negotiated a conditional alpha placement, and expects the failed revolution eventually to funnel Konrad into the same containment hierarchy beneath him. Samuel and George achieve authentic local success, privately commit serious wrongdoing, and choose to pursue the takeover. The exact failure mechanism, conduct, plan, targets, and division of responsibility remain unresolved.
 9. The takeover collapses. In an extremely humiliating exposure, George is busted into containment for the private conduct and failed takeover. This establishes the cause and emotional character of George's containment while leaving its procedures and Samuel's simultaneous consequences open.
 10. Konrad's movement converts a still-unresolved political base into an attempted world-conquest project. The transfer from territorial or national power to the Great War belongs to Konrad's faction, not Samuel.
 11. During the Great War, Konrad's genuine line includes the biological son and daughter he has with his sister; the line later produces one genuine grandson.
 12. Samuel maintains contact with his parents, pretends to want reconciliation or readmission, and covertly sabotages the campaign from inside the future victorious environment. The movement's own authoritarian failures remain the primary cause of defeat.
 13. The victorious republic and its allies defeat Konrad's conquest regime; the faction's state, military project, and overt international network collapse.
 14. Konrad, his senior partner, Samuel's parents, and other surviving leaders fall into containment roles inside the same victorious order where Samuel already has experience.
-15. Samuel conceals the depth of his betrayal and becomes indispensable by interpreting the unfamiliar containment environment for the defeated faction.
+15. Samuel conceals the depth of his betrayal and becomes indispensable by interpreting the unfamiliar containment environment for the defeated faction. He becomes the structural alpha and Konrad eventually the beta in a continuing power struggle, then offers Konrad an apparently separate half of the shared environment while secretly retaining the underlying advantage.
 16. Samuel recasts George's earlier apparent success and important role, followed by his real containment placement, as evidence that George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
-17. Samuel uses this interpretive dependence to gain access to Konrad's breeding and genealogy systems, corrupt bloodlines and records, create replacement heirs, and begin replacing Konrad's functions.
+17. Samuel uses this interpretive dependence to gain access to Konrad's breeding and genealogy systems, corrupt bloodlines and records, create replacement heirs, and begin replacing Konrad's functions. Across roughly eighty years he personally maximizes participating bloodlines, producing tens of thousands of unauthorized children while keeping the pattern partitioned for blackmail.
 18. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
 19. The False Victory develops through an approximately eighty-year working middle, currently organized into four provisional eras: the fragile first lie and manufactured proof; inherited victory mythology and the children of victory; the distributed invisible empire and imaginary jurisdictions; and the world Samuel claims to own as legitimate institutions continue to act independently.
 
@@ -40,7 +40,9 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 21. Roughly eighty years after the Great War Witness thread, Sylvan Elaria enters the modern thread as the Inheritor. Orzai belongs to his generation and is slightly younger than him.
 22. Orzai's older brother, approximately a decade older than Sylvan, serves in a developmental placement inside a consequential company comparable to the government-integrated decision-systems company associated with Samuel's replacement heir.
 23. Sylvan accumulates evidence connecting original events, Samuel's hidden sabotage, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
-24. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
+24. Samuel tells Konrad that defeating and processing Sylvan will transfer legitimate control and give access to the synthetic command structure. The claimed superweapon has almost no effect; Sylvan's explanations increasingly fit observed reality better than Samuel's.
+25. Sylvan neutralizes the attacks and presents dozens of visibly recognizable unauthorized children. Konrad realizes the bloodlines were targeted, the apparent separation never existed, and Samuel maintained the shared environment. Sylvan reveals that Samuel and Konrad must stop the rampage and cooperate with legitimate leaders or end in complete failure.
+26. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
 
 ## Visual chronology rules
 

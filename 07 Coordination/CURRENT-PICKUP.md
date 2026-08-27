@@ -1,13 +1,22 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-08-25
+updated: 2026-08-26
 scope: single current pickup point
 ---
 
 # Current Pickup
 
 The active workflow is the horizontal **Macro Shape** sweep from [[Story Completion Workflow/CURRENT]]. The authoritative author-facing checklist remains [[Weekly Synthesis/CURRENT-COMPLETION-TODO]].
+
+## 2026-08-26 creative-pass checkpoint
+
+- The Samuel / Konrad / Sylvan author-gate decisions from the 2026-08-26 mobile session have been reconciled into the canon and development notes.
+- [[08 Story Loop/CREATIVE-POSSIBILITIES-PASS|Research → Creative Possibilities / Inspiration Pass]] is now a first-class Story Loop component.
+- Its first bounded output is [[08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001]].
+- Every generated possibility remains **NON-CANON EXPLORATION** with an `UNREVIEWED` author status.
+- This sidecar pass did not advance, complete, or replace SC-010. Resume the Macro Shape sweep at the author gate below after the author reviews or parks the creative packet.
+- The Story Discipline iPhone app concept remains preserved in [[00 Inbox/Mobile Notes/2026-08-26 - Story Discipline App and Creative Possibilities Pass]]; no app implementation or implementation planning began in this run.
 
 ## Current workflow state
 
