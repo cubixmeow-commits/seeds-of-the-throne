@@ -177,6 +177,21 @@ Silence, enthusiasm from the model, or a high rating never counts as promotion.
 
 ## Desktop and weekly workflow
 
+### Docs website projection
+
+The public docs interface at `docs/ideas.html` reads [[08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS|CURRENT-EXPERIMENTAL-IDEAS]], which points to one active packet.
+
+The active packet supplies four live interface regions:
+
+- `Raw candidate portfolio` supplies the idea list and detail view;
+- `Research inputs` shows which findings inspired the pass;
+- `Suggested research queue` supplies Markdown checkboxes for research that could change or strengthen candidates;
+- `Author review board` supplies each idea's current author status.
+
+To update the website, edit the Markdown packet—not the rendered page. Use `UNREVIEWED`, `Explore`, `Maybe`, `Reject`, or `Promote` in the review board. Mark research complete with `[x]`. Change the stable pointer only when a newer packet should replace the current public workspace.
+
+The website remains read-only and cannot approve canon.
+
 ### Current Pickup use
 
 A Current Pickup may request a possibilities pass as a bounded sidecar without replacing the active Story Completion task. Record:

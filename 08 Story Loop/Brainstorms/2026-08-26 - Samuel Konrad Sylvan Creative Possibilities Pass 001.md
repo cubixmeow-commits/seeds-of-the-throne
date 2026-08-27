@@ -236,6 +236,29 @@ scope: Samuel, Konrad, Sylvan, false separation, bloodline exposure, final coope
 - Do not use synthetic refusal as a magical moral judgment; any command limitation must arise from established permission architecture.
 - Do not collapse George's distinct endgame function into the Samuel/Konrad confrontation without a sequence-level review.
 
+## Suggested research queue
+
+- [ ] **R-01 — Ethical disclosure without genealogical spectacle**
+  - **Supports:** P-04, P-09
+  - **Question:** How have investigators, truth commissions, and survivor-led processes proven systemic reproductive or identity abuse while minimizing involuntary disclosure of individual parentage?
+  - **Use:** Define consent, anonymization, custody, representative evidence, and descendant authority before designing Sylvan's presentation.
+- [ ] **R-02 — Failed predictions under motivated reasoning**
+  - **Supports:** P-02, P-07
+  - **Question:** Which forms of prediction logging, precommitment, and repeated forecast comparison make discrepancies difficult to rationalize away for a committed believer?
+  - **Use:** Make the failure ledger psychologically and procedurally credible without granting Sylvan perfect observability.
+- [ ] **R-03 — Common knowledge against distributed blackmail**
+  - **Supports:** P-04
+  - **Question:** What communication structures let isolated targets discover a shared coercion pattern and coordinate safely when each fears being the first to disclose?
+  - **Use:** Turn private lineage leverage into a believable coordinated refusal rather than an instant faction-wide reversal.
+- [ ] **R-04 — Human authorization in safety-critical command systems**
+  - **Supports:** P-05, P-06
+  - **Question:** How do mature command systems distinguish access, recommendation, authorization, identity, and accountable consent when a powerful operator attempts to seize control?
+  - **Use:** Pressure-test the cooperation task and synthetic-command possibility without inventing a magical moral refusal.
+- [ ] **R-05 — Public surrender as political theater**
+  - **Supports:** P-01
+  - **Question:** How have staged capitulations, coronations, trials, or truth presentations changed meaning in front of the same witnesses, and which ritual details made the reversal legible?
+  - **Use:** Give the coronation/audit possibility concrete dramatic structure without prematurely choosing the final venue.
+
 ## Author review board
 
 | ID | Author status | Notes / combination instruction |
