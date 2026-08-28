@@ -160,3 +160,4 @@ X caption:
 - [ ] Generate one episode only when the author asks to do one first.
 - [ ] Inspect text spelling, animal fidelity, composition, size, and color before delivery.
 - [ ] Provide the final image and factual X caption; do not publish without an explicit publishing request.
+

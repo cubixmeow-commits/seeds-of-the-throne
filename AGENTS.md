@@ -19,6 +19,10 @@ When using a skill:
 
 For image generation, use `skills/create-seeds-images/SKILL.md` and its machine-readable visual registry. Attach the approved identity references it specifies. Generated artwork cannot establish story canon, and an unapproved output cannot become the sole reference for later generations.
 
+## Subagent delegation
+
+When the author says **Use the Seeds delegation protocol**, read `07 Coordination/SUBAGENT-PROTOCOL.md` and follow it for the current request. Delegate only concrete independent workstreams, keep subagent work read-only by default, prevent overlapping file ownership, and leave canon decisions and final integration with the primary agent. The activation phrase authorizes delegation only; it does not expand permission for external writes, destructive actions, commits, pushes, or unrelated work.
+
 ## Authority and status
 
 - The author has final authority.

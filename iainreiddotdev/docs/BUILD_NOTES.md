@@ -68,6 +68,21 @@ JavaScript. Its only page-specific asset is
 `project-explorer/assets/project-explorer.css`; appearance behavior is reused
 from `assets/js/site.js`.
 
+The front page also presents a spoiler-aware Story Completion summary. It reads
+the weekly TODO pointer, the current weekly checklist, and the completion
+workflow pointer directly from the deployed Markdown vault. Those records remain
+the source of truth: the page calculates progress from priority-task checkboxes
+and displays the current sweep and task without duplicating or modifying story
+state. Public-facing labels deliberately describe broad working fronts rather
+than unresolved story content. If any required source is unavailable, the
+module shows an unavailable state instead of inventing values. Its full-roadmap
+link opens `docs/todo.html`.
+
+The public page intentionally has only two working areas after its introduction:
+the Story Completion summary and the repository explorer. The former build
+ledger was removed; its useful scope description and live document count now
+appear in the explorer introduction.
+
 ## Retro (MEOWNET BBS)
 
 `retro/index.php` is a self-contained joke page: a 1990s dial-up bulletin board

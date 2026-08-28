@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-08
+updated: 2026-08-17
 character: George White
 theme: manufactured reality, public roles, remote weaponization, sacrificial confrontation
 ---
@@ -16,9 +16,13 @@ In reality, he was living at the bottom of an ocean.
 
 His life is best understood as a submarine trapped beneath miles of polar ice. George was born into a civilization large enough to build worlds, manage colonization systems, reconstruct entire historical environments, and place human beings inside realities whose true purpose they might never understand. Yet George knew virtually none of it.
 
-His father made certain of that.
+Samuel later makes certain that George remains inside a controlled interpretation of it.
 
-George was placed into the process early, before the rest of his father's defeated faction properly understood what had happened to them. From that point forward, his father did not need to stand beside him to control his life. He could remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
+Roughly thirty years separate Samuel's exile from the Great War. During that interval, Samuel and George are placed into a situation inside the future victorious republic where George appears highly successful and his role appears unusually important. Who places them and what authority the role truly carries remain unresolved.
+
+Konrad has given Samuel an impossible mission to take over the largest empire, designed from the beginning to fail. George's authentic apparent success helps make the mission feel possible. George and Samuel then commit serious wrongdoing in private and choose to pursue the takeover. Its designed collapse produces an extremely humiliating exposure. George is busted into containment for the private conduct and failed takeover.
+
+Once Samuel converts George's apparent success and subsequent containment into the False Victory, he does not need to stand beside his son to control the interpretation of that life. He can remain far away, communicating through the systems surrounding George, through carefully selected people, through institutional structures, through information, and eventually through the lifelong intelligence bound to George himself.
 
 George became the captain of a submarine whose course had already been plotted by someone on the surface.
 
@@ -26,7 +30,13 @@ He could walk around the bridge. He could issue orders. He could receive reports
 
 What he could not do was surface.
 
-## Three public roles
+## The prewar apparent-success role
+
+Before the Great War, George has already experienced a role that looks highly successful and important. That visible success later gives Samuel authentic facts to weaponize: George really did appear consequential inside the largest government before he was busted.
+
+Whether this role is separate from, precedes, or becomes the first of the later three public roles remains unresolved.
+
+## Three later public roles
 
 George's approximately seventy-five-year period in the public story is divided into three major public roles followed by a final thirty-year campaign against Sylvan Elaria.
 

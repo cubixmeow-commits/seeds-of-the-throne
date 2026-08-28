@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coach Seeds Writing"
+  short_description: "Coach your craft or show focused examples"
+  default_prompt: "Use $coach-seeds-writing to coach me through this passage or demonstrate the technique with short non-canon samples."

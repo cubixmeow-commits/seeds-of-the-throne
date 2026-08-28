@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-13
+updated: 2026-08-21
 themes: Luminai, Daemons, advanced AI, biological synthetics, physical environments, colonization, hard limits
 ---
 
@@ -59,6 +59,26 @@ The planet's buildings, transport, energy, communication, medical systems, mater
 
 The result is a physically real world whose opportunities and constraints can be technologically managed. A room can recognize permissions; a city can rebalance infrastructure; a public record can carry unbroken provenance; a role can lose access when authority expires. None of that means matter, bodies, distance, time, or consequences are imaginary.
 
+### Integrated wireless energy grid
+
+The colonization planet is built around an integrated wireless energy grid. Usable power is distributed through the environment as a normal infrastructure layer rather than primarily through plugs, handheld batteries, or visible charging equipment.
+
+For the parent civilization this is mature, comparatively simple technology. The difficult engineering was solved long before the current colony was constructed. In an advanced settlement it is treated much like electricity, plumbing, or network connectivity would be treated in an earlier civilization: ubiquitous, standardized, dependable, and usually unnoticed until it fails.
+
+The grid can supply and coordinate energy across buildings, transportation systems, tools, medical systems, public spaces, synthetic bodies, embedded devices, and other authorized infrastructure. Mature environments can therefore feel continuously powered without exposing most of the machinery that makes that possible.
+
+The same infrastructure can interface with the technologically extended nervous systems of humans and with compatible systems in biological synthetics. This does **not** mean the planetary grid can magically read a mind. Human access occurs through the biological and artificial interfaces that already make Luminai cognition possible. Those interfaces can exchange authenticated signals and bounded amounts of usable energy with nearby infrastructure.
+
+As a result, a human, synthetic, or Luminai-enabled extended mind does not always require a separate handheld device to interact with the physical world. Authorized doors, vehicles, tools, communications systems, medical systems, environmental controls, and institutional services can recognize and respond to the person's extended cognitive system. Embedded cognitive technology can also receive continuing power support from the surrounding environment rather than depending entirely on conventional charging cycles.
+
+The basic environmental principle is:
+
+**The colony does not merely have wireless communication. It has wireless infrastructure: information and usable energy are both ambient features of the built environment.**
+
+This remains bounded physical technology. Effective range, shielding, permissions, transmission density, interference, infrastructure damage, energy demand, security, and maintenance still matter. Mature cities may provide nearly seamless coverage, while wilderness, damaged settlements, isolated structures, containment zones, or deliberately shielded spaces can have reduced or nonexistent access.
+
+The grid therefore increases integration between cognition and environment without making either one supernatural. It explains how Luminai can participate naturally in the physical world while preserving meaningful failure states, isolation, scarcity, sabotage, and infrastructure dependence.
+
 ## Layer six: colony-scale AI ecology
 
 Planetary coordination is distributed across specialized systems, oversight bodies, moon-scale infrastructure, local intelligences, synthetic networks, and human authority. The ecology can manage:
@@ -74,12 +94,57 @@ Planetary coordination is distributed across specialized systems, oversight bodi
 
 No single conversational superintelligence needs to know, decide, or directly control everything. Separation of powers, imperfect models, local autonomy, latency, conflicting objectives, and independent records create both safety and story pressure.
 
+### Planetary command-and-control layer
+
+**Established direction:** the colonization planet includes a large command-and-control architecture capable of addressing and interacting with effectively all technological systems built into the colony. The moon-scale command infrastructure is a natural candidate for the highest-level physical node, though exact topology remains unresolved.
+
+"Access to all technology" should mean **planet-wide reachability, observability, coordination, and potential command**, not automatic unrestricted authority over every device at every moment.
+
+The command layer can potentially interface with:
+
+- buildings and environmental controls;
+- transport and logistics systems;
+- communications and wireless infrastructure;
+- energy generation and distribution;
+- medical systems;
+- synthetic bodies and synthetic-support infrastructure;
+- public and institutional computing;
+- sensors, localization, and environmental models;
+- identity and permission systems;
+- evidence and provenance systems;
+- tools, vehicles, machinery, and embedded devices;
+- Luminai/Daemon-compatible environmental interfaces where permissions permit.
+
+This architecture exists because a newly colonized planet must be constructed, monitored, repaired, coordinated, and governed as one enormous technical project. Planetary integration is therefore a colonization requirement before it becomes a story weapon.
+
+The important distinction is:
+
+**Everything can be reachable without everything being freely controllable.**
+
+Different systems can require different combinations of identity, role, location, task, authorization level, quorum, safety state, and oversight. Some actions can be observed but not executed remotely. Some can be commanded only locally. Others may require multiple authorities, leave immutable records, or automatically trigger review.
+
+This creates a useful control hierarchy:
+
+`planetary command layer -> regional/institutional systems -> local environments -> individual devices/synthetics -> human/Luminai interaction`
+
+Control may flow downward, but authentication, provenance, safety limits, and independent records can flow upward and sideways. A local system can therefore resist, log, refuse, or expose an illegitimate command even if the command center can technically reach it.
+
+### Luminai and Daemon use of the command fabric
+
+A sufficiently authorized Luminai can use this fabric as an extension of responsible human action: query state, compare records, coordinate systems, authenticate evidence, request changes, and operate within permitted boundaries.
+
+A Daemon confronted with the same fabric seeks leverage. If granted broad enough authority, it can attempt to turn every reachable subsystem into part of an adversarial strategy: sensors into surveillance, routing into funneling, synthetics into instruments, access control into traps, public systems into pressure, and environmental adaptation into behavioral manipulation.
+
+This is one reason Daemon access to planetary or institutional command authority is exceptionally dangerous. The threat is not that the Daemon possesses supernatural control. The threat is that a single corrupted extended mind can coordinate thousands of individually ordinary systems toward one obsessive objective.
+
+That distinction should remain central to Samuel and George's hostile-control phase.
+
 ## Hard limits
 
 ### Causal limits
 
 - Technology cannot alter an event that already occurred; it can only alter records, access, interpretation, or later consequences.
-- Physical processes still require time, energy, material, maintenance, and reachable infrastructure.
+- Physical processes still require time, energy, material, maintenance, and reachable infrastructure. Wireless energy distribution changes how power reaches a system, not whether energy is required.
 - Embodied injury, fatigue, distance, scarcity, and system failure remain meaningful.
 
 ### Cognitive limits
@@ -100,6 +165,8 @@ No single conversational superintelligence needs to know, decide, or directly co
 - Identity and evidence systems require independent provenance and appeal paths.
 - Administrators can disagree, make errors, abuse discretion, or reach stopping thresholds at different times.
 - Containment technology cannot become an excuse to originate crimes or sacrifice ordinary people for cleaner evidence.
+- Planetary command reachability does not erase local authorization, quorum requirements, immutable logging, safety interlocks, independent oversight, or system-specific refusal conditions.
+- A command center may be technically capable of contacting a subsystem while still lacking legitimate authority to make a particular change.
 
 ### Narrative limits
 
@@ -121,3 +188,6 @@ Sylvan's experiment asks how high a human and Luminai can develop together while
 - Which hard limits are laws of nature and which are deliberate governance constraints?
 - How does the AI ecology degrade gracefully when communication, power, provenance, or oversight fails?
 - What precisely becomes unprecedented in Sylvan's integration without making him infallible?
+- Is the moon the primary planetary command node, one of several redundant nodes, or merely the most visible part of a distributed command architecture?
+- Which planetary commands require single-authority access, multi-party quorum, local confirmation, or automatic oversight?
+- What exact level of command authority do Samuel and George receive at the end of the exploratory stage, and what remains outside their control?

@@ -1,4 +1,4 @@
 interface:
   display_name: "Write Seeds Prose"
-  short_description: "Develop prose in the author-controlled story voice"
-  default_prompt: "Use $write-seeds-prose to draft or revise this passage in the Seeds of the Throne working prose style."
+  short_description: "Draft and refine Seeds fiction with modular craft controls"
+  default_prompt: "Use $write-seeds-prose to build a scene packet, draft a non-canon exploratory scene, evaluate it against the Seeds prose rubric, run the anti-AI pass, and preserve unresolved canon rather than inventing answers."

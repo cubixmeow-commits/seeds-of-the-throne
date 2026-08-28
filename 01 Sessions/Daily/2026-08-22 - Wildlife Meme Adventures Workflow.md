@@ -31,3 +31,4 @@ The Lake Los Carneros gull photograph is landscape and uses a palette derived fr
 ## Durable result
 
 The governing public-workflow note is [[05 Public/Meme Adventures/README|Meme Adventures]].
+

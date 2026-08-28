@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#090a08">
+  <meta name="description" content="Live non-canon story experiments and suggested research for Seeds of the Throne, read from the current creative-possibilities packet.">
+  <title>Experimental Ideas | Seeds of the Throne</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=20260826">
+  <script src="app.js?v=20260826" defer></script>
+  <script src="ideas.js?v=20260826" defer></script>
+</head>
+<body class="ideas-page">
+  <a class="skip-link" href="#main">Skip to experimental ideas</a>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Seeds of the Throne, home"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav"><span>Explore</span><span aria-hidden="true">+</span></button>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation"><a href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Chronology</a><a href="archive.html">Making the story</a><a href="todo.html">Progress</a><a aria-current="page" href="ideas.html">Ideas</a></nav>
+  </header>
+
+  <main id="main">
+    <section class="ideas-intro" aria-labelledby="ideas-title">
+      <div>
+        <p class="eyebrow">Live creative-possibilities workspace</p>
+        <h1 id="ideas-title">Experimental ideas</h1>
+        <p>Research and recent canon generate possibilities for author review. Nothing here becomes canon until the author explicitly approves it.</p>
+      </div>
+      <dl class="ideas-summary" aria-label="Current idea totals">
+        <div><dt>Ideas</dt><dd id="idea-count">—</dd></div>
+        <div><dt>Awaiting review</dt><dd id="review-count">—</dd></div>
+        <div><dt>Research prompts</dt><dd id="research-count">—</dd></div>
+      </dl>
+      <p id="ideas-status" class="loading-status" role="status" aria-live="polite">Loading the current experimental packet…</p>
+    </section>
+
+    <section class="ideas-workspace" aria-labelledby="workspace-title">
+      <div class="ideas-list-panel">
+        <div class="ideas-panel-head">
+          <div><p class="eyebrow">Author review</p><h2 id="workspace-title">Current possibilities</h2></div>
+          <div class="idea-filters" role="group" aria-label="Filter ideas by author status">
+            <button type="button" class="is-active" data-idea-filter="all" aria-pressed="true">All</button>
+            <button type="button" data-idea-filter="unreviewed" aria-pressed="false">Unreviewed</button>
+            <button type="button" data-idea-filter="explore" aria-pressed="false">Explore</button>
+            <button type="button" data-idea-filter="maybe" aria-pressed="false">Maybe</button>
+          </div>
+        </div>
+        <div id="idea-list" class="idea-list" aria-busy="true"></div>
+      </div>
+
+      <aside class="idea-inspector" aria-labelledby="inspector-title">
+        <p class="eyebrow">Selected idea</p>
+        <div id="idea-detail"><h2 id="inspector-title">Choose a possibility</h2><p class="idea-empty">Select an idea to see what it builds on, the story function it could serve, its risks, and its next author gate.</p></div>
+      </aside>
+    </section>
+
+    <section class="research-foundation" aria-labelledby="foundation-title">
+      <div class="signal-heading"><div><p class="eyebrow">Research foundation</p><h2 id="foundation-title">What inspired this pass</h2></div><p>Research supplies mechanisms and constraints. It does not establish story facts or select a direction.</p></div>
+      <ul id="research-inputs" class="research-inputs"></ul>
+    </section>
+
+    <section class="research-queue" aria-labelledby="research-title">
+      <div class="signal-heading"><div><p class="eyebrow">Suggested next research</p><h2 id="research-title">Questions that could change the ideas</h2></div><p>Checkboxes update from the current Markdown packet, using the same live-source approach as Story Progress.</p></div>
+      <div id="research-list" class="research-list" aria-busy="true"></div>
+    </section>
+
+    <section class="source-section" aria-labelledby="ideas-source-title">
+      <div><p class="eyebrow">Authority and provenance</p><h2 id="ideas-source-title">The page owns no ideas.</h2><p>The stable pointer selects a Markdown packet. That packet owns the wording, research queue, review status, and author gate. The website only renders it.</p></div>
+      <div class="source-links"><a id="ideas-source-link" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/08%20Story%20Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md">Open current ideas pointer</a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/08%20Story%20Loop/CREATIVE-POSSIBILITIES-PASS.md">Read the creative-possibilities protocol</a><a href="todo.html">Open story progress</a></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div><strong>Seeds of the Throne</strong><p>AI-assisted development. Author-approved canon. Human-written final fiction.</p></div><nav aria-label="Footer navigation"><a href="archive.html">How the vault works</a><a href="todo.html">Story progress</a></nav></footer>
+</body>
+</html>

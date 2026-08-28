@@ -11,6 +11,8 @@ themes: authoritarian failure, story engine, leadership cultivation, morality, L
 
 The contained fascist system supplies recurring stories because its failures grow from its own operating principles. Outside opposition does not need to invent every weakness. The hierarchy repeatedly creates the conditions for betrayal, misjudgment, corruption, and collapse.
 
+Konrad demonstrates the governing character principle: authoritarian failure does not require an unintelligent leader. His strategic, persuasive, and organizational abilities create real early success. The same abilities become self-defeating when ideological certainty, personal authority, loyalty selection, and contempt for limits prevent correction. Capability explains why the system becomes powerful; its operating principles explain why that power becomes brittle.
+
 ## Self-generated weaknesses
 
 ### Absolute hierarchy suppresses correction
@@ -32,6 +34,8 @@ The movement requires threats to justify emergency power and internal unity. Pea
 ### Propaganda captures its authors
 
 Public stories initially protect the regime from consequences. Over time, leaders make decisions using their own revisions. Defeat becomes secret victory, failures become sabotage, and suppressed evidence becomes proof of conspiracy. The system loses contact with reality while increasing the punishment for anyone who restores it.
+
+Konrad's arrogance intensifies this mechanism. He is desperate to remain the winner and cannot admit that an inferior opponent correctly judged his limits. When material victory becomes impossible, he tries to control the meaning of defeat. This makes Samuel's False Victory emotionally useful before it becomes institutionally compulsory: it lets Konrad preserve patriarchal identity while authorizing the dependencies that subordinate him.
 
 ### Permanent patriarchs make succession impossible
 
@@ -59,6 +63,10 @@ Each episode should contain a local objective, a real institutional pressure, a 
 ## Positive cultivation counterpoint
 
 The same technologically constrained world can give legitimate future leaders unusually rich opportunities to develop. The objective is not merely to teach that fascism is wrong. It is to place future leaders in bounded roles where they must discover how to resist domination without reproducing it.
+
+Sylvan and Orzai provide a current character expression of the intended formation. Both are trained toward contact with reality, comfort with correction, respect for autonomy and consent, competence under constraint, long-horizon systems thinking, distributed authority, responsibility for indirect consequences, cross-cultural cooperation, and ethical restraint. Training can create repeated opportunities to practice these capacities; it cannot guarantee their moral use.
+
+Temperament does not determine leadership value. Sylvan's outgoing style supports initiation, broad trust, accessible explanation, and collaborative momentum. Orzai's more reserved and introverted style supports sustained attention, resistance to social pressure, durable trust, precise intervention, and protection of excluded voices. Each must develop against the failure mode of the same strength: Sylvan against overextension and premature movement; Orzai against over-withholding and delayed warning.
 
 They must practice questions such as:
 

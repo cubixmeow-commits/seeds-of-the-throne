@@ -2,10 +2,14 @@
 type: character
 status: working
 visual_reference: locked-development
-updated: 2026-08-07
+updated: 2026-08-23
 ---
 
 # Sylvan Elaria
+
+## Journal artifact
+
+Sylvan's working investigative-notebook profile is [[02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Journal Profile]]. It preserves questions, competing hypotheses, provenance, and changing evidence density without granting him later knowledge early.
 
 ## Role
 

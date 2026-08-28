@@ -1,16 +1,21 @@
 ---
 type: qa
 status: active
-updated: 2026-08-13
+updated: 2026-08-21
 ---
 
 # Contradictions
 
 | ID | Conflict | Current handling |
 |---|---|---|
-| C-001 | The Witness, Inheritor, and Protagonist may represent two or three characters. | Preserve all three notes until a deliberate structural decision. |
+| C-001 | Sylvan carries the modern Inheritor role, while the earlier Witness is now placed provisionally among Orzai's Great War-era parents; viewpoint ownership remains unresolved. | Decide which parent carries the Witness role and whether Sylvan is the sole primary narrator or the Witness owns substantial earlier viewpoint material. Orzai is Sylvan's younger contemporary, not the Witness. |
 | C-002 | Disclosure Wars may be backstory, current plot, or both. | Timeline remains working and undated. |
 | C-003 | AI is described in the archive as organization-only, while the current project uses GPT for story development. | Current rule: GPT collaborates on development and organization; author controls decisions and voice. |
 | C-004 | The reconstruction is described both as the parent civilization's history and as possibly convergent. | Keep origin unresolved; no Earth exists in final story data. |
 | C-005 | The former Luminai bonding note required same-gender presentation, while the author's later decision establishes a developing complementary-gender tendency for heterosexual humans. | The 2026-08-13 decision supersedes the former presentation rule. Luminai remain extended cognition, the tendency is not universal, and presentation cannot create a romantic substitute. |
 | C-006 | An older overview described the other son's mother as another contained leader's wife, while later explicit decisions identify Konrad Fitzgerald's sister. | Use Konrad's sister. `Samuel Jr.` remains provisional, and the stale overview was corrected on 2026-08-13. |
+| C-007 | Older compiled notes assigned city stewardship, national capture, attempted world conquest, and the Great War to Samuel; the 2026-08-17 decision assigns the conquest project to Konrad's older faction. | Konrad's faction owns the conquest and war. Samuel is already exiled and contained inside the future victor, where he performs reconciliation and sabotages the faction. Preserve older dated sessions as history, not current canon. |
+| C-008 | Samuel's former approximately fifty-year rampage plus several-decade processing chronology no longer maps cleanly onto the exile, earlier containment, wartime sabotage, and age-220 anchor. | Keep age 220 as working; retire the old phase durations and remap his age at misconduct, exile, entry into containment, prewar experience, and the False Victory period before restoring any duration. |
+| C-009 | Older material states Samuel deliberately breaks and places George as a preplanned fallback before launching his own war. The revised sequence instead makes Konrad the author of an impossible prewar takeover mission designed to fail; George's authentic apparent success precedes his and Samuel's culpable wrongdoing, chosen takeover acts, humiliating collapse, and George's containment. | Use the 2026-08-23 impossible-mission decision. Konrad still owns the later Great War. Leave the operational placement, guaranteed-failure mechanism, private conduct, exact takeover acts, Samuel's consequences, and the prewar role's relationship to George's later public roles unresolved. |
+| C-010 | Current context and older compiled summaries described the defeated Fitzgerald faction as falling into “Samuel's environment,” which can imply that Konrad never held independent authority or that the whole victorious containment system belongs to Samuel. | Konrad genuinely controls his own city before a defeat he never considered. The later group enters the largest empire's containment environment, within which Samuel has a separate bounded jurisdiction and earlier first-primary structural priority. Samuel remains an outsider. Exact mechanics remain unresolved. |
+| C-011 | Archive Thriller / Dark Historical Reconstruction was described as the default project-development style, while the author's later August 21 direction makes finished-novel prose downstream of short readable development prototypes. | Use Development Prototype Style for routine story simulation. Preserve Archive Thriller / Dark Historical Reconstruction as a later manuscript candidate and optional supporting register, not the default development output. |

@@ -1,14 +1,14 @@
 ---
 type: development-overview
 status: active
-updated: 2026-08-13
+updated: 2026-08-26
 ---
 
 # Seeds of the Throne — Development Overview
 
 ## The story in one paragraph
 
-A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. A contained authoritarian receives a city, captures a country, and launches the Great War in an attempt at global conquest. Before his city falls, he places his son George inside the future victorious republic. After total defeat, he convinces the surviving organization that George secretly captured the victor and that their containment roles are covert offices in a continuing plan. For a century, story functionality lets him revise failure while he manipulates breeding, genealogy, and the faction's racist purity doctrine to blackmail leading families. George's public life becomes evidence for a victory that never happened. Sylvan Elaria preserves the record connecting events, revised stories, lineage abuse, and command responsibility. By the final confrontation, the father sends George into an unwinnable attack as both weapon and scapegoat, and George must choose while discovering what his life was built to prove.
+A civilization that has defeated aging uses a constructed colonization planet both to contain dangerous people and to cultivate future leaders. About thirty years before Konrad Fitzgerald's fascist purity organization starts the Great War, Konrad disguises Samuel Franklin's exile as an impossible mission to take control of the largest empire. Samuel suspects the mission will fail and separately bets on a negotiated containment placement that will put Konrad beneath him if Konrad later reaches the same hierarchy. Samuel and George enter an important-seeming situation inside its government; authentic apparent success precedes private wrongdoing and a chosen takeover whose collapse humiliatingly busts George into real containment. During Konrad's conquest, Samuel pretends to seek family reconciliation while covertly sabotaging the campaign. Konrad genuinely controls his own city and never considers his own failure. After defeat moves the surviving leadership into the largest empire's containment environment, Samuel remains an outsider but becomes decision-making alpha while Konrad eventually becomes beta. Samuel offers an apparently separate half, maintains the shared environment beneath it, and disguises subordination as restoration. Across roughly eighty years, he personally maximizes the faction's bloodlines, producing tens of thousands of unauthorized children while taking control of genealogy, descendants, and replacement heirs. His revenge evolves into an attempt to replace Konrad. Sylvan Elaria preserves the record connecting betrayal, revised history, lineage abuse, and command responsibility. The hierarchy's technical implementation remains unresolved.
 
 The antagonist's endpoint is total control rather than ordinary conquest. His movement seeks authority over government, history, culture, movement, family, ancestry, succession, and personal interpretation. His god-ruler claim places that authority beyond appeal: every contradiction can be renamed as hidden design. The faction believes it survived to rule humanity, but it is actually the first population he fully conquers through isolation, shame, fraudulent history, and control of legitimacy.
 
@@ -33,7 +33,7 @@ The world systems and endgame are substantially clearer than the opening and mid
 
 - Approximately 130 years old chronologically and visually about 75.
 - The Throne figure's son and the **Throwaway Prince**.
-- Placed inside the future victorious republic before the King's original city falls.
+- Appears highly successful in an important-seeming prewar role inside the largest government before private joint wrongdoing with Samuel and a badly planned takeover end in his humiliating bust into containment.
 - His public career is used to convince the defeated contained organization that he secretly controls the victor.
 - Lives roughly seventy-five years in the public story.
 - Serves three major public roles of roughly fifteen years each: administrator, statesman, and senior authority.
@@ -64,12 +64,13 @@ The world systems and endgame are substantially clearer than the opening and mid
 
 ### Samuel Franklin / the Throne figure — established name, working antagonist structure
 
-- Contained authoritarian who entered early and converted procedural seniority into false legitimacy.
-- Converts city stewardship into national capture and initiates the Great War through attempted global conquest.
+- Failed privileged heir born to senior members of Konrad's organization, then exiled after serious misconduct and separately contained inside the future victor.
+- Maintains contact with his parents during Konrad's conquest, performs reconciliation, and covertly sabotages the campaign without becoming its original leader or sole cause of defeat.
+- Converts preexisting containment experience and a separate bounded jurisdiction into structural leverage when Konrad's defeated faction enters the largest empire's containment environment; he remains an outsider in Konrad's eyes.
 - Knows his faction lost and has maintained the **False Victory** for decades.
 - Claims George captured the victorious republic and that containment roles are covert offices.
 - Uses certification, records, genealogy, bloodline control, and managed information to create leverage.
-- Abuses the fallen empire's breeding and lineage program to create individualized blackmail across leading families.
+- Captures Konrad's breeding and lineage program to avenge his exile, corrupt pedigree and succession, create replacement heirs, and build individualized blackmail across leading families.
 - Treats identities, descendants, and institutions as instruments.
 - Manipulates George and George's Daemon into a proxy attack on Sylvan.
 - Plans to distance himself from George's final violence and survive through substitution.
@@ -131,7 +132,7 @@ George must choose before his identity can recover
 - A public phase change can reduce the information asymmetry on which concealed power depends.
 - Story functionality permits bounded influence over public interpretation while a sealed record preserves operational reality and provenance.
 - Much of the first colonization century contains and exposes coercive movements while training legitimate heirs to resist cultic mass manipulation.
-- The Great War grows from the King's city opportunity into national capture and attempted global conquest.
+- The Great War grows from Konrad's faction's still-unresolved political base into national or imperial expansion and attempted global conquest. Any retained city-to-country sequence belongs to that faction, not Samuel.
 - The defeated organization survives through a False Victory that interprets containment as successful infiltration of the victor.
 
 ## Core thematic structure
@@ -170,10 +171,10 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 
 ### Protagonist structure
 
-- Is Sylvan the tested first-person Protagonist?
-- Is he the modern Inheritor under a developed identity?
-- Is the Witness a separate earlier narrator, Sylvan's prior identity, or superseded architecture?
-- Are there one, two, or three principal viewpoint characters?
+- Sylvan is established as the modern Inheritor and leading primary protagonist.
+- Orzai is established as Sylvan's intended partner, belongs to his generation, and is slightly younger than him. She is not the Witness.
+- One of Orzai's Great War-era parents is the leading candidate for the earlier Witness role.
+- Is Sylvan the sole primary first-person narrator, or does the Great War Witness own substantial earlier viewpoint material?
 
 ### Opening
 
@@ -230,7 +231,7 @@ Research remains advisory. Findings become story material only through deliberat
 
 ### 1. Choose the protagonist architecture
 
-Determine how Sylvan relates to the Witness, Inheritor, and existing first-person Protagonist. This controls the opening, timeline, and reader's information path.
+Determine whether Sylvan is the sole primary first-person protagonist or the Great War Witness owns substantial earlier viewpoint material, and establish how evidence from Orzai's parent generation reaches the modern Inheritor thread. This controls the opening, timeline, and reader's information path.
 
 ### 2. Define Sylvan before defining more systems
 
@@ -271,4 +272,4 @@ The session should end with provisional answers to:
 
 ## Continuity warning
 
-The August 6 Witness/Inheritor/Protagonist architecture and the August 7–8 Sylvan/George/Throne architecture have not yet been deliberately reconciled. Both remain valuable, but they should not be treated as automatically compatible until the protagonist decision is made.
+The earlier two-thread architecture is now partially reconciled with the Sylvan/George/Samuel architecture: one of Orzai's Great War-era parents is the leading candidate for the Witness role, and Sylvan carries the Inheritor role. Orzai belongs to Sylvan's generation and is slightly younger than him. The remaining structural decisions are which parent is the Witness, viewpoint ownership, and how the earlier evidence reaches the modern investigation.

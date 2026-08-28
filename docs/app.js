@@ -4,29 +4,33 @@ const menuButton = document.querySelector('[data-menu-button]');
 const siteNav = document.querySelector('[data-site-nav]');
 
 if (menuButton && siteNav) {
+  const closeMenu = () => {
+    menuButton.setAttribute('aria-expanded', 'false');
+    siteNav.removeAttribute('data-open');
+    const icon = menuButton.querySelector('[aria-hidden="true"]');
+    if (icon) icon.textContent = '+';
+  };
+
   menuButton.addEventListener('click', () => {
     const open = menuButton.getAttribute('aria-expanded') === 'true';
     menuButton.setAttribute('aria-expanded', String(!open));
     siteNav.toggleAttribute('data-open', !open);
+    const icon = menuButton.querySelector('[aria-hidden="true"]');
+    if (icon) icon.textContent = open ? '+' : '−';
+  });
+
+  siteNav.addEventListener('click', (event) => {
+    if (event.target.closest('a')) closeMenu();
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && menuButton.getAttribute('aria-expanded') === 'true') {
+      closeMenu();
+      menuButton.focus();
+    }
+  });
+
+  window.matchMedia('(min-width: 75.01rem)').addEventListener('change', (event) => {
+    if (event.matches) closeMenu();
   });
 }
-
-document.querySelectorAll('[data-layer-set]').forEach((set) => {
-  const buttons = [...set.querySelectorAll('[data-layer-button]')];
-  const panels = [...set.querySelectorAll('[data-layer-panel]')];
-  buttons.forEach((button) => button.addEventListener('click', () => {
-    const target = button.dataset.layerButton;
-    buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
-    panels.forEach((panel) => panel.hidden = panel.dataset.layerPanel !== target);
-  }));
-});
-
-document.querySelectorAll('[data-filter-set]').forEach((set) => {
-  const buttons = [...set.querySelectorAll('[data-filter]')];
-  const items = [...document.querySelectorAll('[data-status]')];
-  buttons.forEach((button) => button.addEventListener('click', () => {
-    const target = button.dataset.filter;
-    buttons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
-    items.forEach((item) => item.hidden = target !== 'all' && item.dataset.status !== target);
-  }));
-});

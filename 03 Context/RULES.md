@@ -1,7 +1,7 @@
 ---
 type: rules
 status: active
-updated: 2026-08-12
+updated: 2026-08-24
 ---
 
 # Rules
@@ -10,7 +10,7 @@ updated: 2026-08-12
 
 - The author decides the story and has final authority.
 - GPT is the story-development and organization command center: structure, continuity, questions, synthesis, and collaborative development.
-- Claude is research-only. Claude may answer assigned research questions but may not invent story facts, names, characters, scenes, or prose.
+- Research tools may answer tightly scoped, source-backed questions but may not invent story facts, names, characters, scenes, or prose.
 - Other agents may use the shared vault skills only within the scope assigned by the author. Image-capable agents may create visual interpretations, but their outputs do not establish story canon.
 
 ## Story memory
@@ -38,6 +38,10 @@ updated: 2026-08-12
 
 ## Prose and tone
 
-- Conversation, not lecture. Every explanation is partial, motivated, and limited by the speaker's knowledge.
+- During the current development stage, default to [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE|short readable development prototypes]] when an idea needs to be experienced as story. Prototype prose is disposable, non-canon, and should expose assumptions rather than conceal them with polish.
+- [[03 Context/WRITING-STYLE|Archive Thriller / Dark Historical Reconstruction]] remains the active finished-prose candidate and a supporting register for later manuscript tests; it is not the default development output. Jurassic Park-style exposition is retired wherever it was previously treated as current.
+- Use general high-level techniques associated with accessible, problem-solving-driven long-form science fiction—clear objectives, conversational exposition, competence, escalation, and listener orientation—without imitating Craig Alanson or any living author's exact prose or distinctive expression.
+- Cold historical reconstruction, political grotesque/leadership dialogue, close psychological prose, and the sparing turn remain available supporting registers when the task specifically tests later prose direction.
+- Prefer records, consequences, and motivated incomplete conversation over lecture. Every explanation is partial and limited by the speaker's knowledge.
 - First-person present tense is the current working mode, not an irreversible rule.
 - GPT may help develop or revise prose when asked, but the author's voice and judgment control the manuscript.

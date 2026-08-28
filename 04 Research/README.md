@@ -2,11 +2,11 @@
 
 Research supports the story but does not establish story facts.
 
-- `Requests/` — tightly scoped assignments for Claude or another research tool.
+- `Requests/` — tightly scoped, source-backed research assignments.
 - `Full Reports/` — returned reports, kept intact with sources and date.
 - `Findings/` — concise, retrievable findings relevant to story development.
 
-Claude may research only. GPT and the author decide whether a finding affects the story. Real-world examples stay in research and never become final characters, groups, nations, or story history.
+Research tools provide advisory findings only. GPT and the author decide whether a finding affects the story. Real-world examples stay in research and never become final characters, groups, nations, or story history.
 
 ## Current report series
 
@@ -60,3 +60,19 @@ This series develops the upstream compiler that transforms selected vault knowle
 40. [[04 Research/Full Reports/40 - Incremental Graph Updates and Regression Impact|Incremental Graph Updates and Regression Impact]] — complete
 
 Cross-report synthesis: [[04 Research/Findings/32-40 - Vault-to-Image Graph Compiler|Vault-to-Image Graph Compiler]]
+
+### Behavioral containment — Report 41
+
+41. [[04 Research/Full Reports/41 - Obsession as a Containment Vulnerability|Obsession as a Containment Vulnerability]] — complete
+
+This report examines unfinished goals, obsessive passion, incentive salience, motivated reasoning, simulation plausibility, and the story-specific possibility that Sylvan can exploit Samuel's and George's unattainable obsessions to induce voluntary entry into simulated containment. It is advisory and non-canon until integrated into the story layer.
+
+### Ethical evidence and public endgame architecture — Reports 42–46
+
+42. [[04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle|Ethical Disclosure Without Genealogical Spectacle]] — complete
+43. [[04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning|Failed Predictions Under Motivated Reasoning]] — complete
+44. [[04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail|Common Knowledge Against Distributed Blackmail]] — complete
+45. [[04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems|Human Authorization in Safety-Critical Command Systems]] — complete
+46. [[04 Research/Full Reports/46 - Public Surrender as Political Theater|Public Surrender as Political Theater]] — complete
+
+These reports answer the five research questions attached to the first Creative Possibilities packet. They distinguish public pattern proof from private identity evidence, strengthen prediction logging and coordination mechanics, separate access from legitimate human authorization, and identify the ritual functions that could make a public reversal legible. Cross-report synthesis: [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. All findings remain advisory and non-canon.

@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: working
-updated: 2026-08-13
+updated: 2026-08-15
 character: Samuel Jr. (provisional designation)
 theme: contingency and survival
 ---
@@ -75,6 +75,14 @@ George is weaponized to remove Sylvan.
 
 Samuel Jr. is positioned to help the father survive Sylvan.
 
+## Legitimate-heir company counterpart
+
+Orzai's older brother, approximately a decade older than Sylvan, is placed for development and training inside a different company with comparable institutional importance and overlapping decision, identity, relationship, infrastructure, or government-integration capabilities.
+
+This creates a direct structural contrast. Samuel positions his replacement heir near state power as a contingency for preserving influence and control. Orzai's brother is placed under meaningful constraints so he must demonstrate service, judgment, accountability, and resistance to institutional capture. The legitimate company should not simply be a morally good duplicate. Its mandate, oversight failures, dependencies, and reasons for requiring a developing heir must be independently defined.
+
+The two companies may cooperate, compete, audit one another, depend on one another, or independently expose parts of the same hidden genealogy. Their exact relationship remains unresolved.
+
 Once George's attempt fails, the father's objective changes from destroying the immediate threat to preserving enough political and institutional control to survive the coming disclosure. He attempts to use Samuel Jr., government dependence on the company, hidden lineage, and city-level political leverage as part of that survival strategy.
 
 The precise mechanics of how the other son is used to manipulate control of the city remain open for later development.
@@ -109,6 +117,8 @@ Open for development:
 - whether he understands that the father is using him;
 - the company's name, products, oversight model, technical limits, and degree of dependence on government contracts;
 - whether Samuel Jr. recognizes that his own systems can expose the genealogy Samuel wants concealed;
+- the name, mandate, oversight, and technical boundaries of the company containing Orzai's older brother;
+- whether the two heirs cooperate, compete, audit one another, or discover the same hidden pattern independently;
 - the precise political mechanism through which the father attempts to leverage him;
 - the exact city involved and how control of it affects the larger endgame;
 - how Sylvan proves the pattern while protecting the son and other descendants.

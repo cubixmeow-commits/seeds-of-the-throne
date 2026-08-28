@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-13
+updated: 2026-08-23
 ---
 
 # Desktop Implementation Queue
@@ -10,7 +10,32 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-No queued items.
+No desktop-only implementation is currently queued. Resume creative development from [[CURRENT-PICKUP]].
+
+## Completed implementation context
+
+### Story Gauntlet v0.1 source handoff
+
+- **Status:** completed 2026-08-20
+- **Source:** August 20 mobile brainstorming and Story Gauntlet refinement
+- **Scope:** `07 Coordination`, `02 Story`, `03 Context`, `07 QA`, and a new lightweight Markdown-first Story Loop workspace if approved during the desktop session
+- **Implement:** Begin [[07 Coordination/Seeds Story Gauntlet]] as a multi-week author-led story-development system. Do not attempt to build the entire loop tonight. First integrate the pending story ideas from the mobile session, then define the canonical Story Unit schema, establish the master `STORY-MAP.md`, and convert 2–3 real portions of the existing story into units. Design the first five-pass structural loop: Architect -> Character Critic -> Causality Critic -> Continuity Critic -> Integrator. Preserve raw author brainstorming and return unresolved creative decisions through an explicit Author Gate.
+- **Tonight's concrete target:** Produce a manually runnable Markdown v0.1, not a database or large automation system. Select two pilot units: one comparatively well-understood unit, likely the Samuel/George obsession and inverted-containment material, and one genuinely unresolved structural unit, likely Sylvan's modern inciting event. A third adjacent unit may be used if needed to test sequence coherence.
+- **Three layers to preserve:** (1) Story Skeleton, (2) Story Development Gauntlet, (3) later Prose Gauntlet. Story quality is evaluated before prose quality.
+- **Optimization order:** CLOSE A GAP > STRENGTHEN EXISTING STRUCTURE > NEW EXPANSION.
+- **Development strategy:** Improve the loop through real use. Record critic failures, invented facts, continuity misses, generic feedback, prose failure modes, and other weaknesses in durable evaluation notes and turn recurring failures into explicit rules. Build toward story map -> sequences -> scenes -> chapters -> prose over multiple iterations/weeks.
+- **Calibration:** Later use author-provided observations or short permissible excerpts from admired books/audiobooks to derive abstract Seeds-specific craft criteria without imitating living authors or copying source text.
+- **Preserve:** Author remains final creative authority; agents may diagnose, retrieve, test, research, propose, critique, revise, and integrate approved material but must not silently decide unresolved story facts. Research does not create canon. Keep the existing Great War/False Victory spine, ordinary surface-world rule, source-authority system, and current live story rather than generating a replacement outline.
+- **Unresolved:** Final folder location/name for the Story Loop; exact Story Unit fields/statuses; permissions for automatic updates; critic isolation strategy; iteration limits; completion thresholds; and exact pilot-unit boundaries should be decided during the desktop design session rather than assumed.
+
+### Story Completion Framework source handoff
+
+- **Status:** incorporated into Story Gauntlet v0.1
+- **Source:** August 20 mobile brainstorming and vault audit
+- **Scope:** `02 Story`, `03 Context`, `07 QA`, and planning workflow
+- **Implement:** Once the initial Story Unit and Gauntlet structure exists, use [[07 Coordination/Story Completion Framework]] through that system to convert the existing storyline into a complete causal map. Prioritize the narrated opening, Sylvan's modern inciting event and full trajectory, the Witness-to-Sylvan evidence bridge, essential False Victory bridge events, George's chronology and beliefs, Samuel's revenge-to-replacement transition, the inverted obsession/expectation containment trap, the public disclosure trigger, victory cost, and final character states. Explicitly integrate [[02 Story/Components/Obsession Expectation and Desperation Reversal]] so Samuel and George's final downfall grows from the same manipulation method they used against other contained criminals earlier. Update existing canonical/working notes rather than creating duplicate parallel structures.
+- **Preserve:** Current author-established Great War/False Victory spine; ordinary surface-world rule; Sylvan's principle of not treating people as disposable instruments; recent obsession research and inverted containment mechanism remain developmental until integrated deliberately.
+- **Unresolved:** Do not invent the remaining causal answers automatically. Resolve them with the author during the desktop planning session, including where the obsession/expectation/desperation method first appears and exactly how its endgame reversal is revealed.
 
 ## Item template
 
@@ -24,6 +49,52 @@ No queued items.
 - **Unresolved:** choices the desktop session must not invent
 
 ## Completion log
+
+### 2026-08-23 — Four-character journal design bibles
+
+- **Status:** completed
+- **Source:** author request to make Samuel, Konrad, Sylvan, and Orzai's journals materially and graphically unique
+- **Result:** Expanded all four profiles with object specifications; added exact handwriting construction, emotional bands, extensive writing drills, twelve-plus drawing forms, word/image integration rules, and forensic clusters; added a four-way differentiation matrix and four object-only generated design boards with prompts, checksums, and visual QA.
+- **Preserved unresolved:** All images remain candidates; signatures, crests, makers, exact era materials, entry dates, and artifact existence remain unapproved. Generated lettering is not transcription. Sylvan's board contains invalid placeholder dates and numeric confidence and is explicitly barred from story use.
+- **Next action:** Run a component-by-component author approval pass, then create deterministic alphabet/numeral/emotional-state handwriting sheets only for approved directions.
+
+### 2026-08-23 — Character journals and Weekly Story Synthesis v1.0
+
+- **Status:** completed
+- **Source:** Analyze Betrayal Motives continuation and desktop integration request
+- **Result:** Added the journal artifact system with registries, templates, reference policy, forensic rules, Samuel/Konrad/Sylvan/George profiles, and two proposed entries; added the ten-report Weekly Story Synthesis, optional editorial/causal/readiness modules, master prompt, configuration, and Story Loop/Gauntlet routing; updated current context, QA, TODO, and handoff notes.
+- **Preserved unresolved:** Konrad's exact role and wording in the exile plan; the first revealing record; surveillance permissions and limits; journal materials; Konrad/George identity references; all journal-specific visual approvals; and all author-gated story promotion.
+- **Next action:** Continue Question 2 in the active containment-hierarchy packet, or run the first full-vault synthesis when the author chooses the end-of-cycle baseline.
+
+### 2026-08-21 — Development-first environment integration
+
+- **Status:** completed
+- **Source:** full August 21 mobile/chat development-system session
+- **Result:** Added the Gap Analyzer, Development Orchestrator, development run and chapter packet templates; wired the Story Exploration Lab, multiscale Gauntlet, Character Factory, research loop, problem-solving engine, prototype mode, focused critics, token modes, and author gates; corrected the Konrad/Samuel containment framing across live context and compiled summaries; consolidated the next session into [[CURRENT-PICKUP]].
+- **Preserved unresolved:** practical containment hierarchy, primary definition, lock event and purpose, exact lie, migration procedure, transferred powers, evidence, reset limits, permanent-destruction chain, and all unpromoted Great War sample material.
+- **Next action:** Begin Question 1 in [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
+
+### 2026-08-20 — Seeds Story Gauntlet v0.1
+
+- **Status:** completed
+- **Source:** `Research Report on Obsession` mobile brainstorming and desktop vault audit
+- **Result:** Created [[Seeds Story Gauntlet]] and the `08 Story Loop/` package with a 22-unit working STORY-MAP, Story Unit schema, two pilots, prepared Brainstorm Packets, distinct critic roles, three author gates, run logging, failure tracking, and a desktop execution workflow.
+- **Preserved unresolved:** Sylvan's modern inciting event; Witness evidence carrier; obsession-reversal mechanics; exact containment environment; Samuel and George's bait, permissions, proof of command, and realization points; chapter order and prose generation.
+- **Next action:** Continue [[08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01]] by defining the first ordinary-looking environment after the startup collapse and Samuel and George's hidden advantage inside it.
+
+### 2026-08-17 — George prewar success and containment bust
+
+- **Status:** completed
+- **Source:** author continuation after the Samuel/Konrad reconciliation
+- **Result:** Anchored Samuel's exile about thirty years before the Great War; established George's important-seeming success, joint private wrongdoing with Samuel, horribly planned takeover of the largest government, humiliating exposure, and real bust into containment; connected those facts to the later False Victory.
+- **Preserved unresolved:** who placed them, the private acts, takeover mechanics, Samuel's containment status and consequences, the exact humiliation, and the prewar role's relationship to George's later career.
+
+### 2026-08-17 — Samuel Franklin / Konrad Fitzgerald rewrite reconciliation
+
+- **Status:** completed
+- **Source:** `Samuel Franklin Rewrite Prep` conversation, August 17 session notes, and desktop repository audit
+- **Result:** Fast-forwarded to the recent GitHub rewrite commits; transferred Great War ownership to Konrad's faction; reconciled Samuel's exile, earlier containment, wartime sabotage, False Victory, breeding-program revenge, and attempted replacement of Konrad across compiled story, context, QA, handoff, and public atlas material; adopted Archive Thriller / Dark Historical Reconstruction and retired Jurassic Park-style exposition as current.
+- **Preserved unresolved:** Samuel's additional abuses, age and path into containment, exact sabotage, parents' individual roles, Konrad's political base and conquest sequence, George's placement mechanism, and the revenge-to-replacement threshold.
 
 ### 2026-08-13 — Conversation-to-vault reconciliation
 
