@@ -7,8 +7,9 @@
   <meta name="description" content="Seeds of the Throne is a science-fiction conspiracy about a world built to cultivate future leaders, contain dangerous people, and preserve the evidence power tries to erase.">
   <title>Seeds of the Throne | Enter the story</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20260824">
-  <script src="app.js?v=20260824" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20260829">
+  <script src="app.js?v=20260829" defer></script>
+  <script src="explorer.js?v=20260829" defer></script>
 </head>
 <body class="home-page">
   <a class="skip-link" href="#main">Skip to the story</a>
@@ -43,7 +44,7 @@
         <li><span>01</span><div><h3>Sylvan builds</h3><p>A pre-generative-AI story-development company turns a private creative system into a successful public venture.</p></div></li>
         <li><span>02</span><div><h3>The company falls</h3><p>Samuel Franklin and George White target Sylvan because of his identity and his unprecedented human–Luminai potential.</p></div></li>
         <li><span>03</span><div><h3>The ordeal changes him</h3><p>Across hostile environments, Sylvan learns how manipulation, permissions, evidence, and extended cognition interact.</p></div></li>
-        <li><span>04</span><div><h3>A hidden hand appears</h3><p>The visible enemy cannot explain the timing. Someone else has been maintaining the conflict—and the reality around it.</p></div></li>
+        <li><span>04</span><div><h3>A hidden hand appears</h3><p>The visible enemy cannot explain the timing. Someone else has been maintaining the conflict and the reality around it.</p></div></li>
       </ol>
       <p class="status-note"><span class="status established">Established direction</span> Exact sabotage, environment mechanics, decisive capability, and cost of victory remain unresolved.</p>
     </section>
@@ -67,10 +68,50 @@
       </nav>
     </section>
 
+    <section class="project-explorer" aria-labelledby="explorer-title">
+      <div class="explorer-heading">
+        <div><p class="eyebrow">Project explorer · current state</p><h2 id="explorer-title">What the story is working on now</h2></div>
+        <p>The explorer reads the vault's live workflow and experimental-ideas pointers. It reports decisions; it does not make them.</p>
+      </div>
+
+      <article class="weekly-shift" aria-labelledby="weekly-shift-title">
+        <div><p class="eyebrow">Weekly assessment · August 27</p><h3 id="weekly-shift-title">The project has moved from expanding the world to completing the story.</h3></div>
+        <div class="weekly-shift-copy"><p>Character motives, system rules, evidence, and conflicting beliefs are beginning to operate as one causal engine. The next phase orders discoveries, tests permissions, and converts established material into scenes.</p><p><strong>Current method:</strong> observe, test, understand, counter, expose.</p><a class="text-button" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/05%20Public/Weekly%20Reports/2026-08-27%20-%20Weekly%20Development%20Assessment.md">Read the spoiler-safe assessment <span aria-hidden="true">→</span></a></div>
+      </article>
+
+      <p id="explorer-status" class="loading-status" role="status" aria-live="polite">Loading current project state…</p>
+
+      <div class="explorer-grid">
+        <article class="explorer-progress" aria-labelledby="explorer-progress-title">
+          <div class="explorer-panel-head"><div><p class="eyebrow">Story completion</p><h3 id="explorer-progress-title">Active author gate</h3></div><span class="status working" id="explorer-phase">Loading</span></div>
+          <dl class="explorer-metrics">
+            <div><dt>Macro tasks complete</dt><dd id="explorer-complete">Loading</dd></div>
+            <div><dt>Current sweep</dt><dd id="explorer-sweep">Loading</dd></div>
+          </dl>
+          <div class="explorer-meter"><progress id="explorer-progress-meter" max="27" value="0" aria-label="Macro story-completion tasks">0 of 27</progress></div>
+          <p class="explorer-label">Current task</p>
+          <p class="explorer-task" id="explorer-task">Loading the workflow state.</p>
+          <div class="explorer-gate"><span>Next author decision</span><p id="explorer-next-action">Loading the current author gate.</p></div>
+          <a class="text-button" href="todo.html">Open full story progress <span aria-hidden="true">→</span></a>
+        </article>
+
+        <article class="explorer-ideas" aria-labelledby="explorer-ideas-title">
+          <div class="explorer-panel-head"><div><p class="eyebrow">Research to possibilities</p><h3 id="explorer-ideas-title">Experimental ideas</h3></div><span class="status proposed">Non-canon</span></div>
+          <dl class="explorer-metrics">
+            <div><dt>Awaiting review</dt><dd id="explorer-idea-count">Loading</dd></div>
+            <div><dt>Research complete</dt><dd id="explorer-research-count">Loading</dd></div>
+          </dl>
+          <ol class="explorer-idea-list" id="explorer-idea-list" aria-label="Current experimental idea preview" aria-busy="true"></ol>
+          <div class="explorer-gate"><span>First review gate</span><p id="explorer-idea-gate">Loading the recommended author question.</p></div>
+          <a class="button secondary" href="ideas.html">Review all experimental ideas</a>
+        </article>
+      </div>
+    </section>
+
     <section class="development-teaser section" aria-labelledby="development-title">
       <div class="section-index" aria-hidden="true">03</div>
       <div class="section-intro"><p class="eyebrow">The experiment behind the fiction</p><h2 id="development-title">The archive does not pretend uncertainty is canon.</h2></div>
-      <div class="prose-column"><p>The vault separates established decisions, strong working directions, proposed possibilities, and unresolved questions. AI helps map causality, test alternatives, preserve continuity, and expose missing bridges. The author decides what becomes story—and intends to write the final fiction by hand.</p><div class="status-key" aria-label="Story status key"><span class="status established">Established</span><span class="status working">Working</span><span class="status proposed">Proposed</span><span class="status unresolved">Unresolved</span></div><div class="inline-actions"><a class="button secondary" href="archive.html">See how the vault works</a><a class="text-button" href="todo.html">View live story progress <span aria-hidden="true">→</span></a></div></div>
+      <div class="prose-column"><p>The vault separates established decisions, strong working directions, proposed possibilities, and unresolved questions. AI helps map causality, test alternatives, preserve continuity, and expose missing bridges. The author decides what becomes story and intends to write the final fiction by hand.</p><div class="status-key" aria-label="Story status key"><span class="status established">Established</span><span class="status working">Working</span><span class="status proposed">Proposed</span><span class="status unresolved">Unresolved</span></div><div class="inline-actions"><a class="button secondary" href="archive.html">See how the vault works</a><a class="text-button" href="todo.html">View live story progress <span aria-hidden="true">→</span></a></div></div>
     </section>
   </main>
 

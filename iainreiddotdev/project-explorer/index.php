@@ -168,7 +168,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260824c';
+$assetVersion = '20260829';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -271,6 +271,18 @@ function explorer_format_bytes(?int $bytes): string
                         <p>The story advances horizontally: every active problem receives the same level of development before any one branch moves deeper.</p>
                     </div>
                 </header>
+
+                <article class="explorer-assessment" aria-labelledby="assessment-title">
+                    <div>
+                        <p class="explorer-assessment__date">Weekly assessment · August 27, 2026</p>
+                        <h3 id="assessment-title">The work has shifted from expanding the world to completing the story.</h3>
+                    </div>
+                    <div>
+                        <p>Character motives, system rules, evidence, and conflicting beliefs are beginning to operate as one causal engine. The next phase orders discoveries, tests permissions, and turns established material into scenes.</p>
+                        <p class="explorer-assessment__method"><span>Current method</span> Observe, test, understand, counter, expose.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Weekly Reports/2026-08-27 - Weekly Development Assessment.md')) ?>"><span>Read the spoiler-safe assessment</span><span aria-hidden="true">↗</span></a>
+                    </div>
+                </article>
 
                 <?php if ($completion['available']): ?>
                     <div class="explorer-progress__summary">

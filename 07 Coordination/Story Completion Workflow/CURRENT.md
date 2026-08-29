@@ -12,7 +12,7 @@ updated: 2026-08-25
 - **Current loop phase:** AUTHOR-GATE
 - **Completed at this depth:** 9 / 27
 - **Blocked tasks:** 0 (dependencies are sequencing guidance until a task is actively evaluated)
-- **Next required author action:** identify the earliest training-stage demonstration that consequential Luminai action waits for Sylvan's conscious decision
+- **Next required author action:** answer SC-010 Question 5: what is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?
 
 ## Resume
 
