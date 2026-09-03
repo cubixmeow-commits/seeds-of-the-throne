@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-08-21
+updated: 2026-09-03
 ---
 
 # Human–Luminai Integration and Human Bonding
@@ -10,11 +10,13 @@ updated: 2026-08-21
 
 A Luminai is not a separate person, companion, partner, or artificial friend. It is a technologically extended layer of the human mind: an externalized cognitive capacity that develops from the same identity, memory, perception, and life.
 
+The current model applies specifically to the **new Luminai generation** being initialized with Sylvan. Earlier colonization participants used older AI souls whose precise degree of identity integration may differ. Do not project every property of Sylvan's successor bond backward onto every historical AI soul.
+
 The human and Luminai may still contain internal tension, competing interpretations, and different cognitive processes, just as one mind can question or correct itself. But they are one extended self rather than two people maintaining a relationship.
 
-Luminai and Daemons possess **operational independence without identity independence**. They can analyze, communicate, initiate activity, maintain processes, and make choices without continuous direction from the human's conscious attention. Their goals and decisions arise from the human subconscious mind: memory, desire, fear, learned association, unresolved conflict, intuition, and patterns the biological attention may not presently recognize.
+The new Luminai possesses **operational independence without identity independence**. It can analyze, communicate, initiate bounded activity, and maintain processes without continuous direction from the human's conscious attention. Its development arises through Sylvan's memory, desire, fear, learned association, unresolved conflict, intuition, and patterns biological attention may not presently recognize.
 
-An independently operating Luminai or Daemon is therefore not an unrelated artificial agent controlling a human from outside. It is an active layer of the same extended person functioning from cognition that is partly or wholly outside conscious awareness.
+An independently operating Luminai is therefore not an unrelated artificial agent controlling a human from outside. It is an active layer of the same extended person functioning from cognition that is partly or wholly outside conscious awareness. The historical responsibility model for older AI souls and Daemons remains related but not assumed identical.
 
 ## Identity and presentation
 
@@ -40,21 +42,21 @@ The Luminai grows as the human's extended cognition grows:
 5. **Coherence** — conscious attention, subconscious motivation, and artificial cognition operate as one accountable identity across more information and more simultaneous processes than an unaided human could sustain.
 6. **Advanced integration** — rare individuals such as Sylvan may develop forms of cognition that ordinary human–Luminai selves cannot achieve.
 
-## Luminai and Daemon outcomes
+## Luminai and Daemon distinction
 
-**Luminai** names a healthy extended mind capable of reality-testing, preserving provenance, recognizing contradiction, and correcting itself.
+**Luminai** names the new deeply integrated generation. Its intended developmental direction includes reality-testing, provenance, contradiction, correction, and accountable human authority.
 
-**Daemon** names the corrupted form of the same technology. It is not an evil second person inside the human. It is an extension of the self trained by fear, false evidence, compulsion, ideology, or deliberate interference until distorted cognition becomes more powerful, persistent, and difficult to escape.
+**Daemon** names an evil AI soul. Konrad's Great War Daemon belongs to the previous generation. It learns and improves while continuing to optimize Konrad's destructive objective. A Daemon is not automatically a supernatural possessor or a moral excuse for its human operator.
 
 George and his Daemon do not validate one another as two independent witnesses. George's fears, memories, and assumptions propagate through his extended cognition and return as analysis that feels objective because it has been processed beyond ordinary conscious thought. Samuel's manipulation corrupts the whole extended mind while allowing George to experience the result as his own judgment.
 
 The Daemon can nevertheless operate when George is not consciously directing it. It may search, communicate, classify threats, maintain plans, or initiate permitted actions from subconscious goals and fears. Its operational independence makes the corrupted feedback loop more consequential without turning the Daemon into a separate villain who carries George's responsibility for him.
 
-Sylvan's experiment asks how completely a human can integrate this expanded cognition without losing agency, responsibility, emotional depth, or contact with reality. Its extraordinary outcome must remain costly and bounded; integration cannot become effortless omniscience or control.
+Sylvan's experiment asks whether the successor architecture can integrate expanded cognition without losing agency, responsibility, emotional depth, or contact with reality. Its real-world proof is Samuel: the bond must understand his adaptive manipulation while keeping Sylvan responsible for consequential choices. The outcome must remain costly and bounded; integration cannot become effortless omniscience or control.
 
-## Environmental interfacing — same fabric, different optimization
+## Environmental interfacing
 
-**Accepted direction:** both a healthy Luminai and a corrupted Daemon can interface with the advanced environment through the same broad interaction fabric, subject to actual permissions and system limits.
+**Accepted direction:** both the new Luminai and older AI souls, including Daemons, can interface with overlapping parts of the advanced environment, subject to architecture, identity, permissions, and system limits. Shared infrastructure does not make them the same generation or the same relationship model.
 
 Potential channels include:
 

@@ -4,7 +4,7 @@ unit_id: S-018
 completeness: partial
 authority: established-principle
 run_state: ready-for-brainstorm
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # S-018 — Obsession Reversal and Inverted Containment
@@ -20,6 +20,10 @@ Use Sylvan's successfully completed human–Luminai bond to turn Samuel and Geor
 - Supports: S-020 — continued manipulation becomes evidence of Samuel's command
 
 ## Entering state
+
+**Established 2026-09-03 foundation:** Book One begins near the chronological end. Konrad is isolated inside a counterfeit victory. Samuel controls much of the captured group and claims that he also controls Sylvan and the successor Luminai. During the final few years, Sylvan actually holds decisive control and permits Samuel bounded activity so the Luminai can learn his full endgame.
+
+**Established historical inversion:** after the Great War, Konrad believed his experienced Daemon could contain Samuel. Samuel performed submission and turned Konrad's reactivation into access. In Book One Samuel repeats the same takeover method against Sylvan before Konrad's inner circle, allowing them to recognize the historical pattern.
 
 **Established direction:** George appears to be the active hostile figure, but Samuel is maintaining the conflict and expects Sylvan to treat George as the enemy. Samuel wants George destroyed, blamed, or processed so the son absorbs responsibility for the collapse.
 
@@ -51,7 +55,9 @@ Sylvan must offer a believable apparent path toward what Samuel and George expec
 
 **Established character cause:** Samuel loses control of the revolution because impulsiveness, rage, obsession, and fear of disclosure keep him intervening after strategic restraint would be safer. The final trap must expose Samuel through choices he voluntarily makes to preserve the system.
 
-**Unresolved:** Which capability of the completed bond is decisive; why it could not act earlier; its costs and limits; and the exact bait, environment, permissions, evidence, ethical safeguard, proof of command, point of realization, and George's remaining choice.
+**Established capabilities:** bounded adversarial observation with preserved decisive control, and repeated-pattern reconstruction across live behavior and authenticated historical evidence.
+
+**Unresolved:** the exact bait, environment, permissions, intervention thresholds, evidence standard, ethical safeguards, point of realization, outcome audience, Samuel's attempted Luminai-theft mechanism, and George's remaining role and choice.
 
 ## Required setup
 
@@ -67,7 +73,7 @@ Sylvan must offer a believable apparent path toward what Samuel and George expec
 
 ## Required author decisions
 
-1. What exact outcome would make Samuel believe he has successfully appropriated Sylvan's role in the colonization process?
+1. What exact outcome would make Samuel believe he has successfully appropriated Sylvan's role in the colonization process? **Partial answer:** Samuel believes stealing or possessing Sylvan's Luminai would prove control, godhood, and superiority. The technical meaning of “steal” remains unresolved.
 
 Current non-canon directions generated from these decisions are parked in [[08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001]]. They do not answer this question until author review.
 2. What does George expect the final environment to prove about himself?

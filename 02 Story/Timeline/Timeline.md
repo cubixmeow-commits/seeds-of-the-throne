@@ -1,12 +1,37 @@
 ---
 type: timeline
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # Timeline
 
 Dates are intentionally unset. This sequence preserves dependencies without pretending chronology is settled.
+
+## Controlling causal order — 2026-09-03
+
+1. A mature long-lived civilization develops multiple colonization worlds with previous-generation AI souls.
+2. The current planet becomes the final, consolidating, or auditing world of that operating era and the first real-world initialization environment for a new Luminai generation.
+3. Samuel is prosecuted into containment and selected as a representative worst-case adversarial subject. His bounded influence develops across approximately a century.
+4. Konrad's authoritarian purity faction destabilizes the older society, builds a conquest state, and trains Konrad's Daemon through the Great War.
+5. Konrad loses. His experiment should end and he should leave the colonization process.
+6. Konrad remains voluntarily because he believes the Daemon can take control of Samuel, outperform Sylvan's future Luminai result, redeem the Great War, and restore Konrad's authority.
+7. Samuel offers a separate autonomous group. Konrad reactivates the Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside the shared containment environment.
+8. Samuel performs submission, studies the Daemon and imported systems, and converts Konrad's attempted takeover into access to the group.
+9. Across generations, Samuel captures private information, intermediaries, bloodlines, records, descendants, and the younger generation while Konrad becomes increasingly isolated inside a counterfeit victory.
+10. Sylvan begins the successor Luminai process inside the mature world.
+11. During the final few years, Sylvan retains decisive authority and permits Samuel bounded activity as the Luminai's final adversarial learning period.
+12. Samuel attempts the same takeover on Sylvan before Konrad's inner circle. Their recognition becomes the discovery path into the postwar history.
+13. Samuel's attempt to steal Sylvan's Luminai accelerates as public exposure destroys his control claims.
+14. The outcome presentation compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad's group.
+
+## Narrative order
+
+Book One begins within movements 11 through 14. Later books move backward into movements 3 through 10, allowing the audience to experience the causes after seeing their consequences.
+
+The detailed chronology below remains a working expansion of this sequence. Where it implies that Sylvan enters only after a completed Disclosure War, that the older AI-soul era already used the term Luminai universally, or that the series must narrate forward from the war, the 2026-09-03 order controls.
+
+## Detailed working chronology
 
 1. Parent civilization overcomes aging. Its legitimate leaders live for thousands of years.
 2. Humanity expands successfully to numerous colonized planets under these leaders.

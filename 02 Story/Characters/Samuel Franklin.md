@@ -2,12 +2,26 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-26
+updated: 2026-09-03
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
 
 # Samuel Franklin
+
+## 2026-09-03 foundation update
+
+The older leaders select Samuel as a representative worst-case criminal subject for the colonization process. His combination of social inference, coercion, deception, surveillance, engineered compromise, blackmail, dependency, and adaptive control makes him a live adversary the new Luminai must learn to contain.
+
+Samuel receives meaningful but bounded latitude across approximately a century. He mistakes observation space for sovereign authority and interprets every tolerated intervention as proof that he is becoming the real ruler.
+
+Konrad's postwar attempt to dominate Samuel creates the access Samuel needs. He performs compliance for Konrad's experienced Daemon, learns the rules behind its conclusions, and lets apparent progress persuade Konrad to reactivate more of the defeated group inside the shared environment.
+
+Samuel's revenge becomes a generational replacement campaign. He captures the group's private information, bloodline systems, heirs, intermediaries, and interpretations until he can claim to have become its real patriarch. His network is distinct from Konrad's public militarized hierarchy: Samuel works through access, secrets, shame, nonconsensual humiliation, dependency, blackmail, and partitioned victims.
+
+During Book One's final years, Sylvan already holds decisive control but allows Samuel bounded activity so the Luminai can learn his complete endgame. Samuel publicly claims that he controls Sylvan and tries to repeat the same takeover method in front of Konrad's inner circle. His eventual obsession with stealing Sylvan's Luminai reveals that he still treats a developed relationship as an ownable object and believes possession can solve every exposure.
+
+See [[../Components/Book One Outcome Presentation and Reverse Discovery]] and [[../Groups/Konrad and Samuel Criminal Ecosystems]].
 
 ## Journal artifact
 

@@ -44,7 +44,7 @@
 
   function parseIdeas(markdown) {
     const section = getSection(markdown, "## Raw candidate portfolio");
-    const matches = [...section.matchAll(/^###\s+(P-\d+)\s+—\s+(.+)$/gm)];
+    const matches = [...section.matchAll(new RegExp(`^###\\s+(P-\\d+)\\s+\\u2014\\s+(.+)$`, "gm"))];
     const review = parseReviewBoard(markdown);
     return matches.map((match, index) => {
       const start = match.index + match[0].length;
@@ -84,7 +84,7 @@
 
   function parseResearchQueue(markdown) {
     const section = getSection(markdown, "## Suggested research queue");
-    const matches = [...section.matchAll(/^- \[([ xX])\] \*\*(R-\d+) — (.+?)\*\*$/gm)];
+    const matches = [...section.matchAll(new RegExp(`^- \\[([ xX])\\] \\*\\*(R-\\d+) \\u2014 (.+?)\\*\\*$`, "gm"))];
     return matches.map((match, index) => {
       const start = match.index + match[0].length;
       const end = index + 1 < matches.length ? matches[index + 1].index : section.length;

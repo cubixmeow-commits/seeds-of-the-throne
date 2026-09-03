@@ -4,6 +4,14 @@
   const REPO_RAW = "https://raw.githubusercontent.com/cubixmeow-commits/seeds-of-the-throne/main/";
   const CURRENT_PATH = "07%20Coordination/Story%20Completion%20Workflow/CURRENT.md";
   const IDEAS_POINTER_PATH = "08%20Story%20Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md";
+  const CURRENT_SNAPSHOT = {
+    sweep: "Macro Shape",
+    task: "SC-010: Build an endgame setup coverage matrix",
+    phase: "author gate",
+    complete: 9,
+    total: 27,
+    nextAction: "Answer SC-010 Question 7: identify the next endgame capability, rule, or information skill that must be demonstrated before the outcome presentation depends on it."
+  };
 
   function cleanMarkdown(value = "") {
     return value
@@ -11,7 +19,7 @@
       .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
       .replace(/\[\[([^\]]+)\]\]/g, "$1")
       .replace(/[\*_`>#]/g, "")
-      .replaceAll(" — ", ": ")
+      .replaceAll(` \u2014 `, ": ")
       .trim();
   }
 
@@ -119,11 +127,15 @@
     document.querySelector("#explorer-status").textContent = "Current project state loaded from repository Markdown.";
   }
 
-  if (typeof document !== "undefined") loadExplorer().catch(error => {
-    document.querySelector("#explorer-status").textContent = "Current project state could not be loaded. Open Progress and Ideas for the source records.";
-    document.querySelector("#explorer-idea-list").setAttribute("aria-busy", "false");
-    document.querySelector("#explorer-idea-list").append(element("li", "todo-error", error.message));
-  });
+  if (typeof document !== "undefined") {
+    renderCurrent(CURRENT_SNAPSHOT);
+    document.querySelector("#explorer-status").textContent = "September 3 project snapshot shown while live vault records load.";
+    loadExplorer().catch(error => {
+      document.querySelector("#explorer-status").textContent = "September 3 project snapshot shown. Live vault records could not be loaded.";
+      document.querySelector("#explorer-idea-list").setAttribute("aria-busy", "false");
+      document.querySelector("#explorer-idea-list").append(element("li", "todo-error", error.message));
+    });
+  }
 
   if (typeof module !== "undefined") module.exports = { parseCurrent, parsePointer, parseIdeas };
 })();

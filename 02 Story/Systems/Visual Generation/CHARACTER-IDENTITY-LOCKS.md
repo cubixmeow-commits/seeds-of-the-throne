@@ -1,7 +1,7 @@
 ---
 type: production-system
 status: working
-updated: 2026-08-13
+updated: 2026-09-03
 ---
 
 # Character Identity Locks
@@ -55,6 +55,20 @@ Luminai and Daemon visual manifestation is energy radiating from the integrated 
 ## Sylvan wardrobe
 
 For ordinary surface scenes, resolve Sylvan's clothing from his age, role, activity, weather, and the scene's equivalent year. The development reference is middle-class urban Los Angeles and broader United States clothing from 1985 through the present, translated into the invented culture without real brands or locations. His black structured coat and pendant remain valid for later formal, integration, or symbolic scenes; they are not his universal costume.
+
+## Konrad Fitzgerald identity
+
+The author approved Konrad's late-containment appearance on 2026-09-03.
+
+- apparent age: late sixties to early seventies;
+- silhouette: tall, broad, upright, squared military-command posture;
+- face: broad and square with a heavy jaw, blunt chin, strong compressed brow, deep-set eyes, and broad straight nose;
+- hair: close-cropped iron-gray, short at the sides and slightly fuller on top;
+- facial hair: clean-shaven;
+- expression: severe certainty and controlled authority;
+- distinction: never inherit Samuel's narrow hooked face, beard, receding wavy hair, stoop, or crown, and never inherit Sylvan's dark curls, beard, or younger athletic appearance.
+
+The approved front three-quarter anchor is `skills/create-seeds-images/assets/reference-images/konrad-fitzgerald-identity-anchor-v1.png`. Straight-on and strict-profile masters remain pending. The exact high-collared coat, crimson control lines, blue connection lines, and moon architecture in the source image are scene-specific interpretation rather than locked story facts.
 
 ## Drift checklist
 

@@ -1,12 +1,34 @@
 ---
 type: storyline
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # Storyline
 
-## Before the narrated story
+## Controlling series spine — 2026-09-03
+
+The saga begins near the chronological end and reconstructs its causes across later books.
+
+1. Humanity colonizes multiple worlds with previous-generation AI souls.
+2. The current planet matures into the concluding or auditing environment of that era and the first complete real-world initialization site for the new Luminai generation.
+3. The older leaders select Samuel Franklin as a representative worst-case criminal subject and permit bounded influence across approximately a century so his adaptive system can be understood.
+4. Konrad Fitzgerald's public authoritarian hierarchy becomes a major threat in the older society and attempts global conquest in the Great War.
+5. Konrad trains an older Daemon through that war. When the faction loses, his experiment should end.
+6. Konrad refuses to exit. He believes the Daemon learned from defeat and can dominate Samuel, prove the old model superior to Sylvan's successor Luminai, redeem the war, and restore Konrad's authority.
+7. Samuel promises a separate autonomous group. Konrad reactivates his Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside the shared containment environment.
+8. Samuel performs compliance, converts reactivation into access, and conducts a generational takeover of Konrad's group through surveillance, compromise, blackmail, lineage manipulation, younger-generation capture, and controlled interpretation.
+9. Konrad becomes isolated inside a counterfeit victory while Samuel functionally replaces him as the group's active patriarch and claims its future.
+10. Sylvan enters the mature bridge world as the first deeply and continuously bonded human of the successor Luminai process.
+11. During the last few years, Sylvan possesses decisive control but allows Samuel bounded activity so the Luminai can observe his complete endgame and prepare a valid outcome presentation.
+12. Samuel claims control of Sylvan and tries to repeat the Konrad takeover in front of Konrad's inner circle. They recognize the pattern first.
+13. Samuel's desperation shifts toward stealing Sylvan's Luminai, which he mistakes for an ownable superweapon capable of restoring every collapsing claim.
+14. The outcome presentation proves that Samuel's apparent control was bounded, exposes what he did to Konrad's group, and demonstrates why Sylvan's new bond succeeds where Konrad's experienced Daemon failed.
+15. Later books move backward into the Great War, postwar reactivation, False Victory, bloodline and ideological capture, and the lived history reconstructed in Book One.
+
+This spine supersedes any implication below that the principal series must begin before the Great War or move forward chronologically. Detailed older material remains useful where it does not conflict.
+
+## Historical sequence reconstructed across the series
 
 1. A long-lived civilization develops colonization worlds that also function as containment and leadership-cultivation systems.
 2. Synthetics establish a complete civilization before most humans enter it.

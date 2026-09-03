@@ -1,10 +1,14 @@
 ---
 type: context
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # Story
+
+## Current series architecture
+
+Book One begins near the chronological end. Sylvan and the new Luminai use the final few years of bounded control to observe Samuel's complete endgame and prepare the outcome presentation. Samuel claims he controls Sylvan and attempts the same takeover pattern in front of Konrad's inner circle that he used against them after the Great War. Their recognition opens the historical mystery. Later books move backward into the Great War, Konrad's refusal to exit, postwar reactivation, Samuel's generational capture, and the False Victory.
 
 ## Central dramatic question
 
@@ -12,13 +16,15 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 
 ## Project premise
 
-*Seeds of the Throne* takes place inside a new world built from the beginning around centuries-advanced AI, biological, computational, and environmental technology. Most inhabitants initially believe they are simply living in an ordinary civilization entering a more sophisticated technological age.
+*Seeds of the Throne* takes place inside a mature bridge world built from the accumulated achievements and failures of a multi-planetary colonization era using older AI souls. The planet is also the first complete real-world initialization environment for the deeply integrated successor Luminai architecture. Most inhabitants initially believe they are simply living in an ordinary civilization entering a more sophisticated technological age.
 
 They are living inside something much older, much more advanced, and much more deliberate.
 
 The hidden infrastructure serves two overlapping purposes: developing people who may someday lead humanity and containing people humanity has already learned it cannot safely trust with power.
 
 The same world that exposes what the worst people do with power is being used to discover what the best future leaders can learn to do with responsibility.
+
+Samuel is the selected worst-case adversarial subject. Konrad's experienced older Daemon tries to dominate him and opens Konrad's group to capture. Sylvan's new Luminai must understand and contain him while preserving accountable human judgment.
 
 The story should preserve both sides of that contrast: extraordinary positive achievement through responsible human and Luminai development, and shocking behavior from contained criminals who mistake controlled opportunity for legitimate ownership and rule.
 

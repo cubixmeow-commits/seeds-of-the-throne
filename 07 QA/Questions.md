@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # Questions
@@ -39,3 +39,14 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-027 | What independent roles train Sylvan and Orzai, what significant leadership failure belongs to each, and what first pace/disclosure/evidence conflict demonstrates complementary but independent judgment? | [[01 Sessions/Daily/2026-08-23 - Sylvan and Orzai Emerging Leaders]] | open |
 | Q-028 | What education, workplace, strongest medium, and signature project join Orzai's health/nutrition practice with video and 3D design, and how does that work lead toward colonization-scale responsibility? | [[01 Sessions/Daily/2026-08-23 - Orzai Health Nutrition and Creative Technology]] | open |
 | Q-029 | Should Konrad's demanded surrender spectacle and Sylvan's first bounded public audit share one ritual architecture, or remain separate events so failed predictions, false separation, lineage abuse, descendant agency, and the cooperation test do not overload one reveal? | [[08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001]] | open / non-canon author gate |
+| Q-030 | What does the end of the older multi-planetary colonization era mean: final colony, closed expansion plan, operating-model retirement, consolidation, or mandatory audit before further expansion? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-031 | Why is this mature planet uniquely suitable for the first complete real-world Luminai initialization, and what happens across earlier worlds if Sylvan succeeds or fails? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-032 | How much does Konrad know about Sylvan and the successor Luminai before he chooses to remain with Samuel? | [[02 Story/Characters/Konrad Fitzgerald]] | open |
+| Q-033 | Is Konrad's Daemon continuous from the Great War, rebuilt, or assembled from accumulated systems, and does Samuel deceive it, compromise it, or exploit its permissions without changing it? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-034 | What exact protected boundary lets Sylvan permit Samuel meaningful activity for several years without making Sylvan responsible for preventable abuse? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-035 | Which contradiction first makes Konrad's inner circle recognize that Samuel is repeating the postwar takeover method against Sylvan? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-036 | What does Samuel believe stealing Sylvan's Luminai technically requires, and what visible failure proves that the bond cannot be transferred as property? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-037 | What are the public, private, and protected evidence layers of the outcome presentation, particularly for descendants and coerced intermediaries? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-038 | What was Konrad's adult grandson coerced into doing, when did participation become active facilitation, what harm resulted, and what accountability or restitution remains possible? | [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]] | open |
+| Q-039 | How do the established child with Konrad's sister and wider lineage campaign fit chronologically into Samuel's attempt to become Konrad without reducing descendants to plot evidence? | [[02 Story/Systems/The Breeding Program and Lineage Blackmail]] | open |
+| Q-040 | What role does George retain in Book One now that Konrad's isolation and the inner circle's live discovery carry the principal outcome architecture? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |

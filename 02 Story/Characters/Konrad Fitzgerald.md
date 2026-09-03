@@ -2,12 +2,37 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-26
+updated: 2026-09-03
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, original conquest leader, contained criminal
 ---
 
 # Konrad Fitzgerald
+
+## 2026-09-03 foundation update
+
+Konrad's defining postwar decision is now established. The Great War should end his colonization experiment, but he voluntarily remains in containment because he believes the older Daemon he trained during the war has learned enough to dominate Samuel Franklin.
+
+Konrad treats the defeat as training data, not disproof. If his Daemon can contain Samuel before Sylvan's successor Luminai does, he believes one victory will:
+
+- prove the old AI-soul model did not fail;
+- show that weaker leaders, not his ideology, caused the Great War defeat;
+- justify every concession and sacrifice as preparation;
+- restore his group and breeding program;
+- force the real leaders to forgive his unauthorized continuation;
+- return control of the colonization plan to him.
+
+This creates his catastrophic sunk-cost engine. Each containment failure increases his need for the final victory that will supposedly redefine every failure. Samuel only has to keep the breakthrough appearing close enough to justify one more concession.
+
+Konrad accepts Samuel's promise of a separate autonomous domain and reactivates his Daemon, followers, hierarchy, infrastructure, breeding program, and bloodline systems inside the shared containment environment. He believes he is rebuilding the empire. He is creating Samuel's access path into it.
+
+At the Book One endgame, Konrad remains isolated inside a counterfeit victory and plans the empire he expects to receive after the final proof. His inner circle begins recognizing Samuel's takeover method before he does.
+
+See [[../Components/Bridge World and Luminai Initialization]], [[../Components/Book One Outcome Presentation and Reverse Discovery]], and [[../Groups/Konrad and Samuel Criminal Ecosystems]].
+
+## Approved visual identity
+
+Konrad's late-containment appearance is canonical for visual production: late sixties to early seventies in apparent age, tall and broad with an upright command silhouette, broad square face, heavy jaw, close-cropped iron-gray hair, clean-shaven, and severely controlled in expression. Exact clothing and symbolic control imagery remain scene-specific. Straight-on and strict-profile angle masters remain pending.
 
 ## Journal artifact
 

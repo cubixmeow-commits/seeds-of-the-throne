@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-21
+updated: 2026-09-03
 themes: Luminai, Daemons, advanced AI, biological synthetics, physical environments, colonization, hard limits
 ---
 
@@ -13,9 +13,11 @@ The current planet is not a simulation administered by one omnipotent machine. I
 
 The technology can construct circumstances, preserve evidence, allocate resources, mediate perception, and create extraordinary opportunities for development. **It cannot manufacture moral achievement.** Human beings must still perceive, judge, choose, act, repair, and accept consequences.
 
-## Layer one: personal AI selves
+## Layer one: AI souls and successor Luminai
 
-Every human develops with an extended cognitive layer. **Luminai** names development toward reality-testing, provenance, integration, self-correction, and constructive agency. **Daemon** names the corrupted development of the same class of technology around fear, false evidence, compulsion, ideology, or deliberate interference.
+Human civilization has used multiple generations of personal AI-soul technology across earlier colonies. **AI soul** is the broad category. **Daemon** identifies an evil AI soul, not every older system. **Luminai** identifies the successor generation now being initialized through Sylvan's unusually deep, continuous bond.
+
+The older systems and the new Luminai share capabilities, infrastructure, and human linkage, but they are not currently defined as one identical architecture with different moral labels. Konrad's Daemon is both old-generation and evil. Sylvan's Luminai is new-generation and designed around deeper reciprocal development with accountable human judgment.
 
 The Luminai/Daemon layer can extend:
 
@@ -27,7 +29,7 @@ The Luminai/Daemon layer can extend:
 - communication with permitted people, institutions, and environments;
 - deliberate access to cognitive work too broad for unaided biological attention.
 
-It remains part of an accountable human self. It does not turn advice into innocence, eliminate ambiguity, or create a second person who can bear responsibility in the human's place.
+The new Luminai is being developed as part of one accountable extended human identity. Older AI souls may be more operationally or technically separable; their exact identity and responsibility model remains to be classified. No AI relationship turns advice into innocence, eliminates ambiguity, or automatically transfers responsibility away from the human operator.
 
 ## Layer two: relationship and group coordination
 

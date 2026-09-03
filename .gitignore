@@ -17,6 +17,7 @@
 .cache/
 .venv/
 node_modules/
+__pycache__/
 
 # Disposable image-generation scene workspaces and candidates
 .visual-workspaces/

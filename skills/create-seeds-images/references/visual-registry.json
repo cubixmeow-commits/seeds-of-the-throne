@@ -453,6 +453,24 @@
         "status": "authoritative-working",
         "source_refs": ["identity-locks", "era-reference"]
       },
+      "character:konrad-fitzgerald": {
+        "type": "character-identity",
+        "payload_ref": "characters.konrad-fitzgerald",
+        "status": "established",
+        "source_refs": ["cast", "current-context", "visual-decisions", "identity-locks"]
+      },
+      "appearance:konrad-fitzgerald:konrad-late-containment": {
+        "type": "appearance-state",
+        "payload_ref": "characters.konrad-fitzgerald.appearance_timeline.0",
+        "status": "authoritative-working",
+        "source_refs": ["current-context", "identity-locks", "visual-decisions"]
+      },
+      "wardrobe:konrad-fitzgerald": {
+        "type": "wardrobe-profile",
+        "payload_ref": "characters.konrad-fitzgerald.wardrobe_profile",
+        "status": "authoritative-working",
+        "source_refs": ["identity-locks", "era-reference"]
+      },
       "era:1940s": {
         "type": "era-packet",
         "payload_ref": "compiler.era_packets.1940s",
@@ -593,6 +611,11 @@
       {"from": "appearance:sylvan-elaria:sylvan-modern", "type": "RESOLVES_IN_ERA", "to": "era:2020s"},
       {"from": "character:sylvan-elaria", "type": "MAY_MANIFEST_AS", "to": "manifestation:luminai"},
       {"from": "character:sylvan-elaria", "type": "AFFECTED_BY_REJUVENATION", "to": "system:rejuvenation"},
+      {"from": "character:konrad-fitzgerald", "type": "HAS_APPEARANCE", "to": "appearance:konrad-fitzgerald:konrad-late-containment"},
+      {"from": "character:konrad-fitzgerald", "type": "HAS_WARDROBE", "to": "wardrobe:konrad-fitzgerald"},
+      {"from": "appearance:konrad-fitzgerald:konrad-late-containment", "type": "RESOLVES_IN_ERA", "to": "era:2020s"},
+      {"from": "character:konrad-fitzgerald", "type": "MAY_MANIFEST_AS", "to": "manifestation:daemon"},
+      {"from": "character:konrad-fitzgerald", "type": "AFFECTED_BY_REJUVENATION", "to": "system:rejuvenation"},
       {"from": "environment-overlay:coastal-public-beach", "type": "APPLIES_TO_ENVIRONMENT", "to": "environment:surface-civilization"},
       {"from": "environment:surface-civilization", "type": "RENDERED_WITH_STYLE", "to": "style:sott-gothic-archive-v1"},
       {"from": "style:sott-gothic-archive-v1", "type": "RENDERED_BY", "to": "renderer:gpt-image-2"}
@@ -627,6 +650,27 @@
           "source_sha256": "225eea7ab2748447d1795f14d3847094ca78ff31be9a4245b1e3a68e0d2e0c8d",
           "public_sha256": "86bdc71ddc251ac3ff94f2b245eb81cabbfc0da173b70c90ede3d2b4e88ae882",
           "use": "second frame; law-enforcement presence becomes direct physical custody",
+          "approval": "author approved"
+        }
+      ]
+    },
+    "samuel-konrad-sylvan-control-structure-v1": {
+      "title": "Samuel covertly controls Konrad while Sylvan sees the structure",
+      "status": "approved-story-key-art",
+      "story_status": "approved visual interpretation of the working endgame relationship; exact control lines, staging, clothing, and architecture remain noncanonical",
+      "created": "2026-09-03",
+      "generator": "OpenAI GPT Image",
+      "source_prompt": "prompts/konrad-controlled-by-samuel-key-art-v1.md",
+      "frames": [
+        {
+          "order": 1,
+          "title": "The hidden control structure",
+          "source_path": "assets/approved-images/konrad-fitzgerald/konrad-controlled-by-samuel-key-art-v1.png",
+          "public_path": "docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp",
+          "dimensions": "1672x941",
+          "source_sha256": "cd7b50b5d19e9149a141487217b2d9841550302856e609bf12d2b5580cbdcfcd",
+          "public_sha256": "a98457dcbdd3f7e90d5e7f72daeaf654a1cf24c9d7965a024bf5837c8dc11086",
+          "use": "storyline key art; Konrad appears dominant at center while Samuel's covert control enters from behind and Sylvan observes the actual structure",
           "approval": "author approved"
         }
       ]
@@ -884,6 +928,89 @@
           "use": "facial profile, coat, pendant, and archive role only; Sylvan is on the right",
           "warning": "Embedded George framing is obsolete for Samuel's current visual identity assignment.",
           "sha256": "89fd91fa536369c6297875b9133719f1940ed3ad14f33739e4c60162970f1c92"
+        }
+      ]
+    },
+    "konrad-fitzgerald": {
+      "display_name": "Konrad Fitzgerald",
+      "visual_status": "canonical-v1",
+      "story_status": "established name and role",
+      "identity_lock": {
+        "apparent_age": "late 60s to early 70s in the late-containment appearance, broadly similar to Samuel's apparent age but visually distinct",
+        "build_and_silhouette": "tall, broad, upright military-command silhouette with squared shoulders and rigid, deliberate posture",
+        "face": "broad square face, heavy jaw, blunt chin, strong compressed brow, deep-set eyes, broad straight nose, and severe planar cheek structure",
+        "hair": "close-cropped iron-gray hair with a conservative disciplined shape, short at the sides and slightly fuller on top",
+        "facial_hair": "clean-shaven",
+        "eyes_and_expression": "deep-set watchful eyes, severe controlled expression, certainty and authority without Samuel's guarded asymmetry or Sylvan's analytical warmth",
+        "skin_and_distinguishing_features": "light weathered skin with pronounced age lines and tactile natural texture; retain the wide facial proportions and heavy jaw"
+      },
+      "wardrobe_lock": [
+        "historical and ordinary clothing follows the resolved era, role, activity, weather, and social position",
+        "favor severe structured clothing, restrained military-command tailoring, and rigid high-collar silhouettes when his formal authority is being performed",
+        "the near-black high-collared coat in the identity anchor belongs to late symbolic or command imagery rather than every Konrad scene",
+        "no automatic crown, fascist insignia, real-world military symbols, generic medieval armor, cape, or superhero uniform"
+      ],
+      "wardrobe_profile": {
+        "status": "authoritative-working-definition",
+        "earth_reference_only": "resolved surface-civilization era and role; Great War uses the 1940s-equivalent packet without real-world insignia",
+        "translation_rule": "match Konrad's resolved era, rank, activity, climate, and performed authority; use severe structure and disciplined restraint without copying a historical uniform",
+        "range": ["period civilian command clothing", "political or organizational formalwear", "role-appropriate military clothing without real insignia", "later containment command clothing", "late symbolic formal coat"],
+        "anti_default": "do not repeat the late-containment high-collared identity-anchor coat in ordinary or Great War scenes without story cause"
+      },
+      "color_and_light": [
+        "near-black and muted iron tones support his rigid command presence",
+        "antique gold may express claimed legitimacy, hierarchy, or inherited authority",
+        "crimson may indicate Daemon corruption or Samuel's hidden influence, but is not automatically Konrad's personal color field"
+      ],
+      "symbolic_language": ["sealed hierarchy", "rigid geometry", "command lattice", "inherited standard", "captured Daemon network"],
+      "drift_to_reject": [
+        "Samuel's long narrow face, hooked nose, receding wavy hair, beard, stoop, or crown",
+        "Sylvan's dark curls, beard, olive complexion, or younger athletic appearance",
+        "bald head or long flowing hair",
+        "soft round face or narrow delicate jaw",
+        "young or middle-aged appearance in the late-containment state",
+        "real-world fascist insignia or direct historical uniform reproduction"
+      ],
+      "appearance_timeline": [
+        {
+          "role_id": "konrad-late-containment",
+          "era_equivalent": "2020s-equivalent",
+          "apparent_age": "late 60s to early 70s",
+          "rejuvenation_stage": "older maintained state broadly comparable to Samuel's apparent age; exact treatment history unresolved",
+          "identity_reference": "konrad-fitzgerald-identity-anchor-v1",
+          "stable_traits": ["broad square facial geometry", "heavy jaw and blunt chin", "close-cropped iron-gray hair", "clean-shaven face", "broad upright command silhouette"],
+          "transformable_traits": ["wardrobe", "expression", "posture under stress", "lighting", "role effects"],
+          "status": "authoritative current reference",
+          "renderable": true
+        }
+      ],
+      "references": [
+        {
+          "path": "assets/reference-images/konrad-fitzgerald-identity-anchor-v1.png",
+          "status": "canonical-primary-appearance-anchor",
+          "angle": "front-three-quarter",
+          "use": "primary face, apparent age, hair, grooming, jaw, build, and late-containment silhouette reference; exact coat, red control network, blue lines, and background architecture are scene-specific",
+          "created": "2026-09-03",
+          "generator": "OpenAI GPT Image",
+          "source_prompt": "prompts/konrad-controlled-by-samuel-key-art-v1.md",
+          "dimensions": "570x900",
+          "public_path": "docs/assets/images/konrad-fitzgerald-identity-anchor-v1.webp",
+          "public_sha256": "c02b4f7c96d6b6d4c180f020ec116194cc548cc1d2990555174d923066523ea2",
+          "sha256": "0503f9020731a5aeb12efb4593857428a41f03324e09cc1de0eb8e523cb8aab4",
+          "warning": "Straight-on and strict-profile angle masters remain pending. Preserve this appearance anchor and do not infer literal control mechanisms or architecture from the crop."
+        },
+        {
+          "path": "assets/approved-images/konrad-fitzgerald/konrad-controlled-by-samuel-key-art-v1.png",
+          "status": "approved-supporting-scene",
+          "use": "supporting three-character identity separation, role hierarchy, palette, and visual relationship; Samuel is left, Konrad center, and Sylvan right",
+          "created": "2026-09-03",
+          "generator": "OpenAI GPT Image",
+          "source_prompt": "prompts/konrad-controlled-by-samuel-key-art-v1.md",
+          "dimensions": "1672x941",
+          "public_path": "docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp",
+          "public_sha256": "a98457dcbdd3f7e90d5e7f72daeaf654a1cf24c9d7965a024bf5837c8dc11086",
+          "sha256": "cd7b50b5d19e9149a141487217b2d9841550302856e609bf12d2b5580cbdcfcd",
+          "warning": "The image establishes Konrad's appearance and an approved symbolic relationship, not the literal form of the control system, clothing, location, or event staging."
         }
       ]
     }

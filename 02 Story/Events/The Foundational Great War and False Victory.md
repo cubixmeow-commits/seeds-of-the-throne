@@ -1,10 +1,18 @@
 ---
 type: event
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # The Foundational Great War and False Victory
+
+## 2026-09-03 causal clarification
+
+Konrad's defeat should end his participation in the colonization process. He chooses to remain because he believes his Great War Daemon learned from failure and can take control of Samuel. Success would let him preempt Sylvan's new Luminai test, recast the war as preparation, restore his faction, and claim authority over the colonization plan.
+
+Samuel's false promise of an autonomous group is the bridge into the long coup. Konrad reactivates the Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside Samuel's containment environment. The exact permission and inheritance mechanism remains unresolved, but the causal result is established: the attempted containment of Samuel opens Konrad's group to Samuel.
+
+Book One reveals this history from the far end. Samuel's live attempt to claim control of Sylvan repeats the postwar method before Konrad's inner circle and gives them a way to recognize what happened to their group.
 
 This is the current macro sequence for the foundational war. It establishes ownership, causality, and the origin of the False Victory without pretending unresolved battles, political transitions, placements, or dates are settled.
 

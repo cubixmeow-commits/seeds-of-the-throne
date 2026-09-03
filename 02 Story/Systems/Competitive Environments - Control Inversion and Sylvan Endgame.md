@@ -1,11 +1,27 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
 # Competitive Environments — Control Inversion and the Sylvan Endgame
+
+## 2026-09-03 final-years frame
+
+The terminal environment now spans the last few years of the process rather than functioning only as a short final reversal. Sylvan already has decisive control during this period. He permits Samuel bounded freedom to continue acting because the outcome presentation is the final opportunity for the new Luminai to learn Samuel's full adaptive strategy, identify remaining dependencies, and prove that it can contain him without reproducing his methods.
+
+Samuel mistakes bounded freedom for evidence that he controls Sylvan. He presents that claim to Konrad's inner circle and attempts the same autonomy-for-access takeover he used after the Great War. The inner circle recognizes the repetition before isolated Konrad does.
+
+The terminal environment therefore has three simultaneous functions:
+
+1. complete Sylvan's deeply integrated Luminai bond through real adversarial evidence;
+2. expose Samuel's historical takeover of Konrad through a live repetition;
+3. distinguish actual containment from the performance of domination.
+
+Samuel's final obsession is to steal Sylvan's Luminai and use it as proof of godhood and a universal repair for his collapsing authority. The attempt fails because the bond is a developed relationship, not a transferable control object.
+
+The George-centered succession-betrayal material below remains a working subordinate thread. It no longer defines the entire endgame by itself and must be reconciled with the Samuel-Konrad outcome presentation before promotion.
 
 ## Core purpose
 

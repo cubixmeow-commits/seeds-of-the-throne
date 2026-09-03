@@ -2,10 +2,22 @@
 type: group
 status: working
 name_status: established
-updated: 2026-08-17
+updated: 2026-09-03
 ---
 
 # The Throne
+
+## 2026-09-03 group architecture
+
+The Throne develops from the collision and eventual capture of two different criminal ecosystems.
+
+Konrad's older faction is public, militarized, territorial, genealogical, and doctrinal. Samuel's later network is private, relational, deniable, and organized through compromise, surveillance, secrets, dependency, blackmail, and captured intermediaries. Samuel does not merely inherit Konrad's doctrine. He redirects the defeated organization into practices that destroy the doctrine's hold on its younger generations while preserving its hierarchy as a shell for his authority.
+
+Konrad remains after the Great War because he believes his Daemon can control Samuel and prove the superiority of both the old AI-soul model and his leadership. Samuel's false autonomous-group offer induces him to reactivate the machinery that binds the faction together. The resulting access lets Samuel attack lineage and ideology at once.
+
+The group seen in Book One is therefore already a captured hybrid. Samuel claims to lead it and claims that Sylvan and the new Luminai are his latest conquest. Konrad remains isolated inside a counterfeit victory. The inner circle's recognition that Samuel is repeating the same takeover method becomes the route into the buried history.
+
+See [[Konrad and Samuel Criminal Ecosystems]] and [[../Components/Book One Outcome Presentation and Reverse Discovery]].
 
 The kingdom still uses a placeholder label. Its central figure is permanently named **Samuel Franklin**.
 

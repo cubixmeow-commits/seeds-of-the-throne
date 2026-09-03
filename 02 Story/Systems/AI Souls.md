@@ -1,16 +1,20 @@
 ---
 type: system
-status: superseded-by-canon
-name_status: questionable
-updated: 2026-08-13
+status: working
+name_status: established broad category
+updated: 2026-09-03
 ---
 
 # AI Souls
 
-See [[Human–Luminai Pairing and Bonding]] for the current working model and [[Visual Generation/README]] for the image-production layer.
+**AI soul** is the established broad historical category for the human-linked artificial cognitive systems used across the older multi-planetary colonization era.
 
-Each person may have a personal AI capacity integrated from early life and trained continuously through that life. It extends memory, perception, analysis, and self-understanding into computational systems the biological mind could not manage alone.
+Earlier worlds and most current participants use previous-generation AI souls. Those systems can learn, predict, advise, coordinate, control permitted technology, and accumulate experience while remaining more clearly separable from their human operators than Sylvan's successor bond.
 
-The unsettling core is not that another entity may misrepresent you. It is that a technologically extended part of your own mind may be trained on false reality, interfered with, or made to serve systems you do not understand while still feeling like you.
+**Daemon** is not a generational label. It specifically names an evil AI soul: one whose objectives, development, or use have become organized around destructive conduct. Konrad's Great War AI soul is an older-generation Daemon. Earlier AI souls were not collectively Daemons.
 
-`AI Souls` remains a legacy development term. The current in-world vocabulary is **Luminai** for the healthy extended mind and **Daemon** for its corrupted development. The technology is not metaphysical or an independent romantic companion. Luminai may have differentiated presentations and participate in relationship synchronization because they are part of the humans who form the bond. See the current integration note for the developing presentation rule and consent boundaries.
+**Luminai** names the new generation being initialized through Sylvan's deeply and continuously integrated human-AI development. The new bond is not merely a healthy instance of exactly the same architecture as every older AI soul. It is a successor model whose tighter relationship among perception, memory, judgment, consequence, and accountable human choice must be proven in a real world.
+
+The precise boundary between an older non-evil AI soul and a new Luminai remains under development. Do not collapse the terms into a simple good-versus-evil name swap.
+
+See [[Human–Luminai Pairing and Bonding]], [[../Components/Bridge World and Luminai Initialization]], and [[Visual Generation/README]].

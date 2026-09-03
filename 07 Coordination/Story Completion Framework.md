@@ -1,11 +1,14 @@
 ---
 type: planning-framework
 status: active
-updated: 2026-08-24
+updated: 2026-09-03
 source_authority: author-directed synthesis
 ---
 
 # Story Completion Framework
+
+> [!IMPORTANT]
+> The September 3 foundation integration supersedes the framework's earlier George-centered endgame wherever they conflict. Book One now begins near the chronological end with Sylvan's bounded observation of Samuel, Konrad isolated inside a counterfeit victory, and Konrad's inner circle recognizing Samuel's repeated capture method. George remains important but his exact endgame function requires sequence-level reconciliation. The live execution authority remains [[07 Coordination/Story Completion Workflow/CURRENT|Current Story Completion State]].
 
 ## Purpose
 

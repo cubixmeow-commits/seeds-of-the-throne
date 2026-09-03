@@ -1,7 +1,7 @@
 ---
 type: context
 status: superseded-as-execution-list
-updated: 2026-08-24
+updated: 2026-09-03
 ---
 
 # Legacy Brainstorming Inventory
@@ -17,7 +17,7 @@ Work through these one at a time in the next brainstorming sessions. The immedia
 
 0a. [x] **Implement journal artifacts and Weekly Story Synthesis.** The vault now has five seeded journal profiles, including Orzai's working visual-development profile, plus registries, entry/image templates, forensic integration, two proposed Samuel/Konrad entries, ten weekly reports, three optional audits, and Story Loop routing. See [[02 Story/Artifacts/Journals/00 Journal System]] and [[07 Coordination/Weekly Synthesis/README]].
 
-0b. [ ] **Run the first Weekly Story Synthesis and journal approval pass.** Use Deep or Exhaustive mode against the full vault, then review the queue before any promotions. Separately decide the first journal object/handwriting reference to approve; do not generate Konrad or George as visible people until identity references exist.
+0b. [ ] **Run the next Weekly Story Synthesis and journal approval pass.** Use Deep or Exhaustive mode against the full vault, then review the queue before any promotions. Konrad's late-containment visual identity was approved on 2026-09-03; George still requires an approved identity reference before visible-person generation.
 
 0c. [x] **Build four distinct journal design bibles and candidate boards.** Samuel, Konrad, Sylvan, and Orzai now have differentiated physical objects, handwriting construction, drawing grammar, word/image integration, emotional variants, forensic fingerprints, extensive exact sample libraries, and object-only candidate boards. All boards remain unapproved; Sylvan's generated dates and numeric confidence are explicitly invalid placeholders. See [[02 Story/Artifacts/Journals/05 Four-Journal Differentiation Matrix]].
 

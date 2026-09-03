@@ -1,11 +1,20 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-08-26
+updated: 2026-09-03
 scope: single current pickup point
 ---
 
 # Current Pickup
+
+## 2026-09-03 bridge-world integration checkpoint
+
+- The 2026-09-02 mobile handoff has been reconciled into the vault's premise, chronology, AI-soul terminology, Samuel/Konrad causal structure, Book One architecture, criminal ecosystems, visual registry, QA, and public atlas.
+- AI soul is the broad historical category; Daemon means an evil AI soul; Konrad's Great War system is an older Daemon; Sylvan's Luminai is the successor deeply integrated generation.
+- The current planet is now the bridge between the closing older colonization era and the first real-world initialization of the successor Luminai.
+- Book One begins near the chronological end. Later books reconstruct the Great War, postwar reactivation, False Victory, and generational takeover.
+- SC-010 Questions 5 and 6 are accepted from the author's new decisions: bounded adversarial observation with preserved control, and repeated-pattern reconstruction across live behavior and historical evidence.
+- Resume at SC-010 Question 7. Ask one author-gate question at a time.
 
 The active workflow is the horizontal **Macro Shape** sweep from [[Story Completion Workflow/CURRENT]]. The authoritative author-facing checklist remains [[Weekly Synthesis/CURRENT-COMPLETION-TODO]].
 
@@ -69,13 +78,13 @@ The active workflow is the horizontal **Macro Shape** sweep from [[Story Complet
 - This integration develops progressively and still obeys the process-enforced human-authority rule for consequential physical-world actions.
 - Exact device classes, range, protocols, access mechanics, demonstrations, and failures are deferred.
 
-## Current author gate — SC-010 Question 5
+## Current author gate — SC-010 Question 7
 
-> **What is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the final conflict depends on it?**
+> **After bounded adversarial observation and repeated-pattern reconstruction, what is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the outcome presentation depends on it?**
 
 Name only one category. Do not design its exact scene yet.
 
-Research-derived option now available, not selected: **consequential command-role discrimination**.
+Research-derived option still available, not selected: **consequential command-role discrimination**.
 
 ## Interaction rule
 

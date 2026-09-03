@@ -1,11 +1,21 @@
 ---
 type: story-component
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 themes: Great War, authoritarian conquest, Samuel exile, sabotage, defeat, containment, false victory, George placement
 ---
 
 # The Great War and the False Victory
+
+## Postwar second experiment — 2026-09-03
+
+The Great War defeat should remove Konrad from the colonization experiment. His continuation is a deliberate refusal, not an automatic sentence with no alternative.
+
+Konrad remains because he believes the older Daemon trained during the war has learned enough to dominate Samuel Franklin. He expects that result to prove the older AI-soul model and his fascist leadership superior to the real leaders' successor Luminai process. In his preferred account, the war becomes training, containment becomes infiltration, every sacrifice becomes preparation, and one final victory restores his authority.
+
+Samuel exploits that redemptive delusion. He offers a separate autonomous group and performs the submission Konrad's Daemon expects. Konrad's reactivation of followers, systems, hierarchy, and the breeding program becomes the causal bridge from Great War defeat to Samuel's long takeover.
+
+The False Victory is therefore not only Samuel's reinterpretation of the lost war. It is the story that lets Konrad continue an unauthorized second attempt and treat each new concession as evidence that victory remains close.
 
 ## Core sequence
 

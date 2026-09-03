@@ -168,7 +168,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260829';
+$assetVersion = '20260903';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -242,16 +242,16 @@ function explorer_format_bytes(?int $bytes): string
         <section class="explorer-hero" aria-labelledby="explorer-title">
             <img
                 class="explorer-hero__image"
-                src="../../docs/assets/images/samuel-sylvan-confrontation.jpg"
-                alt="Two opposing figures face one another across a divided red and gold world, with a throne between them."
-                width="1584"
-                height="1024"
+                src="../../docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp"
+                alt="Konrad stands under Samuel's hidden red control while Sylvan observes from the clear opposing side."
+                width="1672"
+                height="941"
                 fetchpriority="high">
             <div class="explorer-hero__veil" aria-hidden="true"></div>
             <div class="explorer-hero__content wrap">
                 <p class="explorer-hero__label">Project Explorer</p>
                 <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
-                <p class="explorer-hero__lede">Track the current story work, then browse the canon, research, visual systems, drafts, and decisions behind the project.</p>
+                <p class="explorer-hero__lede">Track the bridge-world foundation update, then browse the canon, research, visual systems, drafts, and decisions behind the project.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
                     <a class="archive-cta archive-cta--primary" href="#story-progress">
                         <span>Story progress</span>
@@ -274,13 +274,13 @@ function explorer_format_bytes(?int $bytes): string
 
                 <article class="explorer-assessment" aria-labelledby="assessment-title">
                     <div>
-                        <p class="explorer-assessment__date">Weekly assessment · August 27, 2026</p>
-                        <h3 id="assessment-title">The work has shifted from expanding the world to completing the story.</h3>
+                        <p class="explorer-assessment__date">Foundation update · September 3, 2026</p>
+                        <h3 id="assessment-title">The old colonization era and the new Luminai process now meet in one test.</h3>
                     </div>
                     <div>
-                        <p>Character motives, system rules, evidence, and conflicting beliefs are beginning to operate as one causal engine. The next phase orders discoveries, tests permissions, and turns established material into scenes.</p>
-                        <p class="explorer-assessment__method"><span>Current method</span> Observe, test, understand, counter, expose.</p>
-                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Weekly Reports/2026-08-27 - Weekly Development Assessment.md')) ?>"><span>Read the spoiler-safe assessment</span><span aria-hidden="true">↗</span></a>
+                        <p>Konrad tries to redeem the older Daemon by controlling Samuel. Samuel turns that attempt into access. Book One begins near the outcome, where Sylvan's successor Luminai contains the same criminal system and reconstructs what happened.</p>
+                        <p class="explorer-assessment__method"><span>Current method</span> Bound action, observe the method, compare the record, expose the hidden command.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Published/2026-09-03 - Bridge World Atlas Update.md')) ?>"><span>Read the foundation update record</span><span aria-hidden="true">↗</span></a>
                     </div>
                 </article>
 

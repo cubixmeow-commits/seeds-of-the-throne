@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-08-21
+updated: 2026-09-03
 themes: participants, governance, command authority, containment, permissions, accountability
 ---
 
@@ -43,6 +43,18 @@ The core balance is:
 **contained criminals begin with major tactical and informational advantages; participants retain rule-protected paths to survival, learning, verification, and eventual reversal.**
 
 This makes the ordeal unfair in the ordinary sense while still being structurally winnable.
+
+## Reactivated-jurisdiction inheritance
+
+**Established causal result:** after the Great War, Konrad voluntarily remains in the colonization process and reactivates his Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside a containment environment where Samuel already possesses earlier structural priority. The apparently separate autonomous group Samuel promises is not structurally independent. This gives Samuel the access required for the later takeover.
+
+**Accepted macro implementation:** `Primary` is a negotiated alpha-status position in a tiered permission hierarchy. Samuel retains broad cross-domain visibility, surveillance, information, influence, and meaningful decision authority over initiatives operating inside his containment sphere, but not blanket sovereignty or a universal override. Konrad and other negotiated leaders retain protected positions and genuine domain authority.
+
+The Fitzgerald breeding, lineage, and younger-generation systems do not migrate automatically. Konrad must voluntarily accept or reactivate them inside what he believes is a separate domain. Once active inside Samuel's sphere, Konrad remains beta with substantial real operating authority, while Samuel's alpha standing gives him the hidden visibility and decision influence needed to conceal competing interventions.
+
+**Still unresolved:** detailed permission weighting, the exact registration or lock event, evidence of the transfer, hard limits, conflict resolution among protected leaders, and why later reset cannot undo the consequences. Do not claim that every imported person or system automatically becomes Samuel's property. Preserve the distinction among visibility, permission inheritance, command authority, observation, and later manipulation.
+
+The eventual rule must explain why Konrad can still exercise meaningful local authority, why Samuel gains a durable hidden advantage, what evidence records the transfer, and why the hierarchy cannot be reset once the damage becomes obvious.
 
 ## Participant authority model
 

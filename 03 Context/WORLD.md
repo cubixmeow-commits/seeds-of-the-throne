@@ -1,12 +1,14 @@
 ---
 type: context
 status: working
-updated: 2026-08-18
+updated: 2026-09-03
 ---
 
 # World
 
-A mature interplanetary parent civilization builds a planet as both colonization infrastructure and a developmental environment. Its legitimate real leaders are thousands of years old and have already expanded humanity to numerous successful colonization planets. Those worlds provide the knowledge, production, institutions, and support required for the current planet, a later-generation project that is more technologically controlled and advanced than its predecessors.
+A mature interplanetary parent civilization has already expanded humanity to numerous successful worlds using previous-generation AI souls. Its legitimate real leaders are thousands of years old. Those worlds provide the knowledge, production, institutions, and support required for the current planet.
+
+The current planet is a bridge between eras: the concluding, consolidating, or auditing environment of the older colonization model and the first complete real-world initialization environment for a new generation of deeply integrated Luminai. It remains both a containment and leadership-cultivation world.
 
 ## Hidden technological foundation
 
@@ -28,7 +30,7 @@ See [[02 Story/Components/Hidden Technological Foundation and Awakening]].
 
 Its largest empires have endured across multiple millennia and are led by rulers who disagree in good faith about containment, rehabilitation, boundaries, evidence, and leadership cultivation. Biological synthetics populate and develop the planet before humans are integrated.
 
-The world is coordinated by a layered AI ecology rather than one omnipotent machine: personal Luminai/Daemon cognition, consent-based relationship and group systems, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale coordination. A Luminai or Daemon can operate independently from conscious attention through the human subconscious mind while remaining part of one extended identity. Buildings, transport, medicine, evidence, identity, resources, and permissions can be computationally mediated while remaining physically real. Technology can create constraints and developmental opportunity but cannot rewrite causality, guarantee truth from false inputs, or manufacture moral achievement.
+The world is coordinated by a layered AI ecology rather than one omnipotent machine: older AI souls, Sylvan's successor Luminai architecture, consent-based relationship and group systems, institutional intelligences, biological synthetics, responsive physical environments, and distributed colony-scale coordination. A Daemon is specifically an evil AI soul, not the name for every earlier system. Buildings, transport, medicine, evidence, identity, resources, and permissions can be computationally mediated while remaining physically real. Technology can create constraints and developmental opportunity but cannot rewrite causality, guarantee truth from false inputs, or manufacture moral achievement.
 
 “Story functionality” is therefore not one magical reality-rewriting mechanism. Its effects emerge from many systems acting together: personal cognition, synthetics, information routing, communications, identity and permissions, institutional AI, environmental controls, resource allocation, responsive spaces, evidence systems, and hidden colony-scale coordination.
 
@@ -42,9 +44,9 @@ Humans inside usually experience the constructed civilization as ordinary realit
 
 An awakening is increasingly understood as the moment when the hidden technological layer of that reality begins to present itself. The participant's earlier life was not fake. The revelation is that ordinary reality was supported and shaped by systems the participant did not yet understand.
 
-Every participant develops alongside a personal AI self. The AI grows through long interaction with the person's mind, subconscious processes, behavior, decisions, relationships, and environment. It may remain largely hidden from conscious awareness during early life and later present itself as the participant reaches a consequential developmental placement, likely during the twenties or thirties depending on readiness and role.
+Participants in the older colonization era develop with previous-generation AI souls. Sylvan's process is different: the new Luminai grows through a much deeper continuous wireless relationship with his mind, subconscious processes, behavior, choices, relationships, and environment. The precise classification of older healthy AI souls, the transition into the new architecture, and the differences in identity integration remain open.
 
-Legitimate reciprocal development can produce the Luminai trajectory. Corruption, coercive use, pathological reinforcement, or weaponization can produce the Daemon trajectory. Exact interfaces, age thresholds, consent rules, developmental stages, and hard limits remain working material.
+Konrad's older AI soul is a Daemon because it is evil and organized around his destructive objective. Sylvan's Luminai is the successor generation being tested against the failures that the older process preserved.
 
 ## Surface reality
 

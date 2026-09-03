@@ -14,6 +14,20 @@ characters:
 
 # The Inverted Containment Trap
 
+## 2026-09-03 expanded foundation
+
+The inversion now operates at two historical scales.
+
+After the Great War, Konrad voluntarily enters or remains in shared containment because he believes his experienced Daemon is containing Samuel. Samuel performs the obedience the Daemon expects, studies the systems Konrad reactivates, and turns the attempted containment into access to Konrad's group.
+
+During Book One's final years, Samuel repeats the pattern against Sylvan. He believes he is controlling Sylvan and will ultimately steal the new Luminai. Sylvan actually preserves decisive authority and allows Samuel bounded activity so the bond can learn the complete strategy and convert continued intervention into evidence.
+
+The structural rhyme is now:
+
+**Konrad thinks he contains Samuel -> Samuel captures Konrad's group -> Samuel thinks he contains Sylvan -> Sylvan and the Luminai expose Samuel's capture method.**
+
+The older opening claim below that Samuel and George want to place Sylvan inside a “simulated environment” is superseded where literal. The planet and final environment are physically real, technologically bounded environments rather than simulations. George may remain part of the visible attack and maintained reality, but Book One's newly dominant discovery structure centers Samuel, Konrad's inner circle, and Konrad's isolation.
+
 ## Core mechanism
 
 Samuel and George do not enter the trap because they think they are being contained.

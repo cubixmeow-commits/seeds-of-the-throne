@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-26
+updated: 2026-09-03
 themes: breeding program, reproductive abuse, genealogy, racist purity doctrine, lineage blackmail, common knowledge, Sylvan evidence
 ---
 
@@ -14,6 +14,8 @@ The fallen empire maintained a centralized reproductive and lineage program tied
 Elements of the program continue inside containment through fertility services, genealogy, identity certification, family records, and the contained organization's insistence on preserving recognized lineages.
 
 Konrad genuinely controls these systems in his own city before the defeat he never considered. After the surviving leadership enters the largest empire's containment environment, Samuel remains an outsider but persuades Konrad to reactivate or migrate Fitzgerald machinery into a shared environment where Samuel holds structural alpha priority. Samuel presents Konrad's half as separate; the separation is false. That migration creates the causal path toward Samuel's influence, revenge, dynastic corruption, and private blackmail. The exact reactivation mechanism, automatic powers, and bounded observation limits remain unresolved.
+
+Konrad's motive is now explicit: he believes his Great War Daemon can use the reactivated system to dominate Samuel and prove that Konrad can achieve with an older AI soul what Sylvan is meant to prove with the successor Luminai. The breeding program is not accidentally left exposed. Konrad brings it back because he believes final victory will restore its legitimacy and forgive every risk.
 
 ## The purity doctrine
 
@@ -66,6 +68,16 @@ The displayed dynasty may include:
 - documentary branches with no verified biological counterpart.
 
 Mixed ancestry is not the violation. Samuel's crimes are nonconsensual reproductive control, deception, identity manipulation, and the use of people as instruments. The faction's shame and vulnerability exist because its own racist doctrine makes ancestry a condition of belonging.
+
+## Ideological succession capture
+
+Samuel also attacks the ideology's hold on the younger generations. He converts heirs and descendants into intermediaries inside his compromise network, encourages rebellion against Konrad through dependence on Samuel, and uses their participation to claim that he has replaced Konrad as the group's real patriarch.
+
+Konrad's adult grandson may operate inside this system for roughly two decades, from his thirties into his fifties. The initial coercion, later willing participation, harms, responsibility, and possibility of disclosure remain unresolved and must be assessed individually rather than collapsed into victim or perpetrator alone.
+
+Samuel's child with Konrad's sister is part of the ultimate replacement and blackmail revelation. The existence and function are established; the circumstances, agency, chronology, and evidence remain author-gated.
+
+“Bloodline pollution” is only the faction's interpretation. Objectively, Samuel destroys the reliability and coercive authority of Konrad's lineage system through reproductive abuse, false records, unauthorized descendants, and instrumentalization. No child is polluted.
 
 Konrad is not merely handed one false record. He lives inside a mutually reinforcing display: family encounters, institutional roles, medical certifications, public ceremonies, and genealogical records all appear to confirm one another. Samuel controls enough of those channels to let Konrad believe the dynasty is flourishing while the verified line has become much smaller and more compromised than he understands.
 

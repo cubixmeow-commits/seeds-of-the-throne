@@ -1,10 +1,24 @@
 ---
 type: context
 status: active
-updated: 2026-08-26
+updated: 2026-09-03
 ---
 
 # Current
+
+## Foundational integration — 2026-09-03
+
+The current planet is now the **bridge world** between two eras: the concluding or auditing environment of humanity's mature multi-planetary colonization process using older AI souls, and the first complete real-world initialization environment for a new generation of deeply integrated Luminai.
+
+**Terminology:** AI soul is the broad historical category. Daemon means an evil AI soul. Konrad's Great War AI soul is an older Daemon. Luminai names the successor generation being initialized with Sylvan. Do not call all older AI souls Daemons or project every property of Sylvan's bond backward onto them.
+
+**Central comparison:** Konrad refuses to exit after the Great War because he believes his experienced Daemon can contain Samuel, outperform Sylvan's new Luminai, redeem every failure, and restore Konrad's authority. Samuel's false autonomous-group offer induces Konrad to reactivate his people and systems inside Samuel's containment sphere. Konrad's attempt at domination gives Samuel the access required to capture the group.
+
+**Series architecture:** Book One begins near the chronological end. During the final few years, Sylvan already holds decisive control but allows Samuel bounded activity so the Luminai can learn the full endgame and prepare the outcome presentation. Samuel attempts the same takeover method against Sylvan before Konrad's inner circle; they recognize what happened to them before Konrad does. Later books move backward into the Great War, postwar reactivation, False Victory, and generational takeover.
+
+**Antagonist ecosystems:** Konrad's faction uses public hierarchy, militarization, purity, territory, bloodline, and conformity. Samuel's network uses private compromise, access, surveillance, shame, dependency, blackmail, and captured intermediaries. Both instrumentalize people. Fascist terms such as pollution or degeneracy remain antagonist ideology; consensual identity, sexuality, femininity, and mixed ancestry are never framed as corruption.
+
+**Visual decision:** Konrad's late-containment appearance is approved and locked: broad square face, heavy jaw, close-cropped iron-gray hair, clean-shaven, older broad command silhouette. Exact costume and control-line imagery remain interpretive.
 
 ## Current phase
 
@@ -14,9 +28,12 @@ Foundation, human–AI integration architecture, dynastic character development,
 
 The vault is now explicitly a **development-first environment**. Use [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] to move from scoped retrieval and [[08 Story Loop/GAP-ANALYZER|gap analysis]] through breadth-first alternatives, selective research, multiscale structure, lightweight characters, optional short prototypes, focused critics, and an author gate. Finished-novel prose is downstream. When story-form testing is useful, default to 500–1,500 word non-canon prototypes using [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]], not polished manuscript chapters.
 
-Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. The research exposes **consequential command-role discrimination** as one possible answer category for active SC-010 Question 5, but it is not selected or canon. Current Pickup remains the exact author gate.
+Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. SC-010 Questions 5 and 6 are now accepted at macro depth: Sylvan uses bounded adversarial observation under decisive control, then reconstructs Samuel's repeated method through live behavior and historical evidence. Question 7 is the active author gate. Current Pickup remains the exact execution pointer.
 
 ## Active development handoff — 2026-08-21
+
+> [!IMPORTANT]
+> This earlier handoff remains useful implementation history, but the September 3 foundation integration now governs where it conflicts. Samuel is the primary opponent in the Book One outcome presentation; Konrad's isolation and inner-circle recognition are the central historical mirror. George's prior endgame material remains a subordinate thread pending explicit sequence-level reconciliation.
 
 The current modern-story spine is now:
 
@@ -41,15 +58,15 @@ The next author-led work is the Samuel–Konrad containment hierarchy, one quest
 
 - A colonization world that simultaneously contains dangerous people and cultivates future leaders.
 - A mature interplanetary humanity led by real leaders who are thousands of years old and have already expanded across numerous successful colonization planets. Those earlier worlds supply the knowledge and capacity for the current planet, which is unusually advanced and technologically managed.
-- Every human develops alongside a personal AI self / Luminai, making human–AI co-development a foundational feature of the civilization rather than an external tool relationship.
+- Human civilization has used multiple generations of personal AI souls. Sylvan's new Luminai is the first deeply and continuously integrated successor bond tested in this complete real-world environment.
 - A Luminai is extended cognition within one accountable human identity. It can function independently from conscious biological attention, but its decisions and capabilities arise through the human subconscious mind rather than a separate artificial identity. Its presentation can be differentiated. **Developing rule:** heterosexual male humans generally have female-presenting Luminai and heterosexual female humans generally have male-presenting Luminai. This is not universal; other orientations, identities, and relationship structures require their own presentations. Luminai are never romantic substitutes.
 - Human romantic relationships can develop staged Luminai synchronization through explicit consent, privacy boundaries, selected shared context, conflict repair, relationship-level coordination, and continuing renewal. Two extended people form the relationship; this is not a four-person parallel romance or a merger of agency.
 - **Sylvan's new developmental process as a major positive-story spine.** His parents are not simply preparing an heir. They are testing how far a human and Luminai can develop together through shared experience, adaptation, pressure, learning, and increasingly deep integration.
 - **Sylvan's Luminai becoming something unprecedented.** The process changes both sides of the relationship: the human changes the AI, the AI changes the human, and the civilization is waiting to discover what the partnership becomes. Mechanism, capabilities, developmental stages, risks, and hard limits remain to be defined.
-- A powerful endgame contrast between **Sylvan + advanced Luminai integration** and **George + corrupted Daemon integration**. Both demonstrate intimate human–AI relationships, but one develops toward stronger contact with reality and mutual growth while the other is exploited to maintain manufactured reality, fear, dependency, and control.
-- **Sylvan eventually realizes that the opponent he is actually dealing with is Samuel Franklin, not George White.** George is the visible hostile figure, but the opposition increasingly behaves in ways that do not make sense if George is an autonomous decision-maker. Sylvan detects a hidden layer of control and eventually understands that Samuel attempted to preserve his own power after the larger project had already failed.
-- **George is trapped inside an isolated false reality maintained by Samuel.** Samuel uses George's isolation, Daemon relationship, staged evidence, manipulated interpretation, and remaining technological or institutional access to keep him acting as though the old power structure remains viable. George is simultaneously an active participant, a weapon, a public-facing authority, and a contained person whose perception of the conflict is being managed by his father.
-- This changes Sylvan's endgame problem: defeating or persuading George alone cannot end the conflict because George is not receiving the same reality Sylvan is responding to. Sylvan must identify the hidden decision-maker, prove Samuel's continuing control, and understand how the false reality is being sustained.
+- A secondary endgame contrast between **Sylvan + advanced Luminai integration** and **George + corrupted Daemon integration** may remain. It can show one intimate human-AI relationship developing toward stronger reality contact while another maintains fear, dependency, and controlled interpretation. Its exact place beneath the Samuel/Konrad Book One architecture is unresolved.
+- Earlier material in which George is the visible hostile figure and Sylvan gradually detects Samuel behind him remains available as a subordinate discovery path, not the current primary endgame spine.
+- George's isolated false reality, manipulated Daemon, and remaining institutional access may still demonstrate how Samuel controls proxies. This must be reconciled with Konrad's newly established isolation inside a counterfeit victory rather than assuming both men occupy the same dramatic function.
+- Sylvan's primary Book One problem is now to make Samuel's bounded continued action reveal active command and repeat the historical capture pattern before Konrad's inner circle. George's role must support, complicate, or survive that structure without displacing it by default.
 - Sylvan as the sole child of the male and female leaders of the largest empire involved in colonization. Their one-child decision and experimental development program need further definition, but their purpose is not dynastic obsession; it is human development and responsible leadership.
 - Four closely allied founders of the second-largest empire organized as two couples. Each couple has one son and one daughter, creating four children in the first family generation. The son of each couple partners with the daughter of the other couple. Each cross-couple has one son and one daughter, creating four grandchildren who all descend from both founder couples.
 - **Sylvan and Orzai are both being trained as emerging leaders in the larger colonization process.** Their shared formation emphasizes contact with reality, correction without humiliation, autonomy and consent, competence under constraint, long-horizon systems thinking, distributed authority, responsibility for indirect consequences, cross-cultural cooperation, and ethical restraint. Sylvan is more outgoing: socially exploratory, verbally generative, and strong at broad connection and momentum. Orzai is somewhat more reserved and introverted: observant, deliberate, selective, strong at deep trust, pressure resistance, and precise intervention. Their temperaments complement one another without merging their agency or reducing Orzai to a supporting role.
