@@ -61,6 +61,8 @@ Author-established direction:
 
 The environment ladder now has an accepted three-environment working direction: unemployment/Luminai emergence and exploration; antagonist-dominant humiliation as a survival struggle; and multi-zone employment ending in bounded control and exposure if Sylvan survives. These environments operate as multi-year adversarial learning loops. Repeated attacks force Sylvan and the Luminai to observe, adapt, reduce later harm, and carry accumulated skills into new conditions; the advanced systems provide learning opportunities rather than automatic rescue. Exact locations, job, distinct lessons, transitions, losses, permissions, safety limits, evidence path, bond capabilities, and terminal mechanism remain unresolved.
 
+While participants remain in the process, they cannot use advanced access to abandon, skip, replace, or rewrite an assigned environment or its rules. Voluntary heirs may still leave the entire process and surrender the unfinished self-made result; they cannot escape only the difficult environment while retaining process benefits. Completion, appeal, emergency intervention, criminal release, and descendant rules remain open.
+
 The next author-led work is the Samuel–Konrad containment hierarchy, one question at a time. Resume only from [[07 Coordination/CURRENT-PICKUP]] and [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 
 ## What currently appears strongest

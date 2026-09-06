@@ -48,6 +48,12 @@ Sylvan and the Luminai develop the deeper bond through years of repeated attacks
 
 Each environment teaches something different. Earlier learning carries forward, but no defense solves every later problem. The exact lessons, personal losses, transition rules, and safety limits remain open.
 
+## Capability cannot erase the assignment
+
+While participants remain in the process, neither they nor their Luminai can use advanced access to abandon, skip, replace, or rewrite an assigned environment. The environment's rules remain binding until valid completion.
+
+A voluntary heir may still leave the entire process and surrender the unfinished self-made result. What the heir cannot do is escape only the difficult environment while keeping the benefits of continued participation. Completion, appeals, emergencies, and the separate release rules for convicted participants still need definition.
+
 ## Spoilers: two misunderstandings
 
 Konrad believes his experienced daemon can defeat Samuel where the leaders intend Sylvan's new Luminai to succeed. His confidence is part of his ideology; it is not proof that all earlier systems are defective.

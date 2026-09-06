@@ -29,7 +29,7 @@ The technology does not insert thoughts into an unprepared adult brain. The colo
 
 Legitimate heirs voluntarily accept the opportunity to participate in the colonization process. The older leaders offer them a path to become self-made rather than beginning with inherited position. They may exit at any time and return to the inheritance path, surrendering the unfinished results, placement, or independent standing they were developing through the process.
 
-The bond can begin developing before conscious awakening without converting later participation into an irrevocable obligation. Exact pre-entry briefing, age-appropriate renewal, refusal at later stages, and re-entry remain open. Convicted participants and descendants born inside the process require separate rules.
+That right concerns departure from the entire process. While an heir continues participating, neither the heir nor the Luminai may prematurely abandon, skip, replace, or rewrite the assigned environment. An heir cannot leave only the difficult stage while preserving accumulated process access and standing. The bond can begin developing before conscious awakening without converting later participation into an irrevocable obligation. Exact pre-entry briefing, age-appropriate renewal, valid completion, appeal, emergency intervention, and re-entry remain open. Convicted participants and descendants born inside the process require separate rules.
 
 ## Development from infancy
 

@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-09-03
+updated: 2026-09-06
 themes: participants, governance, command authority, containment, permissions, accountability
 ---
 
@@ -25,6 +25,14 @@ The key distinction is:
 **Universal technical reach does not imply universal participant permission.**
 
 Participants operate inside a rule-bound environment designed to preserve agency, accountability, evidence, containment integrity, and the developmental purpose of the colony.
+
+## Environment commitment boundary
+
+**Established direction:** while a participant remains in the colonization process, neither the participant nor the Luminai or Daemon can prematurely abandon, skip, replace, or rewrite the assigned environment. Technical access cannot create a valid exemption from the conditions and rules being used to train, assess, or contain that participant.
+
+The boundary governs continuation inside the process. A legitimate heir or other voluntary trainee may still leave the entire process and surrender the unfinished self-made result. The participant cannot preserve accumulated process standing and access while unilaterally escaping only the difficult environment. Convicted participants remain subject to separate sentence, review, and release rules.
+
+This rule does not authorize unlimited harm. Completion criteria, transition authority, appeal, emergency intervention, and the safeguards that distinguish committed participation from institutional abuse remain unresolved.
 
 ## Asymmetric participant advantage
 
@@ -143,6 +151,7 @@ The difference is not that one has technology and the other does not. They can t
 
 - Participants remain accountable for actions carried out through their Luminai or Daemon.
 - A participant cannot erase the existence of the governing rules merely by gaining higher access.
+- A participant cannot use higher access to create a valid premature exit, skip an assigned stage, substitute a preferred environment, or retain process benefits after abandoning the current environment.
 - High-level commands should leave provenance unless a specific story mechanism establishes otherwise.
 - Some systems must retain independent refusal, review, or evidence functions.
 - The environment must preserve a path by which abusive use of legitimate authority can later be authenticated.

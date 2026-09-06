@@ -13,6 +13,8 @@ A small planet reconstructs realities modeled on a distant past. Its institution
 
 The reconstruction draws from the larger humanity's real history. Major technological transitions, a Great War period, and public roles based on historical people provide anchors, but the process can combine or adapt them for training, containment, Luminai development, and sustainability. Participants retain real agency, so the resulting history can diverge from its source.
 
+Participants cannot use advanced access to abandon or rewrite an assigned environment while continuing the process. A voluntary heir may leave the entire process and surrender the unfinished result, but cannot skip only the difficult stage and keep the benefits. Convicted participants follow separate sentence and release rules.
+
 ## Three connected purposes
 
 The process must create a self-sustaining civilization on a planet that began barren, capable of supporting substantial populations without continuous deliveries of new resources from outside the planet. Within that civilization, training and containment provide real conditions for developing a more effective wireless human–Luminai bond.

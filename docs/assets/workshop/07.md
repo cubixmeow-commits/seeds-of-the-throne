@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 07
 title: Grid permissions and failure
 gate: Which boundary can even a highly capable bonded participant neither silently cross nor erase?
 prerequisites: 04, 05, 06
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 07 · Grid permissions and failure
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Separate reach, access, execution, evidence and authority.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+While participants remain in the colonization process, neither they nor their Luminai can prematurely abandon, skip, replace, or rewrite an assigned environment. Whatever technical reach they develop, they remain bound by that environment's rules and must complete its process rather than using advanced capabilities to escape the conditions being used to train, assess, or contain them.
+
+This does not give an environment unlimited authority over a participant. Legitimate heirs and other voluntary trainees may still leave the entire colonization process and surrender the unfinished self-made result. They cannot leave only the difficult environment while keeping the benefits of continuing participation. Convicted participants remain subject to separate sentence, review, and release rules.
+
+`remain in the process → remain inside the assigned environment and its rules`
 
 ## Relevant source notes
 
@@ -31,7 +40,10 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- Architecture and allocation; offline behavior; conflicts; revocation; adversarial context.
+- Exact technical and institutional enforcement of environment commitment.
+- Completion criteria, transition authority, appeals, emergency intervention, and offline behavior.
+- How the process detects indirect attempts to obtain a prohibited exit through many permitted actions.
+- Convicted-participant release and descendant rights, which remain separate from voluntary-heir exit.
 
 ## Prerequisite decisions
 
@@ -41,7 +53,7 @@ Modules: 04, 05, 06. Read their accepted results before closing this gate. Open 
 
 > Which boundary can even a highly capable bonded participant neither silently cross nor erase?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** while remaining in the process, a participant cannot prematurely leave, skip, replace, or rewrite an assigned environment or its rules. A voluntary heir may leave the entire process only by surrendering the unfinished result.
 
 ## Possibilities and tradeoffs
 
@@ -80,35 +92,35 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 04, 05, 06.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 04, 05, 06.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 07 · Grid permissions and failure
 Gate: Which boundary can even a highly capable bonded participant neither silently cross nor erase?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): Preserved in [[01 Sessions/Daily/2026-09-06 - Workshop Module 07 Environment Commitment Draft]].
+Exact restatement: Participation binds the pair to its assigned environment and rules until valid completion or whole-process exit.
+Selected option or new answer: Process-enforced environment commitment, distinct from device-level or regional permissions.
+Why this tradeoff: Advanced capability cannot become a way to avoid the conditions that train, assess, or contain the participant.
+Rejected alternatives and reasons: Device limits, quorums, regional authority, and audit functions may still support the system, but none is the central boundary selected here.
+Prerequisites resolved / deferred: Modules 04, 05, and 06 are author-accepted; enforcement, completion, appeals, and emergency intervention remain deferred.
+Scene test: A participant identifies a technical route out of a difficult environment, but taking it cannot count as valid continuation; the participant must complete the environment or leave the entire voluntary process and surrender its unfinished result.
+Adversarial result: No participant can grant a valid escape by combining lesser permissions or erase the governing rule; exact aggregate detection and authentication remain open.
+Remaining uncertainty: Enforcement architecture, completion criteria, appeals, emergencies, offline rules, criminal release, and descendant rights.
+Explicit acceptance wording and date: “Yes,” 2026-09-06.
+Affected notes updated: Participant Governance; Learned Wireless Cognitive Channel; Parent Civilization; Pairing and Bonding; public atlas; QA; context; workshop projections.
+QA decision reference: [[07 QA/Decisions]] and [[07 QA/Contradictions]].
+Workflow task and macro-depth effect: Workshop Module 07 closed; SC-010 Question 7 unchanged.
+Website rebuild and verification: Generated projections rebuilt and checked after integration.
 ```
 
 ## Notes and website sections affected

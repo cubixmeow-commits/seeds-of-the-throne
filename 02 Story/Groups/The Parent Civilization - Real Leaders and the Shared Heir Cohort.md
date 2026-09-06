@@ -31,7 +31,7 @@ The colonization process is their answer.
 
 The legitimate heirs knowingly accept an opportunity to participate rather than an obligation to earn what their parents already intend to leave them. They may exit at any time and return to the inheritance path. What they give up is the unfinished process result: the chance to emerge with a placement, standing, and history they built independently inside the colonization world.
 
-The right to leave prevents cultivation from becoming imprisonment. It also makes continued participation meaningful. An heir who stays is choosing the difficult self-made path while an inherited future remains available. Exact briefing, re-entry, stage-by-stage refusal, and the form of the final exchange remain open.
+The right to leave prevents cultivation from becoming imprisonment. It applies to the entire process, not unilateral escape from an assigned environment while retaining process benefits. An heir who stays must follow that environment's rules through valid completion and is choosing the difficult self-made path while an inherited future remains available. Exact briefing, re-entry, completion criteria, appeal, emergency intervention, stage-by-stage refusal, and the form of the final exchange remain open.
 
 A highly qualified human–Luminai pair may earn the option to establish or receive a House or group with substantial resources and a major role in the continuing colonization process. That path offers independently built institutional responsibility rather than a return to inherited office. It is chosen by the pair after assessment, not assigned arbitrarily by the older leaders.
 

@@ -58,6 +58,8 @@ The exact capability set, normalization mechanisms, rollout order, rights of peo
 
 Development is cumulative. Each environment teaches something different, and prior learning remains useful without becoming a universal answer. A later environment must change the problem enough to require new judgment while preserving the practical growth already earned by the pair. This keeps conscious human choice and responsibility inside the learning process.
 
+The pair cannot use its growing integration to abandon, skip, substitute, or rewrite an assigned environment while remaining in the process. Greater capability therefore increases the ways Sylvan can respond inside the conditions; it does not grant exemption from those conditions. Whole-process exit for voluntary heirs remains distinct from premature environmental escape.
+
 ## Luminai and Daemon distinction
 
 **Luminai** names the mind extensions developed in the colonization environment, including earlier versions. Sylvan's version is newly and more deeply integrated. Its intended developmental direction includes reality-testing, provenance, contradiction, correction, and accountable human authority.

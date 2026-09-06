@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 07 environment commitment accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 07 Environment Commitment Draft]]
+- **Type:** decision / dependency / governance
+- **Possible relationship:** SC-003, SC-007 through SC-010, SC-015, SC-018, SC-019
+- **Signal:** The author established that participants cannot use advanced capability to abandon, skip, replace, or rewrite an assigned environment while remaining in the process. Voluntary heirs retain whole-process exit by surrendering the unfinished result; convicted-participant release remains separate.
+
 ### 2026-09-06 — Workshop Module 06 multi-year bond development accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 06 Bond Development Draft]]
