@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 03
 title: Placement and evaluation
 gate: What placement decision can this process legitimately make about a bonded person?
 prerequisites: 01, 02
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 03 · Placement and evaluation
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Give the outcome concrete consequences while preventing virtue from becoming a single score.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. The author accepted the result below on September 6. The original alternatives remain preserved as development history. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+The placement process determines which roles and responsibilities a newly trained human–Luminai pair is qualified to undertake. The older leaders create an extensive assessment framework, but they do not arbitrarily assign the pair's future. The human and Luminai place themselves by choosing among paths supported by their actual decisions, developed skills, and demonstrated qualifications.
+
+The assessment establishes credible options and consequences for self-placement. It does not determine a person's human worth, prove moral superiority, or grant an automatic permanent right to govern. The pair chooses together while the human retains responsibility for consequential decisions.
+
+Source and full decision record: [[01 Sessions/Daily/2026-09-06 - Workshop Module 03 Placement Draft]].
 
 ## Relevant source notes
 
@@ -31,7 +40,7 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- Evaluator independence; meaningful nonleadership futures; accommodation; appeals; what effectiveness means.
+- Evaluator independence, assessment dimensions, meaningful nonleadership futures, accommodation, appeals, review and what effectiveness means. Arbitrary assignment versus self-placement is now settled.
 
 ## Prerequisite decisions
 
@@ -39,7 +48,7 @@ Modules: 01, 02. Read their accepted results before closing this gate. Open prer
 
 ## Central author gate
 
-> What placement decision can this process legitimately make about a bonded person?
+> What placement decision can this process legitimately make about a bonded person? **AUTHOR-ACCEPTED 2026-09-06.**
 
 Ask this question alone during actual use. Do not ask every follow-up at once.
 
@@ -80,35 +89,32 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 01, 02.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve prerequisites 01 and 02.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 03 · Placement and evaluation
 Gate: What placement decision can this process legitimately make about a bonded person?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): preserved in the linked session record
+Exact restatement: accepted result above
+Selected option or new answer: extensive qualification assessment followed by participant self-placement
+Why this tradeoff: actual decisions and developed skills open credible paths without giving older leaders arbitrary control of each future
+Rejected alternatives and reasons: permanent rank, automatic authority and arbitrary assignment conflict with the accepted self-placement model
+Prerequisites resolved / deferred: Modules 01 and 02 resolved
+Scene test: technical skill can open technical paths without automatically opening unrestricted leadership
+Adversarial result: self-placement means choice among qualified paths rather than a coercive operator claiming unearned authority
+Remaining uncertainty: roles, criteria, presentation of options, evaluator independence, appeals, review and accommodation
+Explicit acceptance wording and date: “Yes” — 2026-09-06, accepting the revised self-placement restatement
+Workflow task and macro-depth effect: supporting workshop Module 03 accepted; SC-010 remains active and unchanged
 ```
 
 ## Notes and website sections affected

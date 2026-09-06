@@ -65,3 +65,6 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-046 | How much scenario information do heirs knowingly accept, how is consent renewed at awakening or later stages, and can an heir leave and re-enter? | [[02 Story/Components/Learned Wireless Cognitive Channel]] | open |
 | Q-047 | Which review, sentence-completion, appeal, refusal, and exit rights apply to convicted participants? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
 | Q-048 | What circumstances, permissions, obligations, and exit rights apply to descendants born inside the process? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
+| Q-049 | Which assessment dimensions and evidence establish qualification for each placement path without collapsing capability, judgment, accountability, and restraint into one score? | [[02 Story/Systems/Integration and Scoring]] | open |
+| Q-050 | Who evaluates the evidence, how are qualified paths presented, and what review, appeal, accommodation, revocation, or later placement change is available? | [[02 Story/Systems/Integration and Scoring]] | open |
+| Q-051 | What happens when a human–Luminai pair qualifies for several paths or for none of its preferred paths? | [[02 Story/Systems/Integration and Scoring]] | open |

@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 03 self-placement accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 03 Placement Draft]]
+- **Type:** decision / dependency
+- **Possible relationship:** SC-004, SC-010, SC-019, SC-026
+- **Signal:** The author established extensive qualification assessment followed by human–Luminai self-placement among paths opened by actual decisions and developed skills, replacing arbitrary assignment by the older leaders.
+
 ### 2026-09-06 — Workshop Module 02 voluntary entry accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 02 Entry Draft]]

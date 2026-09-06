@@ -26,6 +26,8 @@ Training, criminal accountability, and access to future responsibility cannot be
 
 More effective integration means that a human–Luminai pair can perceive, learn, decide, and accomplish more together. It does not make either one morally superior or automatically qualified to govern.
 
+The older leaders create an extensive assessment framework that establishes which paths a trained pair has qualified for through its actual decisions and developed skills. The human and Luminai then choose their own placement among those paths. The framework creates credible options; it does not arbitrarily assign the participant's future.
+
 ## Entry and awareness
 
 The working vault includes people born into reconstructed lives, developmental placements, and contained criminals with different briefings. Awakening makes previously hidden systems more legible. It does not establish that every participant has the same entry process or knowledge.

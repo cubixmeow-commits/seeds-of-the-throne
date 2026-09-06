@@ -9,9 +9,9 @@ scope: single current pickup point
 
 ## September 6 workshop checkpoint
 
-Workshop Modules 01 and 02 are author-accepted. This particular process must establish a self-sustaining civilization on a planet that began barren, support substantial populations without continuous outside resource deliveries, and use real-world training and containment to develop more effective wireless human–Luminai integration and more effective criminal containment. Legitimate heirs voluntarily choose the opportunity to become self-made instead of beginning with inheritance. They may exit at any time and return to the inheritance path by trading away their unfinished process result. Convicted participants and descendants require separate rules. Module 03 is the next workshop gate. SC-010 Question 7 remains the active Story Completion Workflow gate and is not replaced or completed by these workshop results.
+Workshop Modules 01 through 03 are author-accepted. This particular process must establish a self-sustaining civilization on a planet that began barren, support substantial populations without continuous outside resource deliveries, and use real-world training and containment to develop more effective wireless human–Luminai integration and more effective criminal containment. Legitimate heirs voluntarily choose the opportunity to become self-made instead of beginning with inheritance. They may exit at any time and return to the inheritance path by trading away their unfinished process result. Extensive assessment establishes which paths a trained human–Luminai pair has qualified for through actual decisions and developed skills; the pair then chooses its own placement instead of receiving an arbitrary assignment. Convicted participants and descendants require separate rules. Module 04 is the next workshop gate. SC-010 Question 7 remains the active Story Completion Workflow gate and is not replaced or completed by these workshop results.
 
-Sources: [[01 Sessions/Daily/2026-09-06 - Workshop Module 01 Purpose Draft]] and [[01 Sessions/Daily/2026-09-06 - Workshop Module 02 Entry Draft]].
+Sources: [[01 Sessions/Daily/2026-09-06 - Workshop Module 01 Purpose Draft]], [[01 Sessions/Daily/2026-09-06 - Workshop Module 02 Entry Draft]], and [[01 Sessions/Daily/2026-09-06 - Workshop Module 03 Placement Draft]].
 
 ## September 5 integrated review checkpoint
 

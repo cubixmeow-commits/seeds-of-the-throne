@@ -54,6 +54,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - Do entrants regain long life after exit, or can a mortal lifetime inside be irreversible?
 - Legitimate heirs voluntarily enter and may leave at any time for the inheritance path; how is that choice renewed as they mature, what process results are surrendered, and can they later re-enter?
 - What entry, refusal, review, and exit rights apply separately to convicted participants and descendants born inside the process?
+- Which assessment dimensions open each placement path, who evaluates them independently, and how do review, appeal, accommodation, or later change work?
+- How are qualified paths presented so the human–Luminai pair can make an informed self-placement decision?
 - How do loving parental support and protective intervention remain available without becoming imperial favoritism?
 - Do hundreds of heirs form one cohort or several overlapping cohorts?
 - What future institution or covenant is the shared heir generation expected to form?

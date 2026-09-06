@@ -20,6 +20,8 @@ Sylvan is competent, resourced, and headed toward meaningful public responsibili
 
 Sylvan's participation is voluntary. Like the other legitimate heirs, he can leave the process and return to an inherited future. Doing so means trading away the unfinished placement or independently earned standing he is developing inside the process. His continued participation must therefore remain a choice rather than proof that he has no alternative.
 
+If he completes the process, the older leaders do not arbitrarily assign his future. His decisions and the skills developed with his Luminai establish the paths for which they qualify. Sylvan and the Luminai then choose their placement together, with Sylvan retaining responsibility for that consequential decision.
+
 ## Emerging-leader formation and personality
 
 **Established:** Sylvan and Orzai are both being trained as emerging leaders in the larger colonization process. Sylvan is the more outgoing of the two.
