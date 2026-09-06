@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Story
@@ -16,7 +16,7 @@ Can a system that deliberately uses people as material cultivate leaders who ref
 
 ## Project premise
 
-*Seeds of the Throne* takes place inside a mature bridge world built from the accumulated achievements and failures of a multi-planetary colonization era using older AI souls. The planet is also the first complete real-world initialization environment for the deeply integrated successor Luminai architecture. Most inhabitants initially believe they are simply living in an ordinary civilization entering a more sophisticated technological age.
+Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants discover the process and navigate it with their Luminai; their effectiveness affects future placement. The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses a new, more deeply integrated Luminai; earlier participants use earlier versions. Daemon identifies an evil AI soul, not an earlier generation. Exact hardware, stage durations, and grid architecture remain open. Most inhabitants initially believe they are simply living in an ordinary civilization entering a more sophisticated technological age.
 
 They are living inside something much older, much more advanced, and much more deliberate.
 

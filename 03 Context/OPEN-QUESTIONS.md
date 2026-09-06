@@ -6,6 +6,13 @@ updated: 2026-09-03
 
 # Open Questions
 
+## September 5 priority dependencies
+
+See [[07 QA/2026-09-05 - Comprehensive Story Assessment]] and the workshop for the ranked dependencies. Resolve the no-implant channel versus personal-interface research; exact postwar permission transfer; who stops preventable harm; what Sylvan can still lose; George's distinct role; and the identity discrepancy in SC-001 Question 5. None is settled by the website rebuild.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Bridge-world and Book One foundation — 2026-09-03
 
 - What exactly ends with this planet: physical expansion, the original colonization plan, the older AI-soul operating model, or only one governance era?

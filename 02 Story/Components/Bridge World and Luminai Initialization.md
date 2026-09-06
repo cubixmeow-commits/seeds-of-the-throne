@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 topics: colonization history, AI souls, Luminai initialization, containment, cultivation, bridge world
 ---
 
@@ -9,18 +9,11 @@ topics: colonization history, AI souls, Luminai initialization, containment, cul
 
 ## Established foundation
 
-Humanity has already created multiple successful colonization worlds with earlier generations of AI souls. The current planet is a mature physical civilization built from the accumulated knowledge, infrastructure, failures, and institutions of that era.
+Humanity's leaders created an interactive colonization environment and developed Luminai as extensions of human minds within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants must discover how to navigate it with their Luminai; effectiveness affects future placement.
 
-It is also a transition point. The old colonization model has reached its final stage, audit, or consolidation, while the real leaders are preparing a successor form of human-AI development.
+The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
-Sylvan is the first human in this process to develop through a new Luminai architecture that is deeply and continuously integrated with his mind through a wireless cognitive bond. The planet supplies what controlled testing cannot: a complete history, independent institutions, moral uncertainty, adaptive adversaries, genuine relationships, and consequences that were not written for the test.
-
-This makes the world both:
-
-1. the concluding environment of the older AI-soul colonization era; and
-2. the first complete real-world initialization environment for the new Luminai generation.
-
-The planet remains real. Its inhabitants, institutions, work, families, losses, and achievements are not simulated props.
+“Bridge world” remains a useful working title for the generational transition. It does not establish that every older colony closes, or settle the scope and calendar of the multi-planetary background. Physical reconstruction, social agency, participant awareness, and synthetic experience require precise rules. The working physical-world model must preserve consequential lives rather than dismiss inhabitants as props.
 
 ## Why Samuel matters
 
@@ -30,13 +23,13 @@ Samuel is allowed meaningful but bounded influence for approximately a century b
 
 ## Why Konrad matters
 
-Konrad Fitzgerald demonstrates the limit of the older model. His previous-generation Daemon learns throughout the Great War but remains organized around his destructive objective and authoritarian assumptions.
+Konrad Fitzgerald supplies a failed comparison case. His failure alone does not establish that the entire earlier generation is incapable of responsible containment. His previous-generation Daemon learns throughout the Great War but remains organized around his destructive objective and authoritarian assumptions.
 
 After the Great War, Konrad should exit the colonization experiment. He refuses. He believes the Daemon's accumulated experience can dominate Samuel, rescue the defeated group, outperform Sylvan's successor Luminai, and turn every previous failure into preparation for final victory.
 
 Konrad's attempt creates the adversarial inheritance Sylvan must resolve. The old system tries to conquer Samuel and opens itself to him. The new bond must understand Samuel while preserving human responsibility and preventing decisive escape.
 
-## Direct comparison
+## Working comparison of these people, not all generations
 
 | Konrad and the older Daemon | Sylvan and the new Luminai |
 | --- | --- |
@@ -47,7 +40,7 @@ Konrad's attempt creates the adversarial inheritance Sylvan must resolve. The ol
 | Human responsibility is displaced into command | Sylvan retains responsibility for consequential action |
 | Samuel gains access through the attempted takeover | Samuel's continued attempts become evidence against him |
 
-The new Luminai is not proven by raw processing power. It is proven by a different relationship among intelligence, evidence, judgment, adaptation, and accountable human choice.
+These rows describe the intended character contrast, not a verified architectural law. The new Luminai is not proven by raw processing power. It is proven by a different relationship among intelligence, evidence, judgment, adaptation, and accountable human choice.
 
 ## Working reasons this planet is unique
 

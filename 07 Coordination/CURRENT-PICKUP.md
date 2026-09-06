@@ -7,6 +7,13 @@ scope: single current pickup point
 
 # Current Pickup
 
+## September 5 integrated review checkpoint
+
+The interactive environment is where Luminai were developed. Earlier participants use earlier versions; Sylvan uses the new deeper generation. The new program spans thousands of years. Prior bridge-era wording below is historical where it conflicts. The full assessment is [[07 QA/2026-09-05 - Comprehensive Story Assessment]]. The [[07 Coordination/Story Completion Workflow/Workshop/README|twenty-module workshop]] is ready as decision support. **SC-010 Question 7 remains active; no completion state changed.** New interface mechanics, safeguarding rules, permission locks, and theft failure remain open. Browser answers require Markdown export and explicit author acceptance before vault integration.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## 2026-09-03 bridge-world integration checkpoint
 
 - The 2026-09-02 mobile handoff has been reconciled into the vault's premise, chronology, AI-soul terminology, Samuel/Konrad causal structure, Book One architecture, criminal ecosystems, visual registry, QA, and public atlas.

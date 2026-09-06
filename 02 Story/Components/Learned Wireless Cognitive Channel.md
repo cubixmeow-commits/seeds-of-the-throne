@@ -8,6 +8,13 @@ source_authority: development
 
 # Learned Wireless Cognitive Channel
 
+## September 5 architecture gate
+
+**Working model retained, not scientifically established:** the implant-free channel below remains an earlier fictional direction. The newer research brief offers personal neural interfaces, including hardware-dependent demonstrations. No author choice has replaced the earlier rule. Compare implant-free transduction, discreet interfaces, and a hybrid in Workshop module 05 before selecting hardware. Neuroplasticity explains learning a physically available signal, not the existence of an otherwise undetectable channel. Greater integration can amplify harmful learning too; source discrimination requires training, evidence and safeguards.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Core rule
 
 There are **no implants, chips, neural ports, or surgically installed interfaces** required for ordinary human–Luminai communication.

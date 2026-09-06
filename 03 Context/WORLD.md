@@ -1,14 +1,14 @@
 ---
 type: context
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # World
 
-A mature interplanetary parent civilization has already expanded humanity to numerous successful worlds using previous-generation AI souls. Its legitimate real leaders are thousands of years old. Those worlds provide the knowledge, production, institutions, and support required for the current planet.
+Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants discover the process and navigate it with their Luminai; their effectiveness affects future placement.
 
-The current planet is a bridge between eras: the concluding, consolidating, or auditing environment of the older colonization model and the first complete real-world initialization environment for a new generation of deeply integrated Luminai. It remains both a containment and leadership-cultivation world.
+The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses a new, more deeply integrated Luminai; earlier participants use earlier versions. Daemon identifies an evil AI soul, not an earlier generation. Exact hardware, stage durations, and grid architecture remain open.
 
 ## Hidden technological foundation
 

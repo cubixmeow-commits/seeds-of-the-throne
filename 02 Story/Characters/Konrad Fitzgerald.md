@@ -9,6 +9,13 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 # Konrad Fitzgerald
 
+## September 5 evidence qualification
+
+**Unresolved scene and proof mechanics:** earlier visible-descendant scenes remain development history, not conclusive proof of parentage or command responsibility. Resemblance could prompt recognition, but authenticated records and an independently challengeable chain are needed to support the proposed evidentiary function. Children and descendants are people, not public exhibits. The timing must preserve inner-circle recognition before Konrad's delayed discovery. Exact presentation and privacy choices remain author gates.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## 2026-09-03 foundation update
 
 Konrad's defining postwar decision is now established. The Great War should end his colonization experiment, but he voluntarily remains in containment because he believes the older Daemon he trained during the war has learned enough to dominate Samuel Franklin.

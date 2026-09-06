@@ -1,16 +1,23 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Timeline
+
+## September 5 evidence qualification
+
+**Unresolved scene and proof mechanics:** earlier visible-descendant scenes remain development history, not conclusive proof of parentage or command responsibility. Resemblance could prompt recognition, but authenticated records and an independently challengeable chain are needed to support the proposed evidentiary function. Children and descendants are people, not public exhibits. The timing must preserve inner-circle recognition before Konrad's delayed discovery. Exact presentation and privacy choices remain author gates.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
 
 Dates are intentionally unset. This sequence preserves dependencies without pretending chronology is settled.
 
 ## Controlling causal order — 2026-09-03
 
-1. A mature long-lived civilization develops multiple colonization worlds with previous-generation AI souls.
+1. The leaders develop an interactive colonization environment and create Luminai mind extensions within it. The new development program spans thousands of years; exact stages remain unresolved.
 2. The current planet becomes the final, consolidating, or auditing world of that operating era and the first real-world initialization environment for a new Luminai generation.
 3. Samuel is prosecuted into containment and selected as a representative worst-case adversarial subject. His bounded influence develops across approximately a century.
 4. Konrad's authoritarian purity faction destabilizes the older society, builds a conquest state, and trains Konrad's Daemon through the Great War.
@@ -29,7 +36,7 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 
 Book One begins within movements 11 through 14. Later books move backward into movements 3 through 10, allowing the audience to experience the causes after seeing their consequences.
 
-The detailed chronology below remains a working expansion of this sequence. Where it implies that Sylvan enters only after a completed Disclosure War, that the older AI-soul era already used the term Luminai universally, or that the series must narrate forward from the war, the 2026-09-03 order controls.
+The detailed chronology below remains a working expansion of this sequence. Where it implies that Sylvan enters only after a completed Disclosure War, that the series must narrate forward from the war, the September 5 corrections and current Book One architecture control. The name Luminai is not restricted to Sylvan's generation.
 
 ## Detailed working chronology
 
@@ -49,7 +56,7 @@ The detailed chronology below remains a working expansion of this sequence. Wher
 14. Konrad, his senior partner, Samuel's parents, and other surviving leaders fall into containment roles inside the same victorious order where Samuel already has experience.
 15. Samuel conceals the depth of his betrayal and becomes indispensable by interpreting the unfamiliar containment environment for the defeated faction. He becomes the structural alpha and Konrad eventually the beta in a continuing power struggle, then offers Konrad an apparently separate half of the shared environment while secretly retaining the underlying advantage.
 16. Samuel recasts George's earlier apparent success and important role, followed by his real containment placement, as evidence that George captured the victor and that defeat was a planned transition to covert rule. The contained organization accepts the False Victory.
-17. Samuel uses this interpretive dependence to gain access to Konrad's breeding and genealogy systems, corrupt bloodlines and records, create replacement heirs, and begin replacing Konrad's functions. Across roughly eighty years he personally maximizes participating bloodlines, producing tens of thousands of unauthorized children while keeping the pattern partitioned for blackmail.
+17. Samuel uses this interpretive dependence to gain access to Konrad's breeding and genealogy systems, coercively manipulate reproduction and falsify lineage records, create replacement heirs, and begin replacing Konrad's functions. Across roughly eighty years he personally maximizes participating bloodlines, producing tens of thousands of unauthorized children while keeping the pattern partitioned for blackmail.
 18. Story functionality helps preserve the myth across public roles, failed operations, cover-ups, and renewed attempts.
 19. The False Victory develops through an approximately eighty-year working middle, currently organized into four provisional eras: the fragile first lie and manufactured proof; inherited victory mythology and the children of victory; the distributed invisible empire and imaginary jurisdictions; and the world Samuel claims to own as legitimate institutions continue to act independently.
 

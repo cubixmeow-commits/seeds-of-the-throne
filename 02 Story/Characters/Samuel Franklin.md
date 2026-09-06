@@ -9,6 +9,13 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## September 5 integration boundary
+
+**Established:** Samuel's final obsession is stealing Sylvan's Luminai while exposure grows. **Proposed:** stolen parts cannot reproduce the learned bond. This is not a claim of absolute security. The final years occur under Sylvan's decisive control; exact allowed actions and protection from further harm need definition.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## 2026-09-03 foundation update
 
 The older leaders select Samuel as a representative worst-case criminal subject for the colonization process. His combination of social inference, coercion, deception, surveillance, engineered compromise, blackmail, dependency, and adaptive control makes him a live adversary the new Luminai must learn to contain.

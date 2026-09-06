@@ -6,11 +6,13 @@ updated: 2026-09-03
 
 # Core Premise
 
-A technologically mature interplanetary civilization has already colonized multiple worlds with earlier generations of AI souls. Its current planet is both the concluding environment of that older colonization era and the first complete real-world initialization site for a new, deeply integrated generation of Luminai.
+Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. On a small colonization planet, reconstructed realities modeled on the distant past serve training and containment. Participants must discover how the process works and navigate it with their Luminai; their effectiveness affects future placement.
+
+The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its new, more deeply integrated generation in a complete real-world environment. Earlier participants use earlier versions. This does not establish a fixed count of planets, a universal shutdown of older systems, or an exact development calendar.
 
 The planet still serves two purposes at once: containing dangerous criminals and cultivating younger generations into capable leaders. Those purposes now support a larger test. The civilization must determine whether a new relationship between human judgment and artificial cognition can resolve the adversarial failures accumulated by the older process without reproducing domination.
 
-Containment is assignment to a role, identity, environment, and public life—not necessarily a cell. Cultivation is not safe instruction; the contained population supplies real pressure and sometimes real catastrophe.
+Containment can assign a role, identity, environment, and public life rather than a cell. Cultivation exposes participants to pressure and consequential choices. The existing history includes grave harms; which harms were preventable, who authorized the exposure, and what safeguards now stop recurrence remain unresolved responsibilities of the leaders. Bounded final observation must not become a license for further abuse.
 
 Contained people can weaponize older AI souls and the same advanced systems used to run the planet. Samuel Franklin is the selected worst-case adversarial subject. Konrad Fitzgerald voluntarily remains after his Great War defeat because he believes his experienced Daemon can control Samuel and outperform the new Luminai process. This makes the opposition structural, historical, and adaptive rather than merely criminal in an ordinary sense.
 

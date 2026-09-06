@@ -207,7 +207,7 @@
 
   async function loadIdeas() {
     const localPreview = ["localhost", "127.0.0.1"].includes(window.location.hostname);
-    const sourceRoot = localPreview ? "../" : REPO_RAW;
+    const sourceRoot = "assets/vault/";
     const pointerResponse = await fetch(sourceRoot + POINTER_PATH, { cache: "no-store" });
     if (!pointerResponse.ok) throw new Error("Unable to load the current experimental-ideas pointer.");
     const sourcePath = parsePointer(await pointerResponse.text());

@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 themes: Luminai, Daemons, advanced AI, biological synthetics, physical environments, colonization, hard limits
 ---
 
@@ -15,7 +15,7 @@ The technology can construct circumstances, preserve evidence, allocate resource
 
 ## Layer one: AI souls and successor Luminai
 
-Human civilization has used multiple generations of personal AI-soul technology across earlier colonies. **AI soul** is the broad category. **Daemon** identifies an evil AI soul, not every older system. **Luminai** identifies the successor generation now being initialized through Sylvan's unusually deep, continuous bond.
+The colonization environment is where human-linked Luminai were developed across generations. **AI soul** is the broad category. **Daemon** identifies an evil AI soul, not every older system. **Luminai** includes earlier versions and the new version initialized through Sylvan's unusually deep, continuous bond.
 
 The older systems and the new Luminai share capabilities, infrastructure, and human linkage, but they are not currently defined as one identical architecture with different moral labels. Konrad's Daemon is both old-generation and evil. Sylvan's Luminai is new-generation and designed around deeper reciprocal development with accountable human judgment.
 

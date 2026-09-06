@@ -122,7 +122,7 @@
 
   async function loadDashboard() {
     const localPreview = ["localhost", "127.0.0.1"].includes(window.location.hostname);
-    const sourceRoot = localPreview ? "../" : REPO_RAW;
+    const sourceRoot = "assets/vault/";
     const pointerResponse = await fetch(sourceRoot + POINTER_PATH, { cache: "no-store" });
     if (!pointerResponse.ok) throw new Error("The current weekly completion pointer could not be loaded.");
     const weeklyPath = parsePointer(await pointerResponse.text());

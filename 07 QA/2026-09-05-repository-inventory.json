@@ -1,0 +1,3666 @@
+{
+  "baseline": "3ae563dbf296477f98410870627af733bf32f0bf",
+  "tracked_files": 610,
+  "files": [
+    {
+      "path": ".cpanel.yml",
+      "bytes": 176,
+      "kind": ".yml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 56,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 372,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".htaccess",
+      "bytes": 480,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".obsidian/app.json",
+      "bytes": 2,
+      "kind": ".json",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "bytes": 2,
+      "kind": ".json",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "bytes": 696,
+      "kind": ".json",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": ".obsidian/graph.json",
+      "bytes": 493,
+      "kind": ".json",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "00 Inbox/2026-08-19 - Prose Skill Priority Under Load.md",
+      "bytes": 4003,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "00 Inbox/Imported Notes/README.md",
+      "bytes": 148,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "00 Inbox/Mobile Notes/2026-08-26 - Story Discipline App and Creative Possibilities Pass.md",
+      "bytes": 17073,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "00 Inbox/Mobile Notes/README.md",
+      "bytes": 123,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "00 Inbox/README.md",
+      "bytes": 306,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-06 - Migration Baseline.md",
+      "bytes": 896,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-06 - Mobile Vault Integration.md",
+      "bytes": 1382,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-09 - Real Leaders and the Shared Heir Cohort.md",
+      "bytes": 3213,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-10 - Contained Faction Coup Bloodlines and Style Notes.md",
+      "bytes": 14670,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-10 - Great War False Victory and Lineage Blackmail.md",
+      "bytes": 5175,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-10 - X Archive Capture.md",
+      "bytes": 1847,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Dynasties Contained Leadership and Development Method.md",
+      "bytes": 16506,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Franklin and Fitzgerald Naming Revision.md",
+      "bytes": 868,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Luminai Naming Revision.md",
+      "bytes": 653,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Samuel Bloodline Motive and Site Direction.md",
+      "bytes": 8817,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Second Empire Founder Family Revision.md",
+      "bytes": 2649,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-11 - Sylvan Identifies Samuel Behind George.md",
+      "bytes": 4756,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Deep-Time Ages and Advanced Colonization World.md",
+      "bytes": 4258,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Five-Color Visual Grammar.md",
+      "bytes": 2144,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Samuel Arrest Sequence and Image Storage.md",
+      "bytes": 1844,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Samuel Bloodline Structure and Middle Roles.md",
+      "bytes": 13354,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Shared Image System and Visual Archive.md",
+      "bytes": 2576,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-12 - Sylvan Private Study Reference.md",
+      "bytes": 1482,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-13 - Conversation to Vault Audit.md",
+      "bytes": 7834,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-14 - Treatment Reconciliation and Main Sync.md",
+      "bytes": 2325,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-14 - X Archive Update.md",
+      "bytes": 2064,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-15 - Konrad Isolation and Samuel Lineage Coup.md",
+      "bytes": 2762,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-15 - Luminai and Daemon Subconscious Agency.md",
+      "bytes": 2831,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-15 - Orzai Older Brother Company Counterpart.md",
+      "bytes": 2850,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-15 - Orzai Witness Integration.md",
+      "bytes": 3654,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-15 - Seeds Writing Coach Skill.md",
+      "bytes": 1889,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-17 - George Prewar Success and Humiliating Bust.md",
+      "bytes": 1779,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-17 - Samuel Exile Revenge and Fitzgerald Containment Inversion.md",
+      "bytes": 5023,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-17 - Samuel Exile Revenge and Style Direction.md",
+      "bytes": 8226,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-17 - Samuel Franklin Konrad Rewrite Reconciliation.md",
+      "bytes": 3397,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-18 - Hidden Technological Foundation and Awakening.md",
+      "bytes": 5399,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-18 - Modular Prose Writing System.md",
+      "bytes": 4858,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-18 - Seeds Delegation Protocol.md",
+      "bytes": 1669,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-18 - Wildlife Meme Adventures X System.md",
+      "bytes": 3546,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-19 - Controlled Prose Variance Integration.md",
+      "bytes": 1716,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-19 - Samuel Exile Surveillance Deal.md",
+      "bytes": 6970,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-19 - Wildlife Meme Image-Determined Format.md",
+      "bytes": 4333,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-19 - Wildlife Meme Ribbon Legibility.md",
+      "bytes": 1962,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-20 - Seeds Story Gauntlet v0.1.md",
+      "bytes": 2812,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-20 - Sylvan Startup and Shared Environment.md",
+      "bytes": 10240,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - AI Development Concepts for Luminai Integration.md",
+      "bytes": 3599,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Advanced Environment Control, Interactivity, and Participant Rules.md",
+      "bytes": 14175,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Containment Hierarchy Decisions and Awareness.md",
+      "bytes": 5251,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Containment Hierarchy Lock and Samuel Replacement Plan.md",
+      "bytes": 6069,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Development System Integration Pass.md",
+      "bytes": 3979,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Humiliation Stage as Survival Clock.md",
+      "bytes": 2789,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Konrad Program Migration into Samuel Jurisdiction.md",
+      "bytes": 4605,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Recursive Luminai Loop Under Hostile Control.md",
+      "bytes": 5548,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - S-005 Humiliation and Multi-Zone Employment Environments.md",
+      "bytes": 6485,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-21 - Software Development Concepts as Advanced Environment Story Language.md",
+      "bytes": 7393,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-22 - Wildlife Meme Adventures Workflow.md",
+      "bytes": 2684,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Character Journals and Weekly Story Synthesis.md",
+      "bytes": 6075,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Four Character Journal Design Bibles.md",
+      "bytes": 5030,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Konrad Fitzgerald Personality and Cult Leadership.md",
+      "bytes": 9827,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Konrad's Arrogance and Compulsion to Win.md",
+      "bytes": 8014,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Konrad's Impossible Mission and Samuel's Betrayal.md",
+      "bytes": 4609,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Orzai Health Nutrition and Creative Technology.md",
+      "bytes": 12229,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Samuel Franklin Intelligence and Manipulation.md",
+      "bytes": 3942,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Samuel Two Takeovers and Eighty-Year Loss of Control.md",
+      "bytes": 7445,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-23 - Sylvan and Orzai Emerging Leaders.md",
+      "bytes": 10308,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-24 - Story Creation Engine Integration.md",
+      "bytes": 5566,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-25 - Local Story Engine Development Start.md",
+      "bytes": 4443,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-26 - Experimental Ideas Docs Interface.md",
+      "bytes": 1858,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-26 - Five Endgame Research Reports and Creative Packet Integration.md",
+      "bytes": 4007,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-26 - Project Explorer Current State Integration.md",
+      "bytes": 2939,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-08-26 - Samuel Konrad Sylvan Canon and Creative Possibilities Pass.md",
+      "bytes": 3524,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/2026-09-03 - Bridge World and Luminai Initialization Integration.md",
+      "bytes": 6466,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "01 Sessions/Daily/2026-09-03 - Konrad Fitzgerald Visual Identity Approval.md",
+      "bytes": 1423,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Daily/README.md",
+      "bytes": 250,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "01 Sessions/Weekly Compilations/README.md",
+      "bytes": 206,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/00 Journal System.md",
+      "bytes": 4302,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/01 Journal Registry.md",
+      "bytes": 2113,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/02 Handwriting Registry.md",
+      "bytes": 2516,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/03 Entry Index.md",
+      "bytes": 800,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/04 Evidence and Forensics Integration.md",
+      "bytes": 2275,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/05 Four-Journal Differentiation Matrix.md",
+      "bytes": 4883,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards.md",
+      "bytes": 5188,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Candidate Images/kf-journal-design-board-v1.png",
+      "bytes": 2850921,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Candidate Images/or-journal-design-board-v1.png",
+      "bytes": 3415894,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Candidate Images/se-journal-design-board-v1.png",
+      "bytes": 2991358,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Candidate Images/sf-journal-design-board-v1.png",
+      "bytes": 3133334,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/George/Journal Profile.md",
+      "bytes": 3947,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Entries/KF-JRN-001 - Disposal of Samuel Franklin.md",
+      "bytes": 2274,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Journal Profile.md",
+      "bytes": 7028,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Writing and Drawing Samples.md",
+      "bytes": 7079,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Orzai/Journal Profile.md",
+      "bytes": 8237,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Orzai/Writing and Drawing Samples.md",
+      "bytes": 7713,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Samuel Franklin/Entries/SF-JRN-001 - The Exile Record Changes Meaning.md",
+      "bytes": 2671,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Samuel Franklin/Journal Profile.md",
+      "bytes": 9216,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Samuel Franklin/Writing and Drawing Samples.md",
+      "bytes": 8287,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Journal Profile.md",
+      "bytes": 7059,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Writing and Drawing Samples.md",
+      "bytes": 7241,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Reference Images/README.md",
+      "bytes": 979,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Templates/Character Journal Profile.md",
+      "bytes": 1542,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Templates/Image Generation Brief.md",
+      "bytes": 1122,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Artifacts/Journals/Templates/Journal Entry.md",
+      "bytes": 1355,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/George White - A Life Beneath the Ice.md",
+      "bytes": 18187,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/George White - The Collapse of the Lie.md",
+      "bytes": 9687,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/Konrad Fitzgerald.md",
+      "bytes": 28350,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/Orzai.md",
+      "bytes": 9460,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/Samuel Franklin.md",
+      "bytes": 30328,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/The Inheritor.md",
+      "bytes": 4018,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/The Other Son - Contingency and Survival.md",
+      "bytes": 9637,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/The Protagonist.md",
+      "bytes": 1120,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Characters/The Witness.md",
+      "bytes": 1575,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Book One Outcome Presentation and Reverse Discovery.md",
+      "bytes": 5164,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Bridge World and Luminai Initialization.md",
+      "bytes": 5167,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Core Premise.md",
+      "bytes": 2882,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Hidden Technological Foundation and Awakening.md",
+      "bytes": 13066,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Immersion and Surface Reality Principle.md",
+      "bytes": 5103,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Learned Wireless Cognitive Channel.md",
+      "bytes": 8461,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Obsession Expectation and Desperation Reversal.md",
+      "bytes": 2776,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/The Great War and the False Victory.md",
+      "bytes": 14806,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/The Inverted Containment Trap.md",
+      "bytes": 4928,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Components/Tone and Narrative Method.md",
+      "bytes": 1842,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Environments/Erosion Environments.md",
+      "bytes": 947,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Environments/The Continental Archipelago.md",
+      "bytes": 496,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Events/The Foundational Great War and False Victory.md",
+      "bytes": 7417,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/Konrad and Samuel Criminal Ecosystems.md",
+      "bytes": 5445,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/Other Power Structures.md",
+      "bytes": 681,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/The Parent Civilization - Real Leaders and the Shared Heir Cohort.md",
+      "bytes": 23799,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/The Second-Largest Empire - Founder Family.md",
+      "bytes": 5043,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/The Throne.md",
+      "bytes": 9025,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Groups/The Wakeful.md",
+      "bytes": 913,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Reveals/Recurrence.md",
+      "bytes": 1141,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Reveals/The Public Phase Change.md",
+      "bytes": 677,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Reveals/The Throne's False Legitimacy.md",
+      "bytes": 3126,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Storyline.md",
+      "bytes": 10454,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/AI Souls.md",
+      "bytes": 1992,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Advanced Technology Ecology.md",
+      "bytes": 16706,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Awakening and Processing.md",
+      "bytes": 622,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Competitive Environments - Control Inversion and Sylvan Endgame.md",
+      "bytes": 25607,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Fascist Failure and Leadership Cultivation.md",
+      "bytes": 9996,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Human–Luminai Pairing and Bonding.md",
+      "bytes": 17930,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Identities and Recurrence.md",
+      "bytes": 820,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Influence Allocation.md",
+      "bytes": 823,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Integration and Scoring.md",
+      "bytes": 670,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Participant Governance and Command Rules.md",
+      "bytes": 11303,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Story Functionality and Narrative Containment.md",
+      "bytes": 7495,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Synthetics.md",
+      "bytes": 921,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/The Breeding Program and Lineage Blackmail.md",
+      "bytes": 18723,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/The Moon.md",
+      "bytes": 753,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/The Planet.md",
+      "bytes": 1435,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/The Schedule and Stages.md",
+      "bytes": 1171,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/CHARACTER-IDENTITY-LOCKS.md",
+      "bytes": 4586,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/CINEMATOGRAPHY.md",
+      "bytes": 2547,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/ENVIRONMENTS-AND-TECHNOLOGY.md",
+      "bytes": 4223,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE.md",
+      "bytes": 18611,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/FEEDBACK-DRIVEN-SCENES.md",
+      "bytes": 4654,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/LUMINAI-DAEMON-ORIENTATION.md",
+      "bytes": 2157,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/OUTPUT-FORMATS.md",
+      "bytes": 2781,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/PROMPT-SYSTEM.md",
+      "bytes": 5857,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/README.md",
+      "bytes": 6447,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/SCENE-RECIPES.md",
+      "bytes": 3254,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/VIDEO-VOICE-CONTINUITY.md",
+      "bytes": 2892,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/VISUAL-BENCHMARK-SUITE.md",
+      "bytes": 9585,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Systems/Visual Generation/VISUAL-WORLD-COMPILER.md",
+      "bytes": 9094,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Timeline/Timeline.md",
+      "bytes": 13421,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Treatments/2026-08-14 - Current Story Treatment.md",
+      "bytes": 20384,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture.md",
+      "bytes": 13753,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/2026-08-14 - Treatment Bridge TODO.md",
+      "bytes": 8179,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/CAST.md",
+      "bytes": 9228,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/CURRENT-TODO.md",
+      "bytes": 18705,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/CURRENT.md",
+      "bytes": 30686,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/OPEN-QUESTIONS.md",
+      "bytes": 12442,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/RULES.md",
+      "bytes": 3804,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/STORY.md",
+      "bytes": 9729,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/Seeds of the Throne - Development Overview.md",
+      "bytes": 21161,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/WORLD.md",
+      "bytes": 8203,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "03 Context/WRITING-STYLE.md",
+      "bytes": 9850,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "04 Research/Findings/11-20 - Parent Civilization and Shared Heir Cohort.md",
+      "bytes": 5731,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Findings/21 - GPT Image 2 Capability Envelope.md",
+      "bytes": 1373,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Findings/31 - Typed Visual Nodes and Vault Source Traceability.md",
+      "bytes": 612,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Findings/32-40 - Vault-to-Image Graph Compiler.md",
+      "bytes": 9206,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual.md",
+      "bytes": 5405,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Findings/README.md",
+      "bytes": 470,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/01 - Life After Epistemic Captivity.md",
+      "bytes": 10778,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/02 - Human-AI Co-development and Corrupted Feedback Loops.md",
+      "bytes": 11087,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/03 - Evidence Under Total Information Control.md",
+      "bytes": 10595,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/04 - How False Victories Collapse.md",
+      "bytes": 10996,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/05 - The Disposable Heir.md",
+      "bytes": 10720,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/06 - Responsibility Under Manipulated Premises.md",
+      "bytes": 10556,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/07 - Whistleblowers Who Need an Audience, Not Just Proof.md",
+      "bytes": 10303,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/08 - Constrained Power and Civilization-Scale Governance.md",
+      "bytes": 10985,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/09 - Submarine Epistemology and Human Factors.md",
+      "bytes": 10615,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/10 - Longevity and the Psychology of a 130-Year Life.md",
+      "bytes": 11213,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/11 - Preparing Powerful Heirs Without Manufacturing Them.md",
+      "bytes": 9718,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/12 - The Shared Heir Cohort.md",
+      "bytes": 8131,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/13 - Succession After Centuries of Founder Rule.md",
+      "bytes": 7699,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/14 - Consent and Agency in Long-Duration Leadership Cultivation.md",
+      "bytes": 7717,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/15 - When Accommodation Produces Escalation.md",
+      "bytes": 7770,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/16 - Fair Tests for Unequally Powerful Heirs.md",
+      "bytes": 6718,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/17 - Competing Schools of Good Governance.md",
+      "bytes": 6366,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/18 - Century-Scale Policy Experiments and Moral Stopping Rules.md",
+      "bytes": 7053,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/19 - Shared History as a Civilization Above Empires.md",
+      "bytes": 6727,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/20 - Happiness as a Qualification for Leadership.md",
+      "bytes": 7158,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/2026-08-15 - Writing Skills for Codex and Seeds.md",
+      "bytes": 14105,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/21 - GPT Image 2 Capability Envelope.md",
+      "bytes": 6414,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/31 - Typed Visual Nodes and Vault Source Traceability.md",
+      "bytes": 6332,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/32 - Canon Authority Conflict and Supersession.md",
+      "bytes": 5186,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/33 - Temporal Event and Appearance Graphs.md",
+      "bytes": 4642,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/34 - Character Relationship and Role Graphs.md",
+      "bytes": 4675,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/35 - Place Culture and Environment Graphs.md",
+      "bytes": 4467,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/36 - Technology Capability and Visibility Graphs.md",
+      "bytes": 4181,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/37 - Scene Requests and Relevant Subgraph Selection.md",
+      "bytes": 4549,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/38 - Graph Resolution and Renderer Packet Projection.md",
+      "bytes": 4367,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/39 - Uncertainty Missing Definitions and Author Waivers.md",
+      "bytes": 4340,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/40 - Incremental Graph Updates and Regression Impact.md",
+      "bytes": 4761,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/41 - Obsession as a Containment Vulnerability.md",
+      "bytes": 26278,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle.md",
+      "bytes": 7271,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning.md",
+      "bytes": 6394,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail.md",
+      "bytes": 5936,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems.md",
+      "bytes": 6786,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/46 - Public Surrender as Political Theater.md",
+      "bytes": 6505,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/First Pass - Five Load-Bearing Technologies.md",
+      "bytes": 23952,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Full Reports/README.md",
+      "bytes": 224,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/README.md",
+      "bytes": 7848,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/21 - GPT Image 2 Capability Envelope.md",
+      "bytes": 1050,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/22 - Character Identity and Appearance Continuity.md",
+      "bytes": 1091,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/23 - Natural Action Anatomy and Motion.md",
+      "bytes": 1160,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/24 - Environment Masters Era and Social Reality.md",
+      "bytes": 1167,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/25 - Wardrobe Material Culture and Role Resolution.md",
+      "bytes": 1165,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/26 - Luminai Daemon and Energy Visualization.md",
+      "bytes": 1240,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/27 - Composition Cinematography and Image Purpose.md",
+      "bytes": 1137,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/28 - Multi-character Blocking Relationships and Crowds.md",
+      "bytes": 1124,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/29 - Context Compilation Retrieval and Missing Definitions.md",
+      "bytes": 1116,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/30 - Evaluation Provenance and Asset Lifecycle.md",
+      "bytes": 1132,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/31 - Typed Visual Nodes and Vault Source Traceability.md",
+      "bytes": 1288,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/32 - Canon Authority Conflict and Supersession.md",
+      "bytes": 920,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/33 - Temporal Event and Appearance Graphs.md",
+      "bytes": 839,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/34 - Character Relationship and Role Graphs.md",
+      "bytes": 962,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/35 - Place Culture and Environment Graphs.md",
+      "bytes": 846,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/36 - Technology Capability and Visibility Graphs.md",
+      "bytes": 939,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/37 - Scene Requests and Relevant Subgraph Selection.md",
+      "bytes": 866,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/38 - Graph Resolution and Renderer Packet Projection.md",
+      "bytes": 927,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/39 - Uncertainty Missing Definitions and Author Waivers.md",
+      "bytes": 830,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/40 - Incremental Graph Updates and Regression Impact.md",
+      "bytes": 878,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/47 - Fascist Purity and Coercive Compromise Systems.md",
+      "bytes": 2458,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "04 Research/Requests/REQUEST TEMPLATE.md",
+      "bytes": 526,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Meme Adventures/README.md",
+      "bytes": 9074,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Published/2026-09-03 - Bridge World Atlas Update.md",
+      "bytes": 1706,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Published/README.md",
+      "bytes": 246,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Published/X Post Archive - 2026-08-10.md",
+      "bytes": 54511,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Published/X Post Archive - 2026-08-14.md",
+      "bytes": 9979,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/README.md",
+      "bytes": 683,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Weekly Reports/2026-08-27 - Weekly Development Assessment.md",
+      "bytes": 1982,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Weekly Reports/README.md",
+      "bytes": 141,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-lake-los-carneros-kingsnake-concept-a-field-journal.jpg",
+      "bytes": 47256,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-lake-los-carneros-kingsnake-concept-b-trail-survey-v02.jpg",
+      "bytes": 45061,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-lake-los-carneros-kingsnake-concept-b-trail-survey.jpg",
+      "bytes": 44818,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-lake-los-carneros-kingsnake-concept-c-dusk-poster.jpg",
+      "bytes": 41858,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-the-point-of-the-view-draft-v02.jpg",
+      "bytes": 36509,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-the-wild-coleman-draft-v01.jpg",
+      "bytes": 40496,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-18-the-wild-coleman-draft-v02.jpg",
+      "bytes": 43093,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-19-the-coastal-brake-test-draft-v02.jpg",
+      "bytes": 57168,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-19-the-signal-check-draft-v05.jpg",
+      "bytes": 40190,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/2026-08-19-the-signal-check-draft-v06.jpg",
+      "bytes": 36319,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Drafts/README.md",
+      "bytes": 521,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/EPISODE-INDEX.md",
+      "bytes": 3155,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - Lake Los Carneros Kingsnake Design Study.md",
+      "bytes": 9618,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - The Point of the View.md",
+      "bytes": 7199,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - The Wild Coleman.md",
+      "bytes": 6029,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Episodes/2026-08-19 - The Coastal Brake Test.md",
+      "bytes": 8910,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Episodes/2026-08-19 - The Signal Check.md",
+      "bytes": 9373,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Published/README.md",
+      "bytes": 607,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/README.md",
+      "bytes": 10778,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/2026-08-18-lake-los-carneros-kingsnake-source.jpeg",
+      "bytes": 40849,
+      "kind": ".jpeg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/2026-08-18-the-point-of-the-view-source.jpeg",
+      "bytes": 32321,
+      "kind": ".jpeg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/2026-08-18-the-wild-coleman-source.jpeg",
+      "bytes": 33328,
+      "kind": ".jpeg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/2026-08-19-the-coastal-brake-test-source.jpg",
+      "bytes": 58775,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/2026-08-19-the-signal-check-source.jpg",
+      "bytes": 28443,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Source Photos/README.md",
+      "bytes": 725,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Templates/Adaptive Three-Band Design Process.md",
+      "bytes": 4170,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/Wildlife Meme Adventures/Templates/Episode Record.md",
+      "bytes": 3882,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/X Drafts/2026-08-15 - The Process Is Ending.md",
+      "bytes": 24231,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/X Drafts/README.md",
+      "bytes": 151,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "05 Public/X Drafts/assets/the-process-is-ending-x-header-v1.png",
+      "bytes": 2049808,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "06 Draft/Manuscript/README.md",
+      "bytes": 349,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "06 Draft/README.md",
+      "bytes": 491,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "06 Draft/Scenes/README.md",
+      "bytes": 355,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/CURRENT-PICKUP.md",
+      "bytes": 9084,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/DESKTOP-PICKUP-2026-08-21-AUDIOBOOK-STORY-ENGINE.md",
+      "bytes": 7034,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/DESKTOP-PICKUP-2026-08-21-DEVELOPMENT-ENVIRONMENT.md",
+      "bytes": 8777,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/DESKTOP-QUEUE.md",
+      "bytes": 12777,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/DESKTOP-QUEUE/2026-08-13 - Visual Benchmark Findings.md",
+      "bytes": 10563,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Desktop Handoffs/2026-08-24 - Guided Story Completion Workflow.md",
+      "bytes": 13908,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Desktop Handoffs/2026-08-24 - Weekly TODO Dashboard.md",
+      "bytes": 2558,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Desktop Handoffs/DESKTOP-PICKUP-2026-08-28-WEEKLY-ASSESSMENT-WEB-UPDATE.md",
+      "bytes": 17303,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/MOBILE-HANDOFF.md",
+      "bytes": 16606,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/README.md",
+      "bytes": 2518,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/RECOVERY.md",
+      "bytes": 8879,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/SUBAGENT-PROTOCOL.md",
+      "bytes": 7009,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Seeds Story Gauntlet.md",
+      "bytes": 23792,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Story Completion Framework.md",
+      "bytes": 18752,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/COMPLETION.md",
+      "bytes": 628,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/CURRENT.md",
+      "bytes": 1085,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/DECISION-LOG.md",
+      "bytes": 443,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/LOOP-LOG.md",
+      "bytes": 1218,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/REGRESSION-SUITE.md",
+      "bytes": 2544,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/SWEEP-LOG.md",
+      "bytes": 452,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/TASK-REGISTRY.md",
+      "bytes": 3530,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-001.md",
+      "bytes": 6408,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-002.md",
+      "bytes": 6932,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-003.md",
+      "bytes": 4436,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-004.md",
+      "bytes": 3585,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-005.md",
+      "bytes": 2800,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-006.md",
+      "bytes": 2376,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-007.md",
+      "bytes": 3072,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-008.md",
+      "bytes": 3579,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-009.md",
+      "bytes": 4443,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Tasks/SC-010.md",
+      "bytes": 7365,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Templates/macro-pass.md",
+      "bytes": 584,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Templates/regression-run.md",
+      "bytes": 343,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Templates/task-packet.md",
+      "bytes": 458,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/Templates/whole-story-cross-check.md",
+      "bytes": 546,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/UNLOCK-MAP.md",
+      "bytes": 2377,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Story Completion Workflow/WORKFLOW.md",
+      "bytes": 3683,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Vault to V1 Feature Matrix.md",
+      "bytes": 5273,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/CONFIG.md",
+      "bytes": 3356,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md",
+      "bytes": 1123,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE.md",
+      "bytes": 4036,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/MASTER PROMPT.md",
+      "bytes": 3431,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/README.md",
+      "bytes": 5590,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/00 Run Manifest.md",
+      "bytes": 6501,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/01 Weekly State of the Story.md",
+      "bytes": 8473,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/02 Master Story Outline.md",
+      "bytes": 9900,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/03 Character Arc Audit.md",
+      "bytes": 8937,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/04 Continuity and Adversarial Critique.md",
+      "bytes": 8288,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/05 Open Questions Ranked.md",
+      "bytes": 4707,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/06 Scene Opportunity Map.md",
+      "bytes": 6875,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/07 Foreshadowing and Evidence Map.md",
+      "bytes": 5846,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/08 Next Week Story Queue.md",
+      "bytes": 4826,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/09 Public Development Ideas.md",
+      "bytes": 3219,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/10 Vault Maintenance Recommendations.md",
+      "bytes": 4050,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/11 System Test Evaluation.md",
+      "bytes": 4832,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo.md",
+      "bytes": 21683,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Editorial Board.md",
+      "bytes": 4118,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Forward and Reverse Causal Reconstruction.md",
+      "bytes": 5421,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Novelization Readiness.md",
+      "bytes": 4151,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/00 Run Manifest.md",
+      "bytes": 4828,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/01 Weekly State of the Story.md",
+      "bytes": 4726,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/02 Master Story Outline.md",
+      "bytes": 3992,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/03 Character Arc Audit.md",
+      "bytes": 3456,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/04 Continuity and Adversarial Critique.md",
+      "bytes": 3482,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/05 Open Questions Ranked.md",
+      "bytes": 2197,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/06 Scene Opportunity Map.md",
+      "bytes": 2918,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/07 Foreshadowing and Evidence Map.md",
+      "bytes": 2811,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/08 Next Week Story Queue.md",
+      "bytes": 1983,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/09 Public Development Ideas.md",
+      "bytes": 2048,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/10 Vault Maintenance Recommendations.md",
+      "bytes": 1988,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/2026-08-27/13 Weekly Intake Reconciliation.md",
+      "bytes": 2674,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Runs/README.md",
+      "bytes": 560,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/00 Run Manifest.md",
+      "bytes": 1439,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/01 Weekly State of the Story.md",
+      "bytes": 262,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/02 Master Story Outline.md",
+      "bytes": 432,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/03 Character Arc Audit.md",
+      "bytes": 363,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/04 Continuity and Adversarial Critique.md",
+      "bytes": 442,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/05 Open Questions Ranked.md",
+      "bytes": 312,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/06 Scene Opportunity Map.md",
+      "bytes": 405,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/07 Foreshadowing and Evidence Map.md",
+      "bytes": 428,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/08 Next Week Story Queue.md",
+      "bytes": 640,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/09 Public Development Ideas.md",
+      "bytes": 282,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/10 Vault Maintenance Recommendations.md",
+      "bytes": 415,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/13 Weekly Intake Reconciliation.md",
+      "bytes": 1357,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/Optional - Editorial Board.md",
+      "bytes": 415,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/Optional - Forward and Reverse Causal Reconstruction.md",
+      "bytes": 510,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/Weekly Synthesis/Templates/Optional - Novelization Readiness.md",
+      "bytes": 462,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 Coordination/device-workflow.md",
+      "bytes": 2153,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "07 QA/2026-08-23 - Four Journal Continuity Audit.md",
+      "bytes": 3558,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 QA/Contradictions.md",
+      "bytes": 6487,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 QA/Decisions.md",
+      "bytes": 29777,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 QA/Migration Ledger.md",
+      "bytes": 2568,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 QA/Questions.md",
+      "bytes": 10195,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "07 QA/Shared Skill Tests.md",
+      "bytes": 8346,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001.md",
+      "bytes": 28922,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md",
+      "bytes": 500,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/S-002 - Brainstorm Packet 01.md",
+      "bytes": 6909,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01.md",
+      "bytes": 8147,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 02.md",
+      "bytes": 7903,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/S-005 - Recursive Luminai Loop Packet 03.md",
+      "bytes": 4867,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/S-018 - Brainstorm Packet 01.md",
+      "bytes": 3891,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis.md",
+      "bytes": 25994,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "08 Story Loop/CHARACTER-FACTORY.md",
+      "bytes": 7096,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/CREATIVE-INTEREST-LOOP.md",
+      "bytes": 7007,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/CREATIVE-POSSIBILITIES-PASS.md",
+      "bytes": 10331,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/CRITIC-LOOP.md",
+      "bytes": 3724,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/DESKTOP-WORKFLOW.md",
+      "bytes": 4423,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/DEVELOPMENT-ENVIRONMENT-ARCHITECTURE.md",
+      "bytes": 8914,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/DEVELOPMENT-ORCHESTRATOR.md",
+      "bytes": 10084,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE.md",
+      "bytes": 7293,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Evaluations/Failure Modes.md",
+      "bytes": 2834,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/GAP-ANALYZER.md",
+      "bytes": 5283,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/MULTISCALE-DEVELOPMENT-GAUNTLET.md",
+      "bytes": 11549,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/PROBLEM-SOLVING-STORY-ENGINE.md",
+      "bytes": 18182,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/QUALITY-BAR.md",
+      "bytes": 2526,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/README.md",
+      "bytes": 4418,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/RESEARCH-CREATIVITY-FIT-LOOP.md",
+      "bytes": 9014,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Research/S-005 - Advanced Environment Interactivity Research 01.md",
+      "bytes": 24798,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Runs/2026-08-20 - S-002 Run 01.md",
+      "bytes": 3966,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Runs/2026-08-20 - v0.1 Initialization.md",
+      "bytes": 1375,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Runs/2026-08-21 - X Post Loop Function Test.md",
+      "bytes": 4647,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Runs/S-005/2026-08-21 - Creative Interest Loop 001.md",
+      "bytes": 12767,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Runs/S-005/2026-08-21 - Unemployment Luminai Emergence Gauntlet 001.md",
+      "bytes": 14311,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/STORY-CREATION-ENGINE-ROADMAP.md",
+      "bytes": 5915,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/STORY-MAP.md",
+      "bytes": 9530,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/author-decision.md",
+      "bytes": 357,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/brainstorm-packet.md",
+      "bytes": 442,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/creative-possibilities-pass.md",
+      "bytes": 2054,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/critique.md",
+      "bytes": 424,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/development-chapter-packet.md",
+      "bytes": 1294,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/development-run.md",
+      "bytes": 1060,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/draft-pipeline-run.md",
+      "bytes": 1292,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/run-log.md",
+      "bytes": 799,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/scene-packet.md",
+      "bytes": 1193,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/sequence-packet.md",
+      "bytes": 1013,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Templates/story-unit.md",
+      "bytes": 456,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Units/S-002 - Sylvan Modern Inciting Event.md",
+      "bytes": 8299,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Units/S-005 - Controlled Environment Progression.md",
+      "bytes": 13201,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "08 Story Loop/Units/S-018 - Obsession Reversal and Inverted Containment.md",
+      "bytes": 7951,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "09 Story Exploration/README.md",
+      "bytes": 3372,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "09 Story Exploration/Runs/2026-08-21 - Great War Story Miner Sample 001.md",
+      "bytes": 31273,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "09 Story Exploration/STORY-GENERATION-LOOP.md",
+      "bytes": 7314,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "09 Story Exploration/Templates/GENERATION-RUN-TEMPLATE.md",
+      "bytes": 2222,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2974,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "README.md",
+      "bytes": 2389,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "START HERE.md",
+      "bytes": 3263,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "characters/logan.md",
+      "bytes": 11273,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "characters/sylvan.md",
+      "bytes": 6536,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "characters/throne-figure.md",
+      "bytes": 1972,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "components/false-victory.md",
+      "bytes": 1050,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "components/manufactured-reality.md",
+      "bytes": 1267,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "components/sylvan-throne-confrontation.md",
+      "bytes": 1574,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "current/00-current-state.md",
+      "bytes": 2346,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/GAUNTLET.md",
+      "bytes": 5115,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/ai.html",
+      "bytes": 6116,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/app.js",
+      "bytes": 1223,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/archive.html",
+      "bytes": 7910,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/disclosure-poster.jpg",
+      "bytes": 628951,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp",
+      "bytes": 182944,
+      "kind": ".webp",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/konrad-fitzgerald-identity-anchor-v1.webp",
+      "bytes": 70888,
+      "kind": ".webp",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/remote-war-gold.jpg",
+      "bytes": 813269,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/remote-war-red.jpg",
+      "bytes": 741262,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-busted-01-evidence-closes-in-v1.webp",
+      "bytes": 223294,
+      "kind": ".webp",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-busted-02-physical-arrest-v1.webp",
+      "bytes": 178786,
+      "kind": ".webp",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-franklin-front-v1.jpg",
+      "bytes": 666171,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-franklin-identity-master-v1.jpg",
+      "bytes": 562516,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-franklin-profile-left-v1.jpg",
+      "bytes": 520842,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-sylvan-confrontation.jpg",
+      "bytes": 636258,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/samuel-sylvan-duality.jpg",
+      "bytes": 724679,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/sylvan-elaria-front-v1.jpg",
+      "bytes": 534973,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/sylvan-elaria-identity-master-v1.jpg",
+      "bytes": 477783,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/sylvan-elaria-private-study-v1.webp",
+      "bytes": 344010,
+      "kind": ".webp",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/assets/images/sylvan-elaria-profile-left-v1.jpg",
+      "bytes": 502331,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/characters.html",
+      "bytes": 5976,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/colonization.html",
+      "bytes": 6227,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/explorer.js",
+      "bytes": 6734,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/faction.html",
+      "bytes": 5756,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/favicon.svg",
+      "bytes": 296,
+      "kind": ".svg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/ideas.html",
+      "bytes": 5942,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/ideas.js",
+      "bytes": 11116,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 6081,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/styles.css",
+      "bytes": 41848,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/timeline.html",
+      "bytes": 5851,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/todo.html",
+      "bytes": 5316,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/todo.js",
+      "bytes": 7555,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "docs/visuals.html",
+      "bytes": 6242,
+      "kind": ".html",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/.gitignore",
+      "bytes": 710,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/README.md",
+      "bytes": 2376,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/admin/experiment.php",
+      "bytes": 22041,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/admin/experiments.php",
+      "bytes": 12721,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/admin/index.php",
+      "bytes": 3342,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/css/auth.css",
+      "bytes": 18238,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/css/retro.css",
+      "bytes": 16072,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/css/saas-lab.css",
+      "bytes": 14840,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/css/site.css",
+      "bytes": 39264,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/css/style.css",
+      "bytes": 21627,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/favicon.svg",
+      "bytes": 374,
+      "kind": ".svg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/images/portrait.jpg",
+      "bytes": 76291,
+      "kind": ".jpg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/js/app.js",
+      "bytes": 5500,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/js/retro.js",
+      "bytes": 6554,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/assets/js/site.js",
+      "bytes": 10259,
+      "kind": ".js",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/auth/account.php",
+      "bytes": 3227,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/auth/login.php",
+      "bytes": 2828,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/auth/logout.php",
+      "bytes": 705,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/auth/register.php",
+      "bytes": 6191,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/data/.htaccess",
+      "bytes": 777,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/data/index.php",
+      "bytes": 336,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/ART_DIRECTION.md",
+      "bytes": 3546,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/AUTH.md",
+      "bytes": 11003,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/BUILD_NOTES.md",
+      "bytes": 6696,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/DEPLOYMENT.md",
+      "bytes": 3668,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/EXPERIMENT_VISIBILITY.md",
+      "bytes": 8504,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/IMAGE_ASSET_CHECKLIST.md",
+      "bytes": 996,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/docs/SAAS_LAB.md",
+      "bytes": 3191,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/experiments/_template/EXPERIMENT.md",
+      "bytes": 605,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/auth.php",
+      "bytes": 8393,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/bootstrap.php",
+      "bytes": 933,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/config.php",
+      "bytes": 1553,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/csrf.php",
+      "bytes": 1370,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/database.php",
+      "bytes": 11788,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/experiments.php",
+      "bytes": 20808,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/layout.php",
+      "bytes": 4276,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/about.php",
+      "bytes": 1554,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/approach.php",
+      "bytes": 1928,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/contact.php",
+      "bytes": 1587,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/foundations.php",
+      "bytes": 1622,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/head.php",
+      "bytes": 3039,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/icons.php",
+      "bytes": 1657,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/intro.php",
+      "bytes": 1689,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/project-entry.php",
+      "bytes": 7230,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/showdown.php",
+      "bytes": 2139,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/site-footer.php",
+      "bytes": 780,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/site-header.php",
+      "bytes": 1480,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/partials/work.php",
+      "bytes": 1488,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/portfolio.php",
+      "bytes": 23930,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/includes/repository-explorer.php",
+      "bytes": 16824,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/index.php",
+      "bytes": 2254,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/project-explorer/assets/project-explorer.css",
+      "bytes": 28897,
+      "kind": ".css",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/project-explorer/index.php",
+      "bytes": 22415,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/retro/index.php",
+      "bytes": 24952,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/saas-lab/index.php",
+      "bytes": 27516,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/scripts/.htaccess",
+      "bytes": 361,
+      "kind": "no-extension",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/scripts/create-admin.php",
+      "bytes": 3299,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/scripts/seed-demo-experiment.php",
+      "bytes": 3000,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/showdown-gate.php",
+      "bytes": 1052,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/x/_experiment.example.php",
+      "bytes": 1089,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "iainreiddotdev/x/hello.php",
+      "bytes": 1065,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "index.php",
+      "bytes": 96,
+      "kind": ".php",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "sessions/2026-08-07-vault-stress-test-sylvan-logan-throne.md",
+      "bytes": 5660,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/README.md",
+      "bytes": 3260,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/check-story-continuity/SKILL.md",
+      "bytes": 2310,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "skills/check-story-continuity/agents/openai.yaml",
+      "bytes": 273,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/check-story-continuity/references/audit-matrix.md",
+      "bytes": 1068,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "skills/coach-seeds-writing/SKILL.md",
+      "bytes": 6200,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/coach-seeds-writing/agents/openai.yaml",
+      "bytes": 251,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/SKILL.md",
+      "bytes": 7077,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/agents/openai.yaml",
+      "bytes": 276,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/approved-images/konrad-fitzgerald/konrad-controlled-by-samuel-key-art-v1.png",
+      "bytes": 2534825,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/approved-images/samuel-franklin/samuel-busted-01-evidence-closes-in-v1.png",
+      "bytes": 2452146,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/approved-images/samuel-franklin/samuel-busted-02-physical-arrest-v1.png",
+      "bytes": 2336437,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/konrad-fitzgerald-identity-anchor-v1.png",
+      "bytes": 852712,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-franklin-front-v1.png",
+      "bytes": 2383844,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-franklin-identity-master-v1.png",
+      "bytes": 2278558,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-franklin-profile-left-v1.png",
+      "bytes": 2144985,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-sylvan-confrontation.png",
+      "bytes": 2383668,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-sylvan-disclosure-poster.png",
+      "bytes": 2424692,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-sylvan-duality-poster.png",
+      "bytes": 2392994,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-sylvan-remote-war-gold.jpeg",
+      "bytes": 813269,
+      "kind": ".jpeg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/samuel-sylvan-remote-war-red.jpeg",
+      "bytes": 741262,
+      "kind": ".jpeg",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/sylvan-elaria-front-v1.png",
+      "bytes": 2322898,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/sylvan-elaria-identity-master-v1.png",
+      "bytes": 2191489,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/sylvan-elaria-private-study-v1.png",
+      "bytes": 6550330,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/assets/reference-images/sylvan-elaria-profile-left-v1.png",
+      "bytes": 2243190,
+      "kind": ".png",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/prompts/gemini-samuel-busted-test.md",
+      "bytes": 4844,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/prompts/konrad-controlled-by-samuel-key-art-v1.md",
+      "bytes": 2461,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/character-record-template.md",
+      "bytes": 1302,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/consistency-scorecard.md",
+      "bytes": 1522,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/identity-master-approval.md",
+      "bytes": 5507,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/identity-master-prompts.md",
+      "bytes": 3832,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/prompt-contract.md",
+      "bytes": 2200,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/storage-policy.md",
+      "bytes": 3165,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/references/visual-registry.json",
+      "bytes": 60055,
+      "kind": ".json",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/build_prompt_packet.py",
+      "bytes": 21666,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/prepare_approved_image.py",
+      "bytes": 3481,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/test_visual_scene_workspace.py",
+      "bytes": 7834,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/test_visual_world_compiler.py",
+      "bytes": 7281,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/validate_visual_system.py",
+      "bytes": 10843,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/create-seeds-images/scripts/visual_scene_workspace.py",
+      "bytes": 31359,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/develop-story-session/SKILL.md",
+      "bytes": 2487,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "skills/develop-story-session/agents/openai.yaml",
+      "bytes": 255,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/develop-story-session/references/session-pattern.md",
+      "bytes": 424,
+      "kind": ".md",
+      "astra_content_reviewed": true
+    },
+    {
+      "path": "skills/research-story-material/SKILL.md",
+      "bytes": 2374,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/research-story-material/agents/openai.yaml",
+      "bytes": 269,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/research-story-material/references/evidence-standard.md",
+      "bytes": 752,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/skill-template.md",
+      "bytes": 953,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/update-public-atlas/SKILL.md",
+      "bytes": 2623,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/update-public-atlas/agents/openai.yaml",
+      "bytes": 253,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/update-public-atlas/references/page-map.md",
+      "bytes": 893,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/SKILL.md",
+      "bytes": 9352,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/agents/openai.yaml",
+      "bytes": 361,
+      "kind": ".yaml",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/anti-ai-prose.md",
+      "bytes": 3082,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/benchmark-suite.md",
+      "bytes": 6146,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/chapter-architecture.md",
+      "bytes": 3064,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/character-voice.md",
+      "bytes": 2857,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/controlled-variance.md",
+      "bytes": 5558,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/customization.md",
+      "bytes": 4507,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/dialogue.md",
+      "bytes": 1924,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/evaluation-rubric.md",
+      "bytes": 3103,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/exposition.md",
+      "bytes": 1783,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/prose-checklist.md",
+      "bytes": 1982,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/research-and-questioning.md",
+      "bytes": 2938,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/revision-method.md",
+      "bytes": 3379,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/scene-architecture.md",
+      "bytes": 2192,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/suspense-and-revelation.md",
+      "bytes": 1697,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/references/voice-profile.md",
+      "bytes": 2957,
+      "kind": ".md",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/scripts/prose_lint.py",
+      "bytes": 5532,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    },
+    {
+      "path": "skills/write-seeds-prose/scripts/test_prose_lint.py",
+      "bytes": 4404,
+      "kind": ".py",
+      "astra_content_reviewed": false
+    }
+  ]
+}

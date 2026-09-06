@@ -1,16 +1,25 @@
 ---
 type: context
 status: active
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Current
 
+## September 5 integration status
+
+The foundation above follows explicit author correction. Older multi-planetary background below remains working context, not proof that Luminai predated the interactive process. The no-implant interface versus new hardware research is an open gate. Workshop packets support the current SC-010 gate; no story-completion checkbox has been advanced.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Foundational integration — 2026-09-03
 
-The current planet is now the **bridge world** between two eras: the concluding or auditing environment of humanity's mature multi-planetary colonization process using older AI souls, and the first complete real-world initialization environment for a new generation of deeply integrated Luminai.
+Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants discover the process and navigate it with their Luminai; their effectiveness affects future placement.
 
-**Terminology:** AI soul is the broad historical category. Daemon means an evil AI soul. Konrad's Great War AI soul is an older Daemon. Luminai names the successor generation being initialized with Sylvan. Do not call all older AI souls Daemons or project every property of Sylvan's bond backward onto them.
+The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses a new, more deeply integrated Luminai; earlier participants use earlier versions. Daemon identifies an evil AI soul, not an earlier generation. Exact hardware, stage durations, and grid architecture remain open.
+
+**Terminology:** AI soul is the broad historical category. Daemon means an evil AI soul. Konrad's Great War AI soul is an older Daemon. Luminai names the mind extensions developed within the process, including earlier versions and Sylvan's new generation. Do not call all older AI souls Daemons or project every property of Sylvan's bond backward onto them.
 
 **Central comparison:** Konrad refuses to exit after the Great War because he believes his experienced Daemon can contain Samuel, outperform Sylvan's new Luminai, redeem every failure, and restore Konrad's authority. Samuel's false autonomous-group offer induces Konrad to reactivate his people and systems inside Samuel's containment sphere. Konrad's attempt at domination gives Samuel the access required to capture the group.
 

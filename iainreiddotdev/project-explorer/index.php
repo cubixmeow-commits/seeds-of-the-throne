@@ -51,6 +51,7 @@ if ($requested !== '') {
     } else {
         $markdown = $contents;
         $rendered = explorer_render_markdown($markdown, $requested, $files);
+        $rendered = preg_replace('/<(\/?)h1\b/', '<$1h2', $rendered) ?? $rendered;
         $modifiedValue = filemtime($resolvedPath);
         $modified = $modifiedValue === false ? null : $modifiedValue;
         $sizeValue = filesize($resolvedPath);
@@ -168,7 +169,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260903';
+$assetVersion = '20260905';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -200,6 +201,8 @@ function explorer_format_bytes(?int $bytes): string
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
+    <link rel="stylesheet" href="../../docs/atlas.css?v=20260905">
+    <link rel="stylesheet" href="assets/workbench.css?v=20260905">
     <script>
         (function () {
             try {
@@ -251,16 +254,18 @@ function explorer_format_bytes(?int $bytes): string
             <div class="explorer-hero__content wrap">
                 <p class="explorer-hero__label">Project Explorer</p>
                 <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
-                <p class="explorer-hero__lede">Track the bridge-world foundation update, then browse the canon, research, visual systems, drafts, and decisions behind the project.</p>
+                <p class="explorer-hero__lede">Inspect the corrected story, trace unresolved causes, and work through source-linked brainstorming packets. The repository browser remains available below.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="#story-progress">
-                        <span>Story progress</span>
+                    <a class="archive-cta archive-cta--primary" href="#workbench">
+                        <span>Open the workshop workspace</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
                     <a class="archive-cta" href="#archive">Browse the project</a>
                 </div>
             </div>
         </section>
+
+        <?php require __DIR__ . '/workbench.php'; ?>
 
         <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">
             <div class="wrap">
@@ -274,11 +279,11 @@ function explorer_format_bytes(?int $bytes): string
 
                 <article class="explorer-assessment" aria-labelledby="assessment-title">
                     <div>
-                        <p class="explorer-assessment__date">Foundation update · September 3, 2026</p>
-                        <h3 id="assessment-title">The old colonization era and the new Luminai process now meet in one test.</h3>
+                        <p class="explorer-assessment__date">Integrated foundation review · September 5, 2026</p>
+                        <h3 id="assessment-title">The environment develops the bond. The outcome tests responsibility.</h3>
                     </div>
                     <div>
-                        <p>Konrad tries to redeem the older Daemon by controlling Samuel. Samuel turns that attempt into access. Book One begins near the outcome, where Sylvan's successor Luminai contains the same criminal system and reconstructs what happened.</p>
+                        <p>The leaders created an interactive colonization environment and developed Luminai within it. Konrad tries to prove his experienced daemon superior; Samuel turns his reactivation into access. Sylvan already has decisive control during the final years. Exact safeguards and presentation mechanics remain open.</p>
                         <p class="explorer-assessment__method"><span>Current method</span> Bound action, observe the method, compare the record, expose the hidden command.</p>
                         <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Published/2026-09-03 - Bridge World Atlas Update.md')) ?>"><span>Read the foundation update record</span><span aria-hidden="true">↗</span></a>
                     </div>
@@ -288,8 +293,8 @@ function explorer_format_bytes(?int $bytes): string
                     <div class="explorer-progress__summary">
                         <p class="explorer-progress__count"><strong><?= e((string) $completion['completed']) ?> / <?= e((string) $completion['total']) ?></strong><span>story tasks complete</span></p>
                         <div class="explorer-progress__meter">
-                            <div><span>Overall completion</span><strong><?= e((string) $completion['percent']) ?>%</strong></div>
-                            <progress max="100" value="<?= e((string) $completion['percent']) ?>" aria-label="Overall story completion"><?= e((string) $completion['percent']) ?>%</progress>
+                            <div><span>Current checklist completion</span><strong><?= e((string) $completion['percent']) ?>%</strong></div>
+                            <progress max="100" value="<?= e((string) $completion['percent']) ?>" aria-label="Current story checklist completion"><?= e((string) $completion['percent']) ?>%</progress>
                         </div>
                         <dl class="explorer-progress__current">
                             <div><dt>Current sweep</dt><dd><?= e($completion['current_sweep']) ?></dd></div>

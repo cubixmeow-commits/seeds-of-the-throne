@@ -7,6 +7,13 @@ updated: 2026-08-15
 
 # Sylvan Elaria — The Inheritor
 
+## September 5 integration boundary
+
+**Established:** during the final few years Sylvan already has decisive control. **Unresolved personal arc:** define a relationship, obligation, or future he can still lose. Proposed workshop tests include honoring a witness's refusal and accepting an incomplete public proof. These are not new canon choices.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 **Sylvan Elaria carries the modern Inheritor role.** He enters the modern thread roughly eighty years after the Great War-era Witness thread carried provisionally by one of Orzai's parents. He explains awakening and hidden interference through surveillance, artificial intelligence, targeted technology, and the developing capabilities of his Luminai. His interpretation is intelligent, era-shaped, and incomplete.
 
 Sylvan is competent, resourced, and headed toward meaningful public responsibility. Evidence surviving from Orzai's parent generation therefore threatens something real: his future placement, trust in the cultivation system, relationship to his parents, or confidence in the process developing him and his Luminai. The exact route by which Orzai and the evidence enter his life remains unresolved.

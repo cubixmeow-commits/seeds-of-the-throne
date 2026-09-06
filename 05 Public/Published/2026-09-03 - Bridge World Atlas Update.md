@@ -7,6 +7,13 @@ scope: project-explorer-and-atlas
 
 # Bridge World Atlas Update
 
+## Supersession notice
+
+Historical integration record retained. The September 5 author correction supersedes wording implying Luminai were restricted to the successor generation or that humanity simply colonized worlds using preexisting AI souls. Consult current Core Premise and AI Souls notes.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Public revision
 
 The public atlas now reflects the September 3 foundation update:

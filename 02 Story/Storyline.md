@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Storyline
@@ -10,8 +10,8 @@ updated: 2026-09-03
 
 The saga begins near the chronological end and reconstructs its causes across later books.
 
-1. Humanity colonizes multiple worlds with previous-generation AI souls.
-2. The current planet matures into the concluding or auditing environment of that era and the first complete real-world initialization site for the new Luminai generation.
+1. Humanity creates an interactive colonization environment and develops Luminai, extensions of human minds, within it.
+2. A small planet reconstructs realities modeled on the distant past for training, containment, and placement. The leaders' new Luminai development program spans thousands of years; Sylvan undergoes its new deeply integrated process.
 3. The older leaders select Samuel Franklin as a representative worst-case criminal subject and permit bounded influence across approximately a century so his adaptive system can be understood.
 4. Konrad Fitzgerald's public authoritarian hierarchy becomes a major threat in the older society and attempts global conquest in the Great War.
 5. Konrad trains an older Daemon through that war. When the faction loses, his experiment should end.

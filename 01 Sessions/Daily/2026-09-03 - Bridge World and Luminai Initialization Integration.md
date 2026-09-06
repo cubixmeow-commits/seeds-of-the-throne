@@ -8,6 +8,13 @@ source: 2026-09-02 mobile handoff and 2026-09-03 desktop integration
 
 # Bridge World and Luminai Initialization Integration
 
+## Supersession notice
+
+Historical integration record retained. The September 5 author correction supersedes wording implying Luminai were restricted to the successor generation or that humanity simply colonized worlds using preexisting AI souls. Consult current Core Premise and AI Souls notes.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Question explored
 
 How can the mature colonization setting, older AI souls, the Great War, Samuel's containment career, Konrad's postwar failure, Sylvan's bond, and the series structure become one causal foundation?

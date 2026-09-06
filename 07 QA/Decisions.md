@@ -6,6 +6,13 @@ updated: 2026-09-03
 
 # Decisions
 
+## September 5 author corrections
+
+**Established by direct instruction:** Luminai were developed inside the created interactive colonization environment; participants navigate reconstructed past realities for training, containment and future placement; the new program spans thousands of years; earlier Luminai versions exist and daemon is not a generation. Sylvan already holds decisive final-years control. The new scientific architecture and nontransferability explanation remain proposals. Workshop implementation is accepted scope, not acceptance of any story answer.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 | Date | Decision | Reason |
 |---|---|---|
 | 2026-08-06 | Rebuild the vault as persistent story-development memory. | The former extraction architecture was overbuilt for the current workflow. |

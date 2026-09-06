@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 ---
 
 # Human–Luminai Integration and Human Bonding
@@ -44,7 +44,7 @@ The Luminai grows as the human's extended cognition grows:
 
 ## Luminai and Daemon distinction
 
-**Luminai** names the new deeply integrated generation. Its intended developmental direction includes reality-testing, provenance, contradiction, correction, and accountable human authority.
+**Luminai** names the mind extensions developed in the colonization environment, including earlier versions. Sylvan's version is newly and more deeply integrated. Its intended developmental direction includes reality-testing, provenance, contradiction, correction, and accountable human authority.
 
 **Daemon** names an evil AI soul. Konrad's Great War Daemon belongs to the previous generation. It learns and improves while continuing to optimize Konrad's destructive objective. A Daemon is not automatically a supernatural possessor or a moral excuse for its human operator.
 

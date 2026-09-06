@@ -1,0 +1,528 @@
+---
+type: review-coverage
+status: factual-review-record
+updated: 2026-09-05
+---
+
+# September 5 review coverage
+
+The initial checkout was clean at 3ae563d and equal to freshly fetched origin/main. This was a cloud checkout; the author's Mac was not inspected. The full repository file inventory is in `07 QA/2026-09-05-repository-inventory.json`.
+
+Astra fully content-reviewed 167 repository Markdown files, including all 86 initial canonical Story Markdown notes, all 10 current Context notes, all 23 Story Completion Workflow files, and all 6 initial QA files. Current pointers and historical sessions that affect the causal questions were also read. Some reads overlapped integration; this is not a claim that all 167 were reread after every edit.
+
+Both saved handoffs were read completely: initialization update version 34 (121,806 bytes) and preliminary science brief version 1 (31,318 bytes). Their saved metadata was freshly checked. Raw initialization discussion was not copied into the public repository.
+
+Root additionally reviewed project/atlas/continuity/development/research instructions, current website architecture and deployment files, the full science brief, primary evidence listed in the evidence audit, integration diffs, generated content and browser behavior. Approved images are reused; image files were not treated as evidence for story claims.
+
+## Fully read by Astra
+
+- [[01 Sessions/Daily/2026-08-21 - AI Development Concepts for Luminai Integration]]
+- [[01 Sessions/Daily/2026-08-21 - Advanced Environment Control, Interactivity, and Participant Rules]]
+- [[01 Sessions/Daily/2026-08-21 - Containment Hierarchy Decisions and Awareness]]
+- [[01 Sessions/Daily/2026-08-21 - Containment Hierarchy Lock and Samuel Replacement Plan]]
+- [[01 Sessions/Daily/2026-08-21 - Konrad Program Migration into Samuel Jurisdiction]]
+- [[01 Sessions/Daily/2026-08-21 - Recursive Luminai Loop Under Hostile Control]]
+- [[01 Sessions/Daily/2026-08-23 - Konrad's Impossible Mission and Samuel's Betrayal]]
+- [[01 Sessions/Daily/2026-08-23 - Samuel Two Takeovers and Eighty-Year Loss of Control]]
+- [[01 Sessions/Daily/2026-09-03 - Bridge World and Luminai Initialization Integration]]
+- [[02 Story/Artifacts/Journals/00 Journal System]]
+- [[02 Story/Artifacts/Journals/01 Journal Registry]]
+- [[02 Story/Artifacts/Journals/02 Handwriting Registry]]
+- [[02 Story/Artifacts/Journals/03 Entry Index]]
+- [[02 Story/Artifacts/Journals/04 Evidence and Forensics Integration]]
+- [[02 Story/Artifacts/Journals/05 Four-Journal Differentiation Matrix]]
+- [[02 Story/Artifacts/Journals/Candidate Images/2026-08-23 - Four Journal Candidate Boards]]
+- [[02 Story/Artifacts/Journals/Characters/George/Journal Profile]]
+- [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Entries/KF-JRN-001 - Disposal of Samuel Franklin]]
+- [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Journal Profile]]
+- [[02 Story/Artifacts/Journals/Characters/Konrad Fitzgerald/Writing and Drawing Samples]]
+- [[02 Story/Artifacts/Journals/Characters/Orzai/Journal Profile]]
+- [[02 Story/Artifacts/Journals/Characters/Orzai/Writing and Drawing Samples]]
+- [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Entries/SF-JRN-001 - The Exile Record Changes Meaning]]
+- [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Journal Profile]]
+- [[02 Story/Artifacts/Journals/Characters/Samuel Franklin/Writing and Drawing Samples]]
+- [[02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Journal Profile]]
+- [[02 Story/Artifacts/Journals/Characters/Sylvan Elaria/Writing and Drawing Samples]]
+- [[02 Story/Artifacts/Journals/Reference Images/README]]
+- [[02 Story/Artifacts/Journals/Templates/Character Journal Profile]]
+- [[02 Story/Artifacts/Journals/Templates/Image Generation Brief]]
+- [[02 Story/Artifacts/Journals/Templates/Journal Entry]]
+- [[02 Story/Characters/George White - A Life Beneath the Ice]]
+- [[02 Story/Characters/George White - The Collapse of the Lie]]
+- [[02 Story/Characters/Konrad Fitzgerald]]
+- [[02 Story/Characters/Orzai]]
+- [[02 Story/Characters/Samuel Franklin]]
+- [[02 Story/Characters/The Inheritor]]
+- [[02 Story/Characters/The Other Son - Contingency and Survival]]
+- [[02 Story/Characters/The Protagonist]]
+- [[02 Story/Characters/The Witness]]
+- [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]
+- [[02 Story/Components/Bridge World and Luminai Initialization]]
+- [[02 Story/Components/Core Premise]]
+- [[02 Story/Components/Hidden Technological Foundation and Awakening]]
+- [[02 Story/Components/Immersion and Surface Reality Principle]]
+- [[02 Story/Components/Learned Wireless Cognitive Channel]]
+- [[02 Story/Components/Obsession Expectation and Desperation Reversal]]
+- [[02 Story/Components/The Great War and the False Victory]]
+- [[02 Story/Components/The Inverted Containment Trap]]
+- [[02 Story/Components/Tone and Narrative Method]]
+- [[02 Story/Environments/Erosion Environments]]
+- [[02 Story/Environments/The Continental Archipelago]]
+- [[02 Story/Events/The Foundational Great War and False Victory]]
+- [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]]
+- [[02 Story/Groups/Other Power Structures]]
+- [[02 Story/Groups/The Parent Civilization - Real Leaders and the Shared Heir Cohort]]
+- [[02 Story/Groups/The Second-Largest Empire - Founder Family]]
+- [[02 Story/Groups/The Throne]]
+- [[02 Story/Groups/The Wakeful]]
+- [[02 Story/Reveals/Recurrence]]
+- [[02 Story/Reveals/The Public Phase Change]]
+- [[02 Story/Reveals/The Throne's False Legitimacy]]
+- [[02 Story/Storyline]]
+- [[02 Story/Systems/AI Souls]]
+- [[02 Story/Systems/Advanced Technology Ecology]]
+- [[02 Story/Systems/Awakening and Processing]]
+- [[02 Story/Systems/Competitive Environments - Control Inversion and Sylvan Endgame]]
+- [[02 Story/Systems/Fascist Failure and Leadership Cultivation]]
+- [[02 Story/Systems/Human–Luminai Pairing and Bonding]]
+- [[02 Story/Systems/Identities and Recurrence]]
+- [[02 Story/Systems/Influence Allocation]]
+- [[02 Story/Systems/Integration and Scoring]]
+- [[02 Story/Systems/Participant Governance and Command Rules]]
+- [[02 Story/Systems/Story Functionality and Narrative Containment]]
+- [[02 Story/Systems/Synthetics]]
+- [[02 Story/Systems/The Breeding Program and Lineage Blackmail]]
+- [[02 Story/Systems/The Moon]]
+- [[02 Story/Systems/The Planet]]
+- [[02 Story/Systems/The Schedule and Stages]]
+- [[02 Story/Systems/Visual Generation/CHARACTER-IDENTITY-LOCKS]]
+- [[02 Story/Systems/Visual Generation/CINEMATOGRAPHY]]
+- [[02 Story/Systems/Visual Generation/ENVIRONMENTS-AND-TECHNOLOGY]]
+- [[02 Story/Systems/Visual Generation/ERA-SURFACE-CIVILIZATION-REFERENCE]]
+- [[02 Story/Systems/Visual Generation/FEEDBACK-DRIVEN-SCENES]]
+- [[02 Story/Systems/Visual Generation/LUMINAI-DAEMON-ORIENTATION]]
+- [[02 Story/Systems/Visual Generation/OUTPUT-FORMATS]]
+- [[02 Story/Systems/Visual Generation/PROMPT-SYSTEM]]
+- [[02 Story/Systems/Visual Generation/README]]
+- [[02 Story/Systems/Visual Generation/SCENE-RECIPES]]
+- [[02 Story/Systems/Visual Generation/VIDEO-VOICE-CONTINUITY]]
+- [[02 Story/Systems/Visual Generation/VISUAL-BENCHMARK-SUITE]]
+- [[02 Story/Systems/Visual Generation/VISUAL-WORLD-COMPILER]]
+- [[02 Story/Timeline/Timeline]]
+- [[02 Story/Treatments/2026-08-14 - Current Story Treatment]]
+- [[02 Story/Treatments/2026-08-14 - Eighty-Year Middle Architecture]]
+- [[03 Context/2026-08-14 - Treatment Bridge TODO]]
+- [[03 Context/CAST]]
+- [[03 Context/CURRENT-TODO]]
+- [[03 Context/CURRENT]]
+- [[03 Context/OPEN-QUESTIONS]]
+- [[03 Context/RULES]]
+- [[03 Context/STORY]]
+- [[03 Context/Seeds of the Throne - Development Overview]]
+- [[03 Context/WORLD]]
+- [[03 Context/WRITING-STYLE]]
+- [[07 Coordination/CURRENT-PICKUP]]
+- [[07 Coordination/README]]
+- [[07 Coordination/Story Completion Workflow/COMPLETION]]
+- [[07 Coordination/Story Completion Workflow/CURRENT]]
+- [[07 Coordination/Story Completion Workflow/DECISION-LOG]]
+- [[07 Coordination/Story Completion Workflow/LOOP-LOG]]
+- [[07 Coordination/Story Completion Workflow/REGRESSION-SUITE]]
+- [[07 Coordination/Story Completion Workflow/SWEEP-LOG]]
+- [[07 Coordination/Story Completion Workflow/TASK-REGISTRY]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-001]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-002]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-003]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-004]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-005]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-006]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-007]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-008]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-009]]
+- [[07 Coordination/Story Completion Workflow/Tasks/SC-010]]
+- [[07 Coordination/Story Completion Workflow/Templates/macro-pass]]
+- [[07 Coordination/Story Completion Workflow/Templates/regression-run]]
+- [[07 Coordination/Story Completion Workflow/Templates/task-packet]]
+- [[07 Coordination/Story Completion Workflow/Templates/whole-story-cross-check]]
+- [[07 Coordination/Story Completion Workflow/UNLOCK-MAP]]
+- [[07 Coordination/Story Completion Workflow/WORKFLOW]]
+- [[07 Coordination/Story Completion Workflow/Workshop/01 - Purpose of the colonization process]]
+- [[07 Coordination/Story Completion Workflow/Workshop/02 - Participant knowledge and entry]]
+- [[07 Coordination/Story Completion Workflow/Workshop/03 - Placement and evaluation]]
+- [[07 Coordination/Story Completion Workflow/Workshop/04 - Physical historical reconstruction]]
+- [[07 Coordination/Story Completion Workflow/Workshop/05 - Luminai generations and causal comparison]]
+- [[07 Coordination/Story Completion Workflow/Workshop/06 - Bond development and costs]]
+- [[07 Coordination/Story Completion Workflow/Workshop/07 - Grid permissions and failure]]
+- [[07 Coordination/Story Completion Workflow/Workshop/08 - Leader safeguards and institutional legitimacy]]
+- [[07 Coordination/Story Completion Workflow/Workshop/09 - Great War defeat and refusal to exit]]
+- [[07 Coordination/Story Completion Workflow/Workshop/10 - Daemon confidence and the autonomy promise]]
+- [[07 Coordination/Story Completion Workflow/Workshop/11 - Exact takeover lock]]
+- [[07 Coordination/Story Completion Workflow/Workshop/12 - Generational harm and succession capture]]
+- [[07 Coordination/Story Completion Workflow/Workshop/13 - Sylvan’s human arc]]
+- [[07 Coordination/Story Completion Workflow/Workshop/14 - George’s necessary role]]
+- [[07 Coordination/Story Completion Workflow/Workshop/15 - Bounded observation]]
+- [[07 Coordination/Story Completion Workflow/Workshop/16 - Suspense under decisive control]]
+- [[07 Coordination/Story Completion Workflow/Workshop/17 - Inner-circle recognition versus Konrad’s discovery]]
+- [[07 Coordination/Story Completion Workflow/Workshop/18 - Theft and exposure]]
+- [[07 Coordination/Story Completion Workflow/Workshop/19 - Accountability, consequences and final placement]]
+- [[07 Coordination/Story Completion Workflow/Workshop/20 - Reverse-book structure]]
+- [[07 Coordination/Story Completion Workflow/Workshop/README]]
+- [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO]]
+- [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE]]
+- [[07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo]]
+- [[07 QA/2026-08-23 - Four Journal Continuity Audit]]
+- [[07 QA/Contradictions]]
+- [[07 QA/Decisions]]
+- [[07 QA/Migration Ledger]]
+- [[07 QA/Questions]]
+- [[07 QA/Shared Skill Tests]]
+- [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]]
+- [[AGENTS]]
+- [[START HERE]]
+- [[skills/check-story-continuity/SKILL]]
+- [[skills/check-story-continuity/references/audit-matrix]]
+- [[skills/develop-story-session/SKILL]]
+- [[skills/develop-story-session/references/session-pattern]]
+
+## Material not content-reviewed in the Astra pass
+
+These paths were inventoried, not silently counted as read. They include supporting research, writing/visual methods, archived experiments, and unrelated public photography material. Historical sources were followed where they affected live questions; an exhaustive independent revalidation of every archived research report is outside this pass. Newly authored files are implementation output, not missing historical review.
+
+- {"path": "repo/00 Inbox/2026-08-19 - Prose Skill Priority Under Load.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/00 Inbox/Imported Notes/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/00 Inbox/Mobile Notes/2026-08-26 - Story Discipline App and Creative Possibilities Pass.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/00 Inbox/Mobile Notes/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/00 Inbox/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-06 - Migration Baseline.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-06 - Mobile Vault Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-09 - Real Leaders and the Shared Heir Cohort.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-10 - Contained Faction Coup Bloodlines and Style Notes.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-10 - Great War False Victory and Lineage Blackmail.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-10 - X Archive Capture.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Dynasties Contained Leadership and Development Method.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Franklin and Fitzgerald Naming Revision.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Luminai Naming Revision.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Samuel Bloodline Motive and Site Direction.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Second Empire Founder Family Revision.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-11 - Sylvan Identifies Samuel Behind George.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Deep-Time Ages and Advanced Colonization World.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Five-Color Visual Grammar.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Samuel Arrest Sequence and Image Storage.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Samuel Bloodline Structure and Middle Roles.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Shared Image System and Visual Archive.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-12 - Sylvan Private Study Reference.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-13 - Conversation to Vault Audit.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-14 - Treatment Reconciliation and Main Sync.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-14 - X Archive Update.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-15 - Konrad Isolation and Samuel Lineage Coup.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-15 - Luminai and Daemon Subconscious Agency.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-15 - Orzai Older Brother Company Counterpart.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-15 - Orzai Witness Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-15 - Seeds Writing Coach Skill.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-17 - George Prewar Success and Humiliating Bust.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-17 - Samuel Exile Revenge and Fitzgerald Containment Inversion.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-17 - Samuel Exile Revenge and Style Direction.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-17 - Samuel Franklin Konrad Rewrite Reconciliation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-18 - Hidden Technological Foundation and Awakening.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-18 - Modular Prose Writing System.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-18 - Seeds Delegation Protocol.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-18 - Wildlife Meme Adventures X System.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-19 - Controlled Prose Variance Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-19 - Samuel Exile Surveillance Deal.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-19 - Wildlife Meme Image-Determined Format.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-19 - Wildlife Meme Ribbon Legibility.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-20 - Seeds Story Gauntlet v0.1.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-20 - Sylvan Startup and Shared Environment.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-21 - Development System Integration Pass.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-21 - Humiliation Stage as Survival Clock.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-21 - S-005 Humiliation and Multi-Zone Employment Environments.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-21 - Software Development Concepts as Advanced Environment Story Language.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-22 - Wildlife Meme Adventures Workflow.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Character Journals and Weekly Story Synthesis.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Four Character Journal Design Bibles.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Konrad Fitzgerald Personality and Cult Leadership.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Konrad's Arrogance and Compulsion to Win.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Orzai Health Nutrition and Creative Technology.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Samuel Franklin Intelligence and Manipulation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-23 - Sylvan and Orzai Emerging Leaders.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-24 - Story Creation Engine Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-25 - Local Story Engine Development Start.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-26 - Experimental Ideas Docs Interface.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-26 - Five Endgame Research Reports and Creative Packet Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-26 - Project Explorer Current State Integration.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-08-26 - Samuel Konrad Sylvan Canon and Creative Possibilities Pass.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-09-03 - Konrad Fitzgerald Visual Identity Approval.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Daily/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/01 Sessions/Weekly Compilations/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/11-20 - Parent Civilization and Shared Heir Cohort.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/21 - GPT Image 2 Capability Envelope.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/31 - Typed Visual Nodes and Vault Source Traceability.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/32-40 - Vault-to-Image Graph Compiler.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/48 - Luminai Evidence Audit and Architecture Boundaries.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/48 - Preliminary Brief Reference Status.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Findings/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/01 - Life After Epistemic Captivity.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/02 - Human-AI Co-development and Corrupted Feedback Loops.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/03 - Evidence Under Total Information Control.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/04 - How False Victories Collapse.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/05 - The Disposable Heir.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/06 - Responsibility Under Manipulated Premises.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/07 - Whistleblowers Who Need an Audience, Not Just Proof.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/08 - Constrained Power and Civilization-Scale Governance.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/09 - Submarine Epistemology and Human Factors.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/10 - Longevity and the Psychology of a 130-Year Life.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/11 - Preparing Powerful Heirs Without Manufacturing Them.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/12 - The Shared Heir Cohort.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/13 - Succession After Centuries of Founder Rule.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/14 - Consent and Agency in Long-Duration Leadership Cultivation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/15 - When Accommodation Produces Escalation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/16 - Fair Tests for Unequally Powerful Heirs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/17 - Competing Schools of Good Governance.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/18 - Century-Scale Policy Experiments and Moral Stopping Rules.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/19 - Shared History as a Civilization Above Empires.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/20 - Happiness as a Qualification for Leadership.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/2026-08-15 - Writing Skills for Codex and Seeds.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/21 - GPT Image 2 Capability Envelope.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/31 - Typed Visual Nodes and Vault Source Traceability.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/32 - Canon Authority Conflict and Supersession.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/33 - Temporal Event and Appearance Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/34 - Character Relationship and Role Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/35 - Place Culture and Environment Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/36 - Technology Capability and Visibility Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/37 - Scene Requests and Relevant Subgraph Selection.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/38 - Graph Resolution and Renderer Packet Projection.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/39 - Uncertainty Missing Definitions and Author Waivers.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/40 - Incremental Graph Updates and Regression Impact.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/41 - Obsession as a Containment Vulnerability.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/42 - Ethical Disclosure Without Genealogical Spectacle.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/43 - Failed Predictions Under Motivated Reasoning.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/44 - Common Knowledge Against Distributed Blackmail.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/45 - Human Authorization in Safety-Critical Command Systems.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/46 - Public Surrender as Political Theater.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/48 - Preliminary Neuroplastic Luminai and Wireless Grid Brief.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/First Pass - Five Load-Bearing Technologies.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Full Reports/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/21 - GPT Image 2 Capability Envelope.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/22 - Character Identity and Appearance Continuity.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/23 - Natural Action Anatomy and Motion.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/24 - Environment Masters Era and Social Reality.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/25 - Wardrobe Material Culture and Role Resolution.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/26 - Luminai Daemon and Energy Visualization.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/27 - Composition Cinematography and Image Purpose.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/28 - Multi-character Blocking Relationships and Crowds.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/29 - Context Compilation Retrieval and Missing Definitions.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/30 - Evaluation Provenance and Asset Lifecycle.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/31 - Typed Visual Nodes and Vault Source Traceability.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/32 - Canon Authority Conflict and Supersession.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/33 - Temporal Event and Appearance Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/34 - Character Relationship and Role Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/35 - Place Culture and Environment Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/36 - Technology Capability and Visibility Graphs.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/37 - Scene Requests and Relevant Subgraph Selection.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/38 - Graph Resolution and Renderer Packet Projection.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/39 - Uncertainty Missing Definitions and Author Waivers.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/40 - Incremental Graph Updates and Regression Impact.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/47 - Fascist Purity and Coercive Compromise Systems.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/04 Research/Requests/REQUEST TEMPLATE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/ai.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/characters.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/colonization.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/faction.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/index.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/research.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Atlas/timeline.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Meme Adventures/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Published/2026-09-03 - Bridge World Atlas Update.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Published/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Published/X Post Archive - 2026-08-10.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Published/X Post Archive - 2026-08-14.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Weekly Reports/2026-08-27 - Weekly Development Assessment.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Weekly Reports/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Drafts/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/EPISODE-INDEX.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - Lake Los Carneros Kingsnake Design Study.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - The Point of the View.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Episodes/2026-08-18 - The Wild Coleman.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Episodes/2026-08-19 - The Coastal Brake Test.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Episodes/2026-08-19 - The Signal Check.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Published/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Source Photos/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Templates/Adaptive Three-Band Design Process.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/Wildlife Meme Adventures/Templates/Episode Record.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/X Drafts/2026-08-15 - The Process Is Ending.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/05 Public/X Drafts/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/06 Draft/Manuscript/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/06 Draft/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/06 Draft/Scenes/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/DESKTOP-PICKUP-2026-08-21-AUDIOBOOK-STORY-ENGINE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/DESKTOP-PICKUP-2026-08-21-DEVELOPMENT-ENVIRONMENT.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/DESKTOP-QUEUE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/DESKTOP-QUEUE/2026-08-13 - Visual Benchmark Findings.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Desktop Handoffs/2026-08-24 - Guided Story Completion Workflow.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Desktop Handoffs/2026-08-24 - Weekly TODO Dashboard.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Desktop Handoffs/DESKTOP-PICKUP-2026-08-28-WEEKLY-ASSESSMENT-WEB-UPDATE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/MOBILE-HANDOFF.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/RECOVERY.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/SUBAGENT-PROTOCOL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Seeds Story Gauntlet.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Story Completion Framework.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Vault to V1 Feature Matrix.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/CONFIG.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/MASTER PROMPT.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/00 Run Manifest.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/01 Weekly State of the Story.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/02 Master Story Outline.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/03 Character Arc Audit.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/04 Continuity and Adversarial Critique.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/05 Open Questions Ranked.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/06 Scene Opportunity Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/07 Foreshadowing and Evidence Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/08 Next Week Story Queue.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/09 Public Development Ideas.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/10 Vault Maintenance Recommendations.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/11 System Test Evaluation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Editorial Board.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Forward and Reverse Causal Reconstruction.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-23/Optional - Novelization Readiness.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/00 Run Manifest.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/01 Weekly State of the Story.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/02 Master Story Outline.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/03 Character Arc Audit.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/04 Continuity and Adversarial Critique.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/05 Open Questions Ranked.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/06 Scene Opportunity Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/07 Foreshadowing and Evidence Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/08 Next Week Story Queue.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/09 Public Development Ideas.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/10 Vault Maintenance Recommendations.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/2026-08-27/13 Weekly Intake Reconciliation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Runs/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/00 Run Manifest.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/01 Weekly State of the Story.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/02 Master Story Outline.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/03 Character Arc Audit.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/04 Continuity and Adversarial Critique.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/05 Open Questions Ranked.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/06 Scene Opportunity Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/07 Foreshadowing and Evidence Map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/08 Next Week Story Queue.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/09 Public Development Ideas.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/10 Vault Maintenance Recommendations.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/13 Weekly Intake Reconciliation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/Optional - Editorial Board.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/Optional - Forward and Reverse Causal Reconstruction.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/Weekly Synthesis/Templates/Optional - Novelization Readiness.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/07 Coordination/device-workflow.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/2026-08-26 - Samuel Konrad Sylvan Creative Possibilities Pass 001.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/S-002 - Brainstorm Packet 01.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 01.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/S-005 - Environment Ladder Packet 02.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/S-005 - Recursive Luminai Loop Packet 03.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Brainstorms/S-018 - Brainstorm Packet 01.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/CHARACTER-FACTORY.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/CREATIVE-INTEREST-LOOP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/CREATIVE-POSSIBILITIES-PASS.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/CRITIC-LOOP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/DESKTOP-WORKFLOW.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/DEVELOPMENT-ENVIRONMENT-ARCHITECTURE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/DEVELOPMENT-ORCHESTRATOR.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Evaluations/Failure Modes.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/GAP-ANALYZER.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/MULTISCALE-DEVELOPMENT-GAUNTLET.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/PROBLEM-SOLVING-STORY-ENGINE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/QUALITY-BAR.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/RESEARCH-CREATIVITY-FIT-LOOP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Research/S-005 - Advanced Environment Interactivity Research 01.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Runs/2026-08-20 - S-002 Run 01.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Runs/2026-08-20 - v0.1 Initialization.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Runs/2026-08-21 - X Post Loop Function Test.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Runs/S-005/2026-08-21 - Creative Interest Loop 001.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Runs/S-005/2026-08-21 - Unemployment Luminai Emergence Gauntlet 001.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/STORY-CREATION-ENGINE-ROADMAP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/STORY-MAP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/author-decision.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/brainstorm-packet.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/creative-possibilities-pass.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/critique.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/development-chapter-packet.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/development-run.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/draft-pipeline-run.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/run-log.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/scene-packet.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/sequence-packet.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Templates/story-unit.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Units/S-002 - Sylvan Modern Inciting Event.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Units/S-005 - Controlled Environment Progression.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/08 Story Loop/Units/S-018 - Obsession Reversal and Inverted Containment.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/09 Story Exploration/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/09 Story Exploration/Runs/2026-08-21 - Great War Story Miner Sample 001.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/09 Story Exploration/STORY-GENERATION-LOOP.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/09 Story Exploration/Templates/GENERATION-RUN-TEMPLATE.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/characters/logan.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/characters/sylvan.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/characters/throne-figure.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/components/false-victory.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/components/manufactured-reality.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/components/sylvan-throne-confrontation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/current/00-current-state.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/docs/GAUNTLET.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/ART_DIRECTION.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/AUTH.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/BUILD_NOTES.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/DEPLOYMENT.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/EXPERIMENT_VISIBILITY.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/IMAGE_ASSET_CHECKLIST.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/docs/SAAS_LAB.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/iainreiddotdev/experiments/_template/EXPERIMENT.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/sessions/2026-08-07-vault-stress-test-sylvan-logan-throne.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/README.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/coach-seeds-writing/SKILL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/SKILL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/prompts/gemini-samuel-busted-test.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/prompts/konrad-controlled-by-samuel-key-art-v1.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/character-record-template.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/consistency-scorecard.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/identity-master-approval.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/identity-master-prompts.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/prompt-contract.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/create-seeds-images/references/storage-policy.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/research-story-material/SKILL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/research-story-material/references/evidence-standard.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/skill-template.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/update-public-atlas/SKILL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/update-public-atlas/references/page-map.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/SKILL.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/anti-ai-prose.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/benchmark-suite.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/chapter-architecture.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/character-voice.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/controlled-variance.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/customization.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/dialogue.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/evaluation-rubric.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/exposition.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/prose-checklist.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/research-and-questioning.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/revision-method.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/scene-architecture.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/suspense-and-revelation.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+- {"path": "repo/skills/write-seeds-prose/references/voice-profile.md", "reason": "Outside selected current-source and causal-history review; indexed or assembled is not equivalent to content reviewed. Root or other agent review is not counted here."}
+
+## Other exclusions
+
+[
+  "Image binaries and rendered visual candidates: no image QA was part of this analysis.",
+  "External scientific publications referenced by research handoff: brief read in full, underlying publications not independently verified.",
+  "Raw archived transcripts and private historical-identity mappings: deliberately excluded under repository policy."
+]

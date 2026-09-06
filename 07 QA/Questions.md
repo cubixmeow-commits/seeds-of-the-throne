@@ -6,6 +6,13 @@ updated: 2026-09-03
 
 # Questions
 
+## September 5 question routing
+
+The [[07 Coordination/Story Completion Workflow/Workshop/README|workshop]] contains one gate per module with alternatives and consequence tests. These supplement existing questions without closing them. Q-036 now leaves nontransferability open. SC-001's actor mismatch requires author confirmation before exact causal implementation.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this file for lower-level questions attached to specific development sessions.
 
 | ID | Question | Related note | Status |
@@ -45,7 +52,7 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-033 | Is Konrad's Daemon continuous from the Great War, rebuilt, or assembled from accumulated systems, and does Samuel deceive it, compromise it, or exploit its permissions without changing it? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
 | Q-034 | What exact protected boundary lets Sylvan permit Samuel meaningful activity for several years without making Sylvan responsible for preventable abuse? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-035 | Which contradiction first makes Konrad's inner circle recognize that Samuel is repeating the postwar takeover method against Sylvan? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
-| Q-036 | What does Samuel believe stealing Sylvan's Luminai technically requires, and what visible failure proves that the bond cannot be transferred as property? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-036 | What does Samuel believe stealing Sylvan's Luminai technically requires, and what actually happens in the attempt, including whether stolen components fail to reproduce the learned bond and which vulnerabilities remain? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-037 | What are the public, private, and protected evidence layers of the outcome presentation, particularly for descendants and coerced intermediaries? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-038 | What was Konrad's adult grandson coerced into doing, when did participation become active facilitation, what harm resulted, and what accountability or restitution remains possible? | [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]] | open |
 | Q-039 | How do the established child with Konrad's sister and wider lineage campaign fit chronologically into Samuel's attempt to become Konrad without reducing descendants to plot evidence? | [[02 Story/Systems/The Breeding Program and Lineage Blackmail]] | open |

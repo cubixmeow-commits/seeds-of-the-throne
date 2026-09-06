@@ -1,11 +1,25 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
 # Competitive Environments — Control Inversion and the Sylvan Endgame
+
+## September 5 settlement qualification
+
+Any retained-leader or retained-traditions offer below is a working proposal subject to individual protections. Stopping attacks on outsiders alone would leave internal reproductive coercion and blackmail intact. Individual exit, protection, accountability and institutional review need definition; this run does not approve a settlement.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
+## September 5 evidence qualification
+
+**Unresolved scene and proof mechanics:** earlier visible-descendant scenes remain development history, not conclusive proof of parentage or command responsibility. Resemblance could prompt recognition, but authenticated records and an independently challengeable chain are needed to support the proposed evidentiary function. Children and descendants are people, not public exhibits. The timing must preserve inner-circle recognition before Konrad's delayed discovery. Exact presentation and privacy choices remain author gates.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
 
 ## 2026-09-03 final-years frame
 
@@ -19,7 +33,7 @@ The terminal environment therefore has three simultaneous functions:
 2. expose Samuel's historical takeover of Konrad through a live repetition;
 3. distinguish actual containment from the performance of domination.
 
-Samuel's final obsession is to steal Sylvan's Luminai and use it as proof of godhood and a universal repair for his collapsing authority. The attempt fails because the bond is a developed relationship, not a transferable control object.
+Samuel's final obsession is to steal Sylvan's Luminai and use it as proof of godhood and a universal repair for his collapsing authority. A proposed failure mechanism is that stealing components cannot reproduce the developed bond. The target, failure, and remaining vulnerabilities require author approval.
 
 The George-centered succession-betrayal material below remains a working subordinate thread. It no longer defines the entire endgame by itself and must be reconciled with the Samuel-Konrad outcome presentation before promotion.
 

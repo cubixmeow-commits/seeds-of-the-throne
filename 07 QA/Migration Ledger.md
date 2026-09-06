@@ -6,6 +6,13 @@ updated: 2026-09-03
 
 # Migration Ledger
 
+## September 5 implementation intake
+
+The foundation audit, shared website projections, and twenty-module workshop were implemented for review. No story answers were invented and no new publication authorized. See [[07 QA/2026-09-05 - Comprehensive Story Assessment]] and [[07 Coordination/2026-09-05 - Website Rebuild Handoff]] for verification and remaining deployment work.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Carried forward
 
 - Core colonization, containment, and cultivation premise

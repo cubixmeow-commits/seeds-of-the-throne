@@ -8,6 +8,13 @@ source_authority: development
 
 # Hidden Technological Foundation and Awakening
 
+## September 5 integration boundary
+
+The existing implant-free model below remains working fiction. The new neural-interface research offers alternatives, not an adopted replacement. Physical transduction, grid architecture, and oversight safeguards remain open; Luminai origin and names follow the September 5 correction.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Core premise
 
 The colonized world is technologically advanced from its first day even though most people living inside it experience an ordinary civilization that appears to be only beginning a more sophisticated technological age.

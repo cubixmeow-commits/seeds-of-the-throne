@@ -7,6 +7,13 @@ themes: participants, governance, command authority, containment, permissions, a
 
 # Participant Governance and Command Rules
 
+## September 5 unresolved safeguards
+
+**Established:** final-years Samuel activity occurs under Sylvan's decisive control. **Unresolved:** what counts as a consequential action, who independently can stop observation, and how threatened people receive protection and redress. The earlier criminal jurisdiction never makes people property. Placement must distinguish competence from authority and coercion from culpability; a final choice need not erase prior acts. See workshop modules 02, 03, 07, 08, 15, and 19.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Core rule
 
 Participants on the colonization planet are governed by **very strict rules** even when they are given access to extremely powerful technological systems.

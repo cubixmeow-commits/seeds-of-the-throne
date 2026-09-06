@@ -7,6 +7,13 @@ topics: Konrad faction, Samuel network, criminal ecosystems, ideology, blackmail
 
 # Konrad and Samuel Criminal Ecosystems
 
+## September 5 integration boundary
+
+The generational takeover remains established direction. Group dissolution does not establish collective guilt or defective ancestry. Reproductive coercion, falsified records, and blackmail are harms; identity and consensual conduct are not. Individual protection, exit, culpability, and remedy remain separate author gates.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Purpose
 
 Konrad Fitzgerald and Samuel Franklin do not lead interchangeable villain factions. Their systems collide because they organize criminal power in opposite-looking ways while sharing the same moral failure: both reduce people to instruments.

@@ -8,6 +8,13 @@ theme: awakening, weaponization, and consequence
 
 # George White — The Collapse of the Lie
 
+## September 5 integration boundary
+
+**Unresolved accountability:** a final refusal may change George's future, but does not automatically erase earlier harm, coercion, real achievements, or culpable acts. His roughly 75-year role span and longer false-reality language need a shared chronology. His final role must differ from Konrad's isolated fantasy.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 ## Journal artifact
 
 George's proposed issued-to-independent journal evolution is [[02 Story/Artifacts/Journals/Characters/George/Journal Profile]]. The object, issuer, monitoring method, identity reference, entries, and exact awakening sequence remain unresolved.

@@ -112,7 +112,7 @@
 
   async function loadExplorer() {
     const localPreview = ["localhost", "127.0.0.1"].includes(window.location.hostname);
-    const sourceRoot = localPreview ? "../" : REPO_RAW;
+    const sourceRoot = "assets/vault/";
     const [currentResponse, pointerResponse] = await Promise.all([
       fetch(sourceRoot + CURRENT_PATH, { cache: "no-store" }),
       fetch(sourceRoot + IDEAS_POINTER_PATH, { cache: "no-store" })

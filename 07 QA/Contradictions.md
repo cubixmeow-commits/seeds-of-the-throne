@@ -6,6 +6,13 @@ updated: 2026-09-03
 
 # Contradictions
 
+## September 5 source-linked audit
+
+The [[07 QA/2026-09-05 - Comprehensive Story Assessment|comprehensive assessment]] records the detailed findings. Resolved active framing: Luminai origin and cross-generation terminology. Preserved OPEN conflicts: implant-free channel versus interface research; SC-001 Samuel Jr. activation identity versus prewar Samuel/George chronology; deliberate-victim erosion versus safeguards; protected disclosure versus punishment for unauthorized comprehension; influence allocation versus independent agency; George durations/final accountability; descendant resemblance versus evidentiary proof. A generation comparison cannot isolate technical superiority from values, permissions and support.
+
+Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+
+
 | ID | Conflict | Current handling |
 |---|---|---|
 | C-001 | Sylvan carries the modern Inheritor role, while the earlier Witness is now placed provisionally among Orzai's Great War-era parents; viewpoint ownership remains unresolved. | Decide which parent carries the Witness role and whether Sylvan is the sole primary narrator or the Witness owns substantial earlier viewpoint material. Orzai is Sylvan's younger contemporary, not the Witness. |

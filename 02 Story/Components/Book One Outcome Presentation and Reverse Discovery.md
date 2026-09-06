@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-03
+updated: 2026-09-05
 topics: Book One, outcome presentation, reverse chronology, containment proof, psychological thriller
 ---
 
@@ -40,7 +40,7 @@ The inner circle recognizes the repetition before Konrad does. The live attempt 
 
 As the exposure becomes public, Samuel becomes obsessed with stealing Sylvan's Luminai. He believes possession of it will prove his godhood, restore his authority, solve the technical failures of his network, and let him rewrite the outcome.
 
-The obsession exposes his central misunderstanding. A Luminai is not a transferable crown or separable superweapon. Its effectiveness emerges from the developed relationship with Sylvan. Samuel's attempt to seize it demonstrates that he still understands every relationship as ownership.
+**Proposed explanation:** Samuel mistakes a learned relationship for an ownable control object. Stealing components may not reproduce the bond developed with Sylvan. The precise theft target and failure mechanism require author approval; this does not rule out other vulnerabilities. His obsession still reveals his drive to convert relationships into ownership.
 
 ## Discovery ladder
 
