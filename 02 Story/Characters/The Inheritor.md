@@ -2,7 +2,7 @@
 type: character
 status: established
 name_status: established
-updated: 2026-08-15
+updated: 2026-09-06
 ---
 
 # Sylvan Elaria — The Inheritor
@@ -17,6 +17,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 **Sylvan Elaria carries the modern Inheritor role.** He enters the modern thread roughly eighty years after the Great War-era Witness thread carried provisionally by one of Orzai's parents. He explains awakening and hidden interference through surveillance, artificial intelligence, targeted technology, and the developing capabilities of his Luminai. His interpretation is intelligent, era-shaped, and incomplete.
 
 Sylvan is competent, resourced, and headed toward meaningful public responsibility. Evidence surviving from Orzai's parent generation therefore threatens something real: his future placement, trust in the cultivation system, relationship to his parents, or confidence in the process developing him and his Luminai. The exact route by which Orzai and the evidence enter his life remains unresolved.
+
+Sylvan's participation is voluntary. Like the other legitimate heirs, he can leave the process and return to an inherited future. Doing so means trading away the unfinished placement or independently earned standing he is developing inside the process. His continued participation must therefore remain a choice rather than proof that he has no alternative.
 
 ## Emerging-leader formation and personality
 

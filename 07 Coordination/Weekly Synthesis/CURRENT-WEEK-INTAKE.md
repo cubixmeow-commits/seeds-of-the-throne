@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 02 voluntary entry accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 02 Entry Draft]]
+- **Type:** decision / dependency
+- **Possible relationship:** SC-003, SC-004, SC-010, SC-019, SC-026
+- **Signal:** The author established that legitimate heirs voluntarily choose a self-made process path instead of inheritance and may exit at any time by trading away the unfinished process result; criminal containment and descendant rights remain separate open systems.
+
 ### 2026-09-06 — Workshop Module 01 purpose accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 01 Purpose Draft]]

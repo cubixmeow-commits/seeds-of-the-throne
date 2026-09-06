@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 02
 title: Participant knowledge and entry
 gate: What did each class of participant knowingly accept before entry, and what can they refuse afterward?
 prerequisites: 01
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 02 · Participant knowledge and entry
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Establish what people can choose when they wake without a complete briefing.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. The author accepted the result below on September 6. The original alternatives remain preserved as development history. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+The legitimate heirs enter voluntarily. The older leaders offer them an opportunity to become self-made through the colonization process instead of beginning with their inheritance. They may exit at any time and return to the inheritance path, but doing so means trading away the results, placement, or independent standing they were developing through the process.
+
+This voluntary exit rule applies to heirs and other voluntary trainees. It does not automatically release convicted criminals from court-assigned containment. The entry and refusal rights of descendants born inside the process remain unresolved.
+
+Source and full decision record: [[01 Sessions/Daily/2026-09-06 - Workshop Module 02 Entry Draft]].
 
 ## Relevant source notes
 
@@ -31,7 +40,7 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- Pre-entry consent; memory withholding; refusal; differences between convicted adults, trainees and locally born descendants.
+- Exact pre-entry briefing, memory withholding, re-entry, convicted-participant review, and locally born descendants. Voluntary heir entry and exit are now established.
 
 ## Prerequisite decisions
 
@@ -39,7 +48,7 @@ Modules: 01. Read their accepted results before closing this gate. Open prerequi
 
 ## Central author gate
 
-> What did each class of participant knowingly accept before entry, and what can they refuse afterward?
+> What did each class of participant knowingly accept before entry, and what can they refuse afterward? **PARTIALLY AUTHOR-ACCEPTED 2026-09-06:** voluntary heirs and trainees are settled; convicted participants and descendants retain separate open mechanics.
 
 Ask this question alone during actual use. Do not ask every follow-up at once.
 
@@ -80,35 +89,32 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 01.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words for voluntary heirs and trainees.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve prerequisite 01.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 02 · Participant knowledge and entry
 Gate: What did each class of participant knowingly accept before entry, and what can they refuse afterward?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED for voluntary heirs and trainees; other classes explicitly deferred
+Author answer (verbatim): preserved in the linked session record
+Exact restatement: accepted result above
+Selected option or new answer: voluntary opportunity with a continuing right to exit and return to inheritance
+Why this tradeoff: the process offers an independently earned future instead of compulsory preparation for inherited power
+Rejected alternatives and reasons: criminal release and descendant obligations cannot be inferred from the heir model
+Prerequisites resolved / deferred: Module 01 resolved
+Scene test: an heir may leave after a setback but gives up the unfinished process result; a convicted participant requires a different legal route
+Adversarial result: exit does not erase stakes because inheritance and independently earned placement are different futures
+Remaining uncertainty: exact briefing, traded results, re-entry, stage refusal, criminal review and descendant rights
+Explicit acceptance wording and date: “Yes, another great result, the improvements are good” — 2026-09-06
+Workflow task and macro-depth effect: supporting workshop Module 02 accepted for voluntary entrants; SC-010 remains active and unchanged
 ```
 
 ## Notes and website sections affected

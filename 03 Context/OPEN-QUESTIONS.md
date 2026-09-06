@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Open Questions
@@ -52,7 +52,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - Do participants retain memories across identities? What is suppressed, and by whom?
 - What triggers the public phase change?
 - Do entrants regain long life after exit, or can a mortal lifetime inside be irreversible?
-- How is meaningful, age-appropriate consent renewed as legitimate heirs mature?
+- Legitimate heirs voluntarily enter and may leave at any time for the inheritance path; how is that choice renewed as they mature, what process results are surrendered, and can they later re-enter?
+- What entry, refusal, review, and exit rights apply separately to convicted participants and descendants born inside the process?
 - How do loving parental support and protective intervention remain available without becoming imperial favoritism?
 - Do hundreds of heirs form one cohort or several overlapping cohorts?
 - What future institution or covenant is the shared heir generation expected to form?

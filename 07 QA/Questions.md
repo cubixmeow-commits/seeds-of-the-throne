@@ -61,3 +61,7 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-042 | Which resources are produced locally, regenerated, or recycled, and how much outside input remains compatible with a self-sustaining civilization? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
 | Q-043 | Which safeguards make improved criminal containment legitimate rather than merely more powerful? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
 | Q-044 | Does success on this world complete the new Luminai process or authorize a bounded next deployment stage? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-045 | What exactly does a voluntary heir trade away on exit: accumulated placement, assets, credentials, independent standing, or only an unfinished evaluation? | [[02 Story/Groups/The Parent Civilization - Real Leaders and the Shared Heir Cohort]] | open |
+| Q-046 | How much scenario information do heirs knowingly accept, how is consent renewed at awakening or later stages, and can an heir leave and re-enter? | [[02 Story/Components/Learned Wireless Cognitive Channel]] | open |
+| Q-047 | Which review, sentence-completion, appeal, refusal, and exit rights apply to convicted participants? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
+| Q-048 | What circumstances, permissions, obligations, and exit rights apply to descendants born inside the process? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |

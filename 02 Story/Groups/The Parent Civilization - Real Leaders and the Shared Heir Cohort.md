@@ -1,7 +1,7 @@
 ---
 type: group-development
 status: working
-updated: 2026-08-12
+updated: 2026-09-06
 themes: ancient leadership, imperial succession, shared struggle, competing moral philosophies, containment, cultivation, legitimacy, interdependence
 ---
 
@@ -26,6 +26,12 @@ These children are profoundly important to their parents. The older leaders are 
 For these leaders, parenthood is both intimate and civilization-shaping without becoming merely political. An heir may eventually influence more human lives than entire historical civilizations once contained, but the child's worth does not depend upon inheriting. The parent must therefore answer two questions together: "How can my child have a full and happy life?" and "How can they be prepared if they choose to carry what I have built?"
 
 The colonization process is their answer.
+
+## A voluntary alternative to inheritance
+
+The legitimate heirs knowingly accept an opportunity to participate rather than an obligation to earn what their parents already intend to leave them. They may exit at any time and return to the inheritance path. What they give up is the unfinished process result: the chance to emerge with a placement, standing, and history they built independently inside the colonization world.
+
+The right to leave prevents cultivation from becoming imprisonment. It also makes continued participation meaningful. An heir who stays is choosing the difficult self-made path while an inherited future remains available. Exact briefing, re-entry, stage-by-stage refusal, and the form of the final exchange remain open.
 
 ## Why the older leaders waited
 

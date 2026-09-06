@@ -30,6 +30,8 @@ More effective integration means that a human–Luminai pair can perceive, learn
 
 The working vault includes people born into reconstructed lives, developmental placements, and contained criminals with different briefings. Awakening makes previously hidden systems more legible. It does not establish that every participant has the same entry process or knowledge.
 
+Legitimate heirs enter voluntarily. They accept an opportunity to become self-made through the process instead of beginning with inheritance. They may leave at any time and return to the inheritance path, giving up the unfinished placement or independent standing they were developing inside the process.
+
 Negotiated entry can define jurisdiction and permissions. It cannot make every person within a jurisdiction someone else's property. Informed consent, withdrawal, prosecution, and review remain separate questions.
 
 ## The infrastructure beneath the surface

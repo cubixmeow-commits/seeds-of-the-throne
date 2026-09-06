@@ -2,7 +2,7 @@
 type: component
 status: working
 public_status: clean
-updated: 2026-08-18
+updated: 2026-09-06
 source_authority: development
 ---
 
@@ -24,6 +24,12 @@ The human brain itself is trained from infancy to interpret a hidden wireless si
 The premise is analogous to a biological system learning to extract meaning from a signal that would otherwise be meaningless. A dolphin learns to turn returning sound into a spatial model of its surroundings. In *Seeds of the Throne*, the developing human brain learns to turn structured wireless patterns into information.
 
 The technology does not insert thoughts into an unprepared adult brain. The colony uses developmental neural plasticity to teach a new sensory language from the beginning of life.
+
+## Participation and exit
+
+Legitimate heirs voluntarily accept the opportunity to participate in the colonization process. The older leaders offer them a path to become self-made rather than beginning with inherited position. They may exit at any time and return to the inheritance path, surrendering the unfinished results, placement, or independent standing they were developing through the process.
+
+The bond can begin developing before conscious awakening without converting later participation into an irrevocable obligation. Exact pre-entry briefing, age-appropriate renewal, refusal at later stages, and re-entry remain open. Convicted participants and descendants born inside the process require separate rules.
 
 ## Development from infancy
 
