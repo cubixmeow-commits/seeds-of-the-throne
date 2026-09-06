@@ -62,6 +62,7 @@ Load when relevant:
 - suspense/revelation -> `references/suspense-and-revelation.md`
 - missing information/research -> `references/research-and-questioning.md`
 - revision -> `references/revision-method.md`
+- revising prose that has passed through outlines, prototypes, critique, or AI assistance -> `references/tracks-pass.md`
 - evaluation/refinement -> `references/evaluation-rubric.md`
 - regression testing -> `references/benchmark-suite.md`
 - changing the system -> `references/customization.md`
@@ -118,14 +119,16 @@ Do not revive superseded style references unless the author explicitly changes t
 For revision or refinement:
 
 1. Name the strongest problem in one sentence.
-2. Score the passage using `evaluation-rubric.md` when the change is substantial.
-3. Preserve what already works.
-4. Use `revision-method.md` to fix the highest-level problem before line polishing.
-5. Run the anti-AI pass and `scripts/prose_lint.py` when available.
-6. Run the controlled-variance pass: identify the local cadence, the real pressure or attention changes, and whether expression responds without becoming random.
-7. Check canon/POV leakage.
-8. Check endings for unnecessary explanation or manufactured profundity.
-9. If the revision exposed a new unresolved story question, surface it outside the prose rather than solving it invisibly.
+2. Choose and name either a **development edit** or **line edit**. Do not perform both automatically.
+3. Score the passage using `evaluation-rubric.md` when the change is substantial.
+4. Preserve what already works.
+5. Use `revision-method.md` to fix the highest-level problem before line polishing, including pressure-turn placement when setup may bury the important change.
+6. Run the anti-AI pass and `scripts/prose_lint.py` when available.
+7. Run `tracks-pass.md` when development scaffolding may have leaked into the intended final form.
+8. Run the controlled-variance pass: identify the local cadence, the real pressure or attention changes, and whether expression responds without becoming random.
+9. Check canon/POV leakage.
+10. Check endings for unnecessary explanation or manufactured profundity.
+11. If the revision exposed a new unresolved story question, surface it outside the prose rather than solving it invisibly.
 
 Prefer one consequential revision over many cosmetic changes.
 
@@ -175,8 +178,10 @@ After author feedback on a draft:
 1. identify what the author preferred or rejected;
 2. distinguish story preference from prose preference;
 3. convert repeatable prose preferences into a proposed rule;
-4. update the skill only after the pattern is clear enough to generalize;
-5. add or revise a benchmark when the new rule can be tested;
-6. retire superseded rules explicitly rather than allowing old behavior to return silently.
+4. route the proposed rule to the narrowest durable home: `WRITING-STYLE.md` for project-wide direction, `voice-profile.md` for shared prose voice, a character-voice note for one character, `anti-ai-prose.md` or `tracks-pass.md` for a recurring failure, or a benchmark for testable behavior;
+5. ask for author confirmation before changing style authority, unless the author has already explicitly said to save or lock in the preference;
+6. update the skill only after the pattern is clear enough to generalize;
+7. add or revise a benchmark when the new rule can be tested;
+8. retire superseded rules explicitly rather than allowing old behavior to return silently.
 
 The goal is not a static prompt. The goal is a project-specific writer that becomes measurably better through approved examples, failures, and regression tests.

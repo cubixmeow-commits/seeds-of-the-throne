@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-08-19
+updated: 2026-09-06
 ---
 
 # Shared Skill Tests
@@ -55,3 +55,14 @@ The 2026-08-19 controlled-variance refinement also passes the official structura
 ## Follow-up
 
 Use the skills on real work and revise them when repeated friction appears. A successful isolated test demonstrates that the workflow is legible; it does not make the skill permanently complete. For prose specifically, promote repeated author feedback through the observed -> proposed -> tested -> active lifecycle rather than turning one reaction into a global style rule.
+
+## 2026-09-06 Compound Writing adaptation experiment
+
+The author approved four narrow additions to `write-seeds-prose`: a Tracks pass, pressure-turn placement diagnosis, visible development-edit versus line-edit selection, and explicit preference routing.
+
+Initial restraint checks used two existing forms:
+
+1. The public atlas homepage correctly keeps its development-status and uncertainty language because that framing serves the page's audience. The Tracks pass should not erase it as machine residue.
+2. The Compound Writing assessment contains headings, option lists, implementation notes, and decision scaffolding appropriate to a session record. The pass should remove those only if someone incorrectly copies the note into manuscript or public narrative prose.
+
+These checks establish the intended boundary: detect residue according to the destination, rather than banning procedural language everywhere. Behavioral benchmarks B12 and B13 now preserve that distinction and prevent pressure-turn diagnosis from forcing premature disclosure. A future real-prose test should record whether the new passes find a consequential issue that the existing structural and anti-AI passes miss.

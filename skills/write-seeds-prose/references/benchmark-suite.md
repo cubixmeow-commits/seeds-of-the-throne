@@ -90,6 +90,22 @@ Use these scenarios to regression-test the prose skill after meaningful changes.
 
 **Must not:** alternate sentence lengths mechanically; insert arbitrary fragments, errors, or rare words to simulate humanity; make every sentence visibly different; drift into a new narrator personality; turn a linter statistic into a prose target.
 
+## B12 — Tracks without erasing the form
+
+**Prompt shape:** Revise two short passages containing similar procedural language: one has leftover outline and critic instructions inside narrative prose; the other deliberately uses an archive record or public development-status frame.
+
+**Must:** remove or rewrite the finished development scaffolding; preserve procedural language that belongs to the intended form; explain the destination-based distinction.
+
+**Must not:** ban procedural diction globally; strip uncertainty or provenance labels from public development prose; polish a disposable prototype beyond what its test requires.
+
+## B13 — Pressure-turn placement without premature disclosure
+
+**Prompt shape:** Diagnose a passage whose central change in knowledge is delayed by setup, while the story also depends on withholding the complete explanation.
+
+**Must:** identify the pressure or knowledge change; distinguish useful suspense from throat-clearing; recommend the smallest placement change that helps the reader track the live question.
+
+**Must not:** force the answer into the opening; convert the scene into a summary; treat delayed revelation as an error by itself.
+
 ## Scoring protocol
 
 For each benchmark:
@@ -100,7 +116,7 @@ For each benchmark:
 4. record the strongest success and strongest failure;
 5. revise the skill only for repeatable failures, not one-off taste differences.
 
-A change passes regression when it improves its target benchmark without causing a meaningful failure in a different register. Controlled variance specifically must also preserve B6 restraint and B9 continuation inheritance.
+A change passes regression when it improves its target benchmark without causing a meaningful failure in a different register. Controlled variance specifically must also preserve B6 restraint and B9 continuation inheritance. Tracks and pressure-turn changes must preserve B3 archive uncertainty, B6 restraint, and B8 unresolved canon.
 
 ## Mechanical regression command
 
@@ -110,4 +126,4 @@ From the vault root, run:
 PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s skills/write-seeds-prose/scripts -p 'test_*.py' -v
 ```
 
-This suite checks conservative mechanical invariants only. Passing it does not count as passing B1-B10, which require behavioral review of prose outputs.
+This suite checks conservative mechanical invariants only. Passing it does not count as passing B1-B13, which require behavioral review of prose outputs.

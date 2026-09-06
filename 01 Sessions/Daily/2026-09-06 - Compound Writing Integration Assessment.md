@@ -486,6 +486,19 @@ This assessment does **not**:
 - promote any story fact;
 - resolve whether finished prose should become a nearer-term focus.
 
+## Author decision — narrow experiment approved
+
+On 2026-09-06, the author approved a small reversible integration experiment while story development is paused for vault-functionality work.
+
+Approved for implementation and testing:
+
+1. a Tracks pass for development-process residue;
+2. a pressure-turn placement diagnostic adapted from the buried-lede idea;
+3. visible development-edit and line-edit modes;
+4. explicit preference routing and confirmation.
+
+Not approved through this decision: a new routing skill, parallel `VOICE.md` or `STYLE.md` files, celebrity-named lenses, multi-reviewer panels, installation of Compound Writing, or changes to story canon.
+
 ## Summary recommendation for the author
 
 Adopt **Tier 1 only** if tooling work is wanted now:

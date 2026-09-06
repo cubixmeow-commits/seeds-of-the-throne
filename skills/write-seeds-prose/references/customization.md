@@ -103,6 +103,21 @@ When the author says a version is better or worse, identify the smallest transfe
 
 Separate story preference from prose preference. "Samuel would never do this" is primarily story/character authority, not a sentence-style rule.
 
+## Preference destination
+
+Before saving a repeatable preference, identify its narrowest home:
+
+| Preference changes | Durable home |
+| --- | --- |
+| project-wide manuscript direction | `03 Context/WRITING-STYLE.md` |
+| shared narrative syntax, diction, or tone | `references/voice-profile.md` |
+| one character's attention, dialogue, or register | the relevant character-voice note |
+| a recurring machine habit or development residue | `references/anti-ai-prose.md` or `references/tracks-pass.md` |
+| observable behavior that should survive future changes | `references/benchmark-suite.md` and QA results |
+| one passage or scene only | the scene packet; do not promote globally |
+
+State the proposed destination and rule in plain language. Require author confirmation before changing a style authority unless the author has already explicitly asked to save or lock in that preference.
+
 ## Regression principle
 
 Every active rule should survive contact with at least one different scene type. A rule that improves archival reconstruction but harms close psychological prose should become register-specific rather than global.

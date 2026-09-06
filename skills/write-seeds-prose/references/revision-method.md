@@ -19,10 +19,23 @@ Work from largest to smallest:
 
 Do not line-polish a scene whose dramatic engine is wrong.
 
+## Choose the visible pass
+
+- **Development edit:** purpose, pressure, causality, motive, knowledge, order, stakes, and information control. Use this when changing what the passage does.
+- **Line edit:** diction, syntax, rhythm, paragraph shape, clarity, and mechanical cleanup. Use this when the passage already does the right work.
+
+Name the selected pass in the response. If a development problem remains, stop before a full line edit unless the author explicitly requests a limited sentence repair.
+
 ## Passes
 
 ### Structural pass
 Ask what changes because this passage exists. Cut or redesign beats that merely repeat setup, lore, emotion, or conclusion.
+
+### Pressure-turn placement
+
+Identify the most important change in pressure, knowledge, choice, or interpretation. Ask whether it appears where the reader can use it and whether setup, lore, or throat-clearing buries it.
+
+This is a placement diagnosis, not a command to reveal the answer early. Suspense may require delay. If the turn is deliberately withheld, verify that the preceding material creates useful expectation or pressure rather than confusion.
 
 ### Agency pass
 Trace each important action to a want, belief, fear, loyalty, or tactical response. Remove actions performed only because the plot needs them.
@@ -54,6 +67,10 @@ Correct the cause before the surface. Expand what the viewpoint cannot leave alo
 
 ### Anti-AI pass
 Use `anti-ai-prose.md` and `scripts/prose_lint.py` if available.
+
+### Tracks pass
+
+When the passage has passed through outlines, prototypes, critique, or AI-assisted revision, use `tracks-pass.md` to remove finished development scaffolding. Preserve intentional documentary framing, public status labels, and visible uncertainty.
 
 ## Preservation rule
 
