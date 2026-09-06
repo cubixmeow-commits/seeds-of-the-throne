@@ -42,6 +42,12 @@ Passing that test does not grant unrestricted power. The older leaders must mana
 
 The exact capability set, normalization mechanisms, rollout order, and safeguards remain open. A deeper bond can strengthen destructive learning too, so architecture alone cannot prove good judgment.
 
+## Learned across years, not installed in a moment
+
+Sylvan and the Luminai develop the deeper bond through years of repeated attacks across changing environments. The advanced systems do not make the danger disappear. They help the pair observe patterns, adapt, reduce later harm, and survive.
+
+Each environment teaches something different. Earlier learning carries forward, but no defense solves every later problem. The exact lessons, personal losses, transition rules, and safety limits remain open.
+
 ## Spoilers: two misunderstandings
 
 Konrad believes his experienced daemon can defeat Samuel where the leaders intend Sylvan's new Luminai to succeed. His confidence is part of his ideology; it is not proof that all earlier systems are defective.

@@ -110,6 +110,18 @@ Deeper integration should therefore produce **greater clarity**, not the disappe
 
 This principle is especially important to Sylvan's developmental arc.
 
+## Multi-year adversarial learning
+
+**Established direction:** Sylvan's deeper bond does not arrive as an instant ability. He and the Luminai develop it through multi-year adversarial loops in which contained criminals continue attacking him. The advanced systems do not remove the danger or guarantee rescue. They provide ways to observe the attacks, recognize patterns, test responses, reduce later harm, and survive.
+
+Each environment changes the conditions and teaches a different part of the bond. The pair carries its accumulated learning forward, but no single defense solves every later environment. Sylvan must still recognize opportunities, decide what to trust, practice responses, and authorize consequential actions.
+
+The working developmental chain is:
+
+**repeated attack → observation → adaptation → reduced harm → environmental transition → a new kind of attack**
+
+The exact lessons, losses, transition authority, offline limits, and safeguards against unacceptable harm remain unresolved.
+
 ## Daemon corruption
 
 A Daemon can exploit the same channel in the opposite direction.

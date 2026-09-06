@@ -1,11 +1,17 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
 # Competitive Environments — Control Inversion and the Sylvan Endgame
+
+## Multi-year developmental loop — 2026-09-06
+
+Sylvan's environments are connected stages in the development of the successor bond. Each can continue for years while contained criminals repeatedly attack him. The advanced systems make observation, learning, adaptation, harm reduction, and survival possible, but do not remove Sylvan's need to understand the situation and choose how to act.
+
+Learning carries forward between environments. The pressure does not simply reset, and a previously defeated tactic cannot return Sylvan to identical helplessness without a new mechanism. At the same time, each environment changes the conditions enough to teach a different capability or form of judgment. Exact lessons, costs, transition authority, and stopping rules remain unresolved.
 
 ## September 5 settlement qualification
 

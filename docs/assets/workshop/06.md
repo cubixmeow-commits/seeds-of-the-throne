@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 06
 title: Bond development and costs
 gate: What recurring cost forces Sylvan to learn how to use the bond rather than simply acquire it?
 prerequisites: 02, 04, 05
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 06 · Bond development and costs
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Turn a premise-level breakthrough into lived human change.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Sylvan does not acquire the deeper bond as an instant ability. He and the Luminai develop it through multi-year adversarial loops in which the contained criminals keep attacking him. The advanced systems do not simply end the danger. They give the pair ways to study what is happening, recognize patterns, adapt, reduce the effectiveness of later attacks, and survive.
+
+Each environment changes the conditions and creates different opportunities to learn. The pair carries its learning forward, but a solution that worked in one environment cannot solve every later problem automatically. The recurring cost is sustained time under pressure and continuing exposure to real danger while the pair learns how to use its growing capabilities.
+
+`repeated attack → observation → adaptation → reduced harm → environmental transition → a new kind of attack`
 
 ## Relevant source notes
 
@@ -32,7 +41,11 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- Noninvasive field versus interface hardware; developmental versus adult learning; costs and interruptions.
+- Noninvasive field versus interface hardware and developmental versus adult learning.
+- Which distinct capability or judgment skill each environment teaches.
+- Which specific losses make the years costly rather than merely long.
+- What the pair retains if environmental support is interrupted.
+- Who authorizes transitions and what prevents unacceptable harm during repeated attacks.
 
 ## Prerequisite decisions
 
@@ -42,7 +55,7 @@ Modules: 02, 04, 05. Read their accepted results before closing this gate. Open 
 
 > What recurring cost forces Sylvan to learn how to use the bond rather than simply acquire it?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** years of sustained adversarial pressure and real danger across changing environments, with survival depending on cumulative observation, adaptation, and chosen use of the advanced systems.
 
 ## Possibilities and tradeoffs
 
@@ -81,35 +94,35 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 02, 04, 05.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 02, 04, 05.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 06 · Bond development and costs
 Gate: What recurring cost forces Sylvan to learn how to use the bond rather than simply acquire it?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): Preserved in [[01 Sessions/Daily/2026-09-06 - Workshop Module 06 Bond Development Draft]].
+Exact restatement: Multi-year adversarial loops force cumulative learning; the systems provide opportunities to adapt, not automatic rescue.
+Selected option or new answer: A new answer combining sustained danger, environmental progression, and retained learning.
+Why this tradeoff: It turns bond development into the causal spine of Sylvan's prolonged struggle and gives each environment a distinct teaching function.
+Rejected alternatives and reasons: A one-time calibration cost or instant capability would not explain the years of attacks or make Sylvan's choices necessary.
+Prerequisites resolved / deferred: Modules 02, 04, and 05 are author-accepted; interface hardware, exact costs, safeguards, and transition authority remain deferred.
+Scene test: A learned defense reduces one attack; the next environment changes the problem, requiring Sylvan to decide which accumulated lesson transfers.
+Adversarial result: Every loop needs a materially different pressure, a retained skill, and a real failure consequence; advanced systems cannot save Sylvan regardless of his choices.
+Remaining uncertainty: Environment lessons, losses, offline learning, safety limits, transition authority, and Samuel's power to change tactics or environments.
+Explicit acceptance wording and date: “Yes,” 2026-09-06.
+Affected notes updated: Learned Wireless Cognitive Channel; Pairing and Bonding; Competitive Environments; Storyline; context; public atlas; workshop projections.
+QA decision reference: [[07 QA/Decisions]].
+Workflow task and macro-depth effect: Workshop Module 06 closed; SC-010 Question 7 unchanged.
+Website rebuild and verification: Generated projections rebuilt and checked after integration.
 ```
 
 ## Notes and website sections affected

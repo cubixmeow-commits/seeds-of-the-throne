@@ -19,7 +19,7 @@ The saga begins near the chronological end and reconstructs its causes across la
 7. Samuel promises a separate autonomous group. Konrad reactivates his Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside the shared containment environment.
 8. Samuel performs compliance, converts reactivation into access, and conducts a generational takeover of Konrad's group through surveillance, compromise, blackmail, lineage manipulation, younger-generation capture, and controlled interpretation.
 9. Konrad becomes isolated inside a counterfeit victory while Samuel functionally replaces him as the group's active patriarch and claims its future.
-10. Sylvan enters the mature bridge world as the first deeply and continuously bonded human of the successor Luminai process.
+10. Sylvan enters the mature bridge world as the first deeply and continuously bonded human of the successor Luminai process. Across multi-year adversarial loops, changing environments let the pair study repeated attacks, adapt, reduce later harm, and carry new skills forward without receiving automatic rescue.
 11. During the last few years, Sylvan possesses decisive control but allows Samuel bounded activity so the Luminai can observe his complete endgame and prepare a valid outcome presentation.
 12. Samuel claims control of Sylvan and tries to repeat the Konrad takeover in front of Konrad's inner circle. They recognize the pattern first.
 13. Samuel's desperation shifts toward stealing Sylvan's Luminai, which he mistakes for an ownable superweapon capable of restoring every collapsing claim.

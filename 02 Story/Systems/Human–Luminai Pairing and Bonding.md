@@ -52,6 +52,12 @@ The architecture is not a source of moral goodness. A destructive person with de
 
 The exact capability set, normalization mechanisms, rollout order, rights of people without the successor bond, and safeguards for a destructive deeply integrated pair remain unresolved.
 
+## Learning under repeated pressure
+
+**Established direction:** the successor bond becomes reliable through years of use under attack, not through acquisition alone. Contained criminals repeatedly test Sylvan across changing environments. The advanced systems give Sylvan and the Luminai opportunities to understand each attack, adapt, reduce later damage, and survive, but do not simply solve the threat for them.
+
+Development is cumulative. Each environment teaches something different, and prior learning remains useful without becoming a universal answer. A later environment must change the problem enough to require new judgment while preserving the practical growth already earned by the pair. This keeps conscious human choice and responsibility inside the learning process.
+
 ## Luminai and Daemon distinction
 
 **Luminai** names the mind extensions developed in the colonization environment, including earlier versions. Sylvan's version is newly and more deeply integrated. Its intended developmental direction includes reality-testing, provenance, contradiction, correction, and accountable human authority.

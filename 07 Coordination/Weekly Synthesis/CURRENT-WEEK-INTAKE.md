@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 06 multi-year bond development accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 06 Bond Development Draft]]
+- **Type:** decision / dependency / structural-development
+- **Possible relationship:** SC-007 through SC-010, SC-015, SC-018, SC-026
+- **Signal:** The author established multi-year adversarial learning loops as the recurring cost of Sylvan's deeper bond. Advanced systems provide opportunities to observe, adapt, minimize later harm, and survive; each environment teaches something new while accumulated learning carries forward.
+
 ### 2026-09-06 — Workshop Module 05 managed successor capability accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 05 Deeper Integration Draft]]

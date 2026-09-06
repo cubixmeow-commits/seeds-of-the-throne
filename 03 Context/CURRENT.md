@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Current
@@ -59,7 +59,7 @@ Author-established direction:
 - Samuel and George do not realize that dealing with them is what completes the bond they are trying to prevent.
 - The completed bond ultimately enables Sylvan to create or master a bounded final environment, trap the antagonists through their own expectations and choices, expose them, and end their reign of terror.
 
-The environment ladder now has an accepted three-environment working direction: unemployment/Luminai emergence and exploration; antagonist-dominant humiliation as a survival struggle; and multi-zone employment ending in bounded control and exposure if Sylvan survives. Exact locations, job, transitions, costs, permissions, evidence path, bond capabilities, and terminal mechanism remain unresolved.
+The environment ladder now has an accepted three-environment working direction: unemployment/Luminai emergence and exploration; antagonist-dominant humiliation as a survival struggle; and multi-zone employment ending in bounded control and exposure if Sylvan survives. These environments operate as multi-year adversarial learning loops. Repeated attacks force Sylvan and the Luminai to observe, adapt, reduce later harm, and carry accumulated skills into new conditions; the advanced systems provide learning opportunities rather than automatic rescue. Exact locations, job, distinct lessons, transitions, losses, permissions, safety limits, evidence path, bond capabilities, and terminal mechanism remain unresolved.
 
 The next author-led work is the Samuel–Konrad containment hierarchy, one question at a time. Resume only from [[07 Coordination/CURRENT-PICKUP]] and [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 

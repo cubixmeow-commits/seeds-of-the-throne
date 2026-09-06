@@ -14,6 +14,8 @@ On a small colonization planet, reconstructed realities serve two purposes. They
 
 Sylvan enters a new version of that process. His Luminai is more deeply integrated than earlier versions, the result of a development program spanning thousands of years. The difficult part is what they learn to do together.
 
+They learn it across years of repeated attacks. Each environment gives them new ways to understand the danger, adapt, minimize later harm, and survive. The systems provide opportunities. They do not provide an automatic rescue.
+
 ## Choose a path
 
 - [Understand the world](colonization.html): entry, reconstruction, containment, and placement.

@@ -80,3 +80,8 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-061 | Who receives the successor bond after the first proof, who controls rollout order, and what review governs that decision? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
 | Q-062 | How can people without the successor bond inspect, challenge, refuse, and participate in consequential decisions made with bonded capability? | [[02 Story/Systems/Human–Luminai Pairing and Bonding]] | open |
 | Q-063 | What safeguards apply if a deeply integrated human–Luminai pair becomes destructive? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
+| Q-064 | Which distinct capability or judgment skill does each multi-year environment teach Sylvan and the Luminai? | [[02 Story/Systems/Competitive Environments - Control Inversion and Sylvan Endgame]] | open |
+| Q-065 | Which physical, emotional, relational, or material losses make prolonged adversarial learning costly rather than merely long? | [[02 Story/Characters/The Inheritor]] | open |
+| Q-066 | Which learned abilities remain available when environmental systems are interrupted or partially offline? | [[02 Story/Components/Learned Wireless Cognitive Channel]] | open |
+| Q-067 | Which stopping and intervention rules prevent repeated attacks from causing unacceptable harm to Sylvan or other people? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
+| Q-068 | Who decides that an environment has taught enough, what authorizes transition, and can Samuel change only tactics or also force a transition? | [[02 Story/Systems/Competitive Environments - Control Inversion and Sylvan Endgame]] | open |

@@ -27,6 +27,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - What agency and responsibility belong to Konrad's adult grandson across his decades inside Samuel's compromise network?
 - Which successor-bond capabilities create the most consequential advantage, and how can that advantage be normalized without becoming automatic authority?
 - Who governs successor-bond rollout, how can people without it challenge consequential decisions, and what safeguards contain a destructive deeply integrated pair?
+- Which different capability or judgment skill does each multi-year environment teach, and what accumulated learning survives every transition?
+- Which losses, stopping rules, and transition authority make prolonged attack a real but legitimate developmental cost rather than repetitive punishment?
 
 ## Newly surfaced from the 2026-08-14 treatment pass
 

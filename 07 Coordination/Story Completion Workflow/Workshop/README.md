@@ -6,7 +6,7 @@ updated: 2026-09-06
 
 # Story-development workshop
 
-Twenty decision packets address the missing causes in this story. Eighty alternatives began as non-canon proposals. Modules 01 through 05 are now author-accepted; later gates remain open. No story task has been marked complete through the workshop.
+Twenty decision packets address the missing causes in this story. Eighty alternatives began as non-canon proposals. Modules 01 through 06 are now author-accepted; later gates remain open. No story task has been marked complete through the workshop.
 
 ## Start without losing the active thread
 
@@ -22,7 +22,7 @@ For a short mobile session: choose one packet, read its central gate, write an a
 4. **04 · Reconstruction:** determines which costs are real, what can change, and whom safeguards protect.
 5. **05 · Luminai generations:** resolves what the comparative test can show and prevents a silent implant-model substitution.
 
-These five preparation sessions are author-accepted. Module 06 is next in dependency order. Modules 07–08 and 15 remain the next high-impact safety/authority dependencies. The exact takeover in 11 and the exposure in 18 depend on them.
+These five preparation sessions and Module 06 are author-accepted. Module 07 is next in dependency order. Modules 07–08 and 15 remain the next high-impact safety/authority dependencies. The exact takeover in 11 and the exposure in 18 depend on them.
 
 ## Dependency order
 
