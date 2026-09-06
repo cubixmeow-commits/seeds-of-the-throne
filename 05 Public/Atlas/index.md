@@ -2,7 +2,7 @@
 route: index
 title: A world built to reveal its people.
 deck: You wake inside a civilization modeled on the distant past. Your future depends on learning what it is really for.
-image: sylvan-elaria-private-study-v1.webp
+image: konrad-controlled-by-samuel-key-art-v1.webp
 status: reviewed-fictional-projection
 ---
 
