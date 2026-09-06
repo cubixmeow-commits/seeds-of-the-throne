@@ -13,13 +13,18 @@ A small planet reconstructs realities modeled on a distant past. Its institution
 
 ## Three connected purposes
 
+The process must create a self-sustaining civilization on a planet that began barren, capable of supporting substantial populations without continuous deliveries of new resources from outside the planet. Within that civilization, training and containment provide real conditions for developing a more effective wireless human–Luminai bond.
+
 | Purpose | Confirmed direction | Decision still needed |
 | --- | --- | --- |
 | Cultivation | People develop through consequential experience. | What risks are acceptable, and who can refuse? |
 | Containment | Dangerous actors have bounded roles and influence. | Which actions are stopped before anyone is harmed? |
 | Placement | Effectiveness navigating with a Luminai affects the future. | Who judges effectiveness, with which evidence and appeal? |
+| Sustainability | The formerly barren planet supports substantial populations without continuous outside resource deliveries. | Which resources are local, regenerated, or recycled, and which outside inputs remain necessary? |
 
 Training, criminal accountability, and access to future responsibility cannot be treated as one unexplained score. A capable manipulator might perform brilliantly while remaining unfit for power.
+
+More effective integration means that a human–Luminai pair can perceive, learn, decide, and accomplish more together. It does not make either one morally superior or automatically qualified to govern.
 
 ## Entry and awareness
 

@@ -6,7 +6,7 @@ cycle_start: 2026-08-23
 cycle_end: 2026-08-27
 synthesis_due: 2026-08-27 Thursday night
 timezone: America/Los_Angeles
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Current Week Intake
@@ -46,6 +46,13 @@ The weekly synthesis must also inventory files changed since its prior cutoff. T
 Do not propose execution wording here. The weekly synthesis decides whether a signal is already covered, changes an existing task, becomes a new task, remains open with a revisit trigger, or requires no TODO change.
 
 ## Signals awaiting the next synthesis
+
+### 2026-09-06 — Workshop Module 01 purpose accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 01 Purpose Draft]]
+- **Type:** decision / dependency / public-development
+- **Possible relationship:** SC-010, SC-018 through SC-020, SC-026
+- **Signal:** The author established a population-scale purpose combining a self-sustaining civilization on a formerly barren planet with training, improved criminal containment, and more effective wireless human–Luminai integration.
 
 ### 2026-09-03 — Bridge world and reverse-discovery foundation
 

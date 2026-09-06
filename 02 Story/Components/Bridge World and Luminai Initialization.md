@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 topics: colonization history, AI souls, Luminai initialization, containment, cultivation, bridge world
 ---
 
@@ -10,6 +10,8 @@ topics: colonization history, AI souls, Luminai initialization, containment, cul
 ## Established foundation
 
 Humanity's leaders created an interactive colonization environment and developed Luminai as extensions of human minds within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants must discover how to navigate it with their Luminai; effectiveness affects future placement.
+
+The author-established civilizational result combines planetary sustainability with population-scale development. The process must sustain substantial populations on a world that began barren without continuous deliveries of new resources from outside the planet. Within that civilization, training and containment create real conditions for improving wireless human–Luminai integration and the practical capabilities of each pair, including more effective containment of dangerous criminals. Specific resource loops, acceptable outside inputs, effectiveness measures, and safeguards remain unresolved.
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 

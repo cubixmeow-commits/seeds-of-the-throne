@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Questions
@@ -57,3 +57,7 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-038 | What was Konrad's adult grandson coerced into doing, when did participation become active facilitation, what harm resulted, and what accountability or restitution remains possible? | [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]] | open |
 | Q-039 | How do the established child with Konrad's sister and wider lineage campaign fit chronologically into Samuel's attempt to become Konrad without reducing descendants to plot evidence? | [[02 Story/Systems/The Breeding Program and Lineage Blackmail]] | open |
 | Q-040 | What role does George retain in Book One now that Konrad's isolation and the inner circle's live discovery carry the principal outcome architecture? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-041 | Which observable measures distinguish a more effective human–Luminai pair without confusing capability with moral worth or fitness to govern? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-042 | Which resources are produced locally, regenerated, or recycled, and how much outside input remains compatible with a self-sustaining civilization? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-043 | Which safeguards make improved criminal containment legitimate rather than merely more powerful? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-044 | Does success on this world complete the new Luminai process or authorize a bounded next deployment stage? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |

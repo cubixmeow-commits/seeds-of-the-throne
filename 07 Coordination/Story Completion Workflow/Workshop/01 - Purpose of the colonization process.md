@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 01
 title: Purpose of the colonization process
 gate: What primary civilizational result must this particular process deliver?
 prerequisites: none
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 01 · Purpose of the colonization process
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Define what this civilization is trying to accomplish so an outcome can count as success.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. The author accepted the result below on September 6. The original alternatives remain preserved as development history. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+This colonization process must develop a self-sustaining civilization on a planet that began barren, capable of supporting substantial populations without continuous deliveries of new resources from outside the planet. Within that environment, training and containment serve as real-world conditions for developing a more effective wireless bond between humans and advanced Luminai. That bond should improve what the human–Luminai pair can perceive, learn, decide, and accomplish while making the containment of dangerous criminals more effective.
+
+“More effective human” means greater practical capability through the bond. It does not establish greater moral worth or automatic fitness to govern.
+
+Source and full decision record: [[01 Sessions/Daily/2026-09-06 - Workshop Module 01 Purpose Draft]].
 
 ## Relevant source notes
 
@@ -31,7 +40,7 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- What closes at this world; which outcome matters beyond Sylvan; why mature history is necessary.
+- What closes at this world and why mature history is necessary. The required result beyond Sylvan is now established.
 
 ## Prerequisite decisions
 
@@ -39,7 +48,7 @@ Modules: none. Read their accepted results before closing this gate. Open prereq
 
 ## Central author gate
 
-> What primary civilizational result must this particular process deliver?
+> What primary civilizational result must this particular process deliver? **AUTHOR-ACCEPTED 2026-09-06.**
 
 Ask this question alone during actual use. Do not ask every follow-up at once.
 
@@ -79,35 +88,32 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites none.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites none.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 01 · Purpose of the colonization process
 Gate: What primary civilizational result must this particular process deliver?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): preserved in the linked session record
+Exact restatement: accepted result above
+Selected option or new answer: modified combination of 1, 2 and 3, plus planetary resource independence
+Why this tradeoff: bonding, training, containment and material sustainability validate one another under real conditions
+Rejected alternatives and reasons: option 4 remains relevant but is not the primary result established here
+Prerequisites resolved / deferred: none
+Scene test: a technically successful bond is insufficient if containment remains harmful or the planet remains dependent on continuous resupply
+Adversarial result: isolating Samuel alone cannot deliver the population, training, bonding and sustainability purpose
+Remaining uncertainty: effectiveness measures, resource mechanisms, acceptable outside inputs, safeguards and deployment scope
+Explicit acceptance wording and date: “Yes, that’s a really good result” — 2026-09-06
+Workflow task and macro-depth effect: supporting workshop Module 01 accepted; SC-010 remains active and unchanged
 ```
 
 ## Notes and website sections affected

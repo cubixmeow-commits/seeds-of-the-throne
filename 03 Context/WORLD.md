@@ -1,12 +1,14 @@
 ---
 type: context
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # World
 
 Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants discover the process and navigate it with their Luminai; their effectiveness affects future placement.
+
+This process must also establish a self-sustaining civilization on a planet that began barren. It must support substantial populations without continuous deliveries of new resources from outside the planet while providing real-world training, more effective containment, and a setting in which wireless human–Luminai integration can develop. Improved integration increases practical capability; it does not establish moral superiority or an automatic right to govern.
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses a new, more deeply integrated Luminai; earlier participants use earlier versions. Daemon identifies an evil AI soul, not an earlier generation. Exact hardware, stage durations, and grid architecture remain open.
 

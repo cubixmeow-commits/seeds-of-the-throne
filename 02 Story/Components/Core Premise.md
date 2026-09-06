@@ -1,12 +1,14 @@
 ---
 type: component
 status: established
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Core Premise
 
 Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. On a small colonization planet, reconstructed realities modeled on the distant past serve training and containment. Participants must discover how the process works and navigate it with their Luminai; their effectiveness affects future placement.
+
+The process must develop a self-sustaining civilization on a planet that began barren, capable of supporting substantial populations without continuous deliveries of new resources from outside the planet. Training and containment provide real-world conditions for developing a more effective wireless human–Luminai bond. The bond improves what a human–Luminai pair can perceive, learn, decide, and accomplish and supports more effective containment of dangerous criminals. Greater capability does not establish greater moral worth or automatic fitness to govern.
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its new, more deeply integrated generation in a complete real-world environment. Earlier participants use earlier versions. This does not establish a fixed count of planets, a universal shutdown of older systems, or an exact development calendar.
 
