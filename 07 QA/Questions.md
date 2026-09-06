@@ -75,3 +75,8 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-056 | Does a qualifying human–Luminai pair establish a new House, receive stewardship of an existing group, or choose between those forms? | [[02 Story/Systems/Integration and Scoring]] | open |
 | Q-057 | What resources, authority, obligations, membership rights, independent oversight, review, and possible loss accompany a House-level placement? | [[02 Story/Systems/Integration and Scoring]] | open |
 | Q-058 | What assessment threshold opens the House-level path without turning one performance score into permanent control over other people? | [[02 Story/Systems/Integration and Scoring]] | open |
+| Q-059 | Which specific successor-bond capabilities create the most consequential practical advantage? | [[02 Story/Systems/Human–Luminai Pairing and Bonding]] | open |
+| Q-060 | Which access, legal, interface, educational, and institutional mechanisms normalize the advantage without disabling its benefits or creating automatic authority? | [[02 Story/Systems/Human–Luminai Pairing and Bonding]] | open |
+| Q-061 | Who receives the successor bond after the first proof, who controls rollout order, and what review governs that decision? | [[02 Story/Components/Bridge World and Luminai Initialization]] | open |
+| Q-062 | How can people without the successor bond inspect, challenge, refuse, and participate in consequential decisions made with bonded capability? | [[02 Story/Systems/Human–Luminai Pairing and Bonding]] | open |
+| Q-063 | What safeguards apply if a deeply integrated human–Luminai pair becomes destructive? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |

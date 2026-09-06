@@ -15,6 +15,8 @@ The author-established civilizational result combines planetary sustainability w
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
+The successor bond creates a substantial general capability advantage. This world tests that advantage under adversarial conditions in which contained criminals possess major starting advantages, so success must prove both the pair's advanced capability and a more effective containment process. Wider success also requires managed integration: the real leaders must govern deployment, permissions, access, placement, and social integration so successor-bonded people can join a humanity that includes people without the new bond. Greater capability does not establish moral superiority or an automatic right to command.
+
 ## Customized historical reconstruction
 
 The world draws from the larger humanity's real history without replaying it literally. Major technological transitions, a Great War era, and public roles based on real historical people provide recognizable anchors. The process may alter, combine, resequence, or adapt identities, events, roles, institutions, and conditions when the change improves training, containment, Luminai development, or planetary sustainability.
@@ -66,6 +68,8 @@ These reasons are compatible possibilities, not a final selection.
 - Whether this is literally the final colony, the last world in an original plan, or the audit that closes an operating era.
 - What changes across the older planets if Sylvan succeeds or fails.
 - What technical and developmental limits distinguish older AI souls from the successor Luminai.
+- Which successor capabilities create the greatest practical advantage, and how that advantage is normalized without disabling its benefits.
+- Who receives the successor bond after the first proof, what rights less-integrated people retain, and what safeguards apply to a destructive deeply integrated pair.
 - Why Sylvan is the first selected human and why a safer world would be insufficient.
 - How much Samuel and Konrad understand about the transition.
 

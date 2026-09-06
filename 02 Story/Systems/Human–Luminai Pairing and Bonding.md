@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Human–Luminai Integration and Human Bonding
@@ -41,6 +41,16 @@ The Luminai grows as the human's extended cognition grows:
 4. **Independent operation** — the Luminai can act from subconscious priorities and learned patterns while conscious biological attention is occupied, asleep, unaware, or not directing each step.
 5. **Coherence** — conscious attention, subconscious motivation, and artificial cognition operate as one accountable identity across more information and more simultaneous processes than an unaided human could sustain.
 6. **Advanced integration** — rare individuals such as Sylvan may develop forms of cognition that ordinary human–Luminai selves cannot achieve.
+
+## Successor capability and managed integration
+
+**Established direction:** deeper human–Luminai integration creates a substantial general capability advantage rather than one isolated new power. The process proves that advantage in an adversarial containment environment where dangerous criminals begin with substantial advantages of their own. A successful pair must demonstrate both advanced practical capability and a more effective way to contain adaptive criminal behavior.
+
+That proof does not authorize unrestricted deployment. The real leaders manage how successor-bonded people enter the larger humanity, including deployment, permissions, access, placement, and social integration. The purpose of normalization is to let bonded and non-successor-bonded people live and work together without erasing the useful capability the process developed or converting that capability into automatic authority over other people.
+
+The architecture is not a source of moral goodness. A destructive person with deeper integration could become more capable at manipulation or control. Human choices remain consequential, and values, independent evidence, correction, accountability, institutional safeguards, and meaningful challenge by other people remain necessary.
+
+The exact capability set, normalization mechanisms, rollout order, rights of people without the successor bond, and safeguards for a destructive deeply integrated pair remain unresolved.
 
 ## Luminai and Daemon distinction
 

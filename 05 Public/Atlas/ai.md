@@ -34,6 +34,14 @@ The accepted macro direction keeps consequential choices under human authorizati
 
 More integration can amplify poor learning as well as useful learning. Good outcomes also require values, independent evidence, correction, accountability, and safeguards.
 
+## Proving an advantage without creating a ruling class
+
+The successor bond is intended to create a substantial general capability advantage. The process tests that claim where contained criminals begin with major advantages of their own. Success has to demonstrate both what the bonded pair can do and whether it can contain adaptive criminal behavior more effectively.
+
+Passing that test does not grant unrestricted power. The older leaders must manage deployment, permissions, access, placement, and social integration so successor-bonded people can live and work with people who do not have the new bond. Less-integrated people must remain able to inspect, challenge, refuse, and participate in consequential decisions.
+
+The exact capability set, normalization mechanisms, rollout order, and safeguards remain open. A deeper bond can strengthen destructive learning too, so architecture alone cannot prove good judgment.
+
 ## Spoilers: two misunderstandings
 
 Konrad believes his experienced daemon can defeat Samuel where the leaders intend Sylvan's new Luminai to succeed. His confidence is part of his ideology; it is not proof that all earlier systems are defective.

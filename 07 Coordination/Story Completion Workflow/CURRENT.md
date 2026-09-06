@@ -8,7 +8,7 @@ updated: 2026-09-03
 
 ## Supporting workshop, not an answered gate
 
-The [[07 Coordination/Story Completion Workflow/Workshop/README|September 5 workshop]] expands dependency-aware brainstorming. Preparation is complete; substantive gates remain OPEN. Resume SC-010 Question 7 unless the author explicitly changes the session route. The first five recommended preparation modules cover purpose, entry, placement, reconstruction, and generation differences.
+The [[07 Coordination/Story Completion Workflow/Workshop/README|September 5 workshop]] expands dependency-aware brainstorming. Modules 01 through 05 are author-accepted; Module 06 is next in workshop dependency order. The workshop has not advanced any story-completion checkbox. Resume SC-010 Question 7 whenever the author returns to that workflow thread.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 

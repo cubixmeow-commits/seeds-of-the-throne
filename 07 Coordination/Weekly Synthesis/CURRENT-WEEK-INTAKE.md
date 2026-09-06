@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 05 managed successor capability accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 05 Deeper Integration Draft]]
+- **Type:** decision / dependency / public-development
+- **Possible relationship:** SC-010, SC-018 through SC-020, SC-026
+- **Signal:** The author established deeper successor integration as a substantial general capability advantage proved under adversarial containment, followed by managed normalization and integration into a humanity that includes people without the successor bond. Capability does not create moral superiority or automatic authority.
+
 ### 2026-09-06 — Workshop Module 04 customized reconstruction accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 04 Reconstruction Draft]]

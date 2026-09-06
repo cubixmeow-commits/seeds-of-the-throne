@@ -25,6 +25,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - How is the outcome presentation divided among public proof, protected evidence, individual accountability, and private descendant records?
 - How does George's maintained-reality and succession thread fit beneath the new Konrad-isolation and inner-circle discovery architecture?
 - What agency and responsibility belong to Konrad's adult grandson across his decades inside Samuel's compromise network?
+- Which successor-bond capabilities create the most consequential advantage, and how can that advantage be normalized without becoming automatic authority?
+- Who governs successor-bond rollout, how can people without it challenge consequential decisions, and what safeguards contain a destructive deeply integrated pair?
 
 ## Newly surfaced from the 2026-08-14 treatment pass
 

@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 05
 title: Luminai generations and causal comparison
 gate: What new capacity does deeper integration supply that must still be governed by human choices and institutions?
 prerequisites: 01, 02, 04
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 05 · Luminai generations and causal comparison
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Define the technical difference without making newer cognition automatically virtuous.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Deeper human–Luminai integration creates a substantial general capability advantage. The new participants prove what that bond can do inside a containment environment where dangerous criminals begin with substantial advantages of their own. Success must demonstrate both the pair's advanced capabilities and a more effective form of criminal containment.
+
+The real leaders of humanity must manage the new Luminai's introduction into the larger civilization. They must normalize the bonded participants' advantage so those participants can live and work effectively with people who do not have the new bond. Deeper integration therefore requires governance of deployment, permissions, access, placement, and social integration rather than unrestricted use of every available capability.
+
+The new capacity does not make its holder morally superior. Human choices remain consequential, and institutions must keep the capability difference from becoming automatic authority over other people.
 
 ## Relevant source notes
 
@@ -31,7 +40,10 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- Which capacity changes; whether malicious deeply integrated people remain possible; what evidence distinguishes architecture from Sylvan’s character.
+- Which specific capabilities create the most consequential advantage.
+- How deployment, permissions, access, placement, and social integration normalize the advantage without disabling its benefits.
+- Who receives the successor bond next and how rollout is governed.
+- Which safeguards protect people if a deeply integrated pair becomes destructive.
 
 ## Prerequisite decisions
 
@@ -41,7 +53,7 @@ Modules: 01, 02, 04. Read their accepted results before closing this gate. Open 
 
 > What new capacity does deeper integration supply that must still be governed by human choices and institutions?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** a broad capability increase proven through adversarial containment, followed by managed integration into a society that includes people without the successor bond.
 
 ## Possibilities and tradeoffs
 
@@ -80,35 +92,35 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 01, 02, 04.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 01, 02, 04.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 05 · Luminai generations and causal comparison
 Gate: What new capacity does deeper integration supply that must still be governed by human choices and institutions?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): Preserved in [[01 Sessions/Daily/2026-09-06 - Workshop Module 05 Deeper Integration Draft]].
+Exact restatement: A substantial general capability advantage is proved under adversarial containment and then normalized through managed civilizational integration.
+Selected option or new answer: Broad capability increase rather than one isolated technical capacity.
+Why this tradeoff: It joins successor-bond proof to more effective containment and makes wider social integration part of the test.
+Rejected alternatives and reasons: Raw power, moral superiority, and unrestricted rollout cannot explain responsible integration.
+Prerequisites resolved / deferred: Modules 01, 02, and 04 are author-accepted; exact capabilities and governance mechanics remain deferred.
+Scene test: A qualified pair must make its faster judgment inspectable, challengeable, and participatory inside an institution using earlier bonds or no successor bond.
+Adversarial result: The same architecture could make Samuel a more capable manipulator; values, evidence, human authority, assessment, permissions, oversight, and challengeability remain necessary.
+Remaining uncertainty: Capability list, normalization mechanisms, rollout order, nonbonded rights, and destructive-pair safeguards.
+Explicit acceptance wording and date: “Yes,” 2026-09-06.
+Affected notes updated: Pairing and Bonding; Bridge World; public AI atlas; QA; context; workshop projections.
+QA decision reference: [[07 QA/Decisions]].
+Workflow task and macro-depth effect: Workshop Module 05 closed; SC-010 Question 7 unchanged.
+Website rebuild and verification: Generated projections rebuilt and checked after integration.
 ```
 
 ## Notes and website sections affected
