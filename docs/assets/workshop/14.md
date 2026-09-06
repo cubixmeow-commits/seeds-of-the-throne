@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 14
 title: George’s necessary role
 gate: What can George’s decisions reveal or change that neither Konrad nor a generic proxy can?
 prerequisites: 12, 13, 15
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 14 · George’s necessary role
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Resolve overlap with Konrad by assigning George a distinct causal and emotional function.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+George can participate directly on Sylvan's newer colonization planet, which Samuel cannot do. Samuel, Konrad, and the older contained criminals from Samuel's generation remain physically contained on a previous colonization planet. George is therefore Samuel's living operational bridge into Sylvan and Orzai's environment. The communication architecture, permissions, and George's independent choices remain unresolved.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 12, 13, 15. Read their accepted results before closing this gate. Open 
 
 > What can George’s decisions reveal or change that neither Konrad nor a generic proxy can?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** George can act directly on the new planet while Samuel and the older contained generation cannot physically enter it.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 12, 13, 15.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 12, 13, 15.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

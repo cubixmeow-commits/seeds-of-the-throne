@@ -29,7 +29,8 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 10. Sylvan begins the successor Luminai process inside the mature world.
 11. During the final few years, Sylvan retains decisive authority and permits Samuel bounded activity as the Luminai's final adversarial learning period.
 12. Samuel attempts the same takeover on Sylvan before Konrad's inner circle. Their recognition becomes the discovery path into the postwar history.
-13. Samuel's attempt to steal Sylvan's Luminai accelerates as public exposure destroys his control claims.
+13. Samuel attempts to place responsibility for the criminal system onto George, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized false bargain as public exposure destroys his control claims.
+14. The process reaches irreversible conclusion. Samuel has no more deals and no more moves.
 14. The outcome presentation compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad's group.
 
 ## Narrative order

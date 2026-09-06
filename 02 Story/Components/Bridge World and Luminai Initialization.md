@@ -15,6 +15,8 @@ The author-established civilizational result combines planetary sustainability w
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
+The older contained criminals from Samuel Franklin's generation remain physically confined on a previous colonization planet. Samuel and Konrad do not physically enter Sylvan's newer planet. George participates directly on the new world, making him Samuel's living operational bridge into the successor process. “Bridge world” therefore describes a generational and system transition, not physical co-location of every adversary.
+
 The successor bond creates a substantial general capability advantage. This world tests that advantage under adversarial conditions in which contained criminals possess major starting advantages, so success must prove both the pair's advanced capability and a more effective containment process. Wider success also requires managed integration: the real leaders must govern deployment, permissions, access, placement, and social integration so successor-bonded people can join a humanity that includes people without the new bond. Greater capability does not establish moral superiority or an automatic right to command.
 
 ## Customized historical reconstruction
@@ -29,7 +31,7 @@ The environment supplies historically grounded conditions and public roles. Part
 
 The older leaders select Samuel Franklin as a representative worst-case containment subject. He combines exceptional social inference with coercion, deception, compromise, surveillance, blackmail, dependency, and repeated attempts to convert bounded access into sovereignty.
 
-Samuel is allowed meaningful but bounded influence for approximately a century because a scripted antagonist cannot prove whether the new bond understands an adaptive criminal system. His latitude is observation space, not permission to rule. Samuel interprets it as evidence that he is becoming the true leader.
+Samuel is allowed meaningful but bounded influence for approximately a century because a scripted antagonist cannot prove whether the new bond understands an adaptive criminal system. His latitude is observation space, not permission to rule. During the final years his influence declines while Sylvan and Orzai's grows; Samuel interprets the remaining latitude as evidence that he can still become the true leader.
 
 ## Why Konrad matters
 

@@ -10,13 +10,13 @@ status: reviewed-fictional-projection
 
 Sylvan develops the new deeply integrated Luminai bond. The existing modern arc begins with a creative-development startup, sabotage, loss, and movement through increasingly hostile environments before the final reversal.
 
-His task is larger than technical mastery. The story still needs concrete personal needs, mistakes, relationships, and a future he can choose rather than merely earn. Competence should not make his emotional life disappear.
+His task is larger than technical mastery. He and Orzai must resist Samuel's attempt to make each appear irrational to the other, preserve independent judgment inside intimacy, and qualify for a House-level future without abusing their growing advantage.
 
 ## Orzai
 
 Orzai is a developing leader and Sylvan's partner, with her own interests in health, nutrition, creative design, and training systems. Her choices must matter independently of his success.
 
-Their Luminai coordination cannot replace trust, consent, disagreement, or repair. A useful relationship test is whether she can refuse something Sylvan wants without becoming an obstacle the technology solves.
+Their Luminai coordination cannot replace trust, consent, disagreement, or repair. They meet inside the same environment, choose partnership under attack, complete separate human–Luminai bonds, and earn the option to secure a House together.
 
 ## Konrad Fitzgerald
 
@@ -26,13 +26,13 @@ His approved appearance is locked. The portrait establishes identity, not a new 
 
 ## Samuel Franklin
 
-Samuel builds private dependencies through manipulation, surveillance, compromise, blackmail, and isolation. He reads people well and repeatedly mistakes access for the right to own them.
+Samuel builds private dependencies through manipulation, surveillance, compromise, blackmail, and isolation. He remains physically contained on the previous planet and must act into Sylvan's world through George and permitted connections.
 
-He wants to replace Konrad and reshape the group around his own control. His actions, rather than a real-person analogy, define the character.
+When his control collapses, he blames George, reaches toward Samuel Jr., and tries to sell Sylvan another false bargain. His actions, rather than a real-person analogy, define the character.
 
 ## George and the supporting cast
 
-George's existing history includes public roles, manipulated interpretation, wrongdoing, and a daemon Samuel can exploit. His necessary contribution now needs reconciliation with Konrad's isolation. Two people trapped in false realities need different dramatic jobs.
+George can participate directly on the new colonization planet; Samuel and the older contained criminals cannot. That physical distinction makes George the operational bridge rather than another version of Konrad's isolated fantasy. Samuel ultimately attempts to make him absorb the blame.
 
 The Witness, Orzai's family, Samuel's replacement heir, descendants, and survivors must carry choices and evidence that cannot all be delegated to Sylvan.
 

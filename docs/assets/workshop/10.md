@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 10
 title: Daemon confidence and the autonomy promise
 gate: What apparently verified success makes Konrad trust the bargain while misunderstanding its boundary?
 prerequisites: 05, 07, 09
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 10 · Daemon confidence and the autonomy promise
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Give the bad bargain enough actual value to tempt an intelligent Konrad.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Samuel approaches Konrad at his most vulnerable, claims that he too fell and was caught, and says he needs Konrad. He offers an apparently separate autonomous group with dominance over Samuel's group. The separation is false: the groups share a containment structure in which Samuel holds the hidden structural advantage.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 05, 07, 09. Read their accepted results before closing this gate. Open 
 
 > What apparently verified success makes Konrad trust the bargain while misunderstanding its boundary?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** Samuel's performed vulnerability and false autonomous-group offer make Konrad believe he is entering as the needed superior party; Daemon verification is resolved in Module 11.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 05, 07, 09.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 05, 07, 09.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

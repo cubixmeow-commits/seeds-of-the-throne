@@ -1,20 +1,25 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted-superseded-gate
 module: 18
-title: Theft and exposure
-gate: What can Samuel actually seize, and why would that limited success fail to give him Sylvan’s developed capacity?
+title: Scapegoating and the final deal
+gate: What customized bargain does Samuel offer Sylvan after trying to place the entire system onto George?
 prerequisites: 05, 06, 07, 15, 17
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
-# 18 · Theft and exposure
+# 18 · Scapegoating and the final deal
 
 ## Purpose
 
-Make Samuel’s final obsession technically legible and morally revealing without making the bond invulnerable.
+Make Samuel repeat his most successful method under conditions that expose it, while preserving George and Samuel Jr. as people with independent choices.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. The original literal-theft gate was superseded by an author-accepted endgame on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result — original theft premise superseded
+
+Samuel's final plan is not literal theft of Sylvan's Luminai. He tries to blame George for everything bad he has done, discard him, preserve a future route through Samuel Jr., and trick Sylvan into a customized deal resembling the false bargain that captured Konrad. Samuel again performs vulnerability, conceals the real hierarchy, and seeks voluntary access. The exact offer and Samuel Jr.'s choice remain unresolved.
 
 ## Relevant source notes
 
@@ -40,7 +45,7 @@ Modules: 05, 06, 07, 15, 17. Read their accepted results before closing this gat
 
 > What can Samuel actually seize, and why would that limited success fail to give him Sylvan’s developed capacity?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**SUPERSEDED GATE:** no literal seizure is selected for the endgame. The learned bond's transferability and other vulnerabilities remain open system questions outside this final maneuver.
 
 ## Possibilities and tradeoffs
 
@@ -79,14 +84,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 05, 06, 07, 15, 17.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 05, 06, 07, 15, 17.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

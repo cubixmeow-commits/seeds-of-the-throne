@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-03
+updated: 2026-09-06
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -11,7 +11,9 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 ## September 5 integration boundary
 
-**Established:** Samuel's final obsession is stealing Sylvan's Luminai while exposure grows. **Proposed:** stolen parts cannot reproduce the learned bond. This is not a claim of absolute security. The final years occur under Sylvan's decisive control; exact allowed actions and protection from further harm need definition.
+**Superseded:** Samuel's final move is not literal theft of Sylvan's Luminai. **Established:** he tries to blame George for the entire criminal system, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized bargain built from the concealed-access method used against Konrad. The final years occur under Sylvan and Orzai's decisive control; Samuel's influence declines as theirs grows. Exact allowed actions and protection from further harm still need definition.
+
+**Established physical boundary:** Samuel, Konrad, and the older contained criminals from their era remain physically contained on a previous colonization planet. Samuel cannot directly enter Sylvan's newer planet. George can participate there and becomes Samuel's operational bridge.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
@@ -26,7 +28,7 @@ Konrad's postwar attempt to dominate Samuel creates the access Samuel needs. He 
 
 Samuel's revenge becomes a generational replacement campaign. He captures the group's private information, bloodline systems, heirs, intermediaries, and interpretations until he can claim to have become its real patriarch. His network is distinct from Konrad's public militarized hierarchy: Samuel works through access, secrets, shame, nonconsensual humiliation, dependency, blackmail, and partitioned victims.
 
-During Book One's final years, Sylvan already holds decisive control but allows Samuel bounded activity so the Luminai can learn his complete endgame. Samuel publicly claims that he controls Sylvan and tries to repeat the same takeover method in front of Konrad's inner circle. His eventual obsession with stealing Sylvan's Luminai reveals that he still treats a developed relationship as an ownable object and believes possession can solve every exposure.
+During Book One's final years, Sylvan and Orzai already hold decisive control but allow Samuel bounded activity so their Luminai can learn his complete endgame. Samuel publicly claims that he controls Sylvan and tries to repeat the same takeover method in front of Konrad's inner circle. When this fails, he scapegoats George, reaches toward Samuel Jr., and offers Sylvan another false bargain. The process ultimately defeats his defining survival method by reaching a conclusion at which there are no deals and no more moves.
 
 See [[../Components/Book One Outcome Presentation and Reverse Discovery]] and [[../Groups/Konrad and Samuel Criminal Ecosystems]].
 

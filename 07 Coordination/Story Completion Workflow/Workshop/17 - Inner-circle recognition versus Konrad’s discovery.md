@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 17
 title: Inner-circle recognition versus Konrad’s discovery
 gate: What specific repeated act makes insiders compare their histories, and what do they do with the comparison?
 prerequisites: 10, 11, 12, 15, 16
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 17 · Inner-circle recognition versus Konrad’s discovery
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Turn recognition into action while preserving the established knowledge split.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+The inner circle sees what Konrad believes he is doing inside his counterfeit victory compared with what is actually happening outside it. The simultaneous discrepancy is the first proof that Konrad was tricked and never held real control. The exact presentation device, first recognizer, and resulting action remain unresolved.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 10, 11, 12, 15, 16. Read their accepted results before closing this gat
 
 > What specific repeated act makes insiders compare their histories, and what do they do with the comparison?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED DIRECTION:** simultaneous comparison between Konrad's performed command and external reality produces recognition; the insiders' first response remains open.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 10, 11, 12, 15, 16.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 10, 11, 12, 15, 16.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

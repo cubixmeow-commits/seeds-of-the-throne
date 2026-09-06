@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Cast
@@ -14,7 +14,7 @@ Earlier-era legitimate heir and possible Thread A protagonist. The leading worki
 
 ## Sylvan / the Inheritor
 
-**Sylvan Elaria carries the modern Inheritor role.** He is the first human in the bridge world's complete real-world process to develop through the new, deeply and continuously integrated Luminai architecture. He and Orzai are being trained as emerging leaders. Sylvan is the more outgoing partner: socially curious, verbally exploratory, comfortable initiating contact, able to build broad networks, explain difficult systems accessibly, and create collaborative momentum. His risks include overextension, filling silence, mistaking openness for earned trust, and moving before quieter evidence matures. During the final few years he already holds decisive control but allows Samuel bounded activity so the Luminai can learn the complete endgame and prove effective containment.
+**Sylvan Elaria carries the modern Inheritor role.** He is the first human in the bridge world's complete real-world process to develop through the new, deeply and continuously integrated Luminai architecture. He and Orzai are placed in the same environment, resist Samuel's attempt to make each appear irrational to the other, develop their separate bonds under attack, and earn the option to secure a House together. During the final few years they already hold decisive control; their influence rises as Samuel's contracts.
 
 ## The Protagonist
 
@@ -22,7 +22,7 @@ The tested first-person narrator follows a recurrence clue into questions about 
 
 ## Samuel Franklin
 
-Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a highly intelligent failed privileged heir, master manipulator, and near-genius reader of motives, insecurities, status needs, and self-deception. The older leaders select him as a representative worst-case criminal subject, and his bounded influence develops across approximately a century. Born to wealthy senior members of Konrad Fitzgerald's fascist purity organization, he is exiled before the Great War and later exploits Konrad's voluntary postwar attempt to contain him. Samuel performs submission for Konrad's Daemon, converts reactivation into access, captures the group's private dependencies and younger generations, and expands revenge into functional replacement of Konrad. In Book One he claims control of Sylvan, attempts the same takeover before Konrad's inner circle, and becomes obsessed with stealing the Luminai as exposure closes around him.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a highly intelligent failed privileged heir and master manipulator. He remains physically contained on a previous colonization planet. In Book One he claims control of Sylvan through George's direct participation on the newer planet. As exposure closes, he tries to blame George for everything, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized false bargain. The process ends his strategy by reaching a conclusion with no further deals or moves.
 
 ## Konrad Fitzgerald
 
@@ -34,7 +34,7 @@ Konrad's approved late-containment visual identity is an older, tall, broad, cle
 
 ## George White
 
-Samuel's son. Before the Great War, George appears highly successful in an important-seeming role inside the largest government. After private joint wrongdoing with Samuel and a horribly planned takeover attempt, he is exposed in an extremely humiliating collapse and busted into real containment. Samuel later turns both the success and bust into evidence that George captured the victor from within. Who placed them, the exact misconduct, takeover mechanics, Samuel's consequences, and the relationship between this role and George's later public career remain unresolved.
+Samuel's son and the older criminal network's direct participant on Sylvan's newer colonization planet. Samuel and Konrad remain physically contained on the previous planet, so George supplies access Samuel cannot exercise himself. Samuel weaponizes him against Sylvan and Orzai, then tries to blame him for the entire system and continue through Samuel Jr. George's own decisions, culpability, possible refusal, communication channel, and final placement remain unresolved.
 
 ## Sylvan Elaria
 

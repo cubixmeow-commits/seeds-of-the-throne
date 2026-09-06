@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 09
 title: Great War defeat and refusal to exit
 gate: What exactly would lawful exit have done to Konrad’s authority and to the people under him?
 prerequisites: 02, 03, 08
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 09 · Great War defeat and refusal to exit
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Make the historical hinge a real choice with a defined lawful alternative.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+After the Great War, Konrad is caught. Lawful exit means accepting defeat, probably losing control of his group, and returning to an ordinary life defined by failed leadership. Remaining is a dangerous wager through which he hopes to make every failure appear to have led to victory. Exact postwar terms, retained authority, and the choices available to individual followers remain open.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 02, 03, 08. Read their accepted results before closing this gate. Open 
 
 > What exactly would lawful exit have done to Konrad’s authority and to the people under him?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** lawful exit ends Konrad's exceptional claim and probably costs him control of the group; the exact legal and social circumstances remain open.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 02, 03, 08.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 02, 03, 08.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

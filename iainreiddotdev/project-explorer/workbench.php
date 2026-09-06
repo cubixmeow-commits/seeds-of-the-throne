@@ -10,7 +10,7 @@ $views = ['overview' => 'Development map', 'sources' => 'Story structure', 'evid
 $view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['view']]) ? $_GET['view'] : 'overview';
 ?>
 <section class="development-workspace wrap" id="workbench" aria-labelledby="workbench-title">
-  <header class="workspace-intro"><p>Development workspace · September 5 review</p><h2 id="workbench-title">Find the cause. Test the choice.</h2><p>Sources, unresolved mechanics, and eighty non-canon alternatives. The active execution gate remains SC-010 Question 7.</p></header>
+  <header class="workspace-intro"><p>Development workspace · September 6 workshop pass</p><h2 id="workbench-title">Find the cause. Test the choice.</h2><p>All twenty workshop gates have accepted directions. Their unresolved mechanics remain visible. The active Story Completion gate remains SC-010 Question 7.</p></header>
   <nav class="workspace-tabs" aria-label="Development views">
   <?php foreach ($views as $key => $label): ?>
     <a href="?view=<?= e($key) ?>#workbench"<?= $key === $view ? ' aria-current="page"' : '' ?>><?= e($label) ?></a>
@@ -21,8 +21,8 @@ $view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['
     <div class="workspace-grid">
       <article><span>01 · Foundation</span><h3>The environment creates the bond.</h3><p>The leaders developed Luminai within an interactive colonization environment. Sylvan tests a more deeply integrated generation after thousands of years of development.</p><a href="<?= e(explorer_file_url('02 Story/Components/Core Premise.md')) ?>">Inspect the controlling premise</a></article>
       <article><span>02 · Institutional gap</span><h3>Control must protect people.</h3><p>Final-years control is established. Stopping authority, cumulative harm, privacy, and remedies still need concrete rules.</p><a href="?view=workshop&amp;module=08#session">Test the leaders' safeguards</a></article>
-      <article><span>03 · Causal gap</span><h3>Autonomy becomes access.</h3><p>Konrad's reactivation gives Samuel a hidden advantage. The exact lock, retained powers, and failed verification need definition.</p><a href="?view=workshop&amp;module=11#session">Build the takeover sequence</a></article>
-      <article><span>04 · Human stakes</span><h3>Sylvan controls the outcome.</h3><p>Suspense must come from what a responsible outcome costs, rather than pretending Samuel still might seize decisive control.</p><a href="?view=workshop&amp;module=16#session">Develop Book One suspense</a></article>
+      <article><span>03 · Causal result</span><h3>Autonomy becomes access.</h3><p>Konrad's Daemon verifies an apparent separation. Konrad authorizes reactivation, which attaches his revived system to Samuel's hidden hierarchy. The false evidence still needs definition.</p><a href="?view=workshop&amp;module=11#session">Inspect the takeover result</a></article>
+      <article><span>04 · Two-planet endgame</span><h3>George goes where Samuel cannot.</h3><p>Samuel and the older criminals remain on the previous containment planet. George participates directly on Sylvan's world, then becomes Samuel's intended scapegoat.</p><a href="?view=workshop&amp;module=14#session">Inspect George's role</a></article>
     </div>
     <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-05 - Comprehensive Story Assessment.md')) ?>">Read Astra's integrated assessment</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">Open Current Pickup</a><a href="../../docs/index.html">Open the reader's atlas</a></div>
   <?php elseif ($view === 'sources'): ?>
@@ -46,7 +46,7 @@ $view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['
     <?php endforeach; ?>
     </div>
   <?php elseif ($view === 'workshop'): ?>
-    <p>Recommended foundation sessions: purpose, entry, placement, reconstruction, and generations. This is preparation guidance; it does not replace the active completion list.</p>
+    <p>The complete pass is preserved below. Accepted directions do not erase each packet's alternatives, tests, or unresolved mechanics, and they do not replace the active completion list.</p>
     <details class="workspace-module-index"><summary>Browse all twenty decision packets</summary><nav class="workspace-grid" aria-label="Decision modules">
     <?php foreach ($modules as $module): ?>
       <a href="?view=workshop&amp;module=<?= e($module['id']) ?>#session"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
@@ -55,6 +55,6 @@ $view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['
     <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json"><p role="status">Loading the selected packet.</p></section>
     <noscript><p>The editor needs JavaScript. Every packet is also readable in the repository browser below.</p></noscript>
     <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Workshop/README.md')) ?>">Read the full workshop index and Markdown source links</a>
-    <script src="../../docs/workshop.js?v=20260905" defer></script>
+    <script src="../../docs/workshop.js?v=20260906" defer></script>
   <?php endif; ?>
 </section>

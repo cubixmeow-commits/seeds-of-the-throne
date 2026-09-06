@@ -48,6 +48,10 @@ The working world includes distributed computation, sensing, responsive environm
 
 Specific wireless power methods, biological interfaces, latency, outage behavior, and safety mechanisms are research proposals. [Explore the evidence](research.html).
 
+## Spoilers: two planets, one active contest
+
+Samuel, Konrad, and the older criminals from their generation remain physically contained on a previous colonization planet. They are not standing somewhere unseen on Sylvan's newer world. George can participate directly on the new planet and becomes the living operational bridge Samuel needs. The exact cross-planet communication, permissions, evidence, and refusal rules remain in development.
+
 ## Spoilers: the leaders must also answer
 
 Samuel's history raises a difficult institutional question. If the leaders could observe a dangerous man for so long, which harms could they prevent, and why did they not prevent them?

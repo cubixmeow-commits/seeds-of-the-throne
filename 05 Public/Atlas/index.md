@@ -32,11 +32,11 @@ The technology expands what people can do. It does not supply their values, excu
 
 ## Spoilers: where Book One begins
 
-Book One opens near the chronological end. During the final few years, Sylvan already has decisive control of the conclusion. He permits Samuel Franklin bounded activity so the Luminai can understand Samuel's final adaptations.
+Book One opens near the chronological end. During the final few years, Sylvan and Orzai already have decisive control of the conclusion. Samuel Franklin's influence steadily contracts while theirs grows, but his remaining choices let the Luminai understand his final adaptations.
 
-Samuel believes he can still turn apparent access into ownership. The outcome presentation exposes what he did to Konrad Fitzgerald's group. Later books return to experience the Great War and the takeover as lived history.
+Samuel and Konrad remain physically contained on a previous colonization planet. George participates directly on the newer world and supplies the access Samuel cannot have himself. The outcome presentation exposes what Samuel did to Konrad Fitzgerald's group and ends when there are no more deals and no more moves. Later books return to earlier history in whatever order creates the strongest drama.
 
-The open dramatic question is what Sylvan can still lose while controlling the outcome: trust, an ethical result, a victim's cooperation, or a fair account of what happened. Those are workshop alternatives, not selected answers.
+What remains at stake is not decisive control. Sylvan and Orzai can still lose trust, safety, evidence, ethical legitimacy, and the House-level future they are trying to qualify for.
 
 ## Development checkpoint
 

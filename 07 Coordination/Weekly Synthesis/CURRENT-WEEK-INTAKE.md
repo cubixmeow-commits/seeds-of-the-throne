@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Modules 08–20 accepted in one batch
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]
+- **Type:** decision / dependency / contradiction / public-development
+- **Possible relationship:** SC-003, SC-004, SC-007 through SC-020, SC-026
+- **Signal:** The completed causal pass establishes embedded rules, Konrad's false bargain and reactivation, the two-planet George bridge, Sylvan–Orzai partnership and House qualification, declining Samuel influence, comparative inner-circle recognition, a scapegoat-and-deal endgame replacing literal Luminai theft, procedural finality, and flexible later-book order.
+
 ### 2026-09-06 — Workshop Module 07 environment commitment accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 07 Environment Commitment Draft]]

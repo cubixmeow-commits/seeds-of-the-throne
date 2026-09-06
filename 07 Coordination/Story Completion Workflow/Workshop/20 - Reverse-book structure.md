@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted-flexible
 module: 20
 title: Reverse-book structure
 gate: What does Book One conclusively settle, and what deeper human question makes the first earlier-era book necessary?
 prerequisites: 09, 11, 13, 16, 17, 19
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 20 · Reverse-book structure
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Give Book One a complete present story while later books remain lived drama.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its flexible ordering rule was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Book One begins near the chronological end and later books dramatize earlier history, but their order will be determined during development according to what is most entertaining. The series is not committed now to a mechanical reverse sequence. Each earlier era must supply its own dramatic question rather than merely illustrate evidence already summarized.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 09, 11, 13, 16, 17, 19. Read their accepted results before closing this
 
 > What does Book One conclusively settle, and what deeper human question makes the first earlier-era book necessary?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED FLEXIBILITY:** choose the next era, viewpoint, and backward step according to dramatic value as the series develops; specific order remains intentionally deferred.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 09, 11, 13, 16, 17, 19.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 09, 11, 13, 16, 17, 19.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

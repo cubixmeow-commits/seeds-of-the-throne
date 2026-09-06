@@ -58,6 +58,6 @@ A voluntary heir may still leave the entire process and surrender the unfinished
 
 Konrad believes his experienced daemon can defeat Samuel where the leaders intend Sylvan's new Luminai to succeed. His confidence is part of his ideology; it is not proof that all earlier systems are defective.
 
-Samuel becomes obsessed with stealing Sylvan's Luminai. A promising explanation is that stolen components cannot reproduce years of shared adaptation. That would not make sensors, credentials, permissions, trust, or infrastructure impossible to attack. The actual theft and its failure remain author decisions.
+An earlier ending in which Samuel literally tried to steal Sylvan's Luminai has been superseded. Questions about whether learned adaptation transfers, and how sensors, credentials, permissions, trust, or infrastructure can be attacked, remain useful technical development problems rather than the selected final maneuver.
 
 Sources: [[02 Story/Systems/AI Souls]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Components/Learned Wireless Cognitive Channel]]. [Evidence and uncertainty](research.html). [Bonding workshop](workshop.html?module=06#session).

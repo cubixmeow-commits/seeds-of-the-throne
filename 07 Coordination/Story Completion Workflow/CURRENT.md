@@ -1,14 +1,14 @@
 ---
 type: workflow-state
 status: active
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Current Story Completion State
 
 ## Supporting workshop, not an answered gate
 
-The [[07 Coordination/Story Completion Workflow/Workshop/README|September 5 workshop]] expands dependency-aware brainstorming. Modules 01 through 07 are author-accepted; Module 08 is next in workshop dependency order. The workshop has not advanced any story-completion checkbox. Resume SC-010 Question 7 whenever the author returns to that workflow thread.
+The [[07 Coordination/Story Completion Workflow/Workshop/README|September 5 workshop]] expands dependency-aware brainstorming. All twenty modules now have author-accepted results, including intentional deferrals recorded as open mechanics. The workshop has not advanced any story-completion checkbox. Resume SC-010 Question 7 whenever the author returns to that workflow thread.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 

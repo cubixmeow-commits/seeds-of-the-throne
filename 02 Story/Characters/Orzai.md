@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-08-23
+updated: 2026-09-06
 character: Orzai
 roles: emerging colonization leader, granddaughter of both founder couples, Sylvan's intended partner
 ---
@@ -15,9 +15,13 @@ Orzai is one of the two granddaughters descended from both founder couples of th
 
 **Established:** Orzai and Sylvan are both being trained as emerging leaders in the larger colonization process. Orzai is somewhat more reserved and introverted than Sylvan, and their temperaments complement one another extremely well.
 
+**Established relationship path:** they are placed in the same environment, meet, and choose to partner despite Samuel's attempt to make each appear irrational to the other. Their trust and separate Luminai bonds develop under shared attack. Once both understand that they face the same enemy, they coordinate without merging authority, complete the process, and earn the option to secure a House together.
+
+During the final years Orzai shares decisive practical control with Sylvan. Her influence increases as Samuel's contracts. Her contribution is not emotional support for Sylvan's victory; her independent perception, bond, judgment, and qualification are part of why Samuel's separation strategy fails.
+
 **Established:** Orzai develops interests and capability across health, nutrition, creative design, video, and 3D modeling during a rapidly changing surface era analogous to approximately 2015–2020.
 
-Her exact age, parent branch, education, employer, first professional medium, first meeting with Sylvan, knowledge of the Witness evidence, Luminai development, and final leadership role remain unresolved.
+Her exact age, parent branch, education, employer, first professional medium, exact first meeting and trust crisis with Sylvan, knowledge of the Witness evidence, Luminai development, and final House role remain unresolved.
 
 ## Emerging-leader formation
 

@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 11
 title: Exact takeover lock
 gate: Which single action changes Samuel’s authority when Konrad reactivates the group?
 prerequisites: 07, 09, 10
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 11 · Exact takeover lock
@@ -14,7 +15,13 @@ updated: 2026-09-05
 
 Choose one legible hinge that grants durable advantage without owning people.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Konrad's experienced Daemon examines the proposed arrangement and reports that separation and dominance appear genuine. Konrad then authorizes reactivation of his people, hierarchy, programs, records, and infrastructure. Because the separation is false, reactivation places them inside Samuel's actual containment sphere. The precise false evidence, Daemon failure, and timing of control remain unresolved.
+
+`performed vulnerability → false autonomy offer → Daemon verification → Konrad authorization → reactivation → hidden attachment`
 
 ## Relevant source notes
 
@@ -41,7 +48,7 @@ Modules: 07, 09, 10. Read their accepted results before closing this gate. Open 
 
 > Which single action changes Samuel’s authority when Konrad reactivates the group?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** Konrad's authorization of reactivation is the legible hinge that attaches the revived system to Samuel's hidden hierarchy.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +87,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 07, 09, 10.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 07, 09, 10.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

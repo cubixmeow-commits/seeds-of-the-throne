@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 19
 title: Accountability, consequences and final placement
 gate: What decisions close Book One for individuals, the criminal structures and the institution itself?
 prerequisites: 03, 08, 12, 14, 18
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 19 · Accountability, consequences and final placement
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Prevent either last-minute cooperation or ancestry from determining total human worth.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central resolution was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Samuel is neutralized when the process reaches an irreversible conclusion and there are no deals and no more moves. He cannot sacrifice George, bargain through Samuel Jr., exchange leverage, restructure the contest, or reopen placement. His accumulated record determines the outcome. Exact placement, restitution, victim privacy, descendant independence, and differentiated accountability remain open.
 
 ## Relevant source notes
 
@@ -42,7 +47,7 @@ Modules: 03, 08, 12, 14, 18. Read their accepted results before closing this gat
 
 > What decisions close Book One for individuals, the criminal structures and the institution itself?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED CENTER:** closure means irreversible procedural finality for Samuel. Individual remedies and placements remain separate author decisions.
 
 ## Possibilities and tradeoffs
 
@@ -81,14 +86,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 03, 08, 12, 14, 18.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 03, 08, 12, 14, 18.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

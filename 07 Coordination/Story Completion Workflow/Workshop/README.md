@@ -6,7 +6,7 @@ updated: 2026-09-06
 
 # Story-development workshop
 
-Twenty decision packets address the missing causes in this story. Eighty alternatives began as non-canon proposals. Modules 01 through 07 are now author-accepted; later gates remain open. No story task has been marked complete through the workshop.
+Twenty decision packets address the missing causes in this story. Eighty alternatives began as non-canon proposals. All twenty modules now have author-accepted results; intentionally deferred implementation questions remain labeled inside the packets. No Story Completion task has been marked complete through the workshop.
 
 ## Start without losing the active thread
 
@@ -22,7 +22,7 @@ For a short mobile session: choose one packet, read its central gate, write an a
 4. **04 · Reconstruction:** determines which costs are real, what can change, and whom safeguards protect.
 5. **05 · Luminai generations:** resolves what the comparative test can show and prevents a silent implant-model substitution.
 
-The first seven modules are author-accepted. Module 08 is next in dependency order and remains a high-impact safety and institutional-authority dependency alongside Module 15. The exact takeover in 11 and the exposure in 18 depend on them.
+The full causal pass is complete. The accepted answers define the governing structure, Konrad's bargain, George's cross-planet role, Sylvan and Orzai's partnership, declining endgame influence, the inner circle's recognition, Samuel's final attempted deal, procedural finality, and flexible later-book order. Open mechanics should now be developed from those constraints rather than reopening the accepted gates.
 
 ## Dependency order
 

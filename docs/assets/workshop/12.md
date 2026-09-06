@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 12
 title: Generational harm and succession capture
 gate: Which individual path will make the generational takeover emotionally and causally visible?
 prerequisites: 08, 09, 11
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 12 · Generational harm and succession capture
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Keep decades of coercion attached to individual lives and choices.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Konrad's adult grandson makes the generational capture visible. Samuel coerces him into a female-coded public role intended to humiliate him under Konrad's ideology, forces a relationship with Samuel's grandson, and draws him into a compromise-and-blackmail organization. Samuel's grandson descends from unauthorized use of George and Konrad's daughter within the captured breeding program. The evil is coercion, reproductive abuse, imposed identity, forced relationship, humiliation, blackmail, and instrumentalization—not femininity, nonconformity, consensual behavior, or ancestry.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 08, 09, 11. Read their accepted results before closing this gate. Open 
 
 > Which individual path will make the generational takeover emotionally and causally visible?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** Konrad's adult grandson carries the human-scale path; the boundary between coerced participation and knowing facilitation remains open.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 08, 09, 11.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 08, 09, 11.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

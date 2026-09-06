@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 08
 title: Leader safeguards and institutional legitimacy
 gate: What independent authority can stop or overrule the leaders and Sylvan when the process harms people?
 prerequisites: 01, 02, 03, 07
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 08 · Leader safeguards and institutional legitimacy
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Make the real leaders’ difference visible in what constrains them.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+The governing rules are embedded in the colonization process itself. Participants, Luminai, Daemons, Sylvan, and the older leaders cannot simply redefine the controlling rules of an assigned environment from inside it. Exact enforcement, appeal, emergency intervention, and independent review remain unresolved; embedded authority identifies where the constraint resides without proving every safeguard legitimate.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 01, 02, 03, 07. Read their accepted results before closing this gate. O
 
 > What independent authority can stop or overrule the leaders and Sylvan when the process harms people?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED DIRECTION:** the process's embedded rules constrain every internal actor. The external legitimacy and intervention mechanism remains a narrower open design question.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 01, 02, 03, 07.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 01, 02, 03, 07.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

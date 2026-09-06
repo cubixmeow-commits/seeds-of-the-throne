@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 15
 title: Bounded observation
 gate: What may Samuel still choose, and which attempted consequence is physically or institutionally impossible?
 prerequisites: 07, 08, 11, 13
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 15 · Bounded observation
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Specify what remains adaptive after decisive control without treating people as experimental material.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Samuel's influence progressively lessens while Sylvan and Orzai's influence increases as the conclusion approaches. Samuel retains enough bounded choice to reveal how he adapts, but his ability to create new harm contracts. Sylvan and Orzai already control the decisive conclusion; the exact stopping thresholds and third-party protections remain open.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 07, 08, 11, 13. Read their accepted results before closing this gate. O
 
 > What may Samuel still choose, and which attempted consequence is physically or institutionally impossible?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED DIRECTION:** adaptive choices remain observable while practical influence transfers away from Samuel; the exact prohibited consequences remain a narrower open design problem.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 07, 08, 11, 13.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 07, 08, 11, 13.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 

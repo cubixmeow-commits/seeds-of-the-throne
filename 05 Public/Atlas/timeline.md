@@ -16,10 +16,12 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 1. The leaders create an interactive colonization environment and develop Luminai within it. The new development program spans thousands of years.
 2. Samuel's earlier path into containment gives him structural priority in the relevant later hierarchy. His precise entry sequence needs reconciliation.
 3. Konrad's conquest project produces the Great War and defeat. His daemon learns through the war.
-4. Konrad refuses to leave and accepts Samuel's false autonomy promise, reactivating his group inside the shared environment.
+4. Konrad refuses an exit that would force him to accept failure. Samuel performs vulnerability, offers false autonomy, and lets Konrad's Daemon verify the appearance. Konrad authorizes reactivation inside Samuel's actual structure.
 5. Samuel captures institutions, succession, interpretation, and generations of the group. Konrad eventually occupies an isolated fantasy of future victory.
-6. Sylvan's earlier struggle develops into decisive control during the final few years. Samuel's remaining activity is bounded observation.
-7. Samuel repeats his takeover method before the inner circle, becomes desperate to steal Sylvan's Luminai, and is exposed through the outcome presentation.
+6. Samuel, Konrad, and the older contained generation remain on the previous planet. George participates directly on the newer planet where Sylvan and Orzai meet, resist manufactured distrust, and develop their Luminai bonds.
+7. Sylvan and Orzai reach decisive control. Their influence rises while Samuel's remaining influence contracts under bounded observation.
+8. The inner circle compares Konrad's counterfeit command with external reality and realizes he never held control.
+9. Samuel tries to blame George, continue through Samuel Jr., and trap Sylvan with another false bargain. The outcome presentation ends his strategy when no deals or moves remain.
 
 ## Spoilers: reader sequence
 
@@ -32,6 +34,6 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 
 ## Avoid a predetermined procession
 
-Knowing the broad ending need not reveal who helped, who refused, what was misunderstood, or what was lost. Later books need local goals whose resolution still matters. A historical event should change the reader's understanding, rather than repeat an explanation at greater length.
+Knowing the broad ending need not reveal who helped, who refused, what was misunderstood, or what was lost. Later books need local goals whose resolution still matters. Their exact order is intentionally flexible: development will select whichever return to the past is most entertaining and dramatically necessary.
 
 Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Narrative workshop](workshop.html?module=20#session).

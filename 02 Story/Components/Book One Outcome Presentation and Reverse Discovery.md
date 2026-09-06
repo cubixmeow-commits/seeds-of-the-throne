@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 topics: Book One, outcome presentation, reverse chronology, containment proof, psychological thriller
 ---
 
@@ -11,11 +11,17 @@ topics: Book One, outcome presentation, reverse chronology, containment proof, p
 
 Book One begins near the chronological end of the Samuel-Konrad conflict. Later books move backward into the history the first book exposes: Samuel's exile, the Great War, Konrad's refusal to exit, the reactivation of his group, the long takeover, and the construction of the False Victory.
 
-The series does not simply reveal a hidden answer and then repeat it. Book One shows Samuel's method failing against Sylvan. Later books let the reader experience how the same method once succeeded against Konrad.
+The series does not simply reveal a hidden answer and then repeat it. Book One shows Samuel's method failing against Sylvan. Later books let the reader experience how the same method once succeeded against Konrad. Their order will be chosen during development according to dramatic value rather than locked into a mechanical reverse sequence.
+
+## Two-planet endgame geometry
+
+Samuel, Konrad, and the older contained criminals from Samuel's generation remain physically contained on a previous colonization planet. They are not physically present on Sylvan's newer planet. George can participate directly on the new planet and therefore performs the physical role Samuel cannot. Exact communication, permissions, delay, and interplanetary presentation mechanics remain open.
 
 ## Starting condition
 
-During the final few years, Sylvan already possesses decisive control of the relevant conclusion process. Samuel does not know or accept this. Sylvan permits bounded activity because the Luminai still needs to observe Samuel's final adaptive behavior, map remaining dependencies, distinguish coercion from agency, and assemble evidence fit for the outcome presentation.
+During the final few years, Sylvan and Orzai already possess decisive control of the relevant conclusion process. Samuel does not know or accept this. They permit bounded activity because their Luminai still need to observe Samuel's final adaptive behavior, map remaining dependencies, distinguish coercion from agency, and assemble evidence fit for the outcome presentation.
+
+Samuel's influence progressively contracts while Sylvan and Orzai's grows. This is a controlled transfer of practical influence, not a period in which they are still trying to win decisive control. Samuel retains enough choice to expose his method while the process increasingly limits the consequences he can produce. Exact stopping thresholds and third-party safeguards remain open.
 
 Samuel interprets the remaining freedom as proof that he controls Sylvan. That error keeps him acting.
 
@@ -36,25 +42,29 @@ In front of Konrad's inner circle, Samuel attempts the same takeover pattern he 
 
 The inner circle recognizes the repetition before Konrad does. The live attempt against Sylvan becomes a discovery method for reconstructing what happened to them.
 
-## Samuel's final obsession
+## Samuel's final attempted deal
 
-As the exposure becomes public, Samuel becomes obsessed with stealing Sylvan's Luminai. He believes possession of it will prove his godhood, restore his authority, solve the technical failures of his network, and let him rewrite the outcome.
+The earlier literal-Luminai-theft endgame is superseded. As exposure becomes unavoidable, Samuel tries to place responsibility for his entire system onto George, discard George as the visible cause, and preserve a future route through Samuel Jr.
 
-**Proposed explanation:** Samuel mistakes a learned relationship for an ownable control object. Stealing components may not reproduce the bond developed with Sylvan. The precise theft target and failure mechanism require author approval; this does not rule out other vulnerabilities. His obsession still reveals his drive to convert relationships into ownership.
+Samuel then tries to induce Sylvan to accept a new deal. The offer must be unique to Sylvan's circumstances, but the method repeats the trap used against Konrad: perform vulnerability, offer cooperation or apparent autonomy, conceal the real hierarchy, and obtain voluntary access that can later be converted into control. Sylvan and the Luminai have spent years learning this method. The exact terms remain open.
+
+The transferability of learned bonds and other Luminai vulnerabilities remain valid system-development questions. They are no longer the selected final maneuver.
 
 ## Discovery ladder
 
 The exact scenes remain open, but Book One requires this information order:
 
 1. Samuel appears to lead Konrad's group and claims control of Sylvan.
-2. Sylvan's bounded independence creates contradictions in that claim.
+2. Sylvan and Orzai's bounded independence creates contradictions in that claim.
 3. Samuel's corrections reveal that he is actively maintaining multiple realities.
 4. The inner circle recognizes the same promises, concessions, and reinterpretations used on them.
 5. Evidence connects the live pattern to postwar reactivation and the false autonomous group.
 6. Bloodline, succession, surveillance, and younger-generation evidence reveal the scale of Samuel's capture.
 7. Konrad's counterfeit victory becomes visible as containment within containment.
-8. Samuel's attempt to steal the Luminai proves desperation rather than control.
-9. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.
+8. Samuel tries to make George absorb the blame and preserve continuity through Samuel Jr.
+9. Samuel offers Sylvan a customized bargain that repeats the same concealed-access method.
+10. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.
+11. The process reaches irreversible conclusion: there are no further deals and no more moves.
 
 ## Outcome standard
 
@@ -71,8 +81,8 @@ Success is not simply Sylvan escaping or defeating Samuel. The presentation must
 
 - Book One viewpoint structure and whether Konrad's isolation is shown directly.
 - The number and scale of the final-years incidents.
-- The exact first contradiction noticed by the inner circle.
-- What Samuel believes “stealing” the Luminai technically requires.
+- The presentation device through which the inner circle compares Konrad's apparent command with external reality, who recognizes it first, and what they do.
+- The exact terms of Samuel's proposed deal with Sylvan and Samuel Jr.'s response.
 - The public, private, and protected layers of the outcome presentation.
 - Whether the Daemon is present, compromised, silent, or capable of recognizing its own failure.
-- The final consequences for Samuel, Konrad, their inner circle, and the younger generation.
+- The final placements, remedies, privacy protections, and differentiated accountability for Samuel, Konrad, George, their inner circle, victims, and descendants.

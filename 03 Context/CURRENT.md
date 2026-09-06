@@ -12,6 +12,14 @@ The foundation above follows explicit author correction. Older multi-planetary b
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
+## September 6 completed workshop pass
+
+All twenty workshop modules now have author-accepted results. Samuel, Konrad, and the older contained criminals remain on a previous colonization planet; George participates directly on Sylvan's newer planet and supplies the access Samuel cannot have physically. Sylvan and Orzai meet and complete their separate bonds under Samuel's attempted separation campaign, then earn the option to secure a House together.
+
+During the final years Samuel's influence contracts while Sylvan and Orzai's increases. The inner circle recognizes Konrad's deception by comparing his apparent command inside isolation with external reality. The literal Luminai-theft ending is superseded: Samuel scapegoats George, tries to preserve continuity through Samuel Jr., and offers Sylvan a customized version of the bargain that trapped Konrad. Samuel is finally neutralized when the process reaches irreversible conclusion and there are no deals and no more moves. Later-book order remains intentionally flexible and will be selected for entertainment and dramatic value.
+
+Source: [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]. SC-010 Question 7 remains active and unchanged.
+
 
 ## Foundational integration — 2026-09-03
 
@@ -23,7 +31,7 @@ The leaders have worked on the new Luminai development program for thousands of 
 
 **Central comparison:** Konrad refuses to exit after the Great War because he believes his experienced Daemon can contain Samuel, outperform Sylvan's new Luminai, redeem every failure, and restore Konrad's authority. Samuel's false autonomous-group offer induces Konrad to reactivate his people and systems inside Samuel's containment sphere. Konrad's attempt at domination gives Samuel the access required to capture the group.
 
-**Series architecture:** Book One begins near the chronological end. During the final few years, Sylvan already holds decisive control but allows Samuel bounded activity so the Luminai can learn the full endgame and prepare the outcome presentation. Samuel attempts the same takeover method against Sylvan before Konrad's inner circle; they recognize what happened to them before Konrad does. Later books move backward into the Great War, postwar reactivation, False Victory, and generational takeover.
+**Series architecture:** Book One begins near the chronological end. During the final few years, Sylvan and Orzai already hold decisive control while Samuel's influence steadily declines. Samuel attempts the same takeover method against Sylvan before Konrad's inner circle; they recognize what happened by comparing Konrad's counterfeit command with external reality. Samuel then scapegoats George, reaches toward Samuel Jr., and offers Sylvan a new false bargain. Later books return to earlier history in the order that produces the strongest drama.
 
 **Antagonist ecosystems:** Konrad's faction uses public hierarchy, militarization, purity, territory, bloodline, and conformity. Samuel's network uses private compromise, access, surveillance, shame, dependency, blackmail, and captured intermediaries. Both instrumentalize people. Fascist terms such as pollution or degeneracy remain antagonist ideology; consensual identity, sexuality, femininity, and mixed ancestry are never framed as corruption.
 

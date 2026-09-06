@@ -1,12 +1,20 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-23
+updated: 2026-09-06
 character: George White
 theme: awakening, weaponization, and consequence
 ---
 
 # George White — The Collapse of the Lie
+
+## 2026-09-06 cross-planet role
+
+**Established:** George's necessary function is physical access. Samuel, Konrad, and the older contained criminals from their generation remain physically on a previous colonization planet. George participates directly on Sylvan's newer planet and can therefore act inside Sylvan and Orzai's environment where Samuel cannot.
+
+George is not merely a generic remote proxy. His presence supplies the living operational bridge between the older containment structure and the successor process. Samuel can shape the agenda and try to exploit whatever communication and permissions remain, but George still makes decisions and retains responsibility for his own conduct. Exact communication, control, delay, and refusal mechanics remain open.
+
+**Established final betrayal:** when exposure closes in, Samuel attempts to attribute the entire criminal system to George, discard him, and move forward through Samuel Jr. George's disposability is therefore demonstrated through an actual scapegoating attempt rather than remaining only a threat.
 
 ## September 5 integration boundary
 
@@ -47,7 +55,7 @@ George's father is deliberately turning his son into a weapon intended for use a
 
 The father does not need George to understand the true colonization struggle. George's ignorance is part of the design. He needs George to possess enough apparent authority, information, technological power, and perceived justification to believe that destroying Sylvan is necessary.
 
-George is therefore positioned to perform an act his father cannot safely perform directly.
+George is therefore positioned to perform acts his father cannot perform directly because Samuel cannot physically enter the new colonization planet.
 
 The intended sequence is:
 

@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-03
+updated: 2026-09-06
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, original conquest leader, contained criminal
 ---
@@ -31,9 +31,9 @@ Konrad treats the defeat as training data, not disproof. If his Daemon can conta
 
 This creates his catastrophic sunk-cost engine. Each containment failure increases his need for the final victory that will supposedly redefine every failure. Samuel only has to keep the breakthrough appearing close enough to justify one more concession.
 
-Konrad accepts Samuel's promise of a separate autonomous domain and reactivates his Daemon, followers, hierarchy, infrastructure, breeding program, and bloodline systems inside the shared containment environment. He believes he is rebuilding the empire. He is creating Samuel's access path into it.
+Konrad has been caught after the Great War. Lawful exit would mean accepting defeat, probably losing control of his group, and returning to an ordinary life defined by failed leadership. Samuel presents himself as similarly fallen and in need of Konrad, then offers an apparently separate autonomous domain dominant over Samuel's group. Konrad's experienced Daemon examines the arrangement and confirms that it appears true. Konrad reactivates his Daemon, followers, hierarchy, infrastructure, breeding program, and bloodline systems inside the shared containment environment. He believes he is rebuilding the empire. He is creating Samuel's access path into it.
 
-At the Book One endgame, Konrad remains isolated inside a counterfeit victory and plans the empire he expects to receive after the final proof. His inner circle begins recognizing Samuel's takeover method before he does.
+At the Book One endgame, Konrad remains physically on the previous containment planet, isolated inside a counterfeit victory and planning the empire he expects to receive after the final proof. His inner circle sees what he believes he is doing beside what is actually happening and understands for the first time that he was tricked and never held control. They recognize this before Konrad does.
 
 See [[../Components/Bridge World and Luminai Initialization]], [[../Components/Book One Outcome Presentation and Reverse Discovery]], and [[../Groups/Konrad and Samuel Criminal Ecosystems]].
 

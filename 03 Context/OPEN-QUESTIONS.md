@@ -21,7 +21,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - Is Konrad's Great War Daemon continuous, rebuilt, or composite, and how does Samuel defeat its model of control?
 - What boundary lets Sylvan permit several years of meaningful adversarial behavior without allowing preventable harm?
 - Which live contradiction lets Konrad's inner circle recognize Samuel's repeated takeover method first?
-- What does Samuel think stealing Sylvan's Luminai requires, and why does the attempt fail visibly?
+- What customized bargain does Samuel offer Sylvan after scapegoating George, what route does he expect Samuel Jr. to preserve, and why does Sylvan refuse?
+- What can pass between the previous containment planet and Sylvan's newer planet, and what decisions remain independently George's?
 - How is the outcome presentation divided among public proof, protected evidence, individual accountability, and private descendant records?
 - How does George's maintained-reality and succession thread fit beneath the new Konrad-isolation and inner-circle discovery architecture?
 - What agency and responsibility belong to Konrad's adult grandson across his decades inside Samuel's compromise network?

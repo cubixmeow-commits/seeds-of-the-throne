@@ -71,7 +71,9 @@
       }catch(_){status.textContent='The file could not be read. Your existing draft is unchanged.';}
     });
     const toolbar=el('div',null,{class:'workshop-toolbar'});toolbar.append(exportButton,sourceButton);
-    root.append(label,select,heading,el('p','Author gate OPEN · All alternatives are proposals. Prerequisites: '+current.prerequisites),gate,el('label','Your answer and decision notes',{for:'workshop-answer'}),area,toolbar,status,el('label','Restore an exported answer',{for:'workshop-import'}),importInput,detail);
+    const accepted=String(current.status||'').startsWith('author-accepted');
+    const stateText=accepted ? 'Author gate accepted · Open mechanics remain labeled.' : 'Author gate open · All alternatives are proposals.';
+    root.append(label,select,heading,el('p',stateText+' Prerequisites: '+current.prerequisites),gate,el('label',accepted?'Further development notes':'Your answer and decision notes',{for:'workshop-answer'}),area,toolbar,status,el('label','Restore an exported answer',{for:'workshop-import'}),importInput,detail);
     if(focus)heading.focus();
   }
   fetch(root.dataset.source).then(r=>{if(!r.ok)throw Error('unavailable');return r.json();}).then(data=>{

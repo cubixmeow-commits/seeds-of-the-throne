@@ -38,10 +38,12 @@ His outgoing temperament also creates risks. He may overextend, fill silence bef
 
 ## Complementarity with Orzai
 
+**Established progression:** Sylvan and Orzai are placed in the same environment and have the opportunity to meet and partner. Samuel attempts to prevent the relationship by manipulating their information so each appears irrational to the other. The attempt fails. They build uncertain trust, choose partnership, recognize the shared enemy, and develop their separate human–Luminai bonds while being targeted. They successfully complete the process and earn the option to secure a House together. Each remains independently assessed; the relationship strengthens rather than substitutes for qualification.
+
 Orzai's reserved, introverted, deliberate style complements Sylvan's outgoing initiative. Sylvan opens conversations and creates broad participation; Orzai notices exclusions, stress-tests premises, protects the informational value of silence, and intervenes precisely. He helps reflection avoid isolation; she helps momentum avoid premature certainty.
 
 Neither is merely the other's missing half or assigned a permanent accelerator/brake role. Orzai may act first when sustained observation has already produced clarity, while Sylvan may be the one who slows a process to secure evidence or consent. Their relationship becomes strongest when independent judgment survives intimacy.
 
 Orzai's health/nutrition practice and her work in creative design, video, and 3D modeling create a natural but unresolved professional intersection with Sylvan's database-driven creative-development system. Her visual and spatial health projects could test, challenge, or use his platform, while her insistence that representation changes behavior can expose assumptions his software treats as neutral. Whether this is how they meet remains proposed.
 
-Open: inciting event, what reaches him from the Witness generation, Orzai's role in that transmission, what he knows on entry, what accepting the evidence costs him, his specific leadership failure, whether he is the sole primary narrator, and his ultimate placement.
+Open: the exact first meeting, first manufactured contradiction, trust crisis, what reaches him from the Witness generation, Orzai's role in that transmission, what he knows on entry, what accepting the evidence costs him, his specific leadership failure, whether he is the sole primary narrator, and whether they choose the House path they earn.

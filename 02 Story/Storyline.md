@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Storyline
@@ -16,15 +16,16 @@ The saga begins near the chronological end and reconstructs its causes across la
 4. Konrad Fitzgerald's public authoritarian hierarchy becomes a major threat in the older society and attempts global conquest in the Great War.
 5. Konrad trains an older Daemon through that war. When the faction loses, his experiment should end.
 6. Konrad refuses to exit. He believes the Daemon learned from defeat and can dominate Samuel, prove the old model superior to Sylvan's successor Luminai, redeem the war, and restore Konrad's authority.
-7. Samuel promises a separate autonomous group. Konrad reactivates his Daemon, followers, hierarchy, breeding program, bloodline systems, and infrastructure inside the shared containment environment.
+7. After being caught, Konrad faces an ordinary life defined by failure and probable loss of group control. Samuel performs matching vulnerability and promises a separate autonomous group dominant over his own. Konrad's Daemon verifies the apparent separation, and Konrad authorizes reactivation of his followers, hierarchy, breeding program, bloodline systems, and infrastructure inside what is actually Samuel's shared containment structure.
 8. Samuel performs compliance, converts reactivation into access, and conducts a generational takeover of Konrad's group through surveillance, compromise, blackmail, lineage manipulation, younger-generation capture, and controlled interpretation.
 9. Konrad becomes isolated inside a counterfeit victory while Samuel functionally replaces him as the group's active patriarch and claims its future.
-10. Sylvan enters the mature bridge world as the first deeply and continuously bonded human of the successor Luminai process. Across multi-year adversarial loops, changing environments let the pair study repeated attacks, adapt, reduce later harm, and carry new skills forward without receiving automatic rescue.
-11. During the last few years, Sylvan possesses decisive control but allows Samuel bounded activity so the Luminai can observe his complete endgame and prepare a valid outcome presentation.
-12. Samuel claims control of Sylvan and tries to repeat the Konrad takeover in front of Konrad's inner circle. They recognize the pattern first.
-13. Samuel's desperation shifts toward stealing Sylvan's Luminai, which he mistakes for an ownable superweapon capable of restoring every collapsing claim.
-14. The outcome presentation proves that Samuel's apparent control was bounded, exposes what he did to Konrad's group, and demonstrates why Sylvan's new bond succeeds where Konrad's experienced Daemon failed.
-15. Later books move backward into the Great War, postwar reactivation, False Victory, bloodline and ideological capture, and the lived history reconstructed in Book One.
+10. Samuel, Konrad, and the older contained generation remain physically on a previous colonization planet. George participates directly on Sylvan's newer planet and becomes the operational bridge through which Samuel can attack the successor process.
+11. Sylvan and Orzai meet inside the same environment. Samuel tries to make each appear irrational to the other, but they choose partnership, recognize the shared enemy, develop their separate human–Luminai bonds under attack, and earn the option to secure a House together.
+12. During the last few years, Sylvan and Orzai possess decisive control. Samuel retains bounded action, but his influence steadily declines while theirs increases so the Luminai can observe his complete endgame and prepare a valid outcome presentation.
+13. Samuel claims control of Sylvan and repeats the Konrad takeover pattern in front of Konrad's inner circle. By comparing Konrad's actions inside his counterfeit victory with external reality, they understand for the first time that Konrad was tricked and never held control.
+14. Samuel tries to blame George for everything, preserve his future through Samuel Jr., and induce Sylvan to accept a customized deal built from the same hidden-access method used against Konrad.
+15. The outcome presentation proves that Samuel's apparent control was bounded and exposes what he did to Konrad's group. The process then reaches irreversible conclusion: Samuel has no more deals and no more moves.
+16. Later books return to the Great War, postwar reactivation, False Victory, bloodline and ideological capture, and other lived history in whatever order produces the strongest dramatic experience.
 
 This spine supersedes any implication below that the principal series must begin before the Great War or move forward chronologically. Detailed older material remains useful where it does not conflict.
 

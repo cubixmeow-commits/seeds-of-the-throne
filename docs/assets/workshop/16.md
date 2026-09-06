@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 16
 title: Suspense under decisive control
 gate: Which outcome remains genuinely uncertain even while Samuel cannot seize the conclusion?
 prerequisites: 13, 14, 15
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 16 · Suspense under decisive control
@@ -14,7 +15,11 @@ updated: 2026-09-05
 
 Move uncertainty to bounded but consequential outcomes rather than faking a threat already excluded.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. Its central gate was author-accepted on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+Samuel cannot seize the conclusion, but George and Samuel can still threaten Sylvan and Orzai's relationship, evidence, judgment, safety, and eligibility for future placement. The pair must preserve independent agency, complete their bonds, protect other people, expose the historical system, and qualify for a House without abusing their growing advantage. These linked outcomes remain uncertain even though decisive control does not.
 
 ## Relevant source notes
 
@@ -41,7 +46,7 @@ Modules: 13, 14, 15. Read their accepted results before closing this gate. Open 
 
 > Which outcome remains genuinely uncertain even while Samuel cannot seize the conclusion?
 
-Ask this question alone during actual use. Do not ask every follow-up at once.
+**AUTHOR-ACCEPTED:** personal, evidentiary, ethical, relational, and placement outcomes remain at risk even though Samuel cannot take the final process outcome.
 
 ## Possibilities and tradeoffs
 
@@ -80,14 +85,14 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 13, 14, 15.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve or explicitly defer prerequisites 13, 14, 15.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
