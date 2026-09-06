@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-08-10
+updated: 2026-09-06
 themes: story functionality, public narrative, cover-up, sealed record, cult containment, first century, leadership training
 ---
 
@@ -12,6 +12,12 @@ themes: story functionality, public narrative, cover-up, sealed record, cult con
 Story functionality gives participants and contained leaders limited influence over how events are publicly interpreted. It is not unlimited reality control. It affects salience, explanation, reputation, institutional response, apparent coincidence, public biography, and the social meaning assigned to success and failure.
 
 The first century of colonization uses this functionality to contain and expose coercive movements while training legitimate heirs to recognize how charismatic leaders manipulate large populations.
+
+## Historical source and customization
+
+The public story is built from the larger humanity's own history. It can preserve major technological changes, a Great War period, and public roles based on people who actually existed while adapting their identities, sequence, timing, institutions, and circumstances for the purposes of the colonization process.
+
+This is reconstruction rather than reenactment. Historical information supplies pressures and patterns; it does not force current participants to repeat an original person's choices. Their decisions can change the resulting history, and the operational and sealed records must preserve those divergences.
 
 ## Three layers
 
@@ -160,4 +166,3 @@ Credible safeguards include:
 - What is the first visible sign that a public account has been artificially supported?
 - Can story influence be earned through legitimate trust as well as allocated by the hidden system?
 - What event triggers broad access to the sealed record?
-

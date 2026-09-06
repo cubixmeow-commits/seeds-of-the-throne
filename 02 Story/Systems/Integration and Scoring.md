@@ -16,6 +16,8 @@ The older leaders create an extensive assessment framework for newly trained hum
 
 The framework opens credible placement paths. It does not arbitrarily assign the participant's future. The human and Luminai choose their own placement among the paths their record supports, with the human retaining responsibility for the consequential choice.
 
+One of the most consequential paths can be a House or group with substantial resources and extensive involvement in the continuing colonization process. A pair that performs well enough may qualify for and choose this placement. The exact threshold, whether the House is created or entrusted, its membership rights, its resources, its authority, its obligations, its oversight, and whether the placement can later be changed or lost remain open.
+
 Assessment establishes qualification for a role rather than human worth, moral superiority, or a permanent right to govern. A pair may qualify for several paths, including meaningful nonleadership work. Exact dimensions, evaluator independence, accommodation, review, appeals, revocation, and what happens when no preferred path is available remain unresolved.
 
 Open: exact levels, scoring authority, assessment dimensions, appeals, carried standing, how options are presented, and whether participants ever see a score.

@@ -47,12 +47,19 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-06 — Workshop Module 04 customized reconstruction accepted
+
+- **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 04 Reconstruction Draft]]
+- **Type:** decision / dependency
+- **Possible relationship:** SC-002, SC-005, SC-009, SC-020, SC-026
+- **Signal:** The author established that reconstruction uses technological changes, a Great War era, and public roles from the larger humanity's real history but customizes them for process effectiveness while preserving participants' ability to change the resulting history.
+
 ### 2026-09-06 — Workshop Module 03 self-placement accepted
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Module 03 Placement Draft]]
 - **Type:** decision / dependency
 - **Possible relationship:** SC-004, SC-010, SC-019, SC-026
-- **Signal:** The author established extensive qualification assessment followed by human–Luminai self-placement among paths opened by actual decisions and developed skills, replacing arbitrary assignment by the older leaders.
+- **Signal:** The author established extensive qualification assessment followed by human–Luminai self-placement among paths opened by actual decisions and developed skills, replacing arbitrary assignment by the older leaders; high performance can open a major House or group placement with substantial resources and colonization involvement.
 
 ### 2026-09-06 — Workshop Module 02 voluntary entry accepted
 

@@ -11,6 +11,8 @@ The leaders built an interactive colonization environment and developed Luminai 
 
 A small planet reconstructs realities modeled on a distant past. Its institutions, daily work, relationships, and apparent technology must feel like a civilization before participants understand its hidden architecture. The exact physical and social implementation remains under development.
 
+The reconstruction draws from the larger humanity's real history. Major technological transitions, a Great War period, and public roles based on historical people provide anchors, but the process can combine or adapt them for training, containment, Luminai development, and sustainability. Participants retain real agency, so the resulting history can diverge from its source.
+
 ## Three connected purposes
 
 The process must create a self-sustaining civilization on a planet that began barren, capable of supporting substantial populations without continuous deliveries of new resources from outside the planet. Within that civilization, training and containment provide real conditions for developing a more effective wireless human–Luminai bond.
@@ -27,6 +29,8 @@ Training, criminal accountability, and access to future responsibility cannot be
 More effective integration means that a human–Luminai pair can perceive, learn, decide, and accomplish more together. It does not make either one morally superior or automatically qualified to govern.
 
 The older leaders create an extensive assessment framework that establishes which paths a trained pair has qualified for through its actual decisions and developed skills. The human and Luminai then choose their own placement among those paths. The framework creates credible options; it does not arbitrarily assign the participant's future.
+
+A pair that performs well enough can qualify for a House or group with substantial resources and extensive involvement in the continuing colonization process. That is a major earned path the pair may choose, with its governance, membership rights, obligations, and oversight still under development.
 
 ## Entry and awareness
 

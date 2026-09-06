@@ -56,6 +56,9 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - What entry, refusal, review, and exit rights apply separately to convicted participants and descendants born inside the process?
 - Which assessment dimensions open each placement path, who evaluates them independently, and how do review, appeal, accommodation, or later change work?
 - How are qualified paths presented so the human–Luminai pair can make an informed self-placement decision?
+- What qualifies a pair for a House or group, is that institution created or entrusted, and which resources, authority, obligations, member rights, oversight, review, and loss conditions accompany it?
+- Which historical events, people and technological transitions are preserved faithfully, which are combined or altered, and who authorizes changes?
+- Which historical harms may never be reenacted, and what protects people when participant choices move reconstruction beyond its planned path?
 - How do loving parental support and protective intervention remain available without becoming imperial favoritism?
 - Do hundreds of heirs form one cohort or several overlapping cohorts?
 - What future institution or covenant is the shared heir generation expected to form?

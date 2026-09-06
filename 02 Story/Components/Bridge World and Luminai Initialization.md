@@ -15,6 +15,12 @@ The author-established civilizational result combines planetary sustainability w
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
+## Customized historical reconstruction
+
+The world draws from the larger humanity's real history without replaying it literally. Major technological transitions, a Great War era, and public roles based on real historical people provide recognizable anchors. The process may alter, combine, resequence, or adapt identities, events, roles, institutions, and conditions when the change improves training, containment, Luminai development, or planetary sustainability.
+
+The environment supplies historically grounded conditions and public roles. Participants retain agency and can cause the reconstructed history to diverge. Earth is useful as a development analogy for this model but does not enter final story canon as the source civilization.
+
 “Bridge world” remains a useful working title for the generational transition. It does not establish that every older colony closes, or settle the scope and calendar of the multi-planetary background. Physical reconstruction, social agency, participant awareness, and synthetic experience require precise rules. The working physical-world model must preserve consequential lives rather than dismiss inhabitants as props.
 
 ## Why Samuel matters

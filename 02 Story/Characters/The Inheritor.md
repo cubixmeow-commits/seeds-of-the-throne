@@ -22,6 +22,8 @@ Sylvan's participation is voluntary. Like the other legitimate heirs, he can lea
 
 If he completes the process, the older leaders do not arbitrarily assign his future. His decisions and the skills developed with his Luminai establish the paths for which they qualify. Sylvan and the Luminai then choose their placement together, with Sylvan retaining responsibility for that consequential decision.
 
+If their assessment is strong enough, one available path may be a House or group with substantial resources and extensive involvement in colonization. This makes the outcome materially larger than a title or score. Whether Sylvan wants that path, what it requires, and what he would risk by accepting it remain open.
+
 ## Emerging-leader formation and personality
 
 **Established:** Sylvan and Orzai are both being trained as emerging leaders in the larger colonization process. Sylvan is the more outgoing of the two.

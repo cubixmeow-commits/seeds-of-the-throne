@@ -33,6 +33,8 @@ The legitimate heirs knowingly accept an opportunity to participate rather than 
 
 The right to leave prevents cultivation from becoming imprisonment. It also makes continued participation meaningful. An heir who stays is choosing the difficult self-made path while an inherited future remains available. Exact briefing, re-entry, stage-by-stage refusal, and the form of the final exchange remain open.
 
+A highly qualified human–Luminai pair may earn the option to establish or receive a House or group with substantial resources and a major role in the continuing colonization process. That path offers independently built institutional responsibility rather than a return to inherited office. It is chosen by the pair after assessment, not assigned arbitrarily by the older leaders.
+
 ## Why the older leaders waited
 
 ### They want their children to have lives larger than inherited office

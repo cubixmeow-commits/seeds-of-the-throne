@@ -24,6 +24,12 @@ Author addition:
 
 > Yes, one addition, it allows the human and Luminai to place themselves based on actual path decisions and skills instead of arbitrary placement by the older leaders
 
+Later author addition:
+
+> I want to make an update. I'm not sure which this would be placed in, but in the assessment phase, a human luminized pair that does good enough can be given a group or a house that comes with a lot of resources and involvement in the colonization process. That's a very big deal.
+
+Transcription normalization: “human luminized pair” is treated as a **human–Luminai pair**.
+
 Transcription normalization: “Lumina” is treated as the established term **Luminai**.
 
 ## Exact restatement — author-accepted
@@ -32,6 +38,8 @@ The placement process determines which roles and responsibilities a newly traine
 
 The assessment establishes credible options and consequences for self-placement. It does not determine a person's human worth, prove moral superiority, or grant an automatic permanent right to govern. The pair chooses together while preserving the established rule that the human retains responsibility for consequential decisions.
 
+For a pair that performs well enough, one available placement can be a House or group with substantial resources and extensive involvement in the continuing colonization process. This is a major earned opportunity rather than an automatic reward. Its threshold, structure, membership rights, resources, authority, oversight, and responsibilities remain unresolved.
+
 ## Workshop interpretation
 
 - **Selected direction:** participant self-placement within role-specific qualifications established through extensive assessment.
@@ -39,6 +47,7 @@ The assessment establishes credible options and consequences for self-placement.
 - **Institutional role:** the older leaders create and maintain the placement and assessment framework rather than choosing each future arbitrarily.
 - **Participant role:** the human–Luminai pair chooses its own path from the options it has credibly qualified for.
 - **Authority boundary:** the pair chooses together while the human retains responsibility for consequential decisions.
+- **High-level placement:** sufficient performance can open the option to receive or establish a House or group with substantial resources and a major role in colonization.
 
 ## Scene test — non-canon
 
@@ -57,12 +66,17 @@ A brilliant coercive operator could produce orderly outcomes. The placement proc
 - Can a placement be provisional, appealed, changed, or revoked?
 - How are different levels or kinds of Luminai integration accommodated fairly?
 - What happens when a pair qualifies for several paths or for none of its preferred paths?
+- Does the qualified pair establish a new House, inherit stewardship of an existing group, or choose between those forms?
+- What resources, authority, obligations, membership rights, and oversight accompany a House-level placement?
+- What performance threshold makes this placement available, and can it later be reviewed or lost?
 
 ## Compound Writing adaptation test
 
 ### Tracks pass
 
 The author's answer and addition contain no development-process residue. The restatement preserves the older leaders, extensive assessment, training, bonding, qualification, self-placement, and rejection of arbitrary assignment. The workshop analysis remains outside the proposed canonical statement.
+
+The later House addition belongs in the result because it supplies a concrete example of what qualified self-placement can unlock. The explanatory phrase “That's a very big deal” becomes specific consequences: substantial resources and extensive involvement in colonization.
 
 ### Pressure-turn placement
 

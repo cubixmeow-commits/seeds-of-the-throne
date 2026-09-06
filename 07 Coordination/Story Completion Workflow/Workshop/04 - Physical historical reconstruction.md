@@ -1,11 +1,12 @@
 ---
 type: workshop-module
-status: proposed-options-author-gate-open
+status: author-accepted
 module: 04
 title: Physical historical reconstruction
 gate: What does reconstruction reproduce faithfully, and what is allowed or required to change?
 prerequisites: 01, 02
-updated: 2026-09-05
+updated: 2026-09-06
+accepted: 2026-09-06
 ---
 
 # 04 · Physical historical reconstruction
@@ -14,7 +15,15 @@ updated: 2026-09-05
 
 Make the concealed advanced world compatible with real bodies, history, and consequences.
 
-This packet supports the existing Story Completion Workflow. It does not advance a checklist or settle canon. All alternatives below are PROPOSED; the gate is OPEN. Central synthesis: Astra, reviewed for integration on September 5.
+This packet supports the existing Story Completion Workflow. The author accepted the result below on September 6. The original alternatives remain preserved as development history. Central synthesis: Astra, reviewed for integration on September 5.
+
+## Accepted result
+
+The reconstruction creates a customized version of history drawn from the larger humanity. It faithfully uses major technological transitions, a Great War period, and public characters or roles based on people who actually existed in that civilization. The colonization process may alter, combine, sequence, or adapt those events and roles when doing so makes training, containment, Luminai development, or planetary sustainability more effective.
+
+The reconstruction preserves historical information and recognizable pressures without requiring a literal replay. It creates the conditions and public roles through which history can be explored, while the people inside retain real agency and can cause the reconstructed history to diverge. Earth remains a development example rather than an entity imported into final story canon.
+
+Source and full decision record: [[01 Sessions/Daily/2026-09-06 - Workshop Module 04 Reconstruction Draft]].
 
 ## Relevant source notes
 
@@ -32,7 +41,7 @@ These constraints inherit their source status. A working physical model, timing 
 
 ## Unresolved gaps and contradictions
 
-- What is copied versus allowed to diverge; population origins; manufactured scarcity; rescue boundaries.
+- Exact fidelity and alteration authority, population origins, manufactured scarcity, prohibited reenacted harms and rescue boundaries. The customized-history and participant-divergence model is now established.
 
 ## Prerequisite decisions
 
@@ -40,7 +49,7 @@ Modules: 01, 02. Read their accepted results before closing this gate. Open prer
 
 ## Central author gate
 
-> What does reconstruction reproduce faithfully, and what is allowed or required to change?
+> What does reconstruction reproduce faithfully, and what is allowed or required to change? **AUTHOR-ACCEPTED 2026-09-06.**
 
 Ask this question alone during actual use. Do not ask every follow-up at once.
 
@@ -81,35 +90,32 @@ Record what each person wants, can know, can refuse, and can actually change. Na
 
 ## Completion checklist
 
-- [ ] Answer the central question in the author's own words.
-- [ ] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
-- [ ] Resolve or explicitly defer prerequisites 01, 02.
-- [ ] Run the scene test above and state the consequence for the people involved.
-- [ ] Answer the adversarial challenge without granting unexplained knowledge or authority.
-- [ ] Record what remains working, proposed, or unresolved.
-- [ ] Obtain explicit author acceptance before updating canon or workflow progress.
-- [ ] Trace the accepted answer through the affected notes and rebuild both projections.
+- [x] Answer the central question in the author's own words.
+- [x] Identify the chosen possibility, a modified combination, or a different answer; explain rejected tradeoffs.
+- [x] Resolve prerequisites 01 and 02.
+- [x] Run the scene test above and state the consequence for the people involved.
+- [x] Answer the adversarial challenge without granting unexplained knowledge or authority.
+- [x] Record what remains working, proposed, or unresolved.
+- [x] Obtain explicit author acceptance before updating canon or workflow progress.
+- [x] Trace the accepted answer through the affected notes and rebuild both projections.
 
 ## Answer and decision record
 
 ```text
 Module: 04 · Physical historical reconstruction
 Gate: What does reconstruction reproduce faithfully, and what is allowed or required to change?
-State: DRAFT / PROPOSED / AUTHOR-ACCEPTED / REJECTED / DEFERRED
-Author answer (verbatim):
-Exact restatement:
-Selected option or new answer:
-Why this tradeoff:
-Rejected alternatives and reasons:
-Prerequisites resolved / deferred:
-Scene test: choices, permissions, evidence, cost:
-Adversarial result:
-Remaining uncertainty:
-Explicit acceptance wording and date:
-Affected notes updated:
-QA decision reference:
-Workflow task and macro-depth effect:
-Website rebuild and verification:
+State: AUTHOR-ACCEPTED
+Author answer (verbatim): preserved in the linked session record
+Exact restatement: accepted result above
+Selected option or new answer: historical anchors and public roles customized for the effectiveness of the colonization process
+Why this tradeoff: real historical information supplies pressure and meaning while adaptation supports training, containment, bonding and sustainability
+Rejected alternatives and reasons: literal replay would erase the process's ability to adapt and the participants' ability to change history
+Prerequisites resolved / deferred: Modules 01 and 02 resolved
+Scene test: a participant rejects the expected choice of a historically based role and the process preserves the divergence
+Adversarial result: historical utility does not justify every past harm; alteration and stopping rules remain necessary
+Remaining uncertainty: fidelity, composites, alteration authority, prohibited harms, participant knowledge and population rights
+Explicit acceptance wording and date: “Yes” — 2026-09-06
+Workflow task and macro-depth effect: supporting workshop Module 04 accepted; SC-010 remains active and unchanged
 ```
 
 ## Notes and website sections affected

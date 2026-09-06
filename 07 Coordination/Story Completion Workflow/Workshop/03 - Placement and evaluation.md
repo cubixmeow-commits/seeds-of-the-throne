@@ -23,6 +23,8 @@ The placement process determines which roles and responsibilities a newly traine
 
 The assessment establishes credible options and consequences for self-placement. It does not determine a person's human worth, prove moral superiority, or grant an automatic permanent right to govern. The pair chooses together while the human retains responsibility for consequential decisions.
 
+A pair that performs well enough can qualify for a House or group with substantial resources and extensive involvement in the continuing colonization process. The pair may choose that path rather than receiving it automatically. Exact thresholds, institutional form, membership rights, resources, authority, obligations, oversight, review, and possible loss remain unresolved.
+
 Source and full decision record: [[01 Sessions/Daily/2026-09-06 - Workshop Module 03 Placement Draft]].
 
 ## Relevant source notes
@@ -112,7 +114,7 @@ Rejected alternatives and reasons: permanent rank, automatic authority and arbit
 Prerequisites resolved / deferred: Modules 01 and 02 resolved
 Scene test: technical skill can open technical paths without automatically opening unrestricted leadership
 Adversarial result: self-placement means choice among qualified paths rather than a coercive operator claiming unearned authority
-Remaining uncertainty: roles, criteria, presentation of options, evaluator independence, appeals, review and accommodation
+Remaining uncertainty: roles, criteria, presentation of options, evaluator independence, appeals, review, accommodation, and House-level structure and oversight
 Explicit acceptance wording and date: “Yes” — 2026-09-06, accepting the revised self-placement restatement
 Workflow task and macro-depth effect: supporting workshop Module 03 accepted; SC-010 remains active and unchanged
 ```
