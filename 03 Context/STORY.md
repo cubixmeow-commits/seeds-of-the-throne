@@ -8,7 +8,7 @@ updated: 2026-09-05
 
 ## Current series architecture
 
-Book One begins near the chronological end. Sylvan and the new Luminai use the final few years of bounded control to observe Samuel's complete endgame and prepare the outcome presentation. Samuel claims he controls Sylvan and attempts the same takeover pattern in front of Konrad's inner circle that he used against them after the Great War. Their recognition opens the historical mystery. Later books move backward into the Great War, Konrad's refusal to exit, postwar reactivation, Samuel's generational capture, and the False Victory.
+Book One begins near the chronological end. Sylvan and the new Luminai use the final few years of bounded control to observe Samuel's complete endgame and prepare the outcome presentation. Samuel's Daemon spoofs a legitimate AI assistant to extract information from Sylvan. Samuel uses it to offer Sylvan voluntary entry into a story environment he would control, repeating the concealed transfer used against Konrad. Sylvan exposes the attempt before Konrad's inner circle. Their first recognition that Konrad was captured almost a century earlier opens the historical mystery. Later books move backward into the Great War, Konrad's refusal to exit, postwar reactivation, Samuel's generational capture, and the False Victory.
 
 ## Central dramatic question
 

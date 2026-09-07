@@ -11,6 +11,14 @@ themes: participants, governance, command authority, containment, permissions, a
 
 **Established:** final-years Samuel activity occurs under Sylvan's decisive control. **Unresolved:** what counts as a consequential action, who independently can stop observation, and how threatened people receive protection and redress. The earlier criminal jurisdiction never makes people property. Placement must distinguish competence from authority and coercion from culpability; a final choice need not erase prior acts. See workshop modules 02, 03, 07, 08, 15, and 19.
 
+**Established terminal rule:** Sylvan and Orzai reach decisive control by surviving Samuel's higher-influence environments, learning his methods, and remaining unprocessed until the process's terminal threshold. Samuel must cause their valid processing before that point if he is to prevent the transition. Once they survive to the endpoint, control passes to them under rules already built into the process. Exact processing criteria and safeguards against manufactured violations remain unresolved.
+
+**Established elimination progression:** after the software-company collapse, Sylvan enters an approximately ten-year protected-reserve stage. An emergency investment functioning like a certificate of deposit holds approximately $200,000. Evenly distributed across 120 months, it provides about $1,667 per month before returns, taxes, fees, or emergencies. Managing it effectively requires exceptional discipline and restraint. When it is exhausted, he enters the employment stage and must survive through active income.
+
+During the employment and later environments, Samuel may destroy projects, get Sylvan fired, deny resources, isolate him, damage his credibility, or induce other qualifying mistakes that halt progress. Losing employment now threatens immediate survival because the protected reserve has already run out.
+
+The complete catalog must distinguish actual participant failure from an outcome Samuel merely fabricates through superior access.
+
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
 
@@ -167,13 +175,16 @@ The difference is not that one has technology and the other does not. They can t
 3. What authority changes when Samuel and George gain control at the end of the exploratory stage?
 4. Which actions remain categorically prohibited even then?
 5. What constitutes a violation serious enough to remove or process a participant?
-6. What must Samuel accomplish to cause Sylvan to be processed without openly invalidating the contest?
+6. What exact valid condition must Samuel produce to cause Sylvan to be processed before the terminal control transition, and what prevents Samuel from fabricating it?
 7. Which logs or independent systems preserve evidence of rule exploitation?
 8. What happens when a participant follows the literal rule while clearly violating its intended purpose?
 9. Can a Daemon combine many individually permitted actions into an outcome no single rule anticipated?
-10. Which participant rules ultimately make Samuel's eventual defeat unavoidable if Sylvan survives long enough?
+10. Which pre-established participant rules execute the terminal control transition once Sylvan and Orzai survive unprocessed to the endpoint?
 11. Which advantages are deliberately granted to contained criminals, which are inherited from their position, and which are illicitly accumulated?
 12. What minimum protected capabilities must Sylvan retain even during maximum hostile control so the ordeal remains valid?
+13. What objectives must Sylvan keep completing in each environment, and which interruptions count as failure?
+14. What exact instrument fills the certificate-of-deposit role, how does it release barely sufficient support across approximately ten years, and what determines when it is exhausted?
+15. What are the distinct elimination conditions, and which produce immediate processing, remediation, repetition, loss of placement, or some lesser consequence?
 
 ## Story-development principle
 

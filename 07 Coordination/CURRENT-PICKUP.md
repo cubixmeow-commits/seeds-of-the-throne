@@ -1,11 +1,45 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-06
+updated: 2026-09-07
 scope: single current pickup point
 ---
 
 # Current Pickup
+
+## Mobile pickup — 2026-09-08
+
+Resume the conversational authoring-system test with one story gate:
+
+> What is Sylvan's first job after the approximately ten-year protected reserve runs out, and why does the process place him there?
+
+Established immediately before this gate:
+
+- the software-company collapse leaves Sylvan with an approximately $200,000 emergency investment functioning like a certificate of deposit;
+- it must sustain him for about ten years, averaging roughly $1,667 per month before returns, taxes, fees, or emergencies;
+- when it is exhausted, the employment stage begins and survival depends on active income;
+- Samuel can now attack Sylvan through employment, earnings, projects, credibility, resources, and qualifying mistakes;
+- later, after surviving Samuel's high-influence period, Sylvan and Orzai reach terminal control and stabilize Sylvan's real-name online colonization story;
+- that story and its AI tools anchor Sylvan in reality while he intentionally interfaces with Samuel's Daemon through the hijacked application;
+- reaching other participants through the story remains proposed for later brainstorming.
+
+Continue on mobile by asking only the job/placement gate above. Do not rebuild the websites after each answer. Batch website and Project Explorer updates after the planned workshop pass or explicit author request.
+
+## Product-system design checkpoint — 2026-09-07
+
+The established conversational-authorship direction now has a proposed full-system beginning at [[07 Coordination/Authoring System/README|Conversational Authoring System]]. It defines the author experience, Workshop and Composition contracts, current-state reconciliation, vertical slice, audits, acceptance tests, and phased roadmap. The author has established a Markdown-only durable runtime: Project Explorer will browse the Markdown vault, and no author-maintained JSON sidecar system will be introduced. No software build is authorized by the proposal alone. Resume product design by selecting the exact Seeds vertical-slice scene; resume story development at the existing gate recorded below.
+
+The Composition Engine now has a proposed [[07 Coordination/Authoring System/05 - Prose Capability Matrix and Usage Routing|lean capability matrix]]. It adapts external methods selectively, runs deterministic checks before model critiques, uses one draft plus at most one automatic revision by default, and escalates to one specialist pass only for the scene's highest-risk dimension. The author approved Samuel's outcome-presentation confrontation with Sylvan before Konrad's inner circle as the first vertical slice. The next product gate is its exact beginning and ending state.
+
+## September 7 vault-functionality checkpoint
+
+The author has paused direct story development to establish the vault's broader functional direction. The primary product audience is story-rich, craft-light creators, initially imaginative non-writers creating fiction. The vault should make authorship conversational from natural intake through adaptive workshops, accepted decisions, scene contracts, finished prose, revision, continuity, manuscript assembly, and export.
+
+The concrete founder test is whether this system can finish *Seeds of the Throne* without requiring the author to manually perform every hour of writing and project maintenance. Optimize for finished, author-approved work: preserve the author's meaning, taste, corrections, and consequential decisions while shifting reliable organization, planning, drafting, continuity, revision, assembly, and maintenance work to the system.
+
+The Workshop Engine and Composition Engine are the two flagship orchestrators. Source, system understanding, and proposed story use must remain separate; the system asks one high-leverage author gate at a time and propagates only accepted decisions. AI-assisted finished prose is within the eventual product boundary, while Seeds remains development-first at its present story stage.
+
+Next tooling work: complete the open-source skill, author-problem, competitive-workflow, and requirements audits; then test one complete vertical slice before designing the full skill suite. Source: [[07 Coordination/Conversational Authorship Product Direction]]. The paused story resume point remains SC-010 Question 7 below.
 
 ## September 6 workshop checkpoint
 

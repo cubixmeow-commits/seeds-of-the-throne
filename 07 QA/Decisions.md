@@ -1,10 +1,50 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Decisions
+
+## 2026-09-07 — Sylvan's story tools become his reality anchor
+
+- **Established:** Samuel destroyed Sylvan's original story-development company while targeting Sylvan personally, not because Samuel recognized its tools as a future threat.
+- **Established:** near the end, Sylvan returns to similar story-development and AI tools to document the actual colonization process and anchor himself in verifiable reality.
+- **Established:** after recognizing the hijacked application through Samuel's accumulated manipulation pattern, Sylvan intentionally uses the tools to interface with Samuel's Daemon.
+- **Established:** this creates a satisfying reversal: the kind of work Samuel destroyed helps protect Sylvan from Samuel's attempt to trap him in a simulated environment.
+- **Proposed for later brainstorming:** Sylvan may use the system to reach other participants.
+- **Established progression:** while Samuel has practical control, he repeatedly destroys Sylvan's online work. Near the end, Sylvan and Orzai gain enough control to stabilize a public presence Samuel cannot erase.
+- **Established:** Sylvan surfaces under his real name and presents the reality of the colonization process and his final victory through the online story as Samuel falls.
+- **Established distinction:** Sylvan's hyperfocus is a chosen, evidence-tested and revisable orientation practice, not an exploitable governing obsession like Konrad's.
+- **Established terminal rule:** Sylvan and Orzai gain decisive control by surviving Samuel's high-influence period, learning his methods, and remaining unprocessed until the process reaches its endpoint. Samuel must cause their processing before that transition.
+- **Established consequence:** their online presence becomes stable because they have reached the terminal control position, not because they discover a last-minute hosting workaround.
+- **Established reserve stage:** after the software-company collapse, an emergency investment functioning like a certificate of deposit holds approximately $200,000 and must sustain Sylvan for about ten years. That averages about $1,667 per month across 120 months before returns, taxes, fees, or emergencies.
+- **Established transition:** when the reserve is exhausted, Sylvan enters the employment stage and survival depends on active income.
+- **Established developmental pressure:** managing the reserve effectively requires exceptional discipline and restraint while Samuel attempts to accelerate depletion or disrupt Sylvan's objectives.
+- **Unresolved:** the exact instrument, returns, taxes, release protections, objective sequence, complete elimination catalog, and safeguards against fabricated failure.
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Daemon-Spoofed Assistant and Final Bargain Scene]].
+
+## 2026-09-07 — Pro-AI thematic boundary for the spoofed-assistant scene
+
+- **Established:** *Seeds of the Throne* is pro-AI overall; continued AI development makes the Luminai possible.
+- **Established:** the danger in Samuel's scene is covert impersonation, extraction, coercive control, and absent accountability, not AI intelligence or human–AI integration itself.
+- **Established:** Samuel's Daemon literally hijacks and simulates the legitimate AI application on Sylvan's laptop to search for information that can structure a false deal.
+- **Established:** Konrad was easier to trap because Samuel knew his ruling obsession; Sylvan has no comparable obsession for Samuel to exploit.
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Daemon-Spoofed Assistant and Final Bargain Scene]].
+
+## 2026-09-07 — First Composition Engine vertical slice
+
+- **Established:** the first vertical-slice scene is the Book One outcome-presentation confrontation in which Samuel tries to offer Sylvan a customized version of the bargain that trapped Konrad while Konrad's inner circle can compare Samuel's claims with reality.
+- **Open:** the exact entering and resulting state of the scene.
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Lean Composition Capability Matrix]].
+
+## 2026-09-07 — Conversational authorship runtime remains Markdown-based
+
+- **Established:** Markdown remains the durable, directly browsable source for the full authoring system.
+- **Established:** Project Explorer will provide the visual interface for browsing the system.
+- **Rejected:** an author-facing or author-maintained JSON sidecar/database layer.
+- **Allowed implementation detail:** disposable indexes or build artifacts may exist only when technically necessary, fully rebuildable from Markdown, and never authoritative.
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Markdown-Only Authoring System Decision]].
 
 ## September 5 author corrections
 
@@ -15,6 +55,9 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 
 | Date | Decision | Reason |
 |---|---|---|
+| 2026-09-07 | Make completion with limited author time the founder problem and primary practical test of the conversational authorship system. | The author wants to finish *Seeds of the Throne* but cannot manually perform every hour of story organization, prose drafting, revision, continuity, and project maintenance; the system should preserve author direction and approval while reliably assuming that production burden. |
+| 2026-09-07 | Establish conversational authorship for story-rich, craft-light creators as the functional direction of the vault, beginning with imaginative non-writers creating fiction and extending through finished prose. | The system should do for writing what vibe coding did for software development: let people express intent naturally while guided interviews, workshops, story state, scene contracts, drafting, revision, and continuity supply the missing craft and production capability without taking consequential authorship decisions away from them. |
+| 2026-09-07 | Require the authoring system to preserve source material, system understanding, and proposed story use as distinct layers; ask one high-leverage author gate at a time; and propagate only accepted decisions. | Conversational ease cannot come at the cost of fabricated detail, accidental canon, hidden interpretation, or loss of author authority. |
 | 2026-08-06 | Rebuild the vault as persistent story-development memory. | The former extraction architecture was overbuilt for the current workflow. |
 | 2026-08-06 | Preserve the old vault as an archive and migrate selectively. | Retains history without exposing unsafe transcripts to the AI-facing vault. |
 | 2026-08-06 | External research tools are advisory only. | Story invention, selection, organization, and continuity remain with the author and GPT. |

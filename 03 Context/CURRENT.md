@@ -1,10 +1,20 @@
 ---
 type: context
 status: active
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Current
+
+## September 7 vault-functionality direction
+
+The author has established a new product-level destination for the vault: a conversational authorship system for story-rich, craft-light creators, initially focused on imaginative non-writers creating fiction. The system should let a person tell the story naturally, receive a faithful reflection, answer one high-leverage workshop or interview question at a time, guide consequential decisions, and continue through scene contracts, controlled prose creation, revision, continuity, manuscript assembly, and export.
+
+The founder problem is immediate: the author wants to finish *Seeds of the Throne* but does not have time to manually write and maintain every part of it. The system must therefore optimize for finished, author-approved work rather than becoming a writing course or requiring maximum author labor. The author supplies meaning, taste, correction, and consequential decisions; the system should reliably assume much of the organization, planning, drafting, continuity, revision, assembly, and maintenance burden.
+
+The Workshop Engine owns diagnosis, dependency ordering, author gates, decision capture, and propagation. The Composition Engine owns bounded context, scene contracts, drafting, separate editorial passes, continuity, and manuscript production. Source material, system interpretation, and proposed story use remain distinct. Only author-accepted decisions propagate. Finished AI-assisted prose is now inside the eventual product boundary, superseding any permanent product restriction to skeletons or disposable prototypes, but Seeds remains development-first at its current story stage.
+
+The Project Explorer should eventually showcase this authoring system and its inspectable operation; the docs site should present the resulting story. Complete the four planned audits before installing or rebuilding the final skill architecture. See [[07 Coordination/Conversational Authorship Product Direction]] and [[01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction]].
 
 ## September 5 integration status
 
@@ -161,3 +171,6 @@ The intended final fiction remains human-authored. Once enough development exist
 ## Working method
 
 Develop freely in daily session notes. Promote only settled or clearly labeled working material into `02 Story/`. Preserve unresolved specifics instead of filling blanks automatically. Update this file when the project's center of gravity changes.
+## Conversational authoring system design
+
+The product direction is established; the initial full-system architecture is now proposed at [[07 Coordination/Authoring System/README|Conversational Authoring System]]. No runtime, engine, or interface implementation is authorized by that design alone. The next product-development move is to reconcile the completed workshop with actual workflow state, select one Book One vertical-slice scene, and approve the decision/event schema one gate at a time.

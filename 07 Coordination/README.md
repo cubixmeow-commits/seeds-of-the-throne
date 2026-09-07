@@ -1,7 +1,7 @@
 ---
 type: coordination-index
 status: active
-updated: 2026-08-24
+updated: 2026-09-07
 ---
 
 # Coordination
@@ -20,6 +20,8 @@ The author develops the project Sunday through Thursday. Thursday night's [[Week
 - [[SUBAGENT-PROTOCOL|Seeds Delegation Protocol]] — when and how to delegate independent work while preserving primary-agent authority, canon boundaries, and safe file ownership.
 - [[Weekly Synthesis/README|Weekly Story Synthesis]] — dated end-of-credit-cycle full-vault analysis, ranked development intake, and maintenance recommendations.
 - [[Story Completion Workflow/WORKFLOW|Story Completion Workflow]] — horizontal macro-to-draft task state, dependencies, propagation, regression, and completion tracking.
+- [[Conversational Authorship Product Direction]] — established market, interaction, Workshop Engine, Composition Engine, and full-manuscript destination for vault functionality.
+- [[Authoring System/README|Conversational Authoring System]] — proposed full-system architecture, author experience, runtime, engine contracts, vertical slice, and roadmap.
 
 The short resume instruction is: **Open Current Pickup.** For implementation work, process the desktop queue after reading that note. A desktop session should sync safely, inspect existing files before editing, implement each ready item, record story decisions through the normal session workflow, verify the diff, and then mark completed queue items with their resulting files or commit.
 

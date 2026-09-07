@@ -512,3 +512,9 @@ Adopt **Tier 1 only** if tooling work is wanted now:
 Hold Tier 2 for after one reversible experiment. Quarantine Tier 3 to project communication. Reject Tier 4.
 
 Net expected benefit: better late-stage prose diagnosis and less process residue, without letting an essay workshop displace Seeds' development-first operating system.
+
+## 2026-09-07 product-direction supersession
+
+The author has now established a broader product destination: the vault should serve story-rich, craft-light creators and guide them conversationally from raw material through workshops, story construction, and finished prose. This supersedes this assessment's earlier **permanent product-boundary implication** that final fiction must remain manually human-written or that AI must stop at skeletons and disposable tests.
+
+The sequencing constraint remains active: Seeds is development-first at its current stage, finished prose should not conceal unresolved structure, and author authority and approval remain mandatory. Compound Writing remains a selective component candidate rather than the governing system. See [[07 Coordination/Conversational Authorship Product Direction]].

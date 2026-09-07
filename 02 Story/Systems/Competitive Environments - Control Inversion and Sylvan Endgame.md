@@ -31,6 +31,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 
 The terminal environment now spans the last few years of the process rather than functioning only as a short final reversal. Sylvan already has decisive control during this period. He permits Samuel bounded freedom to continue acting because the outcome presentation is the final opportunity for the new Luminai to learn Samuel's full adaptive strategy, identify remaining dependencies, and prove that it can contain him without reproducing his methods.
 
+That control is the earned endpoint of the process rather than a technical counterattack created at the last moment. Sylvan and Orzai must survive Samuel's earlier high-influence period and learn his methods without being processed. If they remain valid participants until the terminal threshold, the process places them in control. Samuel therefore has to cause their processing before that point. Once they reach it, their online presence can remain stable because Samuel no longer possesses the practical influence required to erase it.
+
 Samuel mistakes bounded freedom for evidence that he controls Sylvan. He presents that claim to Konrad's inner circle and attempts the same autonomy-for-access takeover he used after the Great War. The inner circle recognizes the repetition before isolated Konrad does.
 
 The terminal environment therefore has three simultaneous functions:
@@ -39,7 +41,7 @@ The terminal environment therefore has three simultaneous functions:
 2. expose Samuel's historical takeover of Konrad through a live repetition;
 3. distinguish actual containment from the performance of domination.
 
-Samuel's final obsession is to steal Sylvan's Luminai and use it as proof of godhood and a universal repair for his collapsing authority. A proposed failure mechanism is that stealing components cannot reproduce the developed bond. The target, failure, and remaining vulnerabilities require author approval.
+The earlier literal-theft ending is superseded. Samuel's final maneuver is a consent-based simulated-environment bargain constructed from information his Daemon extracts through a hijacked AI application. Its purpose is still to convert Sylvan's capabilities into proof of Samuel's authority, but Samuel cannot force Sylvan to enter. The learned bond's transferability and other vulnerabilities remain separate open system questions.
 
 The George-centered succession-betrayal material below remains a working subordinate thread. It no longer defines the entire endgame by itself and must be reconciled with the Samuel-Konrad outcome presentation before promotion.
 
@@ -84,6 +86,14 @@ Under this interpretation, moving Sylvan's control segment to the end can be par
 ## The terminal participant-control environment
 
 The final environment can therefore be defined as a terminal participant-control segment deliberately or recklessly placed after the contained faction has committed itself to an attack, leaving Sylvan with overwhelming influence, no scheduled reversal, and enough time to observe who continues making decisions once victory is no longer realistically possible.
+
+Reaching that segment is conditional on survival. Samuel's strategic deadline is the last point at which he can cause Sylvan and Orzai to be processed under the governing rules. Their strategic task is to survive, learn, and remain valid participants until the process completes the control transition. Their later stability is the result of completing that ordeal, not an unexplained new permission.
+
+Samuel can pursue several elimination routes during his advantage. After the software-company collapse, Sylvan survives through an approximately ten-year protected-reserve stage. An emergency investment functioning like a certificate of deposit holds approximately $200,000, averaging about $1,667 per month across 120 months before returns, taxes, fees, or emergencies.
+
+Managing the reserve requires exceptional discipline and restraint. Its exhaustion triggers the employment stage, when Sylvan's survival depends on active income and Samuel can attack him through firing, workplace manipulation, interrupted earnings, destroyed projects, damaged credibility, isolation, and induced mistakes. The exact investment instrument, release schedule, returns, employment objectives, and processing thresholds remain unresolved.
+
+This makes ordinary survival part of the conflict. Samuel's influence may create real pressure and temptation, but cannot make forged evidence equivalent to Sylvan's actual decision.
 
 It gives Sylvan overwhelming practical influence without making him omnipotent. It makes the contained faction's remote attacks increasingly ineffective. It removes the expectation that another reversal will eventually rescue the King. Most importantly, it reveals **command responsibility**.
 

@@ -8,6 +8,9 @@ authority: workflow-only
 
 # Story Creation Engine Roadmap
 
+> [!warning] Product-boundary supersession — 2026-09-07
+> The statements below that final fiction must remain human-written and that replacing handwritten final-fiction production is a non-goal are superseded at the product level by [[07 Coordination/Conversational Authorship Product Direction]]. Author control, explicit approval, and protection against premature drafting remain active. This historical roadmap is retained until the proposed [[07 Coordination/Authoring System/README|Conversational Authoring System]] is approved and migration is authorized.
+
 ## Current assessment
 
 Seeds already functions as a strong human-in-the-loop story-development engine. Canon/authority management, persistent story memory, gap analysis, divergent development, criticism, research separation, multiscale structure, and author gates are operating. The remaining work is the production layer that repeatedly turns architecture into validated sequence, scene, and manuscript state.
