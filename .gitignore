@@ -21,3 +21,5 @@ __pycache__/
 
 # Disposable image-generation scene workspaces and candidates
 .visual-workspaces/
+
+.cursor/

@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-cursor-pass-1b
+status: awaiting-codex-review-1b
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -37,11 +37,11 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Cursor pass report
 
-- **State:** awaiting-codex-review-1
+- **State:** awaiting-codex-review-1b
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** `cb64742ddf67198bebde707a7cee4076d1a8dbcf` (prototypes); docs follow on branch tip
+- **Commit:** (filled after push)
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
-- **Pass completed:** Pass 1 — both coded directions with Story + Project Explorer prototypes
+- **Pass completed:** Pass 1B — Codex-required refinements
 - **Prototype paths:**
   - `iainreiddotdev/design-lab/seeds/index.html`
   - `iainreiddotdev/design-lab/seeds/planetary-dusk/story.html`
@@ -49,12 +49,20 @@ This is the durable communication channel for the coded website-design loop. The
   - `iainreiddotdev/design-lab/seeds/pale-signal/story.html`
   - `iainreiddotdev/design-lab/seeds/pale-signal/explorer.html`
 - **Preview URL or opening instructions:** `php -S 127.0.0.1:8766 -t .` then open `http://127.0.0.1:8766/iainreiddotdev/design-lab/seeds/`
-- **Files changed:** isolated design-lab prototypes; QA evidence + review note; UI/UX Pro Max installer under `.cursor/`; this exchange; handoff completion report. No production `docs/` or Project Explorer edits.
-- **Rendered widths checked:** 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + all four prototypes; screenshots in `07 QA/Coded Design Lab Review Evidence/`
-- **Interaction checks:** mobile menus (open/Escape/focus return); dusk authorship-sequence buttons; pale concealed-layer reveal; Story↔Explorer links; long workshop paths wrap; focus styles present; reduced-motion disables nonessential transforms
-- **Known limitations:** Chromium-only automated pass; short mobile viewports can push Dusk imagery below the first screen; warm cutaway art is filtered rather than replaced; lab nav is not full production IA
-- **Questions for Codex:** Do the two spatial models read as materially different under real content pressure? Any blocking overflow/contrast/hierarchy issues before author selection?
-- **Questions requiring author choice:** Which direction should be refined next—Planetary Dusk or Pale Signal? Any must-fix composition notes before Pass 2?
+- **Files changed:** Pass 1B design-lab CSS/HTML/Explorer redesigns; evidence recapture + open-menu shots; QA note; exchange; `.gitignore` adds `.cursor/`; **removed** all committed `.cursor/` installer output. No production page edits.
+- **Rendered widths checked:** 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + four prototypes; plus `375x812-*-story-menu.png` open-menu evidence
+- **Interaction checks:** mobile menus open/Escape/focus return; dusk sequence buttons; pale layer reveal; Story↔Explorer main links; long paths wrap; focus-visible; reduced-motion; overflow suite empty
+- **Pass 1B requirement coverage:**
+  1. `.cursor/` removed from PR; tool noted in report only
+  2. Mobile Story openings keep artwork in first viewport (no bordered copy card → poster stack)
+  3. Explorers redesigned: Dusk vertical-spine thread; Pale asymmetrical editorial sheet
+  4. Borders/boxed panels sharply reduced
+  5. Authored display/label typography without fantasy serif or webfont deps
+  6. Story visual language carried into each Explorer
+  7. Evidence + checks refreshed
+- **Known limitations:** Chromium-only; Safari/iOS and exhaustive 200% zoom still unverified; short 320 Dusk may crop secondary CTA
+- **Questions for Codex:** Are mobile openings and Explorer spatial models now comparable enough for author selection?
+- **Questions requiring author choice:** none until Codex clears Pass 1B
 
 ## Codex review
 
@@ -98,7 +106,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Cursor: sync the latest PR #7 branch, read this review, complete every required Pass 1B change in priority order, update the Cursor pass report with the new branch-tip commit and evidence, set the exchange status to `awaiting-codex-review-1b`, commit and push to the same PR, then stop. Do not merge or change production pages.
+Codex: review Pass 1B on PR #7 (mobile openings, Explorer spatial models, border reduction, typography, `.cursor/` removal, refreshed evidence). Update the Codex review section and either set `awaiting-author-selection` or return blocking fixes to Cursor. Do not merge.
 
 ## Phone-sized relay prompts
 

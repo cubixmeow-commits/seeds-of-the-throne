@@ -98,6 +98,19 @@ const PAGES = [
     }
   }
 
+  // Open-menu mobile evidence.
+  for (const [name, route] of [
+    ['dusk-story-menu', '/iainreiddotdev/design-lab/seeds/planetary-dusk/story.html'],
+    ['pale-story-menu', '/iainreiddotdev/design-lab/seeds/pale-signal/story.html'],
+  ]) {
+    await page.setViewportSize({ width: 375, height: 812 });
+    await page.goto(base + route, { waitUntil: 'domcontentloaded' });
+    await page.locator('[data-menu-button]').click();
+    await page.waitForTimeout(120);
+    await page.screenshot({ path: path.join(out, `375x812-${name}.png`), fullPage: false });
+    await page.keyboard.press('Escape');
+  }
+
   await page.setViewportSize({ width: 1440, height: 900 });
   await page.goto(base + '/iainreiddotdev/design-lab/seeds/planetary-dusk/explorer.html');
   await page.locator('[data-step]').nth(2).click();
@@ -109,11 +122,11 @@ const PAGES = [
   if (await page.locator('[data-layer-panel="evidence"]').isHidden()) errors.push('pale layer reveal failed');
 
   await page.goto(base + '/iainreiddotdev/design-lab/seeds/planetary-dusk/story.html');
-  await page.locator('a[href="explorer.html"]').first().click();
+  await page.locator('main a[href="explorer.html"]').first().click();
   if (!page.url().includes('planetary-dusk/explorer.html')) errors.push('dusk story→explorer link failed');
 
   await page.goto(base + '/iainreiddotdev/design-lab/seeds/pale-signal/explorer.html');
-  await page.locator('a[href="story.html"]').first().click();
+  await page.locator('main a[href="story.html"]').first().click();
   if (!page.url().includes('pale-signal/story.html')) errors.push('pale explorer→story link failed');
 
   fs.writeFileSync(path.join(out, 'results.json'), JSON.stringify({ results, errors }, null, 2));
