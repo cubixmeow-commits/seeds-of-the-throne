@@ -7,9 +7,19 @@ scope: single current pickup point
 
 # Current Pickup
 
+## Website visual redesign — 2026-09-08
+
+The visual redesign of the `docs/` story site and Project Explorer has been implemented on branch `cursor/story-sites-visual-redesign`. It is awaiting author review. It has not been deployed to GitHub Pages or shared hosting.
+
+This supersedes earlier statements that the websites were deferred or must not be rebuilt. Do not treat website reconstruction as an open implementation task unless the author requests changes after review.
+
+The redesign is visual and layout only. Approved public copy was preserved. Story-development state and author gates below are unchanged.
+
+Sources: [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]], [[07 Coordination/DESKTOP-QUEUE]], and [[01 Sessions/Daily/2026-09-08 - Cursor Story Sites Visual Redesign]].
+
 ## Desktop reconciliation — 2026-09-08
 
-The September 7 mobile material has been reconciled into the session, compiled system, character, storyline, compact context, research, QA, and weekly-intake layers. No website projection was run.
+The September 7 mobile material has been reconciled into the session, compiled system, character, storyline, compact context, research, QA, and weekly-intake layers. That reconciliation did not run a website projection. The later visual redesign recorded above is now the current website state.
 
 The next high-leverage author gate in the new branch is:
 
@@ -49,7 +59,7 @@ Established immediately before this gate:
 - that story and its AI tools anchor Sylvan in reality while he intentionally interfaces with Samuel's Daemon through the hijacked application;
 - reaching other participants through the story remains proposed for later brainstorming.
 
-Pause this branch on mobile. At the next desktop session, map the Sylvan–Samuel conflict state at employment entry before asking any more campus questions. Establish prior interactions, mutual knowledge, Samuel's influence and remote channels, intermediaries, current objectives, Sylvan's learned defenses, and the change across the employment stage. Then reassess every campus idea against that map. Do not treat the current company, department, group, or data-center ideas as random-detail commitments if they fail the integrated story test. Do not rebuild the websites yet.
+Pause this branch on mobile. At the next desktop session, map the Sylvan–Samuel conflict state at employment entry before asking any more campus questions. Establish prior interactions, mutual knowledge, Samuel's influence and remote channels, intermediaries, current objectives, Sylvan's learned defenses, and the change across the employment stage. Then reassess every campus idea against that map. Do not treat the current company, department, group, or data-center ideas as random-detail commitments if they fail the integrated story test. The website visual redesign is no longer deferred; see the status above.
 
 ## Product-system design checkpoint — 2026-09-07
 

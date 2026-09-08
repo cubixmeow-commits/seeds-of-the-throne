@@ -23,7 +23,7 @@ No additional desktop-only implementation is currently queued beyond review of t
 
 ### 2026-09-08 — Story site and Project Explorer visual redesign
 
-- **Status:** implemented for review; not committed or deployed
+- **Status:** implemented for review on `cursor/story-sites-visual-redesign`; not deployed
 - **Source:** [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]]
 - **Result:** Shared containment-archive visual system, compact heroes, grouped navigation, Ideas two-pane workspace, quieter development sources, and a unified Project Explorer shell. Approved public copy was preserved.
 

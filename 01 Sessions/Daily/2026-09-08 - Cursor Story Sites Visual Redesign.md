@@ -8,7 +8,7 @@ authority: implementation of author-approved visual handoff
 
 # Cursor Story Sites Visual Redesign
 
-Implemented [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]]. This was a visual and layout redesign only. Approved public copy remained the content foundation. No story canon was changed. The work is ready for review and has not been committed, pushed, or deployed.
+Implemented [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]]. This was a visual and layout redesign only. Approved public copy remained the content foundation. No story canon was changed. The work is on branch `cursor/story-sites-visual-redesign`, ready for review, and has not been deployed.
 
 ## Visual direction
 
@@ -16,4 +16,4 @@ Both sites now use one advanced-containment-archive language: near-black enginee
 
 ## Remaining
 
-Playwright is not installed in this environment, so `scripts/test_story_browser.cjs` could not run. Local visual checks were made in the Cursor browser at desktop and 320px. Commit and deploy remain author-gated.
+Playwright is not installed in this environment, so `scripts/test_story_browser.cjs` could not run. Local visual checks were made in the Cursor browser at desktop and 320px. Deploy remains author-gated.
