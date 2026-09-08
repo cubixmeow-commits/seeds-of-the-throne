@@ -269,4 +269,4 @@ PHP 8.3.6 CLI was installed in the environment for this pass.
 - Request-lifetime Markdown inventory cache helps repeated calls in one request only; it does not add a durable disk index.
 - Not merged to `main` and not deployed.
 
-Implemented on branch `cursor/project-explorer-nav-repair-e541`, commit `387d8a8`. Working tree after this report includes only the repair and status updates above.
+Implemented on branch `cursor/project-explorer-nav-repair-e541` (tip `2512c1e`; repair implementation `387d8a8`). Working tree after this report includes only the repair and status updates above.
