@@ -10,9 +10,9 @@ updated: 2026-09-08
 
 A containment-archive visual redesign of the `docs/` story atlas and Project Explorer was merged to `main` and deployed for author review. Review found that multiple Project Explorer links appeared to lead to the same place, the mobile interface had no Project Explorer hamburger menu, and related navigation, archive, and stylesheet integration issues required a focused repair.
 
-That repair is now implemented for review on branch `cursor/project-explorer-nav-repair-e541` and has not been merged or deployed. See [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]. Approved public wording remains locked.
+That repair was merged in PR #4 and deployed successfully. The author confirmed that the mobile result is much better. See [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]. Approved public wording remains locked.
 
-After the repair is accepted, the next website phase is an author-reviewed redesign based on [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]], not another broad implementation prompt. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Implementation details are in [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]], [[07 Coordination/DESKTOP-QUEUE]], and [[01 Sessions/Daily/2026-09-08 - Cursor Story Sites Visual Redesign]]. Story-development state and author gates below are unchanged.
+The author selected **Hidden Planetary Infrastructure** for the next redesign: a real surface civilization above concealed planet-scale systems, combined with recovered-record evidence language. The selected mockup, four approved-for-website-design assets, and implementation rules are in [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]] and [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]]. The images remain non-canon visual interpretations. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Story-development state and author gates below are unchanged.
 
 ## September 8 public website voice and purpose
 

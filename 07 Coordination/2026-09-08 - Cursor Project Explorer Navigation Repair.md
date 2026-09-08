@@ -1,6 +1,6 @@
 ---
 type: implementation-handoff
-status: implemented-for-review
+status: completed
 date: 2026-09-08
 owner: Cursor
 scope: Project Explorer repair and responsive verification
@@ -267,6 +267,6 @@ PHP 8.3.6 CLI was installed in the environment for this pass.
 - Portfolio is hidden in the compact PE header below 1024px to prevent overflow; theme remains available. Portfolio stays reachable from the footer and desktop header.
 - Destination scrolling uses a short settle pass after load because the hero image can change page height; without JS, native hash scrolling still depends on `scroll-padding`/`scroll-margin`.
 - Request-lifetime Markdown inventory cache helps repeated calls in one request only; it does not add a durable disk index.
-- Not merged to `main` and not deployed.
+- Merged to `main` in PR #4 and deployed successfully. The author confirmed the repaired mobile presentation is much better.
 
-Implemented on branch `cursor/project-explorer-nav-repair-e541`; the functional repair is commit `387d8a8`, with later commits limited to the completion report. PR #4 is ready for review. The working tree is clean.
+Implemented on branch `cursor/project-explorer-nav-repair-e541`; the functional repair is commit `387d8a8`, with later commits limited to the completion report. PR #4 was merged on 2026-09-08.

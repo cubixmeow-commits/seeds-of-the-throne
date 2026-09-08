@@ -1,12 +1,18 @@
 ---
 type: visual-direction-assessment
-status: proposed
+status: selected
 date: 2026-09-08
 scope: public story atlas and Project Explorer
-authority: recommendation pending author review
+authority: author-selected website direction
 ---
 
 # Story Sites Visual Direction Assessment
+
+## Author decision — September 8
+
+The author selected **Hidden Planetary Infrastructure** as the primary structural direction. The implementation will borrow the fractured-record and recovered-evidence language from the darker archive concept and preserve the balanced concept's editorial legibility. See [[01 Sessions/Daily/2026-09-08 - Hidden Planetary Infrastructure Website Direction]], [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]], and [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]].
+
+This selection establishes website direction only. It does not establish the literal architecture or mechanisms depicted in generated concepts.
 
 ## Assessment
 

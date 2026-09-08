@@ -17,16 +17,23 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-### 2026-09-08 — Project Explorer navigation and responsive repair
+### 2026-09-08 — Hidden Planetary Infrastructure website redesign
 
-- **Status:** implemented for review on branch `cursor/project-explorer-nav-repair-e541`; not merged or deployed
-- **Source:** [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]
-- **Scope completed:** Distinct Overview/Story/Decisions/Workshop destinations and active states; Project Explorer hamburger menu; sticky-header clearance; mobile archive browse drawer; Workshop CSS isolation; asset versioning; view/file/search state preservation; Research/Visuals/Archive nav states; extended browser tests at 320–1440px.
-- **Preserve:** Repair pass only. Approved public wording, story canon, unresolved author gates, and the separate visual-redesign assessment remain untouched as implementation work.
-- **Verify:** Build, source checks, PHP lint, JavaScript checks, `git diff --check`, and Playwright behavioral coverage all passed in the completion report.
-- **Next phase:** Author review of this repair, then use [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]] to select a story-aligned direction before further visual implementation.
+- **Status:** ready for Cursor
+- **Source:** [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]]
+- **Direction:** Author-selected Hidden Planetary Infrastructure structure, recovered-record evidence language, and editorial legibility.
+- **Assets:** Selected responsive mockup, desktop/mobile planetary heroes, lived surface civilization, and recovered-record evidence set in [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]].
+- **Scope:** Redesign the story atlas and Project Explorer while preserving approved copy, source authority, all PR #4 navigation/mobile behavior, Workshop functionality, and generated-site integrity.
+- **Verify:** Test and visually inspect 320, 375, 430, 768, 1024, and 1440px; run build, source, visual-system, JavaScript, PHP, browser, and git checks; provide the required twelve-part completion report.
+- **Do not:** Treat generated architecture or wording as canon, use generated faces, weaken the repaired navigation, merge, or deploy.
 
 ## Completed implementation context
+
+### 2026-09-08 — Project Explorer navigation and responsive repair
+
+- **Status:** merged in PR #4 and deployed; author confirmed the mobile result is much better
+- **Source:** [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]
+- **Result:** Distinct Project Explorer destinations and active states, accessible mobile hamburger, sticky-header clearance, mobile archive drawer, 44px targets, Workshop CSS isolation, coherent asset versions/state, and expanded responsive tests.
 
 ### 2026-09-08 — Story site and Project Explorer visual redesign
 
