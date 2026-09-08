@@ -162,6 +162,62 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await page.keyboard.press('Escape');
   if (await page.locator('[data-menu-button]').getAttribute('aria-expanded') !== 'false') errors.push('story menu failed to close');
 
+  // Homepage Hidden Planetary Infrastructure composition.
+  for (const width of [320, 430, 1024, 1440]) {
+    await page.setViewportSize({ width, height: 1000 });
+    await page.goto(base + '/docs/index.html', { waitUntil: 'domcontentloaded' });
+    const hero = await page.evaluate(() => {
+      const picture = document.querySelector('.planetary-hero picture');
+      const img = document.querySelector('.planetary-hero picture img');
+      const source = document.querySelector('.planetary-hero picture source');
+      const h1 = document.querySelectorAll('h1');
+      const cls = document.body.className;
+      const shift = img ? (!img.getAttribute('width') || !img.getAttribute('height')) : true;
+      const current = img ? (img.currentSrc || img.src) : '';
+      return {
+        hasPicture: !!picture,
+        hasSource: !!source,
+        sourceMedia: source ? source.getAttribute('media') : null,
+        sourceSrc: source ? source.getAttribute('srcset') : null,
+        imgSrc: img ? img.getAttribute('src') : null,
+        currentSrc: current,
+        h1Count: h1.length,
+        pageHome: cls.includes('page-home'),
+        missingDims: shift,
+      };
+    });
+    if (!hero.hasPicture || !hero.hasSource) errors.push(`homepage picture missing at ${width}`);
+    if (!hero.pageHome) errors.push(`homepage missing page-home at ${width}`);
+    if (hero.h1Count !== 1) errors.push(`homepage h1 count ${hero.h1Count} at ${width}`);
+    if (hero.missingDims) errors.push(`homepage hero missing intrinsic dimensions at ${width}`);
+    if (!hero.imgSrc || !hero.imgSrc.includes('planetary-cutaway-hero-desktop-v1.webp')) {
+      errors.push(`homepage desktop hero src missing at ${width}`);
+    }
+    if (!hero.sourceSrc || !hero.sourceSrc.includes('planetary-cutaway-hero-mobile-v1.webp')) {
+      errors.push(`homepage mobile source missing at ${width}`);
+    }
+    if (width <= 430 && hero.currentSrc && !hero.currentSrc.includes('mobile')) {
+      errors.push(`homepage did not select mobile hero at ${width}: ${hero.currentSrc}`);
+    }
+    if (width >= 1024 && hero.currentSrc && !hero.currentSrc.includes('desktop')) {
+      errors.push(`homepage did not select desktop hero at ${width}: ${hero.currentSrc}`);
+    }
+    const bands = await page.locator('.editorial-band').count();
+    if (bands < 4) errors.push(`homepage editorial bands incomplete at ${width}`);
+    await assertNoOverflow(width, '/docs/index.html#hpi');
+  }
+
+  // Project Explorer quieter hero evidence image.
+  await page.setViewportSize({ width: 1024, height: 900 });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=overview');
+  const peHero = await page.locator('.explorer-hero__image').getAttribute('src');
+  if (!peHero || !peHero.includes('recovered-records-evidence-v1.webp')) {
+    errors.push('Project Explorer hero is not the quieter evidence image');
+  }
+  if (await page.locator('.explorer-hero__image[src*="konrad-controlled"]').count()) {
+    errors.push('Project Explorer still uses cinematic key-art hero');
+  }
+
   // Workshop persistence/import/export on Project Explorer.
   await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=11#session');
   await page.locator('#workshop-answer').waitFor();

@@ -12,7 +12,7 @@ A containment-archive visual redesign of the `docs/` story atlas and Project Exp
 
 That repair was merged in PR #4 and deployed successfully. The author confirmed that the mobile result is much better. See [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]. Approved public wording remains locked.
 
-The author selected **Hidden Planetary Infrastructure** for the next redesign: a real surface civilization above concealed planet-scale systems, combined with recovered-record evidence language. The selected mockup, four approved-for-website-design assets, and implementation rules are in [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]] and [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]]. The images remain non-canon visual interpretations. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Story-development state and author gates below are unchanged.
+The author selected **Hidden Planetary Infrastructure** for the next redesign: a real surface civilization above concealed planet-scale systems, combined with recovered-record evidence language. Implementation is on branch `cursor/hidden-planetary-infrastructure-redesign-e541` (PR #5) with status `implemented-for-review`. See [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]] and [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]]. The images remain non-canon visual interpretations. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Story-development state and author gates below are unchanged.
 
 ## September 8 public website voice and purpose
 

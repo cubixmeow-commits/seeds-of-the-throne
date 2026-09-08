@@ -1,17 +1,27 @@
 .explorer-page {
-    --archive-bg: #0b0c0b;
-    --archive-paper: #121411;
-    --archive-paper-strong: #181d18;
-    --archive-ink: #f3eee4;
-    --archive-muted: #a8a396;
-    --archive-faint: #7c7a72;
+    --void: #050504;
+    --charcoal: #14110e;
+    --paper: #d4be98;
+    --ivory: #f3eee4;
+    --gold: #c28a32;
+    --gold-bright: #f1cf68;
+    --system-blue: #67aee8;
+    --living-green: #71c987;
+    --fracture-red: #8e0b0b;
+    --ember-red: #c7241c;
+    --archive-bg: var(--void);
+    --archive-paper: var(--charcoal);
+    --archive-paper-strong: #1c1814;
+    --archive-ink: var(--ivory);
+    --archive-muted: #b7a78c;
+    --archive-faint: #8a7d68;
     --archive-line: rgba(243, 238, 228, .12);
-    --archive-gold: #c9a45a;
-    --archive-gold-soft: #231e14;
-    --archive-link: #7eb8b8;
-    --archive-link-hover: #9fd0d0;
-    --archive-red: #c45c52;
-    --archive-green: #6db88a;
+    --archive-gold: var(--gold);
+    --archive-gold-soft: #23190f;
+    --archive-link: var(--system-blue);
+    --archive-link-hover: #8ec4f0;
+    --archive-red: var(--ember-red);
+    --archive-green: var(--living-green);
     --archive-display: "Iowan Old Style", Palatino, Georgia, serif;
     --archive-ui: Inter, ui-sans-serif, system-ui, sans-serif;
     --archive-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
@@ -19,7 +29,7 @@
     min-height: 100%;
     color: var(--archive-ink);
     background:
-        radial-gradient(900px 420px at 88% -6%, rgba(126, 184, 184, .08), transparent 46%),
+        radial-gradient(720px 360px at 92% -8%, rgba(103, 174, 232, .06), transparent 48%),
         var(--archive-bg);
     font-family: var(--archive-ui);
     scroll-padding-top: var(--explorer-sticky-offset);
@@ -159,11 +169,12 @@ html:has(.explorer-page) {
 
 .explorer-hero {
     display: grid;
-    grid-template-columns: minmax(0, 1.1fr) minmax(16rem, .9fr);
-    gap: 2rem;
+    grid-template-columns: minmax(0, 1.25fr) minmax(14rem, .75fr);
+    gap: 1.5rem 2rem;
     align-items: center;
-    padding-block: 3.25rem 2.25rem;
+    padding-block: 2.25rem 1.75rem;
     background: var(--archive-bg);
+    border-block-end: 1px solid var(--archive-line);
 }
 
 .explorer-hero__content { padding: 0; }
@@ -180,7 +191,7 @@ html:has(.explorer-page) {
 .explorer-hero h1 {
     max-width: 16ch;
     margin: 0;
-    font: 400 clamp(2rem, 4vw, 3.25rem)/1.12 var(--archive-display);
+    font: 400 clamp(1.75rem, 3.2vw, 2.6rem)/1.15 var(--archive-display);
     letter-spacing: -.03em;
 }
 
@@ -188,7 +199,7 @@ html:has(.explorer-page) {
     max-width: 62ch;
     margin: 1rem 0 0;
     color: var(--archive-muted);
-    font-size: 1.05rem;
+    font-size: 1.02rem;
     line-height: 1.6;
 }
 
@@ -203,15 +214,23 @@ html:has(.explorer-page) {
     margin: 0;
     overflow: hidden;
     outline: 1px solid var(--archive-line);
+    background: var(--archive-paper);
 }
 
 .explorer-hero__image {
     display: block;
     width: 100%;
     height: 100%;
-    max-height: 22rem;
+    max-height: 16rem;
     object-fit: cover;
-    object-position: center 32%;
+    object-position: center 40%;
+    filter: saturate(.85) contrast(1.02);
+}
+
+.explorer-hero__caption {
+    padding: .55rem .7rem;
+    color: var(--archive-faint);
+    font: 500 .72rem/1.4 var(--archive-mono);
 }
 
 .archive-cta {
