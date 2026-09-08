@@ -8,9 +8,10 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / '05 Public/Atlas'
 WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Workshop'
 DOCS = ROOT / 'docs'
-ASSET = '20260909'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
-NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop')]
+NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
+NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
+ASSET = '20260910'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -82,7 +83,7 @@ def nav_links(slug, items):
     return ''.join(f'<a href="{key}.html"'+(' aria-current="page"' if key==slug else '')+'>'+label+'</a>' for key,label in items)
 
 def shell(slug,title,deck,body,image=None):
-    nav='<div class="nav-group" aria-label="Story">'+nav_links(slug,NAV_STORY)+'</div><div class="nav-group" aria-label="Development">'+nav_links(slug,NAV_DEV)+'</div>'
+    nav='<div class="nav-group" aria-label="Story">'+nav_links(slug,NAV_STORY)+'</div><div class="nav-group" aria-label="Development">'+nav_links(slug,NAV_DEV)+'</div><div class="nav-group" aria-label="Records">'+nav_links(slug,NAV_RECORDS)+'</div>'
     alt=IMAGE_ALT.get(image,'Approved artwork from Seeds of the Throne.')
     art=f'<figure class="atlas-art"><img src="assets/images/{image}" alt="{html.escape(alt)}"><figcaption>Approved appearance. Scene symbolism is interpretation.</figcaption></figure>' if image else ''
     actions='<p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="archive.html">See how it is being developed</a></p>' if slug=='index' else ''

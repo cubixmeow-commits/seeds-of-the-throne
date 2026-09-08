@@ -13,7 +13,18 @@ declare(strict_types=1);
 /** @return list<string> */
 function explorer_markdown_files(string $root): array
 {
-    $root = rtrim((string) realpath($root), DIRECTORY_SEPARATOR);
+    // Request-lifetime cache: one recursive scan per process, same path validation.
+    static $cache = [];
+
+    $resolved = realpath($root);
+    if ($resolved === false) {
+        return [];
+    }
+    $root = rtrim($resolved, DIRECTORY_SEPARATOR);
+    if (isset($cache[$root])) {
+        return $cache[$root];
+    }
+
     $directory = new RecursiveDirectoryIterator(
         $root,
         FilesystemIterator::SKIP_DOTS | FilesystemIterator::CURRENT_AS_FILEINFO
@@ -50,7 +61,8 @@ function explorer_markdown_files(string $root): array
     }
 
     natcasesort($files);
-    return array_values($files);
+    $cache[$root] = array_values($files);
+    return $cache[$root];
 }
 /**
  * @param list<string> $paths
@@ -85,14 +97,80 @@ function explorer_build_tree(array $paths): array
     return $tree;
 }
 
-function explorer_file_url(string $path, string $fragment = 'archive'): string
+/**
+ * Build a Project Explorer URL that preserves intentional route state.
+ *
+ * Files browsing is its own view. Optional $query preserves an active search.
+ * Additional $params may carry workshop module ids or other safe query values.
+ *
+ * @param array<string, scalar|null> $params
+ */
+function explorer_file_url(string $path, string $fragment = 'archive', ?string $query = null, array $params = []): string
 {
-    $url = '?' . http_build_query(['file' => $path], '', '&', PHP_QUERY_RFC3986);
+    $queryParams = array_merge(
+        [
+            'view' => 'files',
+            'file' => $path,
+        ],
+        $params
+    );
+
+    if ($query !== null && $query !== '') {
+        $queryParams['q'] = $query;
+    }
+
+    $queryParams = array_filter(
+        $queryParams,
+        static fn ($value): bool => $value !== null && $value !== ''
+    );
+
+    $url = '?' . http_build_query($queryParams, '', '&', PHP_QUERY_RFC3986);
 
     if ($fragment !== '') {
         $url .= '#' . rawurlencode($fragment);
     }
 
+    return $url;
+}
+
+/** Allowed Project Explorer primary views. */
+function explorer_views(): array
+{
+    return [
+        'overview' => ['label' => 'Overview', 'fragment' => 'overview-view'],
+        'sources' => ['label' => 'Story', 'fragment' => 'story-view'],
+        'evidence' => ['label' => 'Decisions', 'fragment' => 'decisions-view'],
+        'workshop' => ['label' => 'Workshop', 'fragment' => 'workshop-view'],
+        'progress' => ['label' => 'Progress', 'fragment' => 'story-progress'],
+        'files' => ['label' => 'Files', 'fragment' => 'archive'],
+    ];
+}
+
+function explorer_normalize_view(?string $view): string
+{
+    $views = explorer_views();
+    return is_string($view) && isset($views[$view]) ? $view : 'overview';
+}
+
+/**
+ * Primary navigation href for a named view.
+ *
+ * @param array<string, scalar|null> $params
+ */
+function explorer_view_url(string $view, array $params = [], ?string $fragment = null): string
+{
+    $views = explorer_views();
+    $view = explorer_normalize_view($view);
+    $queryParams = array_merge(['view' => $view], $params);
+    $queryParams = array_filter(
+        $queryParams,
+        static fn ($value): bool => $value !== null && $value !== ''
+    );
+    $url = '?' . http_build_query($queryParams, '', '&', PHP_QUERY_RFC3986);
+    $anchor = $fragment ?? $views[$view]['fragment'];
+    if ($anchor !== '') {
+        $url .= '#' . rawurlencode($anchor);
+    }
     return $url;
 }
 

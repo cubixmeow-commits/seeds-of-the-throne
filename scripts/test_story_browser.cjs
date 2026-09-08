@@ -4,51 +4,230 @@ const fs = require('fs');
 const path = require('path');
 const base = process.env.SEEDS_TEST_URL || 'http://127.0.0.1:8766';
 const out = process.env.SEEDS_TEST_OUTPUT || '/tmp/seeds-browser-review';
-fs.mkdirSync(out,{recursive:true});
-(async()=>{
- const browser=await chromium.launch({headless:true,...(process.env.SEEDS_CHROMIUM ? {executablePath:process.env.SEEDS_CHROMIUM} : {})});
- const page=await browser.newPage();const errors=[];const results=[];
- page.on('pageerror',e=>errors.push(e.message));
- page.on('response',r=>{if(r.url().startsWith(base)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`)});
- const pages=['index','colonization','ai','characters','faction','timeline','research','archive','workshop','todo','ideas','visuals'].map(p=>`/docs/${p}.html`);
- pages.push('/iainreiddotdev/project-explorer/','/iainreiddotdev/project-explorer/?view=sources','/iainreiddotdev/project-explorer/?view=evidence','/iainreiddotdev/project-explorer/?view=workshop');
- for(const width of [320,1440]){
-  await page.setViewportSize({width,height:1000});
-  for(const route of pages){
-   const response=await page.goto(base+route);await page.waitForTimeout(150);
-   if(await page.locator('[data-workshop]').count()) await page.locator('#workshop-answer').waitFor();
-   const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1);
-   results.push({width,route,status:response.status(),overflow});
-   if(overflow)errors.push(`overflow ${width} ${route}`);
-   if(route.includes('view=workshop')) await page.locator('#session').screenshot({path:path.join(out,`${width}-session.png`)});
-   if(route==='/iainreiddotdev/project-explorer/') await page.locator('#workbench').screenshot({path:path.join(out,`${width}-workbench.png`)});
-   if(['/docs/index.html','/docs/workshop.html','/iainreiddotdev/project-explorer/'].includes(route)) await page.screenshot({path:path.join(out,`${width}-${route.includes('project-explorer')?'explorer':route.split('/').pop()}.png`),fullPage:false});
+fs.mkdirSync(out, { recursive: true });
+
+const VIEWPORTS = [320, 375, 430, 768, 1024, 1440];
+const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'timeline', 'research', 'archive', 'workshop', 'todo', 'ideas', 'visuals']
+  .map((p) => `/docs/${p}.html`);
+
+(async () => {
+  const browser = await chromium.launch({
+    headless: true,
+    ...(process.env.SEEDS_CHROMIUM ? { executablePath: process.env.SEEDS_CHROMIUM } : {}),
+  });
+  const page = await browser.newPage();
+  const errors = [];
+  const results = [];
+  page.on('pageerror', (e) => errors.push(e.message));
+  page.on('response', (r) => {
+    if (r.url().startsWith(base) && r.status() >= 400) errors.push(`${r.status()} ${r.url()}`);
+  });
+
+  const push = (entry) => results.push(entry);
+
+  const assertNoOverflow = async (width, route) => {
+    const overflow = await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1);
+    push({ width, route, overflow });
+    if (overflow) errors.push(`overflow ${width} ${route}`);
+  };
+
+  const minTargetPx = async (selector) => page.evaluate((sel) => {
+    const nodes = Array.from(document.querySelectorAll(sel)).filter((node) => {
+      const style = getComputedStyle(node);
+      const box = node.getBoundingClientRect();
+      return style.display !== 'none' && style.visibility !== 'hidden' && box.height > 0 && box.width > 0;
+    });
+    if (!nodes.length) return null;
+    return Math.min(...nodes.map((node) => {
+      const box = node.getBoundingClientRect();
+      return Math.min(box.height, box.width);
+    }));
+  }, selector);
+
+  // Responsive route sweep across every required width.
+  for (const width of VIEWPORTS) {
+    await page.setViewportSize({ width, height: 1000 });
+    for (const route of STORY_PAGES) {
+      const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
+      await page.waitForTimeout(120);
+      if (await page.locator('[data-workshop]').count()) {
+        await page.locator('#workshop-answer').waitFor({ timeout: 15000 });
+      }
+      push({ width, route, status: response.status() });
+      await assertNoOverflow(width, route);
+      if (['/docs/research.html', '/docs/visuals.html', '/docs/archive.html'].includes(route)) {
+        const current = await page.locator('.site-nav a[aria-current="page"]').first().textContent();
+        const expected = route.includes('research') ? 'Research' : route.includes('visuals') ? 'Visuals' : 'Archive';
+        if ((current || '').trim() !== expected) errors.push(`${route} missing selected state for ${expected} at ${width}`);
+        if (!(await page.locator('.site-nav a[href="research.html"]').count())) {
+          errors.push(`${route} missing Research nav path at ${width}`);
+        }
+      }
+    }
+
+    for (const [route, label, heading] of [
+      ['/iainreiddotdev/project-explorer/?view=overview', 'Overview', 'See how the authoring system turns ordinary language into finished story work.'],
+      ['/iainreiddotdev/project-explorer/?view=sources', 'Story', 'Open the public story pages and the reviewed Markdown behind them.'],
+      ['/iainreiddotdev/project-explorer/?view=evidence', 'Decisions', 'Trace assessments, research boundaries, contradictions, and accepted decisions.'],
+      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Work through one missing story problem at a time.'],
+    ]) {
+      const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
+      await page.waitForTimeout(150);
+      if (route.includes('workshop')) {
+        await page.locator('#workshop-answer').waitFor({ timeout: 15000 }).catch(() => errors.push(`workshop failed to load at ${width}`));
+      }
+      push({ width, route, status: response.status() });
+      await assertNoOverflow(width, route);
+      const active = await page.locator('.product-nav a[aria-current="page"]').textContent();
+      if ((active || '').trim() !== label) errors.push(`active state ${label} missing at ${width}`);
+      const title = await page.locator('#workbench-title').textContent();
+      if ((title || '').trim() !== heading) errors.push(`distinct heading for ${label} missing at ${width}`);
+      if (await page.locator('link[href*="docs/atlas.css"]').count()) {
+        errors.push(`atlas.css still imported into Project Explorer at ${width}`);
+      }
+      if (width <= 768) {
+        const toggle = page.locator('[data-product-nav-button]');
+        if (!(await toggle.count())) errors.push(`hamburger missing at ${width}`);
+        else {
+          await toggle.click();
+          if (await toggle.getAttribute('aria-expanded') !== 'true') errors.push(`menu failed to open at ${width}`);
+          await page.keyboard.press('Escape');
+          if (await toggle.getAttribute('aria-expanded') !== 'false') errors.push(`menu Escape failed at ${width}`);
+          await toggle.click();
+          await page.locator('.product-nav a', { hasText: 'Progress' }).click();
+          if (await toggle.getAttribute('aria-expanded') !== 'false') errors.push(`menu link-close failed at ${width}`);
+        }
+        // Re-open menu so nav links are measurable, then check browse/theme controls.
+        await page.goto(base + route, { waitUntil: 'domcontentloaded' });
+        await page.locator('[data-product-nav-button]').click();
+        const target = await minTargetPx('.product-nav[data-open] a, .explorer-browse-toggle, .product-nav__toggle, .theme-toggle');
+        if (target !== null && target < 44) errors.push(`touch target ${target}px < 44 at ${width}`);
+      } else if (await page.locator('[data-product-nav-button]').isVisible()) {
+        errors.push(`hamburger visible on desktop width ${width}`);
+      }
+    }
+
+    await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md#archive', { waitUntil: 'domcontentloaded' });
+    await assertNoOverflow(width, 'files');
+    if ((await page.locator('.product-nav a[aria-current="page"]').textContent() || '').trim() !== 'Files') {
+      errors.push(`Files active state missing at ${width}`);
+    }
+    if (width <= 768) {
+      if (!(await page.locator('[data-archive-open]').isVisible())) errors.push(`Browse files control missing at ${width}`);
+      if (await page.locator('[data-archive-panel]').isVisible()) errors.push(`file tree visible before browse at ${width}`);
+      await page.locator('[data-archive-open]').click();
+      if (!(await page.locator('[data-archive-panel]').isVisible())) errors.push(`file browser failed to open at ${width}`);
+      if (await page.locator('#archive-document').isVisible()) errors.push(`document still visible while browsing at ${width}`);
+      await page.locator('[data-archive-close]').first().click();
+      if (!(await page.locator('#archive-document').isVisible())) errors.push(`document not restored after close at ${width}`);
+    } else if (!(await page.locator('[data-archive-panel]').isVisible())) {
+      errors.push(`desktop archive sidebar hidden at ${width}`);
+    }
+
+    // Sticky header must not cover the destination heading after navigation.
+    await page.goto(base + '/iainreiddotdev/project-explorer/?view=sources#story-view', { waitUntil: 'load' });
+    await page.waitForTimeout(700);
+    const covered = await page.evaluate(() => {
+      const header = document.querySelector('#site-header');
+      const title = document.querySelector('#workbench-title');
+      if (!header || !title) return true;
+      const headerBottom = header.getBoundingClientRect().bottom;
+      const titleTop = title.getBoundingClientRect().top;
+      return titleTop < headerBottom - 1;
+    });
+    if (covered) errors.push(`sticky header covers Story destination at ${width}`);
+
+    await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md#archive', { waitUntil: 'load' });
+    await page.waitForTimeout(700);
+    const archiveCovered = await page.evaluate(() => {
+      const header = document.querySelector('#site-header');
+      const title = document.querySelector('#archive-title');
+      if (!header || !title) return true;
+      const headerBottom = header.getBoundingClientRect().bottom;
+      const box = title.getBoundingClientRect();
+      return box.top < headerBottom - 1 || box.top > innerHeight;
+    });
+    if (archiveCovered) errors.push(`sticky header covers Files destination at ${width}`);
+
+    if ([320, 1440].includes(width)) {
+      await page.screenshot({ path: path.join(out, `${width}-explorer.png`), fullPage: false });
+    }
   }
- }
- await page.setViewportSize({width:320,height:900});await page.goto(base+'/docs/index.html');
- await page.locator('[data-menu-button]').click();if(await page.locator('[data-menu-button]').getAttribute('aria-expanded')!=='true') errors.push('menu failed to open');
- await page.keyboard.press('Escape');if(await page.locator('[data-menu-button]').getAttribute('aria-expanded')!=='false') errors.push('menu failed to close');
- await page.goto(base+'/docs/workshop.html?module=11#session');await page.locator('#workshop-answer').waitFor();
- const answer='Module: 11 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
- await page.locator('#workshop-answer').fill(answer);await page.reload();await page.locator('#workshop-answer').waitFor();
- if(await page.locator('#workshop-answer').inputValue()!==answer)errors.push('draft did not survive reload');
- await page.locator('#workshop-module').selectOption('12');await page.locator('#workshop-module').selectOption('11');
- if(await page.locator('#workshop-answer').inputValue()!==answer)errors.push('module switch lost draft');
- const download=page.waitForEvent('download');await page.getByRole('button',{name:'Export answer as Markdown',exact:true}).click();const d=await download;const file=path.join(out,d.suggestedFilename());await d.saveAs(file);
- if(fs.readFileSync(file,'utf8')!==answer)errors.push('export content mismatch');
- page.on('dialog',d=>d.accept());await page.locator('#workshop-answer').fill('temporary');await page.locator('#workshop-import').setInputFiles(file);
- await page.waitForTimeout(150);if(await page.locator('#workshop-answer').inputValue()!==answer)errors.push('import mismatch');
- await page.locator('.packet-detail summary').click();if(!await page.getByText('Blocking identity discrepancy',{exact:true}).isVisible())errors.push('packet detail missing');
- await page.evaluate(()=>Object.keys(localStorage).filter(k=>k.startsWith('seeds-workshop-v1:')).forEach(k=>localStorage.removeItem(k)));
- // Explorer source search and traversal rejection.
- await page.goto(base+'/iainreiddotdev/project-explorer/?q=Luminai#archive');
- if(!await page.locator('.explorer-results').count())errors.push('Explorer search missing');
- const invalid=await page.request.get(base+'/iainreiddotdev/project-explorer/?file=../../etc/passwd');
- if(invalid.status()!==404)errors.push('Traversal was not rejected');
- const denied=await browser.newContext();await denied.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw Error('blocked')}}));
- const dp=await denied.newPage();await dp.goto(base+'/docs/workshop.html');await dp.locator('#workshop-answer').waitFor();await dp.locator('#workshop-answer').fill('unsaved');
- if(!await dp.getByText('Browser storage unavailable.',{exact:false}).count())errors.push('storage failure not disclosed');
- await denied.close();
- fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({results,errors},null,2));await browser.close();
- if(errors.length){console.error(errors.join('\n'));process.exit(1);}console.log(`PASS: ${results.length} responsive routes, menus, drafts, export/import, search, traversal, storage failure, no JS errors.`);
+
+  // Story-site menu behavior.
+  await page.setViewportSize({ width: 320, height: 900 });
+  await page.goto(base + '/docs/index.html');
+  await page.locator('[data-menu-button]').click();
+  if (await page.locator('[data-menu-button]').getAttribute('aria-expanded') !== 'true') errors.push('story menu failed to open');
+  await page.keyboard.press('Escape');
+  if (await page.locator('[data-menu-button]').getAttribute('aria-expanded') !== 'false') errors.push('story menu failed to close');
+
+  // Workshop persistence/import/export on Project Explorer.
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=11#session');
+  await page.locator('#workshop-answer').waitFor();
+  const answer = 'Module: 11 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
+  await page.locator('#workshop-answer').fill(answer);
+  await page.reload();
+  await page.locator('#workshop-answer').waitFor();
+  if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer draft did not survive reload');
+  await page.locator('#workshop-module').selectOption('12');
+  await page.locator('#workshop-module').selectOption('11');
+  if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer module switch lost draft');
+  const download = page.waitForEvent('download');
+  await page.getByRole('button', { name: 'Export answer as Markdown', exact: true }).click();
+  const d = await download;
+  const file = path.join(out, d.suggestedFilename());
+  await d.saveAs(file);
+  if (fs.readFileSync(file, 'utf8') !== answer) errors.push('explorer export content mismatch');
+  page.on('dialog', (dlg) => dlg.accept());
+  await page.locator('#workshop-answer').fill('temporary');
+  await page.locator('#workshop-import').setInputFiles(file);
+  await page.waitForTimeout(150);
+  if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer import mismatch');
+  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
+
+  // Theme toggle remains available beside the hamburger.
+  await page.setViewportSize({ width: 375, height: 900 });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=overview');
+  if (!(await page.locator('#theme-toggle').isVisible())) errors.push('theme toggle hidden on mobile');
+  await page.locator('#theme-toggle').click();
+  const theme = await page.evaluate(() => document.documentElement.getAttribute('data-theme'));
+  if (theme !== 'light' && theme !== 'dark') errors.push('theme toggle did not set appearance');
+
+  // Search preserves files view and requested document.
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md&q=Luminai#archive');
+  if (!(await page.locator('.explorer-results').count())) errors.push('Explorer search missing');
+  const searchUrl = page.url();
+  if (!searchUrl.includes('view=files') || !searchUrl.includes('file=README.md')) {
+    errors.push('search URL dropped view/file state');
+  }
+  const fileLink = page.locator('.explorer-results a').first();
+  if (await fileLink.count()) {
+    const href = await fileLink.getAttribute('href');
+    if (!href || !href.includes('view=files') || !href.includes('file=')) {
+      errors.push('result link missing files state');
+    }
+  }
+
+  const invalid = await page.request.get(base + '/iainreiddotdev/project-explorer/?file=../../etc/passwd');
+  if (invalid.status() !== 404) errors.push('Traversal was not rejected');
+
+  const denied = await browser.newContext();
+  await denied.addInitScript(() => Object.defineProperty(window, 'localStorage', { get() { throw Error('blocked'); } }));
+  const dp = await denied.newPage();
+  await dp.goto(base + '/docs/workshop.html');
+  await dp.locator('#workshop-answer').waitFor();
+  await dp.locator('#workshop-answer').fill('unsaved');
+  if (!(await dp.getByText('Browser storage unavailable.', { exact: false }).count())) {
+    errors.push('storage failure not disclosed');
+  }
+  await denied.close();
+
+  fs.writeFileSync(path.join(out, 'results.json'), JSON.stringify({ results, errors }, null, 2));
+  await browser.close();
+  if (errors.length) {
+    console.error(errors.join('\n'));
+    process.exit(1);
+  }
+  console.log(`PASS: ${results.length} responsive checks across ${VIEWPORTS.join('/')}px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`);
 })();

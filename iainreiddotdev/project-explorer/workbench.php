@@ -6,34 +6,56 @@ $atlasData = is_file($atlasPath) ? json_decode((string) file_get_contents($atlas
 $workshopData = is_file($workshopPath) ? json_decode((string) file_get_contents($workshopPath), true) : [];
 $atlasData = is_array($atlasData) ? $atlasData : [];
 $modules = is_array($workshopData) && isset($workshopData['modules']) && is_array($workshopData['modules']) ? $workshopData['modules'] : [];
-$views = ['overview' => 'Overview', 'sources' => 'Story', 'evidence' => 'Decisions', 'workshop' => 'Workshop'];
-$view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['view']]) ? $_GET['view'] : 'overview';
+
+$workbenchViews = [
+    'overview' => [
+        'id' => 'overview-view',
+        'title' => 'See how the authoring system turns ordinary language into finished story work.',
+        'lede' => 'The Project Explorer shows the live notes, decisions, and workshop used to develop Seeds of the Throne. Each step keeps confirmed decisions separate from suggestions and unanswered questions.',
+    ],
+    'sources' => [
+        'id' => 'story-view',
+        'title' => 'Open the public story pages and the reviewed Markdown behind them.',
+        'lede' => 'The story site and Project Explorer are built from the same reviewed Markdown. Open any topic to see the public story, the source behind it, and whether the idea is settled or still being developed.',
+    ],
+    'evidence' => [
+        'id' => 'decisions-view',
+        'title' => 'Trace assessments, research boundaries, contradictions, and accepted decisions.',
+        'lede' => 'These documents show what the analysis found, where ideas conflict, what science can support, and which choices now control the story.',
+    ],
+    'workshop' => [
+        'id' => 'workshop-view',
+        'title' => 'Work through one missing story problem at a time.',
+        'lede' => 'Each workshop explains what is known, what is missing, why the answer matters, and several different ways the story could work. Nothing becomes part of the story until the author accepts it.',
+    ],
+];
+
+$activeWorkbench = isset($workbenchViews[$view]) ? $view : 'overview';
+$activeMeta = $workbenchViews[$activeWorkbench];
 ?>
-<section class="development-workspace wrap" id="workbench" aria-labelledby="workbench-title">
-  <header class="workspace-intro"><p>Story development tools</p><h2 id="workbench-title">The workshop helps the author complete the parts of the story that are still missing.</h2><p>It explains one story problem, asks one clear question, offers different possible answers, and shows what each answer would change. The author makes the decision. The accepted answer is then added to the characters, timeline, world, and plot.</p></header>
-  <nav class="workspace-tabs" aria-label="Development views">
-  <?php foreach ($views as $key => $label): ?>
-    <a href="?view=<?= e($key) ?>#workbench"<?= $key === $view ? ' aria-current="page"' : '' ?>><?= e($label) ?></a>
-  <?php endforeach; ?>
-  </nav>
+<section class="development-workspace wrap" id="<?= e($activeMeta['id']) ?>" aria-labelledby="workbench-title" data-explorer-view="<?= e($activeWorkbench) ?>">
+  <header class="workspace-intro">
+    <p>Story development tools</p>
+    <h2 id="workbench-title"><?= e($activeMeta['title']) ?></h2>
+    <p><?= e($activeMeta['lede']) ?></p>
+  </header>
   <p class="workspace-notice">This is a public, read-only look at the real project, so it contains full spoilers. You can try the workshop, but your draft stays in this browser unless you export it.</p>
-  <?php if ($view === 'overview'): ?>
+  <?php if ($activeWorkbench === 'overview'): ?>
     <ol class="workspace-sequence">
       <li><h3>The author explains the story in ordinary language.</h3><p>The system records those ideas and separates confirmed decisions from suggestions and unanswered questions.</p><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction.md')) ?>">Read how the system is designed</a></li>
-      <li><h3>The workshop asks one question at a time.</h3><p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p><a href="?view=workshop&amp;module=08#session">Open a workshop question</a></li>
-      <li><h3>Accepted answers are added where they belong.</h3><p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p><a href="?view=evidence#workbench">Review decisions and supporting information</a></li>
+      <li><h3>The workshop asks one question at a time.</h3><p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p><a href="<?= e(explorer_view_url('workshop', ['module' => '08'], 'session')) ?>">Open a workshop question</a></li>
+      <li><h3>Accepted answers are added where they belong.</h3><p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p><a href="<?= e(explorer_view_url('evidence')) ?>">Review decisions and supporting information</a></li>
       <li><h3>Use the completed plan to write and revise scenes.</h3><p>The planned system will create scene outlines, draft prose, check continuity, revise weak sections, and assemble the manuscript for the author's approval.</p><a href="<?= e(explorer_file_url('07 Coordination/Authoring System/03 - Workshop and Composition Engines.md')) ?>">Read the system plan</a></li>
     </ol>
     <p class="workspace-example">Seeds of the Throne is the working example. The notes, decisions, and workshop below are the live project, not a demonstration mockup.</p>
     <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-05 - Comprehensive Story Assessment.md')) ?>">See what the analysis found</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
-  <?php elseif ($view === 'sources'): ?>
-    <p>The story site and Project Explorer are built from the same reviewed Markdown. Open any topic to see the public story, the source behind it, and whether the idea is settled or still being developed.</p>
+  <?php elseif ($activeWorkbench === 'sources'): ?>
     <div class="workspace-grid">
     <?php foreach ($atlasData as $entry): ?>
       <article><span><?= e($entry['route']) ?></span><h3><?= e($entry['title']) ?></h3><p><?= e($entry['deck']) ?></p><a href="<?= e(explorer_file_url($entry['source'])) ?>">See the source</a> · <a href="../../docs/<?= e($entry['route']) ?>.html">Read the story page</a></article>
     <?php endforeach; ?>
     </div>
-  <?php elseif ($view === 'evidence'): ?>
+  <?php elseif ($activeWorkbench === 'evidence'): ?>
     <div class="workspace-grid">
     <?php foreach ([
       '07 QA/2026-09-05 - Comprehensive Story Assessment.md' => ['What the story needs', 'The strongest ideas, the missing causes, and the decisions with the largest consequences.'],
@@ -46,16 +68,15 @@ $view = isset($_GET['view']) && is_string($_GET['view']) && isset($views[$_GET['
       <article><h3><?= e($item[0]) ?></h3><p><?= e($item[1]) ?></p><a href="<?= e(explorer_file_url($path)) ?>">Read source</a></article>
     <?php endforeach; ?>
     </div>
-  <?php elseif ($view === 'workshop'): ?>
-    <p>Choose one part of the story. Each workshop explains what is known, what is missing, why the answer matters, and several different ways the story could work. Nothing becomes part of the story until the author accepts it.</p>
+  <?php elseif ($activeWorkbench === 'workshop'): ?>
     <details class="workspace-module-index"><summary>Choose from twenty story workshops</summary><nav class="workspace-grid" aria-label="Decision modules">
     <?php foreach ($modules as $module): ?>
-      <a href="?view=workshop&amp;module=<?= e($module['id']) ?>#session"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
+      <a href="<?= e(explorer_view_url('workshop', ['module' => $module['id']], 'session')) ?>"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
     <?php endforeach; ?>
     </nav></details>
     <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json"><p role="status">Loading the selected workshop.</p></section>
     <noscript><p>The workshop needs JavaScript. Every question is also available in the project vault below.</p></noscript>
     <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Workshop/README.md')) ?>">See every workshop and its source</a>
-    <script src="../../docs/workshop.js?v=20260909" defer></script>
+    <script src="../../docs/workshop.js?v=<?= e($assetVersion) ?>" defer></script>
   <?php endif; ?>
 </section>
