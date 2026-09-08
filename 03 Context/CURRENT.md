@@ -8,9 +8,9 @@ updated: 2026-09-08
 
 ## September 8 website visual redesign
 
-A containment-archive visual redesign of the `docs/` story atlas and Project Explorer is implemented on branch `cursor/story-sites-visual-redesign` and awaiting author review. It has not been deployed. Approved public wording remains locked. This supersedes earlier statements that the websites were deferred or must not be rebuilt.
+A containment-archive visual redesign of the `docs/` story atlas and Project Explorer was merged to `main` and deployed for author review. Review found that multiple Project Explorer links appear to lead to the same place, the mobile interface has no Project Explorer hamburger menu, and related navigation, archive, and stylesheet integration issues require a focused repair. [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]] is ready for that pass. Approved public wording remains locked.
 
-Resume website questions from [[07 Coordination/CURRENT-PICKUP]]. Implementation details are in [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]], [[07 Coordination/DESKTOP-QUEUE]], and [[01 Sessions/Daily/2026-09-08 - Cursor Story Sites Visual Redesign]]. Story-development state and author gates below are unchanged.
+After repair, the next website phase is an author-reviewed redesign based on [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]], not another broad implementation prompt. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Implementation details are in [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]], [[07 Coordination/DESKTOP-QUEUE]], and [[01 Sessions/Daily/2026-09-08 - Cursor Story Sites Visual Redesign]]. Story-development state and author gates below are unchanged.
 
 ## September 8 public website voice and purpose
 

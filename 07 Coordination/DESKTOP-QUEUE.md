@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-08-23
+updated: 2026-09-08
 ---
 
 # Desktop Implementation Queue
@@ -17,13 +17,20 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-No additional desktop-only implementation is currently queued beyond review of the 2026-09-08 visual redesign. Resume creative development from [[CURRENT-PICKUP]] after that review.
+### 2026-09-08 — Project Explorer navigation and responsive repair
+
+- **Status:** ready for Cursor
+- **Source:** [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]
+- **Scope:** Repair distinct navigation destinations, active state, Project Explorer mobile menu, sticky-header behavior, mobile archive browsing, Workshop CSS isolation, asset versioning, state preservation, and responsive verification.
+- **Preserve:** This is a repair pass. Do not change approved public wording, story canon, unresolved author gates, or begin the larger visual redesign.
+- **Verify:** Test 320, 375, 430, 768, 1024, and 1440px; extend browser coverage; run the build, source checks, JavaScript checks, PHP lint, and `git diff --check`; report anything that cannot run.
+- **Next phase:** After the repair is reviewed, use [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]] to select a story-aligned direction before further implementation.
 
 ## Completed implementation context
 
 ### 2026-09-08 — Story site and Project Explorer visual redesign
 
-- **Status:** implemented for review on `cursor/story-sites-visual-redesign`; not deployed
+- **Status:** merged to `main` and deployed for review; navigation and mobile defects found, with repair now queued above
 - **Source:** [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]]
 - **Result:** Shared containment-archive visual system, compact heroes, grouped navigation, Ideas two-pane workspace, quieter development sources, and a unified Project Explorer shell. Approved public copy was preserved.
 
