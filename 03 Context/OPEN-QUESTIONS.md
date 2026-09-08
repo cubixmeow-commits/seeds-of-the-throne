@@ -1,10 +1,25 @@
 ---
 type: context
 status: active
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Open Questions
+
+## Encoded patterns and manufactured history — 2026-09-07
+
+- What exactly does the wireless process alter when it points a participant toward information: access, attention, sensory emphasis, Luminai inference, environmental events, or a bounded combination?
+- Which true observation becomes the first false interpretation Samuel successfully installs for George White?
+- Which independent evidence route remains available to George, and why does he fail to use it?
+- Is the deepest cross-civilizational pattern an intentional training and recovery system, an artifact of the terraforming compiler, or several layers that must be separated?
+- Which apparent historical evidence is placed during terraforming, which is periodically reconstructed, and which accumulates through genuine lived generations?
+- What prevents individualized guidance by the real leaders from becoming unaccountable manipulation?
+- What falsifiable test distinguishes a real process encoding from numerology, data tuning, coincidence, or a criminally planted pattern?
+- Are the synthetics managing religious organizations separate persons, bounded manifestations of one process intelligence, or both at different levels?
+- How does an AI-managed religious institution preserve participant freedom, dissent, conversion, departure, and equal civil standing?
+- What religious and process information can a synthetic manager present at each awareness level without making synthetic identity or synthetic management part of the planet's available information, and who authorizes or audits those boundaries externally?
+- What religious questions are the real leaders trying to answer, and which methods are prohibited because they would coerce belief, manufacture suffering, or predetermine the result?
+- How are larger-humanity religions transformed into invented reconstructed traditions without forcing participants to replay historical believers or conflicts?
 
 ## September 5 priority dependencies
 

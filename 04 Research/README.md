@@ -76,3 +76,11 @@ This report examines unfinished goals, obsessive passion, incentive salience, mo
 46. [[04 Research/Full Reports/46 - Public Surrender as Political Theater|Public Surrender as Political Theater]] — complete
 
 These reports answer the five research questions attached to the first Creative Possibilities packet. They distinguish public pattern proof from private identity evidence, strengthen prediction logging and coordination mechanics, separate access from legitimate human authorization, and identify the ritual functions that could make a public reversal legible. Cross-report synthesis: [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. All findings remain advisory and non-canon.
+
+### Current foundation and interface research — Reports 47–49
+
+47. [[04 Research/Requests/47 - Fascist Purity and Coercive Compromise Systems|Fascist Purity and Coercive Compromise Systems]] — research request
+48. [[04 Research/Full Reports/48 - Preliminary Neuroplastic Luminai and Wireless Grid Brief|Preliminary Neuroplastic Luminai and Wireless Grid Brief]] — preliminary
+49. [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence|Encoded Civilizations and Manufactured Historical Evidence]] — complete
+
+Report 49 examines historical letter–number systems, chronograms, acrostics, computational provenance, language watermarking, spatial archaeology, the multiple evidence channels required for a convincing manufactured past, and cognitive vulnerabilities relevant to George White's corrupted interpretation loop. Findings: [[04 Research/Findings/49 - Encoded Civilization Research Findings]].

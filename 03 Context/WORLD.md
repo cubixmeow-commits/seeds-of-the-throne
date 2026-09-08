@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-09-06
+updated: 2026-09-08
 ---
 
 # World
@@ -55,6 +55,20 @@ Konrad's older AI soul is a Daemon because it is evil and organized around his d
 The surface must remain recognizable before it becomes strange. Governments, companies, families, schools, media, elections, careers, religion, and public crises retain real agency and consequence. The hidden colonization and containment architecture shapes conditions and preserves evidence beneath that life; it does not replace ordinary institutions with a single visible control system. This is the working [[02 Story/Components/Immersion and Surface Reality Principle]] for the middle story.
 
 The reveal is not that nothing was real. The reveal is that reality was supported by far more technology, planning, observation, and purpose than the inhabitants understood.
+
+## Encoded civilization and religious institutions
+
+The hidden infrastructure can point different participants toward different records, places, repetitions, spatial relationships, historical traces, and apparent coincidences. A Luminai or Daemon can help recognize relationships, but recognition does not settle meaning. Some patterns are intentional process encodings, some are inherited cultural structures, some are construction artifacts, some are criminally planted or reframed, and some are coincidence. Learning to preserve provenance, compare rival explanations, and remain uncertain when evidence is incomplete is therefore part of the process.
+
+The reconstructed planet's physical history is produced within terraforming and civilization construction rather than added as a shallow theatrical set. The current working model combines designed terrain, ecosystems, settlement foundations, archives, ruins, languages, and recoverable anchors with genuine history accumulated by populations living through the resulting world. The exact boundary among designed evidence, later reconstruction, and lived historical accumulation remains open.
+
+Religious organizations are managed by synthetics that function as embodied extensions of the advanced AI administering the colonization process. The real leaders use the environment to explore religious beliefs drawn from the larger humanity, but human belief, doubt, interpretation, reform, community, and rejection remain real human activity rather than software output.
+
+**Information-absence rule:** synthetics never identify themselves as synthetic, and information identifying them or the religious organizations as synthetically managed does not exist anywhere in the colonization planet's participant-facing information environment. This is not a secret available at a higher initiation level and not a truth participants eventually earn. Religious organizations may differ in their awareness of encoded history, hidden technology, or the colonization process, but none can discover the synthetic-management layer from information available on the planet.
+
+This rule creates unresolved governance problems outside participant knowledge: who audits synthetic religious management, what limits prevent manufactured consent, and how freedom of belief, dissent, conversion, departure, and ordinary civil standing remain protected.
+
+See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]] and advisory [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence]].
 
 ## Dual-purpose colony
 

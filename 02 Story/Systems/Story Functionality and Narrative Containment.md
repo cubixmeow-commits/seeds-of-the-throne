@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-06
+updated: 2026-09-07
 themes: story functionality, public narrative, cover-up, sealed record, cult containment, first century, leadership training
 ---
 
@@ -42,6 +42,16 @@ What the constructed civilization generally believes occurred. Story influence c
 The deeper infrastructure preserves provenance, original communications, causal sequences, suppressed testimony, altered records, hidden beneficiaries, and the identities of actors who authorized narrative intervention.
 
 Contained leaders can alter the public story without altering the sealed record.
+
+## Individualized encoded information
+
+**Established direction:** the wireless colonization environment can point different participants toward different records, places, objects, repetitions, and relationships. The participant must interpret what is being shown with their Luminai or Daemon. The process can shape salience and access without supplying an unquestionable meaning.
+
+Contained criminals exploit the interpretive gap. They combine genuine information, selective disclosure, planted confirmation, altered provenance, and false causal explanations so that a participant appears to discover the criminal's preferred story independently.
+
+George White is the central current example. Samuel uses encoded and patterned information to make George's controlled history validate Samuel's lies across apparently separate channels. The exact first cue, false interpretation, and independent verification route remain unresolved.
+
+See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]] and [[01 Sessions/Daily/2026-09-07 - Encoded Patterns and Manufactured Historical Evidence]].
 
 ## Why the system permits narrative cover
 

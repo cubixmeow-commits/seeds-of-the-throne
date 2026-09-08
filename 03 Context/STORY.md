@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-09-05
+updated: 2026-09-08
 ---
 
 # Story
@@ -43,6 +43,16 @@ A participant's personal AI develops through years of interaction with mind, sub
 “Story functionality” is not a single magical mechanism. It emerges from an ecology of personal cognition, biological synthetics, information routing, communications, institutional intelligence, identity and permissions, responsive spaces, environmental controls, resource allocation, evidence systems, and hidden colony-scale coordination.
 
 **The world itself is the mechanism.**
+
+## Interpretation as a conflict system
+
+The wireless environment does not simply explain itself. It points different participants toward selected information and leaves them to interpret what they have found with a Luminai or Daemon. This makes encoded patterns, reconstructed historical evidence, and apparent personal messages part of the story's conflict over reality.
+
+George White is the central negative example. He recognizes genuine relationships, his Daemon organizes them, Samuel supplies the explanation, and later selected cues appear to verify that explanation independently. Samuel can therefore build a closed informational world without fabricating every fact or directly commanding every choice George makes.
+
+Sylvan's contrasting development is not that his Luminai makes him infallible. He learns that a pattern can be real without his first explanation being true. Provenance, falsifiable predictions, rival interpretations, independent evidence, and willingness to revise become practical survival skills. The exact first pattern that draws George into Samuel's explanation remains an author gate.
+
+See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]].
 
 ## Throne arc
 

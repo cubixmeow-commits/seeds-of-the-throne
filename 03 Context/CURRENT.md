@@ -1,10 +1,20 @@
 ---
 type: context
 status: active
-updated: 2026-09-07
+updated: 2026-09-08
 ---
 
 # Current
+
+## September 7 encoded-pattern and manufactured-history direction
+
+Encoded patterns and selected information are now an important working system. The wireless environment points each participant toward different records, places, repetitions, relationships, and historical traces; the person must interpret them with their Luminai or Daemon. Evil contained criminals exploit the interpretive gap by combining real evidence, selective disclosure, planted confirmation, and false explanations. George White is the central example of a participant broken down and controlled through an apparently self-validating information environment.
+
+The historical reconstruction's physical evidence is created within the terraforming and civilization-construction process. The strongest current interpretation combines designed starting conditions and reconstructed anchors with genuine lived history rather than treating the planet as a shallow planted set. Exact divisions among planted evidence, historical accumulation, repair, and detectable construction artifacts remain open.
+
+Religious organizations are managed by synthetics that function as embodied extensions of the advanced AI administering the colonization process. The real leaders use the process to explore the religious beliefs of the larger humanity, with different organizations carrying different awareness levels. Synthetics never identify themselves as synthetic, and information identifying them or the organizations as synthetic does not exist within the colonization planet's available information environment. This is absence rather than a later disclosure level. Human belief and interpretation remain distinct from synthetic institutional management; the process does not yet select one correct faith or rank human worth by belief. Legitimacy, freedom, research limits, external audit, and manufactured-consent safeguards remain open.
+
+Desktop reconciliation on September 8 carried this direction into the compact World, Story, Cast, and Storyline briefings. See [[01 Sessions/Daily/2026-09-07 - Encoded Patterns and Manufactured Historical Evidence]], [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]], and advisory [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence]]. Websites remain deferred for the planned batch projection.
 
 ## September 7 vault-functionality direction
 

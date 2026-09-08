@@ -55,6 +55,10 @@ Each gate contains:
 
 One of: accepted decision event, corrected understanding, deferred gap, rejected proposal, disputed existing decision, or scoped research request. A workshop answer is not complete until propagation and validation succeed.
 
+### Narrative-anchor safeguard
+
+Before expanding a location, institution, character ensemble, assignment, or attack sequence, the Workshop Engine must restate the active conflict state that gives the branch story function: prior events, actor goals, knowledge, influence, channels, constraints, entering state, and required resulting state. If several consecutive questions produce locally plausible details without strengthening that conflict map, pause the branch and return to the nearest causal dependency. This prevents a productive interview from becoming disconnected accumulation.
+
 ## Composition Engine
 
 ### Purpose

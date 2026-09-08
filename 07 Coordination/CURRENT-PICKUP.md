@@ -1,29 +1,55 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-07
+updated: 2026-09-08
 scope: single current pickup point
 ---
 
 # Current Pickup
 
+## Desktop reconciliation — 2026-09-08
+
+The September 7 mobile material has been reconciled into the session, compiled system, character, storyline, compact context, research, QA, and weekly-intake layers. No website projection was run.
+
+The next high-leverage author gate in the new branch is:
+
+> What is the first pattern or piece of information George correctly recognizes as real, and what false explanation does Samuel attach to it?
+
+Answer only the observation and Samuel's interpretation. Do not yet design the full sequence, decide George's final culpability, or establish the exact wireless mechanism.
+
+The employment-campus branch remains deliberately paused until the Sylvan–Samuel conflict state at employment entry is mapped. Resume it from the separate gate immediately below when the author chooses that branch.
+
 ## Mobile pickup — 2026-09-08
 
 Resume the conversational authoring-system test with one story gate:
 
-> What is Sylvan's first job after the approximately ten-year protected reserve runs out, and why does the process place him there?
+> At the moment Sylvan enters the employment stage, what has already happened between Sylvan and Samuel, and what influence can Samuel still exercise over him?
 
 Established immediately before this gate:
 
 - the software-company collapse leaves Sylvan with an approximately $200,000 emergency investment functioning like a certificate of deposit;
 - it must sustain him for about ten years, averaging roughly $1,667 per month before returns, taxes, fees, or emergencies;
 - when it is exhausted, the employment stage begins and survival depends on active income;
+- the accepted working placement is a low-level campus operations-support role inside a large technology-company, university, institutional, or hybrid campus;
+- Sylvan advances through increasingly difficult training levels, with broader access and responsibility at each level;
+- for the first few years, Sylvan must remain with the same group while Samuel tries to turn its members against him and destroy cooperation;
+- Sylvan and his Luminai must help the group become stable without controlling its members, creating the employment arc's first ensemble and emotional relationships;
+- some group members are deliberately placed legacies of contained criminals, and some are consequences of Samuel's unauthorized breeding and bloodline manipulation;
+- Samuel intends to frame Sylvan, George, and selected group members for parts of his own system;
+- meeting the people gives Sylvan his first suspicions about the breeding scandal, but resemblance and pattern recognition are clues rather than proof;
+- the group uses three awareness levels: unaware members who believe their family histories, members who sense a problem but possess false explanations, and a small number deliberately positioned to manipulate the group and frame Sylvan;
+- the group is a realistic ten-person department including Sylvan, currently distributed as six unaware members, two with false explanations, and two deliberate manipulators;
+- its accepted working function is varied campus operations response across laboratories, offices, workshops, events, facilities, public spaces, and restricted areas;
+- its first major assignment is supporting the physical and operational infrastructure for a campus data-center expansion, with responsibility distributed across all ten members;
+- individual attack mechanics are intentionally deferred until the employment arc's macro structure is complete;
+- the author paused further campus development because it was becoming disconnected from the overall Sylvan–Samuel conflict;
+- the workplace must not resemble a postal processing facility or read as a disguised account of the author's job;
 - Samuel can now attack Sylvan through employment, earnings, projects, credibility, resources, and qualifying mistakes;
 - later, after surviving Samuel's high-influence period, Sylvan and Orzai reach terminal control and stabilize Sylvan's real-name online colonization story;
 - that story and its AI tools anchor Sylvan in reality while he intentionally interfaces with Samuel's Daemon through the hijacked application;
 - reaching other participants through the story remains proposed for later brainstorming.
 
-Continue on mobile by asking only the job/placement gate above. Do not rebuild the websites after each answer. Batch website and Project Explorer updates after the planned workshop pass or explicit author request.
+Pause this branch on mobile. At the next desktop session, map the Sylvan–Samuel conflict state at employment entry before asking any more campus questions. Establish prior interactions, mutual knowledge, Samuel's influence and remote channels, intermediaries, current objectives, Sylvan's learned defenses, and the change across the employment stage. Then reassess every campus idea against that map. Do not treat the current company, department, group, or data-center ideas as random-detail commitments if they fail the integrated story test. Do not rebuild the websites yet.
 
 ## Product-system design checkpoint — 2026-09-07
 

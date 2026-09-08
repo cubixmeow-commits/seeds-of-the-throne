@@ -93,7 +93,7 @@ The exact technical implementation remains unresolved. The Luminai does not beco
 
 Sylvan enters legitimate employment inside one large institution or operational environment containing many distinct sub-environments. His normal duties cause him to traverse them repeatedly.
 
-The exact job and employer remain unresolved. A large technology campus is one candidate, but the role must emerge from functional needs rather than convenience.
+**Working placement accepted 2026-09-07:** after the protected reserve is exhausted, Sylvan begins in a low-level campus operations-support role and advances through increasingly difficult training levels. The employer is a large multi-environment campus resembling a technology company, university, major institution, or hybrid. Its breadth creates many environments for development and many attack surfaces for Samuel. Exact employer, duties, ladder, and first objective remain unresolved.
 
 The key function is repeated legitimate movement across zones with different people, permissions, technologies, surveillance, rules, layouts, and information flows. This turns the recursive model built during the humiliation year into something Sylvan can test under changing conditions.
 
