@@ -12,6 +12,10 @@ After the Project Explorer navigation repair was merged and deployed, the author
 
 The selected direction makes the story's literal premise visible: an authentic surface civilization exists above a concealed, planet-scale system used for cultivation, Luminai development, coordination, and containment. The design will borrow the fractured-record and recovered-evidence language from the second concept for conspiracy, timeline, archive, and evidence sections. It will preserve the first concept's readable editorial hierarchy.
 
+## Later author correction
+
+The implementation was merged, deployed, and repaired for mobile overflow, but its visual treatment was rejected. The structural surface/hidden-system concept remains useful. The black-dominant field, yellow/antique-gold accents, boxed archive styling, traditional typography, and poster-like image placement are not approved references. The replacement process begins with functioning coded prototypes under [[07 Coordination/2026-09-08 - Cursor Coded Website Design Lab]].
+
 This is a website design decision, not a new story fact. The generated planetary sections, city, moon connections, rooms, machinery, documents, and color placement are interpretive. They may guide composition and atmosphere but cannot establish literal architecture, mechanisms, institutions, geography, evidence, or events.
 
 The approved implementation package is [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]]. Its artwork and provenance are recorded in [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]].

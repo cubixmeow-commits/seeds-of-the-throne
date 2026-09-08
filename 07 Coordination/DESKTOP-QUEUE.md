@@ -17,9 +17,18 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
+### 2026-09-08 — Coded website design lab
+
+- **Status:** ready for Cursor; prototype-only and author-gated
+- **Source:** [[07 Coordination/2026-09-08 - Cursor Coded Website Design Lab]]
+- **Direction:** Build two working responsive Story/Explorer design systems—Planetary Dusk and Pale Signal—with real content and interaction.
+- **Preserve:** Production pages and repaired functionality remain unchanged until the author selects a rendered coded prototype.
+- **Result required:** Four prototype pages, mobile/desktop screenshots, visual QA, review paths, completion report, and focused unmerged PR.
+- **Phone relay:** Use [[07 Coordination/Website Redesign/CURSOR-CODED-DESIGN-EXCHANGE]] for every Cursor/Codex pass so the author only relays short status prompts.
+
 ### 2026-09-08 — Hidden Planetary Infrastructure website redesign
 
-- **Status:** implemented-for-review on `cursor/hidden-planetary-infrastructure-redesign-e541` (PR #5); do not merge or deploy until author review
+- **Status:** merged and deployed; structure retained for reference, visual treatment rejected by the author
 - **Source:** [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]]
 - **Direction:** Author-selected Hidden Planetary Infrastructure structure, recovered-record evidence language, and editorial legibility.
 - **Assets:** Selected responsive mockup, desktop/mobile planetary heroes, lived surface civilization, and recovered-record evidence set in [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]].
