@@ -179,7 +179,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260910-nav-repair';
+$assetVersion = '20260911-hpi';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -293,11 +293,12 @@ function explorer_format_bytes(?int $bytes): string
             <figure class="explorer-hero__frame">
                 <img
                     class="explorer-hero__image"
-                    src="../../docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp"
-                    alt="Konrad stands under Samuel's hidden red control while Sylvan observes from the clear opposing side."
-                    width="1672"
-                    height="941"
+                    src="../../docs/assets/images/recovered-records-evidence-v1.webp"
+                    alt="Interpretive still life of recovered records aligned against hidden-system evidence."
+                    width="1774"
+                    height="887"
                     fetchpriority="high">
+                <figcaption class="explorer-hero__caption">Working instrument. Evidence language without cinematic key art.</figcaption>
             </figure>
         </section>
 

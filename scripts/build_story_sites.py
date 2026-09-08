@@ -11,7 +11,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260910'
+ASSET = '20260911-hpi'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -20,6 +20,21 @@ IMAGE_ALT = {
     'samuel-sylvan-confrontation.jpg': 'Approved scene of Samuel confronting Sylvan.',
     'remote-war-gold.jpg': 'Approved historical scene of remote war in gold light.',
     'disclosure-poster.jpg': 'Approved disclosure poster from the story world.',
+    'planetary-cutaway-hero-desktop-v1.webp': 'Symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
+    'planetary-cutaway-hero-mobile-v1.webp': 'Portrait symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
+    'surface-civilization-editorial-v1.webp': 'Interpretive editorial view of a lived-in coastal civilization on the colonization planet.',
+    'recovered-records-evidence-v1.webp': 'Interpretive still life of recovered records aligned against hidden-system evidence.',
+}
+PAGE_CLASS = {
+    'index': 'page-home',
+    'colonization': 'page-world',
+    'ai': 'page-luminai',
+    'characters': 'page-characters',
+    'faction': 'page-conspiracy',
+    'timeline': 'page-timeline',
+    'research': 'page-research',
+    'archive': 'page-archive',
+    'workshop': 'page-workshop',
 }
 
 def source_url(path):
@@ -82,15 +97,110 @@ def metadata(text):
 def nav_links(slug, items):
     return ''.join(f'<a href="{key}.html"'+(' aria-current="page"' if key==slug else '')+'>'+label+'</a>' for key,label in items)
 
-def shell(slug,title,deck,body,image=None):
+def planetary_hero(title, deck):
+    alt_desktop = IMAGE_ALT['planetary-cutaway-hero-desktop-v1.webp']
+    alt_mobile = IMAGE_ALT['planetary-cutaway-hero-mobile-v1.webp']
+    return f'''<header class="planetary-hero" aria-labelledby="home-title">
+  <div class="planetary-hero__media" aria-hidden="false">
+    <picture>
+      <source media="(max-width: 52rem)" srcset="assets/images/planetary-cutaway-hero-mobile-v1.webp" width="941" height="1672">
+      <img src="assets/images/planetary-cutaway-hero-desktop-v1.webp" alt="{html.escape(alt_desktop)}" width="1672" height="941" fetchpriority="high">
+    </picture>
+  </div>
+  <div class="planetary-hero__copy">
+    <p class="eyebrow">A science-fiction story in development</p>
+    <h1 id="home-title">{html.escape(title)}</h1>
+    <p class="atlas-deck">{html.escape(deck)}</p>
+    <p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>
+    <p class="hero-consequence">The final battle is not about taking the planet. It is about making everyone see who has been contained all along.</p>
+    <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">See how it is being built</a></p>
+  </div>
+</header>'''
+
+def homepage_editorial(body_html, count, total):
+    surface_alt = IMAGE_ALT['surface-civilization-editorial-v1.webp']
+    evidence_alt = IMAGE_ALT['recovered-records-evidence-v1.webp']
+    return f'''<div class="home-sequence">
+  <section class="editorial-band editorial-band--surface" aria-labelledby="surface-title">
+    <figure class="editorial-band__media">
+      <img src="assets/images/surface-civilization-editorial-v1.webp" alt="{html.escape(surface_alt)}" width="1536" height="1024" loading="lazy">
+      <figcaption>Interpretive visualization. The surface civilization is real and inhabited; the exact city is not established.</figcaption>
+    </figure>
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">The world everyone knew</p>
+      <h2 id="surface-title">A real life inside a constructed world.</h2>
+      <p>Its institutions, daily work, relationships, and apparent technology must feel like a civilization before participants understand its hidden architecture. Participants retain real agency, so the resulting history can diverge from its source.</p>
+      <p><a href="colonization.html">Discover the colonization world</a></p>
+    </div>
+  </section>
+  <section class="editorial-band editorial-band--system" aria-labelledby="system-title">
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">The system underneath</p>
+      <h2 id="system-title">A process for resources, training, and containment.</h2>
+      <p>Humanity built a process that could create sustainable resources, support a large population, train people for greater responsibility, and contain dangerous criminals. Inside that environment, humanity developed the Luminai.</p>
+      <p class="interpretive-note">Diagrams of rooms and machinery on this site are interpretive visualizations, not literal engineering plans.</p>
+      <p><a href="ai.html">Understand the Luminai</a></p>
+    </div>
+  </section>
+  <section class="editorial-band editorial-band--power" aria-labelledby="power-title">
+    <div class="editorial-band__copy">
+      <p class="eyebrow">Competing uses of power</p>
+      <h2 id="power-title">People before positions.</h2>
+      <div class="power-triptych">
+        <figure>
+          <img src="assets/images/konrad-fitzgerald-identity-anchor-v1.webp" alt="{html.escape(IMAGE_ALT['konrad-fitzgerald-identity-anchor-v1.webp'])}" width="570" height="900" loading="lazy">
+          <figcaption><span class="status established">Approved appearance</span><strong>Konrad</strong><small>Public domination and hierarchy</small></figcaption>
+        </figure>
+        <figure>
+          <img src="assets/images/samuel-franklin-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['samuel-franklin-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
+          <figcaption><span class="status established">Approved appearance</span><strong>Samuel</strong><small>Private capture and controlled interpretation</small></figcaption>
+        </figure>
+        <figure>
+          <img src="assets/images/sylvan-elaria-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['sylvan-elaria-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
+          <figcaption><span class="status established">Approved appearance</span><strong>Sylvan</strong><small>Reality, correction, and consent</small></figcaption>
+        </figure>
+      </div>
+      <p><a href="characters.html">Meet the people</a> · <a href="faction.html">Follow the conspiracy</a></p>
+    </div>
+  </section>
+  <section class="editorial-band editorial-band--evidence" aria-labelledby="evidence-title">
+    <figure class="editorial-band__media">
+      <img src="assets/images/recovered-records-evidence-v1.webp" alt="{html.escape(evidence_alt)}" width="1774" height="887" loading="lazy">
+      <figcaption>Interpretive visualization of recovered records and provenance paths. Not literal documents.</figcaption>
+    </figure>
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">The record does not agree</p>
+      <h2 id="evidence-title">Evidence is not the same thing as an explanation.</h2>
+      <p>The colonization environment can direct people toward numbers, records, places, and historical patterns. Each person must decide which patterns matter and what they actually prove. Samuel understands that difference.</p>
+      <p><a href="faction.html">Follow the conspiracy</a> · <a href="research.html">See the research boundaries</a></p>
+    </div>
+  </section>
+  {body_html}
+  <section class="editorial-band editorial-band--forward" aria-labelledby="forward-title">
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">Watch the story being built</p>
+      <h2 id="forward-title">Follow the story, or see how it is being built.</h2>
+      <p>This project is being developed in public with an AI-assisted story system. Ideas begin as conversation, become clear decisions, and move toward scenes and finished prose without hiding what is settled and what still needs work.</p>
+      <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Open Project Explorer</a></p>
+    </div>
+  </section>
+  <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>{count} of {total}</strong> major story problems have clear working answers in the current development pass. The rest stay visible until they are solved.</p><progress max="{total}" value="{count}" aria-label="Major story problems with working answers">{count} / {total}</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Try the story workshop</a></p></div></section>
+</div>'''
+
+def shell(slug,title,deck,body,image=None,hero_html=None):
     nav='<div class="nav-group" aria-label="Story">'+nav_links(slug,NAV_STORY)+'</div><div class="nav-group" aria-label="Development">'+nav_links(slug,NAV_DEV)+'</div><div class="nav-group" aria-label="Records">'+nav_links(slug,NAV_RECORDS)+'</div>'
-    alt=IMAGE_ALT.get(image,'Approved artwork from Seeds of the Throne.')
-    art=f'<figure class="atlas-art"><img src="assets/images/{image}" alt="{html.escape(alt)}"><figcaption>Approved appearance. Scene symbolism is interpretation.</figcaption></figure>' if image else ''
-    actions='<p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="archive.html">See how it is being developed</a></p>' if slug=='index' else ''
+    page_class = PAGE_CLASS.get(slug, 'atlas-page')
+    if hero_html:
+        hero = hero_html
+    else:
+        alt=IMAGE_ALT.get(image,'Approved artwork from Seeds of the Throne.')
+        art=f'<figure class="atlas-art"><img src="assets/images/{image}" alt="{html.escape(alt)}" loading="lazy"><figcaption>Approved appearance. Scene symbolism is interpretation.</figcaption></figure>' if image else ''
+        actions='<p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="archive.html">See how it is being developed</a></p>' if slug=='index' else ''
+        hero=f'<header class="atlas-hero"><div><p class="eyebrow">A science-fiction story in development</p><h1>{html.escape(title)}</h1><p class="atlas-deck">{html.escape(deck)}</p><p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>{actions}</div>{art}</header>'
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0b0c0b"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
-<body class="atlas-page"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Explore <span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
-<main id="main"><header class="atlas-hero"><div><p class="eyebrow">A science-fiction story in development</p><h1>{html.escape(title)}</h1><p class="atlas-deck">{html.escape(deck)}</p><p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>{actions}</div>{art}</header>{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050504"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
+<body class="atlas-page {page_class}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Explore <span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
+<main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
     outputs={};entries=[]
@@ -105,16 +215,32 @@ def main():
                 heading,_,rest=section.partition('\n');body+='<details class="spoiler"><summary>'+html.escape(heading[3:])+'</summary><div class="reading">'+render(rest)+'</div></details>'
             else: body+='<section class="reading">'+render(section)+'</section>'
         body+='</div>'
+        hero_html=None
+        image=meta.get('image')
         if slug=='characters':
-            portraits=[('sylvan-elaria-identity-master-v1.jpg','Sylvan'),('samuel-franklin-identity-master-v1.jpg','Samuel Franklin'),('konrad-fitzgerald-identity-anchor-v1.webp','Konrad Fitzgerald')]
-            gallery='<div class="portrait-strip">'+''.join('<figure><img src="assets/images/'+file+'" alt="Approved identity portrait of '+name+'" loading="lazy"><figcaption>'+name+'</figcaption></figure>' for file,name in portraits)+'</div>'
+            portraits=[
+                ('konrad-fitzgerald-identity-anchor-v1.webp','Konrad Fitzgerald','Public hierarchy and command'),
+                ('samuel-franklin-identity-master-v1.jpg','Samuel Franklin','Private compromise and capture'),
+                ('sylvan-elaria-identity-master-v1.jpg','Sylvan Elaria','Reality contact and correction'),
+            ]
+            gallery='<div class="power-triptych power-triptych--page">'+''.join(
+                f'<figure><img src="assets/images/{file}" alt="Approved identity portrait of {name}" loading="lazy"><figcaption><span class="status established">Approved appearance</span><strong>{name}</strong><small>{role}</small></figcaption></figure>'
+                for file,name,role in portraits
+            )+'</div>'
             body=gallery+body
         if slug=='index':
             state=(ROOT/'07 Coordination/Story Completion Workflow/CURRENT.md').read_text()
             match=re.search(r'\*\*Completed at this depth:\*\*\s*(\d+)\s*/\s*(\d+)',state)
             count,total=match.groups() if match else ('0','0')
-            body+='<section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>'+count+' of '+total+'</strong> major story problems have clear working answers in the current development pass. The rest stay visible until they are solved.</p><progress max="'+total+'" value="'+count+'" aria-label="Major story problems with working answers">'+count+' / '+total+'</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Try the story workshop</a></p></div></section>'
-        outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,meta.get('image'))
+            # Keep approved story sections; wrap with editorial bands and drop duplicate progress inject from old builder.
+            body=homepage_editorial(body, count, total)
+            hero_html=planetary_hero(title, deck)
+            image=None
+        if slug=='faction':
+            body='<figure class="evidence-banner"><img src="assets/images/recovered-records-evidence-v1.webp" alt="'+html.escape(IMAGE_ALT['recovered-records-evidence-v1.webp'])+'" width="1774" height="887" loading="lazy"><figcaption>Interpretive evidence composition. Claim, source, discrepancy, and consequence remain separate.</figcaption></figure>'+body
+        if slug=='colonization':
+            body='<figure class="layered-world"><img src="assets/images/surface-civilization-editorial-v1.webp" alt="'+html.escape(IMAGE_ALT['surface-civilization-editorial-v1.webp'])+'" width="1536" height="1024" loading="lazy"><figcaption>Interpretive surface civilization. Ordinary institutions and lives have real weight.</figcaption></figure>'+body
+        outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
         entries.append({'route':slug,'title':title,'deck':deck,'source':str(path.relative_to(ROOT)),'html':body})
     modules=[]
     for path in sorted(WORKSHOP.glob('[0-9][0-9] - *.md')):
@@ -129,7 +255,6 @@ def main():
     data={'version':2,'built_from':'2026-09-06 accepted workshop Markdown','modules':modules}
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
-    # Bundle the exact workflow pointers and their targets; clients never mix this build with live main.
     snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']
     for s in list(snapshots):
         match=re.search(r'^source_path:\s*(.+)$',(ROOT/s).read_text(),re.M)

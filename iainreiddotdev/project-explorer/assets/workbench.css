@@ -1,15 +1,17 @@
 .development-workspace {
-  --night: #0b0c0b;
-  --night-2: #121411;
-  --night-3: #181d18;
+  --void: #050504;
+  --charcoal: #14110e;
+  --night: #050504;
+  --night-2: #14110e;
+  --night-3: #1c1814;
   --ink: #f3eee4;
-  --muted: #a8a396;
-  --gold: #c9a45a;
-  --cyan: #7eb8b8;
-  --cyan-wash: #142022;
-  --green: #6db88a;
+  --muted: #b7a78c;
+  --gold: #c28a32;
+  --cyan: #67aee8;
+  --cyan-wash: #102030;
+  --green: #71c987;
   --line: rgba(243, 238, 228, .12);
-  --line-strong: rgba(201, 164, 90, .34);
+  --line-strong: rgba(194, 138, 50, .38);
   --serif: "Iowan Old Style", Palatino, Georgia, serif;
   --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   --radius: 2px;

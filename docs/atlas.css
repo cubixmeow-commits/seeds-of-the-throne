@@ -74,6 +74,215 @@
 .home-progress { width: var(--page); margin: 0 auto 3rem; }
 .home-progress progress { width: 100%; height: .5rem; accent-color: var(--green); }
 
+/* Hidden Planetary Infrastructure homepage */
+.planetary-hero {
+  position: relative;
+  isolation: isolate;
+  min-height: min(78vh, 42rem);
+  display: grid;
+  align-items: end;
+  overflow: hidden;
+  border-block-end: 1px solid var(--line);
+  background: var(--void);
+}
+.planetary-hero__media {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+.planetary-hero__media picture,
+.planetary-hero__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 72% center;
+}
+.planetary-hero__copy {
+  position: relative;
+  z-index: 1;
+  width: min(var(--page), 38rem);
+  margin: 0;
+  padding: clamp(2rem, 6vw, 4rem) max(1.25rem, calc((100vw - 84rem) / 2)) clamp(2.25rem, 5vw, 3.5rem);
+  background:
+    linear-gradient(90deg, rgba(5, 5, 4, .94) 0%, rgba(5, 5, 4, .82) 62%, rgba(5, 5, 4, .28) 100%);
+}
+.planetary-hero h1 { max-width: 12ch; }
+.planetary-hero .atlas-deck { color: var(--ivory); }
+.hero-consequence {
+  max-width: 42ch;
+  margin: 1rem 0 0;
+  color: var(--gold-bright);
+  font: 400 1.05rem/1.45 var(--serif);
+}
+.interpretive-note {
+  color: var(--muted);
+  font: 500 .85rem/1.5 var(--mono);
+  border-inline-start: 2px solid var(--line-strong);
+  padding-inline-start: .8rem;
+}
+.home-sequence { display: grid; gap: 0; }
+.editorial-band {
+  width: var(--page);
+  margin-inline: auto;
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr);
+  gap: 1.5rem 2rem;
+  align-items: center;
+  padding-block: clamp(2.5rem, 5vw, 4rem);
+  border-block-end: 1px solid var(--line);
+}
+.editorial-band--system,
+.editorial-band--forward,
+.editorial-band--power {
+  grid-template-columns: 1fr;
+}
+.editorial-band--evidence .editorial-band__media { order: 0; }
+.editorial-band__media { margin: 0; outline: 1px solid var(--line); background: var(--charcoal); }
+.editorial-band__media img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.editorial-band__media figcaption,
+.evidence-banner figcaption,
+.layered-world figcaption {
+  padding: .7rem .85rem;
+  color: var(--muted);
+  font: 500 .78rem/1.45 var(--mono);
+}
+.editorial-band__copy .eyebrow { margin-bottom: .55rem; }
+.power-triptych,
+.power-triptych--page {
+  width: var(--page);
+  margin: 1rem auto 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .85rem;
+}
+.power-triptych figure,
+.power-triptych--page figure {
+  margin: 0;
+  outline: 1px solid var(--line);
+  background: var(--charcoal);
+}
+.power-triptych img,
+.power-triptych--page img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  object-position: top center;
+}
+.power-triptych figcaption,
+.power-triptych--page figcaption {
+  display: grid;
+  gap: .35rem;
+  padding: .85rem;
+}
+.power-triptych strong,
+.power-triptych--page strong { font: 400 1.2rem var(--serif); }
+.power-triptych small,
+.power-triptych--page small { color: var(--muted); }
+.evidence-banner,
+.layered-world {
+  width: var(--page);
+  margin: 0 auto 1.25rem;
+  outline: 1px solid var(--line);
+  background: var(--charcoal);
+}
+.evidence-banner img,
+.layered-world img {
+  display: block;
+  width: 100%;
+  max-height: 24rem;
+  object-fit: cover;
+}
+.page-conspiracy .reading,
+.page-research .reading {
+  border-inline-start: 3px solid var(--line-strong);
+}
+.page-luminai .reading h2 {
+  border-block-end: 1px solid color-mix(in srgb, var(--system-blue) 35%, transparent);
+  padding-block-end: .45rem;
+}
+.page-timeline .table-scroll {
+  border: 1px solid var(--line);
+  background: var(--charcoal);
+}
+.page-timeline .reading:nth-of-type(1) {
+  border-inline-start: 3px solid var(--gold);
+}
+.page-timeline .reading:nth-of-type(2) {
+  border-inline-start: 3px solid var(--system-blue);
+}
+.page-archive .reading:first-child {
+  border-inline-start: 3px solid var(--gold);
+}
+.page-ideas .ideas-summary,
+.page-progress .progress-metrics {
+  border-radius: 0;
+  background: color-mix(in srgb, var(--charcoal) 88%, var(--paper) 12%);
+}
+.page-ideas .idea-card,
+.page-ideas .idea-list button {
+  border-radius: 0;
+}
+.page-ideas .ideas-workspace {
+  outline: 1px solid var(--line);
+  background: var(--charcoal);
+}
+.page-visuals .visual-identities {
+  border-block-end-color: color-mix(in srgb, var(--gold) 40%, transparent);
+}
+.page-visuals .identity-grid figure {
+  background: var(--charcoal);
+}
+.page-world .layered-world {
+  position: relative;
+}
+.page-world .layered-world::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 28%;
+  pointer-events: none;
+  background: linear-gradient(180deg, transparent, rgba(5, 5, 4, .55));
+}
+.page-characters .power-triptych--page figure:nth-child(1) { outline-color: color-mix(in srgb, var(--ember-red) 45%, var(--line)); }
+.page-characters .power-triptych--page figure:nth-child(2) { outline-color: color-mix(in srgb, var(--fracture-red) 40%, var(--line)); }
+.page-characters .power-triptych--page figure:nth-child(3) { outline-color: color-mix(in srgb, var(--gold) 55%, var(--line)); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .planetary-hero__media img { transform: scale(1.02); }
+  .planetary-hero__copy { animation: rise-in .55s ease both; }
+}
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(.6rem); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (max-width: 52rem) {
+  .planetary-hero {
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .planetary-hero__media {
+    position: relative;
+    min-height: 22rem;
+    order: 2;
+  }
+  .planetary-hero__media img { object-position: center 28%; }
+  .planetary-hero__copy {
+    order: 1;
+    width: 100%;
+    background:
+      linear-gradient(180deg, rgba(5, 5, 4, .98) 0%, rgba(5, 5, 4, .94) 100%);
+    padding-inline: 1rem;
+  }
+  .editorial-band,
+  .power-triptych,
+  .power-triptych--page { grid-template-columns: 1fr; }
+  .editorial-band__media img { aspect-ratio: 4 / 3; max-height: 18rem; }
+}
+
 @media (max-width: 50rem) {
   .atlas-hero { gap: 1.25rem; }
   .atlas-art img, .image-feature img { max-height: 22rem; }
@@ -84,4 +293,5 @@
   .module-grid, .portrait-strip { grid-template-columns: 1fr; }
   .workshop-toolbar > * { width: 100%; }
   .reading ul, .reading ol, .workshop-session ul, .workshop-session ol { padding-left: 1.2rem; }
+  .planetary-hero__media { min-height: 18rem; }
 }
