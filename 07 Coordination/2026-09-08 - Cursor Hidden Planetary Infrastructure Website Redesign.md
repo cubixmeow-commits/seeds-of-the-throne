@@ -1,6 +1,6 @@
 ---
 type: implementation-handoff
-status: ready
+status: implemented-for-review
 date: 2026-09-08
 owner: Cursor
 scope: story atlas and Project Explorer visual redesign
@@ -438,3 +438,142 @@ Before marking this handoff implemented-for-review, add a completion report to t
 12. branch, implementation commit, and clean working-tree status.
 
 Do not merge to `main` or deploy. Leave a focused PR ready for author review.
+
+## Completion report
+
+### 1. Visual and structural summary
+
+The public story atlas now opens on a responsive planetary-cutaway composition: HTML title and approved premise on a controlled dark field, with portrait hero art on small screens and landscape cutaway art on larger screens. Beneath that, an editorial sequence presents surface civilization, the concealed process, competing uses of power with approved identity portraits, recovered-record evidence language, the existing approved body sections, and two ways forward. Story pages keep a cinematic/editorial register; Project Explorer reuses the same palette roles with flatter surfaces, quieter recovered-records hero imagery, and the repaired task destinations from PR #4.
+
+### 2. Exact files changed
+
+- `scripts/build_story_sites.py`
+- `scripts/test_story_browser.cjs`
+- `docs/styles.css`
+- `docs/atlas.css`
+- `docs/index.html` (generated)
+- `docs/colonization.html` (generated)
+- `docs/ai.html` (generated)
+- `docs/characters.html` (generated)
+- `docs/faction.html` (generated)
+- `docs/timeline.html` (generated)
+- `docs/research.html` (generated)
+- `docs/archive.html` (generated)
+- `docs/workshop.html` (generated)
+- `docs/ideas.html`
+- `docs/todo.html`
+- `docs/visuals.html`
+- `docs/assets/story-atlas.json` (generated)
+- `docs/assets/story-build.json` (generated)
+- `docs/assets/images/planetary-cutaway-hero-desktop-v1.webp` (added)
+- `docs/assets/images/planetary-cutaway-hero-mobile-v1.webp` (added)
+- `docs/assets/images/surface-civilization-editorial-v1.webp` (added)
+- `docs/assets/images/recovered-records-evidence-v1.webp` (added)
+- `iainreiddotdev/project-explorer/index.php`
+- `iainreiddotdev/project-explorer/assets/project-explorer.css`
+- `iainreiddotdev/project-explorer/assets/workbench.css`
+- `07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign.md`
+- `07 Coordination/DESKTOP-QUEUE.md`
+- `03 Context/CURRENT.md`
+
+### 3. Assets used and final public paths
+
+| Source package | Public path |
+|---|---|
+| `.../Assets/Web/planetary-cutaway-hero-desktop-v1.webp` | `docs/assets/images/planetary-cutaway-hero-desktop-v1.webp` |
+| `.../Assets/Web/planetary-cutaway-hero-mobile-v1.webp` | `docs/assets/images/planetary-cutaway-hero-mobile-v1.webp` |
+| `.../Assets/Web/surface-civilization-editorial-v1.webp` | `docs/assets/images/surface-civilization-editorial-v1.webp` |
+| `.../Assets/Web/recovered-records-evidence-v1.webp` | `docs/assets/images/recovered-records-evidence-v1.webp` |
+
+Approved identity art reused in place: Konrad, Samuel, and Sylvan masters already under `docs/assets/images/`. Mockup faces/text were not used. Generated architecture remains interpretive, not canon.
+
+### 4. Copy changes, quoted exactly
+
+Approved public body copy was preserved in generated Markdown projections. Homepage editorial bands reuse approved wording with these connective placements:
+
+- Hero consequence (existing approved line): `The final battle is not about taking the planet. It is about making everyone see who has been contained all along.`
+- Surface heading (from World title): `A real life inside a constructed world.`
+- Surface body (from World): `Its institutions, daily work, relationships, and apparent technology must feel like a civilization before participants understand its hidden architecture. Participants retain real agency, so the resulting history can diverge from its source.`
+- System body (from Story): `Humanity built a process that could create sustainable resources, support a large population, train people for greater responsibility, and contain dangerous criminals. Inside that environment, humanity developed the Luminai.`
+- Power heading (from Characters title): `People before positions.`
+- Evidence heading (from Story): `Evidence is not the same thing as an explanation.`
+- Evidence body (from Story): `The colonization environment can direct people toward numbers, records, places, and historical patterns. Each person must decide which patterns matter and what they actually prove. Samuel understands that difference.`
+- Forward body (from Story): `This project is being developed in public with an AI-assisted story system. Ideas begin as conversation, become clear decisions, and move toward scenes and finished prose without hiding what is settled and what still needs work.`
+
+New connective labels / non-canon captions only:
+
+- Eyebrows: `The world everyone knew`; `The system underneath`; `Competing uses of power`; `The record does not agree`; `Watch the story being built`
+- System heading: `A process for resources, training, and containment.`
+- Forward heading: `Follow the story, or see how it is being built.`
+- Power role lines: `Public domination and hierarchy`; `Private capture and controlled interpretation`; `Reality, correction, and consent`
+- Interpretive note: `Diagrams of rooms and machinery on this site are interpretive visualizations, not literal engineering plans.`
+- Captions distinguishing interpretation from canon (surface, evidence, layered-world, PE hero)
+- PE hero caption: `Working instrument. Evidence language without cinematic key art.`
+
+No mockup prose, invented archive IDs, cities, or mechanisms were introduced as story fact.
+
+### 5. Source/template strategy
+
+Generated atlas pages come from `scripts/build_story_sites.py` + `05 Public/Atlas/*.md`. Homepage uses `planetary_hero()` + `homepage_editorial()`. Characters use a power triptych of approved identity art. World and Conspiracy prepend interpretive surface/evidence banners. Hand-maintained Ideas, Progress, and Visuals received asset-version and page-class updates only. Project Explorer styling tokens and quieter hero were updated in PHP/CSS without changing the repaired route model.
+
+### 6. Preserved PR #4 behavior
+
+Kept intact: distinct Overview/Story/Decisions/Workshop/Progress/Files destinations and `aria-current`; PE hamburger under 1024px with Escape, focus return, and link-close; sticky-header clearance; mobile Files browse drawer; 44px targets; Workshop CSS isolation from `atlas.css`; asset versioning; `view`/`file`/`q` state; Research/Visuals/Archive selected states; theme toggle beside the menu.
+
+### 7. Automated checks and exact results
+
+- `python3 scripts/build_story_sites.py` → `Built 8 atlas pages, 20 modules, 37 projections.`
+- `python3 scripts/check_story_sites.py` → `PASS: local HTML links/assets/anchors; generated hashes; 20 complete source-linked modules; curated canon checks.`
+- `python3 skills/create-seeds-images/scripts/validate_visual_system.py` → `OK: visual registry valid with 3 characters`
+- `node --check` on changed JS → pass
+- `php -l` on Project Explorer PHP → no syntax errors
+- `node scripts/test_story_browser.cjs` → `PASS: 202 responsive checks across 320/375/430/768/1024/1440px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`
+- Extended assertions cover homepage `<picture>` source selection, single `h1`, editorial bands, and quieter PE evidence hero
+- `git diff --check` → clean
+
+### 8. Viewport-by-viewport visual inspection table
+
+Inspected first-viewport screenshots for all listed story pages and all six PE views at 320, 375, 430, 768, 1024, and 1440. No horizontal overflow recorded in capture notes.
+
+| Width | Story homepage | Other story pages | Project Explorer |
+|---|---|---|---|
+| 320 | Copy above portrait hero; CTAs before art; no text on red containment | Stacked heroes/banners; Explore menu; readable | Menu + theme visible; evidence hero quieter; CTAs full-width |
+| 375 | Same mobile composition holds | Conspiracy evidence banner lands below approved art | Task order preserved |
+| 430 | Same; touch targets remain ≥44px | Ideas notebook/filters intact | Hamburger/archive behavior intact |
+| 768 | Portrait source still selected (&lt;52rem); stacked editorial bands | No overflow on tables/grids | Desktop PE nav begins at 1024; hamburger still correct below that |
+| 1024 | Landscape cutaway + left protected copy field; narrative band visible | World surface banner reads as lived civilization | Full PE nav; quieter evidence frame; Overview distinct |
+| 1440 | Full story nav groups; compact header; cinematic but scannable | Characters power triptych + approved crops | Dense instrument layout without cinematic key-art opener |
+
+### 9. Accessibility and performance findings
+
+- One logical `h1` on homepage; skip links retained
+- Truthful `aria-current` / `aria-expanded` preserved in tests
+- Focus outline remains gold on dark/light PE themes
+- Status not color-only; established labels remain textual
+- Hero images carry width/height; below-fold art uses `loading="lazy"`
+- Motion limited to optional short rise-in; respects existing reduced-motion patterns
+- Public WebP sizes remain in the supplied ~188–305 KB budget class
+
+### 10. Anything not tested
+
+- Production deploy / CDN cache behavior
+- Real iOS/Android devices (Chromium headless only)
+- Light/dark PE theme visual polish beyond functional toggle
+- Screen-reader walkthrough with VoiceOver/NVDA
+- Network-throttled Lighthouse score
+
+### 11. Remaining limitations
+
+- Story-site full desktop nav still appears above ~72rem (pre-existing); 1024 story pages correctly use the Explore menu
+- Homepage editorial bands add connective headings/eyebrows; author may want further wording tightening
+- World/Conspiracy still show their approved hero art plus the new interpretive banners; dual imagery is intentional but denser on short viewports
+- Generated planetary architecture must not be treated as literal world topology
+- PE light theme was exercised functionally; a dedicated light-theme visual pass may still be useful after deploy
+
+### 12. Branch, implementation commit, and clean working-tree status
+
+- Branch: `cursor/hidden-planetary-infrastructure-redesign-e541`
+- PR: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/5
+- Implementation commit: recorded in the final push for this review package
+- Do not merge or deploy; leave ready for author review
+

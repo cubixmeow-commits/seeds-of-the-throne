@@ -19,13 +19,11 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ### 2026-09-08 — Hidden Planetary Infrastructure website redesign
 
-- **Status:** ready for Cursor
+- **Status:** implemented-for-review on `cursor/hidden-planetary-infrastructure-redesign-e541` (PR #5); do not merge or deploy until author review
 - **Source:** [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]]
 - **Direction:** Author-selected Hidden Planetary Infrastructure structure, recovered-record evidence language, and editorial legibility.
 - **Assets:** Selected responsive mockup, desktop/mobile planetary heroes, lived surface civilization, and recovered-record evidence set in [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]].
-- **Scope:** Redesign the story atlas and Project Explorer while preserving approved copy, source authority, all PR #4 navigation/mobile behavior, Workshop functionality, and generated-site integrity.
-- **Verify:** Test and visually inspect 320, 375, 430, 768, 1024, and 1440px; run build, source, visual-system, JavaScript, PHP, browser, and git checks; provide the required twelve-part completion report.
-- **Do not:** Treat generated architecture or wording as canon, use generated faces, weaken the repaired navigation, merge, or deploy.
+- **Result:** Story atlas planetary `<picture>` hero and editorial sequence; quieter Project Explorer with shared HPI tokens; PR #4 behavior preserved; build/check/validate/Playwright pass; twelve-part completion report on the handoff.
 
 ## Completed implementation context
 
