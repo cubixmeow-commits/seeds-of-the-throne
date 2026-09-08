@@ -39,7 +39,7 @@ This is the durable communication channel for the coded website-design loop. The
 
 - **State:** awaiting-codex-review-1
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** (filled after push; visual Pass 1 on this branch)
+- **Commit:** 
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 - **Pass completed:** Pass 1 — both coded directions with Story + Project Explorer prototypes
 - **Prototype paths:**
