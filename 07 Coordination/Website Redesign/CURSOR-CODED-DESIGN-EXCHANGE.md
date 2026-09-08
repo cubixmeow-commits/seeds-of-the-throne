@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-author-prototype-review
+status: awaiting-production-implementation
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -91,12 +91,12 @@ Only record a decision the author states directly.
 
 - **Selected direction:** Pale Signal — selected directly by the author on 2026-09-08
 - **Requested changes:** Refine only Pale Signal. Remove prototype/process-facing captions; polish the 320px copy/image split; verify real iOS Safari and 200% text zoom; preserve the asymmetrical mineral editorial composition and working-sheet Explorer; do not regress to cards, black/yellow, or generic dashboard styling.
-- **Prototype approved for production:** no
+- **Prototype approved for production:** yes — the author directly approved the refined Pale Signal prototype on 2026-09-08
 - **Production merge authorized:** no
 
 ## Current next action
 
-Author: inspect the refined Pale Signal Story and Explorer renders on the phone and state either approval for production translation or the exact final visual correction. Codex will record that decision and prepare the next Cursor instruction. Do not merge, deploy, or change production yet.
+Cursor: sync the latest PR #7 branch and read this exchange completely. Translate the author-approved Pale Signal system into both production surfaces: the generated Story atlas under `docs/` and the real Project Explorer under `iainreiddotdev/project-explorer/`. Use the production builders/templates and shared styles as the source of truth so regeneration preserves the design; do not solve this by editing generated HTML alone. Preserve all approved public copy, distinct Story/Explorer destinations, repaired mobile menus, archive browser, Files and Workshop behavior, theme state, anchors, source links, accessibility, and existing functionality. Preserve Pale Signal's mineral field, deep-ink typography, cyan labels, restrained coral signals, asymmetrical image integration, editorial Story rhythm, and working-sheet Explorer structure. Do not reintroduce black/yellow, faux-medieval styling, generic card grids, repeated boxed panels, or poster-after-copy composition. Remove prototype-only and lab-only navigation or labels from production. Test 320, 375, 390, 430, 768, 1024, and 1440 widths in Chromium and WebKit, including open menus, real long paths, Workshop interaction, archive browsing, both theme states where supported, 200% text zoom, focus, reduced motion, image loading, body/document/element overflow, and generated-output consistency. Inspect every rendered screenshot rather than relying only on assertions. Update the production QA record and Cursor pass report, set status to `awaiting-production-review`, commit and push to the same PR, then stop. Do not merge or deploy.
 
 ## Phone-sized relay prompts
 
@@ -121,4 +121,3 @@ The author can use these exact messages.
 ### Approve the coded prototype
 
 `I approve the current coded prototype for production translation. Update the exchange and give me the next Cursor prompt.`
-
