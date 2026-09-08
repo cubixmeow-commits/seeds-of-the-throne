@@ -1,11 +1,11 @@
 ---
 type: agent-exchange
-status: awaiting-author-selection
+status: awaiting-cursor-refinement
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 cycle: 1
-author_selection: pending
+author_selection: pale-signal
 ---
 
 # Cursor–Codex Coded Design Exchange
@@ -91,14 +91,14 @@ This is the durable communication channel for the coded website-design loop. The
 
 Only record a decision the author states directly.
 
-- **Selected direction:** pending
-- **Requested changes:** pending
+- **Selected direction:** Pale Signal — selected directly by the author on 2026-09-08
+- **Requested changes:** Refine only Pale Signal. Remove prototype/process-facing captions; polish the 320px copy/image split; verify real iOS Safari and 200% text zoom; preserve the asymmetrical mineral editorial composition and working-sheet Explorer; do not regress to cards, black/yellow, or generic dashboard styling.
 - **Prototype approved for production:** no
 - **Production merge authorized:** no
 
 ## Current next action
 
-Author: choose `Pale Signal` or `Planetary Dusk`. Codex will record the direct selection and prepare the next Cursor refinement instruction. Do not merge or begin production implementation.
+Cursor: sync the latest PR #7 branch and read this exchange. Refine only the selected Pale Signal Story and Explorer prototypes using every item under `Required next changes after the author selects a direction` and the recorded author decision. Keep Planetary Dusk intact as an unselected comparison; do not blend the directions. Re-capture required evidence, update the Cursor pass report, set status to `awaiting-codex-review-2`, commit and push to the same PR, then stop. Do not merge, deploy, or change production pages.
 
 ## Phone-sized relay prompts
 
@@ -123,4 +123,3 @@ The author can use these exact messages.
 ### Approve the coded prototype
 
 `I approve the current coded prototype for production translation. Update the exchange and give me the next Cursor prompt.`
-
