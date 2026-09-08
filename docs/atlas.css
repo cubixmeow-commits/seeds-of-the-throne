@@ -1,5 +1,82 @@
-.atlas-hero{max-width:88rem;margin:auto;padding:5rem 2rem 3rem;display:grid;grid-template-columns:minmax(0,1.2fr) minmax(15rem,.7fr);gap:3rem;align-items:center}.atlas-hero:has(>div:only-child){display:block;max-width:70rem}.atlas-hero h1{font-size:clamp(2.8rem,6vw,6rem);line-height:1.02;letter-spacing:-.045em;margin:1rem 0 1.6rem;max-width:15ch}.atlas-deck{font-size:clamp(1.2rem,2vw,1.6rem);max-width:45ch;color:var(--muted)}.atlas-status{font-size:.85rem;color:var(--gold);max-width:55ch}.atlas-art{margin:0}.atlas-art img{width:100%;max-height:36rem;object-fit:cover;border-radius:3px}.atlas-art figcaption{font-size:.8rem;color:var(--muted);padding-top:.7rem}.atlas-body{max-width:76rem;margin:auto;padding:0 2rem 4rem;display:grid;gap:1.5rem}.reading{padding:2.5rem;background:var(--night-2);border:1px solid var(--line);min-width:0}.reading h1,.workshop-session h1{font-size:2.2rem;line-height:1.15}.reading h2,.workshop-session h2{font-size:clamp(1.5rem,3vw,2.2rem);line-height:1.2;letter-spacing:-.02em;margin:1.6rem 0 1rem}.reading h2:first-child{margin-top:0}.reading h3,.workshop-session h3{font-size:1.35rem;line-height:1.25;margin:1.7rem 0 .7rem}.reading p,.reading li,.workshop-session p,.workshop-session li{max-width:78ch}.reading p{margin:1rem 0}.reading a,.workshop-session a{color:var(--gold)}.reading li,.workshop-session li{margin:.65rem 0}.reading table,.workshop-session table{border-collapse:collapse;width:100%;font-size:.95rem;line-height:1.5}.reading th,.reading td,.workshop-session th,.workshop-session td{padding:1rem;text-align:left;border:1px solid var(--line);vertical-align:top;min-width:11rem}.table-scroll{overflow:auto;max-width:100%}.spoiler{border:1px solid var(--line-strong);background:var(--night-2);min-width:0}.spoiler>summary{cursor:pointer;padding:1.4rem;color:var(--gold);font-size:1.05rem}.spoiler>.reading{border:0;padding-top:.5rem}.spoiler>ul{padding:1rem 3rem}.atlas-footer{border-top:1px solid var(--line);padding:2.5rem;display:flex;flex-wrap:wrap;gap:1rem 2rem;color:var(--muted)}.atlas-footer p{width:100%;font-size:.85rem}.module-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}.module-card{border:1px solid var(--line);padding:1.5rem;display:grid;gap:.6rem;text-decoration:none;background:var(--night-2)}.module-card:hover{border-color:var(--gold)}.module-card span{color:var(--gold);font:1rem var(--mono)}.module-card strong{font-size:1.2rem;line-height:1.3}.module-card small{color:var(--muted);line-height:1.5}.workshop-session{background:var(--night-2);border:1px solid var(--line);padding:2rem;min-width:0;scroll-margin-top:6rem}.workshop-toolbar{display:flex;flex-wrap:wrap;gap:1rem;align-items:center}.workshop-session select,.workshop-session textarea,.workshop-session button,.workshop-session input[type=file]{font:inherit;max-width:100%}.workshop-session select,.workshop-session textarea{color:var(--ink);background:var(--night);border:1px solid var(--line-strong);padding:.8rem;width:100%;border-radius:3px}.workshop-session label{display:block;margin:1rem 0 .5rem}.workshop-session textarea{min-height:19rem;line-height:1.6}.workshop-session button{padding:.75rem 1rem;background:var(--gold);border:0;border-radius:3px;color:#17130b;cursor:pointer;min-height:44px}.workshop-session button.secondary{background:transparent;border:1px solid var(--line-strong);color:var(--gold)}.workshop-session [role=status]{color:var(--muted);font-size:.9rem}.workshop-gate{padding:1.5rem;border-left:3px solid var(--gold);background:var(--gold-wash);font-size:1.3rem;line-height:1.5}.workshop-session pre{overflow:auto;background:var(--night);padding:1rem;font-size:.85rem;white-space:pre-wrap}.packet-detail{margin-top:2rem}.packet-detail summary{cursor:pointer;font-size:1.1rem;color:var(--gold)}
-@media(max-width:800px){.atlas-hero{grid-template-columns:1fr;padding:3rem 1.2rem 2rem;gap:1.5rem}.atlas-art img{max-height:26rem;object-position:50% 25%}.atlas-body{padding:0 1rem 2rem}.reading,.workshop-session{padding:1.4rem}.module-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.atlas-hero h1{max-width:18ch}.atlas-footer{padding:1.5rem}}
-@media(max-width:460px){.module-grid{grid-template-columns:1fr}.atlas-hero h1{font-size:2.7rem}.reading,.workshop-session{padding:1rem}.workshop-toolbar>*{width:100%}.reading ul,.reading ol,.workshop-session ul,.workshop-session ol{padding-left:1.3rem}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-.portrait-strip{max-width:76rem;margin:0 auto 2rem;padding:0 2rem;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}.portrait-strip figure{margin:0}.portrait-strip img{aspect-ratio:2/3;object-fit:cover;width:100%}.portrait-strip figcaption{padding:.75rem 0;color:var(--gold)}@media(max-width:460px){.portrait-strip{padding:0 1rem;gap:.6rem}.portrait-strip figcaption{font-size:.8rem}}
+.atlas-hero { max-width: 84rem; }
+.atlas-art figcaption { padding: .65rem .1rem 0; color: var(--muted); font-size: .8rem; }
+.atlas-body { width: var(--page); margin: 0 auto; padding: 0 0 3.5rem; display: grid; gap: 1.1rem; }
+.reading, .workshop-session {
+  min-width: 0;
+  padding: 1.5rem 1.6rem;
+  border: 1px solid var(--line);
+  background: var(--night-2);
+}
+.reading h1, .workshop-session h1 { font-size: 1.65rem; line-height: 1.2; }
+.reading h2, .workshop-session h2 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin: 1.2rem 0 .7rem; }
+.reading h2:first-child { margin-top: 0; }
+.reading h3, .workshop-session h3 { font-size: 1.05rem; margin: 1.2rem 0 .5rem; }
+.reading p, .reading li, .workshop-session p, .workshop-session li { max-width: 72ch; }
+.reading p { margin: .8rem 0; }
+.reading a, .workshop-session a { color: var(--gold); }
+.reading table, .workshop-session table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.reading th, .reading td, .workshop-session th, .workshop-session td { padding: .7rem .75rem; text-align: left; border: 1px solid var(--line); vertical-align: top; min-width: 8rem; }
+.table-scroll { overflow: auto; max-width: 100%; }
+.spoiler { border: 1px solid var(--line-strong); background: var(--night-2); }
+.spoiler > summary { cursor: pointer; min-height: 2.75rem; padding: 1rem 1.2rem; color: var(--gold); }
+.spoiler > .reading { border: 0; padding-top: .4rem; }
+.spoiler > ul { padding: 1rem 1.8rem 1.4rem; }
+.module-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; padding: 1rem; }
+.module-card { display: grid; gap: .4rem; min-height: 7.5rem; padding: 1rem; border: 1px solid var(--line); background: var(--night-3); text-decoration: none; }
+.module-card:hover { border-color: var(--gold); }
+.module-card span { color: var(--cyan); font: 700 .75rem var(--mono); }
+.module-card strong { font-size: 1rem; line-height: 1.3; }
+.module-card small { color: var(--muted); line-height: 1.45; }
+.workshop-session { scroll-margin-top: 5.5rem; }
+.workshop-work { display: grid; gap: 1rem; }
+.workshop-toolbar { display: flex; flex-wrap: wrap; gap: .7rem; align-items: center; }
+.workshop-session select, .workshop-session textarea, .workshop-session button, .workshop-session input[type=file] { font: inherit; max-width: 100%; }
+.workshop-session select, .workshop-session textarea {
+  width: 100%;
+  color: var(--ink);
+  background: var(--night);
+  border: 1px solid var(--line-strong);
+  padding: .75rem;
+  border-radius: var(--radius);
+}
+.workshop-session label { display: block; margin: .2rem 0 .4rem; font-weight: 650; }
+.workshop-session textarea { min-height: 16rem; line-height: 1.6; }
+.workshop-session button {
+  min-height: 2.75rem;
+  padding: .65rem 1rem;
+  background: var(--gold);
+  border: 0;
+  border-radius: var(--radius);
+  color: #17130b;
+  cursor: pointer;
+}
+.workshop-session button.secondary { background: transparent; border: 1px solid var(--line-strong); color: var(--gold); }
+.workshop-session [role=status] { color: var(--muted); font-size: .88rem; }
+.workshop-gate {
+  margin: 0;
+  padding: 1rem 1.1rem;
+  border-inline-start: 3px solid var(--cyan);
+  background: var(--cyan-wash);
+  font: 400 1.2rem/1.45 var(--serif);
+}
+.workshop-session pre { overflow: auto; background: var(--night); padding: 1rem; font-size: .85rem; white-space: pre-wrap; }
+.packet-detail { margin-top: 1.25rem; }
+.packet-detail summary { cursor: pointer; min-height: 2.75rem; color: var(--gold); }
+.portrait-strip { width: var(--page); margin: 0 auto 1rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; }
+.portrait-strip figure { margin: 0; }
+.portrait-strip img { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; object-position: top center; }
+.portrait-strip figcaption { padding: .6rem 0 0; color: var(--gold); font-size: .88rem; }
+.home-progress { width: var(--page); margin: 0 auto 3rem; }
+.home-progress progress { width: 100%; height: .5rem; accent-color: var(--green); }
+
+@media (max-width: 50rem) {
+  .atlas-hero { gap: 1.25rem; }
+  .atlas-art img, .image-feature img { max-height: 22rem; }
+  .reading, .workshop-session { padding: 1.1rem; }
+  .module-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 28.75rem) {
+  .module-grid, .portrait-strip { grid-template-columns: 1fr; }
+  .workshop-toolbar > * { width: 100%; }
+  .reading ul, .reading ol, .workshop-session ul, .workshop-session ol { padding-left: 1.2rem; }
+}

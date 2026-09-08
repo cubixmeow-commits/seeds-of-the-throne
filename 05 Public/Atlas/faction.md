@@ -2,6 +2,7 @@
 route: faction
 title: Two ways to turn people into instruments.
 deck: Konrad builds obedience in public. Samuel builds dependency in private.
+image: samuel-franklin-identity-master-v1.jpg
 status: reviewed-fictional-projection
 ---
 

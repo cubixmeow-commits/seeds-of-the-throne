@@ -2,6 +2,7 @@
 route: ai
 title: A bond that has to be learned.
 deck: Luminai extend human minds. Sylvan's new generation deepens that relationship. The mechanics still need limits.
+image: sylvan-elaria-identity-master-v1.jpg
 status: reviewed-fictional-projection
 ---
 

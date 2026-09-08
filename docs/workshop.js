@@ -73,7 +73,9 @@
     const toolbar=el('div',null,{class:'workshop-toolbar'});toolbar.append(exportButton,sourceButton);
     const accepted=String(current.status||'').startsWith('author-accepted');
     const stateText=accepted ? 'The author accepted the main direction. Some exact details still need work.' : 'The author has not decided this part of the story yet.';
-    root.append(label,select,heading,el('p',stateText+' Prerequisites: '+current.prerequisites),gate,el('label',accepted?'Further development notes':'Your answer and decision notes',{for:'workshop-answer'}),area,toolbar,status,el('label','Restore an exported answer',{for:'workshop-import'}),importInput,detail);
+    const work=el('div',null,{class:'workshop-work'});
+    work.append(label,select,heading,el('p',stateText+' Prerequisites: '+current.prerequisites),gate,el('label',accepted?'Further development notes':'Your answer and decision notes',{for:'workshop-answer'}),area,toolbar,status,el('label','Restore an exported answer',{for:'workshop-import'}),importInput);
+    root.append(work,detail);
     if(focus)heading.focus();
   }
   fetch(root.dataset.source).then(r=>{if(!r.ok)throw Error('unavailable');return r.json();}).then(data=>{

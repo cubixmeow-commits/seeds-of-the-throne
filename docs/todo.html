@@ -1,10 +1,90 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#090a08"><meta name="description" content="See which major parts of Seeds of the Throne have working answers, what still needs to be decided, and what the author is developing next."><title>Story Progress | Seeds of the Throne</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v=20260905"><script src="app.js?v=20260905" defer></script><script src="todo.js?v=20260905" defer></script></head>
-<body class="todo-page"><a class="skip-link" href="#main">Skip to story progress</a><header class="site-header"><a class="brand" href="index.html" aria-label="Seeds of the Throne, home"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav"><span>Explore</span><span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation"><a href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Chronology</a><a href="archive.html">Making the story</a><a aria-current="page" href="todo.html">Progress</a><a href="ideas.html">Ideas</a><a href="research.html">Research</a><a href="workshop.html">Workshop</a></nav></header>
-<main id="main">
-  <section class="page-hero progress-hero"><div class="page-hero-copy"><p class="eyebrow">Story development progress</p><h1>See what is complete and what still needs work.</h1><p class="page-deck">The story is being developed in stages. Its main events, causes, characters, and rules must work together before individual scenes are polished.</p></div><p class="hero-statement">Build the complete story first.<br><em>Then write the finished scenes.</em></p></section>
-  <section class="progress-runtime" aria-labelledby="runtime-title"><div><p class="eyebrow">Current progress</p><h2 id="runtime-title">This development pass</h2><p id="todo-status" class="loading-status" role="status" aria-live="polite">Loading story progress&hellip;</p></div><dl class="progress-metrics"><div><dt>Problems with working answers</dt><dd id="overall-count">&hellip;</dd></div><div><dt>Progress</dt><dd id="overall-percent">&hellip;</dd></div><div><dt>Current stage</dt><dd id="current-sweep">&hellip;</dd></div></dl><div class="meter"><div><span>Major story problems</span><span id="overall-fraction">&hellip; / &hellip;</span></div><progress id="overall-progress" max="100" value="0" aria-label="Current story-development progress">0%</progress></div></section>
-  <section class="section progress-depth" aria-labelledby="depth-title"><div class="section-index" aria-hidden="true">01</div><div class="section-intro"><p class="eyebrow">Development stages</p><h2 id="depth-title">Start with the whole story.</h2><p>The first stage gives every major story problem a clear working answer. Later stages add evidence, exact events, scenes, prose, and revision.</p></div><ol class="sweep-line" id="sweep-line" aria-label="Story-development stages"></ol></section>
-  <section class="work-section" aria-labelledby="work-title"><div class="signal-heading"><p class="eyebrow">Work still in progress</p><h2 id="work-title">The major story problems</h2><p>Each section shows what has a working answer and what the author still needs to develop.</p></div><div id="todo-groups" class="todo-groups" aria-busy="true"><noscript><p class="todo-error">JavaScript is required to display the current list. The original story-development notes are linked below.</p></noscript></div></section>
-  <section class="gate-section" aria-labelledby="gate-title"><div class="signal-heading"><p class="eyebrow">Ready for the next stage</p><h2 id="gate-title">When planning can become scenes</h2><p>Before scene writing begins, the important events need clear causes, character choices, consequences, and connections to the rest of the story.</p></div><div id="gate-list" class="gate-list"></div></section>
-  <section class="source-section" aria-labelledby="source-title"><div><p class="eyebrow">Where the information comes from</p><h2 id="source-title">Read the development notes behind this page</h2><p>The progress shown here comes from the project’s current checklist and story-development records. These links open the original Markdown notes.</p></div><div class="source-links"><a id="weekly-source-link" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/CURRENT-COMPLETION-TODO.md">Read the current checklist</a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Story%20Completion%20Workflow/TASK-REGISTRY.md">See every tracked story problem</a><a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Story%20Completion%20Workflow/CURRENT.md">Read the current development status</a></div></section>
-</main><footer class="site-footer"><div><strong>Seeds of the Throne</strong><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></div><nav aria-label="Footer navigation"><a href="archive.html">How the system works</a><a href="index.html">Return to the story</a></nav></footer></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b0c0b">
+  <meta name="description" content="See which major parts of Seeds of the Throne have working answers, what still needs to be decided, and what the author is developing next.">
+  <title>Story Progress | Seeds of the Throne</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=20260909">
+  <link rel="stylesheet" href="atlas.css?v=20260909">
+  <script src="app.js?v=20260909" defer></script>
+  <script src="todo.js?v=20260909" defer></script>
+</head>
+<body class="todo-page">
+  <a class="skip-link" href="#main">Skip to story progress</a>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="Seeds of the Throne, home"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav"><span>Explore</span><span aria-hidden="true">+</span></button>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">
+      <div class="nav-group" aria-label="Story"><a href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Timeline</a></div>
+      <div class="nav-group" aria-label="Development"><a href="ideas.html">Ideas</a><a aria-current="page" href="todo.html">Progress</a><a href="workshop.html">Workshop</a></div>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="page-head progress-hero">
+      <div>
+        <p class="eyebrow">Story development progress</p>
+        <h1>See what is complete and what still needs work.</h1>
+        <p class="page-deck">The story is being developed in stages. Its main events, causes, characters, and rules must work together before individual scenes are polished.</p>
+      </div>
+      <p class="hero-statement">Build the complete story first.<br><em>Then write the finished scenes.</em></p>
+    </section>
+    <section class="progress-runtime" aria-labelledby="runtime-title">
+      <div>
+        <p class="eyebrow">Current progress</p>
+        <h2 id="runtime-title">This development pass</h2>
+        <p id="todo-status" class="loading-status" role="status" aria-live="polite">Loading story progress&hellip;</p>
+      </div>
+      <dl class="progress-metrics">
+        <div><dt>Problems with working answers</dt><dd id="overall-count">&hellip;</dd></div>
+        <div><dt>Progress</dt><dd id="overall-percent">&hellip;</dd></div>
+        <div><dt>Current stage</dt><dd id="current-sweep">&hellip;</dd></div>
+      </dl>
+      <div class="meter"><div><span>Major story problems</span><span id="overall-fraction">&hellip; / &hellip;</span></div><progress id="overall-progress" max="100" value="0" aria-label="Current story-development progress">0%</progress></div>
+    </section>
+    <section class="section progress-depth" aria-labelledby="depth-title">
+      <div class="section-index" aria-hidden="true">01</div>
+      <div class="section-intro">
+        <p class="eyebrow">Development stages</p>
+        <h2 id="depth-title">Start with the whole story.</h2>
+        <p>The first stage gives every major story problem a clear working answer. Later stages add evidence, exact events, scenes, prose, and revision.</p>
+      </div>
+      <ol class="sweep-line" id="sweep-line" aria-label="Story-development stages"></ol>
+    </section>
+    <section class="work-section" aria-labelledby="work-title">
+      <div class="signal-heading">
+        <p class="eyebrow">Work still in progress</p>
+        <h2 id="work-title">The major story problems</h2>
+        <p>Each section shows what has a working answer and what the author still needs to develop.</p>
+      </div>
+      <div id="todo-groups" class="todo-groups" aria-busy="true"><noscript><p class="todo-error">JavaScript is required to display the current list. The original story-development notes are linked below.</p></noscript></div>
+    </section>
+    <section class="gate-section" aria-labelledby="gate-title">
+      <div class="signal-heading">
+        <p class="eyebrow">Ready for the next stage</p>
+        <h2 id="gate-title">When planning can become scenes</h2>
+        <p>Before scene writing begins, the important events need clear causes, character choices, consequences, and connections to the rest of the story.</p>
+      </div>
+      <div id="gate-list" class="gate-list"></div>
+    </section>
+    <section class="source-section" aria-labelledby="source-title">
+      <div>
+        <p class="eyebrow">Where the information comes from</p>
+        <h2 id="source-title">Read the development notes behind this page</h2>
+        <p>The progress shown here comes from the project’s current checklist and story-development records. These links open the original Markdown notes.</p>
+      </div>
+      <div class="source-links">
+        <a id="weekly-source-link" href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Weekly%20Synthesis/CURRENT-COMPLETION-TODO.md">Read the current checklist</a>
+        <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Story%20Completion%20Workflow/TASK-REGISTRY.md">See every tracked story problem</a>
+        <a href="https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/07%20Coordination/Story%20Completion%20Workflow/CURRENT.md">Read the current development status</a>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div><strong>Seeds of the Throne</strong><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></div>
+    <nav aria-label="Footer navigation"><a href="archive.html">How it is being built</a><a href="index.html">Return to the story</a></nav>
+  </footer>
+</body>
+</html>

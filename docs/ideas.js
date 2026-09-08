@@ -6,6 +6,11 @@
   let ideas = [];
   let activeFilter = "all";
   let selectedId = null;
+  let searchQuery = "";
+
+  function isMobileWorkspace() {
+    return window.matchMedia("(max-width: 52rem)").matches;
+  }
 
   function cleanMarkdown(value = "") {
     return value
@@ -108,10 +113,17 @@
     return "unreviewed";
   }
 
+  function ideaMatches(idea) {
+    if (activeFilter !== "all" && statusClass(idea.status) !== activeFilter) return false;
+    if (!searchQuery) return true;
+    const haystack = [idea.id, idea.title, idea.family, idea.possibility, idea.status].join(" ").toLowerCase();
+    return haystack.includes(searchQuery);
+  }
+
   function renderIdeaList() {
     const root = document.querySelector("#idea-list");
     root.replaceChildren();
-    const visible = ideas.filter(idea => activeFilter === "all" || statusClass(idea.status) === activeFilter);
+    const visible = ideas.filter(ideaMatches);
     if (!visible.length) {
       const empty = element("p", "idea-empty", "No ideas match this filter. Select All to return to the full list.");
       root.append(empty);
@@ -139,10 +151,15 @@
     root.append(group);
   }
 
+  function setDetailOpen(open) {
+    document.body.classList.toggle("ideas-detail-open", open && isMobileWorkspace());
+  }
+
   function renderDetail(id, focus = false) {
     const idea = ideas.find(item => item.id === id);
     if (!idea) return;
     selectedId = id;
+    history.replaceState(null, "", `#${id}`);
     const root = document.querySelector("#idea-detail");
     root.replaceChildren();
     const state = element("p", `idea-review is-${statusClass(idea.status)}`, idea.status);
@@ -159,6 +176,7 @@
     addDetailLine(details, "What the author needs to decide", idea.nextGate);
     root.append(details);
     renderIdeaList();
+    setDetailOpen(true);
     if (focus) title.focus();
   }
 
@@ -174,9 +192,9 @@
   function renderResearchQueue(queue) {
     const root = document.querySelector("#research-list");
     queue.forEach(item => {
-      const article = element("article", `research-item${item.done ? " is-done" : ""}`);
-      const head = element("div", "research-item-head");
-      head.append(element("span", "research-check", item.done ? "✓" : "○"), element("span", "idea-id", item.id), element("h3", "", item.title), element("span", `research-state${item.done ? " is-complete" : ""}`, item.done ? "Complete" : "Suggested"));
+      const article = element("details", `research-item${item.done ? " is-done" : ""}`);
+      const head = element("summary", "research-item-head");
+      head.append(element("span", "research-check", item.done ? "✓" : "○"), element("span", "idea-id", item.id), element("span", "research-title", item.title), element("span", `research-state${item.done ? " is-complete" : ""}`, item.done ? "Complete" : "Suggested"));
       const body = element("div", "research-item-body");
       const supports = element("p", "research-supports");
       supports.append(element("strong", "", "Supports "), document.createTextNode(item.supports));
@@ -190,7 +208,7 @@
   function bindControls() {
     document.querySelector("#idea-list").addEventListener("click", event => {
       const button = event.target.closest("[data-idea-id]");
-      if (button) renderDetail(button.dataset.ideaId);
+      if (button) renderDetail(button.dataset.ideaId, true);
     });
     document.querySelector(".idea-filters").addEventListener("click", event => {
       const button = event.target.closest("[data-idea-filter]");
@@ -202,6 +220,25 @@
         item.setAttribute("aria-pressed", String(active));
       });
       renderIdeaList();
+    });
+    const search = document.querySelector("#idea-search");
+    if (search) {
+      search.addEventListener("input", () => {
+        searchQuery = search.value.trim().toLowerCase();
+        renderIdeaList();
+      });
+    }
+    const back = document.querySelector("[data-idea-back]");
+    if (back) {
+      back.addEventListener("click", () => {
+        setDetailOpen(false);
+        const selected = document.querySelector(".idea-row.is-selected");
+        if (selected) selected.focus();
+      });
+    }
+    window.matchMedia("(max-width: 52rem)").addEventListener("change", event => {
+      if (!event.matches) setDetailOpen(false);
+      else if (selectedId) setDetailOpen(document.body.classList.contains("ideas-detail-open"));
     });
   }
 
@@ -226,7 +263,10 @@
     renderIdeaList();
     renderResearchInputs(inputs);
     renderResearchQueue(research);
-    if (ideas.length) renderDetail(ideas[0].id);
+    const fromHash = decodeURIComponent(location.hash.replace("#", ""));
+    const initial = ideas.find(idea => idea.id === fromHash);
+    if (initial) renderDetail(initial.id);
+    else if (ideas.length && !isMobileWorkspace()) renderDetail(ideas[0].id);
   }
 
   if (typeof document !== "undefined") {

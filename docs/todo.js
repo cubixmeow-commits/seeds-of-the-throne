@@ -98,7 +98,7 @@
     const sweepList = document.querySelector("#sweep-line");
     const activeIndex = Math.max(0, SWEEPS.findIndex(name => currentSweep.toLowerCase().includes(name.toLowerCase().split(" ")[0])));
     SWEEPS.forEach((name, index) => {
-      const item = element("li", index === activeIndex ? "is-current" : "", name);
+      const item = element("li", index === activeIndex ? "is-current" : index < activeIndex ? "is-complete" : "", name);
       if (index === activeIndex) item.setAttribute("aria-current", "step");
       sweepList.append(item);
     });

@@ -1,6 +1,6 @@
 ---
 type: cursor-implementation-handoff
-status: ready-for-implementation
+status: implemented-for-review
 date: 2026-09-08
 scope: docs story site and Project Explorer
 content_policy: approved copy locked
