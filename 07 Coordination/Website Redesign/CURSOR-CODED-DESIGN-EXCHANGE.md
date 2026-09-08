@@ -1,9 +1,9 @@
 ---
 type: agent-exchange
-status: awaiting-cursor-pass-1
+status: awaiting-codex-review-1
 updated: 2026-09-08
-active_branch: unset
-active_pr: unset
+active_branch: codex/coded-design-lab-handoff
+active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 cycle: 1
 author_selection: pending
 ---
@@ -37,21 +37,24 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Cursor pass report
 
-Cursor replaces the contents of this section at the end of each pass.
-
-- **State:** not started
-- **Branch:**
-- **Commit:**
-- **PR:**
-- **Pass completed:**
+- **State:** awaiting-codex-review-1
+- **Branch:** `codex/coded-design-lab-handoff`
+- **Commit:** (filled after push; visual Pass 1 on this branch)
+- **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
+- **Pass completed:** Pass 1 — both coded directions with Story + Project Explorer prototypes
 - **Prototype paths:**
-- **Preview URL or opening instructions:**
-- **Files changed:**
-- **Rendered widths checked:**
-- **Interaction checks:**
-- **Known limitations:**
-- **Questions for Codex:**
-- **Questions requiring author choice:**
+  - `iainreiddotdev/design-lab/seeds/index.html`
+  - `iainreiddotdev/design-lab/seeds/planetary-dusk/story.html`
+  - `iainreiddotdev/design-lab/seeds/planetary-dusk/explorer.html`
+  - `iainreiddotdev/design-lab/seeds/pale-signal/story.html`
+  - `iainreiddotdev/design-lab/seeds/pale-signal/explorer.html`
+- **Preview URL or opening instructions:** `php -S 127.0.0.1:8766 -t .` then open `http://127.0.0.1:8766/iainreiddotdev/design-lab/seeds/`
+- **Files changed:** isolated design-lab prototypes; QA evidence + review note; UI/UX Pro Max installer under `.cursor/`; this exchange; handoff completion report. No production `docs/` or Project Explorer edits.
+- **Rendered widths checked:** 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + all four prototypes; screenshots in `07 QA/Coded Design Lab Review Evidence/`
+- **Interaction checks:** mobile menus (open/Escape/focus return); dusk authorship-sequence buttons; pale concealed-layer reveal; Story↔Explorer links; long workshop paths wrap; focus styles present; reduced-motion disables nonessential transforms
+- **Known limitations:** Chromium-only automated pass; short mobile viewports can push Dusk imagery below the first screen; warm cutaway art is filtered rather than replaced; lab nav is not full production IA
+- **Questions for Codex:** Do the two spatial models read as materially different under real content pressure? Any blocking overflow/contrast/hierarchy issues before author selection?
+- **Questions requiring author choice:** Which direction should be refined next—Planetary Dusk or Pale Signal? Any must-fix composition notes before Pass 2?
 
 ## Codex review
 
@@ -78,7 +81,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Cursor: complete Pass 1 from [[07 Coordination/2026-09-08 - Cursor Coded Website Design Lab]], then update this file, commit everything, open a review PR, and stop.
+Codex: review PR #7 and the rendered prototypes at the listed widths, update the Codex review section, set status to `awaiting-author-selection` (or return blocking fixes to Cursor), and stop.
 
 ## Phone-sized relay prompts
 
@@ -103,4 +106,3 @@ The author can use these exact messages.
 ### Approve the coded prototype
 
 `I approve the current coded prototype for production translation. Update the exchange and give me the next Cursor prompt.`
-

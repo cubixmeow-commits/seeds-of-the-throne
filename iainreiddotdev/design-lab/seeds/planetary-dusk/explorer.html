@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1724">
+  <title>Planetary Dusk · Project Explorer | Seeds of the Throne</title>
+  <meta name="description" content="The Project Explorer shows how conversations and story ideas are organized into characters, a world, a timeline, and a finished series.">
+  <link rel="stylesheet" href="design.css">
+  <script src="prototype.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Prototype navigation">
+      <a href="story.html">Story</a>
+      <a href="explorer.html" aria-current="page">Overview</a>
+      <a href="#current-task">Current task</a>
+      <a href="#files-entry">Files</a>
+      <a href="../index.html">Lab index</a>
+    </nav>
+  </header>
+
+  <main id="main" class="explorer-main">
+    <section class="explorer-hero" aria-labelledby="explorer-title">
+      <div class="explorer-hero__copy">
+        <p class="eyebrow">Project Explorer prototype</p>
+        <h1 id="explorer-title">Seeds of the Throne</h1>
+        <p class="deck">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
+        <p class="actions">
+          <a class="button primary" href="#current-task">See how the story is being built</a>
+          <a class="button" href="story.html">Open the Story prototype</a>
+        </p>
+      </div>
+      <figure class="explorer-hero__frame">
+        <img src="../../../../docs/assets/images/recovered-records-evidence-v1.webp" alt="Interpretive still life of recovered records aligned against hidden-system evidence." width="1774" height="887" fetchpriority="high">
+        <figcaption>Working instrument. Evidence language without cinematic key art.</figcaption>
+      </figure>
+    </section>
+
+    <div class="workbench">
+      <section class="task" id="current-task" aria-labelledby="task-title">
+        <p class="eyebrow">Current decision</p>
+        <h2 id="task-title">Explain how Sylvan can expose Samuel while Samuel still believes he can regain control.</h2>
+        <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
+        <p class="status" role="status" data-sequence-status>Active step: Conversation becomes organized evidence</p>
+        <div data-sequence>
+          <p class="eyebrow">Inspect the production chain</p>
+          <div class="actions" aria-label="Authorship sequence">
+            <button class="button" type="button" data-step aria-pressed="true" data-step-label="Active step: Conversation becomes organized evidence">1 · Conversation</button>
+            <button class="button" type="button" data-step aria-pressed="false" data-step-label="Active step: Missing questions become author gates">2 · Decision</button>
+            <button class="button" type="button" data-step aria-pressed="false" data-step-label="Active step: Propagation — accepted answers move into story work">3 · Propagation</button>
+            <button class="button" type="button" data-step aria-pressed="false" data-step-label="Active step: Scene plans move toward finished prose">4 · Prose</button>
+          </div>
+        </div>
+        <ol class="sequence" aria-label="Conversation to finished work">
+          <li>
+            <div>
+              <h3>Conversation becomes organized evidence</h3>
+              <p>Years of notes are reviewed into characters, world rules, timeline events, and unresolved questions.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h3>The workshop asks one question at a time</h3>
+              <p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <h3>Accepted answers are added where they belong</h3>
+              <p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p>
+            </div>
+          </li>
+        </ol>
+        <div class="path-row" id="files-entry">
+          <p class="eyebrow">Representative source path</p>
+          <code>07 Coordination/Story Completion Workflow/Workshop/08 - Samuel Capture Method and Konrad Bargain.md</code>
+          <div class="files-entry">
+            <a class="button" href="#files-entry">Browse files deliberately</a>
+            <span class="note">Files remain secondary. The current task stays first.</span>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="lab-foot">
+    <a href="../index.html">Design lab index</a>
+    <a href="story.html">Story prototype</a>
+    <span>Planetary Dusk coded prototype · not production</span>
+  </footer>
+</body>
+</html>

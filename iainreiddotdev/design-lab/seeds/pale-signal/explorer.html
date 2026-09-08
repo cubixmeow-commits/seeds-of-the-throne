@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#dbe4e7">
+  <title>Pale Signal · Project Explorer | Seeds of the Throne</title>
+  <meta name="description" content="The Project Explorer shows how conversations and story ideas are organized into characters, a world, a timeline, and a finished series.">
+  <link rel="stylesheet" href="design.css">
+  <script src="prototype.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><b aria-hidden="true">ST</b><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" data-site-nav aria-label="Prototype navigation">
+      <a href="story.html">Story</a>
+      <a href="explorer.html" aria-current="page">Overview</a>
+      <a href="#task">Current task</a>
+      <a href="#files">Files</a>
+      <a href="../index.html">Lab index</a>
+    </nav>
+  </header>
+
+  <main id="main" class="ex-shell">
+    <section class="ex-intro" aria-labelledby="explorer-title">
+      <div class="ex-intro__copy">
+        <p class="kicker">Project Explorer prototype</p>
+        <h1 id="explorer-title">Seeds of the Throne</h1>
+        <p class="lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
+        <p class="cta-row">
+          <a class="btn" href="#task">See how the story is being built</a>
+          <a class="btn ghost" href="story.html">Open the Story prototype</a>
+        </p>
+      </div>
+      <aside class="ex-aside">
+        <p class="kicker" style="color:#7fd0d8">Current premise</p>
+        <strong>The colonization process trains participants and contains dangerous criminals.</strong>
+        <p>Humanity developed the Luminai inside an interactive colonization environment.</p>
+      </aside>
+    </section>
+
+    <div class="board">
+      <section class="panel" id="task" aria-labelledby="task-title">
+        <p class="kicker">Current task</p>
+        <h2 id="task-title">Explain how Sylvan can expose Samuel while Samuel still believes he can regain control.</h2>
+        <p>Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
+        <ul class="steps" aria-label="Conversation to finished work">
+          <li><span>01</span><div><strong>Conversation</strong><p>Ordinary language is captured without forcing premature structure.</p></div></li>
+          <li><span>02</span><div><strong>Organized evidence</strong><p>Notes become characters, world rules, timeline events, and open questions.</p></div></li>
+          <li><span>03</span><div><strong>Author decision</strong><p>The workshop asks one high-leverage question at a time.</p></div></li>
+          <li><span>04</span><div><strong>Propagation</strong><p>Accepted answers update the places they belong before scenes are written.</p></div></li>
+        </ul>
+      </section>
+      <section class="panel" id="files" aria-labelledby="files-title">
+        <p class="kicker">Deliberate files entry</p>
+        <h2 id="files-title">Repository evidence stays secondary</h2>
+        <p>Browse supporting material after the current task is clear. Long paths must remain readable on narrow screens.</p>
+        <div class="path-block">
+          <code>07 Coordination/Story Completion Workflow/Workshop/11 - Sylvan Orzai Meeting Separation and House Path.md</code>
+        </div>
+        <p class="cta-row" style="margin-top:1rem">
+          <a class="btn ghost" href="#files">Browse files deliberately</a>
+        </p>
+        <figure style="margin:1rem 0 0;">
+          <img src="../../../../docs/assets/images/recovered-records-evidence-v1.webp" alt="Interpretive still life of recovered records aligned against hidden-system evidence." width="1774" height="887" loading="lazy" style="width:100%;max-height:11rem;object-fit:cover;filter:saturate(.65) contrast(1.05);">
+          <figcaption class="meta">Interpretive evidence composition for the working instrument.</figcaption>
+        </figure>
+      </section>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <a href="../index.html">Design lab index</a>
+    <a href="story.html">Story prototype</a>
+    <span>Pale Signal coded prototype · not production</span>
+  </footer>
+</body>
+</html>

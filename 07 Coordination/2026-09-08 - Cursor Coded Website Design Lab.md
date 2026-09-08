@@ -1,6 +1,6 @@
 ---
 type: implementation-handoff
-status: ready
+status: implemented-for-author-review
 date: 2026-09-08
 owner: Cursor
 scope: isolated coded website prototypes
@@ -208,3 +208,17 @@ Append a concise report to this handoff containing:
 Mark this handoff `implemented-for-author-review`. Open a focused PR. Do not merge or deploy.
 
 For Pass 1, also set the exchange to `awaiting-codex-review-1`. Codex and the author will control subsequent state transitions.
+
+## Completion report
+
+1. **Prototype files created:** `iainreiddotdev/design-lab/seeds/index.html`; `shared/README.md`; `shared/test-design-lab.cjs`; `planetary-dusk/{story,explorer,design.css,prototype.js}`; `pale-signal/{story,explorer,design.css,prototype.js}`.
+2. **External design skill installation:** `npx ui-ux-pro-max-cli init --ai cursor` succeeded. Added `.cursor/skills/` packages (`ui-ux-pro-max` plus bundled siblings: banner-design, brand, design, design-system, slides, ui-styling). No AGENTS/rules/production overwrites.
+3. **Content and assets used:** approved homepage premise/consequence and public Atlas wording; approved Konrad/Samuel/Sylvan identity art; interpretive planetary-cutaway, surface-civilization, and recovered-records WebPs referenced from `docs/assets/images/` (not duplicated).
+4. **Interactions:** working mobile menus; aria-current; Story↔Explorer links; Dusk authorship-sequence buttons; Pale concealed-layer panels; focus-visible; reduced-motion.
+5. **Screenshots:** `07 QA/Coded Design Lab Review Evidence/` — 30 first-viewport captures across six sizes × five routes, plus `results.json`.
+6. **Viewport/a11y results:** automated overflow/menu/target/interaction checks passed; Chromium visual inspection recorded in `07 QA/2026-09-08 - Coded Website Design Lab Review.md`.
+7. **Known limitations:** Chromium-only; short mobile may defer Dusk art below fold; filtered warm artwork; lab IA is intentionally small.
+8. **Review paths:** prototypes under `iainreiddotdev/design-lab/seeds/`; QA note + evidence folder under `07 QA/`; exchange at `07 Coordination/Website Redesign/CURSOR-CODED-DESIGN-EXCHANGE.md`.
+9. **Production isolation:** no edits to production story pages, Project Explorer, builders, public copy, or canon notes beyond this handoff/exchange/QA record.
+10. **Branch/PR:** `codex/coded-design-lab-handoff` / PR #7; exchange set to `awaiting-codex-review-1`. Do not merge or deploy.
+

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142738">
+  <title>Coded design lab | Seeds of the Throne</title>
+  <style>
+    :root {
+      color-scheme: dark light;
+      --ink: #132734;
+      --field: #eef2f2;
+      --line: rgba(19, 39, 52, .16);
+      --accent: #258b95;
+      --ui: "Segoe UI", "Helvetica Neue", ui-sans-serif, system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font: 400 1.05rem/1.55 var(--ui);
+      color: var(--ink);
+      background:
+        linear-gradient(160deg, #dbe4e7 0%, #eef2f2 48%, #d5e0e5 100%);
+    }
+    main {
+      width: min(52rem, calc(100% - 2rem));
+      margin: 0 auto;
+      padding: 3rem 0 4rem;
+    }
+    h1 { font: 650 2rem/1.15 var(--ui); letter-spacing: -.03em; margin: 0 0 .8rem; }
+    .lede { max-width: 42rem; color: #3d5560; }
+    .note {
+      margin: 1.4rem 0 2rem;
+      padding: .9rem 1rem;
+      border-inline-start: 3px solid var(--accent);
+      background: rgba(255,255,255,.55);
+    }
+    .directions { display: grid; gap: 1rem; }
+    article {
+      padding: 1.25rem 1.3rem 1.4rem;
+      background: rgba(255,255,255,.72);
+      border: 1px solid var(--line);
+    }
+    article h2 { margin: 0 0 .45rem; font: 650 1.25rem/1.25 var(--ui); }
+    article p { margin: 0 0 1rem; color: #3d5560; }
+    .links { display: flex; flex-wrap: wrap; gap: .7rem; }
+    a.button {
+      min-height: 2.75rem;
+      display: inline-flex;
+      align-items: center;
+      padding: .55rem 1rem;
+      text-decoration: none;
+      color: #fff;
+      background: var(--ink);
+      border: 1px solid var(--ink);
+    }
+    a.button.secondary { background: transparent; color: var(--ink); }
+    a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="note"><strong>Isolated coded prototypes.</strong> These pages are responsive HTML/CSS/JS experiments for author review. They are not production pages and are not linked from the live story atlas or Project Explorer.</p>
+    <h1>Seeds of the Throne design lab</h1>
+    <p class="lede">Two materially different interface directions. Open each Story and Project Explorer prototype directly and review them on mobile and desktop.</p>
+    <div class="directions">
+      <article>
+        <h2>Planetary Dusk</h2>
+        <p>Atmospheric, spatial science-fiction composition with layered depth and mineral cyan signals.</p>
+        <p class="links">
+          <a class="button" href="planetary-dusk/story.html">Story prototype</a>
+          <a class="button secondary" href="planetary-dusk/explorer.html">Project Explorer prototype</a>
+        </p>
+      </article>
+      <article>
+        <h2>Pale Signal</h2>
+        <p>Lighter mineral future-editorial composition with asymmetric whitespace and revealed concealed systems.</p>
+        <p class="links">
+          <a class="button" href="pale-signal/story.html">Story prototype</a>
+          <a class="button secondary" href="pale-signal/explorer.html">Project Explorer prototype</a>
+        </p>
+      </article>
+    </div>
+  </main>
+</body>
+</html>
