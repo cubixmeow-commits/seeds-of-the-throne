@@ -11,7 +11,7 @@
   --ui: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", ui-sans-serif, system-ui, sans-serif;
   --display: Futura, "Avenir Next", "Century Gothic", var(--ui);
   --mono: ui-monospace, "SFMono-Regular", Consolas, monospace;
-  --page: min(78rem, calc(100vw - 2rem));
+  --page: min(78rem, calc(100vw - 32px));
   --header: 3.35rem;
   color-scheme: light;
 }
@@ -40,17 +40,24 @@ a:hover { color: var(--ink); }
 .topbar {
   position: sticky; top: 0; z-index: 40;
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
-  gap: 1rem;
+  gap: .75rem;
   min-height: var(--header);
-  padding: .4rem max(1rem, calc((100vw - 78rem) / 2));
+  padding: .4rem max(16px, calc((100vw - 78rem) / 2));
   background: color-mix(in srgb, var(--field-raised) 90%, transparent);
   backdrop-filter: blur(12px);
+  overflow-x: clip;
 }
 .brand {
   display: inline-flex; align-items: center; gap: .55rem;
+  min-width: 0;
   min-height: 2.75rem; color: var(--ink); text-decoration: none; font-weight: 700;
+}
+.brand span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .brand b {
   width: 1.5rem; height: 1.5rem; display: grid; place-items: center;
@@ -59,12 +66,18 @@ a:hover { color: var(--ink); }
   box-shadow: inset 0 0 0 1px var(--system);
 }
 .menu-button {
-  display: none; justify-self: end;
-  min-height: 2.75rem; min-width: 5.25rem;
+  display: none; justify-self: end; grid-column: 2;
+  min-height: 44px; min-width: 4.5rem;
   border: 0; background: transparent; color: var(--ink); cursor: pointer; font: inherit;
-  padding: .4rem .7rem; box-shadow: inset 0 0 0 1px var(--rule);
+  padding: .4rem .55rem; box-shadow: inset 0 0 0 1px var(--rule);
+  flex-shrink: 0;
+  white-space: nowrap;
 }
-.nav { display: flex; flex-wrap: wrap; justify-content: end; gap: .15rem .85rem; }
+.nav {
+  display: flex; flex-wrap: wrap; justify-content: end; gap: .15rem .85rem;
+  grid-column: 2;
+  justify-self: end;
+}
 .nav a {
   min-height: 2.75rem; display: inline-flex; align-items: center;
   padding: .3rem .4rem; color: var(--ink-muted); text-decoration: none;
@@ -80,7 +93,7 @@ a:hover { color: var(--ink); }
   margin: 0 auto;
   padding: clamp(1.6rem, 4vw, 3.2rem) 0 1rem;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(13rem, .9fr);
+  grid-template-columns: minmax(0, 1fr) minmax(168px, .9fr);
   gap: clamp(1rem, 3vw, 2.4rem);
   align-items: start;
   min-height: min(78vh, 36rem);
@@ -92,6 +105,7 @@ a:hover { color: var(--ink); }
   font: 700 .68rem/1.4 var(--mono);
   letter-spacing: .16em;
   text-transform: uppercase;
+  overflow-wrap: anywhere;
 }
 .masthead h1 {
   margin: 0;
@@ -113,7 +127,8 @@ a:hover { color: var(--ink); }
 .btn {
   min-height: 2.75rem; display: inline-flex; align-items: center; justify-content: center;
   padding: .55rem 1rem; border: 0; text-decoration: none;
-  color: var(--field-raised); background: var(--ink); font: 700 .92rem/1 var(--ui); cursor: pointer;
+  color: var(--field-raised); background: var(--ink); font: 700 .92rem/1.2 var(--ui); cursor: pointer;
+  white-space: normal; text-align: center; height: auto;
 }
 .btn.ghost { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
 .btn:hover { background: var(--system); color: #fff; box-shadow: none; }
@@ -178,7 +193,7 @@ a:hover { color: var(--ink); }
 .concealed {
   width: 100%;
   margin: 1.8rem 0;
-  padding: clamp(1.5rem, 4vw, 2.5rem) max(1rem, calc((100vw - 78rem) / 2));
+  padding: clamp(1.5rem, 4vw, 2.5rem) max(16px, calc((100vw - 78rem) / 2));
   background:
     radial-gradient(600px 280px at 80% 20%, rgba(37, 139, 149, .22), transparent 55%),
     var(--concealed);
@@ -262,7 +277,7 @@ a:hover { color: var(--ink); }
 .ex-shell { width: var(--page); margin: 0 auto; padding: 1.2rem 0 3rem; }
 .sheet {
   display: grid;
-  grid-template-columns: 5.5rem minmax(0, 1fr) minmax(11rem, .72fr);
+  grid-template-columns: 72px minmax(0, 1fr) minmax(140px, .72fr);
   gap: 1rem 1.35rem;
   align-items: start;
 }
@@ -355,63 +370,114 @@ a:hover { color: var(--ink); }
     position: absolute;
     inset-inline: 0;
     top: var(--header);
+    grid-column: 1 / -1;
     flex-direction: column;
     align-items: stretch;
-    padding: .4rem 1rem 1rem;
+    padding: .4rem 16px 1rem;
     background: var(--field-raised);
+    justify-self: stretch;
   }
   .nav[data-open] { display: flex; }
 
-  /* Mobile story: fragment participates in first viewport */
+  /* Mobile story: fragment participates in first viewport without crowding copy */
   .masthead {
-    grid-template-columns: minmax(0, 1.15fr) minmax(6.5rem, .55fr);
+    grid-template-columns: minmax(0, 1.4fr) minmax(72px, .38fr);
+    grid-template-rows: minmax(0, auto) auto;
     min-height: auto;
     padding-top: 1rem;
+    gap: .55rem .75rem;
     align-items: stretch;
   }
-  .masthead__copy { padding-block: 0 .4rem; }
+  .masthead__copy {
+    grid-column: 1;
+    grid-row: 1;
+    padding-block: 0 .35rem;
+    padding-inline-end: .1rem;
+    min-width: 0;
+  }
+  .masthead h1 { max-width: 10ch; }
+  .kicker { letter-spacing: .1em; }
   .fragment {
-    justify-self: stretch;
-    width: 100%;
-    margin: 0;
-    min-height: 100%;
+    display: contents;
   }
   .fragment__frame {
+    grid-column: 2;
+    grid-row: 1;
     min-height: 100%;
     clip-path: polygon(12% 0, 100% 0, 100% 100%, 0 100%);
     box-shadow: none;
   }
-  .fragment__frame img { object-position: 78% 30%; min-height: 22rem; }
+  .fragment__frame img { object-position: 78% 30%; min-height: 280px; height: 100%; }
   .annotation {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    position: static;
     left: auto;
-    right: .35rem;
-    bottom: .5rem;
-    max-width: 7.5rem;
+    right: auto;
+    bottom: auto;
+    max-width: 42ch;
+    margin: 0;
+    padding: 0;
+    background: transparent;
     font-size: .68rem;
-    padding: .4rem .45rem;
+    line-height: 1.35;
     box-shadow: none;
+    overflow-wrap: anywhere;
   }
   .meta { display: none; }
-  .lede { font-size: .98rem; }
+  .lede { font-size: .98rem; line-height: 1.52; max-width: 34ch; }
+  .pull { max-width: 28ch; }
 
-  .rail, .cast, .split-forward, .sheet { grid-template-columns: 1fr; }
+  .rail, .cast, .split-forward, .sheet { grid-template-columns: minmax(0, 1fr); }
   .rail__index, .sheet__rail { position: static; display: flex; flex-wrap: wrap; gap: .55rem 1rem; }
-  .layers { grid-template-columns: 1fr; }
-  .faces { grid-template-columns: 1fr; }
+  .layers { grid-template-columns: minmax(0, 1fr); }
+  .faces { grid-template-columns: minmax(0, 1fr); }
+  .split-forward article,
+  .flow article,
+  .cast__copy,
+  .slab,
+  .sheet__main,
+  .sheet__aside,
+  .masthead__copy,
+  .fragment { min-width: 0; }
+  .flow li { grid-template-columns: 36px minmax(0, 1fr); }
+  .split-forward article:last-child {
+    padding-inline-start: 12px;
+  }
   .sheet__aside { order: -1; }
-  .sheet__aside .fragment__frame { min-height: 11rem; }
+  .sheet__aside .fragment__frame { min-height: 168px; }
+  .sheet__aside .annotation {
+    position: static;
+    margin: .5rem 0 0;
+    max-width: none;
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .ex-shell, .rail, .cast, .split-forward, .foot { max-width: 100%; }
 }
 
 @media (max-width: 28rem) {
   .cta-row .btn { width: 100%; }
   .masthead {
-    grid-template-columns: minmax(0, 1.05fr) minmax(5.75rem, .48fr);
-    gap: .7rem;
+    grid-template-columns: minmax(0, 1.55fr) minmax(64px, .34fr);
+    gap: .5rem;
   }
-  .fragment__frame img { min-height: 20rem; }
+  .masthead h1 {
+    font-size: clamp(1.72rem, 8.8vw, 2.1rem);
+    letter-spacing: -.04em;
+  }
+  .kicker { margin-bottom: .65rem; letter-spacing: .08em; }
+  .lede { font-size: .93rem; margin-top: .75rem; }
+  .pull {
+    font-size: .96rem;
+    margin-top: .85rem;
+    padding-inline-start: .75rem;
+  }
+  .cta-row { margin-top: 1rem; gap: .55rem; }
+  .fragment__frame img { min-height: 248px; }
   .annotation {
-    max-width: 6.5rem;
     font-size: .62rem;
+    margin-top: .4rem;
   }
-  .pull { font-size: 1rem; }
 }

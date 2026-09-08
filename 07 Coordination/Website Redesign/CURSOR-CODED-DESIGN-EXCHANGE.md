@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-cursor-refinement
+status: awaiting-codex-review-2
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -37,32 +37,30 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Cursor pass report
 
-- **State:** awaiting-codex-review-1b
+- **State:** awaiting-codex-review-2
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** `7c36e7845abd5a9d5af4e2d316ad8b94b99d222a`
+- **Commit:** `a22d21997cad9cb190a1a23bfb77cf5a84cb8915`
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
-- **Pass completed:** Pass 1B — Codex-required refinements
+- **Pass completed:** Pale Signal selected-direction refinement (post–author selection)
 - **Prototype paths:**
   - `iainreiddotdev/design-lab/seeds/index.html`
-  - `iainreiddotdev/design-lab/seeds/planetary-dusk/story.html`
-  - `iainreiddotdev/design-lab/seeds/planetary-dusk/explorer.html`
+  - `iainreiddotdev/design-lab/seeds/planetary-dusk/story.html` *(left intact as unselected comparison)*
+  - `iainreiddotdev/design-lab/seeds/planetary-dusk/explorer.html` *(left intact)*
   - `iainreiddotdev/design-lab/seeds/pale-signal/story.html`
   - `iainreiddotdev/design-lab/seeds/pale-signal/explorer.html`
-- **Preview URL or opening instructions:** `php -S 127.0.0.1:8766 -t .` then open `http://127.0.0.1:8766/iainreiddotdev/design-lab/seeds/`
-- **Files changed:** Pass 1B design-lab CSS/HTML/Explorer redesigns; evidence recapture + open-menu shots; QA note; exchange; `.gitignore` adds `.cursor/`; **removed** all committed `.cursor/` installer output. No production page edits.
-- **Rendered widths checked:** 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + four prototypes; plus `375x812-*-story-menu.png` open-menu evidence
-- **Interaction checks:** mobile menus open/Escape/focus return; dusk sequence buttons; pale layer reveal; Story↔Explorer main links; long paths wrap; focus-visible; reduced-motion; overflow suite empty
-- **Pass 1B requirement coverage:**
-  1. `.cursor/` removed from PR; tool noted in report only
-  2. Mobile Story openings keep artwork in first viewport (no bordered copy card → poster stack)
-  3. Explorers redesigned: Dusk vertical-spine thread; Pale asymmetrical editorial sheet
-  4. Borders/boxed panels sharply reduced
-  5. Authored display/label typography without fantasy serif or webfont deps
-  6. Story visual language carried into each Explorer
-  7. Evidence + checks refreshed
-- **Known limitations:** Chromium-only; Safari/iOS and exhaustive 200% zoom still unverified; short 320 Dusk may crop secondary CTA
-- **Questions for Codex:** Are mobile openings and Explorer spatial models now comparable enough for author selection?
-- **Questions requiring author choice:** none until Codex clears Pass 1B
+- **Preview URL or opening instructions:** `php -S 127.0.0.1:8766 -t .` then open `http://127.0.0.1:8766/iainreiddotdev/design-lab/seeds/pale-signal/story.html`
+- **Files changed:** Pale Signal Story/Explorer HTML + CSS only; design-lab Playwright suite extended for WebKit + 200% zoom; Pale evidence recapture; QA note; this exchange. Planetary Dusk untouched. No production page edits. No `.cursor/` payload.
+- **Rendered widths checked:** Chromium 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + both directions; Pale WebKit captures at 320, 375, 390, 430, 768, 1440; Pale Chromium + WebKit **200% text zoom** at 320/375/768 (and WebKit 375 zoom pair)
+- **Interaction checks:** mobile menus open/Escape; dusk sequence; pale layer reveal; Story↔Explorer links; long paths wrap; focus-visible; reduced-motion; overflow suite empty across chromium/webkit/zoom200
+- **Selection-requirement coverage:**
+  1. Refined **only** Pale Signal; Dusk kept as comparison (no blend)
+  2. Replaced process captions (“Essential copy stays in HTML” / “Annotations stay in HTML”) with story-facing evidence lines; softened lab footer/CTA wording
+  3. Polished Pale 320px copy/image split (wider copy track, px-based fragment min, annotation under full masthead on mobile)
+  4. Verified Playwright **WebKit** (Safari engine) + **200% text zoom**; repaired zoom overflow (topbar, rem-based tracks, grid `min-width: auto`)
+  5. Explorer remains asymmetrical working sheet (no card dashboard regression)
+- **Known limitations:** WebKit here is desktop Safari engine in Linux Playwright, not a physical iPhone; visual QA still needs author eyes on a real device before production approval
+- **Questions for Codex:** Does refined Pale Signal clear the design gate for prototype approval, or are further selected-direction repairs required?
+- **Questions requiring author choice:** none until Codex completes review-2
 
 ## Codex review
 
@@ -98,7 +96,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Cursor: sync the latest PR #7 branch and read this exchange. Refine only the selected Pale Signal Story and Explorer prototypes using every item under `Required next changes after the author selects a direction` and the recorded author decision. Keep Planetary Dusk intact as an unselected comparison; do not blend the directions. Re-capture required evidence, update the Cursor pass report, set status to `awaiting-codex-review-2`, commit and push to the same PR, then stop. Do not merge, deploy, or change production pages.
+Codex: review PR #7 Pale Signal refinement against the selection requirements and prior Pass 1B review notes. Update this exchange with review-2 findings. Do not merge, deploy, or change production pages. Ask the author only if a new decision is required.
 
 ## Phone-sized relay prompts
 
