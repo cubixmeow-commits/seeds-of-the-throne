@@ -39,7 +39,7 @@ This is the durable communication channel for the coded website-design loop. The
 
 - **State:** awaiting-codex-review-1b
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** (filled after push)
+- **Commit:** `7c36e7845abd5a9d5af4e2d316ad8b94b99d222a`
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 - **Pass completed:** Pass 1B — Codex-required refinements
 - **Prototype paths:**
