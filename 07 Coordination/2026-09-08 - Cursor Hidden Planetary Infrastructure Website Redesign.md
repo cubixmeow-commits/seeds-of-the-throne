@@ -574,6 +574,6 @@ Inspected first-viewport screenshots for all listed story pages and all six PE v
 
 - Branch: `cursor/hidden-planetary-infrastructure-redesign-e541`
 - PR: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/5
-- Implementation commit: recorded in the final push for this review package
+- Implementation commit: `2e1bf8544f844a41c2316524db8a48e9448d9cd8`
 - Do not merge or deploy; leave ready for author review
 
