@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-codex-review-1
+status: awaiting-cursor-pass-1b
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -58,17 +58,34 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Codex review
 
-Codex replaces the contents of this section after reviewing Cursor's newest committed pass.
-
-- **Reviewed branch/commit:** not yet reviewed
-- **Review state:** pending
+- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `bf1d5a4043850572ea70e1714d30aeac09036371` (PR #7)
+- **Review state:** blocking design refinement required before author selection; return to Cursor for Pass 1B
 - **What works visibly:**
+  - The black-and-yellow production look is gone. Planetary Dusk uses a coherent navy/cyan night system; Pale Signal uses a readable mineral field with coral/cyan signals.
+  - Both desktop Story pages finally compose artwork and copy as one scene rather than placing an unrelated poster after a finished text block. Planetary Dusk has a convincing cinematic desktop hero; Pale Signal has the strongest overall editorial composition and the clearest path toward a distinctive site.
+  - Story language, working-state labels, Story/Explorer separation, focus treatment, reduced-motion handling, and local navigation are present.
+  - The captured widths report no document/body overflow or escaping elements. `python3 scripts/check_story_sites.py` and both prototype JavaScript syntax checks pass. Production pages remain untouched.
 - **Blocking design problems:**
+  - At 320px, both Story directions become a conventional header followed by a long text column; no artwork participates in the first viewport. Planetary Dusk additionally encloses the entire opening in a large bordered rectangle. This loses the spatial idea visible on desktop and repeats the earlier “copy block, then image” problem.
+  - Both Explorer pages are generic card stacks. Their layout grammar is substantially the same—bordered intro, bordered/dark status panel, bordered task/file panels—with palette differences doing most of the differentiation. Neither yet expresses the authoring system as a unique working instrument.
+  - Borders and boxed panels carry too much of the hierarchy. The result is cleaner than production but still resembles a themed component library or dashboard rather than a designed world. Use type, negative space, alignment, layering, image crops, rules, and continuous spatial relationships before adding containers.
+  - The typography is competent but generic. The directions need a more authored display/label relationship without falling back to historical fantasy serif styling.
+  - The Pale Signal Story is presently the stronger direction; however, its Explorer does not yet inherit the asymmetry and editorial confidence of its Story page. Planetary Dusk's Explorer is the weakest of the four screens.
 - **Blocking responsive or functional problems:**
+  - No blocking overflow or broken-link defect was found in the supplied Chromium evidence. Safari/iOS rendering and 200% zoom remain unverified, so those checks are required before prototype approval, not necessarily before this visual refinement.
+  - The 320x568 captures reveal a composition failure even though they technically fit: the first screen contains only navigation and prose/cards. Mobile must be treated as a deliberate composition, not a one-column collapse of desktop.
+  - The PR contains 172 files and about 4.6 MB of installer output under `.cursor/`, contributing to a 226-file / 90,780-line change. That third-party tool payload is not a project deliverable and also causes `git diff --check` failures. It must be removed from this PR; record the tool used in the report instead.
 - **Required next changes, in priority order:**
-- **What must remain unchanged:**
-- **Recommendation to the author:**
-- **Author decision needed:**
+  1. Remove all committed `.cursor/` installer output from PR #7. Do not remove the repo-owned `skills/design-seeds-site` skill or the design-lab work.
+  2. Recompose both mobile Story openings at 320–430px so artwork, crop, signal line, or another direction-specific visual field participates in the first viewport. Do not use a complete bordered copy card followed by a rectangular image. Preserve readable copy and tap targets.
+  3. Redesign both Explorers away from card grids/stacks. Planetary Dusk should become one continuous “current thread” or vertical-spine workbench with steps and evidence woven into a shared surface. Pale Signal should become an asymmetrical editorial working sheet with an anchored rail/timeline and layered annotations. They must remain structurally distinct on mobile as well as desktop.
+  4. Remove most nonessential container borders—target at least a two-thirds reduction in visible boxed panels. Establish hierarchy primarily through composition, spacing, typography, tonal fields, and selective rules.
+  5. Give each direction an authored typographic system. Avoid generic all-system-sans presentation, faux-historical fantasy type, and gratuitous font loading. Keep body copy highly legible.
+  6. Carry the strongest Story-page idea into each matching Explorer. For Pale Signal, integrate the clipped editorial image/annotation language; for Planetary Dusk, integrate the orbital/thread/evidence language rather than attaching another image card.
+  7. Re-capture all required widths and add open-menu mobile evidence. Re-run interaction, long-path, focus, reduced-motion, overflow, local-link, and syntax checks. Record any Safari/iOS or 200% zoom limitation honestly.
+- **What must remain unchanged:** production pages; truthful Story versus Project Explorer destinations; source-aligned copy; no black-and-yellow palette; no faux-medieval decoration; no wallpaper/poster-after-copy composition; accessible navigation and controls; read-only/public-project framing; prototype isolation under `iainreiddotdev/design-lab/seeds/`.
+- **Recommendation to the author:** do not choose yet. Pale Signal Story is currently the strongest foundation, while Planetary Dusk desktop Story is a useful darker counterpoint. One focused Pass 1B should make the Explorers and mobile openings genuinely comparable before spending the author's selection.
+- **Author decision needed:** none during Pass 1B. After Codex reviews the refined renderings, choose Planetary Dusk or Pale Signal.
 
 ## Author decision
 
@@ -81,7 +98,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Codex: review PR #7 and the rendered prototypes at the listed widths, update the Codex review section, set status to `awaiting-author-selection` (or return blocking fixes to Cursor), and stop.
+Cursor: sync the latest PR #7 branch, read this review, complete every required Pass 1B change in priority order, update the Cursor pass report with the new branch-tip commit and evidence, set the exchange status to `awaiting-codex-review-1b`, commit and push to the same PR, then stop. Do not merge or change production pages.
 
 ## Phone-sized relay prompts
 
