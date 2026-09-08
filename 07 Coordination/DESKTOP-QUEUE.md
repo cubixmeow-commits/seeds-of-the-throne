@@ -19,12 +19,12 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ### 2026-09-08 — Project Explorer navigation and responsive repair
 
-- **Status:** ready for Cursor
+- **Status:** implemented for review on branch `cursor/project-explorer-nav-repair-e541`; not merged or deployed
 - **Source:** [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]
-- **Scope:** Repair distinct navigation destinations, active state, Project Explorer mobile menu, sticky-header behavior, mobile archive browsing, Workshop CSS isolation, asset versioning, state preservation, and responsive verification.
-- **Preserve:** This is a repair pass. Do not change approved public wording, story canon, unresolved author gates, or begin the larger visual redesign.
-- **Verify:** Test 320, 375, 430, 768, 1024, and 1440px; extend browser coverage; run the build, source checks, JavaScript checks, PHP lint, and `git diff --check`; report anything that cannot run.
-- **Next phase:** After the repair is reviewed, use [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]] to select a story-aligned direction before further implementation.
+- **Scope completed:** Distinct Overview/Story/Decisions/Workshop destinations and active states; Project Explorer hamburger menu; sticky-header clearance; mobile archive browse drawer; Workshop CSS isolation; asset versioning; view/file/search state preservation; Research/Visuals/Archive nav states; extended browser tests at 320–1440px.
+- **Preserve:** Repair pass only. Approved public wording, story canon, unresolved author gates, and the separate visual-redesign assessment remain untouched as implementation work.
+- **Verify:** Build, source checks, PHP lint, JavaScript checks, `git diff --check`, and Playwright behavioral coverage all passed in the completion report.
+- **Next phase:** Author review of this repair, then use [[07 QA/2026-09-08 - Story Sites Visual Direction Assessment]] to select a story-aligned direction before further visual implementation.
 
 ## Completed implementation context
 

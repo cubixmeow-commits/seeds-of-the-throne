@@ -18,6 +18,16 @@ $files = explorer_markdown_files($repositoryRoot);
 $tree = explorer_build_tree($files);
 $fileSet = array_fill_keys($files, true);
 
+$explorerViews = explorer_views();
+$view = explorer_normalize_view(isset($_GET['view']) && is_string($_GET['view']) ? $_GET['view'] : null);
+if (!isset($_GET['view'])
+    && (
+        (isset($_GET['file']) && is_string($_GET['file']) && trim($_GET['file']) !== '')
+        || (isset($_GET['q']) && is_string($_GET['q']) && trim($_GET['q']) !== '')
+    )) {
+    $view = 'files';
+}
+
 $requested = isset($_GET['file']) && is_string($_GET['file'])
     ? trim(str_replace('\\', '/', $_GET['file']))
     : 'README.md';
@@ -169,7 +179,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260909-2';
+$assetVersion = '20260910-nav-repair';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -201,7 +211,6 @@ function explorer_format_bytes(?int $bytes): string
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
-    <link rel="stylesheet" href="../../docs/atlas.css?v=20260909">
     <link rel="stylesheet" href="assets/workbench.css?v=<?= e($assetVersion) ?>">
     <script>
         (function () {
@@ -221,17 +230,37 @@ function explorer_format_bytes(?int $bytes): string
 
     <header class="site-header" id="site-header">
         <div class="wrap site-header__inner">
-            <a class="brand" href="?view=overview#workbench" aria-label="Project Explorer home">
+            <a class="brand" href="<?= e(explorer_view_url('overview')) ?>" aria-label="Project Explorer home">
                 <span class="brand__mark" aria-hidden="true">ST</span>
                 <span class="brand__name">Seeds of the Throne</span>
             </a>
-            <nav class="product-nav" aria-label="Project Explorer">
-                <a href="?view=overview#workbench">Overview</a>
-                <a href="?view=sources#workbench">Story</a>
-                <a href="?view=evidence#workbench">Decisions</a>
-                <a href="?view=workshop#workbench">Workshop</a>
-                <a href="#story-progress">Progress</a>
-                <a href="#archive">Files</a>
+            <button
+                class="product-nav__toggle"
+                type="button"
+                id="product-nav-toggle"
+                data-product-nav-button
+                aria-expanded="false"
+                aria-controls="product-nav"
+                aria-label="Open Project Explorer menu">
+                <span>Menu</span>
+                <span aria-hidden="true">☰</span>
+            </button>
+            <nav class="product-nav" id="product-nav" data-product-nav aria-label="Project Explorer">
+                <?php foreach ($explorerViews as $key => $meta): ?>
+                    <?php
+                    $navParams = [];
+                    if ($key === 'files') {
+                        $navParams['file'] = $requested !== '' ? $requested : 'README.md';
+                        if ($query !== '') {
+                            $navParams['q'] = $query;
+                        }
+                    }
+                    if ($key === 'workshop' && isset($_GET['module']) && is_string($_GET['module'])) {
+                        $navParams['module'] = $_GET['module'];
+                    }
+                    ?>
+                    <a href="<?= e(explorer_view_url($key, $navParams)) ?>"<?= $key === $view ? ' aria-current="page"' : '' ?>><?= e($meta['label']) ?></a>
+                <?php endforeach; ?>
             </nav>
             <div class="explorer-nav">
                 <a href="../">Portfolio</a>
@@ -254,11 +283,11 @@ function explorer_format_bytes(?int $bytes): string
                 <h1 id="explorer-title">Seeds of the Throne</h1>
                 <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="#workbench">
+                    <a class="archive-cta archive-cta--primary" href="<?= e(explorer_view_url('overview')) ?>">
                         <span>See how the story is being built</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
-                    <a class="archive-cta" href="#archive">Browse the story files</a>
+                    <a class="archive-cta" href="<?= e(explorer_view_url('files', ['file' => $requested !== '' ? $requested : 'README.md'])) ?>">Browse the story files</a>
                 </div>
             </div>
             <figure class="explorer-hero__frame">
@@ -338,7 +367,7 @@ function explorer_format_bytes(?int $bytes): string
             </div>
         </section>
 
-        <section class="explorer-archive" id="archive" aria-labelledby="archive-title">
+        <section class="explorer-archive" id="archive" aria-labelledby="archive-title"<?= $view === 'files' ? ' data-active-destination="true"' : '' ?>>
             <header class="archive-intro wrap">
                 <p class="archive-intro__index">Story files</p>
                 <div>
@@ -347,57 +376,22 @@ function explorer_format_bytes(?int $bytes): string
                 </div>
             </header>
 
-            <div class="explorer-shell wrap">
-            <aside class="explorer-sidebar" aria-label="Repository navigation">
-                <p class="explorer-sidebar__return"><a href="#archive-document">View the current document</a></p>
-                <form class="explorer-search" method="get" action="#archive">
-                    <label for="repository-search">Find a document</label>
-                    <div>
-                        <input
-                            id="repository-search"
-                            name="q"
-                            type="search"
-                            value="<?= e($query) ?>"
-                            placeholder="Search names, ideas, or systems...">
-                        <button class="btn" type="submit">Search</button>
-                    </div>
-                </form>
-
-                <?php if ($query !== ''): ?>
-                    <section class="explorer-results" aria-labelledby="results-title">
-                        <div class="explorer-results__head">
-                            <h2 id="results-title"><?= e((string) count($matches)) ?> result<?= count($matches) === 1 ? '' : 's' ?></h2>
-                            <a href="<?= e(explorer_file_url($requested)) ?>">Clear search</a>
-                        </div>
-                        <?php if ($matches === []): ?>
-                            <p>No document titles or contents contain “<?= e($query) ?>”. Try a character, place, system, or report name.</p>
-                        <?php else: ?>
-                            <ul>
-                                <?php foreach ($matches as $match): ?>
-                                    <li>
-                                        <a href="<?= e(explorer_file_url($match['path'])) ?>">
-                                            <span><?= e($match['path']) ?></span>
-                                            <?php if ($match['context'] !== ''): ?>
-                                                <small><?= e($match['context']) ?></small>
-                                            <?php endif; ?>
-                                        </a>
-                                    </li>
-                                <?php endforeach; ?>
-                            </ul>
-                        <?php endif; ?>
-                    </section>
-                <?php else: ?>
-                    <details class="explorer-index" open>
-                        <summary>
-                            <span>Repository structure</span>
-                            <span><?= e((string) count($files)) ?> documents</span>
-                        </summary>
-                        <nav aria-label="Markdown documents">
-                            <?php explorer_render_tree($tree, $requested); ?>
-                        </nav>
-                    </details>
-                <?php endif; ?>
-            </aside>
+            <div class="explorer-shell wrap" data-archive-shell>
+            <div class="explorer-document-column">
+            <div class="explorer-browse-bar">
+                <button
+                    class="explorer-browse-toggle"
+                    type="button"
+                    data-archive-open
+                    aria-expanded="false"
+                    aria-controls="archive-browser">
+                    Browse files
+                </button>
+                <p class="explorer-browse-bar__current">
+                    <span>Current document</span>
+                    <strong><?= e($requested !== '' ? $requested : 'No document selected') ?></strong>
+                </p>
+            </div>
 
             <article class="explorer-document" id="archive-document" aria-label="<?= e($requested !== '' ? $requested : 'Repository document') ?>">
                 <?php if ($error !== null): ?>
@@ -447,6 +441,63 @@ function explorer_format_bytes(?int $bytes): string
                 </aside>
             <?php endif; ?>
             </div>
+
+            <aside class="explorer-sidebar" id="archive-browser" data-archive-panel aria-label="Repository navigation">
+                <div class="explorer-sidebar__toolbar">
+                    <button class="explorer-browse-close" type="button" data-archive-close>Close file browser</button>
+                    <a class="explorer-sidebar__return" href="#archive-document" data-archive-close>View the current document</a>
+                </div>
+                <form class="explorer-search" method="get" action="#archive">
+                    <input type="hidden" name="view" value="files">
+                    <input type="hidden" name="file" value="<?= e($requested) ?>">
+                    <label for="repository-search">Find a document</label>
+                    <div>
+                        <input
+                            id="repository-search"
+                            name="q"
+                            type="search"
+                            value="<?= e($query) ?>"
+                            placeholder="Search names, ideas, or systems...">
+                        <button class="btn" type="submit">Search</button>
+                    </div>
+                </form>
+
+                <?php if ($query !== ''): ?>
+                    <section class="explorer-results" aria-labelledby="results-title">
+                        <div class="explorer-results__head">
+                            <h2 id="results-title"><?= e((string) count($matches)) ?> result<?= count($matches) === 1 ? '' : 's' ?></h2>
+                            <a href="<?= e(explorer_file_url($requested)) ?>">Clear search</a>
+                        </div>
+                        <?php if ($matches === []): ?>
+                            <p>No document titles or contents contain “<?= e($query) ?>”. Try a character, place, system, or report name.</p>
+                        <?php else: ?>
+                            <ul>
+                                <?php foreach ($matches as $match): ?>
+                                    <li>
+                                        <a href="<?= e(explorer_file_url($match['path'])) ?>">
+                                            <span><?= e($match['path']) ?></span>
+                                            <?php if ($match['context'] !== ''): ?>
+                                                <small><?= e($match['context']) ?></small>
+                                            <?php endif; ?>
+                                        </a>
+                                    </li>
+                                <?php endforeach; ?>
+                            </ul>
+                        <?php endif; ?>
+                    </section>
+                <?php else: ?>
+                    <details class="explorer-index" open>
+                        <summary>
+                            <span>Repository structure</span>
+                            <span><?= e((string) count($files)) ?> documents</span>
+                        </summary>
+                        <nav aria-label="Markdown documents">
+                            <?php explorer_render_tree($tree, $requested); ?>
+                        </nav>
+                    </details>
+                <?php endif; ?>
+            </aside>
+            </div>
         </section>
     </main>
 
@@ -461,5 +512,6 @@ function explorer_format_bytes(?int $bytes): string
     </footer>
 
     <script src="../assets/js/site.js?v=<?= e($assetVersion) ?>" defer></script>
+    <script src="assets/project-explorer.js?v=<?= e($assetVersion) ?>" defer></script>
 </body>
 </html>

@@ -3,9 +3,11 @@
 .atlas-body { width: var(--page); margin: 0 auto; padding: 0 0 3.5rem; display: grid; gap: 1.1rem; }
 .reading, .workshop-session {
   min-width: 0;
+  max-width: 100%;
   padding: 1.5rem 1.6rem;
   border: 1px solid var(--line);
   background: var(--night-2);
+  overflow-x: auto;
 }
 .reading h1, .workshop-session h1 { font-size: 1.65rem; line-height: 1.2; }
 .reading h2, .workshop-session h2 { font-size: clamp(1.25rem, 2vw, 1.65rem); margin: 1.2rem 0 .7rem; }
@@ -28,16 +30,19 @@
 .module-card strong { font-size: 1rem; line-height: 1.3; }
 .module-card small { color: var(--muted); line-height: 1.45; }
 .workshop-session { scroll-margin-top: 5.5rem; }
-.workshop-work { display: grid; gap: 1rem; }
+.workshop-work { display: grid; gap: 1rem; max-width: 100%; min-width: 0; }
 .workshop-toolbar { display: flex; flex-wrap: wrap; gap: .7rem; align-items: center; }
 .workshop-session select, .workshop-session textarea, .workshop-session button, .workshop-session input[type=file] { font: inherit; max-width: 100%; }
 .workshop-session select, .workshop-session textarea {
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   color: var(--ink);
   background: var(--night);
   border: 1px solid var(--line-strong);
   padding: .75rem;
   border-radius: var(--radius);
+  box-sizing: border-box;
 }
 .workshop-session label { display: block; margin: .2rem 0 .4rem; font-weight: 650; }
 .workshop-session textarea { min-height: 16rem; line-height: 1.6; }
