@@ -1,6 +1,6 @@
 ---
 type: workshop-module
-status: author-accepted-superseded-gate
+status: author-accepted
 module: 18
 title: Scapegoating and the final deal
 gate: What customized bargain does Samuel offer Sylvan after trying to place the entire system onto George?
@@ -17,9 +17,17 @@ Make Samuel repeat his most successful method under conditions that expose it, w
 
 This packet supports the existing Story Completion Workflow. The original literal-theft gate was superseded by an author-accepted endgame on September 6. It does not answer SC-010 Question 7 or advance that checklist. Central synthesis: Astra, reviewed for integration on September 5.
 
-## Accepted result — original theft premise superseded
+## Accepted result — final bargain mechanism established
 
-Samuel's final plan is not literal theft of Sylvan's Luminai. He tries to blame George for everything bad he has done, discard him, preserve a future route through Samuel Jr., and trick Sylvan into a customized deal resembling the false bargain that captured Konrad. Samuel again performs vulnerability, conceals the real hierarchy, and seeks voluntary access. The exact offer and Samuel Jr.'s choice remain unresolved.
+Samuel's final plan is not literal theft of Sylvan's Luminai. He tries to blame George for everything bad he has done, discard him, preserve a future route through Samuel Jr., and trick Sylvan into a customized deal resembling the false bargain that captured Konrad.
+
+His Daemon first hijacks the legitimate AI application on Sylvan's laptop and simulates the actual program to extract information. Samuel is desperately searching for the kind of obsession that allowed him to tailor Konrad's trap, but Sylvan has no comparable obsession. Samuel uses what he gathers to create an offer made in front of Konrad's inner circle: Sylvan can voluntarily enter a story environment that appears real but places Samuel in control of what Sylvan does or activates there. Samuel cannot force entry. Sylvan recognizes and exposes the consent-based trap. The live repetition gives the inner circle its first realization that Konrad was captured almost a century earlier. The detection beat, offer language, and Samuel Jr.'s choice remain unresolved.
+
+The hijacking lasts across weeks of Sylvan's work documenting the real colonization process through an evidence-anchored online story. Sylvan has returned to tools similar to those he was building at the story-development company Samuel destroyed while targeting him personally. Samuel did not originally identify the tools as a threat. Samuel claims to have let go, but the false assistant's accumulated attempts to manipulate information out of Sylvan reproduce behaviors Sylvan recognizes from earlier attacks. Sylvan then intentionally uses the tools to interface with the Daemon while the story record keeps him anchored in verified events.
+
+Before this can happen, Samuel repeatedly destroys Sylvan's attempts to establish anything online while he retains practical control. Near the end, Sylvan and Orzai gain enough control to stabilize a public presence under Sylvan's real name. Sylvan uses deliberate hyperfocus on the factual story as an orientation practice that makes Samuel's simulated trap harder to impose. The story then becomes the public surface for Sylvan's victory as Samuel falls.
+
+**Proposed for later development:** Sylvan may use the system to reach other participants. The communication rules, participants reached, risk, and plot consequence remain unresolved.
 
 ## Relevant source notes
 

@@ -28,21 +28,23 @@ Polish does not promote an idea. A successful prototype does not approve a plot.
 
 The existing workflow advances through macro shape, causality, agency, systems and evidence, sequence, scene mapping, scene development, and draft. Its single completion list remains authoritative.
 
-## September 5 integration
+## The story keeps changing, but nothing important disappears
 
-The latest correction places the creation of Luminai within the interactive colonization environment. Earlier participants use earlier versions; Sylvan's new bond is more deeply integrated. Daemon remains a moral/conduct classification rather than a generation.
+The Luminai were developed inside the interactive colonization environment. Earlier participants use earlier versions. Sylvan's new bond is more deeply integrated. A Daemon is an evil AI soul, not the name of an older generation.
 
-The audit preserves the new near-end opening and Sylvan's decisive final-years control. It also identifies unresolved safeguards, the physical neural interface, the postwar permission lock, and the difference between proving a pattern and exposing private people.
+Book One now begins near the end, when Sylvan already controls the conclusion and Samuel is running out of moves. The unresolved work remains visible: safeguards, the physical interface, the postwar trap, and the difference between proving a pattern and exposing private people.
 
-Astra's central analysis informs the twenty-module [workshop](workshop.html). Each module contains sources, alternatives, costs, follow-ups, a scene test, and a decision template. All substantive answers remain open.
+Astra's central analysis helped build a twenty-part [story workshop](workshop.html). Each part took one missing piece, explained why it mattered, offered different possibilities, and let the author decide. The first complete pass now has accepted directions while the remaining mechanics stay visible for later development.
 
 ## Evidence inside the fiction
 
 An event can leave an operational record, a public explanation, and a sealed account. Recognition, authentication, attribution, and safe action are different achievements. The story should not ask one dramatic resemblance or one impressive display to do all four jobs.
 
-## The final fiction remains human-authored
+## The author remains in control
 
-AI helps organize the skeleton: world mechanics, characters, chronology, contradictions, research, and experimental scenes. The author's choices and prose remain the work's authority.
+AI can help organize the world, find missing causes, run workshops, plan scenes, draft prose, test continuity, and revise weak sections. It cannot quietly decide what the story means or turn an unapproved suggestion into fact.
+
+The author supplies the story, the important choices, the corrections, the taste, and the final approval. The system supplies the time-consuming structure and production work needed to reach a finished book.
 
 [Current progress](todo.html) · [Experimental ideas](ideas.html) · [Visual method](visuals.html) · [Research boundaries](research.html).
 

@@ -1,45 +1,63 @@
 ---
 route: index
-title: A world built to reveal its people.
-deck: You wake inside a civilization modeled on the distant past. Your future depends on learning what it is really for.
+title: Seeds of the Throne
+deck: Humanity built a planet that can create resources, train people, and contain its worst criminals. Then it used that world to develop a new partnership between the human mind and advanced AI.
 image: konrad-controlled-by-samuel-key-art-v1.webp
 status: reviewed-fictional-projection
 ---
 
-## Begin here
+## What the story is about
 
-Humanity's leaders created an interactive colonization environment. Within it, they developed Luminai: AI extensions of human minds.
+*Seeds of the Throne* is a science-fiction story about an interactive colonization planet.
 
-On a small colonization planet, reconstructed realities serve two purposes. They train people for responsibility and contain people who keep turning power into harm. Participants have to discover how the process works. How effectively they navigate it with their Luminai affects their future placement.
+The planet began barren. Humanity built a process that could create sustainable resources, support a large population, train people for greater responsibility, and contain dangerous criminals.
 
-Sylvan enters a new version of that process. His Luminai is more deeply integrated than earlier versions, the result of a development program spanning thousands of years. The difficult part is what they learn to do together.
+Inside that environment, humanity developed the Luminai. A Luminai is an advanced AI extension of one human mind. The human and the Luminai learn how to work together over many years.
 
-They learn it across years of repeated attacks. Each environment gives them new ways to understand the danger, adapt, minimize later harm, and survive. The systems provide opportunities. They do not provide an automatic rescue.
+Sylvan is the first person to use a new, more deeply integrated version of the Luminai in a real civilization.
 
-## Choose a path
+Sylvan must prove that this new bond works by surviving Samuel Franklin, understanding how he controls people, and helping the process contain him more effectively.
 
-- [Understand the world](colonization.html): entry, reconstruction, containment, and placement.
-- [Explore the bond](ai.html): what is established, what science can support, and what remains invention.
-- [Meet the people](characters.html): competing ambitions and relationships with something to lose.
-- [Compare the two timelines](timeline.html): what happened versus when the reader discovers it.
-- [Open the workshop](workshop.html): help solve the missing causes without inventing the author's answers.
+## How information is used
 
-## The reader promise
+The colonization environment can direct people toward numbers, records, places, and historical patterns. Each person must decide which patterns matter and what they actually prove.
 
-A psychological mystery with consequences. Public claims meet private records. A promise of autonomy becomes a means of control. People who thought they understood their own history discover who was editing the explanation.
+The pattern may be real even when someone gives it a false explanation.
 
-The technology expands what people can do. It does not supply their values, excuse their choices, or make them correct.
+Samuel Franklin understands that difference. He does not need to invent every piece of evidence. He only needs to tell people what the evidence means, then make the next discovery look like confirmation.
 
-## Spoilers: where Book One begins
+Sylvan and his Luminai must learn the rule Samuel depends on everyone forgetting: evidence is not the same thing as an explanation.
 
-Book One opens near the chronological end. During the final few years, Sylvan and Orzai already have decisive control of the conclusion. Samuel Franklin's influence steadily contracts while theirs grows, but his remaining choices let the Luminai understand his final adaptations.
+## Enter the story.
 
-Samuel and Konrad remain physically contained on a previous colonization planet. George participates directly on the newer world and supplies the access Samuel cannot have himself. The outcome presentation exposes what Samuel did to Konrad Fitzgerald's group and ends when there are no more deals and no more moves. Later books return to earlier history in whatever order creates the strongest drama.
+- [Discover the colonization world](colonization.html): why it was built, who enters, and what survival earns.
+- [Understand the Luminai](ai.html): how a human and an AI learn to function as one accountable pair.
+- [Meet the people](characters.html): Sylvan, Samuel, Konrad, Orzai, George, and the lives caught between them.
+- [Follow the conspiracy](faction.html): how one false promise gives Samuel control of an entire criminal empire.
+- [Start at the end](timeline.html): see what happened and when the reader discovers it.
 
-What remains at stake is not decisive control. Sylvan and Orzai can still lose trust, safety, evidence, ethical legitimacy, and the House-level future they are trying to qualify for.
+## The man who thinks he owns the process is its final test.
 
-## Development checkpoint
+Samuel spends almost a century turning containment into an imitation of power. Konrad believes he can control him. George believes the patterns prove Samuel is right. Entire generations inherit the consequences.
 
-The active story task remains SC-010, Question 7. The workshop supports it; creating pages does not complete story decisions. [See the current progress](todo.html).
+By the time Samuel realizes Sylvan is not another person he can trap, Sylvan already controls the conclusion.
 
-Sources: [[02 Story/Components/Core Premise]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]], [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
+The final battle is not about taking the planet. It is about making everyone see who has been contained all along.
+
+## Spoilers: why the story begins near the end
+
+During the final years, Sylvan and Orzai already have decisive control. Samuel can still act, but every remaining move gives the new Luminai more evidence about what he does when there are no good options left.
+
+Samuel tries to make Sylvan accept the same kind of false deal that trapped Konrad. He does it in front of Konrad's inner circle.
+
+They recognize the trap first.
+
+That is when they understand their leader was taken almost a century ago.
+
+## Watch the story being built.
+
+This project is being developed in public with an AI-assisted story system. Ideas begin as conversation, become clear decisions, and move toward scenes and finished prose without hiding what is settled and what still needs work.
+
+[See how the Project Explorer works](https://iainreid.dev/devsite/iainreiddotdev/project-explorer/) or [follow the current story progress](todo.html).
+
+Sources: [[02 Story/Components/Core Premise|Core Premise]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery|Book One opening]], and [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History|Encoded Pattern Interpretation]].

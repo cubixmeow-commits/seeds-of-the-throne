@@ -18,6 +18,15 @@ The builder creates eight atlas pages, the workshop page, shared JSON for the Ex
 
 The Explorer keeps the existing PHP Markdown browser, search, request allowlist, and portfolio styling. Its new workbench reads the same generated JSON as the atlas. Both must be deployed from the same repository revision.
 
+## Public voice separation
+
+The two sites share sources but do not speak to the same audience in the same way:
+
+- `docs/` presents the story. Lead with the world, danger, mystery, characters, and consequences.
+- Project Explorer presents the system that helps an author turn conversation into decisions, scenes, and finished prose.
+
+Primary copy should be simple enough to understand on the first reading. The opening must tell a new visitor what the story, Project Explorer, or workshop actually is before trying to create mystery or excitement. Keep repository, provenance, and workflow terms in deeper development views instead of using them as the main pitch. Rebuild generated pages after changing any Atlas source or shared template.
+
 ## Browser verification
 
 Playwright and a Chromium executable are development-only test prerequisites; they are not website dependencies. Start PHP 8.2 at the repository root, then run:

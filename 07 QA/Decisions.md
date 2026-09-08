@@ -6,6 +6,17 @@ updated: 2026-09-07
 
 # Decisions
 
+## 2026-09-08 — Separate the public voices of the story site and Project Explorer
+
+- **Established:** both public website surfaces use the clear public-development style created for X: simple language, short explanations, conversational momentum, visible cause and effect, and strong consequences.
+- **Established:** the first sentences must literally explain the story, Project Explorer, or workshop to someone with no prior knowledge. The X-style feel cannot replace the basic explanation with a slogan or mystery line.
+- **Established:** the `docs/` site presents the story to readers. It leads with the world, danger, mystery, characters, and reader promise.
+- **Established:** the Project Explorer presents the project and demonstrates the AI-assisted authoring system: natural story intake, missing-part discovery, author decisions, preserved sources, workshops, prose production, and visible progress.
+- **Rejected:** leading public copy with internal maintenance language such as “inspect the corrected story,” “trace unresolved causes,” or “source-linked brainstorming packets.”
+- **Superseded public claim:** final prose is not required to be manually human-written. The system may produce AI-assisted finished prose under author direction, review, approval, and provenance controls.
+- **Preserved:** public status labels, spoilers, source links, and uncertainty boundaries remain necessary even when the copy becomes more promotional.
+- **Source:** [[01 Sessions/Daily/2026-09-08 - Public Website Voice and Purpose Correction]].
+
 ## 2026-09-07 — Working campus placement for Sylvan's employment stage
 
 - **Author-accepted working structure:** after the protected reserve is exhausted, Sylvan begins in a low-level operations-support position on a large multi-environment campus.

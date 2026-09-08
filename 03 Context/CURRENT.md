@@ -6,6 +6,12 @@ updated: 2026-09-08
 
 # Current
 
+## September 8 public website voice and purpose
+
+The two public surfaces now have separate jobs. The `docs/` atlas presents *Seeds of the Throne* as a story, beginning with a literal explanation of its colonization planet, human–Luminai bond, training system, and criminal containment. The Project Explorer explains how years of conversations and thousands of ideas become organized characters, world rules, timelines, decisions, workshops, scenes, and eventually finished prose.
+
+Both surfaces use the established X-style qualities: plain language, short explanations, visible cause and effect, and a strong consequence. The opening must still make literal sense to someone with no knowledge of the project. A slogan cannot substitute for explaining what the thing is and what it does. Internal maintenance language such as “inspect the corrected story,” “trace unresolved causes,” and “source-linked brainstorming packets” should not appear as primary promotional copy. Technical provenance and source links remain available in deeper development views. See [[01 Sessions/Daily/2026-09-08 - Public Website Voice and Purpose Correction]].
+
 ## September 7 encoded-pattern and manufactured-history direction
 
 Encoded patterns and selected information are now an important working system. The wireless environment points each participant toward different records, places, repetitions, relationships, and historical traces; the person must interpret them with their Luminai or Daemon. Evil contained criminals exploit the interpretive gap by combining real evidence, selective disclosure, planted confirmation, and false explanations. George White is the central example of a participant broken down and controlled through an apparently self-validating information environment.
@@ -174,9 +180,9 @@ The endgame also preserves a second distinction: **Samuel attempts to preserve p
 
 ## Development and authorship boundary
 
-The project is an experiment in pushing **AI-assisted story development** as far as it remains useful, not in having AI generate the finished novel. AI can help construct and maintain the skeleton: world mechanics, characters, dynasties, chronology, research, continuity, conflicts, evidence, episode concepts, and scene possibilities.
+The project is now an experiment in taking **AI-assisted authorship** from an idea told in ordinary language to finished, author-approved prose. AI can help construct and maintain the world, characters, chronology, research, continuity, conflicts, evidence, scene plans, drafts, revisions, manuscript assembly, and export.
 
-The intended final fiction remains human-authored. Once enough development exists, the author intends to close the computer and write from the developed material by hand with pen and notebook, likely beginning with a shorter story before attempting the full-length novel. The project therefore also documents a software developer / relatively new fiction writer learning the craft of writing while building an unusually deep story-development system.
+The author remains responsible for meaning, taste, correction, consequential decisions, and final approval. The system must not silently invent the author's intent or promote an interpretation into canon merely because it sounds polished. This supersedes the earlier plan to limit AI permanently to development material while requiring every line of final fiction to be written manually.
 
 ## Working method
 

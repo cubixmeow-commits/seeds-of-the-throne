@@ -167,9 +167,9 @@ $data = portfolio();
 $identity = $data['identity'];
 $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
-$pageDescription = 'Explore the Seeds of the Throne repository structure and read its public Markdown documents.';
+$pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260905';
+$assetVersion = '20260908';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -254,13 +254,13 @@ function explorer_format_bytes(?int $bytes): string
             <div class="explorer-hero__content wrap">
                 <p class="explorer-hero__label">Project Explorer</p>
                 <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
-                <p class="explorer-hero__lede">Inspect the corrected story, trace unresolved causes, and work through source-linked brainstorming packets. The repository browser remains available below.</p>
+                <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
                     <a class="archive-cta archive-cta--primary" href="#workbench">
-                        <span>Open the workshop workspace</span>
+                        <span>See how the story is being built</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
-                    <a class="archive-cta" href="#archive">Browse the project</a>
+                    <a class="archive-cta" href="#archive">Browse the story files</a>
                 </div>
             </div>
         </section>
@@ -270,30 +270,30 @@ function explorer_format_bytes(?int $bytes): string
         <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">
             <div class="wrap">
                 <header class="explorer-progress__header">
-                    <p class="archive-intro__index">Story completion · Live from the vault</p>
+                    <p class="archive-intro__index">Current story development</p>
                     <div>
-                        <h2 id="story-progress-title">From architecture to manuscript.</h2>
-                        <p>The story advances horizontally: every active problem receives the same level of development before any one branch moves deeper.</p>
+                        <h2 id="story-progress-title">See what the story already has and what it still needs.</h2>
+                        <p>The system checks the whole story for missing causes, weak character decisions, unclear rules, and unfinished events. The results show the author what to work on next.</p>
                     </div>
                 </header>
 
                 <article class="explorer-assessment" aria-labelledby="assessment-title">
                     <div>
-                        <p class="explorer-assessment__date">Integrated foundation review · September 5, 2026</p>
-                        <h3 id="assessment-title">The environment develops the bond. The outcome tests responsibility.</h3>
+                        <p class="explorer-assessment__date">Current story premise</p>
+                        <h3 id="assessment-title">The colonization process trains participants and contains dangerous criminals.</h3>
                     </div>
                     <div>
-                        <p>The leaders created an interactive colonization environment and developed Luminai within it. Konrad tries to prove his experienced daemon superior; Samuel turns his reactivation into access. Sylvan already has decisive control during the final years. Exact safeguards and presentation mechanics remain open.</p>
-                        <p class="explorer-assessment__method"><span>Current method</span> Bound action, observe the method, compare the record, expose the hidden command.</p>
-                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Published/2026-09-03 - Bridge World Atlas Update.md')) ?>"><span>Read the foundation update record</span><span aria-hidden="true">↗</span></a>
+                        <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
+                        <p class="explorer-assessment__method"><span>The current story problem</span> Explain how Sylvan can expose Samuel while Samuel still believes he can regain control.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Published/2026-09-03 - Bridge World Atlas Update.md')) ?>"><span>See how the story changed</span><span aria-hidden="true">↗</span></a>
                     </div>
                 </article>
 
                 <?php if ($completion['available']): ?>
                     <div class="explorer-progress__summary">
-                        <p class="explorer-progress__count"><strong><?= e((string) $completion['completed']) ?> / <?= e((string) $completion['total']) ?></strong><span>story tasks complete</span></p>
+                        <p class="explorer-progress__count"><strong><?= e((string) $completion['completed']) ?> / <?= e((string) $completion['total']) ?></strong><span>major story problems resolved</span></p>
                         <div class="explorer-progress__meter">
-                            <div><span>Current checklist completion</span><strong><?= e((string) $completion['percent']) ?>%</strong></div>
+                            <div><span>Current development pass</span><strong><?= e((string) $completion['percent']) ?>%</strong></div>
                             <progress max="100" value="<?= e((string) $completion['percent']) ?>" aria-label="Current story checklist completion"><?= e((string) $completion['percent']) ?>%</progress>
                         </div>
                         <dl class="explorer-progress__current">
@@ -313,14 +313,14 @@ function explorer_format_bytes(?int $bytes): string
 
                     <div class="explorer-progress__footer">
                         <div>
-                            <p>Current working fronts</p>
+                            <p>What the story needs next</p>
                             <ul>
                                 <?php foreach ($completion['working_fronts'] as $front): ?>
                                     <li><?= e($front) ?></li>
                                 <?php endforeach; ?>
                             </ul>
                         </div>
-                        <a class="explorer-progress__link" href="../../docs/todo.html"><span>Open the full story roadmap</span><span aria-hidden="true">↗</span></a>
+                        <a class="explorer-progress__link" href="../../docs/todo.html"><span>Follow the full story roadmap</span><span aria-hidden="true">↗</span></a>
                     </div>
                 <?php else: ?>
                     <div class="explorer-progress__unavailable">
@@ -333,10 +333,10 @@ function explorer_format_bytes(?int $bytes): string
 
         <section class="explorer-archive" id="archive" aria-labelledby="archive-title">
             <header class="archive-intro wrap">
-                <p class="archive-intro__index">Project explorer</p>
+                <p class="archive-intro__index">Story files</p>
                 <div>
-                    <h2 id="archive-title">Browse the repository.</h2>
-                    <p>Search or browse <?= e((string) count($files)) ?> documents across canon, development systems, story loops, prose tools, public work, and session history.</p>
+                    <h2 id="archive-title">Browse the files used to develop the story.</h2>
+                    <p>Search <?= e((string) count($files)) ?> documents about the world, characters, plot, research, decisions, workshops, and earlier ideas.</p>
                 </div>
             </header>
 

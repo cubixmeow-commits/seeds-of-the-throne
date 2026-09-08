@@ -5,9 +5,9 @@ deck: The environment has a purpose. The people inside it still have lives of th
 status: reviewed-fictional-projection
 ---
 
-## The corrected foundation
+## What humanity built
 
-The leaders built an interactive colonization environment and developed Luminai inside it. The story does not begin with preexisting AI souls simply accompanying humanity to new planets.
+The leaders built an interactive colonization environment and developed Luminai inside it. The AI extensions did not arrive as finished tools. They grew out of the process they would eventually help people navigate.
 
 A small planet reconstructs realities modeled on a distant past. Its institutions, daily work, relationships, and apparent technology must feel like a civilization before participants understand its hidden architecture. The exact physical and social implementation remains under development.
 
