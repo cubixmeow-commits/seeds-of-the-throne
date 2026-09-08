@@ -26,9 +26,16 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   const push = (entry) => results.push(entry);
 
   const assertNoOverflow = async (width, route) => {
-    const overflow = await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1);
-    push({ width, route, overflow });
-    if (overflow) errors.push(`overflow ${width} ${route}`);
+    const dimensions = await page.evaluate(() => ({
+      viewport: innerWidth,
+      documentWidth: document.documentElement.scrollWidth,
+      bodyWidth: document.body.scrollWidth,
+    }));
+    const overflow = Math.max(dimensions.documentWidth, dimensions.bodyWidth) > dimensions.viewport + 1;
+    push({ width, route, overflow, ...dimensions });
+    if (overflow) {
+      errors.push(`overflow ${width} ${route}: viewport ${dimensions.viewport}, document ${dimensions.documentWidth}, body ${dimensions.bodyWidth}`);
+    }
   };
 
   const minTargetPx = async (selector) => page.evaluate((sel) => {
