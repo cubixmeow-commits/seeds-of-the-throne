@@ -47,6 +47,15 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-07 — Encoded patterns and manufactured historical evidence
+
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Encoded Patterns and Manufactured Historical Evidence]]
+- **Type:** decision / research / dependency / structural-development
+- **Possible relationship:** SC-002, SC-005, SC-009, SC-010, SC-014, SC-020, SC-026
+- **Signal:** The author established individualized wireless direction and human–AI interpretation under adversarial false framing, with George White as the central corrupted-validation example, and established that apparent physical history is produced within terraforming and civilization construction; exact encoded layers and historical-evidence mechanics remain open.
+- **Additional direction:** Religious organizations are managed by synthetic extensions of the process AI at different awareness levels, allowing the real leaders to explore the larger humanity's religious beliefs; consent, disclosure, freedom, research limits, and manufactured-consent safeguards require development.
+- **Information absence:** Synthetics never identify themselves as synthetic, and no information identifying religious organizations as synthetically managed exists within the colonization planet's available information environment; this supersedes a hidden-secret framing and requires external accountability.
+
 ### 2026-09-06 — Workshop Modules 08–20 accepted in one batch
 
 - **Source:** [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]

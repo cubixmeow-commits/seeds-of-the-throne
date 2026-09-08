@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-08-17
+updated: 2026-09-07
 character: George White
 theme: manufactured reality, public roles, remote weaponization, sacrificial confrontation
 ---
@@ -17,6 +17,14 @@ In reality, he was living at the bottom of an ocean.
 His life is best understood as a submarine trapped beneath miles of polar ice. George was born into a civilization large enough to build worlds, manage colonization systems, reconstruct entire historical environments, and place human beings inside realities whose true purpose they might never understand. Yet George knew virtually none of it.
 
 Samuel later makes certain that George remains inside a controlled interpretation of it.
+
+## Encoded confirmation architecture
+
+**Established direction:** patterned and encoded information helps maintain George's controlled interpretation. The wireless environment points him toward selected information; his Daemon detects relationships; Samuel supplies manipulative explanations; and later selected cues make those explanations appear independently confirmed.
+
+Samuel does not need to fabricate every fact or directly command every decision. He needs enough influence over salience, timing, provenance, trusted interpreters, and the Daemon's learned assumptions to build a closed validation loop. George continues to choose and act, but the informational map supporting those choices has been systematically falsified.
+
+The exact first cue and lie remain unresolved. See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]] and [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence]].
 
 Roughly thirty years separate Samuel's exile from the Great War. During that interval, Samuel and George are placed into a situation inside the future victorious republic where George appears highly successful and his role appears unusually important. Who places them and what authority the role truly carries remain unresolved.
 

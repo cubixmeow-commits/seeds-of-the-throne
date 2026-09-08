@@ -2,7 +2,7 @@
 type: component
 status: working
 public_status: clean
-updated: 2026-09-06
+updated: 2026-09-07
 source_authority: development
 ---
 
@@ -136,7 +136,11 @@ Its danger comes from abusing an intimate sensory and interpretive relationship 
 
 George's endgame can therefore include genuine uncertainty about whether an interpretation originated with him, his Daemon, or the manufactured environment surrounding both.
 
+The environment can also direct attention toward selected external information: a record, place, person, repeated interval, historical parallel, or apparent coincidence. Recognition does not settle meaning. George and his Daemon may accurately detect a relationship while Samuel supplies a false explanation of its cause, purpose, or authority. Repetition across separately presented cues can then make the explanation feel independently validated.
+
 The positive counterpoint is Sylvan: deeper integration with his Luminai increasingly improves his ability to distinguish reality, source, uncertainty, and interpretation.
+
+See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]].
 
 ## Planetary infrastructure
 

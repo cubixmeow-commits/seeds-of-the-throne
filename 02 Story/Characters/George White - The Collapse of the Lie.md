@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-09-06
+updated: 2026-09-07
 character: George White
 theme: awakening, weaponization, and consequence
 ---
@@ -34,6 +34,8 @@ George White reaches the final showdown as the manufactured reality of his life 
 For more than a century, George has understood himself, his authority, his victories, and the larger conflict through information that was fundamentally compromised. His father manipulated the environment around him and interfered with George's Daemon, shaping what George was permitted to perceive and helping sustain a false understanding of his own position in the world.
 
 George's awakening is therefore larger than discovering that his father lied to him. He begins to understand that **nearly everything he has done up to this point was based on lies**.
+
+**Established information mechanism:** the false reality is reinforced through encoded and patterned information selected for George, interpreted with his Daemon, and framed by Samuel. Real observations, manipulated access, repeated cues, and false causal explanations appear to confirm one another. George's awakening can therefore reconstruct not only which claims were false, but how each apparently independent confirmation was routed into the same controlled interpretation.
 
 The achievements he believed established his position cannot protect him if they were accomplished inside a manufactured reality. His titles, victories, loyalties, assumptions, and understanding of the conflict are suddenly stripped of the meaning he assigned to them.
 

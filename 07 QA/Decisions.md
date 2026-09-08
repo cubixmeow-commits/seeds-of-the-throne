@@ -6,6 +6,34 @@ updated: 2026-09-07
 
 # Decisions
 
+## 2026-09-07 — Working campus placement for Sylvan's employment stage
+
+- **Author-accepted working structure:** after the protected reserve is exhausted, Sylvan begins in a low-level operations-support position on a large multi-environment campus.
+- **Working setting:** a major technology-company, university, institutional, or hybrid campus with many physical and functional environments.
+- **Established progression:** Sylvan works upward through increasingly difficult training levels rather than entering with high status or technical authority.
+- **Story function:** the campus gives Sylvan and his Luminai varied development environments while giving Samuel many opportunities to attack employment, income, access, reputation, relationships, safety, projects, and advancement.
+- **Open:** exact employer, title, duties, training ladder, and first attack.
+- **Established first objective:** Sylvan must work with the same group for the first few years while Samuel tries to weaponize its members and destabilize cooperation.
+- **Established success boundary:** Sylvan and his Luminai must help the group become stable while preserving individual agency rather than controlling or homogenizing its members.
+- **Story function:** the group creates an ensemble cast and sustained emotional relationships inside the employment arc.
+- **Established composition:** some members are legacies or descendants deliberately positioned by the contained faction; some are consequences of Samuel's unauthorized breeding and bloodline manipulation.
+- **Established antagonist purpose:** Samuel intends to frame Sylvan, George, and selected group members for parts of the system Samuel created.
+- **Established discovery boundary:** knowing these people gives Sylvan suspicions about the breeding scandal, but resemblance, traits, and family inconsistencies are clues rather than proof. Authenticated evidence remains necessary.
+- **Open:** what each member knows, the exact accusation, George's differentiated responsibility, and the evidence chain.
+- **Established awareness mix:** the initial group includes people who know nothing and believe their ordinary histories; people who sense a hidden problem but have false explanations; and a small number deliberately positioned to manipulate the group and help frame Sylvan.
+- **Accountability boundary:** ancestry or awareness category alone does not establish guilt; responsibility depends on evidence of knowledge, coercion, choice, and action.
+- **Established working scale:** the initial group is a ten-person campus department including Sylvan that remains together across a multi-year operating and training period.
+- **Working distribution:** six members believe their ordinary histories, two possess suspicions but false explanations, and two are deliberate manipulators. Exact assignments may be refined during character design.
+- **Author-accepted working function:** a ten-person campus operations response department handling varied, project-based needs across the large campus.
+- **Creative constraint:** the setting may draw transformed details from everyday observation but cannot resemble a postal processing facility or read as a disguised account of the author's employment. Postal sorting, conveyor-centered production, route imitation, and repetitive postal-factory structure are excluded as the governing model.
+- **Author-accepted first assignment:** the department supports the physical and operational infrastructure for an expansion of the campus data center.
+- **Scope boundary:** the low-level department coordinates access, materials, spaces, schedules, safety, facilities, documentation, testing preparation, and communication; it does not initially design the computing architecture.
+- **Group requirement:** responsibility, access, relationships, and skills are distributed across all ten members, allowing Samuel to attack the handoffs among them.
+- **Development-order decision:** complete the campus purpose, training levels, group progression, and employment arc result at macro scale before designing individual attacks, planted actions, altered evidence, or scene beats.
+- **Author-directed pause:** stop campus brainstorming until the next desktop session maps Sylvan's relationship and interactions with Samuel at employment entry. Derive the environment from the overall conflict rather than accumulating isolated workplace ideas.
+- **Authority effect:** current campus, department, ensemble, and data-center material remains accepted working development, but may be revised if it does not fit the integrated Sylvan–Samuel conflict map.
+- **Source:** [[01 Sessions/Daily/2026-09-07 - Sylvan Employment Campus Working Placement]].
+
 ## 2026-09-07 — Sylvan's story tools become his reality anchor
 
 - **Established:** Samuel destroyed Sylvan's original story-development company while targeting Sylvan personally, not because Samuel recognized its tools as a future threat.
@@ -158,3 +186,7 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 | 2026-09-06 | Supersede literal Luminai theft with Samuel's attempt to scapegoat George, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized false bargain. | Samuel repeats his defining concealed-access method against a pair trained to recognize it. Exact terms and Samuel Jr.'s choice remain open. |
 | 2026-09-06 | Make Samuel's final neutralization an irreversible procedural conclusion at which there are no more deals and no more moves. | The process ends Samuel's ability to survive through another exchange or hierarchy rewrite without preselecting every final placement or victim remedy. |
 | 2026-09-06 | Keep later-book movement into earlier history flexible and choose each volume's era and viewpoint according to entertainment and dramatic necessity. | Reverse discovery remains the series architecture without becoming a mechanical scheduling constraint. |
+| 2026-09-07 | Establish individualized encoded-information interpretation as an important colonization-process mechanism: the wireless environment points different participants toward different information, they interpret it with their Luminai or Daemon, and contained criminals attempt control through false interpretations and manufactured confirmation. | George White becomes the central example of a person making real choices inside a systematically falsified informational map. Exact cues, encodings, permissions, and safeguards remain open. |
+| 2026-09-07 | Establish that the reconstructed civilization's apparent physical historical evidence is produced within the terraforming and civilization-construction process. | The planet's past must be physically coherent rather than a superficial simulation. The division among planted foundations, periodic reconstruction, and genuine lived historical accumulation remains unresolved. |
+| 2026-09-07 | Establish that religious organizations are managed by synthetic extensions of the advanced AI administering the process, and that the real leaders use the colonization process to explore the religious beliefs of the larger humanity across different awareness levels. | Religious development becomes a core civilizational inquiry rather than decorative history. Exploration does not yet establish one correct faith or a belief-based measure of human worth; consent, disclosure, research limits, synthetic agency, and manufactured-consent safeguards remain open. |
+| 2026-09-07 | Establish that synthetics never speak about being synthetic and that information identifying them or religious organizations as synthetically managed does not exist within the colonization planet's available information environment. | This supersedes framing the fact as a permanently concealed secret: it is absent rather than waiting behind a higher initiation level or final disclosure. External accountability, intervention limits, freedom of belief, and manufactured-consent safeguards become necessary unresolved design problems. |
