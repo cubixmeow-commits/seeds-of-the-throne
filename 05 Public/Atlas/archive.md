@@ -1,32 +1,32 @@
 ---
 route: archive
-title: The archive remembers. The author decides.
-deck: A development system that keeps evidence, invention, and approval separate.
+title: How the story is being developed
+deck: Ideas begin as conversations. The project organizes them, finds what is missing, and keeps every accepted decision connected to the story.
 status: reviewed-fictional-projection
 ---
 
-## Authority is part of the content
+## How story information is labeled
 
 | Status | What it means |
 | --- | --- |
-| Confirmed | An explicit author decision controls downstream work. |
+| Confirmed | The author has accepted this as part of the current story. |
 | Working | A useful current direction still open to revision. |
-| Proposed | An alternative or research translation awaiting a decision. |
+| Proposed | A possible answer the author has not accepted. |
 | Unresolved | A missing choice or conflict that must remain visible. |
-| Historical | Earlier reasoning preserved for provenance; later corrections may supersede it. |
+| Historical | An earlier version kept so the development of the story is not lost. |
 
-Polish does not promote an idea. A successful prototype does not approve a plot. Scientific evidence about a component does not establish the fictional system built around it.
+A well-written idea is not automatically part of the story. Research can make an idea believable, but the author still decides whether the story will use it.
 
-## The development loop
+## How an idea moves into the story
 
-1. Retrieve the relevant source and its authority.
-2. Identify the missing cause, choice, or constraint.
-3. Compare meaningfully different possibilities.
-4. Test a concrete situation for agency, evidence, and consequences.
-5. Ask one author-gate question.
-6. Record acceptance or uncertainty and trace the affected notes.
+1. Find the notes connected to the idea.
+2. Identify the missing cause, character choice, or world rule.
+3. Compare several different ways the story could work.
+4. Test each possibility in a specific scene or situation.
+5. Ask the author one clear question.
+6. Add the accepted answer to every part of the story it changes.
 
-The existing workflow advances through macro shape, causality, agency, systems and evidence, sequence, scene mapping, scene development, and draft. Its single completion list remains authoritative.
+The story is developed in stages. It begins with the overall structure, then adds causes, character choices, evidence, exact events, scenes, prose, and revision.
 
 ## The story keeps changing, but nothing important disappears
 

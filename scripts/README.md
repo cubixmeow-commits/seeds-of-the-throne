@@ -27,6 +27,8 @@ The two sites share sources but do not speak to the same audience in the same wa
 
 Primary copy should be simple enough to understand on the first reading. The opening must tell a new visitor what the story, Project Explorer, or workshop actually is before trying to create mystery or excitement. Keep repository, provenance, and workflow terms in deeper development views instead of using them as the main pitch. Rebuild generated pages after changing any Atlas source or shared template.
 
+The complete copy contract and approved examples are in `skills/update-public-atlas/references/public-writing-style.md`. A visual-only redesign must preserve approved copy unless the author separately authorizes a rewrite.
+
 ## Browser verification
 
 Playwright and a Chromium executable are development-only test prerequisites; they are not website dependencies. Start PHP 8.2 at the repository root, then run:

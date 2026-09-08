@@ -117,7 +117,7 @@
     groupRoot.setAttribute("aria-busy", "false");
     const gates = groups.find(group => group.kind === "gate");
     if (gates) gates.tasks.forEach(item => document.querySelector("#gate-list").append(renderTask(item)));
-    document.querySelector("#todo-status").textContent = `Loaded ${priorityTasks.length} completion tasks from repository Markdown.`;
+    document.querySelector("#todo-status").textContent = `Showing ${priorityTasks.length} major story problems from the current development notes.`;
   }
 
   async function loadDashboard() {

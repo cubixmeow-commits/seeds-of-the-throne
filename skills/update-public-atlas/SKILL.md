@@ -9,6 +9,8 @@ description: Convert approved Seeds of the Throne vault developments into accura
 
 Read `03 Context/CURRENT.md`, `03 Context/RULES.md`, `05 Public/README.md`, the relevant compiled notes, and the session that produced the update. Inspect the current `docs/` site before editing.
 
+For any public copy or visual redesign, read `references/public-writing-style.md`. Treat approved copy as locked during a visual-only redesign unless the author explicitly asks to rewrite it.
+
 Publish only material that is fictional, safe out of context, useful to the public experience, and approved or already represented publicly. Keep established, working, and unresolved material visibly distinct.
 
 Use `references/page-map.md` to choose the smallest appropriate page update.
@@ -19,7 +21,7 @@ Use `references/page-map.md` to choose the smallest appropriate page update.
 2. Choose the smallest modular page or diagram that can answer it.
 3. Preserve the atlas's current dark visual language: near-black surfaces, antique gold for reality and evidence, red for coercion and corruption, and green for constructive development.
 4. Keep in-world truth separate from public mythology, sealed evidence, and author development.
-5. Write concise, navigable copy. Do not use em dashes.
+5. Follow the public writing style: name the subject, explain what it is, explain what it does, then state why it matters. Use the clear X-style rhythm without replacing an explanation with a slogan. Do not use em dashes.
 6. Preserve semantic HTML, keyboard operation, visible focus, reduced-motion support, readable contrast, and 320-pixel reflow.
 
 ## Verify
@@ -33,6 +35,7 @@ Before publishing:
 - test interactive states with keyboard-capable controls;
 - test desktop and 320-pixel layouts for horizontal overflow;
 - review the rendered result, not only source code;
+- confirm a first-time visitor can explain what the page is, what it contains, and what action is available;
 - confirm the git diff contains only intended files.
 
 ## Publish
@@ -45,4 +48,5 @@ Commit the intentional `docs/` scope with a descriptive message and push the cur
 - Do not present research as canon.
 - Do not erase status labels to make the site sound more certain.
 - Do not redesign unrelated pages during a content update unless requested.
+- During a visual-only redesign, preserve approved wording and content order. Change typography, spacing, layout, and presentation without silently rewriting the message.
 - Do not publish before local visual and interaction checks pass.

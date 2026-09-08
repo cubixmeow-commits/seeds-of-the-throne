@@ -15,6 +15,8 @@ updated: 2026-09-07
 - **Rejected:** leading public copy with internal maintenance language such as “inspect the corrected story,” “trace unresolved causes,” or “source-linked brainstorming packets.”
 - **Superseded public claim:** final prose is not required to be manually human-written. The system may produce AI-assisted finished prose under author direction, review, approval, and provenance controls.
 - **Preserved:** public status labels, spoilers, source links, and uncertainty boundaries remain necessary even when the copy becomes more promotional.
+- **Locked after rendered review:** this public writing style applies to the story site, Project Explorer, and workshop. Future visual redesigns may change typography, scale, spacing, layout, imagery, and interaction, but must preserve the approved wording and meaning unless the author separately requests a copy revision.
+- **Implementation reference:** `skills/update-public-atlas/references/public-writing-style.md`.
 - **Source:** [[01 Sessions/Daily/2026-09-08 - Public Website Voice and Purpose Correction]].
 
 ## 2026-09-07 — Working campus placement for Sylvan's employment stage

@@ -151,12 +151,12 @@
     title.tabIndex = -1;
     root.append(state, title, element("p", "idea-possibility", idea.possibility));
     const details = element("dl", "idea-detail-list");
-    addDetailLine(details, "Builds on", idea.buildsOn);
-    addDetailLine(details, "Story function", idea.storyFunction);
-    addDetailLine(details, "Character choice", idea.characterChoice);
-    addDetailLine(details, "Dramatic expression", idea.dramaticExpression);
-    addDetailLine(details, "Continuity risk", idea.risk);
-    addDetailLine(details, "Next gate", idea.nextGate);
+    addDetailLine(details, "What supports this idea", idea.buildsOn);
+    addDetailLine(details, "What it could add to the story", idea.storyFunction);
+    addDetailLine(details, "Choice a character would make", idea.characterChoice);
+    addDetailLine(details, "How it could appear in the story", idea.dramaticExpression);
+    addDetailLine(details, "What could go wrong", idea.risk);
+    addDetailLine(details, "What the author needs to decide", idea.nextGate);
     root.append(details);
     renderIdeaList();
     if (focus) title.focus();
@@ -222,7 +222,7 @@
     document.querySelector("#research-count").textContent = research.length;
     const sourceLink = document.querySelector("#ideas-source-link");
     sourceLink.href = `https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/${sourcePath}`;
-    sourceLink.textContent = "Open current ideas packet";
+    sourceLink.textContent = "Read the current brainstorming notes";
     renderIdeaList();
     renderResearchInputs(inputs);
     renderResearchQueue(research);
@@ -232,7 +232,7 @@
   if (typeof document !== "undefined") {
     bindControls();
     loadIdeas().catch(error => {
-      document.querySelector("#ideas-status").textContent = "Unable to load experimental ideas. Open the source Markdown below and try again.";
+      document.querySelector("#ideas-status").textContent = "The ideas could not be loaded. Open the original notes below and try again.";
       document.querySelector("#idea-list").setAttribute("aria-busy", "false");
       document.querySelector("#research-list").setAttribute("aria-busy", "false");
       document.querySelector("#idea-list").append(element("p", "todo-error", error.message));

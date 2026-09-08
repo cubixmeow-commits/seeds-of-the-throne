@@ -53,3 +53,17 @@ Explain that the workshop takes one missing story problem at a time, asks the au
 - Rewrite the Project Explorer hero, development-workspace introduction, major calls to action, and progress explanation.
 - Correct stale “human-written final fiction” language on the public development pages.
 - Preserve the existing layouts, functionality, source links, spoiler boundaries, and public-status labels.
+
+## Locked writing style
+
+The author approved the revised literal style after reviewing the rendered pages. The visual design still needs substantial work, particularly the oversized heading hierarchy, but the content style now works.
+
+The approved rule is: use the simple, conversational rhythm developed for X, while explaining each page literally enough for someone with no prior knowledge of the project. Name the subject first, explain what it is and what it does, then explain why it matters.
+
+This writing style applies to both the story site and Project Explorer, including the workshop. A future visual redesign should preserve the approved wording and meaning. See `skills/update-public-atlas/references/public-writing-style.md` for the reusable contract and approved examples.
+
+## Public-language audit correction
+
+A rendered review found that the Ideas and Progress pages still exposed internal file-management language even after the main introductions were corrected. Examples included “the page owns no ideas,” “the stable pointer selects a Markdown packet,” “one registry,” and “the dashboard owns no story tasks.” These phrases were removed from the public presentation.
+
+The corrected pages now explain what visitors can actually use: ideas being considered, what each idea could change, research still needed, story problems with working answers, development stages, and links to the original notes. Internal pointer, packet, registry, and workflow terminology remains inside the repository where it is operationally useful.

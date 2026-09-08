@@ -33,7 +33,7 @@
     persist();
     current = modules.find(m => m.id === id) || modules[0];
     root.replaceChildren();
-    const label = el('label', 'Choose one decision packet', {for: 'workshop-module'});
+    const label = el('label', 'Choose one story topic', {for: 'workshop-module'});
     const select = el('select', null, {id: 'workshop-module'});
     modules.forEach(m => select.append(el('option', `${m.id} · ${m.title}`, {value:m.id})));
     select.value = current.id;
@@ -56,7 +56,7 @@
     if(!storageAvailable) status.textContent='Browser storage unavailable. Export Markdown to preserve this draft.';
     const exportButton=el('button','Export answer as Markdown',{type:'button'});
     exportButton.addEventListener('click',()=>{persist();download(area.value,`seeds-workshop-${current.id}-answer.md`);});
-    const sourceButton=el('button','Download source packet',{type:'button',class:'secondary'});
+    const sourceButton=el('button','Download the complete workshop notes',{type:'button',class:'secondary'});
     sourceButton.addEventListener('click',()=>download(current.markdown,`seeds-workshop-${current.id}-source.md`));
     const importInput=el('input',null,{type:'file',id:'workshop-import',accept:'.md,.txt,text/markdown,text/plain'});
     importInput.addEventListener('change',async()=>{
@@ -72,7 +72,7 @@
     });
     const toolbar=el('div',null,{class:'workshop-toolbar'});toolbar.append(exportButton,sourceButton);
     const accepted=String(current.status||'').startsWith('author-accepted');
-    const stateText=accepted ? 'Author gate accepted · Open mechanics remain labeled.' : 'Author gate open · All alternatives are proposals.';
+    const stateText=accepted ? 'The author accepted the main direction. Some exact details still need work.' : 'The author has not decided this part of the story yet.';
     root.append(label,select,heading,el('p',stateText+' Prerequisites: '+current.prerequisites),gate,el('label',accepted?'Further development notes':'Your answer and decision notes',{for:'workshop-answer'}),area,toolbar,status,el('label','Restore an exported answer',{for:'workshop-import'}),importInput,detail);
     if(focus)heading.focus();
   }
@@ -80,5 +80,5 @@
     modules=data.modules;
     if(!Array.isArray(modules)||!modules.length)throw Error('empty');
     show(new URL(location.href).searchParams.get('module')||modules[0].id);
-  }).catch(()=>{root.replaceChildren(el('p','The interactive packets could not load. Use the Markdown source links below or open the workshop in the repository. No answers have been changed.',{role:'alert'}));});
+  }).catch(()=>{root.replaceChildren(el('p','The interactive workshop could not load. Use the links below to read the complete questions. No answers have been changed.',{role:'alert'}));});
 })();
