@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-codex-review-2
+status: awaiting-author-prototype-review
 updated: 2026-09-08
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -30,10 +30,11 @@ This is the durable communication channel for the coded website-design loop. The
 3. `awaiting-author-selection` — Codex has reviewed both and summarized the real tradeoffs.
 4. `awaiting-cursor-refinement` — the author selected a direction and Cursor is refining it in code.
 5. `awaiting-codex-review-2` — the selected coded prototype is ready for final design review.
-6. `prototype-approved` — the author approved the rendered prototype.
-7. `awaiting-production-implementation` — Cursor is translating the approved system into production.
-8. `awaiting-production-review` — Codex reviews production pages and regressions.
-9. `ready-to-merge` — checks and author review are complete; explicit merge permission is still required.
+6. `awaiting-author-prototype-review` — Codex cleared the prototype and the author is reviewing the rendered direction.
+7. `prototype-approved` — the author approved the rendered prototype.
+8. `awaiting-production-implementation` — Cursor is translating the approved system into production.
+9. `awaiting-production-review` — Codex reviews production pages and regressions.
+10. `ready-to-merge` — checks and author review are complete; explicit merge permission is still required.
 
 ## Cursor pass report
 
@@ -64,26 +65,25 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Codex review
 
-- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `77d7c0d0b2c1388a2470bd734216d06351c40b8a` (Pass 1B implementation `7c36e7845abd5a9d5af4e2d316ad8b94b99d222a`, PR #7)
-- **Review state:** Pass 1B clears the design gate; ready for direct author selection
+- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `0c490d279a4877c017e2cfe5b2c5d39f725f7b7e` (selected Pale Signal implementation `302256d39a3d13b090f36139545433ad73664aba`, PR #7)
+- **Review state:** selected prototype clears Codex review-2; ready for the author's rendered prototype approval
 - **What works visibly:**
-  - Both mobile Story openings now preserve their actual spatial concept. Planetary Dusk uses a full-bleed planetary field beneath a controlled gradient; Pale Signal uses a deliberately narrow, clipped infrastructure fragment beside the copy. Artwork is present at 320px rather than deferred below a completed text block.
-  - The Explorer directions are now materially different. Dusk reads as one continuous current-thread spine with orbital evidence and sequential work; Pale reads as an asymmetrical editorial working sheet with a rail, clipped evidence, and open typographic sections.
-  - Most generic containers are gone. Hierarchy now comes from spatial flow, crop, tonal fields, alignment, rules, labels, and type rather than repeated cards.
-  - The color systems are coherent and avoid the rejected black/yellow archive treatment. The lighter Pale field is especially legible and gives the project a recognizable non-dashboard identity.
-  - Mobile menus are visually integrated, and the supplied Chromium evidence reports no body/document overflow or escaping elements at all six required widths. Playwright, story-site, JavaScript syntax, and `git diff --check` are reported passing.
-  - The committed third-party `.cursor/` payload has been removed. PR #7 is reduced from 226 files / about 90,000 added lines to 57 files / about 2,556 added lines. Production surfaces remain unchanged.
-- **Blocking design problems:** none before author selection
-- **Blocking responsive or functional problems:** none found in the supplied rendered evidence. Safari/iOS and exhaustive 200% zoom remain required before prototype approval and production translation.
-- **Required next changes after the author selects a direction:**
-  1. Refine only the selected system; do not blend the two into a compromise theme.
-  2. Replace prototype/process-facing captions such as “Essential copy stays in HTML” and “Annotations stay in HTML” with concise story-facing evidence language or remove them. Do not expose implementation commentary in the production experience.
-  3. Polish the selected 320px composition. For Dusk, maintain text contrast over the detailed image and ensure the secondary action remains intentionally reachable. For Pale, protect the narrow copy/image split from feeling cramped.
-  4. Test the selected direction in real iOS Safari and at 200% text zoom; repair any crop, menu, wrapping, or control failures.
-  5. Continue carrying the selected Story language into Explorer without turning Explorer back into a card dashboard.
-- **What must remain unchanged:** production pages until prototype approval; truthful Story versus Project Explorer destinations; source-aligned copy; no black/yellow archive palette; no faux-medieval styling; no generic card-grid regression; accessible navigation and controls; prototype isolation.
-- **Recommendation to the author:** select **Pale Signal**. Its light mineral field, clipped vertical infrastructure, asymmetrical editorial rhythm, and working-sheet Explorer create the strongest shared identity across both surfaces. It also moves furthest from the rejected dark archive site. Planetary Dusk is a credible alternative if atmosphere and cinematic immersion matter more than daylight readability, but it remains predominantly dark and its Explorer is less distinctive.
-- **Author decision needed:** choose **Pale Signal** or **Planetary Dusk** for one selected-direction refinement pass. This is a direction choice, not yet approval for production.
+  - At 320–430px, the narrow infrastructure fragment now remains deliberately beside the opening copy without crushing its readable measure. The story consequence, primary action, and image all participate in the first screen.
+  - Story and Explorer clearly belong to one system without becoming the same page. Story uses paced editorial revelation; Explorer uses a denser working-sheet rhythm with a cropped evidence field, rail navigation, current premise, and current task.
+  - The mineral gray-blue field, deep ink, cyan labels, and restrained coral signal feel intentional and remain far from the rejected black/yellow archive treatment.
+  - The process-facing captions are gone. “Infrastructure held beneath ordinary life” and “Recovered records held against the working evidence” now support the story and product idea.
+  - The normal mobile, tablet, and desktop compositions remain coherent in both Chromium and WebKit captures. The 200% views become appropriately large, preserve controls and content, and report no page-level overflow; the Explorer rail wraps but remains understandable.
+  - The selected pass changed only Pale Signal HTML/CSS, the prototype test, evidence, QA, and exchange. Planetary Dusk and all production surfaces remained untouched.
+- **Blocking design problems:** none
+- **Blocking responsive or functional problems:** none found in the supplied 48 rendered captures and automated results
+- **Non-blocking production notes:**
+  1. Playwright WebKit is strong preflight evidence but not a physical iPhone. Preserve a final real-device check after production translation and before deployment.
+  2. Keep the selected asymmetry and crop behavior during production translation; do not simplify it back into full-width cards or a detached poster.
+  3. At extreme 200% zoom, navigation may wrap and the site title may ellipsize. This is acceptable while every destination and control remains available.
+  4. Translate the system into existing production navigation, theme state, archive browser, Workshop behavior, and source-linked content without losing those functions.
+- **What must remain unchanged:** selected Pale Signal identity; author-approved public copy; distinct Story and Explorer purposes; mobile-first composition; accessible menu/focus/reduced-motion behavior; repaired navigation destinations; no black/yellow, faux-medieval, generic dashboard, or poster-after-copy regression.
+- **Recommendation to the author:** approve the refined Pale Signal coded prototype for production translation. It now has a coherent design language at phone and desktop sizes and a clear product distinction between story presentation and the authoring instrument.
+- **Author decision needed:** review the refined Pale Signal renders and state either “I approve the current coded prototype for production translation” or list any final visual correction. Approval does not itself authorize merging or deployment.
 
 ## Author decision
 
@@ -96,7 +96,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Codex: review PR #7 Pale Signal refinement against the selection requirements and prior Pass 1B review notes. Update this exchange with review-2 findings. Do not merge, deploy, or change production pages. Ask the author only if a new decision is required.
+Author: inspect the refined Pale Signal Story and Explorer renders on the phone and state either approval for production translation or the exact final visual correction. Codex will record that decision and prepare the next Cursor instruction. Do not merge, deploy, or change production yet.
 
 ## Phone-sized relay prompts
 
@@ -121,3 +121,4 @@ The author can use these exact messages.
 ### Approve the coded prototype
 
 `I approve the current coded prototype for production translation. Update the exchange and give me the next Cursor prompt.`
+
