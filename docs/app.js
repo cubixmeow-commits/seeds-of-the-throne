@@ -30,7 +30,7 @@ if (menuButton && siteNav) {
     }
   });
 
-  window.matchMedia('(min-width: 75.01rem)').addEventListener('change', (event) => {
+  window.matchMedia('(min-width: 72.01rem)').addEventListener('change', (event) => {
     if (event.matches) closeMenu();
   });
 }

@@ -17,9 +17,15 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-No desktop-only implementation is currently queued. Resume creative development from [[CURRENT-PICKUP]].
+No additional desktop-only implementation is currently queued beyond review of the 2026-09-08 visual redesign. Resume creative development from [[CURRENT-PICKUP]] after that review.
 
 ## Completed implementation context
+
+### 2026-09-08 — Story site and Project Explorer visual redesign
+
+- **Status:** implemented for review; not committed or deployed
+- **Source:** [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]]
+- **Result:** Shared containment-archive visual system, compact heroes, grouped navigation, Ideas two-pane workspace, quieter development sources, and a unified Project Explorer shell. Approved public copy was preserved.
 
 ### Story Gauntlet v0.1 source handoff
 

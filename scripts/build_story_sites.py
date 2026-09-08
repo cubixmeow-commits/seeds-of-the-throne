@@ -8,7 +8,18 @@ ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / '05 Public/Atlas'
 WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Workshop'
 DOCS = ROOT / 'docs'
-NAV = [('index','Start'),('colonization','World'),('ai','Luminai'),('characters','People'),('faction','Factions'),('timeline','Timeline'),('research','Research'),('workshop','Workshop'),('todo','Progress')]
+ASSET = '20260909'
+NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
+NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop')]
+IMAGE_ALT = {
+    'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
+    'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
+    'samuel-franklin-identity-master-v1.jpg': 'Approved visual identity portrait of Samuel Franklin.',
+    'konrad-fitzgerald-identity-anchor-v1.webp': 'Approved visual identity portrait of Konrad Fitzgerald.',
+    'samuel-sylvan-confrontation.jpg': 'Approved scene of Samuel confronting Sylvan.',
+    'remote-war-gold.jpg': 'Approved historical scene of remote war in gold light.',
+    'disclosure-poster.jpg': 'Approved disclosure poster from the story world.',
+}
 
 def source_url(path):
     return 'https://github.com/cubixmeow-commits/seeds-of-the-throne/blob/main/' + quote(path, safe='/')
@@ -23,6 +34,7 @@ def inline(s):
         return '<a href="'+html.escape(url,quote=True)+'">'+m[1]+'</a>'
     s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,s)
     s=re.sub(r'\*\*([^*]+)\*\*',r'<strong>\1</strong>',s)
+    s=re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)',r'<em>\1</em>',s)
     return re.sub(r'`([^`]+)`',r'<code>\1</code>',s)
 
 def render(md):
@@ -66,13 +78,18 @@ def metadata(text):
     match=re.match(r'^---\n(.*?)\n---\n',text,re.S)
     return dict(line.split(': ',1) for line in match[1].splitlines() if ': ' in line) if match else {}
 
+def nav_links(slug, items):
+    return ''.join(f'<a href="{key}.html"'+(' aria-current="page"' if key==slug else '')+'>'+label+'</a>' for key,label in items)
+
 def shell(slug,title,deck,body,image=None):
-    nav=''.join(f'<a href="{key}.html"'+(' aria-current="page"' if key==slug else '')+'>'+label+'</a>' for key,label in NAV)
-    art=f'<figure class="atlas-art"><img src="assets/images/{image}" alt="Approved character identity artwork for Seeds of the Throne"><figcaption>Approved appearance. Scene symbolism is interpretation.</figcaption></figure>' if image else ''
+    nav='<div class="nav-group" aria-label="Story">'+nav_links(slug,NAV_STORY)+'</div><div class="nav-group" aria-label="Development">'+nav_links(slug,NAV_DEV)+'</div>'
+    alt=IMAGE_ALT.get(image,'Approved artwork from Seeds of the Throne.')
+    art=f'<figure class="atlas-art"><img src="assets/images/{image}" alt="{html.escape(alt)}"><figcaption>Approved appearance. Scene symbolism is interpretation.</figcaption></figure>' if image else ''
+    actions='<p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="archive.html">See how it is being developed</a></p>' if slug=='index' else ''
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#090a08"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v=20260908"><link rel="stylesheet" href="atlas.css?v=20260908"><script src="app.js?v=20260908" defer></script></head>
-<body class="atlas-page"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" data-menu-button aria-expanded="false" aria-controls="site-nav">Explore <span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
-<main id="main"><header class="atlas-hero"><div><p class="eyebrow">A science-fiction story in development</p><h1>{html.escape(title)}</h1><p class="atlas-deck">{html.escape(deck)}</p><p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p></div>{art}</header>{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0b0c0b"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
+<body class="atlas-page"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Explore <span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
+<main id="main"><header class="atlas-hero"><div><p class="eyebrow">A science-fiction story in development</p><h1>{html.escape(title)}</h1><p class="atlas-deck">{html.escape(deck)}</p><p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>{actions}</div>{art}</header>{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
     outputs={};entries=[]
@@ -95,7 +112,7 @@ def main():
             state=(ROOT/'07 Coordination/Story Completion Workflow/CURRENT.md').read_text()
             match=re.search(r'\*\*Completed at this depth:\*\*\s*(\d+)\s*/\s*(\d+)',state)
             count,total=match.groups() if match else ('0','0')
-            body+='<section class="atlas-body"><div class="reading"><h2>The story is being built in public.</h2><p><strong>'+count+' of '+total+'</strong> major story problems have clear working answers in the current development pass. The rest stay visible until they are solved.</p><progress max="'+total+'" value="'+count+'" aria-label="Major story problems with working answers">'+count+' / '+total+'</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Try the story workshop</a></p></div></section>'
+            body+='<section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>'+count+' of '+total+'</strong> major story problems have clear working answers in the current development pass. The rest stay visible until they are solved.</p><progress max="'+total+'" value="'+count+'" aria-label="Major story problems with working answers">'+count+' / '+total+'</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Try the story workshop</a></p></div></section>'
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,meta.get('image'))
         entries.append({'route':slug,'title':title,'deck':deck,'source':str(path.relative_to(ROOT)),'html':body})
     modules=[]
@@ -105,7 +122,7 @@ def main():
         modules.append({'id':meta['module'],'title':meta['title'],'gate':meta['gate'],'status':meta.get('status','unknown'),'prerequisites':meta.get('prerequisites',''),'path':pathstr,'markdown':text,'html':packet_html})
     if modules:
         cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
-        body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from all twenty story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v=20260908" defer></script>'
+        body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from all twenty story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
         outputs[DOCS/'workshop.html']=shell('workshop','Complete the missing parts of the story','The workshop explains one story problem at a time, offers different possible answers, and shows what each answer would change.',body)
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
     data={'version':2,'built_from':'2026-09-06 accepted workshop Markdown','modules':modules}

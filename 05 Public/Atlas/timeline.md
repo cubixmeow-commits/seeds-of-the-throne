@@ -2,6 +2,7 @@
 route: timeline
 title: History moves forward. Discovery does not have to.
 deck: Book One begins near the outcome. Later books return to the choices that made it possible.
+image: samuel-sylvan-confrontation.jpg
 status: reviewed-fictional-projection
 ---
 

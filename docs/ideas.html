@@ -3,20 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#090a08">
+  <meta name="theme-color" content="#0b0c0b">
   <meta name="description" content="Ideas being considered for Seeds of the Throne, including what each idea could add, what could go wrong, and what the author still needs to decide.">
   <title>Experimental Ideas | Seeds of the Throne</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=20260905">
-  <script src="app.js?v=20260905" defer></script>
-  <script src="ideas.js?v=20260905" defer></script>
+  <link rel="stylesheet" href="styles.css?v=20260909">
+  <link rel="stylesheet" href="atlas.css?v=20260909">
+  <script src="app.js?v=20260909" defer></script>
+  <script src="ideas.js?v=20260909" defer></script>
 </head>
 <body class="ideas-page">
   <a class="skip-link" href="#main">Skip to experimental ideas</a>
   <header class="site-header">
     <a class="brand" href="index.html" aria-label="Seeds of the Throne, home"><span class="brand-mark" aria-hidden="true">ST</span><span>Seeds of the Throne</span></a>
     <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav"><span>Explore</span><span aria-hidden="true">+</span></button>
-    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation"><a href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Chronology</a><a href="archive.html">Making the story</a><a href="todo.html">Progress</a><a aria-current="page" href="ideas.html">Ideas</a><a href="research.html">Research</a><a href="workshop.html">Workshop</a></nav>
+    <nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">
+      <div class="nav-group" aria-label="Story"><a href="index.html">Story</a><a href="colonization.html">World</a><a href="ai.html">Luminai</a><a href="characters.html">Characters</a><a href="faction.html">Conspiracy</a><a href="timeline.html">Timeline</a></div>
+      <div class="nav-group" aria-label="Development"><a aria-current="page" href="ideas.html">Ideas</a><a href="todo.html">Progress</a><a href="workshop.html">Workshop</a></div>
+    </nav>
   </header>
 
   <main id="main">
@@ -36,21 +40,29 @@
 
     <section class="principle-banner" aria-label="Idea review notice"><p><strong>Important:</strong> Some ideas were created before recent changes to the story. They must fit the current versions of the colonization process, Luminai, Samuel, and Konrad before they can be used.</p></section>
 
+    <div class="ideas-toolbar">
+      <div class="idea-filters" role="group" aria-label="Filter ideas by author status">
+        <button type="button" class="is-active" data-idea-filter="all" aria-pressed="true">All</button>
+        <button type="button" data-idea-filter="unreviewed" aria-pressed="false">Unreviewed</button>
+        <button type="button" data-idea-filter="explore" aria-pressed="false">Explore</button>
+        <button type="button" data-idea-filter="maybe" aria-pressed="false">Maybe</button>
+      </div>
+      <div class="idea-search">
+        <label for="idea-search">Search ideas</label>
+        <input id="idea-search" type="search" placeholder="Search titles, areas, or review notes">
+      </div>
+    </div>
+
     <section class="ideas-workspace" aria-labelledby="workspace-title">
       <div class="ideas-list-panel">
         <div class="ideas-panel-head">
           <div><p class="eyebrow">Choose an idea</p><h2 id="workspace-title">Ideas waiting for a decision</h2></div>
-          <div class="idea-filters" role="group" aria-label="Filter ideas by author status">
-            <button type="button" class="is-active" data-idea-filter="all" aria-pressed="true">All</button>
-            <button type="button" data-idea-filter="unreviewed" aria-pressed="false">Unreviewed</button>
-            <button type="button" data-idea-filter="explore" aria-pressed="false">Explore</button>
-            <button type="button" data-idea-filter="maybe" aria-pressed="false">Maybe</button>
-          </div>
         </div>
         <div id="idea-list" class="idea-list" aria-busy="true"></div>
       </div>
 
       <aside class="idea-inspector" aria-labelledby="inspector-title">
+        <button class="idea-back" type="button" data-idea-back>Back to idea list</button>
         <p class="eyebrow">Selected idea</p>
         <div id="idea-detail"><h2 id="inspector-title">Choose an idea</h2><p class="idea-empty">Select an idea to see what it could add to the story, what information supports it, what could go wrong, and what the author needs to decide next.</p></div>
       </aside>
@@ -72,6 +84,6 @@
     </section>
   </main>
 
-  <footer class="site-footer"><div><strong>Seeds of the Throne</strong><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></div><nav aria-label="Footer navigation"><a href="archive.html">How the system works</a><a href="todo.html">Story progress</a></nav></footer>
+  <footer class="site-footer"><div><strong>Seeds of the Throne</strong><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></div><nav aria-label="Footer navigation"><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="visuals.html">Visuals</a><a href="todo.html">Story progress</a></nav></footer>
 </body>
 </html>

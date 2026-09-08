@@ -169,7 +169,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260908';
+$assetVersion = '20260909';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -196,13 +196,13 @@ function explorer_format_bytes(?int $bytes): string
     <meta property="og:description" content="<?= e($pageDescription) ?>">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= e($canonical) ?>">
-    <meta name="theme-color" content="#eee3cf" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#18130f" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#f3eee4" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#0b0c0b" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
-    <link rel="stylesheet" href="../../docs/atlas.css?v=20260905">
-    <link rel="stylesheet" href="assets/workbench.css?v=20260905">
+    <link rel="stylesheet" href="../../docs/atlas.css?v=20260909">
+    <link rel="stylesheet" href="assets/workbench.css?v=<?= e($assetVersion) ?>">
     <script>
         (function () {
             try {
@@ -217,18 +217,24 @@ function explorer_format_bytes(?int $bytes): string
     </script>
 </head>
 <body class="explorer-page">
-    <a class="skip-link" href="#archive-document">Skip to document</a>
+    <a class="skip-link" href="#main">Skip to content</a>
 
     <header class="site-header" id="site-header">
         <div class="wrap site-header__inner">
-            <a class="brand" href="../" aria-label="Return to Iain Reid's portfolio">
-                <span class="brand__mark" aria-hidden="true"><?= e($identity['initials']) ?></span>
+            <a class="brand" href="?view=overview#workbench" aria-label="Project Explorer home">
+                <span class="brand__mark" aria-hidden="true">ST</span>
                 <span class="brand__name">Seeds of the Throne</span>
             </a>
-
+            <nav class="product-nav" aria-label="Project Explorer">
+                <a href="?view=overview#workbench">Overview</a>
+                <a href="?view=sources#workbench">Story</a>
+                <a href="?view=evidence#workbench">Decisions</a>
+                <a href="?view=workshop#workbench">Workshop</a>
+                <a href="#story-progress">Progress</a>
+                <a href="#archive">Files</a>
+            </nav>
             <div class="explorer-nav">
                 <a href="../">Portfolio</a>
-                <a href="<?= e($links['github']) ?>/seeds-of-the-throne" rel="noopener noreferrer">GitHub</a>
                 <button
                     class="theme-toggle"
                     type="button"
@@ -243,17 +249,9 @@ function explorer_format_bytes(?int $bytes): string
 
     <main id="main">
         <section class="explorer-hero" aria-labelledby="explorer-title">
-            <img
-                class="explorer-hero__image"
-                src="../../docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp"
-                alt="Konrad stands under Samuel's hidden red control while Sylvan observes from the clear opposing side."
-                width="1672"
-                height="941"
-                fetchpriority="high">
-            <div class="explorer-hero__veil" aria-hidden="true"></div>
             <div class="explorer-hero__content wrap">
                 <p class="explorer-hero__label">Project Explorer</p>
-                <h1 id="explorer-title"><span>Seeds of the</span> Throne</h1>
+                <h1 id="explorer-title">Seeds of the Throne</h1>
                 <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
                     <a class="archive-cta archive-cta--primary" href="#workbench">
@@ -263,6 +261,15 @@ function explorer_format_bytes(?int $bytes): string
                     <a class="archive-cta" href="#archive">Browse the story files</a>
                 </div>
             </div>
+            <figure class="explorer-hero__frame">
+                <img
+                    class="explorer-hero__image"
+                    src="../../docs/assets/images/konrad-controlled-by-samuel-key-art-v1.webp"
+                    alt="Konrad stands under Samuel's hidden red control while Sylvan observes from the clear opposing side."
+                    width="1672"
+                    height="941"
+                    fetchpriority="high">
+            </figure>
         </section>
 
         <?php require __DIR__ . '/workbench.php'; ?>
@@ -342,6 +349,7 @@ function explorer_format_bytes(?int $bytes): string
 
             <div class="explorer-shell wrap">
             <aside class="explorer-sidebar" aria-label="Repository navigation">
+                <p class="explorer-sidebar__return"><a href="#archive-document">View the current document</a></p>
                 <form class="explorer-search" method="get" action="#archive">
                     <label for="repository-search">Find a document</label>
                     <div>
@@ -410,13 +418,6 @@ function explorer_format_bytes(?int $bytes): string
                                 <?php endforeach; ?>
                             </ol>
                         </nav>
-                        <div class="explorer-document__meta">
-                            <span><?= e(explorer_format_bytes($bytes)) ?></span>
-                            <?php if ($modified !== null): ?>
-                                <span>Updated <time datetime="<?= e(date(DATE_ATOM, $modified)) ?>"><?= e(date('M j, Y', $modified)) ?></time></span>
-                            <?php endif; ?>
-                            <a href="<?= e($links['github']) ?>/seeds-of-the-throne/blob/main/<?= e(str_replace('%2F', '/', rawurlencode($requested))) ?>" rel="noopener noreferrer">View source on GitHub</a>
-                        </div>
                     </header>
 
                     <div class="markdown-body">
@@ -432,6 +433,19 @@ function explorer_format_bytes(?int $bytes): string
                     </div>
                 <?php endif; ?>
             </article>
+            <?php if ($requested !== '' && $rendered !== ''): ?>
+                <aside class="explorer-context" aria-label="Document details">
+                    <p class="explorer-context__label">Document details</p>
+                    <p class="explorer-context__path"><?= e($requested) ?></p>
+                    <dl>
+                        <div><dt>Size</dt><dd><?= e(explorer_format_bytes($bytes)) ?></dd></div>
+                        <?php if ($modified !== null): ?>
+                            <div><dt>Updated</dt><dd><time datetime="<?= e(date(DATE_ATOM, $modified)) ?>"><?= e(date('M j, Y', $modified)) ?></time></dd></div>
+                        <?php endif; ?>
+                    </dl>
+                    <a href="<?= e($links['github']) ?>/seeds-of-the-throne/blob/main/<?= e(str_replace('%2F', '/', rawurlencode($requested))) ?>" rel="noopener noreferrer">View source on GitHub</a>
+                </aside>
+            <?php endif; ?>
             </div>
         </section>
     </main>

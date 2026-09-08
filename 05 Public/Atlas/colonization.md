@@ -2,6 +2,7 @@
 route: colonization
 title: A real life inside a constructed world.
 deck: The environment has a purpose. The people inside it still have lives of their own.
+image: remote-war-gold.jpg
 status: reviewed-fictional-projection
 ---
 
