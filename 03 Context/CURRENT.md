@@ -6,6 +6,12 @@ updated: 2026-09-08
 
 # Current
 
+## September 8 website visual redesign
+
+A containment-archive visual redesign of the `docs/` story atlas and Project Explorer is implemented on branch `cursor/story-sites-visual-redesign` and awaiting author review. It has not been deployed. Approved public wording remains locked. This supersedes earlier statements that the websites were deferred or must not be rebuilt.
+
+Resume website questions from [[07 Coordination/CURRENT-PICKUP]]. Implementation details are in [[07 Coordination/2026-09-08 - Cursor Story Sites Visual Redesign]], [[07 Coordination/DESKTOP-QUEUE]], and [[01 Sessions/Daily/2026-09-08 - Cursor Story Sites Visual Redesign]]. Story-development state and author gates below are unchanged.
+
 ## September 8 public website voice and purpose
 
 The two public surfaces now have separate jobs. The `docs/` atlas presents *Seeds of the Throne* as a story, beginning with a literal explanation of its colonization planet, human–Luminai bond, training system, and criminal containment. The Project Explorer explains how years of conversations and thousands of ideas become organized characters, world rules, timelines, decisions, workshops, scenes, and eventually finished prose.
@@ -20,7 +26,7 @@ The historical reconstruction's physical evidence is created within the terrafor
 
 Religious organizations are managed by synthetics that function as embodied extensions of the advanced AI administering the colonization process. The real leaders use the process to explore the religious beliefs of the larger humanity, with different organizations carrying different awareness levels. Synthetics never identify themselves as synthetic, and information identifying them or the organizations as synthetic does not exist within the colonization planet's available information environment. This is absence rather than a later disclosure level. Human belief and interpretation remain distinct from synthetic institutional management; the process does not yet select one correct faith or rank human worth by belief. Legitimacy, freedom, research limits, external audit, and manufactured-consent safeguards remain open.
 
-Desktop reconciliation on September 8 carried this direction into the compact World, Story, Cast, and Storyline briefings. See [[01 Sessions/Daily/2026-09-07 - Encoded Patterns and Manufactured Historical Evidence]], [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]], and advisory [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence]]. Websites remain deferred for the planned batch projection.
+Desktop reconciliation on September 8 carried this direction into the compact World, Story, Cast, and Storyline briefings. See [[01 Sessions/Daily/2026-09-07 - Encoded Patterns and Manufactured Historical Evidence]], [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]], and advisory [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence]]. The later visual redesign did not add a new content projection of this encoded-pattern material; website status is now the implemented redesign awaiting review, recorded above.
 
 ## September 7 vault-functionality direction
 
