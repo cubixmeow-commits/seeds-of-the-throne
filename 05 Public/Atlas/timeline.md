@@ -22,7 +22,11 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 6. Samuel, Konrad, and the older contained generation remain on the previous planet. George participates directly on the newer planet where Sylvan and Orzai meet, resist manufactured distrust, and develop their Luminai bonds.
 7. Sylvan and Orzai reach decisive control. Their influence rises while Samuel's remaining influence contracts under bounded observation.
 8. The inner circle compares Konrad's counterfeit command with external reality and realizes he never held control.
-9. Samuel tries to blame George, continue through Samuel Jr., and trap Sylvan with another false bargain. The outcome presentation ends his strategy when no deals or moves remain.
+9. Samuel tries to blame George, continue through Samuel Jr., and trap Sylvan with another false bargain.
+10. Sylvan refuses. The process formally separates Samuel from Sylvan and removes Samuel's process-provided attack systems.
+11. Samuel receives $15 million to execute his plan independently. His obsession with controlling the colonization process exhausts it within days.
+12. The zero balance immediately triggers Samuel's processing and the exposure of his full conduct.
+13. Sylvan and Orzai accept the placement they earned and begin their cheap, practical integration using only the resources they preserved.
 
 ## Spoilers: reader sequence
 
@@ -37,4 +41,4 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 
 Knowing the broad ending need not reveal who helped, who refused, what was misunderstood, or what was lost. Later books need local goals whose resolution still matters. Their exact order is intentionally flexible: development will select whichever return to the past is most entertaining and dramatically necessary.
 
-Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Narrative workshop](workshop.html?module=20#session).
+Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Narrative workshop](workshop.html?module=RW-10#session).
