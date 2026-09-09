@@ -8,7 +8,7 @@ updated: 2026-09-09
 
 Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Running out of money immediately triggers processing and full exposure.
 
-After the process ends, Sylvan and Orzai implement their plan using only the resources they preserved. Those resources are sufficient, and their earned placement determines their integration into the larger colonization process.
+After successfully dealing with Samuel and formally separating from him, Sylvan and Orzai accept their earned placement within the colonization process. Their plan is cheap and easy to carry out using the resources they preserved.
 
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
@@ -217,3 +217,8 @@ Develop freely in daily session notes. Promote only settled or clearly labeled w
 ## Conversational authoring system design
 
 The product direction is established; the initial full-system architecture is now proposed at [[07 Coordination/Authoring System/README|Conversational Authoring System]]. No runtime, engine, or interface implementation is authorized by that design alone. The next product-development move is to reconcile the completed workshop with actual workflow state, select one Book One vertical-slice scene, and approve the decision/event schema one gate at a time.
+
+
+## Author clarification — simple acceptance of placement
+
+Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; they do not need to seize control or receive a new external victory package.
