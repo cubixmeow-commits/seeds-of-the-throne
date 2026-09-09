@@ -1,8 +1,14 @@
 ---
 type: context
 status: active
-updated: 2026-09-07
+updated: 2026-09-09
 ---
+
+## Current reassessment workshop - 2026-09-09
+
+The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
+
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. The highest dependency is the exact completed condition that makes formal separation inevitable. Later modules address rapid resource exhaustion, processing and exposure, accepted placement, Orzai's indispensable action, authentication, George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
 
 # Open Questions
 
