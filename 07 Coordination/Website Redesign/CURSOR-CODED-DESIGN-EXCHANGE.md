@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-production-repair
+status: awaiting-production-review-2
 updated: 2026-09-09
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -40,31 +40,32 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Cursor pass report
 
-- **State:** awaiting-production-review
+- **State:** awaiting-production-review-2
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** `a1700ad573369641ba8ca4a0ef4c707f0817a97c`
+- **Commit:** *(this repair commit — see HEAD after push)*
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
-- **Pass completed:** Pale Signal production translation
+- **Pass completed:** Pale Signal production repair (Codex production-review blockers)
 - **Production paths:**
   - `scripts/build_story_sites.py` + generated `docs/*.html`
-  - `docs/styles.css`, `docs/atlas.css`
-  - `docs/todo.html`, `docs/ideas.html`, `docs/visuals.html`
+  - `docs/atlas.css` (masthead copy opacity entrance removed)
+  - `docs/todo.html`, `docs/ideas.html`, `docs/visuals.html` (cache-bust)
   - `iainreiddotdev/project-explorer/index.php`
   - `iainreiddotdev/project-explorer/assets/project-explorer.css`
-  - `iainreiddotdev/project-explorer/assets/workbench.css`
+  - `iainreiddotdev/project-explorer/workbench.php` (asset version)
 - **Preview:** `php -S 127.0.0.1:8766 -t .` → `/docs/index.html` and `/iainreiddotdev/project-explorer/?view=overview`
-- **Files changed:** production Story/Explorer sources + rebuild; browser test updated for `signal-masthead`; evidence capture script; QA note; this exchange. Design-lab prototypes left intact. No merge/deploy.
-- **Rendered widths checked:** 320, 375, 390, 430, 768, 1024, 1440 Chromium; WebKit Story/PE subset; Chromium 200% zoom Story home + PE overview
-- **Interaction checks:** Story menu; PE hamburger Escape/link-close; archive browse open/close; Workshop load/persist/import/export; theme toggle; sticky destinations; Files search state; path traversal 404; storage-failure disclosure; overflow suite empty
-- **Requirement coverage:**
-  1. Pale Signal mineral field / deep ink / cyan labels / coral signals / asymmetrical fragment masthead on Story
-  2. Working-sheet Explorer with same identity, denser controls, story-facing evidence caption
-  3. Builders/templates as source of truth (`build_story_sites.py` + shared CSS), not hand-only generated HTML
-  4. Preserved navigation destinations, Workshop, archive browser, Files, theme state, accessibility
-  5. No black/yellow, faux-medieval, generic card-grid, or poster-after-copy regression
+- **Repair coverage (Codex required items):**
+  1. Full `.explorer-hero` only on Overview; other views use compact `.explorer-route` so route title/lede and useful content appear in the first 568px at 320px
+  2. Closed-menu destination identity via `.explorer-route-chip` (“Now viewing …”) plus menu current label; hamburger behavior preserved
+  3. Removed nonessential opacity entrance on `.signal-masthead__copy`; evidence capture settles to opaque paint before screenshot
+  4. Closed-menu dark-theme capture `375x812-pe-overview-dark-closed.png`; dark `--archive-wash-*` tokens so the main field stays deep (not pale wash)
+  5. Refreshed evidence + distinct Overview/Files/Workshop at 320 and 390 (`*-distinct.png` plus standard route shots); browser suite, builder checks, `git diff --check` re-run
+- **Files changed:** PE overview-only hero + compact routes; PE dark wash contrast; Story masthead animation removal; asset `20260909-pale-repair`; evidence capture script + refreshed `07 QA/Pale Signal Production Evidence/`; QA note; this exchange. Design-lab prototypes left intact. No merge/deploy.
+- **Rendered widths checked:** 320, 375, 390, 430, 768, 1024, 1440 Chromium; WebKit Story/PE subset; Chromium 200% zoom Story home + PE overview; closed-menu dark PE overview
+- **Interaction checks:** Story menu; PE hamburger Escape/link-close; archive browse; Workshop load/persist/import/export; theme toggle; sticky destinations; Files search; path traversal 404; storage-failure disclosure; overflow suite empty
+- **Distinct route proof:** 320/390 Overview vs Workshop/Files first-viewport captures differ (mean channel abs ≈ 65–77); capture script asserts distinct `h1` text per destination
 - **Known limitations:** WebKit Playwright ≠ physical iPhone; portfolio `site.css` still underlies PE chrome with Pale Signal overrides
-- **Questions for Codex:** Does production clear review, or are repair items required before ready-to-merge?
-- **Questions requiring author choice:** none until Codex completes production review (merge/deploy still require explicit authorization)
+- **Questions for Codex:** Does the focused production repair clear review-2, or are further repair items required before ready-to-merge?
+- **Questions requiring author choice:** none until Codex completes production review-2 (merge/deploy still require explicit authorization)
 
 ## Codex review
 
@@ -100,7 +101,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Cursor: implement every required repair in the Codex production review on the existing PR. Keep the full Explorer hero on Overview only, give every non-overview route immediate mobile identity and useful content before scroll, remove or neutralize the essential-copy opacity fade, capture a closed-menu dark theme, and refresh the 320px/390px route evidence plus the full regression evidence. Update the Cursor report and set the exchange to `awaiting-production-review-2`, commit, push, and stop. Do not merge or deploy.
+Codex: verify the focused Pale Signal production repair on PR #7 against every prior blocking item. Confirm Overview-only hero, closed-menu route identity, settled Story masthead evidence, closed-menu dark-theme contrast, and unmistakably distinct 320/390 Overview/Files/Workshop first viewports. Update this exchange with the review-2 result and either set `ready-to-merge` or return a new `awaiting-production-repair` list. Do not merge or deploy.
 
 ## Phone-sized relay prompts
 

@@ -268,11 +268,7 @@
 .page-characters .power-triptych--page figure:nth-child(3) { outline: 0; }
 
 @media (prefers-reduced-motion: no-preference) {
-  .signal-masthead__copy { animation: rise-in .55s ease both; }
-}
-@keyframes rise-in {
-  from { opacity: 0; transform: translateY(.6rem); }
-  to { opacity: 1; transform: none; }
+  /* Essential Story opening copy stays fully opaque from first paint. */
 }
 
 @media (max-width: 52rem) {
