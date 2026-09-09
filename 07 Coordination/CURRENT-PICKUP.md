@@ -5,6 +5,14 @@ updated: 2026-09-08
 scope: single current pickup point
 ---
 
+## September 9 ending clarification — rapid exhaustion and constructive integration
+
+Samuel's obsession with taking control of the colonization process burns through his **$15 million** terminal allocation in a matter of days. Exhaustion immediately triggers processing and full exposure.
+
+Sylvan and Orzai need only the resources they preserved through the process to implement their plan effectively. Their earned placement determines how they integrate into the larger colonization process; no new external victory package is required.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+
 ## Story correction — Samuel's terminal separation (2026-09-09)
 
 The newest author-accepted ending macro supersedes the old $1.5 million note and must be applied before resuming stale August checklist questions.
