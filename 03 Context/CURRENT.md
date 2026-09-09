@@ -4,6 +4,14 @@ status: active
 updated: 2026-09-09
 ---
 
+## September 9 ending clarification — rapid exhaustion and constructive integration
+
+Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Running out of money immediately triggers processing and full exposure.
+
+After the process ends, Sylvan and Orzai implement their plan using only the resources they preserved. Those resources are sufficient, and their earned placement determines their integration into the larger colonization process.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+
 ## Author-accepted terminal separation — 2026-09-09
 
 At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
