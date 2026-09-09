@@ -33,7 +33,7 @@ More effective integration means that a human–Luminai pair can perceive, learn
 
 The older leaders create an extensive assessment framework that establishes which paths a trained pair has qualified for through its actual decisions and developed skills. The human and Luminai then choose their own placement among those paths. The framework creates credible options; it does not arbitrarily assign the participant's future.
 
-A pair that performs well enough can qualify for a House or group with substantial resources and extensive involvement in the continuing colonization process. That is a major earned path the pair may choose, with its governance, membership rights, obligations, and oversight still under development.
+A pair that performs well enough can qualify for a House or group with extensive involvement in the continuing colonization process. Sylvan and Orzai eventually accept the placement they earned after successfully dealing with Samuel and separating from him. Their plan is cheap and easy to begin with the resources they preserved. The exact form, obligations, and later scale of that placement remain under development.
 
 ## Entry and awareness
 
@@ -59,6 +59,6 @@ Samuel's history raises a difficult institutional question. If the leaders could
 
 Sylvan's final years of decisive control cannot retroactively make all earlier suffering safe. The workshop asks for explicit stopping rules, protection for individuals inside criminal groups, and accountability for institutional choices.
 
-Modules 01–04, 07–08, and 15 address these dependencies in the [workshop](workshop.html).
+The current [reassessment workshop](workshop.html) addresses the terminal rules, placement, evidence, and institutional responsibility.
 
 Sources: [[02 Story/Components/Core Premise]], [[03 Context/WORLD]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Components/Hidden Technological Foundation and Awakening]].
