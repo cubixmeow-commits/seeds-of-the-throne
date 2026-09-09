@@ -802,9 +802,8 @@ html:has(.explorer-page) {
         grid-template-columns: minmax(0, 1fr) auto auto;
         grid-template-areas:
             "brand toggle actions"
-            "chip chip chip"
             "menu menu menu";
-        gap: .45rem .55rem;
+        gap: .55rem;
         align-items: center;
     }
 
@@ -817,13 +816,6 @@ html:has(.explorer-page) {
         max-width: 11ch;
         text-overflow: ellipsis;
         white-space: nowrap;
-    }
-
-    .explorer-route-chip {
-        display: flex;
-        grid-area: chip;
-        padding: .15rem 0 .35rem;
-        border-block-end: 1px solid var(--archive-line);
     }
 
     .product-nav__toggle {

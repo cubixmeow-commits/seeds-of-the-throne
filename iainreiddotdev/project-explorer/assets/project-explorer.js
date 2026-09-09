@@ -53,7 +53,7 @@
   if (menuButton && productNav) {
     const setMenuLabel = (open) => {
       menuButton.setAttribute('aria-label', open ? 'Close Project Explorer menu' : 'Open Project Explorer menu');
-      const icon = menuButton.querySelector('[aria-hidden="true"]');
+      const icon = menuButton.querySelector('[data-product-nav-icon]');
       if (icon) icon.textContent = open ? '✕' : '☰';
     };
 
