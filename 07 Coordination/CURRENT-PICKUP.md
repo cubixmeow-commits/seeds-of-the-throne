@@ -5,6 +5,13 @@ updated: 2026-09-08
 scope: single current pickup point
 ---
 
+## Story correction — Samuel's terminal separation (2026-09-09)
+
+The newest author-accepted ending macro supersedes the old $1.5 million note and must be applied before resuming stale August checklist questions.
+
+Samuel is formally separated from Sylvan, receives **$15 million** to execute his plan independently, and loses every process-provided system he used to attack Sylvan. Sylvan only has to survive. Samuel's obsessions exhaust the allocation; at zero he is processed and his full conduct is exposed.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 # Current Pickup
 
 ## Website visual redesign — 2026-09-08
