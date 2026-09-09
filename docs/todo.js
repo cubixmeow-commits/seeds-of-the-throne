@@ -42,7 +42,8 @@
       const cells = line.split("|").slice(1, -1).map(cell => cell.trim());
       rows.push({ id: cells[0], priority: cells[1], title: cells[2], depth: cells[3], phase: cells[4], validation: cells[5] });
     }
-    return rows;
+    const current = rows.filter(row => row.id.startsWith("RW-"));
+    return current.length ? current : rows;
   }
 
   function parseCurrent(markdown) {
