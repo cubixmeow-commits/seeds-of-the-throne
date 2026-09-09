@@ -19,7 +19,9 @@ This packet supports the existing Story Completion Workflow. Its central resolut
 
 ## Accepted result
 
-Samuel's last bounded move is a formal separation from Sylvan. He receives **$15 million** to execute his plan independently and loses access to every process-provided system he had used to attack Sylvan. Sylvan only has to survive while Samuel's obsessions consume the finite allocation. When the money reaches zero, Samuel is processed and his full conduct is exposed. There are then no further deals or moves. Exact restitution, victim privacy, descendant independence, and differentiated accountability remain open.
+Samuel's last bounded move is a formal separation from Sylvan. He receives **$15 million** to execute his plan independently and loses access to every process-provided system he had used to attack Sylvan. Sylvan only has to survive while Samuel's obsession with taking control of the colonization process consumes the finite allocation in a matter of days. When the money reaches zero, Samuel is processed and his full conduct is exposed. There are then no further deals or moves. Exact restitution, victim privacy, descendant independence, and differentiated accountability remain open.
+
+After the process ends, Sylvan and Orzai use only the resources they preserved through it. Those resources are sufficient to implement their plan effectively, and their earned placement determines how they integrate into the larger colonization process. They do not require a new external victory package.
 
 ## Relevant source notes
 
