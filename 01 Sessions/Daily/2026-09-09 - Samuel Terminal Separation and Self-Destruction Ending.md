@@ -32,9 +32,9 @@ Sylvan wins through survival, restraint, and refusal to become Samuel. Samuel su
 
 ## Sylvan and Orzai's constructive endpoint
 
-When the process ends, Sylvan and Orzai need only the resources they have preserved and still possess to implement their plan effectively. They do not require a new external victory package. Their earned placement determines how they integrate into the larger colonization process.
+Sylvan and Orzai's post-process plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept the placement they earned within the colonization process. The plan requires only the resources they preserved; it does not depend on a new external victory package.
 
-The ending therefore contrasts two uses of finite resources: Samuel rapidly consumes a terminal allocation trying to take control, while Sylvan and Orzai preserve enough through the process to build from the placement they earned.
+The ending therefore contrasts Samuel's obsessive attempt to seize the process with Sylvan and Orzai's willingness to accept their legitimate place within it.
 
 ## Supersession
 
