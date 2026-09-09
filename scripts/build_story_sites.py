@@ -11,7 +11,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260911-hpi'
+ASSET = '20260909-pale-signal'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -97,23 +97,25 @@ def metadata(text):
 def nav_links(slug, items):
     return ''.join(f'<a href="{key}.html"'+(' aria-current="page"' if key==slug else '')+'>'+label+'</a>' for key,label in items)
 
-def planetary_hero(title, deck):
+def pale_signal_masthead(title, deck):
     alt_desktop = IMAGE_ALT['planetary-cutaway-hero-desktop-v1.webp']
-    alt_mobile = IMAGE_ALT['planetary-cutaway-hero-mobile-v1.webp']
-    return f'''<header class="planetary-hero" aria-labelledby="home-title">
-  <div class="planetary-hero__media" aria-hidden="false">
-    <picture>
-      <source media="(max-width: 52rem)" srcset="assets/images/planetary-cutaway-hero-mobile-v1.webp" width="941" height="1672">
-      <img src="assets/images/planetary-cutaway-hero-desktop-v1.webp" alt="{html.escape(alt_desktop)}" width="1672" height="941" fetchpriority="high">
-    </picture>
-  </div>
-  <div class="planetary-hero__copy">
+    return f'''<header class="signal-masthead" aria-labelledby="home-title">
+  <div class="signal-masthead__copy">
     <p class="eyebrow">A science-fiction story in development</p>
     <h1 id="home-title">{html.escape(title)}</h1>
     <p class="atlas-deck">{html.escape(deck)}</p>
     <p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>
     <p class="hero-consequence">The final battle is not about taking the planet. It is about making everyone see who has been contained all along.</p>
     <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">See how it is being built</a></p>
+  </div>
+  <div class="signal-fragment">
+    <figure class="signal-fragment__frame">
+      <picture>
+        <source media="(max-width: 52rem)" srcset="assets/images/planetary-cutaway-hero-mobile-v1.webp" width="941" height="1672">
+        <img src="assets/images/planetary-cutaway-hero-desktop-v1.webp" alt="{html.escape(alt_desktop)}" width="1672" height="941" fetchpriority="high">
+      </picture>
+    </figure>
+    <p class="signal-annotation">Infrastructure held beneath ordinary life.</p>
   </div>
 </header>'''
 
@@ -198,8 +200,8 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
         actions='<p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="archive.html">See how it is being developed</a></p>' if slug=='index' else ''
         hero=f'<header class="atlas-hero"><div><p class="eyebrow">A science-fiction story in development</p><h1>{html.escape(title)}</h1><p class="atlas-deck">{html.escape(deck)}</p><p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>{actions}</div>{art}</header>'
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#050504"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
-<body class="atlas-page {page_class}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Explore <span aria-hidden="true">+</span></button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#dbe4e7"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
+<body class="atlas-page {page_class}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
 <main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
@@ -234,7 +236,7 @@ def main():
             count,total=match.groups() if match else ('0','0')
             # Keep approved story sections; wrap with editorial bands and drop duplicate progress inject from old builder.
             body=homepage_editorial(body, count, total)
-            hero_html=planetary_hero(title, deck)
+            hero_html=pale_signal_masthead(title, deck)
             image=None
         if slug=='faction':
             body='<figure class="evidence-banner"><img src="assets/images/recovered-records-evidence-v1.webp" alt="'+html.escape(IMAGE_ALT['recovered-records-evidence-v1.webp'])+'" width="1774" height="887" loading="lazy"><figcaption>Interpretive evidence composition. Claim, source, discrepancy, and consequence remain separate.</figcaption></figure>'+body

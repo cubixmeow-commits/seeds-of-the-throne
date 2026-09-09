@@ -179,7 +179,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260908-mobile-overflow-1';
+$assetVersion = '20260909-pale-signal';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -206,8 +206,8 @@ function explorer_format_bytes(?int $bytes): string
     <meta property="og:description" content="<?= e($pageDescription) ?>">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= e($canonical) ?>">
-    <meta name="theme-color" content="#f3eee4" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#0b0c0b" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#dbe4e7" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#14232d" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
@@ -279,7 +279,7 @@ function explorer_format_bytes(?int $bytes): string
     <main id="main">
         <section class="explorer-hero" aria-labelledby="explorer-title">
             <div class="explorer-hero__content wrap">
-                <p class="explorer-hero__label">Project Explorer</p>
+                <p class="explorer-hero__label">Project Explorer · working sheet</p>
                 <h1 id="explorer-title">Seeds of the Throne</h1>
                 <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
@@ -290,6 +290,7 @@ function explorer_format_bytes(?int $bytes): string
                     <a class="archive-cta" href="<?= e(explorer_view_url('files', ['file' => $requested !== '' ? $requested : 'README.md'])) ?>">Browse the story files</a>
                 </div>
             </div>
+            <div class="explorer-hero__aside">
             <figure class="explorer-hero__frame">
                 <img
                     class="explorer-hero__image"
@@ -298,8 +299,9 @@ function explorer_format_bytes(?int $bytes): string
                     width="1774"
                     height="887"
                     fetchpriority="high">
-                <figcaption class="explorer-hero__caption">Working instrument. Evidence language without cinematic key art.</figcaption>
             </figure>
+            <p class="explorer-hero__caption">Recovered records held against the working evidence.</p>
+            </div>
         </section>
 
         <?php require __DIR__ . '/workbench.php'; ?>

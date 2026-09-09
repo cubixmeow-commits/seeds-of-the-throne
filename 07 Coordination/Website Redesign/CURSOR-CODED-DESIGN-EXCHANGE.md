@@ -1,7 +1,7 @@
 ---
 type: agent-exchange
-status: awaiting-production-implementation
-updated: 2026-09-08
+status: awaiting-production-review
+updated: 2026-09-09
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 cycle: 1
@@ -38,30 +38,31 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Cursor pass report
 
-- **State:** awaiting-codex-review-2
+- **State:** awaiting-production-review
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** `302256d39a3d13b090f36139545433ad73664aba`
+- **Commit:** `0f81cd3ff78b52ad4c91998358c967acfe9ee1d0`
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
-- **Pass completed:** Pale Signal selected-direction refinement (post–author selection)
-- **Prototype paths:**
-  - `iainreiddotdev/design-lab/seeds/index.html`
-  - `iainreiddotdev/design-lab/seeds/planetary-dusk/story.html` *(left intact as unselected comparison)*
-  - `iainreiddotdev/design-lab/seeds/planetary-dusk/explorer.html` *(left intact)*
-  - `iainreiddotdev/design-lab/seeds/pale-signal/story.html`
-  - `iainreiddotdev/design-lab/seeds/pale-signal/explorer.html`
-- **Preview URL or opening instructions:** `php -S 127.0.0.1:8766 -t .` then open `http://127.0.0.1:8766/iainreiddotdev/design-lab/seeds/pale-signal/story.html`
-- **Files changed:** Pale Signal Story/Explorer HTML + CSS only; design-lab Playwright suite extended for WebKit + 200% zoom; Pale evidence recapture; QA note; this exchange. Planetary Dusk untouched. No production page edits. No `.cursor/` payload.
-- **Rendered widths checked:** Chromium 320×568, 375×812, 430×932, 768×1024, 1024×768, 1440×900 for index + both directions; Pale WebKit captures at 320, 375, 390, 430, 768, 1440; Pale Chromium + WebKit **200% text zoom** at 320/375/768 (and WebKit 375 zoom pair)
-- **Interaction checks:** mobile menus open/Escape; dusk sequence; pale layer reveal; Story↔Explorer links; long paths wrap; focus-visible; reduced-motion; overflow suite empty across chromium/webkit/zoom200
-- **Selection-requirement coverage:**
-  1. Refined **only** Pale Signal; Dusk kept as comparison (no blend)
-  2. Replaced process captions (“Essential copy stays in HTML” / “Annotations stay in HTML”) with story-facing evidence lines; softened lab footer/CTA wording
-  3. Polished Pale 320px copy/image split (wider copy track, px-based fragment min, annotation under full masthead on mobile)
-  4. Verified Playwright **WebKit** (Safari engine) + **200% text zoom**; repaired zoom overflow (topbar, rem-based tracks, grid `min-width: auto`)
-  5. Explorer remains asymmetrical working sheet (no card dashboard regression)
-- **Known limitations:** WebKit here is desktop Safari engine in Linux Playwright, not a physical iPhone; visual QA still needs author eyes on a real device before production approval
-- **Questions for Codex:** Does refined Pale Signal clear the design gate for prototype approval, or are further selected-direction repairs required?
-- **Questions requiring author choice:** none until Codex completes review-2
+- **Pass completed:** Pale Signal production translation
+- **Production paths:**
+  - `scripts/build_story_sites.py` + generated `docs/*.html`
+  - `docs/styles.css`, `docs/atlas.css`
+  - `docs/todo.html`, `docs/ideas.html`, `docs/visuals.html`
+  - `iainreiddotdev/project-explorer/index.php`
+  - `iainreiddotdev/project-explorer/assets/project-explorer.css`
+  - `iainreiddotdev/project-explorer/assets/workbench.css`
+- **Preview:** `php -S 127.0.0.1:8766 -t .` → `/docs/index.html` and `/iainreiddotdev/project-explorer/?view=overview`
+- **Files changed:** production Story/Explorer sources + rebuild; browser test updated for `signal-masthead`; evidence capture script; QA note; this exchange. Design-lab prototypes left intact. No merge/deploy.
+- **Rendered widths checked:** 320, 375, 390, 430, 768, 1024, 1440 Chromium; WebKit Story/PE subset; Chromium 200% zoom Story home + PE overview
+- **Interaction checks:** Story menu; PE hamburger Escape/link-close; archive browse open/close; Workshop load/persist/import/export; theme toggle; sticky destinations; Files search state; path traversal 404; storage-failure disclosure; overflow suite empty
+- **Requirement coverage:**
+  1. Pale Signal mineral field / deep ink / cyan labels / coral signals / asymmetrical fragment masthead on Story
+  2. Working-sheet Explorer with same identity, denser controls, story-facing evidence caption
+  3. Builders/templates as source of truth (`build_story_sites.py` + shared CSS), not hand-only generated HTML
+  4. Preserved navigation destinations, Workshop, archive browser, Files, theme state, accessibility
+  5. No black/yellow, faux-medieval, generic card-grid, or poster-after-copy regression
+- **Known limitations:** WebKit Playwright ≠ physical iPhone; portfolio `site.css` still underlies PE chrome with Pale Signal overrides
+- **Questions for Codex:** Does production clear review, or are repair items required before ready-to-merge?
+- **Questions requiring author choice:** none until Codex completes production review (merge/deploy still require explicit authorization)
 
 ## Codex review
 
@@ -96,7 +97,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Cursor: sync the latest PR #7 branch and read this exchange completely. Translate the author-approved Pale Signal system into both production surfaces: the generated Story atlas under `docs/` and the real Project Explorer under `iainreiddotdev/project-explorer/`. Use the production builders/templates and shared styles as the source of truth so regeneration preserves the design; do not solve this by editing generated HTML alone. Preserve all approved public copy, distinct Story/Explorer destinations, repaired mobile menus, archive browser, Files and Workshop behavior, theme state, anchors, source links, accessibility, and existing functionality. Preserve Pale Signal's mineral field, deep-ink typography, cyan labels, restrained coral signals, asymmetrical image integration, editorial Story rhythm, and working-sheet Explorer structure. Do not reintroduce black/yellow, faux-medieval styling, generic card grids, repeated boxed panels, or poster-after-copy composition. Remove prototype-only and lab-only navigation or labels from production. Test 320, 375, 390, 430, 768, 1024, and 1440 widths in Chromium and WebKit, including open menus, real long paths, Workshop interaction, archive browsing, both theme states where supported, 200% text zoom, focus, reduced motion, image loading, body/document/element overflow, and generated-output consistency. Inspect every rendered screenshot rather than relying only on assertions. Update the production QA record and Cursor pass report, set status to `awaiting-production-review`, commit and push to the same PR, then stop. Do not merge or deploy.
+Codex: review the production Pale Signal Story atlas and Project Explorer on PR #7 against the approved prototype and the non-blocking production notes. Update this exchange with production-review findings. Do not merge or deploy. Ask the author only if a new decision is required.
 
 ## Phone-sized relay prompts
 
