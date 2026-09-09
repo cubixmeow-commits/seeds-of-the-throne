@@ -75,13 +75,11 @@ $completionPointerPath = '07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TO
 $completionRegistryPath = '07 Coordination/Story Completion Workflow/TASK-REGISTRY.md';
 $completionCurrentPath = '07 Coordination/Story Completion Workflow/CURRENT.md';
 $completionSweeps = [
-    'Macro',
-    'Causal',
-    'Agency',
+    'Reassessment',
+    'Causal sequence',
+    'Character agency',
     'Systems + evidence',
-    'Sequence',
-    'Scene map',
-    'Scene development',
+    'Scene design',
     'Draft',
 ];
 $completionPublicLabels = [
@@ -96,7 +94,7 @@ $completion = [
     'completed' => 0,
     'total' => 0,
     'percent' => 0,
-    'current_sweep' => 'Macro Shape',
+    'current_sweep' => 'Reassessment',
     'current_task' => 'RW-01',
     'active_sweep' => 0,
     'working_fronts' => [],
