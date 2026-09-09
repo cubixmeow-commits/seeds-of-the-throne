@@ -78,11 +78,13 @@ The transferability of learned bonds and other Luminai vulnerabilities remain va
 
 At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
 
-Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsessions consume the finite allocation. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
+Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsession with taking control of the colonization process consumes the finite allocation in a matter of days. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
 
-**Causal chain:** `separation -> $15 million -> attack-system access removed -> independent execution -> Sylvan survives -> exhaustion -> processing -> full exposure`
+After the process ends, Sylvan and Orzai use only the resources they preserved through it. Those remaining resources are sufficient to implement their plan effectively, and their earned placement determines how they integrate into the larger colonization process.
 
-This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. Exact duration, spending beats, balance visibility, processing mechanics, and presentation choreography remain open. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> attempted colonization takeover -> exhaustion within days -> Sylvan survives -> processing -> full exposure`
+
+This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. The exact number of days, spending beats, balance visibility, processing mechanics, and presentation choreography remain open; the phase lasts only a matter of days. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 ## Discovery ladder
 
 The exact scenes remain open, but Book One requires this information order:
