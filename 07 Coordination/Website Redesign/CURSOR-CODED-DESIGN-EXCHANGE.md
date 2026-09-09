@@ -1,8 +1,8 @@
 ---
 type: agent-exchange
-status: ready-to-merge
+status: production-v1-approved
 updated: 2026-09-09
-active_branch: codex/coded-design-lab-handoff
+active_branch: main
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 cycle: 1
 author_selection: pale-signal
@@ -37,6 +37,7 @@ This is the durable communication channel for the coded website-design loop. The
 10. `awaiting-production-repair` — Cursor repairs blocking production-review findings without changing the approved direction.
 11. `awaiting-production-review-2` — Codex verifies the focused production repair and refreshed evidence.
 12. `ready-to-merge` — checks and author review are complete; explicit merge permission is still required.
+13. `production-v1-approved` — the reviewed implementation is merged, deployed, and approved by the author on mobile and desktop.
 
 ## Cursor pass report
 
@@ -94,11 +95,13 @@ Only record a decision the author states directly.
 - **Selected direction:** Pale Signal — selected directly by the author on 2026-09-08
 - **Requested changes:** Refine only Pale Signal. Remove prototype/process-facing captions; polish the 320px copy/image split; verify real iOS Safari and 200% text zoom; preserve the asymmetrical mineral editorial composition and working-sheet Explorer; do not regress to cards, black/yellow, or generic dashboard styling.
 - **Prototype approved for production:** yes — the author directly approved the refined Pale Signal prototype on 2026-09-08
-- **Production merge authorized:** no
+- **Production merge authorized:** yes — PR #7 merged into `main` as `b7b89db0289ece321d3928e07269a4fd74eb7c59`
+- **Deployed production approved:** yes — the author approved Pale Signal on mobile and desktop on 2026-09-09
+- **Version baseline:** Pale Signal is locked as Version 1 for future Story pages, Project Explorer routes, and related features
 
 ## Current next action
 
-Author: review the production-review-2 result and either explicitly authorize merging PR #7 into `main` or request another correction. Do not deploy automatically. If merge is authorized, merge the reviewed PR without adding new implementation changes, verify `main` contains the repair commit, and stop for the author's Namecheap deployment.
+No active redesign pass. Future Story pages, Project Explorer routes, and related features must extend the approved Pale Signal Version 1 baseline in `skills/design-seeds-site/references/visual-identity-boundaries.md`. Preserve its reading voice, mobile and desktop composition, distinct product roles, and production functionality. Start a new isolated coded-prototype cycle only if the author explicitly requests a replacement visual direction.
 
 ## Phone-sized relay prompts
 
