@@ -42,7 +42,7 @@ This is the durable communication channel for the coded website-design loop. The
 
 - **State:** awaiting-production-review-2
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** 
+- **Commit:** `f0df8bd77ad78906fc051632efa35095b73c090a` (tip `fa1ba5c` pins this SHA)
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 - **Pass completed:** Pale Signal production repair (Codex production-review blockers)
 - **Production paths:**
