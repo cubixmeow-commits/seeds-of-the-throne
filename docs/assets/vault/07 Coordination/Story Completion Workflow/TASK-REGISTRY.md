@@ -41,6 +41,21 @@ SC-001 through SC-009 retain their completed historical findings. SC-010's remai
 | SC-026 | 8 | Choose the revelation order | RETIRED | RETIRED | NOT-RUN | SC-010, SC-013, SC-015, SC-019, SC-022, SC-023, SC-025 |
 | SC-027 | 8 | Choose final states only after the mechanism works | RETIRED | RETIRED | NOT-RUN | SC-016, SC-023, SC-024, SC-026 |
 
+## Current reassessment modules
+
+| ID | Priority | Module | Depth | Phase | Validation |
+| --- | ---: | --- | --- | --- | --- |
+| RW-01 | 1 | Book One terminal sequence | MACRO | AUTHOR-GATE | NOT-RUN |
+| RW-02 | 1 | Samuel's rapid resource burn | MACRO | IDLE | NOT-RUN |
+| RW-03 | 1 | Processing and exposure | MACRO | IDLE | NOT-RUN |
+| RW-04 | 2 | Sylvan and Orzai's accepted placement | MACRO | IDLE | NOT-RUN |
+| RW-05 | 2 | Orzai's indispensable action | MACRO | IDLE | NOT-RUN |
+| RW-06 | 3 | Bond and evidence authentication | MACRO | IDLE | NOT-RUN |
+| RW-07 | 3 | George and Konrad's distinct functions | MACRO | IDLE | NOT-RUN |
+| RW-08 | 4 | Employment-stage preparation | MACRO | IDLE | NOT-RUN |
+| RW-09 | 4 | Institutional accountability and repair | MACRO | IDLE | NOT-RUN |
+| RW-10 | 5 | Reverse-series handoff | MACRO | IDLE | NOT-RUN |
+
 ## Historical boundary
 
 Do not route author work through this table or report 9 of 27 as current progress. Preserve the table so accepted decisions and the evolution of the workflow remain auditable.
