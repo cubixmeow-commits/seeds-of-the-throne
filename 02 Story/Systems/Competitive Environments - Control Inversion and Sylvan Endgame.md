@@ -58,9 +58,9 @@ This supersedes the earlier $1.5 million figure and any additional phase or trig
 
 Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Exhaustion immediately triggers his processing and full exposure.
 
-Sylvan and Orzai require no new external victory package after the process ends. The resources they preserved and still possess are sufficient to implement their plan effectively, and their earned placement determines how they integrate into the larger colonization process.
+Sylvan and Orzai's post-process plan is cheap and easy. After successfully dealing with Samuel and formally separating from him, they accept the placement they earned within the colonization process. Their preserved resources are sufficient, so no new external victory package is required.
 
-This establishes the endgame contrast: Samuel consumes finite resources in a final attempt to control the system; Sylvan and Orzai preserve finite resources and use legitimate placement to build within it.
+This establishes the endgame contrast: Samuel consumes finite resources trying to control the system; Sylvan and Orzai accept the legitimate placement they earned within it.
 
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
