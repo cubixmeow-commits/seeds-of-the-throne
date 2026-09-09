@@ -40,3 +40,10 @@ The collapse of Konrad's bloodline doctrine is the collapse of a political claim
 - What dismantling the group changes for its members individually.
 
 Sources: [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Systems/The Breeding Program and Lineage Blackmail]].
+
+
+## Spoilers: the obsession reaches zero
+
+Formal separation removes the systems Samuel used through Sylvan and gives him $15 million to attempt control independently. Samuel understands the individual costs, but every failure convinces him that the next larger expenditure will finally prove his claim.
+
+The money lasts only days. When it reaches zero, Samuel is processed and his full conduct is exposed. His final failure is not a lack of opportunity. It is the objective he refuses to abandon.

@@ -4,6 +4,31 @@ status: active
 updated: 2026-09-09
 ---
 
+## September 9 workflow and assessment reset
+
+The author retired the unfinished remainder of the old 27-task Story Completion sequence. Nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are not pending.
+
+The new governing assessment is [[07 QA/2026-09-09 - Current Story Reassessment]]. Current author development begins with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/01 - Book One terminal sequence|RW-01]] and reevaluates later modules after every accepted answer.
+
+The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
+
+## September 9 ending clarification — rapid exhaustion and constructive integration
+
+Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Running out of money immediately triggers processing and full exposure.
+
+After successfully dealing with Samuel and formally separating from him, Sylvan and Orzai accept their earned placement within the colonization process. Their plan is cheap and easy to carry out using the resources they preserved.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+
+## Author-accepted terminal separation — 2026-09-09
+
+At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
+
+Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsessions consume the finite allocation. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
+
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> independent execution -> Sylvan survives -> exhaustion -> processing -> full exposure`
+
+This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. Exact duration, spending beats, balance visibility, processing mechanics, and presentation choreography remain open. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 # Current
 
 ## September 9 website Version 1 baseline
@@ -54,7 +79,7 @@ All twenty workshop modules now have author-accepted results. Samuel, Konrad, an
 
 During the final years Samuel's influence contracts while Sylvan and Orzai's increases. The inner circle recognizes Konrad's deception by comparing his apparent command inside isolation with external reality. The literal Luminai-theft ending is superseded: Samuel scapegoats George, tries to preserve continuity through Samuel Jr., and offers Sylvan a customized version of the bargain that trapped Konrad. Samuel is finally neutralized when the process reaches irreversible conclusion and there are no deals and no more moves. Later-book order remains intentionally flexible and will be selected for entertainment and dramatic value.
 
-Source: [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]. SC-010 Question 7 remains active and unchanged.
+Source: [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]. The former SC-010 Question 7 is retired.
 
 
 ## Foundational integration — 2026-09-03
@@ -81,7 +106,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 
 The vault is now explicitly a **development-first environment**. Use [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] to move from scoped retrieval and [[08 Story Loop/GAP-ANALYZER|gap analysis]] through breadth-first alternatives, selective research, multiscale structure, lightweight characters, optional short prototypes, focused critics, and an author gate. Finished-novel prose is downstream. When story-form testing is useful, default to 500–1,500 word non-canon prototypes using [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]], not polished manuscript chapters.
 
-Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. SC-010 Questions 5 and 6 are now accepted at macro depth: Sylvan uses bounded adversarial observation under decisive control, then reconstructs Samuel's repeated method through live behavior and historical evidence. Question 7 is the active author gate. Current Pickup remains the exact execution pointer.
+Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. SC-010 Questions 5 and 6 are now accepted at macro depth: Sylvan uses bounded adversarial observation under decisive control, then reconstructs Samuel's repeated method through live behavior and historical evidence. The former Question 7 is retired. Current Pickup remains the exact execution pointer.
 
 ## Active development handoff — 2026-08-21
 
@@ -200,3 +225,8 @@ Develop freely in daily session notes. Promote only settled or clearly labeled w
 ## Conversational authoring system design
 
 The product direction is established; the initial full-system architecture is now proposed at [[07 Coordination/Authoring System/README|Conversational Authoring System]]. No runtime, engine, or interface implementation is authorized by that design alone. The next product-development move is to reconcile the completed workshop with actual workflow state, select one Book One vertical-slice scene, and approve the decision/event schema one gate at a time.
+
+
+## Author clarification — simple acceptance of placement
+
+Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; they do not need to seize control or receive a new external victory package.

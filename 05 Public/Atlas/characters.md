@@ -10,13 +10,13 @@ status: reviewed-fictional-projection
 
 Sylvan develops the new deeply integrated Luminai bond. The existing modern arc begins with a creative-development startup, sabotage, loss, and movement through increasingly hostile environments before the final reversal.
 
-His task is larger than technical mastery. He and Orzai must resist Samuel's attempt to make each appear irrational to the other, preserve independent judgment inside intimacy, and qualify for a House-level future without abusing their growing advantage.
+His task is larger than technical mastery. He and Orzai must resist Samuel's attempt to make each appear irrational to the other, preserve independent judgment inside intimacy, and survive until formal separation. They ultimately accept the placement they earned instead of trying to control the process.
 
 ## Orzai
 
 Orzai is a developing leader and Sylvan's partner, with her own interests in health, nutrition, creative design, and training systems. Her choices must matter independently of his success.
 
-Their Luminai coordination cannot replace trust, consent, disagreement, or repair. They meet inside the same environment, choose partnership under attack, complete separate human–Luminai bonds, and earn the option to secure a House together.
+Their Luminai coordination cannot replace trust, consent, disagreement, or repair. They meet inside the same environment, choose partnership under attack, complete separate human–Luminai bonds, and earn a placement they can begin cheaply with the resources they preserved.
 
 ## Konrad Fitzgerald
 
@@ -40,6 +40,6 @@ The Witness, Orzai's family, Samuel's replacement heir, descendants, and survivo
 
 Konrad's inner circle recognizes Samuel's repeated takeover method before Konrad does. Some participants may be collaborators, some coerced, and some both at different times. Knowing the truth does not automatically settle culpability or repair harm.
 
-The workshop tests each role through decisions the character can make, resist, or regret. Modules 12–14 and 17–19 focus on these arcs.
+The workshop tests each role through decisions the character can make, resist, or regret. The current reassessment workshop separates George's and Konrad's endgame functions from Samuel's terminal collapse.
 
 Sources: [[03 Context/CAST]], [[02 Story/Characters/Konrad Fitzgerald]], [[02 Story/Characters/Samuel Franklin]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]].

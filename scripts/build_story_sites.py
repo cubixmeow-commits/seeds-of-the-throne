@@ -6,12 +6,12 @@ from urllib.parse import quote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = ROOT / '05 Public/Atlas'
-WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Workshop'
+WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Reassessment Workshop'
 DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260909-pale-repair'
+ASSET = '20260909-reassessment'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -251,10 +251,10 @@ def main():
         modules.append({'id':meta['module'],'title':meta['title'],'gate':meta['gate'],'status':meta.get('status','unknown'),'prerequisites':meta.get('prerequisites',''),'path':pathstr,'markdown':text,'html':packet_html})
     if modules:
         cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
-        body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from all twenty story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
-        outputs[DOCS/'workshop.html']=shell('workshop','Complete the missing parts of the story','The workshop explains one story problem at a time, offers different possible answers, and shows what each answer would change.',body)
+        body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from ten current story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
+        outputs[DOCS/'workshop.html']=shell('workshop','Develop the story from its current ending','The new workshop starts from the latest story, asks one consequential question at a time, and changes direction when an answer changes the story.',body)
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
-    data={'version':2,'built_from':'2026-09-06 accepted workshop Markdown','modules':modules}
+    data={'version':2,'built_from':'2026-09-09 current reassessment workshop','modules':modules}
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
     snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']

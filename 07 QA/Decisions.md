@@ -1,8 +1,17 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-07
+updated: 2026-09-09
 ---
+
+## 2026-09-09 - Retire the 27-task workflow and launch current reassessment
+
+- **Established:** the unfinished remainder of the 27-task Story Completion set is retired.
+- **Preserved:** SC-001 through SC-009 and all accepted decisions remain historical evidence.
+- **Removed from active work:** SC-010 Question 7 and SC-011 through SC-027.
+- **Established workflow:** current development uses the adaptive [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|reassessment workshop]] built from [[07 QA/2026-09-09 - Current Story Reassessment]].
+- **Public consequence:** Project Explorer and the story site must not display 9 of 27 as current progress.
+- **Source:** [[01 Sessions/Daily/2026-09-09 - Retire 27-Task Set and Launch Current Story Reassessment]].
 
 # Decisions
 

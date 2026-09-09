@@ -75,32 +75,27 @@ $completionPointerPath = '07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TO
 $completionRegistryPath = '07 Coordination/Story Completion Workflow/TASK-REGISTRY.md';
 $completionCurrentPath = '07 Coordination/Story Completion Workflow/CURRENT.md';
 $completionSweeps = [
-    'Macro',
-    'Causal',
-    'Agency',
+    'Reassessment',
+    'Causal sequence',
+    'Character agency',
     'Systems + evidence',
-    'Sequence',
-    'Scene map',
-    'Scene development',
+    'Scene design',
     'Draft',
 ];
 $completionPublicLabels = [
-    1 => 'Containment rules',
-    2 => 'Modern inciting loss',
-    3 => 'Human–Luminai breakthrough',
-    4 => 'Evidence chain',
-    5 => 'Character agency',
-    6 => 'Eighty-year middle',
-    7 => 'Endgame mechanics',
-    8 => 'Narrative form',
+    1 => 'Terminal chain',
+    2 => 'Constructive ending',
+    3 => 'Proof and recognition',
+    4 => 'Middle and accountability',
+    5 => 'Series handoff',
 ];
 $completion = [
     'available' => false,
     'completed' => 0,
     'total' => 0,
     'percent' => 0,
-    'current_sweep' => 'Macro Shape',
-    'current_task' => 'SC-001',
+    'current_sweep' => 'Reassessment',
+    'current_task' => 'RW-01',
     'active_sweep' => 0,
     'working_fronts' => [],
 ];
@@ -154,7 +149,7 @@ if (
                 if (preg_match('/\*\*Current sweep:\*\*\s*([^\n]+)/', $currentContents, $sweepMatch) === 1) {
                     $completion['current_sweep'] = trim($sweepMatch[1]);
                 }
-                if (preg_match('/\*\*Current task:\*\*\s*(SC-\d{3})\b/', $currentContents, $taskMatch) === 1) {
+                if (preg_match('/\*\*Current task:\*\*\s*((?:SC|RW)-\d{2,3})\b/', $currentContents, $taskMatch) === 1) {
                     $completion['current_task'] = $taskMatch[1];
                 }
                 $sweepNeedle = strtolower(strtok($completion['current_sweep'], ' ') ?: 'macro');
@@ -178,7 +173,7 @@ $identity = $data['identity'];
 $links = $data['links'];
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260909-pale-repair';
+$assetVersion = '20260909-reassessment';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 $currentViewMeta = $explorerViews[$view];
@@ -366,8 +361,8 @@ function explorer_format_bytes(?int $bytes): string
                     </div>
                     <div>
                         <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
-                        <p class="explorer-assessment__method"><span>The current story problem</span> Explain how Sylvan can expose Samuel while Samuel still believes he can regain control.</p>
-                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('05 Public/Published/2026-09-03 - Bridge World Atlas Update.md')) ?>"><span>See how the story changed</span><span aria-hidden="true">↗</span></a>
+                        <p class="explorer-assessment__method"><span>The current story problem</span> Make the formal separation, rapid financial collapse, processing, exposure, and accepted placement feel inevitable.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('07 QA/2026-09-09 - Current Story Reassessment.md')) ?>"><span>Read the current story assessment</span><span aria-hidden="true">↗</span></a>
                     </div>
                 </article>
 

@@ -8,7 +8,7 @@
     for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
     return node;
   };
-  const prefix = 'seeds-workshop-v1:';
+  const prefix = 'seeds-reassessment-workshop-v1:';
   const memory = new Map();
   let current, area, status, modules;
   let storageAvailable = true;
@@ -55,16 +55,16 @@
     area.addEventListener('input',persist);
     if(!storageAvailable) status.textContent='Browser storage unavailable. Export Markdown to preserve this draft.';
     const exportButton=el('button','Export answer as Markdown',{type:'button'});
-    exportButton.addEventListener('click',()=>{persist();download(area.value,`seeds-workshop-${current.id}-answer.md`);});
+    exportButton.addEventListener('click',()=>{persist();download(area.value,`seeds-reassessment-${current.id}-answer.md`);});
     const sourceButton=el('button','Download the complete workshop notes',{type:'button',class:'secondary'});
-    sourceButton.addEventListener('click',()=>download(current.markdown,`seeds-workshop-${current.id}-source.md`));
+    sourceButton.addEventListener('click',()=>download(current.markdown,`seeds-reassessment-${current.id}-source.md`));
     const importInput=el('input',null,{type:'file',id:'workshop-import',accept:'.md,.txt,text/markdown,text/plain'});
     importInput.addEventListener('change',async()=>{
       const file=importInput.files[0];if(!file)return;
       if(file.size>1024*1024){status.textContent='Choose a Markdown answer under 1 MB.';return;}
       try {
         const text=await file.text();
-        const idMatch=text.match(/^Module:\s*(?:WS-)?(\d{2})\b/m);
+        const idMatch=text.match(/^Module:\s*(RW-\d{2})\b/m);
         if(idMatch && idMatch[1]!==current.id){status.textContent=`That answer belongs to module ${idMatch[1]}. Select that module first.`;return;}
         if(!confirm('Replace the current draft with this file? Export your current answer first if you want to keep both.'))return;
         area.value=text;persist();

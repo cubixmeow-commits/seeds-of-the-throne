@@ -34,7 +34,9 @@ The Luminai were developed inside the interactive colonization environment. Earl
 
 Book One now begins near the end, when Sylvan already controls the conclusion and Samuel is running out of moves. The unresolved work remains visible: safeguards, the physical interface, the postwar trap, and the difference between proving a pattern and exposing private people.
 
-Astra's central analysis helped build a twenty-part [story workshop](workshop.html). Each part took one missing piece, explained why it mattered, offered different possibilities, and let the author decide. The first complete pass now has accepted directions while the remaining mechanics stay visible for later development.
+Astra's first assessment helped build a twenty-part workshop whose accepted results remain part of the project's history. The story then changed enough that the unfinished 27-task checklist began asking questions from an older version.
+
+A new whole-project assessment retired that stale checklist and created a focused [current workshop](workshop.html). It starts from Samuel's terminal separation, rapid financial collapse, processing and exposure, and Sylvan and Orzai's accepted placement.
 
 ## Evidence inside the fiction
 
@@ -48,4 +50,4 @@ The author supplies the story, the important choices, the corrections, the taste
 
 [Current progress](todo.html) · [Experimental ideas](ideas.html) · [Visual method](visuals.html) · [Research boundaries](research.html).
 
-Sources: [[03 Context/RULES]], [[07 Coordination/Story Completion Workflow/WORKFLOW]], [[07 QA/2026-09-05 - Comprehensive Story Assessment]].
+Sources: [[03 Context/RULES]], [[07 QA/2026-09-09 - Current Story Reassessment]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]].

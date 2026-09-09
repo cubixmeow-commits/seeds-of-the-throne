@@ -1,18 +1,19 @@
 ---
 type: workshop-index
-status: active-supporting-workspace
-updated: 2026-09-06
+status: historical-completed-workshop
+updated: 2026-09-09
 ---
 
-# Story-development workshop
+# Historical September 5 story-development workshop
+
+> [!IMPORTANT]
+> This workshop is preserved as completed development history. It is no longer the active workshop. Continue from [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]].
 
 Twenty decision packets address the missing causes in this story. Eighty alternatives began as non-canon proposals. All twenty modules now have author-accepted results; intentionally deferred implementation questions remain labeled inside the packets. No Story Completion task has been marked complete through the workshop.
 
-## Start without losing the active thread
+## Historical use
 
-The active execution gate remains **SC-010 Question 7**. This workshop expands the existing workflow's decision support. It is not another TODO list. Preparing all modules is authorized; switching the author-led execution order remains an explicit choice.
-
-For a short mobile session: choose one packet, read its central gate, write an answer, and export Markdown. For a desktop session: review sources and prerequisites, compare alternatives, run the scene and adversarial tests, and record acceptance only after the author confirms the restatement.
+The active SC-010 gate and the remaining 27-task sequence were retired by author direction on 2026-09-09. The accepted results in these twenty packets remain valid where later decisions have not superseded them.
 
 ## First five high-impact sessions
 

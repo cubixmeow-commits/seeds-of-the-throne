@@ -25,8 +25,8 @@ $workbenchViews = [
     ],
     'workshop' => [
         'id' => 'workshop-view',
-        'title' => 'Work through one missing story problem at a time.',
-        'lede' => 'Each workshop explains what is known, what is missing, why the answer matters, and several different ways the story could work. Nothing becomes part of the story until the author accepts it.',
+        'title' => 'Develop the story from its current ending.',
+        'lede' => 'The current workshop begins with Samuel's terminal separation and works backward into the causes the ending still needs. Each accepted answer can change which question comes next.',
     ],
 ];
 
@@ -49,12 +49,12 @@ $activeMeta = $workbenchViews[$activeWorkbench];
   <?php if ($activeWorkbench === 'overview'): ?>
     <ol class="workspace-sequence">
       <li><h3>The author explains the story in ordinary language.</h3><p>The system records those ideas and separates confirmed decisions from suggestions and unanswered questions.</p><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction.md')) ?>">Read how the system is designed</a></li>
-      <li><h3>The workshop asks one question at a time.</h3><p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p><a href="<?= e(explorer_view_url('workshop', ['module' => '08'], 'session')) ?>">Open a workshop question</a></li>
+      <li><h3>The current workshop asks one consequential question at a time.</h3><p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p><a href="<?= e(explorer_view_url('workshop', ['module' => 'RW-01'], 'session')) ?>">Open a workshop question</a></li>
       <li><h3>Accepted answers are added where they belong.</h3><p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p><a href="<?= e(explorer_view_url('evidence')) ?>">Review decisions and supporting information</a></li>
       <li><h3>Use the completed plan to write and revise scenes.</h3><p>The planned system will create scene outlines, draft prose, check continuity, revise weak sections, and assemble the manuscript for the author's approval.</p><a href="<?= e(explorer_file_url('07 Coordination/Authoring System/03 - Workshop and Composition Engines.md')) ?>">Read the system plan</a></li>
     </ol>
     <p class="workspace-example">Seeds of the Throne is the working example. The notes, decisions, and workshop below are the live project, not a demonstration mockup.</p>
-    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-05 - Comprehensive Story Assessment.md')) ?>">See what the analysis found</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
+    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-09 - Current Story Reassessment.md')) ?>">See what the analysis found</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
   <?php elseif ($activeWorkbench === 'sources'): ?>
     <div class="workspace-grid">
     <?php foreach ($atlasData as $entry): ?>
@@ -75,14 +75,14 @@ $activeMeta = $workbenchViews[$activeWorkbench];
     <?php endforeach; ?>
     </div>
   <?php elseif ($activeWorkbench === 'workshop'): ?>
-    <details class="workspace-module-index"><summary>Choose from twenty story workshops</summary><nav class="workspace-grid" aria-label="Decision modules">
+    <details class="workspace-module-index"><summary>Choose from ten current story workshops</summary><nav class="workspace-grid" aria-label="Decision modules">
     <?php foreach ($modules as $module): ?>
       <a href="<?= e(explorer_view_url('workshop', ['module' => $module['id']], 'session')) ?>"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
     <?php endforeach; ?>
     </nav></details>
     <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json"><p role="status">Loading the selected workshop.</p></section>
     <noscript><p>The workshop needs JavaScript. Every question is also available in the project vault below.</p></noscript>
-    <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Workshop/README.md')) ?>">See every workshop and its source</a>
+    <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md')) ?>">See every workshop and its source</a>
     <script src="../../docs/workshop.js?v=<?= e($assetVersion) ?>" defer></script>
   <?php endif; ?>
 </section>

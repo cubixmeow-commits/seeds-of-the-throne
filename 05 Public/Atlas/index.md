@@ -54,6 +54,14 @@ They recognize the trap first.
 
 That is when they understand their leader was taken almost a century ago.
 
+## Spoilers: the final separation
+
+At the end of the process, Samuel is separated from Sylvan and loses every process-provided system he used to attack him. Samuel receives $15 million to attempt his plan independently.
+
+He spends it trying to take control of the colonization process. His obsession exhausts the money within days. When the balance reaches zero, he is processed and the record of his conduct is exposed.
+
+Sylvan and Orzai do not replace him. They accept the placement they earned and begin a cheap, practical plan using only what they preserved.
+
 ## Watch the story being built.
 
 This project is being developed in public with an AI-assisted story system. Ideas begin as conversation, become clear decisions, and move toward scenes and finished prose without hiding what is settled and what still needs work.

@@ -45,6 +45,25 @@ The earlier literal-theft ending is superseded. Samuel's final maneuver is a con
 
 The George-centered succession-betrayal material below remains a working subordinate thread. It no longer defines the entire endgame by itself and must be reconciled with the Samuel-Konrad outcome presentation before promotion.
 
+## Author-accepted terminal separation — 2026-09-09
+
+At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
+
+Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsessions consume the finite allocation. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
+
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> independent execution -> Sylvan survives -> exhaustion -> processing -> full exposure`
+
+This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. Exact duration, spending beats, balance visibility, processing mechanics, and presentation choreography remain open. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+## Author-accepted post-process resource endpoint — 2026-09-09
+
+Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Exhaustion immediately triggers his processing and full exposure.
+
+Sylvan and Orzai's post-process plan is cheap and easy. After successfully dealing with Samuel and formally separating from him, they accept the placement they earned within the colonization process. Their preserved resources are sufficient, so no new external victory package is required.
+
+This establishes the endgame contrast: Samuel consumes finite resources trying to control the system; Sylvan and Orzai accept the legitimate placement they earned within it.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+
 ## Core purpose
 
 Competitive environments are one of the colonization process's principal developmental and adjudicative mechanisms. They place participants and contained criminals inside shared projects, institutions, businesses, settlements, or other consequential environments where influence is distributed invisibly and changes over time.

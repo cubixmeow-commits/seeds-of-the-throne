@@ -4,7 +4,7 @@
   const POINTER_PATH = "07%20Coordination/Weekly%20Synthesis/CURRENT-COMPLETION-TODO.md";
   const REGISTRY_PATH = "07%20Coordination/Story%20Completion%20Workflow/TASK-REGISTRY.md";
   const CURRENT_PATH = "07%20Coordination/Story%20Completion%20Workflow/CURRENT.md";
-  const SWEEPS = ["Macro", "Causal", "Agency", "Systems + evidence", "Sequence", "Scene map", "Scene development", "Draft"];
+  const SWEEPS = ["Reassessment", "Causal sequence", "Character agency", "Systems + evidence", "Scene design", "Draft"];
 
   function cleanMarkdown(value) {
     return value.replace(/\[([^\]]+)\]\([^\)]+\)/g, "$1").replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, (_, alias, label) => label || alias || "").replace(/[*_`>#]/g, "").trim();
@@ -38,16 +38,17 @@
   function parseRegistry(markdown) {
     const rows = [];
     for (const line of markdown.split(/\r?\n/)) {
-      if (!/^\| SC-\d{3} \|/.test(line)) continue;
+      if (!/^\| (?:SC-\d{3}|RW-\d{2}) \|/.test(line)) continue;
       const cells = line.split("|").slice(1, -1).map(cell => cell.trim());
       rows.push({ id: cells[0], priority: cells[1], title: cells[2], depth: cells[3], phase: cells[4], validation: cells[5] });
     }
-    return rows;
+    const current = rows.filter(row => row.id.startsWith("RW-"));
+    return current.length ? current : rows;
   }
 
   function parseCurrent(markdown) {
     const match = markdown.match(/\*\*Current sweep:\*\*\s*([^\n]+)/);
-    return match ? cleanMarkdown(match[1]) : "Macro Shape";
+    return match ? cleanMarkdown(match[1]) : "Reassessment";
   }
 
   function parsePointer(markdown) {

@@ -74,6 +74,17 @@ Sylvan recognizes the method and exposes the attempt rather than validating it. 
 
 The transferability of learned bonds and other Luminai vulnerabilities remain valid system-development questions. They are no longer the selected final maneuver.
 
+## Author-accepted terminal separation — 2026-09-09
+
+At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
+
+Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsession with taking control of the colonization process consumes the finite allocation in a matter of days. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
+
+After successfully dealing with Samuel and formally separating from him, Sylvan and Orzai accept the placement they earned within the colonization process. Their plan is cheap and easy to carry out with the resources they preserved.
+
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> attempted colonization takeover -> exhaustion within days -> Sylvan survives -> processing -> full exposure`
+
+This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. The exact number of days, spending beats, balance visibility, processing mechanics, and presentation choreography remain open; the phase lasts only a matter of days. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 ## Discovery ladder
 
 The exact scenes remain open, but Book One requires this information order:
@@ -119,3 +130,8 @@ Success is not simply Sylvan escaping or defeating Samuel. The presentation must
 - The public, private, and protected layers of the outcome presentation.
 - Whether the Daemon is present, compromised, silent, or capable of recognizing its own failure.
 - The final placements, remedies, privacy protections, and differentiated accountability for Samuel, Konrad, George, their inner circle, victims, and descendants.
+
+
+## Author clarification — simple acceptance of placement
+
+Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; they do not need to seize control or receive a new external victory package.

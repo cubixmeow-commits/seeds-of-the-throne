@@ -1,8 +1,16 @@
 ---
 type: qa
 status: active
-updated: 2026-09-06
+updated: 2026-09-09
 ---
+
+## Current reassessment questions - 2026-09-09
+
+The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
+
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. Begin with RW-01: what exact completed condition makes Samuel's formal separation from Sylvan inevitable?
+
+Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 
 # Questions
 

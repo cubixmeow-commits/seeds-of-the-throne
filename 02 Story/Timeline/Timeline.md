@@ -1,8 +1,20 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-05
+updated: 2026-09-09
 ---
+
+## Author-accepted terminal sequence - 2026-09-09
+
+After Sylvan refuses Samuel's final bargain and the process reaches its endpoint, Samuel is formally separated from Sylvan. Samuel loses all process-provided systems he used to attack Sylvan and receives **$15 million** to execute his plan independently.
+
+Samuel tries to take control of the colonization process. His obsession exhausts the allocation within days. When the balance reaches zero, he is processed immediately and his full conduct is exposed. There is no later deal, review trigger, or additional contest.
+
+Sylvan and Orzai then accept the placement they earned after successfully dealing with and separating from Samuel. Their plan is cheap and easy to carry out using only the resources they preserved.
+
+**Terminal order:** `failed bargain -> formal separation -> attack access removed -> $15 million independent attempt -> control obsession -> exhaustion within days -> processing -> full exposure -> accepted placement`
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
 # Timeline
 
