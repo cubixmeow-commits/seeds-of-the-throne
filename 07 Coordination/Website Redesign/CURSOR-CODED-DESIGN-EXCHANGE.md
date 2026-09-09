@@ -40,7 +40,7 @@ This is the durable communication channel for the coded website-design loop. The
 
 - **State:** awaiting-production-review
 - **Branch:** `codex/coded-design-lab-handoff`
-- **Commit:** `0f81cd3ff78b52ad4c91998358c967acfe9ee1d0`
+- **Commit:** `a1700ad573369641ba8ca4a0ef4c707f0817a97c`
 - **PR:** https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
 - **Pass completed:** Pale Signal production translation
 - **Production paths:**
@@ -66,7 +66,7 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Codex review
 
-- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `0c490d279a4877c017e2cfe5b2c5d39f725f7b7e` (selected Pale Signal implementation `302256d39a3d13b090f36139545433ad73664aba`, PR #7)
+- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `a1700ad573369641ba8ca4a0ef4c707f0817a97c` (selected Pale Signal implementation `302256d39a3d13b090f36139545433ad73664aba`, PR #7)
 - **Review state:** selected prototype clears Codex review-2; ready for the author's rendered prototype approval
 - **What works visibly:**
   - At 320–430px, the narrow infrastructure fragment now remains deliberately beside the opening copy without crushing its readable measure. The story consequence, primary action, and image all participate in the first screen.
