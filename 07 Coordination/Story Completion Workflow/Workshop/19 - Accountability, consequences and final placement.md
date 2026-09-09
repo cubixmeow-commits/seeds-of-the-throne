@@ -21,7 +21,7 @@ This packet supports the existing Story Completion Workflow. Its central resolut
 
 Samuel's last bounded move is a formal separation from Sylvan. He receives **$15 million** to execute his plan independently and loses access to every process-provided system he had used to attack Sylvan. Sylvan only has to survive while Samuel's obsession with taking control of the colonization process consumes the finite allocation in a matter of days. When the money reaches zero, Samuel is processed and his full conduct is exposed. There are then no further deals or moves. Exact restitution, victim privacy, descendant independence, and differentiated accountability remain open.
 
-After the process ends, Sylvan and Orzai use only the resources they preserved through it. Those resources are sufficient to implement their plan effectively, and their earned placement determines how they integrate into the larger colonization process. They do not require a new external victory package.
+After successfully dealing with Samuel and formally separating from him, Sylvan and Orzai accept their earned placement within the colonization process. Their plan is cheap and easy to carry out with the resources they preserved and requires no new external victory package.
 
 ## Relevant source notes
 
@@ -129,3 +129,8 @@ Website rebuild and verification:
 - Public atlas: `docs/colonization.html`, the matching source in `05 Public/Atlas/`, and the workshop projection.
 - Development Explorer: the relevant topic view, this source packet, and linked evidence/decision records.
 - [[07 QA/Decisions]], [[07 QA/Questions]], and [[07 Coordination/Weekly Synthesis/CURRENT-WEEK-INTAKE]]. Update [[07 Coordination/CURRENT-PICKUP]] and the current task only if the author accepts a workflow-relevant decision.
+
+
+## Author clarification — simple acceptance of placement
+
+Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; they do not need to seize control or receive a new external victory package.
