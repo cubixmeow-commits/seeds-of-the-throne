@@ -16,19 +16,25 @@ Samuel receives **$15 million** to attempt to execute his plan himself. He is no
 
 The final phase is therefore not another struggle in which Sylvan must seize control from Samuel. Samuel has finite independent resources and must demonstrate what he can accomplish without borrowed access, hidden attachment, or systems aimed through Sylvan.
 
-Sylvan's remaining requirement is survival. He does not have to defeat Samuel by reproducing Samuel's methods or by destroying him directly. He only has to remain unprocessed until Samuel's obsessions and choices exhaust the $15 million.
+Sylvan's remaining requirement is survival. He does not have to defeat Samuel by reproducing Samuel's methods or by destroying him directly. He only has to remain unprocessed until Samuel's obsessions and choices exhaust the $15 million. Samuel's obsession with taking control of the colonization process burns through the allocation in a matter of days.
 
 When Samuel runs out of money, he is processed. That terminal processing is also when his full conduct is exposed.
 
 ## Macro causal chain
 
-`formal separation -> $15 million terminal allocation -> attack-system access removed -> Samuel executes his plan independently -> Sylvan survives -> Samuel exhausts the money -> Samuel is processed -> full exposure`
+`formal separation -> $15 million terminal allocation -> attack-system access removed -> Samuel tries to seize the colonization process -> obsession exhausts the money within days -> Sylvan survives -> Samuel is processed -> full exposure`
 
 ## Story function
 
 Samuel's ending is self-destruction. The process creates a bounded, fair demonstration of his actual capability after removing the systems and attachments through which he claimed power. His obsession consumes the final resources intended to let him prove himself.
 
 Sylvan wins through survival, restraint, and refusal to become Samuel. Samuel supplies the evidence of his own failure.
+
+## Sylvan and Orzai's constructive endpoint
+
+When the process ends, Sylvan and Orzai need only the resources they have preserved and still possess to implement their plan effectively. They do not require a new external victory package. Their earned placement determines how they integrate into the larger colonization process.
+
+The ending therefore contrasts two uses of finite resources: Samuel rapidly consumes a terminal allocation trying to take control, while Sylvan and Orzai preserve enough through the process to build from the placement they earned.
 
 ## Supersession
 
@@ -41,4 +47,4 @@ This decision supersedes:
 
 ## Open implementation details
 
-The exact duration of the $15 million phase, spending sequence, account controls, visibility of the remaining balance, processing mechanics, and presentation choreography remain later-development questions. They must not alter the accepted macro result.
+The exact number of days, spending sequence, account controls, visibility of the remaining balance, processing mechanics, and presentation choreography remain later-development questions. The phase is established as lasting only a matter of days. They must not alter the accepted macro result.
