@@ -4,6 +4,14 @@ status: active
 updated: 2026-09-09
 ---
 
+## September 9 workflow and assessment reset
+
+The author retired the unfinished remainder of the old 27-task Story Completion sequence. Nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are not pending.
+
+The new governing assessment is [[07 QA/2026-09-09 - Current Story Reassessment]]. Current author development begins with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/01 - Book One terminal sequence|RW-01]] and reevaluates later modules after every accepted answer.
+
+The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
+
 ## September 9 ending clarification — rapid exhaustion and constructive integration
 
 Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Running out of money immediately triggers processing and full exposure.
@@ -71,7 +79,7 @@ All twenty workshop modules now have author-accepted results. Samuel, Konrad, an
 
 During the final years Samuel's influence contracts while Sylvan and Orzai's increases. The inner circle recognizes Konrad's deception by comparing his apparent command inside isolation with external reality. The literal Luminai-theft ending is superseded: Samuel scapegoats George, tries to preserve continuity through Samuel Jr., and offers Sylvan a customized version of the bargain that trapped Konrad. Samuel is finally neutralized when the process reaches irreversible conclusion and there are no deals and no more moves. Later-book order remains intentionally flexible and will be selected for entertainment and dramatic value.
 
-Source: [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]. SC-010 Question 7 remains active and unchanged.
+Source: [[01 Sessions/Daily/2026-09-06 - Workshop Modules 08-20 Batch Integration]]. The former SC-010 Question 7 is retired.
 
 
 ## Foundational integration — 2026-09-03
@@ -98,7 +106,7 @@ Foundation, human–AI integration architecture, dynastic character development,
 
 The vault is now explicitly a **development-first environment**. Use [[08 Story Loop/DEVELOPMENT-ORCHESTRATOR]] to move from scoped retrieval and [[08 Story Loop/GAP-ANALYZER|gap analysis]] through breadth-first alternatives, selective research, multiscale structure, lightweight characters, optional short prototypes, focused critics, and an author gate. Finished-novel prose is downstream. When story-form testing is useful, default to 500–1,500 word non-canon prototypes using [[08 Story Loop/DEVELOPMENT-PROTOTYPE-STYLE]], not polished manuscript chapters.
 
-Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. SC-010 Questions 5 and 6 are now accepted at macro depth: Sylvan uses bounded adversarial observation under decisive control, then reconstructs Samuel's repeated method through live behavior and historical evidence. Question 7 is the active author gate. Current Pickup remains the exact execution pointer.
+Five endgame research reports completed on 2026-08-26 now strengthen the active non-canon Creative Possibilities packet: ethical two-layer evidence, precommitted prediction records, protected matching before public common knowledge, multi-role human authorization, and stepwise public-ritual reversal. See [[04 Research/Findings/42-46 - Ethical Evidence Coordination Authorization and Public Ritual]]. SC-010 Questions 5 and 6 are now accepted at macro depth: Sylvan uses bounded adversarial observation under decisive control, then reconstructs Samuel's repeated method through live behavior and historical evidence. The former Question 7 is retired. Current Pickup remains the exact execution pointer.
 
 ## Active development handoff — 2026-08-21
 
