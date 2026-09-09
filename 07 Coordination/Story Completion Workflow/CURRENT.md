@@ -9,6 +9,7 @@ updated: 2026-09-09
 The old 27-task Macro Shape sweep is retired. Its nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are no longer pending author work.
 
 - **Current method:** adaptive reassessment workshop
+- **Current sweep:** Reassessment
 - **Assessment status:** COMPLETE
 - **Current workshop:** [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]]
 - **Current task:** RW-01 - Book One terminal sequence
