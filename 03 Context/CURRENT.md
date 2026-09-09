@@ -8,6 +8,10 @@ updated: 2026-09-08
 
 ## September 8 website visual redesign
 
+The Hidden Planetary Infrastructure redesign and its mobile-overflow repair were merged and deployed. The author confirmed that the repaired layout functions on mobile, then rejected the visual treatment: dominant black, yellow/antique-gold accents, boxed archive styling, traditional typography, and detached poster-image composition do not provide an acceptable look.
+
+The next design phase is an isolated coded design lab, not another production restyle. Cursor must build two functioning responsive directions—Planetary Dusk and Pale Signal—using real content and representative interaction. The author will review the working pages before production implementation. The workflow is locked in `skills/design-seeds-site/SKILL.md`; the assignment is [[07 Coordination/2026-09-08 - Cursor Coded Website Design Lab]]. Cursor and Codex exchange pass reports and reviews through [[07 Coordination/Website Redesign/CURSOR-CODED-DESIGN-EXCHANGE]] so the author can coordinate from a phone using one-line prompts. The prior Hidden Planetary Infrastructure structure remains useful, but its deployed palette and archive treatment are rejected.
+
 A containment-archive visual redesign of the `docs/` story atlas and Project Explorer was merged to `main` and deployed for author review. Review found that multiple Project Explorer links appeared to lead to the same place, the mobile interface had no Project Explorer hamburger menu, and related navigation, archive, and stylesheet integration issues required a focused repair.
 
 That repair was merged in PR #4 and deployed successfully. The author confirmed that the mobile result is much better. See [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]. Approved public wording remains locked.

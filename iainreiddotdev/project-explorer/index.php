@@ -176,12 +176,37 @@ if (
 $data = portfolio();
 $identity = $data['identity'];
 $links = $data['links'];
-$pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260908-mobile-overflow-1';
+$assetVersion = '20260909-pale-repair';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
+$currentViewMeta = $explorerViews[$view];
+$routeHeaders = [
+    'sources' => [
+        'title' => 'Story sources',
+        'lede' => 'Open the public story pages and the reviewed Markdown behind them.',
+    ],
+    'evidence' => [
+        'title' => 'Decisions and evidence',
+        'lede' => 'Trace assessments, research boundaries, contradictions, and accepted decisions.',
+    ],
+    'workshop' => [
+        'title' => 'Story workshop',
+        'lede' => 'Work through one missing story problem at a time.',
+    ],
+    'progress' => [
+        'title' => 'Story progress',
+        'lede' => 'See what the story already has and what it still needs.',
+    ],
+    'files' => [
+        'title' => 'Story files',
+        'lede' => 'Browse the notes, research, decisions, and workshops used to develop the series.',
+    ],
+];
+$pageTitle = ($view === 'overview'
+    ? 'Project Explorer'
+    : $currentViewMeta['label'] . ' · Project Explorer') . ' | Seeds of the Throne';
 
 function explorer_format_bytes(?int $bytes): string
 {
@@ -206,8 +231,8 @@ function explorer_format_bytes(?int $bytes): string
     <meta property="og:description" content="<?= e($pageDescription) ?>">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= e($canonical) ?>">
-    <meta name="theme-color" content="#f3eee4" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#0b0c0b" media="(prefers-color-scheme: dark)">
+    <meta name="theme-color" content="#dbe4e7" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#14232d" media="(prefers-color-scheme: dark)">
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/site.css?v=<?= e($assetVersion) ?>">
     <link rel="stylesheet" href="assets/project-explorer.css?v=<?= e($assetVersion) ?>">
@@ -242,9 +267,14 @@ function explorer_format_bytes(?int $bytes): string
                 aria-expanded="false"
                 aria-controls="product-nav"
                 aria-label="Open Project Explorer menu">
-                <span>Menu</span>
+                <span class="product-nav__toggle-label">Menu</span>
+                <span class="product-nav__here" aria-hidden="true"><?= e($currentViewMeta['label']) ?></span>
                 <span aria-hidden="true">☰</span>
             </button>
+            <p class="explorer-route-chip" aria-current="page">
+                <span>Now viewing</span>
+                <strong><?= e($currentViewMeta['label']) ?></strong>
+            </p>
             <nav class="product-nav" id="product-nav" data-product-nav aria-label="Project Explorer">
                 <?php foreach ($explorerViews as $key => $meta): ?>
                     <?php
@@ -277,19 +307,21 @@ function explorer_format_bytes(?int $bytes): string
     </header>
 
     <main id="main">
+        <?php if ($view === 'overview'): ?>
         <section class="explorer-hero" aria-labelledby="explorer-title">
             <div class="explorer-hero__content wrap">
-                <p class="explorer-hero__label">Project Explorer</p>
+                <p class="explorer-hero__label">Project Explorer · working sheet</p>
                 <h1 id="explorer-title">Seeds of the Throne</h1>
                 <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="<?= e(explorer_view_url('overview')) ?>">
+                    <a class="archive-cta archive-cta--primary" href="#overview-view">
                         <span>See how the story is being built</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
                     <a class="archive-cta" href="<?= e(explorer_view_url('files', ['file' => $requested !== '' ? $requested : 'README.md'])) ?>">Browse the story files</a>
                 </div>
             </div>
+            <div class="explorer-hero__aside">
             <figure class="explorer-hero__frame">
                 <img
                     class="explorer-hero__image"
@@ -298,13 +330,26 @@ function explorer_format_bytes(?int $bytes): string
                     width="1774"
                     height="887"
                     fetchpriority="high">
-                <figcaption class="explorer-hero__caption">Working instrument. Evidence language without cinematic key art.</figcaption>
             </figure>
+            <p class="explorer-hero__caption">Recovered records held against the working evidence.</p>
+            </div>
         </section>
+        <?php else: ?>
+        <?php $route = $routeHeaders[$view]; ?>
+        <section class="explorer-route wrap" aria-labelledby="explorer-route-title">
+            <p class="explorer-route__label">Project Explorer</p>
+            <p class="explorer-route__current"><?= e($currentViewMeta['label']) ?></p>
+            <h1 id="explorer-route-title"><?= e($route['title']) ?></h1>
+            <p class="explorer-route__lede"><?= e($route['lede']) ?></p>
+        </section>
+        <?php endif; ?>
 
+        <?php if (in_array($view, ['overview', 'sources', 'evidence', 'workshop'], true)): ?>
         <?php require __DIR__ . '/workbench.php'; ?>
+        <?php endif; ?>
 
-        <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">
+        <?php if ($view === 'overview' || $view === 'progress'): ?>
+        <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title"<?= $view === 'progress' ? ' data-active-destination="true"' : '' ?>>
             <div class="wrap">
                 <header class="explorer-progress__header">
                     <p class="archive-intro__index">Current story development</p>
@@ -367,8 +412,11 @@ function explorer_format_bytes(?int $bytes): string
                 <?php endif; ?>
             </div>
         </section>
+        <?php endif; ?>
 
-        <section class="explorer-archive" id="archive" aria-labelledby="archive-title"<?= $view === 'files' ? ' data-active-destination="true"' : '' ?>>
+        <?php if ($view === 'overview' || $view === 'files'): ?>
+        <section class="explorer-archive" id="archive" aria-labelledby="<?= $view === 'files' ? 'explorer-route-title' : 'archive-title' ?>"<?= $view === 'files' ? ' data-active-destination="true"' : '' ?>>
+            <?php if ($view !== 'files'): ?>
             <header class="archive-intro wrap">
                 <p class="archive-intro__index">Story files</p>
                 <div>
@@ -376,6 +424,10 @@ function explorer_format_bytes(?int $bytes): string
                     <p>Search <?= e((string) count($files)) ?> documents about the world, characters, plot, research, decisions, workshops, and earlier ideas.</p>
                 </div>
             </header>
+            <?php else: ?>
+            <h2 id="archive-title" class="visually-hidden">Browse the files used to develop the story.</h2>
+            <p class="wrap explorer-files-count">Search <?= e((string) count($files)) ?> documents about the world, characters, plot, research, decisions, workshops, and earlier ideas.</p>
+            <?php endif; ?>
 
             <div class="explorer-shell wrap" data-archive-shell>
             <div class="explorer-document-column">
@@ -500,6 +552,7 @@ function explorer_format_bytes(?int $bytes): string
             </aside>
             </div>
         </section>
+        <?php endif; ?>
     </main>
 
     <footer class="site-footer">

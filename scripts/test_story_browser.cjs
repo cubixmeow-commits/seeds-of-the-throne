@@ -6,7 +6,7 @@ const base = process.env.SEEDS_TEST_URL || 'http://127.0.0.1:8766';
 const out = process.env.SEEDS_TEST_OUTPUT || '/tmp/seeds-browser-review';
 fs.mkdirSync(out, { recursive: true });
 
-const VIEWPORTS = [320, 375, 430, 768, 1024, 1440];
+const VIEWPORTS = [320, 375, 390, 430, 768, 1024, 1440];
 const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'timeline', 'research', 'archive', 'workshop', 'todo', 'ideas', 'visuals']
   .map((p) => `/docs/${p}.html`);
 
@@ -169,14 +169,14 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await page.keyboard.press('Escape');
   if (await page.locator('[data-menu-button]').getAttribute('aria-expanded') !== 'false') errors.push('story menu failed to close');
 
-  // Homepage Hidden Planetary Infrastructure composition.
+  // Homepage Pale Signal masthead composition.
   for (const width of [320, 430, 1024, 1440]) {
     await page.setViewportSize({ width, height: 1000 });
     await page.goto(base + '/docs/index.html', { waitUntil: 'domcontentloaded' });
     const hero = await page.evaluate(() => {
-      const picture = document.querySelector('.planetary-hero picture');
-      const img = document.querySelector('.planetary-hero picture img');
-      const source = document.querySelector('.planetary-hero picture source');
+      const picture = document.querySelector('.signal-masthead picture');
+      const img = document.querySelector('.signal-masthead picture img');
+      const source = document.querySelector('.signal-masthead picture source');
       const h1 = document.querySelectorAll('h1');
       const cls = document.body.className;
       const shift = img ? (!img.getAttribute('width') || !img.getAttribute('height')) : true;
@@ -191,12 +191,14 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
         h1Count: h1.length,
         pageHome: cls.includes('page-home'),
         missingDims: shift,
+        hasAnnotation: !!document.querySelector('.signal-annotation'),
       };
     });
     if (!hero.hasPicture || !hero.hasSource) errors.push(`homepage picture missing at ${width}`);
     if (!hero.pageHome) errors.push(`homepage missing page-home at ${width}`);
     if (hero.h1Count !== 1) errors.push(`homepage h1 count ${hero.h1Count} at ${width}`);
     if (hero.missingDims) errors.push(`homepage hero missing intrinsic dimensions at ${width}`);
+    if (!hero.hasAnnotation) errors.push(`homepage missing signal annotation at ${width}`);
     if (!hero.imgSrc || !hero.imgSrc.includes('planetary-cutaway-hero-desktop-v1.webp')) {
       errors.push(`homepage desktop hero src missing at ${width}`);
     }
@@ -211,7 +213,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
     }
     const bands = await page.locator('.editorial-band').count();
     if (bands < 4) errors.push(`homepage editorial bands incomplete at ${width}`);
-    await assertNoOverflow(width, '/docs/index.html#hpi');
+    await assertNoOverflow(width, '/docs/index.html#pale-signal');
   }
 
   // Project Explorer quieter hero evidence image.

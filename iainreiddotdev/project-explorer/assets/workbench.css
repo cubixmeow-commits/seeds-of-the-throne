@@ -1,21 +1,21 @@
 .development-workspace {
-  --void: #050504;
-  --charcoal: #14110e;
-  --night: #050504;
-  --night-2: #14110e;
-  --night-3: #1c1814;
-  --ink: #f3eee4;
-  --muted: #b7a78c;
-  --gold: #c28a32;
-  --cyan: #67aee8;
-  --cyan-wash: #102030;
-  --green: #71c987;
-  --line: rgba(243, 238, 228, .12);
-  --line-strong: rgba(194, 138, 50, .38);
-  --serif: "Iowan Old Style", Palatino, Georgia, serif;
-  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
-  --radius: 2px;
-  background: var(--night-2);
+  --void: #dbe4e7;
+  --charcoal: #eef2f2;
+  --night: #dbe4e7;
+  --night-2: #eef2f2;
+  --night-3: #e4eaec;
+  --ink: #132734;
+  --muted: #526b76;
+  --gold: #258b95;
+  --cyan: #258b95;
+  --cyan-wash: color-mix(in srgb, #258b95 14%, #dbe4e7);
+  --green: #2f8f78;
+  --line: rgba(37, 139, 149, .22);
+  --line-strong: rgba(37, 139, 149, .4);
+  --serif: Futura, "Avenir Next", "Century Gothic", ui-sans-serif, system-ui, sans-serif;
+  --mono: ui-monospace, "SFMono-Regular", Consolas, monospace;
+  --radius: 0;
+  background: transparent;
   color: var(--ink);
   padding: 2rem 0 3rem;
   margin-block: 0;
@@ -124,26 +124,30 @@
 .development-workspace .packet-detail summary { cursor: pointer; min-height: 2.75rem; color: var(--gold); }
 .development-workspace .table-scroll { overflow: auto; max-width: 100%; }
 
-:root[data-theme="light"] .development-workspace {
-  --night: #f4efe6;
-  --night-2: #ebe4d6;
-  --night-3: #fffaf0;
-  --ink: #1c1914;
-  --muted: #5c574d;
-  --line: rgba(28, 25, 20, .14);
-  --line-strong: rgba(141, 115, 64, .4);
-  --cyan-wash: #d7e7e7;
+:root[data-theme="dark"] .development-workspace {
+  --night: #14232d;
+  --night-2: #1a2c38;
+  --night-3: #203440;
+  --ink: #e6eef2;
+  --muted: #9db0ba;
+  --line: rgba(127, 208, 216, .22);
+  --line-strong: rgba(127, 208, 216, .4);
+  --cyan-wash: color-mix(in srgb, #7fd0d8 14%, #1a2c38);
+  --gold: #7fd0d8;
+  --cyan: #7fd0d8;
 }
-@media (prefers-color-scheme: light) {
-  :root:not([data-theme="dark"]) .development-workspace {
-    --night: #f4efe6;
-    --night-2: #ebe4d6;
-    --night-3: #fffaf0;
-    --ink: #1c1914;
-    --muted: #5c574d;
-    --line: rgba(28, 25, 20, .14);
-    --line-strong: rgba(141, 115, 64, .4);
-    --cyan-wash: #d7e7e7;
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .development-workspace {
+    --night: #14232d;
+    --night-2: #1a2c38;
+    --night-3: #203440;
+    --ink: #e6eef2;
+    --muted: #9db0ba;
+    --line: rgba(127, 208, 216, .22);
+    --line-strong: rgba(127, 208, 216, .4);
+    --cyan-wash: color-mix(in srgb, #7fd0d8 14%, #1a2c38);
+    --gold: #7fd0d8;
+    --cyan: #7fd0d8;
   }
 }
 @media (max-width: 40.625rem) {

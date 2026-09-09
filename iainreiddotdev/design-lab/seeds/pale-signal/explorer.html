@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#dbe4e7">
+  <title>Pale Signal · Project Explorer | Seeds of the Throne</title>
+  <meta name="description" content="The Project Explorer shows how conversations and story ideas are organized into characters, a world, a timeline, and a finished series.">
+  <link rel="stylesheet" href="design.css">
+  <script src="prototype.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><b aria-hidden="true">ST</b><span>Seeds of the Throne</span></a>
+    <button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" data-site-nav aria-label="Prototype navigation">
+      <a href="story.html">Story</a>
+      <a href="explorer.html" aria-current="page">Overview</a>
+      <a href="#task">Current task</a>
+      <a href="#files">Files</a>
+      <a href="../index.html">Lab index</a>
+    </nav>
+  </header>
+
+  <main id="main" class="ex-shell">
+    <section class="sheet" aria-labelledby="explorer-title">
+      <nav class="sheet__rail" aria-label="Working sheet anchors">
+        <a href="#overview" aria-current="true">Overview</a>
+        <a href="#task">Task</a>
+        <a href="#chain">Chain</a>
+        <a href="#files">Files</a>
+      </nav>
+
+      <div class="sheet__main" id="overview">
+        <p class="kicker">Project Explorer · working sheet</p>
+        <h1 id="explorer-title">Seeds of the Throne</h1>
+        <p class="lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
+        <p class="cta-row">
+          <a class="btn" href="#task">See how the story is being built</a>
+          <a class="btn ghost" href="story.html">Open the story</a>
+        </p>
+
+        <div class="flow">
+          <article id="task">
+            <p class="kicker">Current premise</p>
+            <h2>The colonization process trains participants and contains dangerous criminals.</h2>
+            <p>Humanity developed the Luminai inside an interactive colonization environment.</p>
+            <p class="kicker" style="margin-top:1rem">Current task</p>
+            <h2>Explain how Sylvan can expose Samuel while Samuel still believes he can regain control.</h2>
+            <p>Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
+          </article>
+          <article id="chain">
+            <p class="kicker">Conversation to finished work</p>
+            <ol aria-label="Authorship sequence">
+              <li><span>01</span><div><strong>Conversation</strong><p>Ordinary language is captured without forcing premature structure.</p></div></li>
+              <li><span>02</span><div><strong>Organized evidence</strong><p>Notes become characters, world rules, timeline events, and open questions.</p></div></li>
+              <li><span>03</span><div><strong>Author decision</strong><p>The workshop asks one high-leverage question at a time.</p></div></li>
+              <li><span>04</span><div><strong>Propagation</strong><p>Accepted answers update the places they belong before scenes are written.</p></div></li>
+            </ol>
+          </article>
+          <article id="files" class="path-block">
+            <p class="kicker">Deliberate files entry</p>
+            <h2>Repository evidence stays secondary</h2>
+            <p>Browse supporting material after the current task is clear. Long paths must remain readable on narrow screens.</p>
+            <code>07 Coordination/Story Completion Workflow/Workshop/11 - Sylvan Orzai Meeting Separation and House Path.md</code>
+            <p class="cta-row" style="margin-top:1rem">
+              <a class="btn ghost" href="#files">Browse files deliberately</a>
+            </p>
+          </article>
+        </div>
+      </div>
+
+      <aside class="sheet__aside" aria-label="Evidence fragment">
+        <figure class="fragment__frame">
+          <img src="../../../../docs/assets/images/recovered-records-evidence-v1.webp" alt="Interpretive still life of recovered records aligned against hidden-system evidence." width="1774" height="887" fetchpriority="high">
+        </figure>
+        <p class="annotation">Recovered records held against the working evidence.</p>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <a href="../index.html">Design lab index</a>
+    <a href="story.html">Story</a>
+    <span>Pale Signal · design lab</span>
+  </footer>
+</body>
+</html>

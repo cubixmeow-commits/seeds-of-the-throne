@@ -36,8 +36,9 @@ Each skill name uses lowercase hyphenated words. Each `SKILL.md` begins with YAM
 - [`write-seeds-prose`](write-seeds-prose/SKILL.md): modular story-writing system for scenes and chapters, including character voice, dialogue, exposition, suspense, controlled human variance, development and line editing, development-residue cleanup, pressure-turn diagnosis, preference routing, anti-AI checks, research/question triage, customizable style controls, a 100-point evaluation rubric, and regression benchmarks while preserving author and canon authority.
 - [`update-public-atlas`](update-public-atlas/SKILL.md): publish approved developments to the static story atlas and verify the result.
 - [`create-seeds-images`](create-seeds-images/SKILL.md): create, evaluate, and store consistent character art and story imagery through a model-neutral visual registry and approved reference library.
+- [`design-seeds-site`](design-seeds-site/SKILL.md): design, prototype, implement, and visually review the story atlas and Project Explorer through an author-gated coded-prototype workflow.
 
-The initial story-workflow set was structurally validated and forward-tested on 2026-08-11. The image system was added and validated on 2026-08-12. The coaching skill was added on 2026-08-15. The prose skill was expanded into a modular writing and regression-testing system on 2026-08-18 and refined with controlled human variance on 2026-08-19. Test results are recorded in `07 QA/Shared Skill Tests.md`.
+The initial story-workflow set was structurally validated and forward-tested on 2026-08-11. The image system was added and validated on 2026-08-12. The coaching skill was added on 2026-08-15. The prose skill was expanded into a modular writing and regression-testing system on 2026-08-18 and refined with controlled human variance on 2026-08-19. The coded website-design skill was added on 2026-09-08 after the author rejected a prose-and-mockup-led visual implementation. Test results are recorded in `07 QA/Shared Skill Tests.md`.
 
 ## Creating a skill
 

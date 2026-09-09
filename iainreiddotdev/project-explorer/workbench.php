@@ -35,9 +35,15 @@ $activeMeta = $workbenchViews[$activeWorkbench];
 ?>
 <section class="development-workspace wrap" id="<?= e($activeMeta['id']) ?>" aria-labelledby="workbench-title" data-explorer-view="<?= e($activeWorkbench) ?>">
   <header class="workspace-intro">
+    <?php if ($activeWorkbench === 'overview'): ?>
     <p>Story development tools</p>
     <h2 id="workbench-title"><?= e($activeMeta['title']) ?></h2>
     <p><?= e($activeMeta['lede']) ?></p>
+    <?php else: ?>
+    <p>Story development tools · <?= e(['sources' => 'Story', 'evidence' => 'Decisions', 'workshop' => 'Workshop'][$activeWorkbench] ?? $activeWorkbench) ?></p>
+    <h2 id="workbench-title"><?= e($activeMeta['title']) ?></h2>
+    <p><?= e($activeMeta['lede']) ?></p>
+    <?php endif; ?>
   </header>
   <p class="workspace-notice">This is a public, read-only look at the real project, so it contains full spoilers. You can try the workshop, but your draft stays in this browser unless you export it.</p>
   <?php if ($activeWorkbench === 'overview'): ?>
