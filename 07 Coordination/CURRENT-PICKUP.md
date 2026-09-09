@@ -9,7 +9,7 @@ scope: single current pickup point
 
 Samuel's obsession with taking control of the colonization process burns through his **$15 million** terminal allocation in a matter of days. Exhaustion immediately triggers processing and full exposure.
 
-Sylvan and Orzai need only the resources they preserved through the process to implement their plan effectively. Their earned placement determines how they integrate into the larger colonization process; no new external victory package is required.
+Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; no new external victory package is required.
 
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
