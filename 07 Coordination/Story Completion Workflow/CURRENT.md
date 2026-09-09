@@ -1,32 +1,31 @@
 ---
 type: workflow-state
 status: active
-updated: 2026-09-06
+updated: 2026-09-09
 ---
 
-# Current Story Completion State
+# Current Story Development State
 
-## Supporting workshop, not an answered gate
+The old 27-task Macro Shape sweep is retired. Its nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are no longer pending author work.
 
-The [[07 Coordination/Story Completion Workflow/Workshop/README|September 5 workshop]] expands dependency-aware brainstorming. All twenty modules now have author-accepted results, including intentional deferrals recorded as open mechanics. The workshop has not advanced any story-completion checkbox. Resume SC-010 Question 7 whenever the author returns to that workflow thread.
-
-Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
-
-
-- **Current sweep:** Macro Shape
-- **Sweep status:** IN-PROGRESS
-- **Current task:** SC-010 — Build an endgame setup coverage matrix
+- **Current method:** adaptive reassessment workshop
+- **Assessment status:** COMPLETE
+- **Current workshop:** [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]]
+- **Current task:** RW-01 - Book One terminal sequence
 - **Current loop phase:** AUTHOR-GATE
-- **Completed at this depth:** 9 / 27
-- **Blocked tasks:** 0 (dependencies are sequencing guidance until a task is actively evaluated)
-- **Next required author action:** answer SC-010 Question 7: after bounded adversarial observation and repeated-pattern reconstruction, what is the next major endgame-relevant capability, rule, or information skill that must be demonstrated before the outcome presentation depends on it?
+- **Completed at this depth:** 0 / 10
+- **Historical workflow:** 9 of 27 completed before retirement
+
+## Why the workflow changed
+
+The 27-task set was designed for an earlier version of the story. Continuing it produced questions contradicted or overtaken by newer decisions. The replacement begins from the accepted terminal chain and reevaluates dependencies after every answer.
 
 ## Resume
 
-1. Read [[WORKFLOW]].
-2. Open [[TASK-REGISTRY]] and `Tasks/SC-010.md`.
-3. Use `Templates/macro-pass.md`.
-4. Stop at Question 7; do not infer an answer.
-5. Continue horizontally only after SC-010 has a recorded macro result or explicit blocked state.
+1. Read [[07 QA/2026-09-09 - Current Story Reassessment]].
+2. Open [[07 Coordination/Story Completion Workflow/Reassessment Workshop/01 - Book One terminal sequence]].
+3. Ask only its central author gate.
+4. Record the answer in a dated session.
+5. Reassess whether later modules remain necessary before continuing.
 
-SC-001 through SC-009 are complete at Macro Shape. Do not deepen them before all 27 active tasks have received the same sweep.
+The September 5 twenty-module workshop remains completed historical development support.
