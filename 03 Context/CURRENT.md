@@ -4,6 +4,15 @@ status: active
 updated: 2026-09-09
 ---
 
+## Author-accepted terminal separation — 2026-09-09
+
+At the end of the process, Samuel is formally separated from Sylvan and receives **$15 million** to execute his plan independently. He is no longer attached to Sylvan and loses access to every process-provided system he had been using to attack him.
+
+Sylvan's final requirement is survival, not a new seizure of control. Samuel's obsessions consume the finite allocation. When the money is exhausted, Samuel is processed, and that terminal processing exposes his full conduct.
+
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> independent execution -> Sylvan survives -> exhaustion -> processing -> full exposure`
+
+This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. Exact duration, spending beats, balance visibility, processing mechanics, and presentation choreography remain open. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 # Current
 
 ## September 9 website Version 1 baseline
