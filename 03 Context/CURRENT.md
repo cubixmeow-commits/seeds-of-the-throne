@@ -1,22 +1,20 @@
 ---
 type: context
 status: active
-updated: 2026-09-08
+updated: 2026-09-09
 ---
 
 # Current
 
-## September 8 website visual redesign
+## September 9 website Version 1 baseline
 
-The Hidden Planetary Infrastructure redesign and its mobile-overflow repair were merged and deployed. The author confirmed that the repaired layout functions on mobile, then rejected the visual treatment: dominant black, yellow/antique-gold accents, boxed archive styling, traditional typography, and detached poster-image composition do not provide an acceptable look.
+**Pale Signal is the approved Version 1 production design for the Story atlas and Project Explorer.** PR #7 was reviewed, repaired, merged into `main`, deployed, and approved by the author on both mobile and desktop.
 
-The next design phase is an isolated coded design lab, not another production restyle. Cursor must build two functioning responsive directions—Planetary Dusk and Pale Signal—using real content and representative interaction. The author will review the working pages before production implementation. The workflow is locked in `skills/design-seeds-site/SKILL.md`; the assignment is [[07 Coordination/2026-09-08 - Cursor Coded Website Design Lab]]. Cursor and Codex exchange pass reports and reviews through [[07 Coordination/Website Redesign/CURSOR-CODED-DESIGN-EXCHANGE]] so the author can coordinate from a phone using one-line prompts. The prior Hidden Planetary Infrastructure structure remains useful, but its deployed palette and archive treatment are rejected.
+The approval covers the rendered system as a whole: the mineral gray-blue field, deep blue ink, sea-glass/cyan system labels, restrained coral signals, asymmetrical editorial Story composition, integrated imagery, denser working-sheet Explorer, immediate mobile route identity, clear hierarchy, and readable public voice. The Story atlas and Project Explorer share one identity while retaining different purposes.
 
-A containment-archive visual redesign of the `docs/` story atlas and Project Explorer was merged to `main` and deployed for author review. Review found that multiple Project Explorer links appeared to lead to the same place, the mobile interface had no Project Explorer hamburger menu, and related navigation, archive, and stylesheet integration issues required a focused repair.
+All future public pages, Explorer routes, and related features must extend this baseline rather than restarting the visual language. Preserve the mobile and desktop behavior, plain-language explanation, visible cause and effect, distinct destinations, menus, archive browser, Workshop, Files state, theme state, accessibility, text scaling, and overflow protections. A replacement direction requires a new isolated coded-prototype cycle and direct author approval before production implementation.
 
-That repair was merged in PR #4 and deployed successfully. The author confirmed that the mobile result is much better. See [[07 Coordination/2026-09-08 - Cursor Project Explorer Navigation Repair]]. Approved public wording remains locked.
-
-The author selected **Hidden Planetary Infrastructure** for the next redesign: a real surface civilization above concealed planet-scale systems, combined with recovered-record evidence language. Implementation is on branch `cursor/hidden-planetary-infrastructure-redesign-e541` (PR #5) with status `implemented-for-review`. See [[07 Coordination/2026-09-08 - Cursor Hidden Planetary Infrastructure Website Redesign]] and [[07 Coordination/Website Redesign/2026-09-08 - Hidden Planetary Infrastructure Asset Manifest]]. The images remain non-canon visual interpretations. Resume story questions from [[07 Coordination/CURRENT-PICKUP]]. Story-development state and author gates below are unchanged.
+The earlier Hidden Planetary Infrastructure black/yellow archive treatment remains rejected. Planetary Dusk remains an unselected design-lab prototype, not a production direction. The durable design rules are in `skills/design-seeds-site/SKILL.md` and [[skills/design-seeds-site/references/visual-identity-boundaries|visual identity boundaries]]. The completed exchange is [[07 Coordination/Website Redesign/CURSOR-CODED-DESIGN-EXCHANGE]].
 
 ## September 8 public website voice and purpose
 
