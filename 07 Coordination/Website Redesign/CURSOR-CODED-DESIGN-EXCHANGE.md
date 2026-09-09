@@ -1,6 +1,6 @@
 ---
 type: agent-exchange
-status: awaiting-production-review
+status: awaiting-production-repair
 updated: 2026-09-09
 active_branch: codex/coded-design-lab-handoff
 active_pr: https://github.com/cubixmeow-commits/seeds-of-the-throne/pull/7
@@ -34,7 +34,9 @@ This is the durable communication channel for the coded website-design loop. The
 7. `prototype-approved` — the author approved the rendered prototype.
 8. `awaiting-production-implementation` — Cursor is translating the approved system into production.
 9. `awaiting-production-review` — Codex reviews production pages and regressions.
-10. `ready-to-merge` — checks and author review are complete; explicit merge permission is still required.
+10. `awaiting-production-repair` — Cursor repairs blocking production-review findings without changing the approved direction.
+11. `awaiting-production-review-2` — Codex verifies the focused production repair and refreshed evidence.
+12. `ready-to-merge` — checks and author review are complete; explicit merge permission is still required.
 
 ## Cursor pass report
 
@@ -66,25 +68,26 @@ This is the durable communication channel for the coded website-design loop. The
 
 ## Codex review
 
-- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `a1700ad573369641ba8ca4a0ef4c707f0817a97c` (selected Pale Signal implementation `302256d39a3d13b090f36139545433ad73664aba`, PR #7)
-- **Review state:** selected prototype clears Codex review-2; ready for the author's rendered prototype approval
+- **Reviewed branch/commit:** `codex/coded-design-lab-handoff` at `dc415c211767bf777881e0bba072e8a39e5ef422` (production implementation `a1700ad573369641ba8ca4a0ef4c707f0817a97c`, PR #7)
+- **Review state:** blocking production repair required; not ready to merge
 - **What works visibly:**
-  - At 320–430px, the narrow infrastructure fragment now remains deliberately beside the opening copy without crushing its readable measure. The story consequence, primary action, and image all participate in the first screen.
-  - Story and Explorer clearly belong to one system without becoming the same page. Story uses paced editorial revelation; Explorer uses a denser working-sheet rhythm with a cropped evidence field, rail navigation, current premise, and current task.
-  - The mineral gray-blue field, deep ink, cyan labels, and restrained coral signal feel intentional and remain far from the rejected black/yellow archive treatment.
-  - The process-facing captions are gone. “Infrastructure held beneath ordinary life” and “Recovered records held against the working evidence” now support the story and product idea.
-  - The normal mobile, tablet, and desktop compositions remain coherent in both Chromium and WebKit captures. The 200% views become appropriately large, preserve controls and content, and report no page-level overflow; the Explorer rail wraps but remains understandable.
-  - The selected pass changed only Pale Signal HTML/CSS, the prototype test, evidence, QA, and exchange. Planetary Dusk and all production surfaces remained untouched.
-- **Blocking design problems:** none
-- **Blocking responsive or functional problems:** none found in the supplied 48 rendered captures and automated results
-- **Non-blocking production notes:**
-  1. Playwright WebKit is strong preflight evidence but not a physical iPhone. Preserve a final real-device check after production translation and before deployment.
-  2. Keep the selected asymmetry and crop behavior during production translation; do not simplify it back into full-width cards or a detached poster.
-  3. At extreme 200% zoom, navigation may wrap and the site title may ellipsize. This is acceptable while every destination and control remains available.
-  4. Translate the system into existing production navigation, theme state, archive browser, Workshop behavior, and source-linked content without losing those functions.
-- **What must remain unchanged:** selected Pale Signal identity; author-approved public copy; distinct Story and Explorer purposes; mobile-first composition; accessible menu/focus/reduced-motion behavior; repaired navigation destinations; no black/yellow, faux-medieval, generic dashboard, or poster-after-copy regression.
-- **Recommendation to the author:** approve the refined Pale Signal coded prototype for production translation. It now has a coherent design language at phone and desktop sizes and a clear product distinction between story presentation and the authoring instrument.
-- **Author decision needed:** review the refined Pale Signal renders and state either “I approve the current coded prototype for production translation” or list any final visual correction. Approval does not itself authorize merging or deployment.
+  - The desktop Story atlas and Project Explorer carry the approved Pale Signal identity: mineral field, deep ink, cyan labels, restrained coral signals, editorial asymmetry, and a denser working-sheet Explorer.
+  - Story subpages are clean and readable, and the Explorer retains its functional tools rather than becoming a decorative mockup.
+  - Cursor kept the builders and templates as the source of truth, preserved the selected prototype, and reported passing navigation, Workshop, Files, archive, theme, storage, overflow, WebKit, and 200% checks.
+- **Blocking design and responsive findings:**
+  1. **Mobile Explorer destinations are not visibly distinct before scrolling.** At 320×568, `320x568-pe-overview.png`, `320x568-pe-files.png`, and `320x568-pe-workshop.png` show effectively the same first viewport. The 390px captures have the same problem. `index.php` renders the large shared `.explorer-hero` before every view, while the closed mobile header only says “Menu.” The links technically change routes, but to a phone user they still appear to lead to the same place—the original defect this project began by repairing.
+  2. **The Story evidence was captured during the entrance fade.** The capture script waits 120ms after `DOMContentLoaded`, while `.signal-masthead__copy` runs a 550ms `rise-in` opacity animation. The supplied home captures therefore show essential title, premise, consequence, and actions in a washed-out intermediate state rather than the settled design. This makes the evidence invalid and produces a poor first-paint experience.
+  3. **Dark-theme evidence does not prove the underlying page contrast.** The supplied theme capture leaves the mobile menu open, so the main page is dimmed. A closed-menu dark-theme capture is required; if the underlying page remains pale or low contrast after closing, repair it.
+- **Required repair:**
+  1. Keep the full Explorer hero on Overview only. On Files, Workshop, Story/sources, Decisions/evidence, and Progress, replace it with a compact route-specific context/header (or remove it) so the route’s own heading and useful content are visible within the first 568px at 320px wide.
+  2. Make the active destination obvious with the menu closed. Preserve the existing accessible hamburger and navigation behavior.
+  3. Remove the nonessential opacity entrance animation from essential masthead copy (preferred), or otherwise guarantee that both first paint and evidence show fully opaque readable content. Re-capture only after the page is settled.
+  4. Add closed-menu dark-theme evidence and verify readable computed colors/contrast on the main field.
+  5. Re-run the production browser suite, builder/source consistency checks, `git diff --check`, Story checks, and refreshed evidence at the required widths. The 320px and 390px Overview/Files/Workshop captures must be unmistakably different before scroll.
+- **What must remain unchanged:** approved Pale Signal identity and public copy; distinct Story and Explorer purposes; production functionality; archive, Workshop, Files, theme and accessibility behavior; repaired navigation destinations; no black/yellow, faux-medieval, generic cards/dashboard, or poster-after-copy regression.
+- **Non-blocking note:** Playwright WebKit remains preflight evidence, not a substitute for the final physical-iPhone check before deployment.
+- **Recommendation:** complete one focused production repair on this PR. Do not merge or deploy.
+- **Author decision needed:** none
 
 ## Author decision
 
@@ -97,7 +100,7 @@ Only record a decision the author states directly.
 
 ## Current next action
 
-Codex: review the production Pale Signal Story atlas and Project Explorer on PR #7 against the approved prototype and the non-blocking production notes. Update this exchange with production-review findings. Do not merge or deploy. Ask the author only if a new decision is required.
+Cursor: implement every required repair in the Codex production review on the existing PR. Keep the full Explorer hero on Overview only, give every non-overview route immediate mobile identity and useful content before scroll, remove or neutralize the essential-copy opacity fade, capture a closed-menu dark theme, and refresh the 320px/390px route evidence plus the full regression evidence. Update the Cursor report and set the exchange to `awaiting-production-review-2`, commit, push, and stop. Do not merge or deploy.
 
 ## Phone-sized relay prompts
 
