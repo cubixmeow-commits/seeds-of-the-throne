@@ -1,16 +1,14 @@
 ---
 type: weekly-completion-pointer
 status: active
-updated: 2026-08-24
-source_path: 07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo.md
+updated: 2026-09-09
+source_path: 07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md
 ---
 
-# Current Weekly Completion TODO
+# Current Story Development Agenda
 
-This stable pointer names the **only author-facing story-development TODO list**. The author works from its checklist through the public Story Completion dashboard or the source Markdown it names.
+This pointer now routes the public progress surfaces to the current reassessment workshop. The former 27-task checklist is historical and must not be displayed as active work.
 
-The dashboard reads `source_path` from this file. When a later weekly synthesis produces an approved replacement completion checklist, update this path; do not edit or duplicate the dashboard's task content.
+The current workshop is adaptive. It shows the highest-value unresolved story dependencies without implying that every module must survive unchanged after earlier decisions.
 
-Daily notes, brainstorm packets, open-question records, task packets, the task registry, Current Pickup, and the desktop implementation queue are supporting evidence or routing tools. They must not become competing author work lists.
-
-New ideas are captured through [[CURRENT-WEEK-INTAKE]] and reconciled by the weekly synthesis. During the week, change the current checklist only to record verified completion, make a scope-neutral clarification, or apply an urgent change explicitly approved by the author.
+Source assessment: [[07 QA/2026-09-09 - Current Story Reassessment]].
