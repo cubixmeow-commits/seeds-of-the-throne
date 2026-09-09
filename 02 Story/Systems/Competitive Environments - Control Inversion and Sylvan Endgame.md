@@ -54,6 +54,16 @@ Sylvan's final requirement is survival, not a new seizure of control. Samuel's o
 **Causal chain:** `separation -> $15 million -> attack-system access removed -> independent execution -> Sylvan survives -> exhaustion -> processing -> full exposure`
 
 This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. Exact duration, spending beats, balance visibility, processing mechanics, and presentation choreography remain open. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+## Author-accepted post-process resource endpoint — 2026-09-09
+
+Samuel's obsession with taking control of the colonization process exhausts his **$15 million** terminal allocation in a matter of days. Exhaustion immediately triggers his processing and full exposure.
+
+Sylvan and Orzai require no new external victory package after the process ends. The resources they preserved and still possess are sufficient to implement their plan effectively, and their earned placement determines how they integrate into the larger colonization process.
+
+This establishes the endgame contrast: Samuel consumes finite resources in a final attempt to control the system; Sylvan and Orzai preserve finite resources and use legitimate placement to build within it.
+
+Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
+
 ## Core purpose
 
 Competitive environments are one of the colonization process's principal developmental and adjudicative mechanisms. They place participants and contained criminals inside shared projects, institutions, businesses, settlements, or other consequential environments where influence is distributed invisibly and changes over time.
