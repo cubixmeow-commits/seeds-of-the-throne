@@ -17,6 +17,15 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
+### 2026-09-10 — Vault functionality overview and reliability pass
+
+- **Outcome:** make the Project Explorer explain the whole vault in plain language and repair the build/validation drift discovered by the functionality assessment.
+- **Assessment:** [[07 QA/2026-09-10 - Vault Functionality Assessment]].
+- **Cursor handoff:** [[07 Coordination/2026-09-10 - Cursor Vault Overview Handoff]].
+- **Public result:** a prominent **Explore the vault** action, a **Vault** navigation link, and a unified-page `#vault-overview` section showing what works, what needs repair, and what is planned.
+- **Required first:** align the site checker with the current ten-module reassessment workshop, rebuild projections, and pass PHP, JavaScript, site, and diff validation.
+- **Constraint:** preserve the Pale Signal design and the unified Project Explorer homepage; do not present planned functionality as implemented.
+
 ### 2026-09-08 — Coded website design lab
 
 - **Status:** ready for Cursor; prototype-only and author-gated
