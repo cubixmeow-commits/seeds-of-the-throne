@@ -138,6 +138,7 @@ function explorer_views(): array
 {
     return [
         'overview' => ['label' => 'Overview', 'fragment' => 'overview-view'],
+        'vault' => ['label' => 'Vault', 'fragment' => 'vault-overview', 'route' => 'overview'],
         'sources' => ['label' => 'Story', 'fragment' => 'story-view'],
         'evidence' => ['label' => 'Decisions', 'fragment' => 'decisions-view'],
         'workshop' => ['label' => 'Workshop', 'fragment' => 'workshop-view'],
@@ -161,7 +162,10 @@ function explorer_view_url(string $view, array $params = [], ?string $fragment =
 {
     $views = explorer_views();
     $view = explorer_normalize_view($view);
-    $queryParams = array_merge(['view' => $view], $params);
+    $routeView = isset($views[$view]['route']) && is_string($views[$view]['route'])
+        ? $views[$view]['route']
+        : $view;
+    $queryParams = array_merge(['view' => $routeView], $params);
     $queryParams = array_filter(
         $queryParams,
         static fn ($value): bool => $value !== null && $value !== ''

@@ -3,9 +3,23 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import unquote, urlsplit
-import json, hashlib, re, sys
+import json, hashlib, sys
 
-ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from workshop_contract import (
+    ROOT,
+    REQUIRED_HEADINGS,
+    MIN_OPTIONS,
+    MAX_OPTIONS,
+    EXPECTED_MODULE_COUNT,
+    load_workshop_modules,
+    validate_generated_modules,
+    parse_prerequisites,
+    option_count,
+    wiki_targets,
+    resolve_wiki_path,
+)
+
 errors=[]
 class Page(HTMLParser):
     def __init__(self,text):
@@ -31,28 +45,36 @@ for p in sorted((ROOT/'docs').glob('*.html')):
 manifest=json.loads((ROOT/'docs/assets/story-build.json').read_text())
 for p,h in manifest.items():
     if hashlib.sha256((ROOT/p).read_bytes()).hexdigest()!=h:errors.append(f'Stale generated file: {p}')
+source_modules, source_errors = load_workshop_modules()
+errors.extend(source_errors)
 data=json.loads((ROOT/'docs/assets/story-workshop.json').read_text())
-if len(data['modules'])!=20:errors.append('Expected 20 modules')
-required=['Purpose','Relevant source notes','Confirmed facts','Unresolved gaps','Prerequisite decisions','Central author gate','Possibilities and tradeoffs','Targeted follow-up','Scene test','Adversarial questions','Completion checklist','Answer and decision record','Notes and website sections affected']
-for m in data['modules']:
+errors.extend(validate_generated_modules(data.get('modules')))
+if source_modules:
+    source_ids=[item['id'] for item in source_modules]
+    generated_ids=[item.get('id') for item in data.get('modules', [])]
+    if source_ids!=generated_ids:
+        errors.append('generated workshop IDs do not match the RW-01 through RW-10 source set')
+if len(data.get('modules', [])) != EXPECTED_MODULE_COUNT:
+    errors.append(f'Expected {EXPECTED_MODULE_COUNT} current reassessment modules RW-01 through RW-10, found {len(data.get("modules", []))}')
+for m in data.get('modules', []):
     text=(ROOT/m['path']).read_text()
     if text!=m['markdown']:errors.append('Workshop drift: '+m['id'])
-    for heading in required:
+    for heading in REQUIRED_HEADINGS:
         if '## '+heading not in text:errors.append(f'{m["id"]}: missing {heading}')
-    count=len(re.findall(r'^### \d+\.',text,re.M))
-    if not 3<=count<=5:errors.append(f'{m["id"]}: {count} options')
-    for target in re.findall(r'\[\[([^\]|]+)',text):
-        if not (ROOT/(target+'.md')).exists():errors.append(f'{m["id"]}: missing source {target}')
-    for raw in re.findall(r'^prerequisites: (.+)',text,re.M):
-        if raw!='none':
-            for ident in raw.split(', '):
-                if ident not in [x['id'] for x in data['modules']]:errors.append('Invalid prerequisite '+ident)
+    count=option_count(text)
+    if not MIN_OPTIONS<=count<=MAX_OPTIONS:
+        errors.append(f'{m["id"]}: {count} options')
+    for target in wiki_targets(text):
+        if not resolve_wiki_path(target).exists():errors.append(f'{m["id"]}: missing source {target}')
+    _, prereq_errors = parse_prerequisites(m.get('prerequisites', ''))
+    for error in prereq_errors:
+        errors.append(f'{m["id"]}: {error}')
 for p in (ROOT/'05 Public/Atlas').glob('*.md'):
     s=p.read_text()
-    for target in re.findall(r'\[\[([^\]|]+)',s):
-        if not (ROOT/(target+'.md')).exists():errors.append(f'{p.name}: missing source {target}')
+    for target in wiki_targets(s):
+        if not resolve_wiki_path(target).exists():errors.append(f'{p.name}: missing source {target}')
     for pattern in ['Humanity has already crossed the stars using','Humanity colonizes multiple worlds with','Luminai names the successor generation','The attempt fails because the bond']:
         if pattern in s:errors.append(f'{p.name}: stale claim {pattern}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
-print('PASS: local HTML links/assets/anchors; generated hashes; 20 complete source-linked modules; curated canon checks.')
+print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} current source-linked reassessment modules RW-01 through RW-10; curated canon checks.')

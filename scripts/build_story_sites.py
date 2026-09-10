@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Build reviewed Markdown projections. Python standard library only; no runtime service."""
 from pathlib import Path
-import html, re, json, hashlib, shutil
+import html, re, json, hashlib, shutil, sys
 from urllib.parse import quote, urlsplit
 
-ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from workshop_contract import ROOT, load_workshop_modules
+
 PUBLIC = ROOT / '05 Public/Atlas'
-WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Reassessment Workshop'
 DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260909-reassessment'
+ASSET = '20260910-vault-overview'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -205,6 +206,9 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
 <main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
+    modules, workshop_errors = load_workshop_modules()
+    if workshop_errors:
+        print('\n'.join(workshop_errors)); sys.exit(1)
     outputs={};entries=[]
     for path in sorted(PUBLIC.glob('*.md')):
         text=path.read_text();meta=metadata(text);slug=meta['route'];title=meta['title'];deck=meta['deck']
@@ -244,11 +248,9 @@ def main():
             body='<figure class="layered-world"><img src="assets/images/surface-civilization-editorial-v1.webp" alt="'+html.escape(IMAGE_ALT['surface-civilization-editorial-v1.webp'])+'" width="1536" height="1024" loading="lazy"><figcaption>Interpretive surface civilization. Ordinary institutions and lives have real weight.</figcaption></figure>'+body
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
         entries.append({'route':slug,'title':title,'deck':deck,'source':str(path.relative_to(ROOT)),'html':body})
-    modules=[]
-    for path in sorted(WORKSHOP.glob('[0-9][0-9] - *.md')):
-        text=path.read_text();meta=metadata(text);pathstr=str(path.relative_to(ROOT))
-        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda m:'<'+m[1]+'h'+str(int(m[2])+2),render(text))
-        modules.append({'id':meta['module'],'title':meta['title'],'gate':meta['gate'],'status':meta.get('status','unknown'),'prerequisites':meta.get('prerequisites',''),'path':pathstr,'markdown':text,'html':packet_html})
+    for module in modules:
+        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
+        module['html']=packet_html
     if modules:
         cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
         body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from ten current story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'

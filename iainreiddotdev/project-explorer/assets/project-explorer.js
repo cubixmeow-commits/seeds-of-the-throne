@@ -31,7 +31,7 @@
       scrollToDestination(id);
       attempts += 1;
       const target = document.getElementById(id);
-      if (!target || attempts >= 12) return;
+      if (!target || attempts >= 30) return;
       const top = target.getBoundingClientRect().top;
       const offset = stickyOffset();
       if (top < offset - 2 || top > offset + 120) {
@@ -41,14 +41,51 @@
     run();
   };
 
-  const initialHash = (location.hash || '').replace(/^#/, '');
+    const initialHash = (location.hash || '').replace(/^#/, '');
   if (initialHash) {
     settleDestination(initialHash);
     window.addEventListener('load', () => {
       settleDestination(initialHash);
       window.setTimeout(() => settleDestination(initialHash), 120);
+      window.setTimeout(() => settleDestination(initialHash), 400);
+      window.setTimeout(() => settleDestination(initialHash), 900);
     }, { once: true });
   }
+
+  const syncVaultCurrent = () => {
+    if (!productNav) return;
+    const hash = (location.hash || '').replace(/^#/, '');
+    const vaultLink = productNav.querySelector('[data-explorer-nav="vault"]');
+    if (!vaultLink) return;
+    if (hash === 'vault-overview') {
+      productNav.querySelectorAll('a[aria-current="page"]').forEach((link) => {
+        link.removeAttribute('aria-current');
+      });
+      vaultLink.setAttribute('aria-current', 'page');
+      return;
+    }
+    if (vaultLink.getAttribute('aria-current') === 'page') {
+      vaultLink.removeAttribute('aria-current');
+      const params = new URLSearchParams(location.search);
+      const view = params.get('view') || 'overview';
+      const current = productNav.querySelector(`[data-explorer-nav="${view}"]`);
+      if (current && current !== vaultLink) current.setAttribute('aria-current', 'page');
+    }
+  };
+
+  syncVaultCurrent();
+  window.addEventListener('hashchange', () => {
+    syncVaultCurrent();
+    settleDestination((location.hash || '').replace(/^#/, ''));
+  });
+  let resizeTimer = 0;
+  window.addEventListener('resize', () => {
+    window.clearTimeout(resizeTimer);
+    resizeTimer = window.setTimeout(() => {
+      const hash = (location.hash || '').replace(/^#/, '');
+      if (hash) settleDestination(hash);
+    }, 60);
+  });
 
   if (menuButton && productNav) {
     const setMenuLabel = (open) => {

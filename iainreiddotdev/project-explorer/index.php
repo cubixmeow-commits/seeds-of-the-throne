@@ -174,7 +174,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260909-home-nav-repair';
+$assetVersion = '20260910-vault-overview';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -253,8 +253,17 @@ function explorer_format_bytes(?int $bytes): string
                     if ($key === 'workshop' && isset($_GET['module']) && is_string($_GET['module'])) {
                         $navParams['module'] = $_GET['module'];
                     }
+                    $navHref = explorer_view_url($key, $navParams);
+                    $isCurrent = $key === $view;
+                    if ($key === 'vault') {
+                        $isCurrent = $view === 'vault';
+                    } elseif ($view === 'vault' && $key === 'overview') {
+                        $isCurrent = false;
+                    }
                     ?>
-                    <a href="<?= e(explorer_view_url($key, $navParams)) ?>"<?= $key === $view ? ' aria-current="page"' : '' ?>><?= e($meta['label']) ?></a>
+                    <a
+                        href="<?= e($navHref) ?>"
+                        data-explorer-nav="<?= e($key) ?>"<?= $isCurrent ? ' aria-current="page"' : '' ?>><?= e($meta['label']) ?></a>
                 <?php endforeach; ?>
             </nav>
             <div class="explorer-nav">
@@ -278,7 +287,11 @@ function explorer_format_bytes(?int $bytes): string
                 <h1 id="explorer-title">Seeds of the Throne</h1>
                 <p class="explorer-hero__lede">Seeds of the Throne began as years of conversations and thousands of story ideas. The Project Explorer shows how those ideas are being organized into characters, a world, a timeline, and a finished series.</p>
                 <div class="explorer-hero__actions" aria-label="Explorer actions">
-                    <a class="archive-cta archive-cta--primary" href="#overview-view">
+                    <a class="archive-cta archive-cta--primary" href="<?= e(explorer_view_url('overview', [], 'vault-overview')) ?>">
+                        <span>Explore the vault</span>
+                        <span class="archive-cta__arrow" aria-hidden="true">↓</span>
+                    </a>
+                    <a class="archive-cta" href="#overview-view">
                         <span>See how the story is being built</span>
                         <span class="archive-cta__arrow" aria-hidden="true">↓</span>
                     </a>
@@ -300,6 +313,7 @@ function explorer_format_bytes(?int $bytes): string
         </section>
 
         <?php require __DIR__ . '/workbench.php'; ?>
+        <?php require __DIR__ . '/vault-overview.php'; ?>
 
         <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">
             <div class="wrap">

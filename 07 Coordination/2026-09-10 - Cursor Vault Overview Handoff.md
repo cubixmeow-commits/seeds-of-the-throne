@@ -1,6 +1,6 @@
 ---
 type: cursor-implementation-handoff
-status: ready
+status: completed
 updated: 2026-09-10
 source: "[[07 QA/2026-09-10 - Vault Functionality Assessment]]"
 scope: Project Explorer Vault Overview and navigation only
@@ -247,3 +247,111 @@ When finished, update this file with:
 - final commit SHA.
 
 Stop and report rather than merging if PHP syntax cannot be checked or any required validation fails.
+
+## Completion report — 2026-09-10
+
+### Files changed
+
+- `scripts/workshop_contract.py` (new shared reassessment-workshop contract)
+- `scripts/check_story_sites.py`
+- `scripts/build_story_sites.py`
+- `scripts/README.md`
+- `scripts/test_story_browser.cjs`
+- `iainreiddotdev/project-explorer/vault-overview.php` (new)
+- `iainreiddotdev/project-explorer/index.php`
+- `iainreiddotdev/project-explorer/assets/project-explorer.css`
+- `iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `iainreiddotdev/includes/repository-explorer.php`
+- Generated projections rebuilt by `scripts/build_story_sites.py` (`docs/*.html`, `docs/assets/story-*.json`)
+- `07 Coordination/DESKTOP-QUEUE.md`
+- this handoff
+
+### Validation commands and results
+
+- `python3 scripts/build_story_sites.py` — `Built 8 atlas pages, 10 modules, 27 projections.`
+- `python3 scripts/check_story_sites.py` — `PASS: local HTML links/assets/anchors; generated hashes; 10 current source-linked reassessment modules; curated canon checks.`
+- PHP syntax: `php -l` on every `.php` file in the repository — no syntax errors. PHP 8.5.8 CLI.
+- `node --check iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `node --check docs/workshop.js`
+- `node --check scripts/test_story_browser.cjs`
+- `node --check iainreiddotdev/assets/js/site.js`
+- All JavaScript syntax checks passed.
+- `git diff --check` — clean.
+- `curl` of `?view=overview` and `?view=workshop` with `display_errors=1` — HTTP 200, no PHP warnings, notices, or parse errors.
+- `node scripts/test_story_browser.cjs` — `PASS: 243 responsive checks across 320/375/390/430/768/1024/1440px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`
+
+### Screenshots reviewed by viewport
+
+Screenshots were reviewed locally and were not committed.
+
+| Width | Reviewed | Result |
+| --- | --- | --- |
+| 320×568 | Hero first screen | Compact image, menu, and theme control fit. **Explore the vault** is one short scroll below the title on this short viewport. |
+| 320 | Vault overview, open menu | Six-stage flow stacks; status labels are readable without color; **Vault** is in the menu with a current-state bar; menu icon switches to ✕. |
+| 375 | Hero CTAs | **Explore the vault** is the filled primary action beside the existing homepage actions. |
+| 390 | Vault overview | Same stacked map; no horizontal overflow. |
+| 430 | Vault overview | Same stacked map; sticky header clears the section heading. |
+| 768 | Vault overview | Two-column flow; status cards remain stacked; no page overflow. |
+| 1024 | Vault overview | Desktop nav includes **Vault**; three status cards and a 3×2 flow; hero, progress, and archive remain on the page. |
+| 1440 | Hero and Vault overview | **Explore the vault** sits with the other opening actions; **Vault** is a normal nav item; landing on `#vault-overview` marks Vault current. |
+
+### Intentionally deferred
+
+- Continuous-integration / automatic pre-merge gates were not added.
+- One generated current-state record, decision blast-radius reports, manuscript assembly/export, and durable mobile save/resume remain planned, not implemented.
+- The overview does not claim that workshop drafts write to the vault.
+- Story copy, Pale Signal identity, and unrelated Explorer destinations were left in place.
+
+### Generated files
+
+No generated HTML or JSON was edited by hand. All `docs/` projection updates came from `python3 scripts/build_story_sites.py`.
+
+### Final commit SHA
+
+`e1107ae8937086f9ab0b8f75a7e5d2349e256da5`
+
+## Contract tightening before merge — 2026-09-10
+
+The first shared contract derived the expected module count from whatever workshop files were present, so deleting RW-10 made both the builder and checker accept nine modules. Prerequisite tokens that did not match `RW-NN` were also dropped instead of failing.
+
+The active contract now requires the unique sequential set RW-01 through RW-10. Filenames must match that numbering. Prerequisite fields keep their source wording only when they are a supported form: `none`, `current ending macro`, a required module ID, a comma-separated list of those IDs, or an inclusive `RW-NN through RW-NN` range inside RW-01 through RW-10. Unknown IDs such as `RW-99` and malformed values such as `not-a-module` or `SC-001` fail.
+
+### Files changed in this pass
+
+- `scripts/workshop_contract.py`
+- `scripts/build_story_sites.py`
+- `scripts/check_story_sites.py`
+- `scripts/test_workshop_contract.py` (new)
+- `scripts/README.md`
+- this handoff
+
+### Validation commands and results
+
+- `python3 scripts/test_workshop_contract.py` — `Ran 9 tests in 0.093s` `OK`. Covers the live RW-01 through RW-10 set, a fixed expected count of 10, supported prerequisite forms, a missing module, a duplicate ID, a malformed ID, an invalid prerequisite, a generated payload missing RW-10, and a complete temporary set.
+- `python3 scripts/build_story_sites.py` — `Built 8 atlas pages, 10 modules, 27 projections.`
+- `python3 scripts/check_story_sites.py` — `PASS: local HTML links/assets/anchors; generated hashes; 10 current source-linked reassessment modules RW-01 through RW-10; curated canon checks.`
+- PHP syntax: `php -l` on every `.php` file — no syntax errors.
+- `node --check iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `node --check docs/workshop.js`
+- `node --check scripts/test_story_browser.cjs`
+- `node --check iainreiddotdev/assets/js/site.js`
+- All JavaScript syntax checks passed.
+- `git diff --check` — clean.
+- `curl` of `?view=overview` and `?view=workshop` with `display_errors=1` — HTTP 200, no PHP warnings, notices, or parse errors.
+- `node scripts/test_story_browser.cjs` — `PASS: 243 responsive checks across 320/375/390/430/768/1024/1440px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`
+
+### Screenshots reviewed by viewport
+
+Unchanged from the visual pass above. This pass did not change Project Explorer markup, CSS, or copy.
+
+### Intentionally deferred
+
+Same as the original completion report. No visual or navigation changes were made in this pass.
+
+### Generated files
+
+No generated HTML or JSON was edited by hand. Rebuilding after the contract change produced the same 8 atlas pages, 10 modules, and 27 projections; `docs/` did not change.
+
+### Final commit SHA
+
+`bd2e6d0f17276d1d426d05a8f24825dae6307a6e`
