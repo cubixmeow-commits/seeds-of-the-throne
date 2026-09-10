@@ -5,7 +5,7 @@ import html, re, json, hashlib, shutil, sys
 from urllib.parse import quote, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from workshop_contract import ROOT, module_paths
+from workshop_contract import ROOT, load_workshop_modules
 
 PUBLIC = ROOT / '05 Public/Atlas'
 DOCS = ROOT / 'docs'
@@ -206,6 +206,9 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
 <main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
+    modules, workshop_errors = load_workshop_modules()
+    if workshop_errors:
+        print('\n'.join(workshop_errors)); sys.exit(1)
     outputs={};entries=[]
     for path in sorted(PUBLIC.glob('*.md')):
         text=path.read_text();meta=metadata(text);slug=meta['route'];title=meta['title'];deck=meta['deck']
@@ -245,11 +248,9 @@ def main():
             body='<figure class="layered-world"><img src="assets/images/surface-civilization-editorial-v1.webp" alt="'+html.escape(IMAGE_ALT['surface-civilization-editorial-v1.webp'])+'" width="1536" height="1024" loading="lazy"><figcaption>Interpretive surface civilization. Ordinary institutions and lives have real weight.</figcaption></figure>'+body
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
         entries.append({'route':slug,'title':title,'deck':deck,'source':str(path.relative_to(ROOT)),'html':body})
-    modules=[]
-    for path in module_paths():
-        text=path.read_text();meta=metadata(text);pathstr=str(path.relative_to(ROOT))
-        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda m:'<'+m[1]+'h'+str(int(m[2])+2),render(text))
-        modules.append({'id':meta['module'],'title':meta['title'],'gate':meta['gate'],'status':meta.get('status','unknown'),'prerequisites':meta.get('prerequisites',''),'path':pathstr,'markdown':text,'html':packet_html})
+    for module in modules:
+        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
+        module['html']=packet_html
     if modules:
         cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
         body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from ten current story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'

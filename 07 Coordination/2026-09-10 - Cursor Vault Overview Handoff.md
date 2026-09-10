@@ -309,3 +309,49 @@ No generated HTML or JSON was edited by hand. All `docs/` projection updates cam
 ### Final commit SHA
 
 `e1107ae8937086f9ab0b8f75a7e5d2349e256da5`
+
+## Contract tightening before merge — 2026-09-10
+
+The first shared contract derived the expected module count from whatever workshop files were present, so deleting RW-10 made both the builder and checker accept nine modules. Prerequisite tokens that did not match `RW-NN` were also dropped instead of failing.
+
+The active contract now requires the unique sequential set RW-01 through RW-10. Filenames must match that numbering. Prerequisite fields keep their source wording only when they are a supported form: `none`, `current ending macro`, a required module ID, a comma-separated list of those IDs, or an inclusive `RW-NN through RW-NN` range inside RW-01 through RW-10. Unknown IDs such as `RW-99` and malformed values such as `not-a-module` or `SC-001` fail.
+
+### Files changed in this pass
+
+- `scripts/workshop_contract.py`
+- `scripts/build_story_sites.py`
+- `scripts/check_story_sites.py`
+- `scripts/test_workshop_contract.py` (new)
+- `scripts/README.md`
+- this handoff
+
+### Validation commands and results
+
+- `python3 scripts/test_workshop_contract.py` — `Ran 9 tests in 0.093s` `OK`. Covers the live RW-01 through RW-10 set, a fixed expected count of 10, supported prerequisite forms, a missing module, a duplicate ID, a malformed ID, an invalid prerequisite, a generated payload missing RW-10, and a complete temporary set.
+- `python3 scripts/build_story_sites.py` — `Built 8 atlas pages, 10 modules, 27 projections.`
+- `python3 scripts/check_story_sites.py` — `PASS: local HTML links/assets/anchors; generated hashes; 10 current source-linked reassessment modules RW-01 through RW-10; curated canon checks.`
+- PHP syntax: `php -l` on every `.php` file — no syntax errors.
+- `node --check iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `node --check docs/workshop.js`
+- `node --check scripts/test_story_browser.cjs`
+- `node --check iainreiddotdev/assets/js/site.js`
+- All JavaScript syntax checks passed.
+- `git diff --check` — clean.
+- `curl` of `?view=overview` and `?view=workshop` with `display_errors=1` — HTTP 200, no PHP warnings, notices, or parse errors.
+- `node scripts/test_story_browser.cjs` — `PASS: 243 responsive checks across 320/375/390/430/768/1024/1440px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`
+
+### Screenshots reviewed by viewport
+
+Unchanged from the visual pass above. This pass did not change Project Explorer markup, CSS, or copy.
+
+### Intentionally deferred
+
+Same as the original completion report. No visual or navigation changes were made in this pass.
+
+### Generated files
+
+No generated HTML or JSON was edited by hand. Rebuilding after the contract change produced the same 8 atlas pages, 10 modules, and 27 projections; `docs/` did not change.
+
+### Final commit SHA
+
+Recorded after this pass is committed.
