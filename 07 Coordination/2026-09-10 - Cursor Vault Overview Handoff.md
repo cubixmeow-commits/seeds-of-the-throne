@@ -308,4 +308,4 @@ No generated HTML or JSON was edited by hand. All `docs/` projection updates cam
 
 ### Final commit SHA
 
-Recorded after the implementation commit on this branch.
+`e1107ae8937086f9ab0b8f75a7e5d2349e256da5`
