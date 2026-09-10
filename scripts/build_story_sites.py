@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Build reviewed Markdown projections. Python standard library only; no runtime service."""
 from pathlib import Path
-import html, re, json, hashlib, shutil
+import html, re, json, hashlib, shutil, sys
 from urllib.parse import quote, urlsplit
 
-ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from workshop_contract import ROOT, module_paths
+
 PUBLIC = ROOT / '05 Public/Atlas'
-WORKSHOP = ROOT / '07 Coordination/Story Completion Workflow/Reassessment Workshop'
 DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260909-reassessment'
+ASSET = '20260910-vault-overview'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -245,7 +246,7 @@ def main():
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
         entries.append({'route':slug,'title':title,'deck':deck,'source':str(path.relative_to(ROOT)),'html':body})
     modules=[]
-    for path in sorted(WORKSHOP.glob('[0-9][0-9] - *.md')):
+    for path in module_paths():
         text=path.read_text();meta=metadata(text);pathstr=str(path.relative_to(ROOT))
         packet_html=re.sub(r'<(/?)h([1-4])\b',lambda m:'<'+m[1]+'h'+str(int(m[2])+2),render(text))
         modules.append({'id':meta['module'],'title':meta['title'],'gate':meta['gate'],'status':meta.get('status','unknown'),'prerequisites':meta.get('prerequisites',''),'path':pathstr,'markdown':text,'html':packet_html})

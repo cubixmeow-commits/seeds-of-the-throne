@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-09-08
+updated: 2026-09-10
 ---
 
 # Desktop Implementation Queue
@@ -16,15 +16,6 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 Use this file for work that must survive a conversation handoff and requires local repository access. Keep ready work at the top. Move completed items into the completion log instead of deleting their history.
 
 ## Ready
-
-### 2026-09-10 — Vault functionality overview and reliability pass
-
-- **Outcome:** make the Project Explorer explain the whole vault in plain language and repair the build/validation drift discovered by the functionality assessment.
-- **Assessment:** [[07 QA/2026-09-10 - Vault Functionality Assessment]].
-- **Cursor handoff:** [[07 Coordination/2026-09-10 - Cursor Vault Overview Handoff]].
-- **Public result:** a prominent **Explore the vault** action, a **Vault** navigation link, and a unified-page `#vault-overview` section showing what works, what needs repair, and what is planned.
-- **Required first:** align the site checker with the current ten-module reassessment workshop, rebuild projections, and pass PHP, JavaScript, site, and diff validation.
-- **Constraint:** preserve the Pale Signal design and the unified Project Explorer homepage; do not present planned functionality as implemented.
 
 ### 2026-09-08 — Coded website design lab
 
@@ -44,6 +35,13 @@ Use this file for work that must survive a conversation handoff and requires loc
 - **Result:** Story atlas planetary `<picture>` hero and editorial sequence; quieter Project Explorer with shared HPI tokens; PR #4 behavior preserved; build/check/validate/Playwright pass; twelve-part completion report on the handoff.
 
 ## Completed implementation context
+
+### 2026-09-10 — Vault functionality overview and reliability pass
+
+- **Status:** implemented for review; not merged from this session
+- **Source:** [[07 QA/2026-09-10 - Vault Functionality Assessment]] and [[07 Coordination/2026-09-10 - Cursor Vault Overview Handoff]]
+- **Result:** Project Explorer now has a prominent **Explore the vault** action, a **Vault** nav link to `?view=overview#vault-overview`, and a unified-page overview of capture through share, working/repair/planned status, and next build order. The site checker and builder share the current ten-module reassessment contract, and generated projections were rebuilt rather than hand-edited.
+- **Preserved:** Pale Signal identity, PR #9 unified homepage, author authority, and planned functions labeled as not built.
 
 ### 2026-09-08 — Project Explorer navigation and responsive repair
 

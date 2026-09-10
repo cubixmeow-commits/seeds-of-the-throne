@@ -76,7 +76,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       ['/iainreiddotdev/project-explorer/?view=overview', 'Overview', 'See how the authoring system turns ordinary language into finished story work.'],
       ['/iainreiddotdev/project-explorer/?view=sources', 'Story', 'Open the public story pages and the reviewed Markdown behind them.'],
       ['/iainreiddotdev/project-explorer/?view=evidence', 'Decisions', 'Trace assessments, research boundaries, contradictions, and accepted decisions.'],
-      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Work through one missing story problem at a time.'],
+      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Develop the story from its current ending.'],
     ]) {
       const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
       await page.waitForTimeout(150);
@@ -133,7 +133,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
 
     // Sticky header must not cover the destination heading after navigation.
     await page.goto(base + '/iainreiddotdev/project-explorer/?view=sources#story-view', { waitUntil: 'load' });
-    await page.waitForTimeout(700);
+    await page.waitForTimeout(1100);
     const covered = await page.evaluate(() => {
       const header = document.querySelector('#site-header');
       const title = document.querySelector('#workbench-title');
@@ -145,7 +145,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
     if (covered) errors.push(`sticky header covers Story destination at ${width}`);
 
     await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md#archive', { waitUntil: 'load' });
-    await page.waitForTimeout(700);
+    await page.waitForTimeout(1100);
     const archiveCovered = await page.evaluate(() => {
       const header = document.querySelector('#site-header');
       const title = document.querySelector('#archive-title');
@@ -227,16 +227,84 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
     errors.push('Project Explorer still uses cinematic key-art hero');
   }
 
+  // Vault Overview is a homepage section, not a disconnected page.
+  for (const width of VIEWPORTS) {
+    await page.setViewportSize({ width, height: 1000 });
+    await page.goto(base + `/iainreiddotdev/project-explorer/?view=overview&w=${width}#vault-overview`, { waitUntil: 'load' });
+    await page.waitForTimeout(1100);
+    await assertNoOverflow(width, 'vault-overview');
+    const covered = await page.evaluate(() => {
+      const header = document.querySelector('#site-header');
+      const target = document.querySelector('#vault-overview');
+      if (!header || !target) return true;
+      return target.getBoundingClientRect().top < header.getBoundingClientRect().bottom - 1;
+    });
+    if (covered) errors.push(`sticky header covers Vault overview at ${width}`);
+    if (!(await page.locator('#vault-overview').count())) errors.push(`vault overview missing at ${width}`);
+    if (!(await page.getByRole('link', { name: 'Explore the vault', exact: true }).count())) {
+      errors.push(`Explore the vault missing at ${width}`);
+    }
+    const vaultNav = page.locator('.product-nav a[data-explorer-nav="vault"]');
+    if (!(await vaultNav.count())) errors.push(`Vault nav missing at ${width}`);
+    const vaultHref = await vaultNav.getAttribute('href');
+    const exploreHref = await page.getByRole('link', { name: 'Explore the vault', exact: true }).getAttribute('href');
+    if (!vaultHref || !vaultHref.includes('view=overview') || !vaultHref.includes('vault-overview')) {
+      errors.push(`Vault nav destination wrong at ${width}: ${vaultHref}`);
+    }
+    if (!exploreHref || !exploreHref.includes('vault-overview')) {
+      errors.push(`Explore the vault destination wrong at ${width}: ${exploreHref}`);
+    }
+    const stages = await page.locator('#vault-overview .vault-overview__flow h3').allTextContents();
+    if (stages.map((s) => s.trim()).join(' → ') !== 'Capture → Understand → Decide → Develop → Create → Share') {
+      errors.push(`vault flow labels wrong at ${width}: ${stages.join(' → ')}`);
+    }
+    for (const label of ['Working well', 'Needs repair', 'Planned next']) {
+      if (!(await page.locator('#vault-overview').getByText(label, { exact: true }).count())) {
+        errors.push(`${label} missing from vault overview at ${width}`);
+      }
+    }
+    if (!(await page.locator('#vault-overview').getByText('Not built yet', { exact: true }).count())) {
+      errors.push(`planned-not-built label missing at ${width}`);
+    }
+    for (const section of ['#explorer-title', '#overview-view', '#story-progress', '#archive']) {
+      if (!(await page.locator(section).count())) errors.push(`unified homepage lost ${section} at ${width} on Vault`);
+    }
+    if (width <= 768) {
+      const toggle = page.locator('[data-product-nav-button]');
+      await toggle.click();
+      const icon = await page.locator('[data-product-nav-icon]').textContent();
+      if ((icon || '').trim() !== '✕') errors.push(`menu icon did not switch on open at ${width}`);
+      await page.locator('.product-nav a[data-explorer-nav="vault"]').click();
+      if (await toggle.getAttribute('aria-expanded') !== 'false') errors.push(`Vault menu link-close failed at ${width}`);
+    }
+  }
+
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md#archive', { waitUntil: 'domcontentloaded' });
+  await page.locator('[data-product-nav-button]').click().catch(() => {});
+  await page.locator('.product-nav a[data-explorer-nav="vault"]').click();
+  await page.waitForTimeout(400);
+  if (!page.url().includes('view=overview') || !page.url().includes('vault-overview')) {
+    errors.push(`Vault link did not return to homepage from files: ${page.url()}`);
+  }
+  if (!(await page.locator('#vault-overview').isVisible())) errors.push('Vault overview not visible after returning from files');
+
+  await page.setViewportSize({ width: 320, height: 568 });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=overview#vault-overview', { waitUntil: 'load' });
+  await page.addStyleTag({ content: 'html { font-size: 200% !important; }' });
+  await page.waitForTimeout(200);
+  await assertNoOverflow(320, 'vault-overview-zoom200');
+
   // Workshop persistence/import/export on Project Explorer.
-  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=11#session');
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=RW-01#session');
   await page.locator('#workshop-answer').waitFor();
-  const answer = 'Module: 11 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
+  const answer = 'Module: RW-01 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
   await page.locator('#workshop-answer').fill(answer);
   await page.reload();
   await page.locator('#workshop-answer').waitFor();
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer draft did not survive reload');
-  await page.locator('#workshop-module').selectOption('12');
-  await page.locator('#workshop-module').selectOption('11');
+  await page.locator('#workshop-module').selectOption('RW-02');
+  await page.locator('#workshop-module').selectOption('RW-01');
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer module switch lost draft');
   const download = page.waitForEvent('download');
   await page.getByRole('button', { name: 'Export answer as Markdown', exact: true }).click();
@@ -249,7 +317,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await page.locator('#workshop-import').setInputFiles(file);
   await page.waitForTimeout(150);
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer import mismatch');
-  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
+  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-reassessment-workshop-v1:') || k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
 
   // Theme toggle remains available beside the hamburger.
   await page.setViewportSize({ width: 375, height: 900 });

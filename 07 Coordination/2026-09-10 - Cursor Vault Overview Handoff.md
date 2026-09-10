@@ -1,6 +1,6 @@
 ---
 type: cursor-implementation-handoff
-status: ready
+status: completed
 updated: 2026-09-10
 source: "[[07 QA/2026-09-10 - Vault Functionality Assessment]]"
 scope: Project Explorer Vault Overview and navigation only
@@ -247,3 +247,65 @@ When finished, update this file with:
 - final commit SHA.
 
 Stop and report rather than merging if PHP syntax cannot be checked or any required validation fails.
+
+## Completion report — 2026-09-10
+
+### Files changed
+
+- `scripts/workshop_contract.py` (new shared reassessment-workshop contract)
+- `scripts/check_story_sites.py`
+- `scripts/build_story_sites.py`
+- `scripts/README.md`
+- `scripts/test_story_browser.cjs`
+- `iainreiddotdev/project-explorer/vault-overview.php` (new)
+- `iainreiddotdev/project-explorer/index.php`
+- `iainreiddotdev/project-explorer/assets/project-explorer.css`
+- `iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `iainreiddotdev/includes/repository-explorer.php`
+- Generated projections rebuilt by `scripts/build_story_sites.py` (`docs/*.html`, `docs/assets/story-*.json`)
+- `07 Coordination/DESKTOP-QUEUE.md`
+- this handoff
+
+### Validation commands and results
+
+- `python3 scripts/build_story_sites.py` — `Built 8 atlas pages, 10 modules, 27 projections.`
+- `python3 scripts/check_story_sites.py` — `PASS: local HTML links/assets/anchors; generated hashes; 10 current source-linked reassessment modules; curated canon checks.`
+- PHP syntax: `php -l` on every `.php` file in the repository — no syntax errors. PHP 8.5.8 CLI.
+- `node --check iainreiddotdev/project-explorer/assets/project-explorer.js`
+- `node --check docs/workshop.js`
+- `node --check scripts/test_story_browser.cjs`
+- `node --check iainreiddotdev/assets/js/site.js`
+- All JavaScript syntax checks passed.
+- `git diff --check` — clean.
+- `curl` of `?view=overview` and `?view=workshop` with `display_errors=1` — HTTP 200, no PHP warnings, notices, or parse errors.
+- `node scripts/test_story_browser.cjs` — `PASS: 243 responsive checks across 320/375/390/430/768/1024/1440px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`
+
+### Screenshots reviewed by viewport
+
+Screenshots were reviewed locally and were not committed.
+
+| Width | Reviewed | Result |
+| --- | --- | --- |
+| 320×568 | Hero first screen | Compact image, menu, and theme control fit. **Explore the vault** is one short scroll below the title on this short viewport. |
+| 320 | Vault overview, open menu | Six-stage flow stacks; status labels are readable without color; **Vault** is in the menu with a current-state bar; menu icon switches to ✕. |
+| 375 | Hero CTAs | **Explore the vault** is the filled primary action beside the existing homepage actions. |
+| 390 | Vault overview | Same stacked map; no horizontal overflow. |
+| 430 | Vault overview | Same stacked map; sticky header clears the section heading. |
+| 768 | Vault overview | Two-column flow; status cards remain stacked; no page overflow. |
+| 1024 | Vault overview | Desktop nav includes **Vault**; three status cards and a 3×2 flow; hero, progress, and archive remain on the page. |
+| 1440 | Hero and Vault overview | **Explore the vault** sits with the other opening actions; **Vault** is a normal nav item; landing on `#vault-overview` marks Vault current. |
+
+### Intentionally deferred
+
+- Continuous-integration / automatic pre-merge gates were not added.
+- One generated current-state record, decision blast-radius reports, manuscript assembly/export, and durable mobile save/resume remain planned, not implemented.
+- The overview does not claim that workshop drafts write to the vault.
+- Story copy, Pale Signal identity, and unrelated Explorer destinations were left in place.
+
+### Generated files
+
+No generated HTML or JSON was edited by hand. All `docs/` projection updates came from `python3 scripts/build_story_sites.py`.
+
+### Final commit SHA
+
+Recorded after the implementation commit on this branch.
