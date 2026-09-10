@@ -23,3 +23,6 @@ __pycache__/
 .visual-workspaces/
 
 .cursor/
+
+# Server-generated PHP/Apache error logs
+error_log

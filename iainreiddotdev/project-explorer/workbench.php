@@ -26,7 +26,7 @@ $workbenchViews = [
     'workshop' => [
         'id' => 'workshop-view',
         'title' => 'Develop the story from its current ending.',
-        'lede' => 'The current workshop begins with Samuel's terminal separation and works backward into the causes the ending still needs. Each accepted answer can change which question comes next.',
+        'lede' => 'The current workshop begins with Samuel\'s terminal separation and works backward into the causes the ending still needs. Each accepted answer can change which question comes next.',
     ],
 ];
 
