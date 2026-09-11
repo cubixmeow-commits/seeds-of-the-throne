@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-08 are author-accepted. The highest remaining dependency is what the legitimate leaders must admit and change when Samuel is exposed. The final module addresses the reverse-series handoff.
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-09 are author-accepted. The final active module is the reverse-series handoff: which earlier historical question Book One opens, and which character carries the first scene of the next book?
 
 # Open Questions
 

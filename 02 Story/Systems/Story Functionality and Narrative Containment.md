@@ -129,7 +129,7 @@ The colonization process instead:
 
 The intended result is a civilizational capacity to resist coercive mass manipulation rather than dependence on one heroic detector.
 
-The long record also gives the larger humanity evidence for major moral debates about evil, deliberate choice, responsibility, capacity, and mental illness. Contained leaders receive rules, meaningful alternatives, opportunities to cooperate, and enough bounded freedom for their own conduct to answer claims that prediction or summary punishment cannot settle. This inquiry cannot equate mental illness with evil or make diagnosis an automatic explanation, excuse, or verdict. Exact propositions and institutional conclusions remain open.
+The long record finally settles major larger-humanity debates about behavior, evil, deliberate choice, responsibility, capacity, mental illness, distinctive interests, and related explanations. Contained leaders receive rules, meaningful alternatives, opportunities to cooperate, and enough bounded freedom for their own conduct to answer claims that prediction or summary punishment cannot settle. The terminal result vindicates the primary leaders' design. It cannot equate mental illness with evil or make diagnosis an automatic explanation, excuse, or verdict. Exact propositions and conclusions remain open.
 
 ## Public phase change
 

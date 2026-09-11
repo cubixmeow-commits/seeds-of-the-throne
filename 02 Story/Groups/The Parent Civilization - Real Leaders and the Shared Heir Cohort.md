@@ -129,7 +129,9 @@ The century-scale record can reveal a recurring progression:
 
 The key danger is not accommodation itself. It is accommodation that changes an aggressor's estimate of victory without changing the aggressor's objective.
 
-The real leaders intend this evidence to resolve substantial moral disputes within the larger humanity concerning evil, choice, responsibility, capacity, and mental illness. They allow bounded opportunity long enough to distinguish a prediction about Samuel from proof produced through Samuel's own decisions. Exact conclusions remain open, and the inquiry does not define mental illness as evil or dangerous identity.
+The completed evidence resolves substantial moral disputes within the larger humanity concerning behavior, evil, choice, responsibility, capacity, mental illness, distinctive interests, and related explanations. The primary leaders were correct to allow bounded opportunity long enough to distinguish a prediction about Samuel from proof produced through Samuel's own decisions. Exact conclusions remain open, and the inquiry does not define mental illness as evil or dangerous identity.
+
+The terminal result vindicates the primary containment design. It does not currently establish an institutional failure, apology, or repair owed by those primary leaders. Other leaders or institutions may still receive separate findings if later development establishes them.
 
 ## Competing schools among the real leaders
 

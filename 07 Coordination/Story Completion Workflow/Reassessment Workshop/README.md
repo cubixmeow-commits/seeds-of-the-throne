@@ -30,7 +30,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 # Priority 4 - Make the middle earn the ending
 
 - [x] **RW-08: Employment-stage preparation.** Resource discipline, independent cooperation, and reality-and-ethical anchoring preserve their valid participation.
-- [ ] **RW-09: Institutional accountability and repair.** Decide what the leaders and process must admit, protect, and change.
+- [x] **RW-09: Institutional accountability and repair.** The primary leaders are vindicated; the completed planet settles larger-humanity debates through long-form behavioral evidence.
 
 # Priority 5 - Make Book One launch the series
 
@@ -46,7 +46,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 ## Current starting point
 
-Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/09 - Institutional accountability]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/10 - Reverse series handoff]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
 
 ## Historical workflow
 

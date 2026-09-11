@@ -67,7 +67,7 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | 7 | George and Konrad now have distinct terminal functions. | Resolved macro / scene open | Significant | George is dragged deeper as operational scapegoat; Konrad is pulled out of a century-long story environment into the connected reality of Samuel's conduct. |
 | 8 | The controlling timeline now includes the accepted terminal sequence. | Resolved | Low | Scene-level duration and choreography remain open, but the causal order is no longer contradictory. |
 | 9 | The employment and reserve stages now train the capacities that win the ending. | Resolved macro / episodes open | Significant | Resource discipline, independent cooperation, and reality-and-ethical anchoring preserve valid participation under chaos. |
-| 10 | Institutional accountability remains underdefined. | Open question | Significant | Samuel's guilt does not answer what the leaders knew, permitted, failed to stop, or must repair. |
+| 10 | The primary institutional conclusion is established; exact civilizational findings remain open. | Resolved macro / debate details open | Significant | The primary leaders are vindicated, and the completed planet settles larger-humanity debates through long-form behavioral evidence. |
 | 11 | The previous 27-task workflow is now a false representation of current story state. | Status drift | Blocking for workflow | It routes the author toward obsolete questions and makes public progress inaccurate. |
 | 12 | The governing authentication boundary is established; earlier demonstrations remain scene work. | Resolved macro / setup open | Significant | Samuel can falsify local experience but never controls core participant, bond, balance, processing, or evidence state. |
 
@@ -141,6 +141,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 through RW-08 are author-accepted at macro depth. Continue with Module 09 and define one institutional failure, one remedy, and one safeguard affecting future colonization.
+RW-01 through RW-09 are author-accepted at macro depth. Continue with Module 10 and choose the historical question and viewpoint that carry the reader into the next book.
 
 This is advisory structure. Only the author can accept the creative answer.

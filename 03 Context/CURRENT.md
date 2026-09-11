@@ -28,7 +28,9 @@ RW-07 is author-accepted: Samuel drags George into the final apocalyptic attempt
 
 RW-08 is author-accepted: the reserve and employment stages develop resource discipline, independent cooperation, and disciplined reality-and-ethical anchoring. Sylvan and Orzai learn to preserve limited resources, cooperate without surrendering judgment, test explanations against evidence and outcomes, and retain chosen moral commitments as the process tries to exhaust, divide, disorient, break, or process them.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/09 - Institutional accountability|RW-09]].
+RW-09 is author-accepted and rejects its original failure premise: the primary leaders were absolutely correct. The completed colonization planet validates their containment design and finally settles major larger-humanity debates concerning behavior, evil, responsibility, mental illness, distinctive interests, and related explanations. The exact propositions and conclusions remain open; the story does not equate mental illness with evil or harmless identity and consensual interest with wrongdoing.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/10 - Reverse series handoff|RW-10]].
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

@@ -194,6 +194,8 @@ Source: [[01 Sessions/Daily/2026-09-10 - RW-05 Orzai Leads Acceptance]].
 
 Samuel cannot steal the bond, falsify the terminal balance, or corrupt the governing exposure record because he never controls the overall colonization process. He serves the containment deal he accepted and remains bound by the same rules at the ending. Copied interfaces and local manipulation can falsify experience without changing the participant and outcome state maintained by the process.
 
-The final opportunity therefore has civilizational evidentiary value. The real leaders allow Samuel to act within finite rules so his choices can demonstrate whether he will ever stop. That record contributes to larger-humanity moral debates about evil, responsibility, choice, capacity, and mental illness without treating mental illness as the cause of villainy.
+The final opportunity therefore has civilizational evidentiary value. The real leaders allow Samuel to act within finite rules so his choices can demonstrate whether he will ever stop. The completed record finally settles larger-humanity moral debates about behavior, evil, responsibility, choice, capacity, mental illness, distinctive interests, and related explanations without treating mental illness as the cause of villainy.
+
+The outcome vindicates the primary leaders. It does not require them to confess that the central containment design was mistaken. Exact debated propositions and resulting larger-humanity policies remain open.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-06 Samuel Never Controlled the Process]].
