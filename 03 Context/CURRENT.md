@@ -10,6 +10,10 @@ The current assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]
 
 The active author gate is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]]. RW-01 through RW-10 remain accepted foundation and are not reopened by this pass.
 
+## Surface Archive public direction — 2026-09-11
+
+The former Wildlife Meme Adventures public-photography project is now **Seeds of the Throne: Surface Archive**. Authentic wildlife and environmental photography becomes positive, accessible, story-inspired evidence that the engineered colonization environment grew into a genuine living home. The default tone is affectionate, observant, lightly funny, and life affirming rather than criminal or prosecutorial. The active visual and writing rules are in [[05 Public/Wildlife Meme Adventures/SURFACE-ARCHIVE-DIRECTION]].
+
 ## September 9 workflow and assessment reset
 
 The author retired the unfinished remainder of the old 27-task Story Completion sequence. Nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are not pending.

@@ -1,5 +1,5 @@
 ---
-type: wildlife-meme-episode
+type: surface-archive-episode
 status: intake
 episode_date: YYYY-MM-DD
 platform: X
@@ -36,7 +36,7 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 - Relevant identification details:
 - Uncertainty to preserve:
 
-## Episode concept
+## Surface Archive concept
 
 - Selected output orientation and aspect ratio:
 - Canvas rationale: why this format fits the photograph
@@ -44,11 +44,10 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 - Dynamic layout rationale: how visible features of this photograph determine alignment, panels, borders, ribbon position, and joke placement
 - Prior-layout reuse: not reused / reused with image-specific reason
 - Crop decision and protected details:
-- Episode ribbon:
-- Ribbon feed-preview plan: target width, line treatment, and how long titles avoid type shrinkage
-- Dominant headline:
-- Bottom payoff:
-- Comic premise:
+- Record number and category:
+- Observation or joke:
+- Optional Luminai note:
+- Constructive story connection:
 - Visual treatment:
 - Why it fits this photograph:
 - Prior concepts checked:
@@ -56,8 +55,8 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 
 ## Generation packet
 
-- Template skill: `$artifact-template-wildlife-meme-adventures`
-- Retained reference attached: yes / no
+- Governing direction: [[05 Public/Wildlife Meme Adventures/SURFACE-ARCHIVE-DIRECTION]]
+- Seeds X banner or approved Surface Archive reference attached: yes / no
 - Source photograph attached: yes / no
 - Generation brief:
 - Production master path or provenance:
@@ -86,19 +85,15 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 
 ## X package
 
-### Caption
+### Post text
 
 ```text
-Wildlife Meme Adventures 🧭
+In Seeds of the Throne, [ordinary natural moment] is part of [larger constructive idea].
 
-“[One short episode joke or observation.]”
-📍 [Verified location at the approved privacy level]
-📅 [Month Day, Year] · [Weekday], [Time]
-
-Behind the meme: This is a real photograph of [factual subject and scene], [one light comic observation grounded in what is visible].
+[One or two clear sentences connecting the photograph to life, home, growth, cooperation, independence, adaptation, or shared reality.]
 ```
 
-Caption punctuation check: no em dashes.
+Post punctuation check: no em dashes.
 
 ### Alt text
 

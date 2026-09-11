@@ -1,15 +1,16 @@
 ---
 type: public-project-index
 status: active
-updated: 2026-08-19
+updated: 2026-09-11
 ---
 
-# Wildlife Meme Adventures Episode Index
+# Surface Archive and Historical Episode Index
 
-Review this index before designing a new episode. Repeating the umbrella branding is intentional; repeating a title, joke structure, payoff, or photograph-specific visual device is not.
+Surface Archive is the active direction. Wildlife Meme Adventures entries remain below as historical development. Review this index before designing a new record so the archive identity remains consistent without repeating a photograph-specific observation or visual device.
 
 | Episode | Status | Real subject | Capture location | Capture date | Episode premise | Published | X link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [[Episodes/2026-09-11 - Shoreline Beginning|Surface Archive 0043: Shoreline Beginning]] | draft; direction approved | author-identified sandpiper | unresolved | unresolved | ordinary shoreline life shows the colonization world becoming a genuine living home | no | — |
 | [[Episodes/2026-08-18 - The Wild Coleman|The Wild Coleman]] | draft | Coleman camp stove at an outdoor barbecue | undisclosed park in Goleta, California | 2026-08-16 | camp stove observed as a wild specimen in its natural habitat | no | — |
 | [[Episodes/2026-08-18 - Lake Los Carneros Kingsnake Design Study|The Tongue Survey]] | draft | probable California kingsnake | Lake Los Carneros, Goleta, California | 2026-08-16 | selected trail-survey concept with cream title, central photograph, and olive findings panel | no | — |
 | [[Episodes/2026-08-18 - The Point of the View|The Point of the View]] | draft | coastal view from Ellwood Bluffs toward Devereux Point | Ellwood Bluffs, Goleta, California | 2025-02-21 | coastal poster using a callout on the actual visible point and a good-news/bad-news joke | no | — |

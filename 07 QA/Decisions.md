@@ -1,8 +1,17 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-09
+updated: 2026-09-11
 ---
+
+## 2026-09-11 — Surface Archive replaces Wildlife Meme Adventures as the active public direction
+
+- **Decision:** The active photography identity is **Seeds of the Throne: Surface Archive**. Wildlife Meme Adventures remains historical until a deliberate folder and link migration.
+- **Decision:** Authentic wildlife photographs represent or evoke ordinary surface life on the colonization world. Their governing purpose is to show an engineered environment becoming a genuine living home.
+- **Decision:** The default tone is positive, affectionate, observant, lightly funny, and life affirming. Criminal containment and exposure are not the default frame for wildlife.
+- **Decision:** The visual language complements the Seeds X banner through deep navy, parchment, antique gold, system blue, and sparse coral or ember points while keeping the photograph dominant and unaltered.
+- **Decision:** Public X copy may prioritize a short constructive story concept. Full capture provenance remains in the episode record rather than being mandatory in every post.
+- **Source:** [[01 Sessions/Daily/2026-09-11 - Surface Archive Public Photography Direction]]
 
 ## 2026-09-09 - Retire the 27-task workflow and launch current reassessment
 
