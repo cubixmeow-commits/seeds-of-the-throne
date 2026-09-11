@@ -33,7 +33,7 @@ More effective integration means that a human–Luminai pair can perceive, learn
 
 The older leaders create an extensive assessment framework that establishes which paths a trained pair has qualified for through its actual decisions and developed skills. The human and Luminai then choose their own placement among those paths. The framework creates credible options; it does not arbitrarily assign the participant's future.
 
-A pair that performs well enough can qualify for a House or group with extensive involvement in the continuing colonization process. Sylvan and Orzai eventually accept the placement they earned after successfully dealing with Samuel and separating from him. Their plan is cheap and easy to begin with the resources they preserved. The exact form, obligations, and later scale of that placement remain under development.
+A pair that performs well enough can qualify for a House or group with extensive involvement in the continuing colonization process. Sylvan and Orzai eventually accept the placement they earned after successfully dealing with Samuel and separating from him. They receive an exploratory period to travel, consider offers from other Houses, and choose the country where they want to build their own. Their plan is cheap and easy to begin with the resources they preserved. The exact offers, House obligations, and later scale remain under development.
 
 ## Entry and awareness
 
@@ -53,12 +53,12 @@ Specific wireless power methods, biological interfaces, latency, outage behavior
 
 Samuel, Konrad, and the older criminals from their generation remain physically contained on a previous colonization planet. They are not standing somewhere unseen on Sylvan's newer world. George can participate directly on the new planet and becomes the living operational bridge Samuel needs. The exact cross-planet communication, permissions, evidence, and refusal rules remain in development.
 
-## Spoilers: the leaders must also answer
+## Spoilers: what the primary leaders prove
 
-Samuel's history raises a difficult institutional question. If the leaders could observe a dangerous man for so long, which harms could they prevent, and why did they not prevent them?
+The primary leaders deliberately give the contained group real agency, strict rules, meaningful alternatives, time, and a consequential opportunity. Taking Sylvan by his forty-second birthday can genuinely earn permanent control of the largest empire, but never the planet or the process above it. After failure, cooperation offers control of a city.
 
-Sylvan's final years of decisive control cannot retroactively make all earlier suffering safe. The workshop asks for explicit stopping rules, protection for individuals inside criminal groups, and accountability for institutional choices.
+The completed planet validates the primary leaders' design. Its long behavioral record settles major larger-humanity debates about conduct, evil, responsibility, mental illness, and distinctive interests. The conclusion does not equate illness with evil or harmless identity and consensual interest with wrongdoing. It distinguishes explanations and capacities from coercive choices and accountable conduct.
 
-The current [reassessment workshop](workshop.html) addresses the terminal rules, placement, evidence, and institutional responsibility.
+The completed [reassessment workshop](workshop.html) records the ten macro decisions. Exact safeguards, propositions, and later policies remain open for focused development.
 
 Sources: [[02 Story/Components/Core Premise]], [[03 Context/WORLD]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Components/Hidden Technological Foundation and Awakening]].

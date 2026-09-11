@@ -25,8 +25,8 @@ $workbenchViews = [
     ],
     'workshop' => [
         'id' => 'workshop-view',
-        'title' => 'Develop the story from its current ending.',
-        'lede' => 'The current workshop begins with Samuel\'s terminal separation and works backward into the causes the ending still needs. Each accepted answer can change which question comes next.',
+        'title' => 'Review the ten decisions that now define the ending.',
+        'lede' => 'The completed workshop connects Samuel\'s separation and collapse to Sylvan and Orzai\'s future, the primary leaders\' proof, and the real imperial bait that kept Konrad in containment.',
     ],
 ];
 
@@ -49,7 +49,7 @@ $activeMeta = $workbenchViews[$activeWorkbench];
   <?php if ($activeWorkbench === 'overview'): ?>
     <ol class="workspace-sequence">
       <li><h3>The author explains the story in ordinary language.</h3><p>The system records those ideas and separates confirmed decisions from suggestions and unanswered questions.</p><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction.md')) ?>">Read how the system is designed</a></li>
-      <li><h3>The current workshop asks one consequential question at a time.</h3><p>Each question helps the author decide a missing cause, character choice, relationship, world rule, or event.</p><a href="<?= e(explorer_view_url('workshop', ['module' => 'RW-01'], 'session')) ?>">Open a workshop question</a></li>
+      <li><h3>The completed workshop records ten consequential decisions.</h3><p>Each answer establishes a cause, character choice, relationship, world rule, or event while keeping exact scene work visible.</p><a href="<?= e(explorer_view_url('workshop', ['module' => 'RW-01'], 'session')) ?>">Review the ten decisions</a></li>
       <li><h3>Accepted answers are added where they belong.</h3><p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p><a href="<?= e(explorer_view_url('evidence')) ?>">Review decisions and supporting information</a></li>
       <li><h3>Use the completed plan to write and revise scenes.</h3><p>The planned system will create scene outlines, draft prose, check continuity, revise weak sections, and assemble the manuscript for the author's approval.</p><a href="<?= e(explorer_file_url('07 Coordination/Authoring System/03 - Workshop and Composition Engines.md')) ?>">Read the system plan</a></li>
     </ol>
@@ -75,12 +75,12 @@ $activeMeta = $workbenchViews[$activeWorkbench];
     <?php endforeach; ?>
     </div>
   <?php elseif ($activeWorkbench === 'workshop'): ?>
-    <details class="workspace-module-index"><summary>Choose from ten current story workshops</summary><nav class="workspace-grid" aria-label="Decision modules">
+    <details class="workspace-module-index"><summary>Choose from ten completed story workshops</summary><nav class="workspace-grid" aria-label="Decision modules">
     <?php foreach ($modules as $module): ?>
       <a href="<?= e(explorer_view_url('workshop', ['module' => $module['id']], 'session')) ?>"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
     <?php endforeach; ?>
     </nav></details>
-    <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json"><p role="status">Loading the selected workshop.</p></section>
+    <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json?v=<?= e($assetVersion) ?>"><p role="status">Loading the selected workshop.</p></section>
     <noscript><p>The workshop needs JavaScript. Every question is also available in the project vault below.</p></noscript>
     <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md')) ?>">See every workshop and its source</a>
     <script src="../../docs/workshop.js?v=<?= e($assetVersion) ?>" defer></script>

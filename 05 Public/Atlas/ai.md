@@ -61,4 +61,4 @@ Konrad believes his experienced daemon can defeat Samuel where the leaders inten
 
 An earlier ending in which Samuel literally tried to steal Sylvan's Luminai has been superseded. Questions about whether learned adaptation transfers, and how sensors, credentials, permissions, trust, or infrastructure can be attacked, remain useful technical development problems rather than the selected final maneuver.
 
-Sources: [[02 Story/Systems/AI Souls]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Components/Learned Wireless Cognitive Channel]]. [Evidence and uncertainty](research.html). [Bonding workshop](workshop.html?module=06#session).
+Sources: [[02 Story/Systems/AI Souls]], [[02 Story/Systems/Human–Luminai Pairing and Bonding]], [[02 Story/Components/Learned Wireless Cognitive Channel]]. [Evidence and uncertainty](research.html). [Bonding workshop](workshop.html?module=RW-06#session).

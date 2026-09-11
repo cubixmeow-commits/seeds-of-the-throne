@@ -42,7 +42,9 @@ Samuel spends almost a century turning containment into an imitation of power. K
 
 By the time Samuel realizes Sylvan is not another person he can trap, Sylvan already controls the conclusion.
 
-The final battle is not about taking the planet. It is about making everyone see who has been contained all along.
+The final battle is not about taking the planet. The primary leaders never put the planet or the overall process at stake. They offered one narrower but genuine prize: if Konrad's group teamed with Samuel and took Sylvan before his forty-second birthday, they would permanently control the largest empire.
+
+Samuel keeps Konrad in containment by lying about what Sylvan and the new Luminai really are. When the deadline passes, the imperial path closes. Cooperation for control of a city is the group's only constructive option, but Samuel cannot accept the smaller future.
 
 ## Spoilers: why the story begins near the end
 
@@ -56,11 +58,11 @@ That is when they understand their leader was taken almost a century ago.
 
 ## Spoilers: the final separation
 
-At the end of the process, Samuel is separated from Sylvan and loses every process-provided system he used to attack him. Samuel receives $15 million to attempt his plan independently.
+Sylvan and Orzai complete their separate Luminai bonds, preserve their voluntary partnership, and demonstrate the conduct required for placement. The process certifies the result and separates Samuel from Sylvan. Samuel loses every process-provided system he used to attack him and receives $15 million to attempt his plan independently.
 
-He spends it trying to take control of the colonization process. His obsession exhausts the money within days. When the balance reaches zero, he is processed and the record of his conduct is exposed.
+He spends it trying to keep the war alive and manufacture an apocalyptic event that will make him a living god. His obsession exhausts the money within days. When the balance reaches zero, his Daemon is deleted, he enters a stasis-like coma, and biological synthetics move him to the older contained leaders while the record of his conduct is presented.
 
-Sylvan and Orzai do not replace him. They accept the placement they earned and begin a cheap, practical plan using only what they preserved.
+Sylvan and Orzai do not replace him. Orzai accepts the result first and leads Sylvan into their final decisions. They begin an exploratory period, travel, consider offers from other Houses, and choose the country where they want to build their House using only what they preserved.
 
 ## Watch the story being built.
 

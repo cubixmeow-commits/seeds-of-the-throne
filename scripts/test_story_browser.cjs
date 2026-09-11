@@ -76,7 +76,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       ['/iainreiddotdev/project-explorer/?view=overview', 'Overview', 'See how the authoring system turns ordinary language into finished story work.'],
       ['/iainreiddotdev/project-explorer/?view=sources', 'Story', 'Open the public story pages and the reviewed Markdown behind them.'],
       ['/iainreiddotdev/project-explorer/?view=evidence', 'Decisions', 'Trace assessments, research boundaries, contradictions, and accepted decisions.'],
-      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Develop the story from its current ending.'],
+      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Review the ten decisions that now define the ending.'],
     ]) {
       const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
       await page.waitForTimeout(150);

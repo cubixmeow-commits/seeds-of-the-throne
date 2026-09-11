@@ -16,7 +16,7 @@ $vaultWorking = [
     'Human-readable story memory',
     'Author authority and decision boundaries',
     'Research kept separate from story truth',
-    'Workshop questions that wait for an answer',
+    'Workshop questions with preserved author decisions',
     'Decisions, contradictions, and open questions',
     'Visual identity and image controls',
     'Markdown files and recoverable history',
@@ -52,7 +52,7 @@ $vaultLinks = [
     ['See the current resume point', '07 Coordination/CURRENT-PICKUP.md'],
     ['Read accepted decisions', '07 QA/Decisions.md'],
     ['See unresolved conflicts', '07 QA/Contradictions.md'],
-    ['Open the current workshop', '07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md'],
+    ['Review the completed workshop', '07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md'],
     ['See the development tools', '08 Story Loop/README.md'],
     ['Read the planned authorship system', '07 Coordination/Authoring System/README.md'],
 ];

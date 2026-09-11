@@ -36,7 +36,9 @@ Book One now begins near the end, when Sylvan already controls the conclusion an
 
 Astra's first assessment helped build a twenty-part workshop whose accepted results remain part of the project's history. The story then changed enough that the unfinished 27-task checklist began asking questions from an older version.
 
-A new whole-project assessment retired that stale checklist and created a focused [current workshop](workshop.html). It starts from Samuel's terminal separation, rapid financial collapse, processing and exposure, and Sylvan and Orzai's accepted placement.
+A new whole-project assessment retired that stale checklist and created a focused [ten-part workshop](workshop.html). All ten macro questions are now answered. They establish the terminal separation, Samuel's rapid collapse and processing, Sylvan and Orzai's accepted future, the authentication boundary, George and Konrad's different functions, the skills that earn survival, the primary leaders' vindication, and the genuine imperial bait that sends the series backward into history.
+
+The workshop is complete, but it does not pretend the story is finished. Exact mechanisms, scenes, character responses, evidence layers, safeguards, and prose remain visible as the next development work.
 
 ## Evidence inside the fiction
 

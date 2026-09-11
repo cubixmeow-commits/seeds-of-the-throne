@@ -12,7 +12,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260910-vault-overview'
+ASSET = '20260911-workshop-complete'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -187,7 +187,7 @@ def homepage_editorial(body_html, count, total):
       <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Open Project Explorer</a></p>
     </div>
   </section>
-  <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>{count} of {total}</strong> major story problems have clear working answers in the current development pass. The rest stay visible until they are solved.</p><progress max="{total}" value="{count}" aria-label="Major story problems with working answers">{count} / {total}</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Try the story workshop</a></p></div></section>
+  <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>{count} of {total}</strong> major story problems have clear working answers in the current development pass. The macro workshop is complete; exact mechanisms, scenes, and prose remain visible as the next work.</p><progress max="{total}" value="{count}" aria-label="Major story problems with working answers">{count} / {total}</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Review the completed workshop</a></p></div></section>
 </div>'''
 
 def shell(slug,title,deck,body,image=None,hero_html=None):
@@ -253,10 +253,10 @@ def main():
         module['html']=packet_html
     if modules:
         cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
-        body='<div class="atlas-body"><section class="reading"><h2>How the workshop works</h2><p>The workshop helps the author complete parts of the story that are still missing. Choose a topic, read what the story already establishes, compare different possible answers, and write a decision. The answer remains a draft until the author accepts it.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from ten current story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
-        outputs[DOCS/'workshop.html']=shell('workshop','Develop the story from its current ending','The new workshop starts from the latest story, asks one consequential question at a time, and changes direction when an answer changes the story.',body)
+        body='<div class="atlas-body"><section class="reading"><h2>How the completed workshop works</h2><p>These ten questions established the current macro ending and the path into the earlier books. Choose a topic to read the alternatives, the author\'s accepted answer, and the exact details that remain open. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story decision.</p></section><details class="spoiler"><summary>Choose from ten completed story topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete decisions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
+        outputs[DOCS/'workshop.html']=shell('workshop','Review the ten decisions that define the current ending','The completed workshop records the terminal sequence, the constructive future, the institutional proof, and the real imperial bait behind the reverse-series structure.',body)
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
-    data={'version':2,'built_from':'2026-09-09 current reassessment workshop','modules':modules}
+    data={'version':2,'built_from':'2026-09-11 completed reassessment workshop','modules':modules}
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
     snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']
