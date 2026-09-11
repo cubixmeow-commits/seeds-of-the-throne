@@ -25,7 +25,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 # Priority 3 - Make the proof fair
 
 - [x] **RW-06: Bond and evidence authentication.** Samuel can manipulate local experience but never controls the process functions that establish bond, balance, processing, or evidence state.
-- [ ] **RW-07: George and Konrad's distinct functions.** Prevent their recognition arcs from competing with the Samuel separation climax.
+- [x] **RW-07: George and Konrad's distinct functions.** George is dragged into the final fantasy as scapegoat; Konrad is pulled out of the older fantasy into reality.
 
 # Priority 4 - Make the middle earn the ending
 
@@ -46,7 +46,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 ## Current starting point
 
-Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/08 - Employment stage preparation]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
 
 ## Historical workflow
 

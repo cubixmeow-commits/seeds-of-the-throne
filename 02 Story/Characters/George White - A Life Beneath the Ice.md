@@ -285,4 +285,12 @@ And his first genuine choice is no longer whether he can win against Sylvan.
 - The father nevertheless sends George into an unwinnable confrontation.
 - The father's purpose has shifted from winning through George to using George as a disposable final weapon and scapegoat for the collapse.
 - George is intended to be blamed and destroyed after absorbing responsibility for the desperate final escalation.
+
+## Established terminal godhood scapegoat — 2026-09-11
+
+Samuel drags George into the independently funded apocalyptic attempt to establish Samuel as a living god. George provides the physical operational presence Samuel cannot have on Sylvan's planet and is positioned to absorb visible blame when the attempt fails.
+
+This does not grant George an automatic redemptive refusal or erase his responsibility for actions he knowingly takes. Exact acts, knowledge, coercion, and the moment he recognizes the scapegoat design remain open.
+
+Source: [[01 Sessions/Daily/2026-09-11 - RW-07 George as Godhood Scapegoat]].
 - George's first genuine endgame choice is whether to enter or continue the unwinnable confrontation once he understands that his father designed him to lose it.

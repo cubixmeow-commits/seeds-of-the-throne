@@ -29,6 +29,10 @@ Samuel never controls the overall process. His original containment deal and the
 
 Konrad is isolated inside a counterfeit victory. He believes he is planning the empire that will follow his Daemon's successful containment of Samuel and Sylvan's eventual surrender. Outside that reality, Samuel has already captured much of Konrad's group.
 
+Konrad has occupied this story environment for almost a century. His Book One function is not a sudden heroic reversal. The outcome pulls him out of the false environment and forces him into the connected reality of Samuel's conduct, with the reproductive and genealogical attack against the bloodlines as the most intense focus. His exact response remains open.
+
+Konrad retains substantial influence inside containment. His final moves after the confrontation will therefore affect the older group leaders, Samuel's remaining position, and the environment's future rather than serving only as emotional reaction. Exact moves remain open.
+
 ## Psychological-thriller engine
 
 Samuel must demonstrate control in public. He claims that Sylvan and the successor Luminai are now operating under his authority. Sylvan makes small consequential decisions Samuel did not authorize. Samuel revises the explanation. Each revision requires a larger claim and exposes another dependency.
@@ -149,6 +153,10 @@ Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].
 ## Author-accepted terminal war and apocalyptic campaign — 2026-09-10
 
 Samuel uses his independent allocation to keep the terminal war alive and manufacture an apocalyptic culmination intended to establish him as a living god. The campaign requires continued conflict, apparent signs, catastrophe, and a promised intervention large enough to compel recognition. Each failed validation produces a larger attempt, rapidly consuming the allocation.
+
+Samuel drags George into the campaign as his direct operational presence on Sylvan's planet and intended scapegoat. George's involvement lets Samuel attempt to preserve the divinity claim by assigning visible responsibility for failure to the person he used to carry it out.
+
+George and Konrad therefore move in opposite directions. George is dragged deeper into Samuel's terminal fantasy so he can carry its visible blame. Konrad is pulled out of the older fantasy and made to confront the reality it concealed.
 
 Samuel's intelligence remains intact: he understands each cost. He cannot accept the total conclusion because stopping would acknowledge that the war has ended, the promised culmination will not occur, and he was measured without divine or borrowed authority.
 

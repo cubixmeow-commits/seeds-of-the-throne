@@ -284,7 +284,15 @@ Konrad's attacks on Sylvan produce almost none of the decisive effect Samuel pro
 
 Konrad does not adapt cleanly. He becomes desperate and enraged, attempts to force events back into his old model, and loses confidence in what is real. He resists the possibility that Samuel tricked him because it would collapse the meaning of the previous eight years, his imagined route to legitimate rule, and the sacred future he assigns to the bloodlines.
 
+**Established Book One function — 2026-09-11:** Konrad has been enclosed within Samuel's story environment for almost a century. At the ending he is forced out of that environment and into direct contact with the connected reality of Samuel's conduct. The reproductive and genealogical attack against the bloodlines becomes the most intense focus because it destroys the future Konrad believed he was preserving.
+
+Konrad's function is confrontation rather than immediate redemption. The return to reality proves how completely Samuel captured him and collapses the False Victory. What Konrad says, admits, refuses, or tries to do afterward remains open.
+
+Konrad still has substantial influence inside the containment environment. His final moves after the confrontation can materially affect the older leaders, Samuel's remaining position, and the next state of the environment. The exact use of that influence remains open rather than treating him as a passive witness.
+
 The decisive evidence is direct: Konrad sees dozens of unauthorized children with recognizable resemblance to leaders in his own group. The visible pattern makes Sylvan's claim that Samuel targeted the bloodlines impossible to dismiss.
+
+“Bloodline pollution” describes Konrad's ideology, not objective story truth. No descendant is polluted. The objective crimes are coercive reproductive intervention, false genealogy, unauthorized use, and the treatment of people as instruments.
 
 The children also reveal the larger deception. Konrad realizes there was never a true separation and that Samuel maintained control of the shared environment throughout the supposed autonomous period. He immediately understands that interference may have reached nearly everything he believed was independently his.
 

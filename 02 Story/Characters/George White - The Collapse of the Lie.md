@@ -16,6 +16,8 @@ George is not merely a generic remote proxy. His presence supplies the living op
 
 **Established final betrayal:** when exposure closes in, Samuel attempts to attribute the entire criminal system to George, discard him, and move forward through Samuel Jr. George's disposability is therefore demonstrated through an actual scapegoating attempt rather than remaining only a threat.
 
+**Established terminal form:** Samuel drags George into the final apocalyptic godhood attempt as both his operational presence on Sylvan's planet and the intended scapegoat for failure. George's exact acts, understanding, and remaining agency are unresolved.
+
 ## September 5 integration boundary
 
 **Unresolved accountability:** a final refusal may change George's future, but does not automatically erase earlier harm, coercion, real achievements, or culpable acts. His roughly 75-year role span and longer false-reality language need a shared chronology. His final role must differ from Konrad's isolated fantasy.

@@ -64,7 +64,7 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | 4 | The affected-group presentation is established, but exact audience layers remain open. | Partial resolution | Significant | The complete conduct record reaches older group leaders while victim privacy and wider public disclosure still require separation. |
 | 5 | Sylvan and Orzai's placement is established at macro depth; exact offers and House structure remain open. | Resolved macro / implementation open | Significant | They travel, consider offers from Houses and leaders, and choose the country where they will build their House. |
 | 6 | Orzai's indispensable ending action is established at macro depth. | Resolved macro / scene open | Significant | She lets the process assume exposure, accepts the result, and leads Sylvan into the final decisions and constructive future. |
-| 7 | George and Konrad retain several older endgame functions that can crowd the new terminal chain. | Drift | Significant | Each needs one distinct recognition, refusal, or evidentiary function rather than a competing climax. |
+| 7 | George and Konrad now have distinct terminal functions. | Resolved macro / scene open | Significant | George is dragged deeper as operational scapegoat; Konrad is pulled out of a century-long story environment into the connected reality of Samuel's conduct. |
 | 8 | The controlling timeline now includes the accepted terminal sequence. | Resolved | Low | Scene-level duration and choreography remain open, but the causal order is no longer contradictory. |
 | 9 | The employment and reserve stages are detailed but not yet causally connected to the terminal ending. | Tension | Significant | The middle should train the exact survival, resource, cooperation, and reality-contact capacities that win the end. |
 | 10 | Institutional accountability remains underdefined. | Open question | Significant | Samuel's guilt does not answer what the leaders knew, permitted, failed to stop, or must repair. |
@@ -84,10 +84,12 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 9. Sylvan and Orzai need only survive and refuse renewed attachment.
 10. The balance reaches zero and proves genuine failure of the independently funded plan.
 11. Specific process rules delete Samuel's Daemon, place him into a stasis-like coma, and direct biological synthetics to transport him to the older contained criminal group leaders.
-12. Samuel remains inside the process without active-participant status while the connected record of everything he did is presented.
-13. Sylvan and Orzai accept an exploratory placement, travel, and consider offers made because their new-generation Luminai bonds are desirable.
-14. Orzai accepts the completed result first, lets the process carry Samuel's exposure, and leads Sylvan into their final decisions.
-15. They choose the country where they want to build their House.
+12. George functions as the visible operational scapegoat for Samuel's failed godhood campaign.
+13. Konrad is pulled out of the story environment that contained him for almost a century and made to confront the connected reproductive and genealogical reality.
+14. Samuel remains inside the process without active-participant status while the connected record of everything he did is presented.
+15. Sylvan and Orzai accept an exploratory placement, travel, and consider offers made because their new-generation Luminai bonds are desirable.
+16. Orzai accepts the completed result first, lets the process carry Samuel's exposure, and leads Sylvan into their final decisions.
+17. They choose the country where they want to build their House.
 
 ## Continuity consequences
 
@@ -139,6 +141,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 through RW-06 are author-accepted at macro depth. Continue with Module 07 and assign one distinct endgame function to George and a different function to Konrad.
+RW-01 through RW-07 are author-accepted at macro depth. Continue with Module 08 and select one financial, one relational, and one reality/evidence capacity learned during the reserve and employment stages.
 
 This is advisory structure. Only the author can accept the creative answer.

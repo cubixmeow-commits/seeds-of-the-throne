@@ -24,6 +24,10 @@ The real leaders also use long-form criminal containment to produce evidence int
 
 Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions|RW-07]].
 
+RW-07 is author-accepted: Samuel drags George into the final apocalyptic attempt to become a living god and positions him as the operational scapegoat. George is pulled deeper into Samuel's final fantasy. Konrad is forced out of the story environment that has enclosed him for almost a century and into direct contact with Samuel's real conduct. The connected reproductive and genealogical attack against the bloodlines becomes the most intense focus and collapses Konrad's False Victory. Konrad retains substantial influence inside containment, so his final moves will materially affect the older leaders and Samuel's remaining position; the exact moves remain open.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/08 - Employment stage preparation|RW-08]].
+
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 
 ## September 9 ending clarification — rapid exhaustion and constructive integration

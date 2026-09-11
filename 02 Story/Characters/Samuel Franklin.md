@@ -178,6 +178,8 @@ Samuel is not defeated because his manipulation of Konrad was foolish. He is def
 
 After formal separation removes every process-provided system he used against Sylvan, Samuel spends his independent $15 million trying to keep the terminal war alive. He also attempts to manufacture an apocalyptic culmination in which escalating conflict, apparent signs, catastrophe, and his promised intervention force the civilization to recognize him as a living god.
 
+Samuel drags George into this terminal campaign. George supplies the direct presence Samuel lacks on Sylvan's planet and is positioned to become the visible scapegoat when the promised culmination fails. Samuel's plan uses George as both instrument and preselected explanation for defeat.
+
 The goal makes conservation psychologically and strategically incompatible with his claim. A failed sign or intervention does not persuade him to stop; it becomes evidence that the next attempt must be larger. Samuel accurately understands individual costs while refusing to accept that the total objective is impossible. His allocation therefore disappears within days.
 
 This is an invented apocalyptic mechanism, not a direct use of any real religious prophecy. Exact operations and imagery remain open.

@@ -1,14 +1,14 @@
 ---
 type: qa
 status: active
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 ## Current reassessment questions - 2026-09-09
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-06 are author-accepted. Continue with RW-07: what single endgame function belongs to George, and what different function belongs to Konrad?
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-07 are author-accepted. Continue with RW-08: which three capacities learned during the reserve and employment stages directly enable terminal survival?
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 

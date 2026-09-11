@@ -170,6 +170,8 @@ The strongest proof does not depend upon publicly naming every child. Sylvan can
 
 Before the final direct revelation, Konrad knows enough about the compromised program to understand that his own decisions made Samuel's abuse possible. He has withdrawn into hiding or severe isolation rather than confronting the entire pattern publicly, but he can still treat the known violations as limited or exceptional.
 
+At the Book One confrontation, Konrad is brought out of the story environment that has enclosed him for almost a century. The organization-wide reproductive and genealogical record is focused into one connected reality. In Konrad's ideology this is the destruction of sacred bloodline purity; objectively, the horror is the abuse, coercion, falsification, and instrumentalization of real people. His exact response remains open.
+
 At the endgame, Sylvan shows him dozens of unauthorized children with recognizable resemblance to leaders in Konrad's group. That direct evidence establishes the wider targeted pattern for Konrad and destroys the limited-case explanation. It also reveals that Samuel could reach across the supposedly separate domains.
 
 Sylvan suspects Samuel maintains leverage over the isolated Konrad through proxies. This would allow Samuel to continue using Konrad's fear, authority, and culpability without exposing himself through direct contact. The proxy mechanism and proof remain unresolved.
