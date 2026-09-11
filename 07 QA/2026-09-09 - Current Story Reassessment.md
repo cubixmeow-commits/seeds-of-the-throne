@@ -59,7 +59,7 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | Rank | Finding | Classification | Impact | Why it matters |
 | ---: | --- | --- | --- | --- |
 | 1 | The causal bridge into formal separation is established at macro depth but still needs early setup and scene choreography. | Resolved macro / implementation open | Significant | Completed bonds, preserved voluntary partnership, and demonstrated conduct produce certified placement eligibility and automatic separation. |
-| 2 | Burning $15 million within days is established but not yet made materially credible. | Gap | Blocking | Samuel needs believable spending channels, escalation logic, and visible diminishing options without turning the ending into accounting exposition. |
+| 2 | The rapid resource burn is established at macro depth; exact operations and daily totals remain scene work. | Resolved macro / implementation open | Significant | Samuel sustains a dying war and escalates an apocalyptic godhood campaign whose failures demand larger expenditure. |
 | 3 | The zero-balance processing rule needs early setup. | Gap | Blocking | If introduced only at the end, the cleanest rule in the story may feel invented to end the plot. |
 | 4 | Processing and full exposure are joined, but the release mechanism and audience layers remain open. | Gap | Significant | Public proof, protected evidence, individual accountability, and descendant privacy cannot collapse into one spectacle. |
 | 5 | Sylvan and Orzai's placement is thematically clear but materially vague. | Open question | Significant | Readers need enough specificity to feel the future they accept, even if the full House structure stays open. |
@@ -79,8 +79,8 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 4. Samuel's final bargain fails because Sylvan will not voluntarily re-enter controlled dependence; the refusal confirms rather than creates the completed qualification.
 5. Placement eligibility locks and the process formally separates Samuel from Sylvan.
 6. Samuel loses all process-provided attack systems and receives $15 million to execute his plan independently.
-7. Samuel tries to take control of the colonization process.
-8. His obsession drives escalating expenditure and consumes the allocation within days.
+7. Samuel keeps the terminal war alive and tries to force the colonization process into an apocalyptic culmination that establishes him as a living god.
+8. Every failed sign or intervention drives a larger escalation and consumes the allocation within days.
 9. Sylvan and Orzai need only survive and refuse renewed attachment.
 10. The balance reaches zero.
 11. The established rule processes Samuel immediately and exposes his full conduct through appropriately separated public and protected layers.
@@ -136,6 +136,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 is author-accepted at macro depth. Continue with Module 02 and define the primary spending engine plus one secondary accelerant that make Samuel's $15 million collapse within days credible. Do not yet select exact purchases or daily totals.
+RW-01 and RW-02 are author-accepted at macro depth. Continue with Module 03 and define the pre-established zero-balance processing rule plus the mechanism that releases Samuel's authenticated record.
 
 This is advisory structure. Only the author can accept the creative answer.

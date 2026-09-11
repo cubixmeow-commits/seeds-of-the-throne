@@ -82,7 +82,7 @@ Sylvan's final requirement is survival, not a new seizure of control. Samuel's o
 
 After successfully dealing with Samuel and formally separating from him, Sylvan and Orzai accept the placement they earned within the colonization process. Their plan is cheap and easy to carry out with the resources they preserved.
 
-**Causal chain:** `separation -> $15 million -> attack-system access removed -> attempted colonization takeover -> exhaustion within days -> Sylvan survives -> processing -> full exposure`
+**Causal chain:** `separation -> $15 million -> attack-system access removed -> terminal war sustained independently -> apocalyptic godhood campaign -> repeated escalation -> exhaustion within days -> Sylvan survives -> processing -> full exposure`
 
 This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. The exact number of days, spending beats, balance visibility, processing mechanics, and presentation choreography remain open; the phase lasts only a matter of days. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 ## Discovery ladder
@@ -143,3 +143,11 @@ Sylvan and Orzai complete the process when their individual human–Luminai bond
 Sylvan's refusal of Samuel's final bargain confirms that he will not renew controlled dependence. It is the visible character decision at the threshold, not a magical trigger. Placement eligibility locks, Samuel's attached access disappears, and his independent $15 million allocation activates in an observable state change that he cannot delay or reinterpret.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].
+
+## Author-accepted terminal war and apocalyptic campaign — 2026-09-10
+
+Samuel uses his independent allocation to keep the terminal war alive and manufacture an apocalyptic culmination intended to establish him as a living god. The campaign requires continued conflict, apparent signs, catastrophe, and a promised intervention large enough to compel recognition. Each failed validation produces a larger attempt, rapidly consuming the allocation.
+
+Samuel's intelligence remains intact: he understands each cost. He cannot accept the total conclusion because stopping would acknowledge that the war has ended, the promised culmination will not occur, and he was measured without divine or borrowed authority.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-02 War and Apocalyptic Godhood Burn]].

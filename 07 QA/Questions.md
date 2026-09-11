@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 is author-accepted. Continue with RW-02: what categories of action let Samuel credibly consume $15 million within days while trying to control the colonization process?
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 and RW-02 are author-accepted. Continue with RW-03: what pre-established rule turns Samuel's zero balance into immediate processing, and how does that processing release the record?
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 

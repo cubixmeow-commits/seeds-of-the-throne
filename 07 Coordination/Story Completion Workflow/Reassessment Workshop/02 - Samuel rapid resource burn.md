@@ -1,10 +1,12 @@
 ---
 type: workshop-module
-status: open
+status: author-accepted
 module: RW-02
 title: Samuel's rapid resource burn
 gate: What categories of action let Samuel credibly consume $15 million within days while trying to control the colonization process?
 prerequisites: RW-01
+updated: 2026-09-10
+accepted: 2026-09-10
 ---
 
 # RW-02: Samuel's rapid resource burn
@@ -17,6 +19,18 @@ Make Samuel's collapse feel like the inevitable economic expression of his obses
 
 Samuel receives $15 million after separation. He has no access to the process-provided systems previously used against Sylvan. His obsession with taking control of the colonization process exhausts the allocation within days.
 
+## Accepted result
+
+Samuel spends the allocation trying to keep the terminal war alive after the process has already reached conclusion. Without process-provided support, every continued operation must be financed from his finite independent resources.
+
+The secondary accelerant is an invented apocalyptic godhood campaign. Samuel tries to make escalating conflict, manufactured signs, catastrophe, and a promised culminating intervention force the civilization to recognize him as a living god. Conservation would weaken his claim, so every failure produces a larger and more expensive attempt. He understands the individual costs but cannot abandon an objective whose failure would prove that the war is over and that he never possessed divine authority.
+
+**Spending chain:** `sustain the war -> manufacture apocalyptic validation -> failed sign or intervention -> larger escalation -> exhaustion within days`
+
+Exact purchases, daily totals, and the form of the promised culmination remain later scene work. Nothing purchased can restore the process-provided systems removed at separation.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-02 War and Apocalyptic Godhood Burn]].
+
 ## Four possibilities
 
 1. **Access market:** Samuel purchases temporary access, specialists, computation, influence, and intermediaries at rapidly escalating prices. Concrete, but needs boundaries preventing illicit restoration of old systems.
@@ -26,7 +40,7 @@ Samuel receives $15 million after separation. He has no access to the process-pr
 
 ## Central author gate
 
-What categories of action let Samuel credibly consume $15 million within days while trying to control the colonization process?
+What categories of action let Samuel credibly consume $15 million within days while trying to control the colonization process? **AUTHOR-ACCEPTED 2026-09-10.**
 
 Choose a primary spending engine and one secondary accelerant. Exact purchases and daily totals can follow later.
 

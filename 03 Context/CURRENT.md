@@ -10,7 +10,9 @@ The author retired the unfinished remainder of the old 27-task Story Completion 
 
 The new governing assessment is [[07 QA/2026-09-09 - Current Story Reassessment]]. RW-01 is author-accepted: Sylvan and Orzai complete the process when their separate human–Luminai bonds, voluntary partnership under interference, and demonstrated conduct satisfy the pre-established requirements for earned placement. The assessment framework certifies the result, locks their placement eligibility, formally separates Samuel, revokes his process-provided systems, and activates his independent $15 million allocation. Sylvan's final refusal confirms the completed result rather than creating it.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/02 - Samuel rapid resource burn|RW-02]] and reevaluates later modules after every accepted answer.
+RW-02 is author-accepted: Samuel uses the $15 million to keep the terminal war alive and manufacture an apocalyptic culmination intended to establish him as a living god. Every failed sign or intervention drives a larger escalation, rapidly consuming the allocation. He understands individual costs but cannot conserve resources without conceding that the war and his divinity claim are over.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/03 - Processing and exposure|RW-03]] and reevaluates later modules after every accepted answer.
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

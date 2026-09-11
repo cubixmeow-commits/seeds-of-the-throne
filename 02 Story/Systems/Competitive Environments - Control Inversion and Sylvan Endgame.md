@@ -64,6 +64,16 @@ This establishes the endgame contrast: Samuel consumes finite resources trying t
 
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
+## Author-accepted terminal spending engine — 2026-09-10
+
+Samuel uses the finite allocation to keep the terminal war alive after the process has already concluded and to manufacture an apocalyptic culmination intended to establish him as a living god. Without process-provided support, continued operations consume his own resources. Every failed sign or promised intervention drives a larger escalation because conserving money would concede that the war and the divinity claim are over.
+
+**Spending chain:** `sustain dying war -> manufacture apocalyptic validation -> fail -> escalate -> exhaust allocation`
+
+The process does not secretly inflate his costs, and his intelligence does not disappear. His obsession makes him unable to abandon the total objective even while he understands each expense.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-02 War and Apocalyptic Godhood Burn]].
+
 ## Core purpose
 
 Competitive environments are one of the colonization process's principal developmental and adjudicative mechanisms. They place participants and contained criminals inside shared projects, institutions, businesses, settlements, or other consequential environments where influence is distributed invisibly and changes over time.

@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 is author-accepted. The highest remaining dependency is the spending engine that makes Samuel's $15 million exhaustion within days credible. Later modules address processing and exposure, accepted placement, Orzai's indispensable action, authentication, George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 and RW-02 are author-accepted. The highest remaining dependency is how zero balance automatically triggers processing and releases Samuel's record. Later modules address accepted placement, Orzai's indispensable action, authentication, George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
 
 # Open Questions
 

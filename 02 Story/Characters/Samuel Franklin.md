@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-06
+updated: 2026-09-10
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -171,6 +171,16 @@ The bloodline campaign is not an accidental byproduct of that loss of control. A
 This loss of control becomes causal to his final defeat. Samuel cannot stop maintaining George's false reality, Konrad's isolation, the proxy stories, and the concealed genealogy without risking cascading discovery. Continuing the manipulation creates new evidence of active command. Sylvan's final bounded environment makes restraint the strategically correct choice, but Samuel's rage, obsession, and fear of disclosure make restraint emotionally impossible. His voluntary attempts to keep the revolution alive help trap and expose him.
 
 Samuel is not defeated because his manipulation of Konrad was foolish. He is defeated because a brilliant coup becomes an eighty-year revenge system whose maintenance demands eventually control its creator.
+
+## Established terminal war and godhood expenditure — 2026-09-10
+
+After formal separation removes every process-provided system he used against Sylvan, Samuel spends his independent $15 million trying to keep the terminal war alive. He also attempts to manufacture an apocalyptic culmination in which escalating conflict, apparent signs, catastrophe, and his promised intervention force the civilization to recognize him as a living god.
+
+The goal makes conservation psychologically and strategically incompatible with his claim. A failed sign or intervention does not persuade him to stop; it becomes evidence that the next attempt must be larger. Samuel accurately understands individual costs while refusing to accept that the total objective is impossible. His allocation therefore disappears within days.
+
+This is an invented apocalyptic mechanism, not a direct use of any real religious prophecy. Exact operations and imagery remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-02 War and Apocalyptic Godhood Burn]].
 
 ## Revenge against the bloodlines
 
