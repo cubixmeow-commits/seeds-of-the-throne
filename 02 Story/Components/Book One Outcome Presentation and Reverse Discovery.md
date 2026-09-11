@@ -135,3 +135,11 @@ Success is not simply Sylvan escaping or defeating Samuel. The presentation must
 ## Author clarification — simple acceptance of placement
 
 Sylvan and Orzai's plan is cheap and easy to carry out. After successfully dealing with Samuel and formally separating from him, they accept their earned placement within the colonization process. Their preserved resources are sufficient; they do not need to seize control or receive a new external victory package.
+
+## Author-accepted process completion threshold — 2026-09-10
+
+Sylvan and Orzai complete the process when their individual human–Luminai bonds, preserved voluntary partnership under Samuel's interference, and demonstrated conduct satisfy the pre-established requirements for earned placement. The assessment framework certifies that completed state and automatically executes formal separation.
+
+Sylvan's refusal of Samuel's final bargain confirms that he will not renew controlled dependence. It is the visible character decision at the threshold, not a magical trigger. Placement eligibility locks, Samuel's attached access disappears, and his independent $15 million allocation activates in an observable state change that he cannot delay or reinterpret.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].

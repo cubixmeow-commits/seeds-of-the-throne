@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-09-06
+updated: 2026-09-10
 ---
 
 # Integration and Scoring
@@ -19,5 +19,15 @@ The framework opens credible placement paths. It does not arbitrarily assign the
 One of the most consequential paths can be a House or group with substantial resources and extensive involvement in the continuing colonization process. A pair that performs well enough may qualify for and choose this placement. The exact threshold, whether the House is created or entrusted, its membership rights, its resources, its authority, its obligations, its oversight, and whether the placement can later be changed or lost remain open.
 
 Assessment establishes qualification for a role rather than human worth, moral superiority, or a permanent right to govern. A pair may qualify for several paths, including meaningful nonleadership work. Exact dimensions, evaluator independence, accommodation, review, appeals, revocation, and what happens when no preferred path is available remain unresolved.
+
+## Established terminal qualification state — 2026-09-10
+
+Sylvan and Orzai complete their process when their separate human–Luminai bonds, preserved voluntary partnership under interference, and demonstrated conduct satisfy the pre-established requirements for earned placement. Their relationship supports but does not replace their independent qualification.
+
+The assessment framework certifies the completed state and executes the transition automatically. Certification locks their placement eligibility, formally separates Samuel from Sylvan, revokes Samuel's process-provided attack systems, and activates his independent $15 million allocation. Sylvan's final refusal of renewed controlled dependence confirms the result; it does not create the qualification.
+
+The exact assessment dimensions, evidence authentication, available placements, and review rights remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].
 
 Open: exact levels, scoring authority, assessment dimensions, appeals, carried standing, how options are presented, and whether participants ever see a score.

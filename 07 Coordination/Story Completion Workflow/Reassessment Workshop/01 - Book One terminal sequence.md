@@ -1,10 +1,12 @@
 ---
 type: workshop-module
-status: open
+status: author-accepted
 module: RW-01
 title: Book One terminal sequence
 gate: What exact completed condition makes Samuel's formal separation from Sylvan inevitable?
 prerequisites: current ending macro
+updated: 2026-09-10
+accepted: 2026-09-10
 ---
 
 # RW-01: Book One terminal sequence
@@ -16,6 +18,16 @@ Connect the existing final confrontation to formal separation without adding ano
 ## Established
 
 Samuel's customized bargain fails. Sylvan and Orzai already possess decisive endgame control. Samuel is formally separated, loses process-provided attack systems, receives $15 million, exhausts it within days, and is processed and exposed. Sylvan and Orzai accept their placement.
+
+## Accepted result
+
+Sylvan and Orzai complete the process when their individual human–Luminai bonds, preserved voluntary partnership, and demonstrated conduct satisfy the pre-established requirements for earned placement. The process's assessment framework certifies that completed state and automatically executes the transition.
+
+Sylvan's final refusal confirms that he will not voluntarily renew Samuel's controlled dependence. It does not create the qualification or act as a last-minute trigger.
+
+The certification produces four observable and irreversible changes: Sylvan and Orzai's placement eligibility locks; Samuel is formally separated from Sylvan; Samuel loses every process-provided attack system; and his independent $15 million allocation activates. No new bargain or reinterpretation can delay the transition.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].
 
 ## Missing causal link
 
@@ -30,7 +42,7 @@ The story has not yet named what Sylvan and Orzai finish, prove, survive, or act
 
 ## Central author gate
 
-What exact completed condition makes Samuel's formal separation from Sylvan inevitable?
+What exact completed condition makes Samuel's formal separation from Sylvan inevitable? **AUTHOR-ACCEPTED 2026-09-10.**
 
 Name the condition and the observable state change. Do not yet plan Samuel's spending scenes.
 

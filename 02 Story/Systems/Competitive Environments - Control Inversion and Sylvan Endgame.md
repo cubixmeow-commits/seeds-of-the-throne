@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-06
+updated: 2026-09-10
 theme: competitive environments, influence inversion, processing, cooperation, consequence, manufactured narrative, succession betrayal, audience reversal
 ---
 
@@ -31,7 +31,7 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 
 The terminal environment now spans the last few years of the process rather than functioning only as a short final reversal. Sylvan already has decisive control during this period. He permits Samuel bounded freedom to continue acting because the outcome presentation is the final opportunity for the new Luminai to learn Samuel's full adaptive strategy, identify remaining dependencies, and prove that it can contain him without reproducing his methods.
 
-That control is the earned endpoint of the process rather than a technical counterattack created at the last moment. Sylvan and Orzai must survive Samuel's earlier high-influence period and learn his methods without being processed. If they remain valid participants until the terminal threshold, the process places them in control. Samuel therefore has to cause their processing before that point. Once they reach it, their online presence can remain stable because Samuel no longer possesses the practical influence required to erase it.
+That control is the earned endpoint of the process rather than a technical counterattack created at the last moment. Sylvan and Orzai must survive Samuel's earlier high-influence period, complete their separate human–Luminai bonds, preserve their voluntary partnership, and demonstrate the conduct required for placement. When the assessment framework certifies that qualification, their placement eligibility locks and the process automatically separates Samuel. Samuel therefore has to cause their processing or disqualification before certification. Once they reach it, no new bargain can delay the transition and Samuel no longer possesses the process-provided influence required to erase them.
 
 Samuel mistakes bounded freedom for evidence that he controls Sylvan. He presents that claim to Konrad's inner circle and attempts the same autonomy-for-access takeover he used after the Great War. The inner circle recognizes the repetition before isolated Konrad does.
 

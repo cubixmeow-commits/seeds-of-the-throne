@@ -12,7 +12,7 @@ Samuel tries to take control of the colonization process. His obsession exhausts
 
 Sylvan and Orzai then accept the placement they earned after successfully dealing with and separating from Samuel. Their plan is cheap and easy to carry out using only the resources they preserved.
 
-**Terminal order:** `failed bargain -> formal separation -> attack access removed -> $15 million independent attempt -> control obsession -> exhaustion within days -> processing -> full exposure -> accepted placement`
+**Terminal order:** `completed bonds + voluntary partnership + demonstrated conduct -> qualification certified -> final bargain refused -> placement eligibility locked -> formal separation -> attack access removed -> $15 million activated -> independent control attempt -> exhaustion within days -> processing -> full exposure -> accepted placement`
 
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 

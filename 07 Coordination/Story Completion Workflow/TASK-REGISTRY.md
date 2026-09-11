@@ -45,8 +45,8 @@ SC-001 through SC-009 retain their completed historical findings. SC-010's remai
 
 | ID | Priority | Module | Depth | Phase | Validation |
 | --- | ---: | --- | --- | --- | --- |
-| RW-01 | 1 | Book One terminal sequence | MACRO | AUTHOR-GATE | NOT-RUN |
-| RW-02 | 1 | Samuel's rapid resource burn | MACRO | IDLE | NOT-RUN |
+| RW-01 | 1 | Book One terminal sequence | MACRO | COMPLETE | AUTHOR-ACCEPTED |
+| RW-02 | 1 | Samuel's rapid resource burn | MACRO | AUTHOR-GATE | NOT-RUN |
 | RW-03 | 1 | Processing and exposure | MACRO | IDLE | NOT-RUN |
 | RW-04 | 2 | Sylvan and Orzai's accepted placement | MACRO | IDLE | NOT-RUN |
 | RW-05 | 2 | Orzai's indispensable action | MACRO | IDLE | NOT-RUN |

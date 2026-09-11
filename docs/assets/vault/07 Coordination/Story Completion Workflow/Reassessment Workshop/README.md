@@ -13,7 +13,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 # Priority 1 - Make the terminal chain inevitable
 
-- [ ] **RW-01: Book One terminal sequence.** Define the exact state change that makes separation inevitable.
+- [x] **RW-01: Book One terminal sequence.** Qualification is certified; placement eligibility locks and separation executes automatically.
 - [ ] **RW-02: Samuel's rapid resource burn.** Make the $15 million collapse within days materially credible.
 - [ ] **RW-03: Processing and exposure.** Establish how zero balance triggers processing and releases the record.
 
@@ -46,7 +46,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 ## Current starting point
 
-Start with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/01 - Book One terminal sequence]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/02 - Samuel rapid resource burn]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
 
 ## Historical workflow
 

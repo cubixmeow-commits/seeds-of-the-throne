@@ -58,7 +58,7 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 
 | Rank | Finding | Classification | Impact | Why it matters |
 | ---: | --- | --- | --- | --- |
-| 1 | The causal bridge into formal separation is not yet dramatized. | Gap | Blocking | The audience must understand what Sylvan and Orzai complete, survive, or prove to reach separation. |
+| 1 | The causal bridge into formal separation is established at macro depth but still needs early setup and scene choreography. | Resolved macro / implementation open | Significant | Completed bonds, preserved voluntary partnership, and demonstrated conduct produce certified placement eligibility and automatic separation. |
 | 2 | Burning $15 million within days is established but not yet made materially credible. | Gap | Blocking | Samuel needs believable spending channels, escalation logic, and visible diminishing options without turning the ending into accounting exposition. |
 | 3 | The zero-balance processing rule needs early setup. | Gap | Blocking | If introduced only at the end, the cleanest rule in the story may feel invented to end the plot. |
 | 4 | Processing and full exposure are joined, but the release mechanism and audience layers remain open. | Gap | Significant | Public proof, protected evidence, individual accountability, and descendant privacy cannot collapse into one spectacle. |
@@ -74,16 +74,17 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 ## Causal spine now governing Book One
 
 1. Sylvan and Orzai survive the high-influence stages while preserving enough resources, trust, evidence, and independent judgment.
-2. Their completed bonds and conduct qualify them for placement and make formal separation from Samuel possible.
-3. Samuel's final bargain fails because Sylvan will not voluntarily re-enter controlled dependence.
-4. The process formally separates Samuel from Sylvan.
-5. Samuel loses all process-provided attack systems and receives $15 million to execute his plan independently.
-6. Samuel tries to take control of the colonization process.
-7. His obsession drives escalating expenditure and consumes the allocation within days.
-8. Sylvan and Orzai need only survive and refuse renewed attachment.
-9. The balance reaches zero.
-10. The established rule processes Samuel immediately and exposes his full conduct through appropriately separated public and protected layers.
-11. Sylvan and Orzai accept their earned placement and begin their cheap, practical integration into the colonization process.
+2. Their separate completed bonds, preserved voluntary partnership, and demonstrated conduct satisfy the pre-established requirements for earned placement.
+3. The assessment framework certifies the completed state.
+4. Samuel's final bargain fails because Sylvan will not voluntarily re-enter controlled dependence; the refusal confirms rather than creates the completed qualification.
+5. Placement eligibility locks and the process formally separates Samuel from Sylvan.
+6. Samuel loses all process-provided attack systems and receives $15 million to execute his plan independently.
+7. Samuel tries to take control of the colonization process.
+8. His obsession drives escalating expenditure and consumes the allocation within days.
+9. Sylvan and Orzai need only survive and refuse renewed attachment.
+10. The balance reaches zero.
+11. The established rule processes Samuel immediately and exposes his full conduct through appropriately separated public and protected layers.
+12. Sylvan and Orzai accept their earned placement and begin their cheap, practical integration into the colonization process.
 
 ## Continuity consequences
 
@@ -135,12 +136,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-Begin with Module 01 and define the exact state change that makes formal separation inevitable. Do not yet select individual spending scenes. The answer should identify:
-
-- what Sylvan and Orzai have completed;
-- what Samuel can no longer prevent;
-- who or what executes the separation;
-- what every major observer understands at that moment;
-- which uncertainty remains alive for the final days.
+RW-01 is author-accepted at macro depth. Continue with Module 02 and define the primary spending engine plus one secondary accelerant that make Samuel's $15 million collapse within days credible. Do not yet select exact purchases or daily totals.
 
 This is advisory structure. Only the author can accept the creative answer.
