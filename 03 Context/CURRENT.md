@@ -18,7 +18,11 @@ RW-04 is author-accepted: Sylvan and Orzai receive an exploratory travel period 
 
 RW-05 is author-accepted: Orzai recognizes when the legitimate process is ready to take over Samuel's exposure. She accepts the completed result first, leads Sylvan into accepting it with her, and takes the lead in their final decisions. Her independent action moves them from adversarial responsibility into their exploratory placement so Samuel does not remain the organizing center of their future.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/06 - Bond and evidence authentication|RW-06]].
+RW-06 is author-accepted: Samuel never controls the overall colonization process. He remains bound by his original containment deal and the same exact rules at the ending. He can manipulate local systems, interfaces, people, and interpretations, but not the process functions that establish participant identity, mature bond status, terminal balance, processing, Daemon deletion, or the governing evidence record. His long grandiose fantasy causes him to forget or deny that boundary without changing it.
+
+The real leaders also use long-form criminal containment to produce evidence intended to resolve substantial moral debates in the larger humanity concerning evil, choice, responsibility, and mental illness. The story must distinguish illness from evil and cannot make mental illness the cause of villainy. Exact debated propositions and conclusions remain open.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions|RW-07]].
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

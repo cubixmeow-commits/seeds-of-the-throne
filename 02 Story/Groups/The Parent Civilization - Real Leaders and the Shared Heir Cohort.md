@@ -129,6 +129,8 @@ The century-scale record can reveal a recurring progression:
 
 The key danger is not accommodation itself. It is accommodation that changes an aggressor's estimate of victory without changing the aggressor's objective.
 
+The real leaders intend this evidence to resolve substantial moral disputes within the larger humanity concerning evil, choice, responsibility, capacity, and mental illness. They allow bounded opportunity long enough to distinguish a prediction about Samuel from proof produced through Samuel's own decisions. Exact conclusions remain open, and the inquiry does not define mental illness as evil or dangerous identity.
+
 ## Competing schools among the real leaders
 
 The groups below are working philosophical coalitions rather than final named factions. Their memberships may overlap, change over time, or divide internally.

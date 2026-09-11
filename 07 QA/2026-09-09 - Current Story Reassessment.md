@@ -65,11 +65,11 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | 5 | Sylvan and Orzai's placement is established at macro depth; exact offers and House structure remain open. | Resolved macro / implementation open | Significant | They travel, consider offers from Houses and leaders, and choose the country where they will build their House. |
 | 6 | Orzai's indispensable ending action is established at macro depth. | Resolved macro / scene open | Significant | She lets the process assume exposure, accepts the result, and leads Sylvan into the final decisions and constructive future. |
 | 7 | George and Konrad retain several older endgame functions that can crowd the new terminal chain. | Drift | Significant | Each needs one distinct recognition, refusal, or evidentiary function rather than a competing climax. |
-| 8 | The timeline still ends with older exposure imagery and omits the accepted terminal allocation sequence. | Contradiction | Significant | The controlling chronology must include separation, rapid exhaustion, processing, exposure, and placement acceptance. |
+| 8 | The controlling timeline now includes the accepted terminal sequence. | Resolved | Low | Scene-level duration and choreography remain open, but the causal order is no longer contradictory. |
 | 9 | The employment and reserve stages are detailed but not yet causally connected to the terminal ending. | Tension | Significant | The middle should train the exact survival, resource, cooperation, and reality-contact capacities that win the end. |
 | 10 | Institutional accountability remains underdefined. | Open question | Significant | Samuel's guilt does not answer what the leaders knew, permitted, failed to stop, or must repair. |
 | 11 | The previous 27-task workflow is now a false representation of current story state. | Status drift | Blocking for workflow | It routes the author toward obsolete questions and makes public progress inaccurate. |
-| 12 | Bond authentication and evidence tamper detection are accepted setup categories but are not yet integrated into the terminal sequence. | Gap | Significant | They should explain why Samuel cannot counterfeit the bond, erase the spending record, or corrupt the exposure. |
+| 12 | The governing authentication boundary is established; earlier demonstrations remain scene work. | Resolved macro / setup open | Significant | Samuel can falsify local experience but never controls core participant, bond, balance, processing, or evidence state. |
 
 ## Causal spine now governing Book One
 
@@ -139,6 +139,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 through RW-05 are author-accepted at macro depth. Continue with Module 06 and define the common authentication principle that protects the mature bond, terminal balance, and exposure record.
+RW-01 through RW-06 are author-accepted at macro depth. Continue with Module 07 and assign one distinct endgame function to George and a different function to Konrad.
 
 This is advisory structure. Only the author can accept the creative answer.

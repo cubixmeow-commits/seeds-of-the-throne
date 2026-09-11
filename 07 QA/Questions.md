@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-05 are author-accepted. Continue with RW-06: which previously demonstrated authentication rules prevent Samuel from stealing the bond, falsifying the balance, or corrupting the exposure?
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-06 are author-accepted. Continue with RW-07: what single endgame function belongs to George, and what different function belongs to Konrad?
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 

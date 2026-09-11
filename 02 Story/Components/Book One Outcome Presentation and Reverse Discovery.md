@@ -25,6 +25,8 @@ Samuel's influence progressively contracts while Sylvan and Orzai's grows. This 
 
 Samuel interprets the remaining freedom as proof that he controls Sylvan. That error keeps him acting.
 
+Samuel never controls the overall process. His original containment deal and the exact rules governing participant identity, bond status, balance, processing, Daemon access, and the governing record remain outside his authority. His long control of local realities makes the false sovereignty feel true to him without changing the system beneath it.
+
 Konrad is isolated inside a counterfeit victory. He believes he is planning the empire that will follow his Daemon's successful containment of Samuel and Sylvan's eventual surrender. Outside that reality, Samuel has already captured much of Konrad's group.
 
 ## Psychological-thriller engine
@@ -177,3 +179,11 @@ Orzai recognizes when the process has become responsible for completing Samuel's
 The action prevents Samuel's punishment from remaining the center of the constructive ending. Sylvan's evidence-anchored focus was necessary for survival; Orzai identifies when continued personal pursuit would become another form of captivity. She leads them from adversarial responsibility into the future they earned.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-05 Orzai Leads Acceptance]].
+
+## Author-accepted process authority boundary — 2026-09-10
+
+Samuel cannot steal the bond, falsify the terminal balance, or corrupt the governing exposure record because he never controls the overall colonization process. He serves the containment deal he accepted and remains bound by the same rules at the ending. Copied interfaces and local manipulation can falsify experience without changing the participant and outcome state maintained by the process.
+
+The final opportunity therefore has civilizational evidentiary value. The real leaders allow Samuel to act within finite rules so his choices can demonstrate whether he will ever stop. That record contributes to larger-humanity moral debates about evil, responsibility, choice, capacity, and mental illness without treating mental illness as the cause of villainy.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-06 Samuel Never Controlled the Process]].

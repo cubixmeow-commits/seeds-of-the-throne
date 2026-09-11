@@ -12,9 +12,9 @@ The old 27-task Macro Shape sweep is retired. Its nine completed tasks remain hi
 - **Current sweep:** Reassessment
 - **Assessment status:** COMPLETE
 - **Current workshop:** [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]]
-- **Current task:** RW-06 - Bond and evidence authentication
+- **Current task:** RW-07 - George and Konrad's distinct endgame functions
 - **Current loop phase:** AUTHOR-GATE
-- **Completed at this depth:** 5 / 10
+- **Completed at this depth:** 6 / 10
 - **Historical workflow:** 9 of 27 completed before retirement
 
 ## Why the workflow changed
@@ -23,8 +23,8 @@ The 27-task set was designed for an earlier version of the story. Continuing it 
 
 ## Resume
 
-1. Read Orzai's accepted ending action in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/05 - Orzai indispensable action|RW-05]].
-2. Open [[07 Coordination/Story Completion Workflow/Reassessment Workshop/06 - Bond and evidence authentication]].
+1. Read the accepted authority boundary in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/06 - Bond and evidence authentication|RW-06]].
+2. Open [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions]].
 3. Ask only its central author gate.
 4. Record the answer in a dated session.
 5. Reassess whether later modules remain necessary before continuing.

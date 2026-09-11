@@ -1,7 +1,7 @@
 ---
 type: component
 status: established
-updated: 2026-09-06
+updated: 2026-09-10
 ---
 
 # Core Premise
@@ -17,6 +17,8 @@ The planet still serves two purposes at once: containing dangerous criminals and
 Containment can assign a role, identity, environment, and public life rather than a cell. Cultivation exposes participants to pressure and consequential choices. The existing history includes grave harms; which harms were preventable, who authorized the exposure, and what safeguards now stop recurrence remain unresolved responsibilities of the leaders. Bounded final observation must not become a license for further abuse.
 
 Contained people can weaponize older AI souls and the same advanced systems used to run the planet. Samuel Franklin is the selected worst-case adversarial subject. Konrad Fitzgerald voluntarily remains after his Great War defeat because he believes his experienced Daemon can control Samuel and outperform the new Luminai process. This makes the opposition structural, historical, and adaptive rather than merely criminal in an ordinary sense.
+
+The containment record also addresses major moral debates within the larger humanity concerning evil, deliberate choice, responsibility, capacity, and mental illness. The real leaders give dangerous people meaningful opportunity, strict rules, resources, alternatives, and time so conclusions can rest on demonstrated conduct rather than prediction or identity. The process does not equate mental illness with evil or treat diagnosis as either automatic guilt or automatic excuse. The exact debates and conclusions remain open.
 
 See [[02 Story/Components/Bridge World and Luminai Initialization]], [[02 Story/Systems/Advanced Technology Ecology]], and [[02 Story/Systems/Fascist Failure and Leadership Cultivation]].
 

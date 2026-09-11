@@ -32,6 +32,8 @@ The key distinction is:
 
 **Universal technical reach does not imply universal participant permission.**
 
+Samuel never controls the constitutional process that defines those permissions. He remains subject to the containment deal he accepted on entry and to the same rules when his terminal plan fails. Local systems can let him manipulate experience and exercise real power without granting authority over participant identity, mature bonds, terminal balances, processing, Daemon deletion, or the governing record.
+
 Participants operate inside a rule-bound environment designed to preserve agency, accountability, evidence, containment integrity, and the developmental purpose of the colony.
 
 ## Established terminal processing rule — 2026-09-10
@@ -169,6 +171,7 @@ The difference is not that one has technology and the other does not. They can t
 
 - Participants remain accountable for actions carried out through their Luminai or Daemon.
 - A participant cannot erase the existence of the governing rules merely by gaining higher access.
+- A participant's local control cannot alter the core process state that defines identity, bond authorization, balance, processing, or the governing evidence record.
 - A participant cannot use higher access to create a valid premature exit, skip an assigned stage, substitute a preferred environment, or retain process benefits after abandoning the current environment.
 - High-level commands should leave provenance unless a specific story mechanism establishes otherwise.
 - Some systems must retain independent refusal, review, or evidence functions.

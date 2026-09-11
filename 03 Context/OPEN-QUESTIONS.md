@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-05 are author-accepted. The highest remaining dependency is the common authentication principle that protects the mature bond, terminal balance, and exposure record from Samuel's counterfeiting. Later modules address George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-06 are author-accepted. The highest remaining dependency is the distinct endgame function assigned to George and the different function assigned to Konrad. Later modules address employment preparation, institutional accountability, and the reverse-series handoff.
 
 # Open Questions
 
@@ -104,6 +104,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - Which real leaders are willing to expose their own decisions to eventual public judgment?
 - Why did particular ancient rulers wait centuries or millennia to have heirs?
 - How are an heir's happiness and readiness understood without reducing the child to a score or succession role?
+- Which specific moral debates about evil, choice, responsibility, capacity, and mental illness is the containment record intended to resolve in the larger humanity?
+- What evidence and review prevent those conclusions from equating mental illness with evil or using diagnosis as either automatic guilt or automatic excuse?
 
 ## Throne
 
