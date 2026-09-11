@@ -54,7 +54,7 @@ SC-001 through SC-009 retain their completed historical findings. SC-010's remai
 | RW-07 | 3 | George and Konrad's distinct functions | MACRO | COMPLETE | AUTHOR-ACCEPTED |
 | RW-08 | 4 | Employment-stage preparation | MACRO | COMPLETE | AUTHOR-ACCEPTED |
 | RW-09 | 4 | Institutional accountability and repair | MACRO | COMPLETE | AUTHOR-ACCEPTED |
-| RW-10 | 5 | Reverse-series handoff | MACRO | AUTHOR-GATE | NOT-RUN |
+| RW-10 | 5 | Reverse-series handoff | MACRO | COMPLETE | AUTHOR-ACCEPTED |
 
 ## Historical boundary
 

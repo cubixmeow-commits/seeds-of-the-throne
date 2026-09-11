@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-09-10
+updated: 2026-09-11
 ---
 
 ## September 9 workflow and assessment reset
@@ -22,15 +22,15 @@ RW-06 is author-accepted: Samuel never controls the overall colonization process
 
 The real leaders also use long-form criminal containment to produce evidence intended to resolve substantial moral debates in the larger humanity concerning evil, choice, responsibility, and mental illness. The story must distinguish illness from evil and cannot make mental illness the cause of villainy. Exact debated propositions and conclusions remain open.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions|RW-07]].
-
 RW-07 is author-accepted: Samuel drags George into the final apocalyptic attempt to become a living god and positions him as the operational scapegoat. George is pulled deeper into Samuel's final fantasy. Konrad is forced out of the story environment that has enclosed him for almost a century and into direct contact with Samuel's real conduct. The connected reproductive and genealogical attack against the bloodlines becomes the most intense focus and collapses Konrad's False Victory. Konrad retains substantial influence inside containment, so his final moves will materially affect the older leaders and Samuel's remaining position; the exact moves remain open.
 
 RW-08 is author-accepted: the reserve and employment stages develop resource discipline, independent cooperation, and disciplined reality-and-ethical anchoring. Sylvan and Orzai learn to preserve limited resources, cooperate without surrendering judgment, test explanations against evidence and outcomes, and retain chosen moral commitments as the process tries to exhaust, divide, disorient, break, or process them.
 
 RW-09 is author-accepted and rejects its original failure premise: the primary leaders were absolutely correct. The completed colonization planet validates their containment design and finally settles major larger-humanity debates concerning behavior, evil, responsibility, mental illness, distinctive interests, and related explanations. The exact propositions and conclusions remain open; the story does not equate mental illness with evil or harmless identity and consensual interest with wrongdoing.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/10 - Reverse series handoff|RW-10]].
+RW-10 is author-accepted: the primary leaders deliberately offer Konrad's group a genuine bounded prize. If they team with Samuel and successfully take Sylvan under the rules before Sylvan's forty-second birthday, they receive permanent control of the largest empire. The prize never includes the planet or overall colonization process. Samuel gets Konrad to stay in containment by lying about what Sylvan and his new-generation Luminai really are, making the real prize appear achievable through Konrad's older model of domination. Failure by Sylvan's forty-second birthday closes the imperial route permanently; their only remaining constructive option is cooperation with Sylvan and the legitimate leaders for control of a city. Samuel's claim that escalation can restore the empire or unlock the wider process remains false.
+
+The ten-module reassessment workshop is complete at macro depth. Current development should now choose one unresolved mechanism or scene pass rather than beginning another broad question sweep.
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

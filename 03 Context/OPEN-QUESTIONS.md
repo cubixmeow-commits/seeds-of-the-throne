@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-09 are author-accepted. The final active module is the reverse-series handoff: which earlier historical question Book One opens, and which character carries the first scene of the next book?
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Continue through focused mechanism and scene questions rather than another broad author-question sweep.
 
 # Open Questions
 
@@ -140,6 +140,10 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - Which proxy or chain of proxies carries Samuel's blackmail or control to Konrad?
 - Does Konrad learn that every participating bloodline was targeted and that the campaign was a coup before, during, or after the results presentation?
 - What part of Sylvan's final evidence is hardest for Konrad to reinterpret as victory, and can he ever make one genuine concession?
+- What exact governing rule constitutes successfully taking Sylvan, and what time convention applies at the fixed cutoff on Sylvan's forty-second birthday?
+- What exactly does Samuel tell Konrad that Sylvan and the new-generation Luminai are, what evidence makes the lie credible, and what truth would have caused Konrad to leave?
+- Why can the primary leaders safely make permanent control of the largest empire a genuine prize, and what oversight survives any successful transfer?
+- After the imperial path fails, what authority, obligations, limits, and review accompany the group's remaining opportunity to cooperate for control of a city?
 
 ## Story functionality
 

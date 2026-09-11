@@ -144,15 +144,17 @@ Samuel immediately recognizes Konrad's desperation for autonomy and offers what 
 
 **Still unresolved:** Samuel never conquered the victorious empire. The exact lock event and purpose, reactivation/migration procedure, automatic versus later powers, communication layer, institutional brokerage, credentials, administrative visibility, first revealing record, reset limits, and bounded observation mechanics remain open. The mechanism must preserve agency and cannot become magical omniscience. Resolve it only through [[08 Story Loop/Brainstorms/Samuel-Konrad Containment Hierarchy - Needs Analysis]].
 
-## The Sylvan victory-condition lie
+## The bounded Sylvan victory condition and Samuel's larger lie
 
-Samuel convinces Konrad that Sylvan's legitimate place in the colonization process can be converted into control: if they defeat and process Sylvan, legitimate authority will pass to them and eventually unlock the colonization planet.
+The primary leaders deliberately create a genuine, bounded victory condition: if Konrad's group teams with Samuel and successfully takes Sylvan under the governing rules, they receive permanent control of the largest empire. The possible transfer never includes the colonization planet, the overall colonization process, or larger humanity.
 
-Samuel occupies a dangerous middle state between knowing this is a lie and convincing himself some version of it must be true. His larger fantasy is to exploit Sylvan as an access point to the synthetic command structure, use the synthetics as an army, conquer the colonization planet, then expand against the wider colonization process and the rest of humanity. He has no sound mechanism. The plan remains an improvised megalomaniacal certainty built from extortion, coercion, control, and whatever opportunity he can reinterpret as proof.
+Samuel uses that genuine prize to keep Konrad in containment. He lies about what Sylvan and his new-generation Luminai really are, presenting them as a target that Konrad's experienced Daemon and their combined system can understand and dominate. The exact false description remains open.
 
-Konrad's attacks on Sylvan are organized around three imagined victory paths: exhaust Sylvan's resources, force his willing surrender and processing, or provoke a process-rule violation that strips his legitimate standing. Samuel uses this belief to keep Konrad attacking.
+Samuel turns this real bait into an unbounded fantasy. He claims that taking Sylvan will unlock the colonization planet, let him exploit the synthetic command structure as an army, and support expansion against the wider process and the rest of humanity. He has no sound mechanism for any of those claims.
 
-The real outcome does not depend upon defeating Sylvan. Samuel and Konrad have to earn progress by ending their rampage and cooperating with Sylvan and other legitimate leaders. They do not understand that condition until the end.
+Konrad's attacks on Sylvan are organized around three routes Samuel claims can satisfy the real victory condition: exhaust Sylvan's resources, force his willing surrender and processing, or provoke a process-rule violation that strips his legitimate standing. Which, if any, actually qualifies as “taking Sylvan” remains open. Samuel uses his interpretation to keep Konrad attacking.
+
+Sylvan's forty-second birthday is the deadline. If the group has not successfully taken him under the rules by that birthday, the imperial victory condition closes permanently. Samuel and Konrad's only remaining constructive path is then to end their rampage and cooperate with Sylvan and other legitimate leaders for control of a city. Samuel instead treats the lost empire as recoverable, keeps the war alive, and converts a once-real opportunity into the terminal lie that escalation can restore it.
 
 ## From brilliant coup to uncontrolled revolution
 

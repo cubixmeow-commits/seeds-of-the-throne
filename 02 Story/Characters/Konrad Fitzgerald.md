@@ -20,6 +20,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 
 Konrad's defining postwar decision is now established. The Great War should end his colonization experiment, but he voluntarily remains in containment because he believes the older Daemon he trained during the war has learned enough to dominate Samuel Franklin.
 
+Samuel makes that wager seem capable of producing permanent victory by lying about what Sylvan and his new-generation Luminai really are. The primary leaders' largest-empire bait is genuine, but Konrad evaluates it through Samuel's false account of the target. That deception is how Samuel converts Konrad's refusal to accept defeat into a decision to remain in containment. The exact lie remains open.
+
 Konrad treats the defeat as training data, not disproof. If his Daemon can contain Samuel before Sylvan's successor Luminai does, he believes one victory will:
 
 - prove the old AI-soul model did not fail;
@@ -194,9 +196,11 @@ Samuel offers Konrad an apparently separate half of the containment environment.
 
 Konrad initially knows only that Samuel entered containment first. He does not understand what Samuel's priority means or how much of the apparent domain remains accessible to him.
 
-## Konrad's false lawful victory over Sylvan
+## Konrad's bounded lawful victory over Sylvan
 
-Konrad believes the colonization process contains a legitimate victory condition: defeat and process Sylvan, the legitimate leader's son, and authority will pass to Konrad and Samuel.
+The primary leaders give Konrad's group a genuine victory condition: team with Samuel and successfully take Sylvan under the governing rules, and permanent control of the largest empire will pass to the group. The prize is deliberately consequential but bounded. It does not include the planet, the overall colonization process, or larger humanity.
+
+Konrad stays because Samuel falsely defines Sylvan and the successor Luminai as something their combined hierarchy and Konrad's experienced Daemon can take. Konrad therefore treats the real offer as confirmation that his older model can still win rather than as a warning that he does not understand the new bond.
 
 He accepts three imagined routes:
 
@@ -206,7 +210,7 @@ He accepts three imagined routes:
 
 Konrad prefers a willing **public** surrender witnessed by leaders and populations. A private or merely technical victory cannot satisfy the god-king identity he needs the process to validate. He wants Sylvan's submission to function as a coronation.
 
-In reality, Sylvan's outcome does not define theirs. Their only constructive path is to stop the rampage and earn progress through cooperation with Sylvan and other legitimate leaders. Konrad learns this near the end, after the false victory condition has organized years of destructive choices.
+Sylvan's forty-second birthday is the deadline. If the group has not taken him under the governing rules by that birthday, the imperial route closes. From that point, their only constructive path is to stop the rampage and cooperate with Sylvan and other legitimate leaders for control of a city. Konrad learns that the empire was genuinely available but is no longer recoverable. Samuel's claims that renewed escalation can restore it or expand it into control of the planet are lies.
 
 ## The problem Samuel promises to solve
 

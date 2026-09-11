@@ -29,6 +29,8 @@ Samuel never controls the overall process. His original containment deal and the
 
 Konrad is isolated inside a counterfeit victory. He believes he is planning the empire that will follow his Daemon's successful containment of Samuel and Sylvan's eventual surrender. Outside that reality, Samuel has already captured much of Konrad's group.
 
+That belief began from a real but bounded offer. The primary leaders made permanent control of the largest empire available if Konrad's group teamed with Samuel and successfully took Sylvan under the process rules before Sylvan's forty-second birthday. Samuel gets Konrad to remain in containment by lying about what Sylvan and the successor Luminai really are, making the prize appear achievable through their older model of domination. The forty-second birthday closes that route permanently if they have failed. Cooperation with Sylvan and the legitimate leaders then becomes the group's only constructive path, offering control of a city rather than restoration of the empire. Samuel keeps Konrad inside the counterfeit victory by treating the closed imperial route as recoverable and falsely expanding it into control of the planet and wider process.
+
 Konrad has occupied this story environment for almost a century. His Book One function is not a sudden heroic reversal. The outcome pulls him out of the false environment and forces him into the connected reality of Samuel's conduct, with the reproductive and genealogical attack against the bloodlines as the most intense focus. His exact response remains open.
 
 Konrad retains substantial influence inside containment. His final moves after the confrontation will therefore affect the older group leaders, Samuel's remaining position, and the environment's future rather than serving only as emotional reaction. Exact moves remain open.
@@ -128,6 +130,11 @@ Success is not simply Sylvan escaping or defeating Samuel. The presentation must
 - the new process contains destructive behavior without adopting Konrad's purge logic or Samuel's ownership logic.
 
 ## Unresolved
+
+- What exact rule defines successfully “taking Sylvan,” and what time convention makes his forty-second birthday the irreversible cutoff?
+- What false description of Sylvan and the successor Luminai makes Konrad choose to stay?
+- Why can the primary leaders safely make permanent control of the largest empire a genuine prize?
+- What authority, obligations, limits, and review accompany the fallback city available through cooperation?
 
 - Book One viewpoint structure and whether Konrad's isolation is shown directly.
 - The number and scale of the final-years incidents.

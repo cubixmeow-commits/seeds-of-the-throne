@@ -70,26 +70,30 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | 10 | The primary institutional conclusion is established; exact civilizational findings remain open. | Resolved macro / debate details open | Significant | The primary leaders are vindicated, and the completed planet settles larger-humanity debates through long-form behavioral evidence. |
 | 11 | The previous 27-task workflow is now a false representation of current story state. | Status drift | Blocking for workflow | It routes the author toward obsolete questions and makes public progress inaccurate. |
 | 12 | The governing authentication boundary is established; earlier demonstrations remain scene work. | Resolved macro / setup open | Significant | Samuel can falsify local experience but never controls core participant, bond, balance, processing, or evidence state. |
+| 13 | The reverse-series handoff is established as a genuine bounded imperial bait. | Resolved macro / mechanism open | Significant | Taking Sylvan by his forty-second birthday could earn permanent control of the largest empire; failure closes that route and leaves cooperation for a city. Samuel keeps Konrad participating by lying about Sylvan and the successor Luminai. |
 
 ## Causal spine now governing Book One
 
-1. Sylvan and Orzai survive the high-influence stages while preserving enough resources, trust, evidence, and independent judgment.
-2. Their separate completed bonds, preserved voluntary partnership, and demonstrated conduct satisfy the pre-established requirements for earned placement.
-3. The assessment framework certifies the completed state.
-4. Samuel's final bargain fails because Sylvan will not voluntarily re-enter controlled dependence; the refusal confirms rather than creates the completed qualification.
-5. Placement eligibility locks and the process formally separates Samuel from Sylvan.
-6. Samuel loses all process-provided attack systems and receives $15 million to execute his plan independently.
-7. Samuel keeps the terminal war alive and tries to force the colonization process into an apocalyptic culmination that establishes him as a living god.
-8. Every failed sign or intervention drives a larger escalation and consumes the allocation within days.
-9. Sylvan and Orzai need only survive and refuse renewed attachment.
-10. The balance reaches zero and proves genuine failure of the independently funded plan.
-11. Specific process rules delete Samuel's Daemon, place him into a stasis-like coma, and direct biological synthetics to transport him to the older contained criminal group leaders.
-12. George functions as the visible operational scapegoat for Samuel's failed godhood campaign.
-13. Konrad is pulled out of the story environment that contained him for almost a century and made to confront the connected reproductive and genealogical reality.
-14. Samuel remains inside the process without active-participant status while the connected record of everything he did is presented.
-15. Sylvan and Orzai accept an exploratory placement, travel, and consider offers made because their new-generation Luminai bonds are desirable.
-16. Orzai accepts the completed result first, lets the process carry Samuel's exposure, and leads Sylvan into their final decisions.
-17. They choose the country where they want to build their House.
+1. The primary leaders make a genuine bounded offer: Konrad's group can receive permanent control of the largest empire by teaming with Samuel and successfully taking Sylvan before his forty-second birthday.
+2. Samuel lies about what Sylvan and the new-generation Luminai really are, persuading Konrad that the target can be dominated and keeping him in containment.
+3. Sylvan and Orzai survive the high-influence stages while preserving enough resources, trust, evidence, and independent judgment.
+4. Their separate completed bonds, preserved voluntary partnership, and demonstrated conduct satisfy the pre-established requirements for earned placement.
+5. The assessment framework certifies the completed state as Sylvan reaches the forty-second-birthday cutoff without being taken.
+6. The permanent-largest-empire route closes. Cooperation with Sylvan and the legitimate leaders for control of a city becomes the older group's only constructive option.
+7. Samuel's final bargain fails because Sylvan will not voluntarily re-enter controlled dependence; the refusal confirms rather than creates the completed qualification.
+8. Placement eligibility locks and the process formally separates Samuel from Sylvan.
+9. Samuel loses all process-provided attack systems and receives $15 million to execute his plan independently.
+10. Samuel keeps the terminal war alive and tries to force the colonization process into an apocalyptic culmination that establishes him as a living god.
+11. Every failed sign or intervention drives a larger escalation and consumes the allocation within days.
+12. Sylvan and Orzai need only survive and refuse renewed attachment.
+13. The balance reaches zero and proves genuine failure of the independently funded plan.
+14. Specific process rules delete Samuel's Daemon, place him into a stasis-like coma, and direct biological synthetics to transport him to the older contained criminal group leaders.
+15. George functions as the visible operational scapegoat for Samuel's failed godhood campaign.
+16. Konrad is pulled out of the story environment that contained him for almost a century and made to confront the connected reproductive and genealogical reality.
+17. Samuel remains inside the process without active-participant status while the connected record of everything he did is presented.
+18. Sylvan and Orzai accept an exploratory placement, travel, and consider offers made because their new-generation Luminai bonds are desirable.
+19. Orzai accepts the completed result first, lets the process carry Samuel's exposure, and leads Sylvan into their final decisions.
+20. They choose the country where they want to build their House.
 
 ## Continuity consequences
 
@@ -141,6 +145,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 through RW-09 are author-accepted at macro depth. Continue with Module 10 and choose the historical question and viewpoint that carry the reader into the next book.
+RW-01 through RW-10 are author-accepted at macro depth. Choose one focused implementation pass: define Samuel's exact lie about Sylvan and the Luminai, define the governing meaning of taking Sylvan by the forty-second-birthday cutoff, or prototype the Book One handoff that reveals the real imperial bait.
 
 This is advisory structure. Only the author can accept the creative answer.

@@ -8,7 +8,7 @@ updated: 2026-09-11
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-09 are author-accepted. Continue with RW-10: which earlier historical question does Book One open, and which character carries the first scene of the next book?
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-10 are author-accepted. The reassessment workshop is complete; use its unresolved mechanism and scene questions for the next focused pass.
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 
@@ -98,3 +98,5 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-071 | What communication, permission, latency, evidence, and refusal architecture connects George on the new planet to Samuel on the previous containment planet? | [[02 Story/Characters/George White - The Collapse of the Lie]] | open |
 | Q-072 | What exact customized bargain does Samuel offer Sylvan, and what does Samuel Jr. know, want, refuse, or preserve? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-073 | What final placements, remedies, privacy protections, and differentiated accountability follow after Samuel has no more deals or moves? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
+| Q-074 | What exact rule constitutes successfully taking Sylvan, what time convention governs the fixed cutoff on his forty-second birthday, why is the permanent-largest-empire prize safe to offer, and what authority and obligations accompany the remaining city path through cooperation? | [[01 Sessions/Daily/2026-09-11 - RW-10 Permanent Empire Bait]] | partially resolved |
+| Q-075 | What false account of Sylvan and the new-generation Luminai does Samuel give Konrad, what evidence makes it credible, and which truth would have caused Konrad to leave containment? | [[01 Sessions/Daily/2026-09-11 - RW-10 Permanent Empire Bait]] | open |

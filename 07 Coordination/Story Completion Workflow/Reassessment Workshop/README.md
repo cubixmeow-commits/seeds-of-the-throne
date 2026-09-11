@@ -1,7 +1,7 @@
 ---
 type: workshop-index
-status: active
-updated: 2026-09-10
+status: complete
+updated: 2026-09-11
 assessment: 07 QA/2026-09-09 - Current Story Reassessment.md
 ---
 
@@ -34,19 +34,19 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 # Priority 5 - Make Book One launch the series
 
-- [ ] **RW-10: Reverse-series handoff.** Close Book One while creating dramatic questions for the earlier history.
+- [x] **RW-10: Reverse-series handoff.** A real chance at permanent control of the largest empire becomes the primary leaders' bait; failure closes that route and leaves cooperation for a city.
 
 # Weekly completion gate
 
-- [ ] The terminal sequence has an established causal order.
-- [ ] Samuel's resource burn and zero-balance rule are set up before payoff.
-- [ ] Sylvan and Orzai's accepted future is specific enough to carry emotional closure.
-- [ ] Exposure protects victims and descendants while proving command responsibility.
-- [ ] The ending creates a compelling reason to enter the earlier books.
+- [x] The terminal sequence has an established causal order.
+- [x] Samuel's resource burn and zero-balance rule are set up before payoff.
+- [x] Sylvan and Orzai's accepted future is specific enough to carry emotional closure.
+- [x] Exposure protects victims and descendants while proving command responsibility.
+- [x] The ending creates a compelling reason to enter the earlier books.
 
-## Current starting point
+## Completion result
 
-Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/10 - Reverse series handoff]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+All ten modules are author-accepted at macro depth. The workshop establishes the terminal sequence, constructive placement, authentication boundary, middle-story capacities, institutional conclusion, and reverse-series handoff. Continue with scene and mechanism development from the unresolved questions; do not reopen these macro decisions without new author direction.
 
 ## Historical workflow
 
