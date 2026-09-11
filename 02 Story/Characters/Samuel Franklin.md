@@ -182,6 +182,16 @@ This is an invented apocalyptic mechanism, not a direct use of any real religiou
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-02 War and Apocalyptic Godhood Burn]].
 
+## Established post-processing placement — 2026-09-10
+
+When Samuel's independently funded plan genuinely fails, his Daemon is immediately deleted because he no longer qualifies as an active participant. Samuel is placed into a stasis-like coma and moved by biological synthetics to a physical location containing the older leaders of the contained criminal groups. He does not leave the colonization process.
+
+The connected record of everything he did is presented while he remains there without his Daemon. The consequence directly destroys his method of partitioning victims, histories, and explanations into separate realities and leaves him alone to face the people and consequences he spent decades controlling.
+
+The real leaders allow the finite independent attempt to reach genuine failure because Samuel's choices must prove that he will not voluntarily stop. Exact location design, audience protections, and safeguards against renewed coercion remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
+
 ## Revenge against the bloodlines
 
 Samuel's later targeting of the Fitzgerald breeding program is rooted directly in exile.

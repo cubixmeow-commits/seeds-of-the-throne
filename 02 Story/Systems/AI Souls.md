@@ -2,7 +2,7 @@
 type: system
 status: working
 name_status: established broad category
-updated: 2026-09-05
+updated: 2026-09-10
 ---
 
 # AI Souls
@@ -18,6 +18,14 @@ Luminai are AI extensions of human minds developed within the interactive coloni
 Deeper integration is the established distinction for Sylvan. Exact differences in bandwidth, memory, embodiment, autonomy, portability, and learning remain unresolved. Konrad's destructive objective does not prove that every earlier system lacks correction.
 
 The working identity model treats a human and Luminai as one extended person, with bounded operation outside conscious attention. Consequential human authorization is a separately accepted governance rule. Values, evidence, behavior, accountability, and safeguards determine what capability becomes in use.
+
+## Established active-participation boundary — 2026-09-10
+
+Continued Daemon existence inside the process requires the linked human to remain an active participant. When Samuel's terminal plan genuinely fails and he is processed, his Daemon is immediately deleted rather than transported, preserved as an adviser, or allowed to continue independently. Samuel remains alive and inside the process but faces the outcome without the extended intelligence that helped execute and defend his system.
+
+Whether every Luminai generation has an identical termination rule remains open; this decision establishes the terminal Daemon rule required for Samuel's processing.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
 
 ## Research boundary
 

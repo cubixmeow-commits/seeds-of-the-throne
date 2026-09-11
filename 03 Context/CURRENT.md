@@ -12,7 +12,9 @@ The new governing assessment is [[07 QA/2026-09-09 - Current Story Reassessment]
 
 RW-02 is author-accepted: Samuel uses the $15 million to keep the terminal war alive and manufacture an apocalyptic culmination intended to establish him as a living god. Every failed sign or intervention drives a larger escalation, rapidly consuming the allocation. He understands individual costs but cannot conserve resources without conceding that the war and his divinity claim are over.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/03 - Processing and exposure|RW-03]] and reevaluates later modules after every accepted answer.
+RW-03 is author-accepted: genuine failure of Samuel's independent plan triggers immediate processing under specific pre-established rules. His Daemon is deleted because Daemon existence requires active participation. Samuel enters a stasis-like coma and biological synthetics physically transport him to a location containing the older contained criminal group leaders. He remains inside the process without active-participant status or a Daemon while everything he did is presented. The real leaders allow the bounded final attempt to reach actual failure because Samuel's own choices must prove that he will not voluntarily stop.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/04 - Sylvan and Orzai placement|RW-04]] and reevaluates later modules after every accepted answer.
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

@@ -1,10 +1,12 @@
 ---
 type: workshop-module
-status: open
+status: author-accepted
 module: RW-03
 title: Processing and exposure
 gate: How does a zero balance automatically cause Samuel's processing and full exposure?
 prerequisites: RW-01, RW-02
+updated: 2026-09-10
+accepted: 2026-09-10
 ---
 
 # RW-03: Processing and exposure
@@ -17,6 +19,16 @@ Establish the rule, mechanism, and evidence release that convert financial exhau
 
 When Samuel's $15 million reaches zero, he is processed immediately. His full conduct is exposed. No additional violation, review, bargain, or equalized phase intervenes.
 
+## Accepted result
+
+Processing does not remove Samuel from the colonization process. He remains inside it and is placed among the groups he terrorized. Everything he did is presented while he is present, joining conduct that he previously partitioned across different groups and controlled explanations.
+
+When Samuel's independent plan genuinely fails at zero balance, specific pre-established process rules execute immediately. His Daemon is deleted because Daemon existence requires active participation. Samuel enters a stasis-like coma, and biological synthetics physically move him to a location containing the older leaders of the contained criminal groups. He remains inside the process but is no longer an active participant and faces the complete presentation without his Daemon.
+
+The real leaders permit the bounded independent attempt to reach actual failure because it demonstrates through Samuel's choices that he will not voluntarily stop. The complete conduct record can be presented to the affected groups without requiring every victim's private identifying information to become unrestricted public material. Exact interfaces, location design, audience layers, and safety protections remain later implementation work.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
+
 ## Four possibilities
 
 1. **Preaccepted terminal contract:** accepting the allocation includes a binding consequence at zero. Clean and voluntary, but requires proof Samuel understood it.
@@ -26,7 +38,7 @@ When Samuel's $15 million reaches zero, he is processed immediately. His full co
 
 ## Central author gate
 
-How does a zero balance automatically cause Samuel's processing and full exposure?
+How does a zero balance automatically cause Samuel's processing and full exposure? **AUTHOR-ACCEPTED 2026-09-10.**
 
 Specify what records the balance, what executes processing, and how exposure is divided by audience.
 

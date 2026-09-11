@@ -15,7 +15,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 - [x] **RW-01: Book One terminal sequence.** Qualification is certified; placement eligibility locks and separation executes automatically.
 - [x] **RW-02: Samuel's rapid resource burn.** He finances a dying war and escalates an apocalyptic godhood campaign until the allocation is gone.
-- [ ] **RW-03: Processing and exposure.** Establish how zero balance triggers processing and releases the record.
+- [x] **RW-03: Processing and exposure.** Failed plan deletes Samuel's Daemon, initiates stasis and synthetic transport, and places him before the older group leaders for the complete presentation.
 
 # Priority 2 - Make the constructive ending tangible
 
@@ -46,7 +46,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 ## Current starting point
 
-Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/03 - Processing and exposure]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/04 - Sylvan and Orzai placement]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
 
 ## Historical workflow
 

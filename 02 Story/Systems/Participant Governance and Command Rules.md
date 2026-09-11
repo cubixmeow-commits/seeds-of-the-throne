@@ -1,7 +1,7 @@
 ---
 type: system
 status: working
-updated: 2026-09-06
+updated: 2026-09-10
 themes: participants, governance, command authority, containment, permissions, accountability
 ---
 
@@ -33,6 +33,16 @@ The key distinction is:
 **Universal technical reach does not imply universal participant permission.**
 
 Participants operate inside a rule-bound environment designed to preserve agency, accountability, evidence, containment integrity, and the developmental purpose of the colony.
+
+## Established terminal processing rule — 2026-09-10
+
+The real leaders permit Samuel a finite independent attempt after separation so that the process records what he freely does without borrowed systems. They do not end the attempt merely because they predict continued harm or believe reform is impossible. Bounded resources and specific rules allow Samuel to demonstrate that he will not voluntarily stop while preventing an indefinite war.
+
+When the plan genuinely fails at zero balance, processing executes immediately. Samuel's active-participant status ends, his Daemon is deleted, he enters a stasis-like coma, and biological synthetics transport him to the older contained criminal group leaders for the complete presentation of his conduct. He remains within the colonization process and subject to its rules.
+
+This establishes the terminal consequence without granting the affected leaders ownership over Samuel or unrestricted access to victims' private information. Exact safety and audience controls remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
 
 ## Environment commitment boundary
 
