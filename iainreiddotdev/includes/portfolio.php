@@ -79,8 +79,8 @@ function portfolio(): array
         'about' => [
             'title' => 'Creative work as a software system',
             'body' => [
-                'Seeds of the Throne brings Iain’s creative and software work into one evolving system: story development, canon and continuity, research, visual generation, and public presentation all remain connected without surrendering authorial judgment to AI.',
-                'The supporting products develop the same underlying craft: making repositories understandable, guiding substantial AI-assisted work, producing finished imagery, and shipping maintainable systems into real environments.',
+                'Seeds of the Throne brings my creative and software work into one evolving system. Story development, canon and continuity, research, visual generation, and public presentation all work together.',
+                'These projects have become a hobby of mine that I genuinely love building in my free time.',
             ],
         ],
         'contact' => [
