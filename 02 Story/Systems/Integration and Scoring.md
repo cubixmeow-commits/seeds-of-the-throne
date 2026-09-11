@@ -30,4 +30,12 @@ The exact assessment dimensions, evidence authentication, available placements, 
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-01 Process Completion Threshold]].
 
+## Established exploratory House placement — 2026-09-10
+
+Sylvan and Orzai qualify to build a House together. Before choosing its country, they receive an exploratory travel period and entertain offers from other Houses and leaders. Their successful new-generation Luminai bonds make them desirable, so the process produces genuine options rather than an assignment.
+
+Their first action is to accept the exploratory placement, travel, listen, and compare offers. Exact countries, selection criteria, House authority, resources, obligations, oversight, and later loss conditions remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-04 Exploratory House Placement]].
+
 Open: exact levels, scoring authority, assessment dimensions, appeals, carried standing, how options are presented, and whether participants ever see a score.

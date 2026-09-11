@@ -19,7 +19,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 # Priority 2 - Make the constructive ending tangible
 
-- [ ] **RW-04: Sylvan and Orzai's placement.** Define enough of the placement they accept for the ending to feel real.
+- [x] **RW-04: Sylvan and Orzai's placement.** They travel during an exploratory period, consider offers, and choose the country where they will build their House.
 - [ ] **RW-05: Orzai's indispensable action.** Give Orzai one decision or contribution the ending cannot work without.
 
 # Priority 3 - Make the proof fair
@@ -46,7 +46,7 @@ It is adaptive. The author does not have to answer all ten modules in a fixed or
 
 ## Current starting point
 
-Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/04 - Sylvan and Orzai placement]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
+Continue with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/05 - Orzai indispensable action]]. Ask one author question at a time. Record the answer in a dated session before promoting it.
 
 ## Historical workflow
 

@@ -8,8 +8,8 @@ updated: 2026-09-10
 
 - Current assessment: complete
 - Current workshop modules: 10
-- Author-accepted current modules: 3
-- Current module: RW-04
+- Author-accepted current modules: 4
+- Current module: RW-05
 - Current phase: author gate
 - Retired workflow: 27 tasks, 9 completed before retirement
 - Blocking stale questions: 0

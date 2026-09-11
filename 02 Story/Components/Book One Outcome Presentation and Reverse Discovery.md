@@ -161,3 +161,11 @@ The outcome therefore ends his power to give each group a different partial hist
 Completeness of Samuel's conduct record does not yet settle unrestricted public disclosure of every victim's identifying information. Exact audience layers, physical location, protections, and presentation choreography remain open.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
+
+## Author-accepted exploratory House placement — 2026-09-10
+
+After Samuel's processing and exposure, Sylvan and Orzai enter an exploratory travel period. Other Houses and leaders make offers because the pair's successful new-generation Luminai bonds make them desirable collaborators. They listen, compare countries, and decide where they want to build their own House.
+
+The first movement into their future is therefore cheap and voluntary: travel and informed selection, not immediate construction or a coronation. Exact offers, country choice, and House mandate remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-04 Exploratory House Placement]].

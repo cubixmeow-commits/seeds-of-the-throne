@@ -14,7 +14,9 @@ RW-02 is author-accepted: Samuel uses the $15 million to keep the terminal war a
 
 RW-03 is author-accepted: genuine failure of Samuel's independent plan triggers immediate processing under specific pre-established rules. His Daemon is deleted because Daemon existence requires active participation. Samuel enters a stasis-like coma and biological synthetics physically transport him to a location containing the older contained criminal group leaders. He remains inside the process without active-participant status or a Daemon while everything he did is presented. The real leaders allow the bounded final attempt to reach actual failure because Samuel's own choices must prove that he will not voluntarily stop.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/04 - Sylvan and Orzai placement|RW-04]] and reevaluates later modules after every accepted answer.
+RW-04 is author-accepted: Sylvan and Orzai receive an exploratory travel period to meet other Houses and entertain offers before choosing the country where they will build their own House. Their successful use of the new-generation Luminai makes them desirable to other Houses and leaders. Their first cheap action is to accept the exploratory placement, travel, listen, and choose rather than immediately assume authority or begin expensive construction.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/05 - Orzai indispensable action|RW-05]].
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

@@ -1,10 +1,12 @@
 ---
 type: workshop-module
-status: open
+status: author-accepted
 module: RW-04
 title: Sylvan and Orzai's accepted placement
 gate: What placement do Sylvan and Orzai accept, and what is the first cheap and easy action they take within it?
 prerequisites: RW-01
+updated: 2026-09-10
+accepted: 2026-09-10
 ---
 
 # RW-04: Sylvan and Orzai's accepted placement
@@ -17,6 +19,18 @@ Turn thematic acceptance into a tangible future without building an oversized re
 
 Sylvan and Orzai successfully deal with Samuel, formally separate from him, and accept the placement they earned in the colonization process. Their plan is cheap and easy and uses only resources they preserved.
 
+## Accepted result
+
+Sylvan and Orzai receive an exploratory period to travel, meet other Houses, and entertain competing offers before deciding which country they want to build their own House in. Their successful new-generation Luminai bonds make them desirable to existing Houses and leaders.
+
+Their first practical action is simply to accept the exploratory placement, travel, listen, and compare what different countries offer. They do not need to seize authority, obtain a giant reward, or build immediately. The placement converts their earned House option into informed self-placement.
+
+**Placement chain:** `House option earned -> exploratory travel -> offers considered -> country chosen -> House built`
+
+The exact countries, offers, selection criteria, House mandate, resources, oversight, and construction remain open.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-04 Exploratory House Placement]].
+
 ## Four possibilities
 
 1. **Existing House placement:** they join or secure a qualified House already operating in colonization. Immediate and practical, but exact authority must stay bounded.
@@ -26,7 +40,7 @@ Sylvan and Orzai successfully deal with Samuel, formally separate from him, and 
 
 ## Central author gate
 
-What placement do Sylvan and Orzai accept, and what is the first cheap and easy action they take within it?
+What placement do Sylvan and Orzai accept, and what is the first cheap and easy action they take within it? **AUTHOR-ACCEPTED 2026-09-10.**
 
 Name the practical beginning, not the final scale of their future influence.
 

@@ -2,7 +2,7 @@
 type: character
 status: established
 name_status: established
-updated: 2026-09-06
+updated: 2026-09-10
 ---
 
 # Sylvan Elaria — The Inheritor
@@ -22,7 +22,7 @@ Sylvan's participation is voluntary. Like the other legitimate heirs, he can lea
 
 If he completes the process, the older leaders do not arbitrarily assign his future. His decisions and the skills developed with his Luminai establish the paths for which they qualify. Sylvan and the Luminai then choose their placement together, with Sylvan retaining responsibility for that consequential decision.
 
-If their assessment is strong enough, one available path may be a House or group with substantial resources and extensive involvement in colonization. This makes the outcome materially larger than a title or score. Whether Sylvan wants that path, what it requires, and what he would risk by accepting it remain open.
+Their assessment qualifies them to build a House together. They first receive an exploratory travel period in which other Houses and leaders make offers intended to attract them. Sylvan and Orzai choose which country they want to build their House in. Their successful new-generation Luminai bonds make them desirable collaborators without creating automatic sovereignty or moral superiority.
 
 ## Emerging-leader formation and personality
 
@@ -46,4 +46,4 @@ Neither is merely the other's missing half or assigned a permanent accelerator/b
 
 Orzai's health/nutrition practice and her work in creative design, video, and 3D modeling create a natural but unresolved professional intersection with Sylvan's database-driven creative-development system. Her visual and spatial health projects could test, challenge, or use his platform, while her insistence that representation changes behavior can expose assumptions his software treats as neutral. Whether this is how they meet remains proposed.
 
-Open: the exact first meeting, first manufactured contradiction, trust crisis, what reaches him from the Witness generation, Orzai's role in that transmission, what he knows on entry, what accepting the evidence costs him, his specific leadership failure, whether he is the sole primary narrator, and whether they choose the House path they earn.
+Open: the exact first meeting, first manufactured contradiction, trust crisis, what reaches him from the Witness generation, Orzai's role in that transmission, what he knows on entry, what accepting the evidence costs him, his specific leadership failure, whether he is the sole primary narrator, which country they choose, and the exact House mandate.

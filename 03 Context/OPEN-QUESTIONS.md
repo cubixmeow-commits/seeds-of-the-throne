@@ -8,7 +8,7 @@ updated: 2026-09-10
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-03 are author-accepted. The highest remaining dependency is the tangible placement Sylvan and Orzai accept and the first cheap action they take within it. Later modules address Orzai's indispensable action, authentication, George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
+Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-04 are author-accepted. The highest remaining dependency is the independent decision or action by Orzai that the ending cannot succeed without. Later modules address authentication, George and Konrad's distinct functions, employment preparation, institutional accountability, and the reverse-series handoff.
 
 # Open Questions
 

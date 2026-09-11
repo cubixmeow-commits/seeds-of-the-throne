@@ -35,6 +35,8 @@ The right to leave prevents cultivation from becoming imprisonment. It applies t
 
 A highly qualified human–Luminai pair may earn the option to establish or receive a House or group with substantial resources and a major role in the continuing colonization process. That path offers independently built institutional responsibility rather than a return to inherited office. It is chosen by the pair after assessment, not assigned arbitrarily by the older leaders.
 
+**Established Sylvan–Orzai placement:** after qualification, they receive an exploratory period to travel and consider offers from other Houses and national leaders. Their successful new-generation Luminai bonds make them desirable collaborators. They use the period to choose the country where they want to build their House rather than being assigned to one by their parents or the process.
+
 ## Why the older leaders waited
 
 ### They want their children to have lives larger than inherited office
