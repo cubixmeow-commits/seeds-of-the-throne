@@ -75,27 +75,24 @@ $completionPointerPath = '07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TO
 $completionRegistryPath = '07 Coordination/Story Completion Workflow/TASK-REGISTRY.md';
 $completionCurrentPath = '07 Coordination/Story Completion Workflow/CURRENT.md';
 $completionSweeps = [
-    'Reassessment',
-    'Causal sequence',
-    'Character agency',
-    'Systems + evidence',
-    'Scene design',
+    'Book One architecture',
+    'Scene packets',
     'Draft',
+    'Revision',
 ];
 $completionPublicLabels = [
-    1 => 'Terminal chain',
-    2 => 'Constructive ending',
-    3 => 'Proof and recognition',
-    4 => 'Middle and accountability',
-    5 => 'Series handoff',
+    1 => 'Contest and countdown',
+    2 => 'Opening and human story',
+    3 => 'Evidence and final choices',
+    4 => 'Scene-ready sequence',
 ];
 $completion = [
     'available' => false,
     'completed' => 0,
     'total' => 0,
     'percent' => 0,
-    'current_sweep' => 'Reassessment',
-    'current_task' => 'RW-01',
+    'current_sweep' => 'Book One architecture',
+    'current_task' => 'BA-01',
     'active_sweep' => 0,
     'working_fronts' => [],
 ];
@@ -149,7 +146,7 @@ if (
                 if (preg_match('/\*\*Current sweep:\*\*\s*([^\n]+)/', $currentContents, $sweepMatch) === 1) {
                     $completion['current_sweep'] = trim($sweepMatch[1]);
                 }
-                if (preg_match('/\*\*Current task:\*\*\s*((?:SC|RW)-\d{2,3})\b/', $currentContents, $taskMatch) === 1) {
+                if (preg_match('/\*\*Current task:\*\*\s*((?:SC|RW|BA)-\d{2,3})\b/', $currentContents, $taskMatch) === 1) {
                     $completion['current_task'] = $taskMatch[1];
                 }
                 $sweepNeedle = strtolower(strtok($completion['current_sweep'], ' ') ?: 'macro');
@@ -174,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260911-workshop-complete';
+$assetVersion = '20260911-book-one-architecture';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 

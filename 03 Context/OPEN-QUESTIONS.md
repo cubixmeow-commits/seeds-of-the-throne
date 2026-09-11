@@ -1,14 +1,20 @@
 ---
 type: context
 status: active
-updated: 2026-09-10
+updated: 2026-09-11
 ---
+
+## Active Book One architecture workshop — 2026-09-11
+
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. Begin with BA-01: what exact observable condition would count as successfully taking Sylvan before his forty-second birthday?
+
+Later modules address Samuel's lie to Konrad, the birthday countdown, Book One's opening, its indispensable middle, Sylvan and Orzai's relationship arc, evidence order, George's final choice, Konrad's final move, and the final sequence contract. Ask one gate at a time and reassess after every accepted answer.
 
 ## Current reassessment workshop - 2026-09-09
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-Current unresolved work is organized adaptively in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Continue through focused mechanism and scene questions rather than another broad author-question sweep.
+RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Its unresolved implementation work is now routed through the active Book One architecture workshop above.
 
 # Open Questions
 

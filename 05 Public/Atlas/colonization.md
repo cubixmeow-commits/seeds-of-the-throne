@@ -59,6 +59,6 @@ The primary leaders deliberately give the contained group real agency, strict ru
 
 The completed planet validates the primary leaders' design. Its long behavioral record settles major larger-humanity debates about conduct, evil, responsibility, mental illness, and distinctive interests. The conclusion does not equate illness with evil or harmless identity and consensual interest with wrongdoing. It distinguishes explanations and capacities from coercive choices and accountable conduct.
 
-The completed [reassessment workshop](workshop.html) records the ten macro decisions. Exact safeguards, propositions, and later policies remain open for focused development.
+The completed reassessment records the ten macro ending decisions. The current [Book One architecture workshop](workshop.html) develops the path that makes those results work as a novel. Exact safeguards, propositions, and later policies remain open for focused development.
 
 Sources: [[02 Story/Components/Core Premise]], [[03 Context/WORLD]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Components/Hidden Technological Foundation and Awakening]].

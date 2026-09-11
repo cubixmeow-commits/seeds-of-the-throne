@@ -76,7 +76,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       ['/iainreiddotdev/project-explorer/?view=overview', 'Overview', 'See how the authoring system turns ordinary language into finished story work.'],
       ['/iainreiddotdev/project-explorer/?view=sources', 'Story', 'Open the public story pages and the reviewed Markdown behind them.'],
       ['/iainreiddotdev/project-explorer/?view=evidence', 'Decisions', 'Trace assessments, research boundaries, contradictions, and accepted decisions.'],
-      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Review the ten decisions that now define the ending.'],
+      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Build the missing path through Book One.'],
     ]) {
       const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
       await page.waitForTimeout(150);
@@ -296,15 +296,15 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await assertNoOverflow(320, 'vault-overview-zoom200');
 
   // Workshop persistence/import/export on Project Explorer.
-  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=RW-01#session');
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=BA-01#session');
   await page.locator('#workshop-answer').waitFor();
-  const answer = 'Module: RW-01 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
+  const answer = 'Module: BA-01 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
   await page.locator('#workshop-answer').fill(answer);
   await page.reload();
   await page.locator('#workshop-answer').waitFor();
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer draft did not survive reload');
-  await page.locator('#workshop-module').selectOption('RW-02');
-  await page.locator('#workshop-module').selectOption('RW-01');
+  await page.locator('#workshop-module').selectOption('BA-02');
+  await page.locator('#workshop-module').selectOption('BA-01');
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer module switch lost draft');
   const download = page.waitForEvent('download');
   await page.getByRole('button', { name: 'Export answer as Markdown', exact: true }).click();
@@ -317,7 +317,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await page.locator('#workshop-import').setInputFiles(file);
   await page.waitForTimeout(150);
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer import mismatch');
-  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-reassessment-workshop-v1:') || k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
+  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-book-one-architecture-workshop-v1:') || k.startsWith('seeds-reassessment-workshop-v1:') || k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
 
   // Theme toggle remains available beside the hamburger.
   await page.setViewportSize({ width: 375, height: 900 });

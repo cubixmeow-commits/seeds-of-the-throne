@@ -52,7 +52,8 @@ $vaultLinks = [
     ['See the current resume point', '07 Coordination/CURRENT-PICKUP.md'],
     ['Read accepted decisions', '07 QA/Decisions.md'],
     ['See unresolved conflicts', '07 QA/Contradictions.md'],
-    ['Review the completed workshop', '07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md'],
+    ['Open the current Book One workshop', '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md'],
+    ['Read the Book One buildability assessment', '07 QA/2026-09-11 - Book One Buildability Assessment.md'],
     ['See the development tools', '08 Story Loop/README.md'],
     ['Read the planned authorship system', '07 Coordination/Authoring System/README.md'],
 ];

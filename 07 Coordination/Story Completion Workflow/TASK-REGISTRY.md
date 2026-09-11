@@ -1,15 +1,30 @@
 ---
 type: task-registry
-status: retired
-updated: 2026-09-09
+status: historical-and-current-index
+updated: 2026-09-11
 source: 07 Coordination/Weekly Synthesis/Runs/2026-08-23/12 Weekly Story Completion Todo.md
 ---
 
-# Retired Story Completion Task Registry
+# Story Completion Task Registry
 
 This 27-task registry is preserved as historical development evidence. On 2026-09-09 the author retired its incomplete remainder because the story and ending had moved beyond the questions it encoded.
 
-SC-001 through SC-009 retain their completed historical findings. SC-010's remaining gate and SC-011 through SC-027 are retired, not pending. Current development now uses the [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]].
+SC-001 through SC-009 retain their completed historical findings. SC-010's remaining gate and SC-011 through SC-027 are retired, not pending. RW-01 through RW-10 are complete. Current development now uses the [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]].
+
+## Current Book One architecture modules
+
+| ID | Priority | Module | Depth | Phase | Validation |
+| --- | ---: | --- | --- | --- | --- |
+| BA-01 | 1 | Define “take Sylvan” | MACRO / MECHANISM | AUTHOR-GATE | OPEN |
+| BA-02 | 1 | Samuel's lie to Konrad | MECHANISM | BLOCKED | OPEN |
+| BA-03 | 1 | Forty-second-birthday countdown | SEQUENCE | BLOCKED | OPEN |
+| BA-04 | 2 | Book One opening | SEQUENCE | BLOCKED | OPEN |
+| BA-05 | 2 | Indispensable middle | SEQUENCE | BLOCKED | OPEN |
+| BA-06 | 2 | Sylvan and Orzai's relationship arc | CHARACTER / SEQUENCE | BLOCKED | OPEN |
+| BA-07 | 3 | Evidence and exposure order | EVIDENCE / SEQUENCE | BLOCKED | OPEN |
+| BA-08 | 3 | George's final choice | CHARACTER / SCENE | BLOCKED | OPEN |
+| BA-09 | 3 | Konrad's final move | CHARACTER / SCENE | BLOCKED | OPEN |
+| BA-10 | 4 | Book One sequence contract | SEQUENCE | BLOCKED | OPEN |
 
 | ID | Priority | Task | Depth | Phase | Validation | Direct prerequisites |
 |---|---:|---|---|---|---|---|
@@ -58,4 +73,4 @@ SC-001 through SC-009 retain their completed historical findings. SC-010's remai
 
 ## Historical boundary
 
-Do not route author work through this table or report 9 of 27 as current progress. Preserve the table so accepted decisions and the evolution of the workflow remain auditable.
+Do not route author work through the SC or RW tables or report 9 of 27 as current progress. Use the BA table and active workshop at the top. Preserve the historical tables so accepted decisions and the evolution of the workflow remain auditable.

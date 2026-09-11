@@ -37,4 +37,4 @@ The brief is preliminary. Its complete source list has not become a verified cat
 
 Neither a biological identity check nor individualized learning guarantees security. Neither intelligence nor deeper integration guarantees virtue. The story has to earn those outcomes through conduct and accountable institutions.
 
-Source: [[04 Research/Findings/48 - Luminai Evidence Audit and Architecture Boundaries]]. [Explore the authentication workshop](workshop.html?module=RW-06#session).
+Source: [[04 Research/Findings/48 - Luminai Evidence Audit and Architecture Boundaries]]. [Develop the evidence order](workshop.html?module=BA-07#session).

@@ -2,7 +2,7 @@
 
 The public atlas sources are reviewed Markdown in `05 Public/Atlas/`. Canon remains in `02 Story/`; each public page links the notes from which its copy was selected. Canonical changes still require editorial review before changing public copy. The builder prevents drift between a reviewed source and its generated views; it does not decide canon.
 
-The workshop source of truth is `07 Coordination/Story Completion Workflow/Reassessment Workshop/`. The builder and checker share `scripts/workshop_contract.py`, which requires the unique sequential set RW-01 through RW-10. Prerequisite values must be `none`, a named supported label, a required module ID, or a supported ID range. Unknown or malformed values fail. The retired twenty-module workshop remains historical and is not the validation contract.
+The active workshop source of truth is `07 Coordination/Story Completion Workflow/Book One Architecture Workshop/`. The builder and checker share `scripts/workshop_contract.py`, which requires the unique sequential set BA-01 through BA-10. Prerequisite values must be `none`, the named accepted-ending label, a required module ID, a comma-separated list of IDs, or a supported ID range. Unknown or malformed values fail. The completed reassessment and retired twenty-module workshop remain historical and are not the active validation contract.
 
 Run from the repository root:
 

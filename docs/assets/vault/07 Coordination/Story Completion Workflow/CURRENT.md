@@ -6,26 +6,28 @@ updated: 2026-09-11
 
 # Current Story Development State
 
-The old 27-task Macro Shape sweep is retired. Its nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are no longer pending author work.
+The old 27-task Macro Shape sweep is retired, and the ten-module reassessment is complete. The active pass converts that accepted ending into a buildable Book One.
 
-- **Current method:** adaptive reassessment workshop
-- **Current sweep:** Reassessment
-- **Assessment status:** COMPLETE
-- **Current workshop:** [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|Current reassessment workshop]]
-- **Current task:** Reassess and choose the first scene/mechanism pass after the completed workshop
-- **Current loop phase:** MACRO-COMPLETE
-- **Completed at this depth:** 10 / 10
+- **Current method:** dependency-ordered Book One architecture workshop
+- **Current sweep:** Book One architecture
+- **Assessment status:** COMPLETE — [[07 QA/2026-09-11 - Book One Buildability Assessment]]
+- **Current workshop:** [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]]
+- **Current task:** BA-01
+- **Current loop phase:** AUTHOR-GATE
+- **Completed at this depth:** 0 / 10
 - **Historical workflow:** 9 of 27 completed before retirement
+- **Completed reassessment:** RW-01 through RW-10 author-accepted
 
-## Why the workflow changed
+## Why this pass comes next
 
-The 27-task set was designed for an earlier version of the story. Continuing it produced questions contradicted or overtaken by newer decisions. The replacement begins from the accepted terminal chain and reevaluates dependencies after every answer.
+The ending has enough macro causality to preserve. The missing structure is earlier: the exact victory condition, Samuel's lie, the birthday clock, the opening, the indispensable middle, the relationship progression, the evidence order, George and Konrad's final choices, and a scene-ready sequence map.
 
 ## Resume
 
-1. Read the completed [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|reassessment workshop]].
-2. Use the accepted imperial-bait handoff in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/10 - Reverse series handoff|RW-10]].
-3. Select one unresolved mechanism or scene-level question from the reassessment rather than beginning another broad question sweep.
-4. Record new author direction in a dated session before promotion.
+1. Read the new [[07 QA/2026-09-11 - Book One Buildability Assessment|assessment]].
+2. Open [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]].
+3. Ask only its central author gate.
+4. Record the answer in a dated session before promotion.
+5. Reassess the remaining modules after every accepted answer.
 
-The September 5 twenty-module workshop remains completed historical development support.
+The completed reassessment and September 5 workshop remain historical development support.

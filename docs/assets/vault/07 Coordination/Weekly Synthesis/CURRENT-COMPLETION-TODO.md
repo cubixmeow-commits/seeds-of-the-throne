@@ -1,14 +1,14 @@
 ---
 type: weekly-completion-pointer
 status: active
-updated: 2026-09-09
-source_path: 07 Coordination/Story Completion Workflow/Reassessment Workshop/README.md
+updated: 2026-09-11
+source_path: 07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md
 ---
 
 # Current Story Development Agenda
 
-This pointer now routes the public progress surfaces to the current reassessment workshop. The former 27-task checklist is historical and must not be displayed as active work.
+This pointer routes public progress surfaces to the active Book One Architecture Workshop. The completed reassessment and former 27-task checklist are historical and must not be displayed as active work.
 
-The current workshop is adaptive. It shows the highest-value unresolved story dependencies without implying that every module must survive unchanged after earlier decisions.
+The current workshop is dependency ordered and adaptive. It builds the exact contest, deception, clock, opening, middle, character choices, evidence order, and sequence map needed to make Book One scene-ready.
 
-Source assessment: [[07 QA/2026-09-09 - Current Story Reassessment]].
+Source assessment: [[07 QA/2026-09-11 - Book One Buildability Assessment]].

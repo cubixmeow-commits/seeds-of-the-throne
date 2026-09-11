@@ -53,9 +53,9 @@ if source_modules:
     source_ids=[item['id'] for item in source_modules]
     generated_ids=[item.get('id') for item in data.get('modules', [])]
     if source_ids!=generated_ids:
-        errors.append('generated workshop IDs do not match the RW-01 through RW-10 source set')
+        errors.append('generated workshop IDs do not match the BA-01 through BA-10 source set')
 if len(data.get('modules', [])) != EXPECTED_MODULE_COUNT:
-    errors.append(f'Expected {EXPECTED_MODULE_COUNT} current reassessment modules RW-01 through RW-10, found {len(data.get("modules", []))}')
+    errors.append(f'Expected {EXPECTED_MODULE_COUNT} current Book One architecture modules BA-01 through BA-10, found {len(data.get("modules", []))}')
 for m in data.get('modules', []):
     text=(ROOT/m['path']).read_text()
     if text!=m['markdown']:errors.append('Workshop drift: '+m['id'])
@@ -77,4 +77,4 @@ for p in (ROOT/'05 Public/Atlas').glob('*.md'):
         if pattern in s:errors.append(f'{p.name}: stale claim {pattern}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
-print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} current source-linked reassessment modules RW-01 through RW-10; curated canon checks.')
+print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} current source-linked Book One architecture modules BA-01 through BA-10; curated canon checks.')

@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
-"""Shared reassessment-workshop contract for the site builder and checker.
+"""Shared active-workshop contract for the site builder and checker.
 
-The active workshop is the fixed RW-01 through RW-10 set. Inventory is not
+The active workshop is the fixed BA-01 through BA-10 set. Inventory is not
 whatever files happen to be present.
 """
 from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKSHOP_DIR = ROOT / '07 Coordination/Story Completion Workflow/Reassessment Workshop'
+WORKSHOP_DIR = ROOT / '07 Coordination/Story Completion Workflow/Book One Architecture Workshop'
 MODULE_GLOB = '[0-9][0-9] - *.md'
-REQUIRED_MODULE_IDS = tuple(f'RW-{index:02d}' for index in range(1, 11))
+MODULE_PREFIX = 'BA'
+WORKSHOP_LABEL = 'BA-01 through BA-10'
+REQUIRED_MODULE_IDS = tuple(f'{MODULE_PREFIX}-{index:02d}' for index in range(1, 11))
 EXPECTED_MODULE_COUNT = len(REQUIRED_MODULE_IDS)
 REQUIRED_HEADINGS = (
     'Purpose',
@@ -21,15 +23,15 @@ REQUIRED_HEADINGS = (
 )
 MIN_OPTIONS = 3
 MAX_OPTIONS = 5
-MODULE_ID_RE = re.compile(r'^RW-\d{2}$')
-REQUIRED_ID_RE = re.compile(r'^RW-(0[1-9]|10)$')
-RANGE_RE = re.compile(r'^(RW-\d{2}) through (RW-\d{2})$')
+MODULE_ID_RE = re.compile(r'^BA-\d{2}$')
+REQUIRED_ID_RE = re.compile(r'^BA-(0[1-9]|10)$')
+RANGE_RE = re.compile(r'^(BA-\d{2}) through (BA-\d{2})$')
 FILENAME_RE = re.compile(r'^(\d{2}) - .+\.md$')
 WIKI_TARGET_RE = re.compile(r'\[\[([^\]|#]+)')
 OPTION_RE = re.compile(r'^\d+\. ', re.M)
 ALLOWED_PREREQUISITE_LABELS = frozenset({
     'none',
-    'current ending macro',
+    'accepted ending macro',
 })
 
 
@@ -67,12 +69,12 @@ def resolve_wiki_path(target):
 
 def expand_prerequisite_range(start, end):
     if not REQUIRED_ID_RE.match(start) or not REQUIRED_ID_RE.match(end):
-        return None, f'prerequisite range {start} through {end} is outside RW-01 through RW-10'
+        return None, f'prerequisite range {start} through {end} is outside {WORKSHOP_LABEL}'
     start_n = int(start.split('-')[1])
     end_n = int(end.split('-')[1])
     if start_n >= end_n:
         return None, f'prerequisite range {start} through {end} is not sequential'
-    return [f'RW-{index:02d}' for index in range(start_n, end_n + 1)], None
+    return [f'{MODULE_PREFIX}-{index:02d}' for index in range(start_n, end_n + 1)], None
 
 
 def parse_prerequisites(raw):
@@ -113,18 +115,18 @@ def validate_module_id(ident, filename=None):
         errors.append(f'malformed module ID {ident!r}')
         return errors
     if ident not in REQUIRED_MODULE_IDS:
-        errors.append(f'module ID {ident} is outside the required RW-01 through RW-10 set')
+        errors.append(f'module ID {ident} is outside the required {WORKSHOP_LABEL} set')
     if filename:
         name_match = FILENAME_RE.match(filename)
         if not name_match:
             errors.append(f'{filename}: workshop module filenames must match NN - name.md')
-        elif f'RW-{name_match[1]}' != ident:
+        elif f'{MODULE_PREFIX}-{name_match[1]}' != ident:
             errors.append(f'{filename}: filename number does not match module ID {ident}')
     return errors
 
 
 def validate_workshop_sources(workshop_dir=WORKSHOP_DIR):
-    """Validate the active RW-01 through RW-10 source set. Returns (records, errors)."""
+    """Validate the active BA-01 through BA-10 source set. Returns (records, errors)."""
     records = []
     errors = []
     ids = []
@@ -165,10 +167,10 @@ def validate_workshop_sources(workshop_dir=WORKSHOP_DIR):
     if missing:
         errors.append('missing required module: ' + ', '.join(missing))
     if extra:
-        errors.append('unknown module outside RW-01 through RW-10: ' + ', '.join(sorted(extra)))
+        errors.append(f'unknown module outside {WORKSHOP_LABEL}: ' + ', '.join(sorted(extra)))
     if len(unique) != EXPECTED_MODULE_COUNT or missing or extra:
         errors.append(
-            f'expected {EXPECTED_MODULE_COUNT} unique sequential modules RW-01 through RW-10, found {len(unique)}'
+            f'expected {EXPECTED_MODULE_COUNT} unique sequential modules {WORKSHOP_LABEL}, found {len(unique)}'
         )
     return records, errors
 
@@ -197,7 +199,7 @@ def validate_generated_modules(modules):
     ids = [item.get('id') for item in modules or []]
     if ids != list(REQUIRED_MODULE_IDS):
         errors.append(
-            f'generated workshop must contain unique sequential IDs RW-01 through RW-10, found {ids}'
+            f'generated workshop must contain unique sequential IDs {WORKSHOP_LABEL}, found {ids}'
         )
     seen = set()
     for ident in ids:

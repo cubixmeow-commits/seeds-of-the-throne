@@ -4,11 +4,19 @@ status: active
 updated: 2026-09-11
 ---
 
+## Current Book One architecture questions — 2026-09-11
+
+The active dependency-ordered workshop is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. BA-01 through BA-10 move from the exact “take Sylvan” rule to a scene-ready Book One sequence contract.
+
+Current gate: **BA-01 — What exact, observable condition would have counted as successfully taking Sylvan before his forty-second birthday?**
+
+Do not copy all ten gates into an author session. Ask one, record the answer, propagate accepted canon, and reassess the remaining order.
+
 ## Current reassessment questions - 2026-09-09
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-10 are author-accepted. The reassessment workshop is complete; use its unresolved mechanism and scene questions for the next focused pass.
+RW-01 through RW-10 are author-accepted. The reassessment workshop is complete and its implementation questions are now routed through the active Book One architecture workshop above.
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 

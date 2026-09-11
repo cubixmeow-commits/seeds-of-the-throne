@@ -48,4 +48,4 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 
 Knowing the broad ending need not reveal who helped, who refused, what was misunderstood, or what was lost. Later books need local goals whose resolution still matters. Their exact order is intentionally flexible: development will select whichever return to the past is most entertaining and dramatically necessary.
 
-Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Narrative workshop](workshop.html?module=RW-10#session).
+Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Build the Book One sequence](workshop.html?module=BA-10#session).

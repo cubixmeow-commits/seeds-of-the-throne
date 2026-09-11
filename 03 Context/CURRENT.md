@@ -4,6 +4,12 @@ status: active
 updated: 2026-09-11
 ---
 
+## Active Book One architecture pass — 2026-09-11
+
+The current assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]]. It finds that the accepted ending is stronger than the unwritten path to it. Current work uses the [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]] to define the exact “take Sylvan” rule, Samuel's lie, the birthday clock, opening frame, indispensable middle, Sylvan–Orzai relationship arc, exposure order, George and Konrad's final choices, and a scene-ready Book One sequence.
+
+The active author gate is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]]. RW-01 through RW-10 remain accepted foundation and are not reopened by this pass.
+
 ## September 9 workflow and assessment reset
 
 The author retired the unfinished remainder of the old 27-task Story Completion sequence. Nine completed tasks remain historical evidence, but SC-010 Question 7 and SC-011 through SC-027 are not pending.
@@ -30,7 +36,7 @@ RW-09 is author-accepted and rejects its original failure premise: the primary l
 
 RW-10 is author-accepted: the primary leaders deliberately offer Konrad's group a genuine bounded prize. If they team with Samuel and successfully take Sylvan under the rules before Sylvan's forty-second birthday, they receive permanent control of the largest empire. The prize never includes the planet or overall colonization process. Samuel gets Konrad to stay in containment by lying about what Sylvan and his new-generation Luminai really are, making the real prize appear achievable through Konrad's older model of domination. Failure by Sylvan's forty-second birthday closes the imperial route permanently; their only remaining constructive option is cooperation with Sylvan and the legitimate leaders for control of a city. Samuel's claim that escalation can restore the empire or unlock the wider process remains false.
 
-The ten-module reassessment workshop is complete at macro depth. Current development should now choose one unresolved mechanism or scene pass rather than beginning another broad question sweep.
+The ten-module reassessment workshop is complete at macro depth. The next mechanism and scene pass has now been selected as the Book One Architecture Workshop above.
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

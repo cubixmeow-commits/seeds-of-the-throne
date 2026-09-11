@@ -1,9 +1,15 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-09
+updated: 2026-09-11
 scope: single current pickup point
 ---
+
+## Active pickup — Book One Architecture Workshop — 2026-09-11
+
+The current story pass is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. The supporting assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]].
+
+Start with [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]] and ask only its central author gate. The completed reassessment remains authoritative foundation. Material below this section is historical pickup context unless the active workshop links back to it.
 
 ## September 9 ending clarification — rapid exhaustion and constructive integration
 
@@ -118,7 +124,7 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 - SC-010 Questions 5 and 6 are accepted from the author's new decisions: bounded adversarial observation with preserved control, and repeated-pattern reconstruction across live behavior and historical evidence.
 - Resume at SC-010 Question 7. Ask one author-gate question at a time.
 
-The active workflow is the horizontal **Macro Shape** sweep from [[Story Completion Workflow/CURRENT]]. The authoritative author-facing checklist remains [[Weekly Synthesis/CURRENT-COMPLETION-TODO]].
+At that time, the active workflow was the horizontal **Macro Shape** sweep in [[07 Coordination/Story Completion Workflow/CURRENT]]. Its author-facing checklist was [[07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO]]. Both links now route to the current state rather than reviving this historical checkpoint.
 
 ## 2026-08-26 creative-pass checkpoint
 
