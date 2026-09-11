@@ -52,8 +52,8 @@ SC-001 through SC-009 retain their completed historical findings. SC-010's remai
 | RW-05 | 2 | Orzai's indispensable action | MACRO | COMPLETE | AUTHOR-ACCEPTED |
 | RW-06 | 3 | Bond and evidence authentication | MACRO | COMPLETE | AUTHOR-ACCEPTED |
 | RW-07 | 3 | George and Konrad's distinct functions | MACRO | COMPLETE | AUTHOR-ACCEPTED |
-| RW-08 | 4 | Employment-stage preparation | MACRO | AUTHOR-GATE | NOT-RUN |
-| RW-09 | 4 | Institutional accountability and repair | MACRO | IDLE | NOT-RUN |
+| RW-08 | 4 | Employment-stage preparation | MACRO | COMPLETE | AUTHOR-ACCEPTED |
+| RW-09 | 4 | Institutional accountability and repair | MACRO | AUTHOR-GATE | NOT-RUN |
 | RW-10 | 5 | Reverse-series handoff | MACRO | IDLE | NOT-RUN |
 
 ## Historical boundary

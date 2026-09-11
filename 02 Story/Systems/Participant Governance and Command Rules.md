@@ -17,6 +17,8 @@ themes: participants, governance, command authority, containment, permissions, a
 
 During the employment and later environments, Samuel may destroy projects, get Sylvan fired, deny resources, isolate him, damage his credibility, or induce other qualifying mistakes that halt progress. Losing employment now threatens immediate survival because the protected reserve has already run out.
 
+The accepted survival capacities are resource discipline, independent cooperation, and disciplined reality-and-ethical anchoring. The process can force difficult tradeoffs and test whether they remain valid participants; Samuel cannot define reality or morality for them merely by creating chaos. Exact valid processing conditions still require scene-level definition.
+
 The complete catalog must distinguish actual participant failure from an outcome Samuel merely fabricates through superior access.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].

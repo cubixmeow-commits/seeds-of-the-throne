@@ -26,7 +26,9 @@ Current author development continues with [[07 Coordination/Story Completion Wor
 
 RW-07 is author-accepted: Samuel drags George into the final apocalyptic attempt to become a living god and positions him as the operational scapegoat. George is pulled deeper into Samuel's final fantasy. Konrad is forced out of the story environment that has enclosed him for almost a century and into direct contact with Samuel's real conduct. The connected reproductive and genealogical attack against the bloodlines becomes the most intense focus and collapses Konrad's False Victory. Konrad retains substantial influence inside containment, so his final moves will materially affect the older leaders and Samuel's remaining position; the exact moves remain open.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/08 - Employment stage preparation|RW-08]].
+RW-08 is author-accepted: the reserve and employment stages develop resource discipline, independent cooperation, and disciplined reality-and-ethical anchoring. Sylvan and Orzai learn to preserve limited resources, cooperate without surrendering judgment, test explanations against evidence and outcomes, and retain chosen moral commitments as the process tries to exhaust, divide, disorient, break, or process them.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/09 - Institutional accountability|RW-09]].
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 

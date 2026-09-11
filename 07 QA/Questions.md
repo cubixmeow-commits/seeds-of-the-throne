@@ -8,7 +8,7 @@ updated: 2026-09-11
 
 The remaining questions from the old 27-task set are retired. They remain historical below where useful but are not active author prompts.
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-07 are author-accepted. Continue with RW-08: which three capacities learned during the reserve and employment stages directly enable terminal survival?
+The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]. RW-01 through RW-08 are author-accepted. Continue with RW-09: what must the legitimate leaders admit and change when Samuel is exposed?
 
 Do not copy all ten workshop questions into an author session. Ask one, record the answer, then reassess which later modules remain necessary.
 

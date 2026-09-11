@@ -14,6 +14,8 @@ Sylvan and Orzai then accept the placement they earned after successfully dealin
 
 **Terminal order:** `completed bonds + voluntary partnership + demonstrated conduct -> qualification certified -> final bargain refused -> placement eligibility locked -> formal separation -> attack access removed -> $15 million activated -> terminal war sustained -> George dragged into apocalyptic godhood campaign as operational scapegoat -> repeated escalation -> genuine failure at zero -> Daemon deleted -> stasis-like coma -> synthetic transport to older group leaders -> Konrad pulled from century-long story environment into connected bloodline reality -> process assumes complete exposure -> Orzai accepts the result and leads final decisions -> Sylvan moves forward with her -> exploratory travel -> House offers considered -> country chosen -> Sylvan and Orzai build their House`
 
+**Middle-to-ending capacity line:** `reserve discipline -> employment survival -> independent cooperation -> reality-and-ethical anchoring -> valid participation preserved -> terminal qualification`
+
 Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
 
 # Timeline

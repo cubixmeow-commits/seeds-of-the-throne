@@ -32,6 +32,8 @@ Sylvan is socially curious, verbally exploratory, energetic, and comfortable ini
 
 His preparation develops contact with reality, willingness to accept correction, respect for autonomy and consent, competence under constraint, long-horizon systems thinking, distributed authority, responsibility for indirect consequences, cross-cultural cooperation, and ethical restraint when manipulation would be efficient. These remain capacities he must choose to exercise, not virtues technology can manufacture.
 
+**Established survival pattern — 2026-09-11:** the reserve and employment stages turn those capacities into disciplined habits. Sylvan preserves limited resources, cooperates without surrendering judgment, tests explanations against evidence and outcomes, and retains chosen moral commitments as adversarial chaos tries to exhaust, divide, disorient, break, or process him. Facts remain revisable; people do not become instruments merely because the environment becomes chaotic.
+
 Sylvan's likely strengths include rapid trust-building, accessible explanation, collaborative recruitment, fast option generation, public communication without false certainty, and the ability to restore hope and movement after failure.
 
 His outgoing temperament also creates risks. He may overextend, fill silence before others are ready, mistake openness for earned trust, assume responsibility for too many people, or move toward implementation before quieter evidence has matured. His leadership development must teach him to distinguish momentum from consent, availability from obligation, and confident communication from premature closure.

@@ -45,6 +45,8 @@ Orzai's preparation is intended to expand agency and judgment rather than manufa
 
 These are developed capacities, not guaranteed moral outcomes.
 
+**Established survival pattern — 2026-09-11:** Orzai develops resource discipline, independent cooperation, and disciplined reality-and-ethical anchoring alongside Sylvan. Their shared practice allows close coordination without merged authority and preserves both reality contact and moral boundaries when the process tries to make them distrust one another, violate the rules, or become processable.
+
 ## Personality
 
 Orzai is reserved, introverted, observant, deliberate, and selective about disclosure. She does not need to dominate a room to understand it. She notices what people avoid, who has not spoken, which premise was never tested, where consensus depends on social pressure, and which commitments have quietly changed.
