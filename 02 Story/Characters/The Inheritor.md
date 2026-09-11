@@ -36,6 +36,8 @@ Sylvan's likely strengths include rapid trust-building, accessible explanation, 
 
 His outgoing temperament also creates risks. He may overextend, fill silence before others are ready, mistake openness for earned trust, assume responsibility for too many people, or move toward implementation before quieter evidence has matured. His leadership development must teach him to distinguish momentum from consent, availability from obligation, and confident communication from premature closure.
 
+At the ending, his evidence-anchored focus has served its purpose but could keep Samuel at the center of his attention after the process is ready to assume exposure. Orzai recognizes the stopping point first. Sylvan's final development includes accepting the completed result, trusting the legitimate process to carry Samuel's consequence, and moving forward with Orzai as she leads their final placement decisions.
+
 ## Complementarity with Orzai
 
 **Established progression:** Sylvan and Orzai are placed in the same environment and have the opportunity to meet and partner. Samuel attempts to prevent the relationship by manipulating their information so each appears irrational to the other. The attempt fails. They build uncertain trust, choose partnership, recognize the shared enemy, and develop their separate human–Luminai bonds while being targeted. They successfully complete the process and earn the option to secure a House together. Each remains independently assessed; the relationship strengthens rather than substitutes for qualification.

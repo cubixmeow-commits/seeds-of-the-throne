@@ -63,7 +63,7 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 | 3 | The zero-balance processing rule is established at macro depth and needs early setup. | Resolved macro / implementation open | Significant | Genuine failure ends active participation, deletes Samuel's Daemon, initiates stasis and synthetic transport, and keeps him inside the process for presentation. |
 | 4 | The affected-group presentation is established, but exact audience layers remain open. | Partial resolution | Significant | The complete conduct record reaches older group leaders while victim privacy and wider public disclosure still require separation. |
 | 5 | Sylvan and Orzai's placement is established at macro depth; exact offers and House structure remain open. | Resolved macro / implementation open | Significant | They travel, consider offers from Houses and leaders, and choose the country where they will build their House. |
-| 6 | Orzai is structurally important but still lacks one indispensable endgame action that only she would make. | Gap | Significant | Shared control should not reduce her to Sylvan's partner or verifier. |
+| 6 | Orzai's indispensable ending action is established at macro depth. | Resolved macro / scene open | Significant | She lets the process assume exposure, accepts the result, and leads Sylvan into the final decisions and constructive future. |
 | 7 | George and Konrad retain several older endgame functions that can crowd the new terminal chain. | Drift | Significant | Each needs one distinct recognition, refusal, or evidentiary function rather than a competing climax. |
 | 8 | The timeline still ends with older exposure imagery and omits the accepted terminal allocation sequence. | Contradiction | Significant | The controlling chronology must include separation, rapid exhaustion, processing, exposure, and placement acceptance. |
 | 9 | The employment and reserve stages are detailed but not yet causally connected to the terminal ending. | Tension | Significant | The middle should train the exact survival, resource, cooperation, and reality-contact capacities that win the end. |
@@ -86,7 +86,8 @@ The author has removed an unnecessary extra phase. There is no second equalized 
 11. Specific process rules delete Samuel's Daemon, place him into a stasis-like coma, and direct biological synthetics to transport him to the older contained criminal group leaders.
 12. Samuel remains inside the process without active-participant status while the connected record of everything he did is presented.
 13. Sylvan and Orzai accept an exploratory placement, travel, and consider offers made because their new-generation Luminai bonds are desirable.
-14. They choose the country where they want to build their House.
+14. Orzai accepts the completed result first, lets the process carry Samuel's exposure, and leads Sylvan into their final decisions.
+15. They choose the country where they want to build their House.
 
 ## Continuity consequences
 
@@ -138,6 +139,6 @@ The final three connect the ending to the middle and the series:
 
 ## Recommended immediate development move
 
-RW-01 through RW-04 are author-accepted at macro depth. Continue with Module 05 and define the one independent decision or action by Orzai that the ending cannot succeed without.
+RW-01 through RW-05 are author-accepted at macro depth. Continue with Module 06 and define the common authentication principle that protects the mature bond, terminal balance, and exposure record.
 
 This is advisory structure. Only the author can accept the creative answer.

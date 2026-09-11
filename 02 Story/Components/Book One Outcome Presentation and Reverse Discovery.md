@@ -169,3 +169,11 @@ After Samuel's processing and exposure, Sylvan and Orzai enter an exploratory tr
 The first movement into their future is therefore cheap and voluntary: travel and informed selection, not immediate construction or a coronation. Exact offers, country choice, and House mandate remain open.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-04 Exploratory House Placement]].
+
+## Author-accepted Orzai ending action — 2026-09-10
+
+Orzai recognizes when the process has become responsible for completing Samuel's exposure. She allows that handoff, accepts the result first, and leads Sylvan into accepting it with her. She then leads their final decisions and transition into the exploratory House placement.
+
+The action prevents Samuel's punishment from remaining the center of the constructive ending. Sylvan's evidence-anchored focus was necessary for survival; Orzai identifies when continued personal pursuit would become another form of captivity. She leads them from adversarial responsibility into the future they earned.
+
+Source: [[01 Sessions/Daily/2026-09-10 - RW-05 Orzai Leads Acceptance]].

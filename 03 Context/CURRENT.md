@@ -16,7 +16,9 @@ RW-03 is author-accepted: genuine failure of Samuel's independent plan triggers 
 
 RW-04 is author-accepted: Sylvan and Orzai receive an exploratory travel period to meet other Houses and entertain offers before choosing the country where they will build their own House. Their successful use of the new-generation Luminai makes them desirable to other Houses and leaders. Their first cheap action is to accept the exploratory placement, travel, listen, and choose rather than immediately assume authority or begin expensive construction.
 
-Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/05 - Orzai indispensable action|RW-05]].
+RW-05 is author-accepted: Orzai recognizes when the legitimate process is ready to take over Samuel's exposure. She accepts the completed result first, leads Sylvan into accepting it with her, and takes the lead in their final decisions. Her independent action moves them from adversarial responsibility into their exploratory placement so Samuel does not remain the organizing center of their future.
+
+Current author development continues with [[07 Coordination/Story Completion Workflow/Reassessment Workshop/06 - Bond and evidence authentication|RW-06]].
 
 The assessment finds that the ending is now coherent. The main structural work has moved earlier: make the path into separation inevitable, make Samuel's $15 million collapse within days credible, establish the zero-balance processing rule before payoff, and connect Sylvan and Orzai's survival skills to the cheap placement they accept.
 
