@@ -64,6 +64,8 @@ Translate approved story state into scene contracts and finished prose, then run
 
 Voice Key learns what the author notices, what counts as evidence, how causes and consequences connect, how outcomes are judged, what deserves explanation, where ambiguity belongs, and which surprising choices still feel earned. The Composition Engine uses it to select among high-quality presentation strategies before surface prose rendering. It does not merely copy conversational phrasing or add artificial errors. Detailed proposed mechanics are in [[07 Coordination/Authoring System/06 - Voice Key]].
 
+Its established functionality combines four layers: authorial decisions, prose topology, residue filtering, and recent-pattern memory. Preferences are stored as contextual ranges and distributions, not fixed commands to add fragments, asymmetry, delayed theses, or other supposed signs of human writing. The system should break unwanted regularity while refusing to turn "grit" into another formula.
+
 ## Demonstration surfaces
 
 - **Project Explorer:** explains and demonstrates the vault, author decisions, provenance, workshops, engine state, continuity, and progress toward a finished story.

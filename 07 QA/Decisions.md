@@ -10,9 +10,14 @@ updated: 2026-09-12
 - **Established purpose:** Voice Key learns how a user chooses, organizes, and presents information; it does not primarily translate speech mannerisms into prose.
 - **Established boundary:** surface voice imitation is secondary. The principal value is authorial selection across attention, causality, evidence, judgment, ambiguity, surprise, emotional distance, compression, correction, and closure.
 - **Established quality boundary:** Voice Key must improve writing quality and project identity. It must not add random errors, damage prose to appear human, maximize statistical perplexity, or promise AI-detector evasion.
+- **Established functional layers:** Voice Key combines an Authorial Decision Fingerprint, Prose Topology Profile, Residue Filter, and Pattern Memory.
+- **Established variability rule:** store ranges, distributions, contextual triggers, and recent-use history rather than imposing fragments, sentence-length patterns, list sizes, thesis placement, or paragraph endings as universal human-writing rules.
+- **Established prose function:** detect and correct unwanted syntactic regularity, structural symmetry, generic vocabulary, inflated modifiers, automatic transitions, redundant summaries, and repeated rhetorical devices when doing so improves the passage.
+- **Established pattern boundary:** a useful irregular technique must receive a recent-use penalty so it does not become a replacement formula. Intentional motifs, escalation, character voice, and callbacks may justify repetition.
 - **Working implementation:** place Voice Key inside the Composition Engine after canon and scene-contract validation and before surface prose rendering. Let it select among quality-filtered presentation strategies without changing canon or settling unresolved author decisions.
 - **Working Seeds profile:** test operational evidence, constraint-driven plot, competing definitions of victory, formal-system versus lived-reality gaps, gradual behavioral proof, asymmetrical detail, and earned closure with limited openness.
 - **Validation:** run a blind baseline versus surface-profile versus Voice Key comparison using the approved Book One outcome-presentation vertical slice.
+- **Planned calibration:** use the later [[07 Coordination/Authoring System/Voice Key Guided Transcript Workshop]] to collect natural reasoning, authorial choices, counterexamples, topology preferences, and held-out project tests. It is not the active story workshop.
 - **Source:** [[01 Sessions/Daily/2026-09-12 - Voice Key Authorial Decision Fingerprint]].
 
 ## 2026-09-11 — Surface Archive replaces Wildlife Meme Adventures as the active public direction

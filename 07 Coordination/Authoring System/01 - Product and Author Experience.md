@@ -95,6 +95,8 @@ Voice is learned from positive examples, corrections, dislikes, and explicit rul
 
 The system should use Voice Key to choose among several structurally valid presentation decisions before prose rendering. It may change information order, emphasis, explanation, focal detail, recognition timing, and degree of closure while remaining inside the scene contract. See [[06 - Voice Key]].
 
+After those decisions, the Prose Topology Profile shapes sentence and paragraph architecture, the Residue Filter identifies generic model habits, and Pattern Memory prevents successful irregular techniques from becoming a repeated formula. These controls use project- and passage-specific ranges rather than a universal definition of human prose.
+
 The system must detect both:
 
 - **prose residue:** generic phrasing, repetitive cadence, over-signposting, synthetic symmetry;

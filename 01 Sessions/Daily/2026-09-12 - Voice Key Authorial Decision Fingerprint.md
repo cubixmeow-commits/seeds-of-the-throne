@@ -19,6 +19,19 @@ Voice Key uses those deeper patterns to influence how AI writing presents inform
 
 Surface voice imitation remains a possible secondary control. It is not the core value.
 
+## Four-layer functionality locked
+
+The author established Voice Key as a connected four-layer system:
+
+1. **Authorial Decision Fingerprint** controls attention, causality, evidence, judgment, ambiguity, surprise, emotional distance, compression, correction, and closure.
+2. **Prose Topology Profile** controls the physical shape of the writing: sentence-length distribution, fragments, paragraph shape, list structure, transition density, thesis placement, and paragraph closure.
+3. **Residue Filter** detects inflated language, generic metaphors, unnecessary summaries, formal transition crutches, AI-favored vocabulary, and explanations that repeat what the scene already demonstrated.
+4. **Pattern Memory** tracks recently used structures and rhetorical devices so a useful technique does not become a new repetitive formula.
+
+Voice Key stores ranges, distributions, evidence, and recent-use history rather than universal commands. Fragments, long-short-short rhythm, delayed theses, asymmetrical lists, and unresolved paragraph endings are available choices, not mandatory signs of human writing. The system must vary them according to the author, project, passage purpose, and surrounding prose.
+
+The final check evaluates excessive regularity without automatically demanding more disorder. Readability, meaning, canon, scene function, and author approval remain higher priorities than irregularity.
+
 ## Working product description
 
 > Most AI writing tools try to copy the way a person sounds. Voice Key goes deeper than that. It learns how someone naturally chooses, organizes, and presents information, then uses those decisions to shape better AI-generated writing.
@@ -58,6 +71,8 @@ This is a writing-system direction, not new story canon. The first proposed test
 
 Voice Key should create meaningful non-default choices at the narrative level. It should not add random errors, damage grammar, maximize statistical perplexity, or promise detector evasion. Quality, canon integrity, source grounding, and author approval remain hard gates.
 
+At the prose level, it may break unwanted symmetry, vary sentence and paragraph rhythms, remove generic vocabulary, change thesis placement, and trust readers to infer demonstrated meaning. Those changes must serve the passage rather than imitate a fixed collection of supposed human tells.
+
 ## Next validation
 
 Run a blind three-way comparison on one bounded scene contract:
@@ -68,3 +83,8 @@ Run a blind three-way comparison on one bounded scene contract:
 
 Evaluate which version is best, most specific to *Seeds*, most causally convincing, least generically polished, and strongest in its presentation decisions. Do not ask only which version sounds most like the author.
 
+## Later guided-transcript workshop
+
+The author requested a dedicated workshop for gathering more Voice Key evidence through guided transcripts. The planned [[07 Coordination/Authoring System/Voice Key Guided Transcript Workshop]] contains eight resumable 10–15 minute modules spanning natural reasoning, attention, causality, evidence, reveal order, ambiguity, prose topology, residue, and *Seeds*-specific blind calibration.
+
+The workshop is deliberately scheduled for later and does not replace the active Book One Architecture Workshop. Its start command is **Open the Voice Key workshop**.

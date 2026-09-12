@@ -1,8 +1,8 @@
 ---
 type: authoring-system-design
-status: proposed
+status: established
 updated: 2026-09-12
-authority: product direction established; extraction, scoring, and implementation mechanics proposed
+authority: core functionality established; extraction thresholds, scoring weights, and implementation mechanics proposed
 source: "[[01 Sessions/Daily/2026-09-12 - Voice Key Authorial Decision Fingerprint]]"
 ---
 
@@ -13,6 +13,21 @@ source: "[[01 Sessions/Daily/2026-09-12 - Voice Key Authorial Decision Fingerpri
 Voice Key personalizes authorship decisions rather than merely imitating speech. It learns what a user notices, what they treat as evidence, how they construct causality, how they judge outcomes, what they expand or omit, where they tolerate ambiguity, and which surprising alternatives they prefer.
 
 The Composition Engine uses this fingerprint to choose how approved story information is presented. A professional prose model still supplies syntax, clarity, craft, and project-appropriate language.
+
+## Established functional architecture
+
+Voice Key contains four connected layers:
+
+| Layer | Established responsibility |
+|---|---|
+| Authorial Decision Fingerprint | Select what receives attention and how information, evidence, causes, uncertainty, emotion, and closure are presented. |
+| Prose Topology Profile | Shape sentence lengths, fragments, paragraphs, lists, transitions, thesis placement, and closure patterns. |
+| Residue Filter | Remove generic AI phrasing, inflated language, unnecessary summaries, repetitive scaffolding, and explanations the passage has already earned. |
+| Pattern Memory | Track recently used structures and devices so successful techniques do not harden into a new formula. |
+
+These layers are established functionality. Exact feature weights, thresholds, sampling methods, and interface presentation remain proposed until tested.
+
+Voice Key stores **ranges and distributions rather than universal humanization rules**. A fragment, delayed thesis, asymmetrical list, abrupt paragraph ending, or long-short-short sequence is valid only when it improves the current passage and fits the active profile. None is mandatory.
 
 ## Product distinction
 
@@ -56,6 +71,78 @@ Each passage receives only the pressures that serve its contract. The engine mus
 | Closure | which obligations must be completed | payoff and open perimeter |
 
 Every stored trait requires supporting source or choice references, confidence, scope, contradiction history, and author feedback status.
+
+## Prose Topology Profile
+
+The Prose Topology Profile models the physical architecture of approved writing without attempting to reproduce raw dictation. It may influence:
+
+- sentence-length range and variance;
+- frequency and purpose of fragments;
+- paragraph-length distribution;
+- repeated sentence openings;
+- simple conjunctions versus formal transitions;
+- list length and parallelism;
+- position of the main claim;
+- ratio of explanation to implication;
+- paragraph closure type;
+- density of abstract nouns and dramatic modifiers;
+- cadence across neighboring passages.
+
+### Distribution rule
+
+Do not convert a preference into a single recipe. Store a normal range, exceptional range, contextual trigger, evidence, confidence, and recent-use penalty. For example, a short sentence after a long evidentiary passage may be strongly supported while several consecutive short conclusions may be penalized.
+
+### Seeds topology profile
+
+The initial working *Seeds* profile favors:
+
+- uneven but controlled paragraph lengths;
+- operational detail before interpretation;
+- occasional short conclusions after accumulated evidence;
+- simple conjunctions when a formal transition adds no meaning;
+- delayed recognition rather than arbitrary withholding;
+- disproportionate space for the consequential anomaly;
+- concrete systems, objects, records, behavior, and verbs over inflated adjectives;
+- paragraph endings that change pressure, understanding, or consequence;
+- minimal summary after the scene has already demonstrated the point;
+- rolling limits on repeated fragments, contrast templates, triads, and dramatic reversals.
+
+This remains a testable project profile. It does not establish one mandatory prose rhythm for every narrator, character, or scene.
+
+## Residue Filter
+
+The Residue Filter looks for patterns associated with generic, overprocessed model prose without treating any single word or construction as proof of AI authorship.
+
+It checks:
+
+- inflated importance assigned to ordinary actions;
+- abstract praise where a concrete noun or verb would work;
+- generic metaphors unsupported by the story world;
+- formal transition words used as automatic glue;
+- repeated balanced contrasts;
+- three-part lists repeated as a default organizing device;
+- broad introduction followed by context, example, and summary in the same predictable order;
+- closing sentences that merely repeat the paragraph;
+- explanations that restate visible action;
+- project-specific overused words and constructions.
+
+The filter recommends deletion, simplification, restructuring, or no change. It does not automatically replace flagged words with synonyms.
+
+## Pattern Memory
+
+Pattern Memory prevents Voice Key itself from becoming mechanical. It records recent use of:
+
+- sentence and paragraph shapes;
+- list sizes;
+- thesis positions;
+- reveal orders;
+- passage modifiers;
+- contrast constructions;
+- fragments and abrupt closures;
+- direct versus behavioral emotion;
+- summary and transition patterns.
+
+Recent repetition lowers the selection score unless repetition serves an intentional motif, escalation, character voice, or structural callback. The history window should be configurable by scene, chapter, and project. Exact decay behavior remains an implementation gate.
 
 ## Initial provisional fingerprint
 
@@ -116,13 +203,13 @@ These confidence values are provisional design metadata, not scientifically cali
 
 ```mermaid
 flowchart TD
-    A["Canon and scene contract"] --> B["Presentation opportunity map"]
-    B --> C["Candidate authorial decisions"]
-    C --> D["Quality and authority filter"]
-    D --> E["Voice Key selection"]
-    E --> F["Structural reconstruction"]
-    F --> G["Project prose rendering"]
-    G --> H["Continuity, residue, and author review"]
+    A["Canon and scene contract"] --> B["Authorial decision selection"]
+    B --> C["Structural reconstruction"]
+    C --> D["Prose topology"]
+    D --> E["Residue and quality audit"]
+    E --> F["Author review"]
+    M["Pattern memory"] --> B
+    M --> D
 ```
 
 ### Canon lock
@@ -219,6 +306,8 @@ Natural conversation provides raw reasoning evidence. Decision tasks provide str
 
 A correction updates the relevant trait and evidence. It does not silently rewrite the entire general fingerprint.
 
+The complete later-session plan is [[Voice Key Guided Transcript Workshop]]. It separates extraction material from held-out validation, includes counterexamples, and ends with a project-specific blind comparison. It is not the active story workshop.
+
 ## Evaluation
 
 Use a blind three-way test:
@@ -238,6 +327,10 @@ Score:
 - over-explanation;
 - repeated device use;
 - author corrections required.
+
+The prose audit also records sentence-length uniformity, paragraph-shape repetition, repeated openings, transition density, list symmetry, thesis-position repetition, abstract-language density, generic phrase matches, rhetorical-device recurrence, and redundant explanation.
+
+These are diagnostic signals rather than a detector score. A passage may remain symmetrical, explicit, or polished when that is the best creative choice.
 
 Voice Key succeeds only when it improves writing quality and project identity. Sounding like the user's raw dictation is not the success condition.
 
@@ -263,4 +356,3 @@ Use the approved Book One outcome-presentation vertical slice. Lock the exact sc
 4. How quickly should unused preferences decay?
 5. Should bounded selection be deterministic for reproducible manuscript builds or seeded per experiment?
 6. How should the system learn from a user combining parts of several candidates?
-

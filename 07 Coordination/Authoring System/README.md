@@ -36,6 +36,7 @@ flowchart TD
 - [[04 - Audits, Vertical Slice and Roadmap]] — current-state assessment, reuse decisions, reconciliation, first proof, phases, and tests.
 - [[05 - Prose Capability Matrix and Usage Routing]] — selective skill adoption, economical model routing, escalation triggers, revision limits, and evaluation.
 - [[06 - Voice Key]] — transcript- and choice-derived authorial decision fingerprint, project modifiers, bounded narrative selection, provenance, and evaluation.
+- [[Voice Key Guided Transcript Workshop]] — planned eight-module interview and calibration sequence for collecting natural reasoning, creative-choice, prose-topology, counterexample, and blind-test evidence.
 
 ## Established direction versus proposed design
 
@@ -51,6 +52,7 @@ Established:
 - open, durable project data and no controls that pretend to save.
 - Markdown is the durable and directly browsable system; Project Explorer is its primary visual interface.
 - Voice Key personalizes how information is selected and presented rather than primarily copying the user's spoken phrasing; surface voice is secondary.
+- Voice Key's established four-layer functionality combines authorial decisions, prose topology, residue filtering, and recent-pattern memory. It uses contextual ranges and distributions rather than a fixed humanization recipe.
 
 Proposed:
 

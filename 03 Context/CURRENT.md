@@ -12,6 +12,10 @@ The first eight interview responses produced a provisional *Seeds* fingerprint f
 
 The detailed proposed architecture is [[07 Coordination/Authoring System/06 - Voice Key]]. The source session is [[01 Sessions/Daily/2026-09-12 - Voice Key Authorial Decision Fingerprint]]. The first proposed validation remains the already approved Book One outcome-presentation vertical slice and should compare baseline, surface-profile, and Voice Key versions by quality and project specificity rather than asking only which sounds like the author.
 
+The author has now locked Voice Key's four functional layers: Authorial Decision Fingerprint, Prose Topology Profile, Residue Filter, and Pattern Memory. Voice Key stores ranges and distributions rather than forcing fragments, irregular lists, delayed theses, or other supposed human markers into every passage. It should identify excessive regularity, generic vocabulary, inflated language, predictable reveal order, unnecessary summaries, and repeated rhetorical devices while preserving readability and scene purpose. Exact metrics, weights, and decay windows remain proposed implementation details.
+
+A later [[07 Coordination/Authoring System/Voice Key Guided Transcript Workshop]] is planned to collect stronger evidence through eight resumable 10–15 minute modules and held-out blind tests. It begins only when the author says **Open the Voice Key workshop** and does not replace the active Book One Architecture Workshop.
+
 ## Active Book One architecture pass — 2026-09-11
 
 The current assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]]. It finds that the accepted ending is stronger than the unwritten path to it. Current work uses the [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]] to define the exact “take Sylvan” rule, Samuel's lie, the birthday clock, opening frame, indispensable middle, Sylvan–Orzai relationship arc, exposure order, George and Konrad's final choices, and a scene-ready Book One sequence.
