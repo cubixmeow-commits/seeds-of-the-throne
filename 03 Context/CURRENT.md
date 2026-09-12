@@ -1,8 +1,16 @@
 ---
 type: context
 status: active
-updated: 2026-09-11
+updated: 2026-09-12
 ---
+
+## Voice Key authorial-selection direction — 2026-09-12
+
+The conversational authorship system now includes **Voice Key** as an author-established product direction. Voice Key does not primarily imitate raw speech. It learns how a person selects and presents information: attention, causality, evidence, judgment, ambiguity, surprise, emotional distance, compression, correction, and closure. The Composition Engine uses the resulting general and project fingerprints to choose among high-quality presentation strategies before prose rendering.
+
+The first eight interview responses produced a provisional *Seeds* fingerprint favoring operational evidence, constraint-driven turns, competing definitions of victory, gaps between formal systems and lived reality, gradual behavioral proof, asymmetrical detail, and earned closure with a controlled open perimeter. These are testable working preferences, not new story canon or permanent psychological claims. Surface voice remains secondary. The system must not add random errors, maximize perplexity, or promise detector evasion.
+
+The detailed proposed architecture is [[07 Coordination/Authoring System/06 - Voice Key]]. The source session is [[01 Sessions/Daily/2026-09-12 - Voice Key Authorial Decision Fingerprint]]. The first proposed validation remains the already approved Book One outcome-presentation vertical slice and should compare baseline, surface-profile, and Voice Key versions by quality and project specificity rather than asking only which sounds like the author.
 
 ## Active Book One architecture pass — 2026-09-11
 

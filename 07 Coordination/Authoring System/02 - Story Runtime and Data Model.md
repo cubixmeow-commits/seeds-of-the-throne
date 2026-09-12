@@ -1,7 +1,7 @@
 ---
 type: technical-design
 status: proposed
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # Story Runtime and Data Model
@@ -63,6 +63,7 @@ Only `accepted` events update canonical projections. `working` material may supp
 | Sequence | `SEQ-B1-006` | entering state, resulting state, constituent scenes |
 | Scene contract | `SCN-B1-023` | bounded approved inputs and required dramatic change |
 | Draft artifact | `DRF-B1-023-A` | prose version, source contract, checks, approval state |
+| Voice Key profile | `VK-SEEDS-001` | evidence-linked authorial decision traits, scope, confidence, project modifiers, and feedback |
 
 ## Minimum decision event
 
@@ -110,6 +111,7 @@ checks: [continuity, knowledge, causality, voice, narrative-residue]
 - setup → promise → payoff;
 - institution/system → permissions, limits, safeguards, failures, and accountability;
 - scene outputs → next scene inputs;
+- source and author-choice evidence → general Voice Key traits → project modifiers → passage decisions;
 - supersession → stale artifacts requiring review.
 
 ## Deterministic responsibilities
@@ -125,6 +127,7 @@ Code, not a language model, should own:
 - readiness/completion calculations;
 - site generation, exports, and round-trip persistence tests;
 - exact pickup state.
+- Voice Key schema validity, evidence links, allowed scope, and recent modifier-history bookkeeping.
 
 Generative models should own:
 

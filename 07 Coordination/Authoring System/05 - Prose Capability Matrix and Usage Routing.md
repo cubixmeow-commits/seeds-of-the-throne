@@ -1,7 +1,7 @@
 ---
 type: composition-design
 status: proposed
-updated: 2026-09-07
+updated: 2026-09-12
 source: "[[01 Sessions/Daily/2026-09-07 - Lean Composition Capability Matrix]]"
 ---
 
@@ -32,7 +32,8 @@ Specialist passes activate only when the scene contract, deterministic checks, e
 | Reader knowledge and suspense | Seeds revelation critic | suspense geometry / story-zoom concepts | for mystery scenes | reveal-order or POV conflict |
 | Character and dialogue | Seeds character pass | dialogue and character-arc specialists | only when relevant | voices collapse or tactics lack distinction |
 | Narrative-residue check | Seeds critic | StoryScope-style failure categories; hostile reading | brief default check | tidy plotting, flattened ambiguity, convenient behavior |
-| Voice application | Seeds voice profile | Compound Writing voice-learning pattern | yes | character or narrator voice failure |
+| Authorial selection | Voice Key | transcript reasoning, creative choices, corrections, and project feedback | yes for scene candidates | generic presentation, model-convenient order, or weak project specificity |
+| Surface voice application | Seeds voice profile | Compound Writing voice-learning pattern | after authorial selection | character or narrator language failure |
 | Tracks / AI residue | Seeds tracks and anti-AI pass | Compound Writing residue methods | yes, after structure | prose contains process scaffolding or generic patterns |
 | Line edit | Seeds line editor | Compound Writing line-edit separation | once, after approval-ready structure | sentence-level problem only |
 | Read-aloud / audiobook | deterministic metrics plus model judgment | existing Seeds audiobook checks | selected scenes/chapters | rhythm, clarity, or dialogue concern |
@@ -101,7 +102,7 @@ Use for most scenes:
 2. one scene contract or contract verification;
 3. one draft;
 4. deterministic checks;
-5. one combined development, continuity-risk, narrative-residue, and voice diagnosis;
+5. one combined development, continuity-risk, narrative-residue, and Voice Key diagnosis;
 6. one targeted revision if needed;
 7. author review.
 
@@ -172,7 +173,7 @@ The economical default critic answers only five questions:
 1. Does the scene produce its required state change through character action?
 2. Does anyone know, do, or survive something the approved story does not support?
 3. Is the central pressure or turn buried, weakened, or over-explained?
-4. Does the prose sound specific to this POV and project rather than generically effective?
+4. Do the information order, evidence, emphasis, ambiguity, and prose feel specific to this author and project rather than generically effective?
 5. Has the model made the story tidier, simpler, safer, or more morally explicit than intended?
 
 It returns one ranked problem and one recommended revision. Secondary observations are recorded but do not automatically trigger more passes.
@@ -207,6 +208,7 @@ Compare the lean route with the current Seeds-only route on the same scene contr
 | Revision efficiency | no more than one automated revision before author review |
 | Context efficiency | no whole-vault prompt where a bounded packet suffices |
 | Voice | no increase in generic or flattened character language |
+| Authorial selection | Voice Key version makes stronger project-specific presentation decisions than the baseline without changing canon |
 | Narrative complexity | ambiguity and moral/causal complexity are preserved |
 
 If the adapted system adds process but no measurable improvement, remove the redundant capability.

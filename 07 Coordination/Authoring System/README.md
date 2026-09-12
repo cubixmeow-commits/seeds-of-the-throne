@@ -1,7 +1,7 @@
 ---
 type: authoring-system-index
 status: proposed
-updated: 2026-09-07
+updated: 2026-09-12
 authority: product and workflow proposal only
 ---
 
@@ -23,7 +23,8 @@ flowchart TD
     D --> E["Workshop Engine"]
     D --> F["Composition Engine"]
     E --> D
-    F --> G["Author-reviewed manuscript"]
+    F --> V["Voice Key authorial selection"]
+    V --> G["Author-reviewed manuscript"]
     F -->|"new structural gap"| E
 ```
 
@@ -34,6 +35,7 @@ flowchart TD
 - [[03 - Workshop and Composition Engines]] — responsibilities, contracts, passes, handoffs, and failure behavior.
 - [[04 - Audits, Vertical Slice and Roadmap]] — current-state assessment, reuse decisions, reconciliation, first proof, phases, and tests.
 - [[05 - Prose Capability Matrix and Usage Routing]] — selective skill adoption, economical model routing, escalation triggers, revision limits, and evaluation.
+- [[06 - Voice Key]] — transcript- and choice-derived authorial decision fingerprint, project modifiers, bounded narrative selection, provenance, and evaluation.
 
 ## Established direction versus proposed design
 
@@ -48,6 +50,7 @@ Established:
 - Project Explorer demonstrates the system; Docs presents the story;
 - open, durable project data and no controls that pretend to save.
 - Markdown is the durable and directly browsable system; Project Explorer is its primary visual interface.
+- Voice Key personalizes how information is selected and presented rather than primarily copying the user's spoken phrasing; surface voice is secondary.
 
 Proposed:
 
@@ -68,6 +71,7 @@ Proposed:
 7. Every session can stop safely and resume exactly.
 8. Complexity is internalized. The author sees the next meaningful choice, not a wall of workflow states.
 9. Seeds is the proving ground before the system is generalized.
+10. The author is represented most meaningfully through consequential selection, not through manufactured verbal imperfections.
 
 ## Product surfaces
 

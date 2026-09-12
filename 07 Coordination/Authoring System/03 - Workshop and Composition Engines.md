@@ -1,7 +1,7 @@
 ---
 type: engine-design
 status: proposed
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # Workshop and Composition Engines
@@ -74,10 +74,11 @@ Transform approved story state into effective prose while making every important
 5. **Developmental editor:** test purpose, pressure, causality, agency, order, stakes, and emotional movement.
 6. **Continuity checker:** test timeline, knowledge, location, objects, abilities, systems, relationships, setup, and payoff.
 7. **Narrative-residue critic:** test for over-tidiness, flattened ambiguity, moral simplification, uniform voices, and model-convenient plotting.
-8. **Voice and prose editor:** apply narrator/character voice, controlled variance, tracks cleanup, and anti-generic checks.
-9. **Line editor and read-aloud check:** improve clarity, rhythm, diction, and auditory flow without changing story state.
-10. **Author review:** accept, revise, combine, reject, or reopen a story gate.
-11. **Assembler:** promote only approved prose into manuscript order and regenerate exports.
+8. **Voice Key selector:** map presentation opportunities, generate structurally valid alternatives, filter them against canon and quality, and select information decisions using the general and project fingerprints.
+9. **Voice and prose editor:** render the selected structure through narrator/character voice, controlled variance, tracks cleanup, and anti-generic checks. Surface imitation remains secondary to authorial selection.
+10. **Line editor and read-aloud check:** improve clarity, rhythm, diction, and auditory flow without changing story state.
+11. **Author review:** accept, revise, combine, reject, or reopen a story gate.
+12. **Assembler:** promote only approved prose into manuscript order and regenerate exports.
 
 ### Draft modes
 
@@ -113,6 +114,7 @@ Every model call should receive:
 - voice rules and examples;
 - forbidden inventions and unresolved gates;
 - exact expected output schema.
+- relevant Voice Key project traits, evidence confidence, allowed passage modifiers, and recent modifier history.
 
 This replaces “load the whole vault and hope” with bounded, inspectable context.
 

@@ -1,7 +1,7 @@
 ---
 type: product-direction
 status: established
-updated: 2026-09-07
+updated: 2026-09-12
 scope: vault functionality, workshop engine, composition engine, project explorer
 source: "[[01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction]]"
 ---
@@ -43,7 +43,7 @@ Finished prose is in scope. Premature prose is not the default method for discov
 - Propagate only author-accepted decisions.
 - Show concrete story progress, not invented completion percentages.
 - Require inspectable scene contracts for load-bearing prose.
-- Learn voice from choices, corrections, positive examples, and dislikes.
+- Use **Voice Key** to learn authorial selection from natural conversation, creative choices, corrections, positive examples, and dislikes. Prioritize how the user presents information over imitation of raw speech.
 - Separate prose residue from deeper narrative residue.
 - Return newly exposed structural gaps from Composition to Workshop.
 - Preserve provenance, decision history, continuity, and exact resumption state.
@@ -59,6 +59,10 @@ Diagnose the current story, identify the most consequential missing information,
 ### Composition Engine
 
 Translate approved story state into scene contracts and finished prose, then run separate developmental, continuity, narrative-residue, voice, prose-residue, and line-editing passes without inventing missing canon.
+
+### Voice Key
+
+Voice Key learns what the author notices, what counts as evidence, how causes and consequences connect, how outcomes are judged, what deserves explanation, where ambiguity belongs, and which surprising choices still feel earned. The Composition Engine uses it to select among high-quality presentation strategies before surface prose rendering. It does not merely copy conversational phrasing or add artificial errors. Detailed proposed mechanics are in [[07 Coordination/Authoring System/06 - Voice Key]].
 
 ## Demonstration surfaces
 

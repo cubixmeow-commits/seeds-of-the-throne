@@ -1,7 +1,7 @@
 ---
 type: product-design
 status: proposed
-updated: 2026-09-07
+updated: 2026-09-12
 ---
 
 # Product and Author Experience
@@ -90,6 +90,10 @@ The system must always reveal:
 ## Voice learning
 
 Voice is learned from positive examples, corrections, dislikes, and explicit rules. A detected preference becomes a proposed style rule; it is not silently promoted. Character voice, narrator voice, project prose style, and public-development style remain separate.
+
+**Voice Key extends beyond surface voice.** Its primary job is to learn how the user selects and presents information: attention, causality, evidence, judgment, ambiguity, surprise, emotional distance, compression, correction, and closure. Natural transcripts supply evidence, but finished prose should not inherit raw speech merely to resemble the user. Creative-choice exercises and reactions to project passages provide stronger calibration than verbal mannerisms alone.
+
+The system should use Voice Key to choose among several structurally valid presentation decisions before prose rendering. It may change information order, emphasis, explanation, focal detail, recognition timing, and degree of closure while remaining inside the scene contract. See [[06 - Voice Key]].
 
 The system must detect both:
 
