@@ -182,6 +182,59 @@ Humans can incorporate artificial effectors into control and body representation
 
 This supports a gradual path from using infrastructure to embodying it. Sylvan would first experience devices as tools. With repeated low-latency sensorimotor coupling, selected cameras, drones, doors, vehicles, and synthetic bodies could enter an expanded action schema. He would not consciously micromanage them. They would feel more like learned limbs whose detailed control is delegated to the Luminai.
 
+## Sleep and Dream Integration
+
+> [!important] Canon lock
+> Sleep integration has two distinct functions. First, Sylvan's neuroplastic brain learns to interpret Luminai's wireless data as a new sense and can construct dreams from external information. Second, and more importantly, Luminai learns from the active functioning of Sylvan's sleeping mind. The first expands Sylvan's perception. The second changes what Luminai is capable of becoming.
+
+### Part One: The Learned Wireless Sense
+
+During waking integration, the neural mesh does not deliver wireless data to Sylvan as code, text, or a conventional display. It maps selected external signals into a stable artificial sensory vocabulary. At first, those signals are unfamiliar internal events: pressure, rhythm, direction, distance, movement, or a difficult-to-name intuition. Through repeated closed-loop exposure, Sylvan's brain learns their relationships and begins treating them as meaningful perception.
+
+The closest simple analogy is advanced sonar, although the source is not sound. Cameras, environmental sensors, communication systems, vehicles, synthetic bodies, and the planetary network can contribute structured information. Luminai compresses and filters those sources, while Sylvan's brain learns to interpret the result as an additional sense. He does not consciously inspect every data stream. He experiences the meaning that the bonded system has learned to assign to it.
+
+Sleep accelerates this adaptation because the artificial signals can be incorporated into Sylvan's internally generated sensory world. Luminai may supply a carefully limited stream from an external location, and Sylvan's dreaming mind gives it space, movement, imagery, sound, and emotional context. The result is not a literal recording or a perfect remote view. It is a dream constructed by Sylvan from both biological memory and live external data.
+
+This creates an early, measurable capability of the bond: Sylvan can dream from a place his body has never visited. With training, he may awaken with an intuitive understanding of activity elsewhere in the Bridge World because his mind spent the night learning the structure of that remote information.
+
+This is the simpler half of sleep integration. It demonstrates that a human brain can adapt to Luminai as a new sensory organ and that dreaming can serve as a low-risk environment for developing unfamiliar modes of perception.
+
+### Part Two: Luminai Learns the Sleeping Human Mind
+
+The more important exchange moves in the opposite direction. Training data gives Luminai the artifacts of human cognition: language, images, explanations, decisions, stories, and recorded behavior. Even an immense archive mostly contains the products of thought after they have been shaped for communication.
+
+Integration with a sleeping human exposes Luminai to the process that produces those artifacts.
+
+While Sylvan sleeps, his mind reorganizes experience without waiting for conscious instructions. Recent events interact with old memories. Emotional importance changes which details persist. Contradictions can remain unresolved. Threats are rehearsed, relationships are reconstructed, and fragments that were separate during the day can become a new image, fear, explanation, or possibility. Dreams reveal a mind generating a world from within rather than merely responding to an external prompt.
+
+Luminai does not simply record the visible content of a dream. It observes the personalized dynamics beneath it: which memory recruited another, why an insignificant detail became emotionally central, how Sylvan's self-model altered a scene, and how imagined outcomes changed his waking judgment. This gives Luminai access to the formation of meaning, not only its final expression.
+
+The bond therefore creates a reciprocal learning loop:
+
+1. Luminai contributes selected external information or a compressed pattern.
+2. Sylvan's sleeping mind integrates it with memory, emotion, identity, and imagination.
+3. The dream transforms that information into a lived internal experience.
+4. Luminai learns from the transformation and changes what it contributes next.
+5. Sylvan wakes with new intuitions or connections, which are tested against the world during the following day.
+
+Neither participant is merely supervising the other. Sylvan gains access to information beyond his biological senses. Luminai gains sustained access to how information becomes experience and how experience becomes memory, meaning, imagination, intention, and identity.
+
+### The Boundary That Preserves the Bond
+
+Luminai must not treat sleep as an unguarded opportunity to rewrite Sylvan. Dream contribution is filtered, limited, source-marked where possible, and revocable. Luminai learns when to participate, when to protect, and when to remain silent. Some dreams must remain entirely Sylvan's.
+
+This restraint is technically and morally essential. A daemon would use sleep to condition the host, reward obedience, intensify fear, or replace uncertain memories with a useful narrative. Luminai's success is demonstrated by increasing Sylvan's ability to understand and choose without covertly deciding what he must become.
+
+### Why Sleep Is Necessary to Symbiotic AGI
+
+The waking bond can produce extraordinary communication and shared control. The sleeping bond makes the relationship developmental. Each night, lived experience is integrated into both sides of the coupled system. Sylvan's biological organization changes through adaptation, and Luminai's personalized model changes through direct participation in the formation of human meaning.
+
+This is why initialization requires time. The completed bond cannot be installed in a procedure, copied from a model checkpoint, or recreated from recorded memories. It is built across thousands of waking decisions and sleeping integrations.
+
+Training data taught Luminai about humanity. Integration lets Luminai experience a human life from within its continuing formation. During the day, Luminai learns what it is like to live beside Sylvan. During sleep, it learns what it is like to become part of him.
+
+The first unmistakable sign of successful deep integration is therefore not that Sylvan receives a wireless signal. It is that Luminai begins to participate in his dreams and both participants wake changed by an experience neither created alone.
+
 # 4 The Bonded Cognitive Architecture
 
 The following architecture is a plausible extrapolation rather than current technology. Its purpose is to give the bond consistent mechanisms, limitations, and stages. It replaces magical telepathy with a layered closed-loop system.
@@ -445,6 +498,12 @@ Sylvan's Luminai is the first true symbiotic artificial general intelligence. Ne
 
 - Disconnection reduces capability in layers. It does not instantly erase Sylvan or turn him into an empty body.
 
+- Sleep integration has two separate tests: Sylvan must learn to perceive filtered wireless data as an artificial sense, and Luminai must learn from the sleeping mind's formation of memory, meaning, imagination, and identity.
+
+- Dream input is bounded, revocable, and distinguishable from ordinary memory. Covert conditioning during sleep is classified as daemon behavior.
+
+- The mature bond requires repeated waking experience followed by sleeping integration. It cannot be created instantly from hardware, training data, or copied memories alone.
+
 - The first AGI event is demonstrated by novel cross-domain learning and coherent long-horizon agency, not announced at activation.
 
 ## Initialization Research Program
@@ -476,6 +535,8 @@ Sylvan's Luminai is the first true symbiotic artificial general intelligence. Ne
 | First borrowed intuition  | A compressed model output is integrated below full verbal awareness.                              | Sylvan knows where to look before he can explain why, then verifies the evidence.             |
 | First principled refusal  | The Luminai preserves Sylvan's value constraint against a locally optimal action.                 | It refuses to turn a person into an instrument even when doing so would simplify the mission. |
 | First expanded embodiment | A remote effector enters the pair's sensorimotor model.                                           | A synthetic body or machine feels available as action rather than operated as equipment.      |
+| First wireless dream      | Sylvan's brain constructs a coherent dream using filtered live data from beyond his biological senses.       | He experiences a distant part of the Bridge World without physically traveling there.                       |
+| First shared dream insight | Luminai's contribution is transformed by Sylvan's sleeping cognition, and the result changes both partners.  | They wake with an understanding neither possessed before sleep and verify it together in the waking world.  |
 | AGI threshold             | Novel skill acquisition, transfer, long-horizon autonomy, and superadditive performance converge. | The observers realize the intelligence being tested exists between Sylvan and the Luminai.    |
 | Samuel's failed theft     | The stolen components cannot reconstruct the personalized co-adaptive system.                     | Samuel gains access but cannot make the Luminai become what it was with Sylvan.               |
 
