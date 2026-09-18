@@ -18,6 +18,17 @@ RW-01 through RW-10 are author-accepted and the reassessment workshop is complet
 
 # Open Questions
 
+## Resistance evidence and converging revelation — 2026-09-17
+
+- What final name fits the independent Resistance without relying on the rejected Witness/Inheritor terminology or an overtly religious identity?
+- Which Resistance cells or participants discover the decisive fragments, and what indispensable discovery remains theirs rather than Sylvan's?
+- Does Samuel's alpha priority remain continuously active, reactivate when Konrad restores programs, or operate through a bounded combination of persistent jurisdiction and new authorization?
+- What exact initiative supports Konrad's claim to divinity, and is it identical to the breeding program, a broader succession system, or something else?
+- What remains operational when Sylvan presents the evidence, what has already been corrupted, and what can still be shut down?
+- What does Konrad know, suspect, deny, and learn at each stage of the presentation?
+- How are discovery, authentication, attribution, presentation, formal outcome interpretation, and public disclosure divided among the Resistance, Sylvan and the Luminai, Zilbin, and Konrad's inner circle?
+- Which final connection changes the meaning of at least three earlier events without exposing the complete mechanism too early?
+
 ## Encoded patterns and manufactured history — 2026-09-07
 
 - What exactly does the wireless process alter when it points a participant toward information: access, attention, sensory emphasis, Luminai inference, environmental events, or a bounded combination?

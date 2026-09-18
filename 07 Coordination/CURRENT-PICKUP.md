@@ -1,7 +1,7 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-11
+updated: 2026-09-17
 scope: single current pickup point
 ---
 
@@ -10,6 +10,12 @@ scope: single current pickup point
 The current story pass is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. The supporting assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]].
 
 Start with [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]] and ask only its central author gate. The completed reassessment remains authoritative foundation. Material below this section is historical pickup context unless the active workshop links back to it.
+
+### September 17 focused addendum
+
+The independent Resistance and Converging Revelation material has been assessed and integrated into BA-02, BA-07, BA-09, and BA-10. It does not create a new workshop or change the active BA-01 gate. Read [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]] before reaching those later modules.
+
+The Resistance must retain an indispensable discovery of its own. The exact alpha mechanism, sacred initiative, damage state, knowledge map, and division of evidentiary roles remain unresolved. Resistance is a functional placeholder rather than a final group name.
 
 ## September 9 ending clarification — rapid exhaustion and constructive integration
 

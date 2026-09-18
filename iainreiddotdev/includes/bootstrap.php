@@ -24,6 +24,7 @@ define('SAAS_LAB_BOOTSTRAPPED', true);
 define('SAAS_LAB_CONFIG', require __DIR__ . '/config.php');
 
 require __DIR__ . '/auth.php';
+require __DIR__ . '/analytics.php';
 require __DIR__ . '/database.php';
 require __DIR__ . '/csrf.php';
 require __DIR__ . '/experiments.php';

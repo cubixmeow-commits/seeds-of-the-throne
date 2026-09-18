@@ -195,6 +195,7 @@ $menu = [
 
     <link rel="icon" href="../assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="../assets/css/retro.css?v=<?= e($assetVersion) ?>">
+    <script src="../assets/js/analytics.js?v=20260918a" defer></script>
 </head>
 <body class="crt" data-phosphor="green">
     <a class="skip-link" href="#board">Skip to the board</a>
@@ -450,6 +451,7 @@ CONNECT 14400/ARQ/V32/LAPM/V42BIS
                         <li><a href="<?= e($links['x']) ?>" rel="noopener noreferrer"><?= e($links['x_handle']) ?></a></li>
                         <li><a href="<?= e($links['github']) ?>" rel="noopener noreferrer">GitHub</a></li>
                         <li><a href="../">Return to iainreid.dev</a></li>
+                        <li><a href="../privacy.php">Privacy</a></li>
                     </ul>
 
                     <p class="prompt">

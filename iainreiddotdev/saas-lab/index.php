@@ -27,6 +27,7 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
     <link rel="stylesheet" href="../assets/css/style.css?v=20260719g">
     <link rel="stylesheet" href="../assets/css/saas-lab.css?v=20260719a">
     <link rel="stylesheet" href="../assets/css/auth.css?v=20260719a">
+    <script src="../assets/js/analytics.js?v=20260918a" defer></script>
 </head>
 <body>
     <div class="ambient-light" aria-hidden="true"></div>
@@ -475,6 +476,7 @@ $publicIdeaCountLabel = str_pad((string) $publicIdeaCount, 2, '0', STR_PAD_LEFT)
         <div class="lab-close__links">
             <a href="/devsite/iainreiddotdev/">Return to the workshop journal</a>
             <a href="mailto:iain@iainreid.dev">iain@iainreid.dev</a>
+            <a href="../privacy.php">Privacy</a>
         </div>
         </section>
     </main>

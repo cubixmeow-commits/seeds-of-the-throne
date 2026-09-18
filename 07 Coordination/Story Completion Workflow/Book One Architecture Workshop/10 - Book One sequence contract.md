@@ -17,6 +17,8 @@ Convert the workshop's accepted answers into a scene-ready architecture without 
 
 The terminal macro is fixed. This workshop supplies the missing contest rule, deception, countdown, opening, middle ladder, relationship arc, evidence order, and final choices required to reach it.
 
+The sequence must also preserve the Resistance as an independent source of discovery and use the Converging Revelation test: the decisive evidence should join the Great War humiliation, false autonomy, Konrad's reactivation, and the present danger into one causal action rather than append a late secret.
+
 Sources: [[07 QA/2026-09-11 - Book One Buildability Assessment]], [[02 Story/Storyline]], [[02 Story/Timeline/Timeline]], [[06 Draft/Scenes/README]].
 
 ## Four possibilities
@@ -25,6 +27,19 @@ Sources: [[07 QA/2026-09-11 - Book One Buildability Assessment]], [[02 Story/Sto
 2. **Five-sequence contract:** disturbance; commitment; midpoint truth; terminal escalation; processing and constructive exit.
 3. **Countdown contract:** organize sequences around visible deadline thresholds and shrinking antagonist options.
 4. **Evidence contract:** organize sequences around what can be known, authenticated, acted upon, and finally presented.
+
+## Converging Revelation test
+
+Before the sequence is accepted:
+
+- state the audience's initial interpretation;
+- identify the separate facts that support it;
+- identify who holds each fragment;
+- place the first contradiction;
+- place the authenticated connection;
+- show the immediate action the connection requires;
+- confirm that the final reveal changes the meaning of at least three earlier facts;
+- stop the explanation after the reinterpretation lands.
 
 ## Central author gate
 

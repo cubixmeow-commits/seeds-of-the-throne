@@ -171,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260911-book-one-architecture';
+$assetVersion = '20260917-resistance-revelation';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -328,9 +328,9 @@ function explorer_format_bytes(?int $bytes): string
                         <h3 id="assessment-title">The colonization process trains participants and contains dangerous criminals.</h3>
                     </div>
                     <div>
-                        <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, a criminal already held inside the containment process.</p>
-                        <p class="explorer-assessment__method"><span>The current story problem</span> Make the formal separation, rapid financial collapse, processing, exposure, and accepted placement feel inevitable.</p>
-                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('07 QA/2026-09-09 - Current Story Reassessment.md')) ?>"><span>Read the current story assessment</span><span aria-hidden="true">↗</span></a>
+                        <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, while an independent resistance network reconstructs the history Samuel kept divided across people and systems.</p>
+                        <p class="explorer-assessment__method"><span>The current story problem</span> Define the exact contest, deception, evidence order, and character choices that make the established ending work as a novel.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('07 QA/2026-09-17 - Resistance and Revelation Reassessment.md')) ?>"><span>Read the latest focused assessment</span><span aria-hidden="true">↗</span></a>
                     </div>
                 </article>
 
@@ -516,11 +516,13 @@ function explorer_format_bytes(?int $bytes): string
             <div class="site-footer__links">
                 <a href="../">Portfolio</a>
                 <a href="<?= e($links['github']) ?>/seeds-of-the-throne" rel="noopener noreferrer">Repository</a>
+                <a href="../privacy.php">Privacy</a>
             </div>
         </div>
     </footer>
 
     <script src="../assets/js/site.js?v=<?= e($assetVersion) ?>" defer></script>
     <script src="assets/project-explorer.js?v=<?= e($assetVersion) ?>" defer></script>
+    <script src="../assets/js/analytics.js?v=20260918a" defer></script>
 </body>
 </html>

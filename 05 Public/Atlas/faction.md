@@ -25,6 +25,8 @@ Samuel lies about what Sylvan and the new Luminai really are. Konrad believes hi
 
 Samuel promises an apparently separate autonomous group. Konrad reactivates his machinery inside a shared containment environment where Samuel has earlier structural priority. That creates the access Samuel exploits.
 
+The apparent recovery is now part of the story's central mystery. Samuel's postwar advantage may not have ended when Konrad believed it did. The exact mechanism remains unresolved, but Konrad's effort to rebuild is the choice that places restored systems within Samuel's reach.
+
 The macro result is established. The exact registration event, transferred permissions, verification failure, and limits on reset remain unresolved. The explanation cannot simply be that Samuel owns everyone because he arrived first.
 
 ## Spoilers: the generational cost
@@ -43,7 +45,15 @@ The collapse of Konrad's bloodline doctrine is the collapse of a political claim
 
 The exact meaning of taking Sylvan, Samuel's false description of the new Luminai, the imperial safeguards, and the terms of the remaining city are still open for scene-level development.
 
-Sources: [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Systems/The Breeding Program and Lineage Blackmail]].
+## The records begin to connect
+
+An independent resistance network discovers that events treated as isolated belong to one concealed history. Its members compare records, technical access, witness accounts, and generational consequences that no single person could prove alone.
+
+Sylvan can help authenticate and present the result, but he does not own the investigation. The movement's role matters because the truth must survive the loss, corruption, or control of any one powerful figure.
+
+Its final name and exact organization remain in development. The complete evidence chain, the compromised initiative, and the mechanism that reaches it remain protected story material until the author resolves them.
+
+Sources: [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Groups/The Resistance]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Systems/The Breeding Program and Lineage Blackmail]].
 
 
 ## Spoilers: the obsession reaches zero

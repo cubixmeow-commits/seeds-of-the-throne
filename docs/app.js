@@ -34,3 +34,11 @@ if (menuButton && siteNav) {
     if (event.matches) closeMenu();
   });
 }
+
+// The public story pages are static, so load the shared first-party collector
+// from the portfolio application. The collector is cookie-free and optional;
+// a failed analytics request never affects the story experience.
+const analyticsScript = document.createElement('script');
+analyticsScript.src = '/devsite/iainreiddotdev/assets/js/analytics.js?v=20260918a';
+analyticsScript.async = true;
+document.head.appendChild(analyticsScript);

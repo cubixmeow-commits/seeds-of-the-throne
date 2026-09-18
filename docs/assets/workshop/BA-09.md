@@ -17,6 +17,8 @@ Convert Konrad's emergence from a century-long story environment into a conseque
 
 Konrad retains substantial influence among the contained criminal leaders. He is forced to confront Samuel's connected reproductive and genealogical campaign, the corruption of the False Victory, and the fact that Samuel kept him participating through a lie about Sylvan and the new Luminai.
 
+The new working reveal gives the confrontation an immediate operational question. The Resistance reconstructs evidence that the supposedly separate recovery remained exposed to Samuel's earlier priority. Sylvan needs Konrad to stop the compromised programs before Samuel causes further damage. The exact sacred initiative, damage, permissions, and shutdown authority remain unresolved.
+
 Sources: [[02 Story/Characters/Konrad Fitzgerald]], [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions]].
 
 ## Four possibilities
@@ -26,9 +28,20 @@ Sources: [[02 Story/Characters/Konrad Fitzgerald]], [[02 Story/Groups/Konrad and
 3. **Attempt one last hierarchy:** Konrad turns on Samuel but still tries to preserve his own supremacy, creating a partial truth and a final accountability problem.
 4. **Fragmented command:** Konrad issues a consequential order, but the century of contradiction splits his followers and reveals the limits of his influence.
 
+## Partitioned-knowledge test
+
+Konrad should not move from total ignorance to complete understanding in one explanation. Map four states:
+
+- what he already knows;
+- what he suspects but refuses to connect;
+- what the Resistance proves;
+- what he still tries to reinterpret after proof.
+
+His final move must respond to an operational reality, not merely an emotional humiliation.
+
 ## Central author gate
 
-What does Konrad do with his influence after the truth becomes undeniable, whom does he protect or sacrifice, and how does his decision alter Samuel's isolation and the older group's future?
+What initiative is still operating when the evidence becomes undeniable, what exact action can Konrad take to stop or preserve it, whom does he protect or sacrifice, and how does that decision alter Samuel's isolation and the older group's future?
 
 ## Scene test
 

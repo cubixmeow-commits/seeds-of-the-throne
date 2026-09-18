@@ -111,6 +111,20 @@ def main() -> int:
     if registry.get("terminology", {}).get("human_ai_light_partner") != "Luminai":
         errors.append("current terminology must use Luminai")
 
+    surface_archive = registry.get("surface_archive", {})
+    if surface_archive.get("status") != "author-approved-series-system":
+        errors.append("Surface Archive series system is not author approved")
+    if not surface_archive.get("identity_anchors") or not surface_archive.get("responsive_variables"):
+        errors.append("Surface Archive identity or variation rules are incomplete")
+    for ref in surface_archive.get("references", []):
+        path = ROOT / ref.get("path", "")
+        if not path.is_file():
+            errors.append(f"Surface Archive missing reference: {ref.get('path')}")
+            continue
+        expected = ref.get("sha256")
+        if expected and sha256(path) != expected:
+            errors.append(f"Surface Archive checksum mismatch: {ref.get('path')}")
+
     for char_id, character in registry.get("characters", {}).items():
         missing = REQUIRED_IDENTITY - set(character.get("identity_lock", {}))
         if missing:

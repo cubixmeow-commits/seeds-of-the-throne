@@ -43,6 +43,9 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 - Canvas-specific reading order: how the design flows in this orientation rather than inheriting another format
 - Dynamic layout rationale: how visible features of this photograph determine alignment, panels, borders, ribbon position, and joke placement
 - Prior-layout reuse: not reused / reused with image-specific reason
+- Recognition anchors retained: title hierarchy / crown or throne mark / archival rules / palette family / system geometry / registration nodes / photograph dominance / phone-size readability
+- Meaningful variables changed from the previous record: list at least three
+- Exact prior elements forbidden from reuse: subject / wording / unique motif / exact corner geometry / exact footer / other
 - Crop decision and protected details:
 - Record number and category:
 - Observation or joke:
@@ -52,11 +55,13 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 - Why it fits this photograph:
 - Prior concepts checked:
 - Elements that must remain authentic:
+- Real place names, coordinates, logos, or institutions visible in source:
+- In-world replacement plan: remove / generic classification / author-approved fictional label
 
 ## Generation packet
 
 - Governing direction: [[05 Public/Wildlife Meme Adventures/SURFACE-ARCHIVE-DIRECTION]]
-- Seeds X banner or approved Surface Archive reference attached: yes / no
+- Approved Surface Archive references attached: paths and explicit roles; no more than two by default
 - Source photograph attached: yes / no
 - Generation brief:
 - Production master path or provenance:
@@ -80,6 +85,9 @@ Record only facts supported by the photograph, metadata, or author confirmation.
 - On-image text exact and legible:
 - Episode ribbon immediately readable in the native-aspect preview with longest edge 768 pixels, without zooming: pass / fail / not used
 - Umbrella branding restrained and consistent:
+- At least three meaningful design variables differ from the previous record:
+- No reference subject, wording, unique motif, or exact layout leaked into this record:
+- No readable real-world place name, coordinate, logo, or institution remains in the in-world image:
 - No unsupported factual additions:
 - Defects or drift:
 

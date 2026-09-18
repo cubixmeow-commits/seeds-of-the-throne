@@ -52,6 +52,7 @@ $personLd = [
 
     <link rel="icon" href="assets/favicon.svg?v=<?= e($assetVersion) ?>" type="image/svg+xml">
     <link rel="stylesheet" href="assets/css/site.css?v=<?= e($assetVersion) ?>">
+    <script src="assets/js/analytics.js?v=20260918a" defer></script>
 
     <script type="application/ld+json"><?= json_encode(
         $personLd,

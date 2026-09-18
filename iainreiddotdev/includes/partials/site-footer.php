@@ -17,6 +17,7 @@ declare(strict_types=1);
             <a href="<?= e($links['github']) ?>" rel="noopener noreferrer">GitHub</a>
             <a href="<?= e($links['x']) ?>" rel="noopener noreferrer"><?= e($links['x_handle']) ?></a>
             <a href="<?= e($links['mailto']) ?>">Email</a>
+            <a href="privacy.php">Privacy</a>
             <a href="retro/">Retro</a>
             <button type="button" data-showdown-open>Showdown</button>
         </div>

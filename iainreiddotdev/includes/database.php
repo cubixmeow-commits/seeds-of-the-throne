@@ -167,6 +167,10 @@ function init_schema(PDO $pdo): void
     // Existing databases created before the idea-manager fields need a safe,
     // idempotent ALTER TABLE pass. Never drop or recreate experiments.
     migrate_experiments_schema($pdo);
+
+    // Visitor analytics shares this protected SQLite file but remains
+    // independent from account and experiment records.
+    analytics_init_schema($pdo);
 }
 
 /**

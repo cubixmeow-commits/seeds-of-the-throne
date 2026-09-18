@@ -54,7 +54,7 @@ $activeMeta = $workbenchViews[$activeWorkbench];
       <li><h3>Use the completed plan to write and revise scenes.</h3><p>The planned system will create scene outlines, draft prose, check continuity, revise weak sections, and assemble the manuscript for the author's approval.</p><a href="<?= e(explorer_file_url('07 Coordination/Authoring System/03 - Workshop and Composition Engines.md')) ?>">Read the system plan</a></li>
     </ol>
     <p class="workspace-example">Seeds of the Throne is the working example. The notes, decisions, and workshop below are the live project, not a demonstration mockup.</p>
-    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-11 - Book One Buildability Assessment.md')) ?>">See the new assessment</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
+    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-17 - Resistance and Revelation Reassessment.md')) ?>">See the latest assessment</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
   <?php elseif ($activeWorkbench === 'sources'): ?>
     <div class="workspace-grid">
     <?php foreach ($atlasData as $entry): ?>
@@ -65,6 +65,7 @@ $activeMeta = $workbenchViews[$activeWorkbench];
     <div class="workspace-grid">
     <?php foreach ([
       '07 QA/2026-09-05 - Comprehensive Story Assessment.md' => ['What the story needs', 'The strongest ideas, the missing causes, and the decisions with the largest consequences.'],
+      '07 QA/2026-09-17 - Resistance and Revelation Reassessment.md' => ['How the newest material changes Book One', 'The Resistance evidence chain, Converging Revelation method, continuity conflicts, and the workshop modules they affect.'],
       '07 QA/2026-09-05 - Review Coverage.md' => ['What was reviewed', 'What the analysis covered and what still needs a closer look.'],
       '04 Research/Findings/48 - Luminai Evidence Audit and Architecture Boundaries.md' => ['What science can support', 'Real human results, animal experiments, early prototypes, and the point where fiction begins.'],
       '04 Research/Findings/48 - Preliminary Brief Reference Status.md' => ['Where the research came from', 'Verified sources, preliminary leads, and anything that still needs confirmation.'],

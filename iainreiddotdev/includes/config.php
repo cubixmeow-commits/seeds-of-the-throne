@@ -29,6 +29,15 @@ return [
     'data_dir' => dirname(__DIR__) . '/data',
     'db_path'  => dirname(__DIR__) . '/data/saas-lab.sqlite',
 
+    // First-party, cookie-free visitor analytics. Raw visit records are kept
+    // only long enough to make recent traffic useful in the private dashboard.
+    'analytics' => [
+        'retention_days' => 180,
+        'geolocation_enabled' => true,
+        'geolocation_cache_days' => 30,
+        'geolocation_endpoint' => 'https://ipwho.is/',
+    ],
+
     // Minimum password length. Kept modest and explained on the form.
     'password_min' => 10,
 

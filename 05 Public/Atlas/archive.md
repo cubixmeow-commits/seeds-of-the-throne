@@ -40,9 +40,13 @@ A whole-project reassessment retired that stale checklist and created a focused 
 
 That workshop is complete, but the story is not. A new [Book One architecture workshop](workshop.html) now develops the exact contest, deception, countdown, opening, middle, character choices, evidence order, and sequence map needed to make the novel buildable.
 
+A focused September 17 reassessment added the Resistance and a new revelation method to that existing workshop. It did not create another checklist. The Resistance connects evidence that powerful people kept separate, while the Converging Revelation method tests whether a final discovery changes the meaning of earlier events instead of merely adding another secret.
+
 ## Evidence inside the fiction
 
 An event can leave an operational record, a public explanation, and a sealed account. Recognition, authentication, attribution, and safe action are different achievements. The story should not ask one dramatic resemblance or one impressive display to do all four jobs.
+
+It should not ask one hero to own every part of the truth either. The developing Resistance provides an independent route from scattered records to a verified causal chain. Sylvan may help act on that evidence, but the discovery remains distributed.
 
 ## The author remains in control
 

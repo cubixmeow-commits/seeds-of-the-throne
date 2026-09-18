@@ -17,7 +17,9 @@ Give the reverse mystery one precise false proposition that Samuel can support, 
 
 Samuel keeps Konrad in containment by lying about what Sylvan and the new-generation Luminai really are. Konrad believes his older model of hierarchy and Daemon control can win the genuine largest-empire prize. The exact lie and evidence remain open.
 
-Sources: [[02 Story/Characters/Samuel Franklin]], [[02 Story/Characters/Konrad Fitzgerald]], [[01 Sessions/Daily/2026-09-11 - RW-10 Permanent Empire Bait]].
+The lie has a historical precedent. After the Great War, Samuel presents restored autonomy while Konrad reactivates his group's programs inside a structure where Samuel has earlier priority. Konrad's attempted recovery becomes the route through which Samuel reaches the restored organization. Samuel's jealousy of Konrad's public presence and claimed divinity gives him a reason to target the institution that supports that identity.
+
+Sources: [[02 Story/Characters/Samuel Franklin]], [[02 Story/Characters/Konrad Fitzgerald]], [[01 Sessions/Daily/2026-09-11 - RW-10 Permanent Empire Bait]], [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]].
 
 ## Four possibilities
 
@@ -25,6 +27,10 @@ Sources: [[02 Story/Characters/Samuel Franklin]], [[02 Story/Characters/Konrad F
 2. **Engineered claimant:** Samuel claims Sylvan was produced as a controllable succession instrument rather than an independently protected participant.
 3. **Hidden compatibility:** Samuel claims Konrad's older Daemon architecture can absorb or command the new bond once Sylvan crosses the BA-01 threshold.
 4. **Layered lie:** Samuel combines a true technical difference, a false weakness, and selectively authentic records so Konrad reaches the wrong conclusion himself.
+
+## New continuity pressure
+
+The earlier autonomy lie and the later Sylvan lie should feel like the same method under different conditions: concede a true local capability, hide the governing boundary, and let Konrad's preferred interpretation perform the rest. The exact historical alpha mechanism remains unresolved and cannot be treated as unlimited control.
 
 ## Central author gate
 

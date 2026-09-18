@@ -1,0 +1,26 @@
+.analytics { max-width: 72rem; }
+.analytics__heading { display: flex; justify-content: space-between; gap: 1rem; align-items: flex-start; }
+.analytics__heading .auth-lede { margin-bottom: 0; }
+.analytics-filters { display: flex; flex-wrap: wrap; gap: 1rem; align-items: end; padding: 1.1rem 0; margin: 1.4rem 0; border-top: 1px solid var(--auth-rule); border-bottom: 1px solid var(--auth-rule); }
+.analytics-filters label { display: grid; gap: .35rem; color: var(--muted); font-size: .78rem; }
+.analytics-filters select { min-width: 10rem; padding: .65rem .7rem; border: 1px solid var(--auth-rule-strong); border-radius: 8px; background: #17120e; color: var(--ivory); font: inherit; }
+.analytics-filters__check { display: flex !important; grid-auto-flow: column; align-items: center; padding-bottom: .7rem; }
+.analytics-filters__check input { accent-color: var(--brass-light); }
+.analytics-summary { grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); }
+.analytics-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; margin-top: 1.5rem; }
+.analytics-grid > section, .analytics-section { min-width: 0; }
+.analytics h2 { margin: 0 0 .75rem; color: var(--paper-light); font-size: 1rem; }
+.analytics-section { margin-top: 1.75rem; }
+.analytics .registry { width: 100%; }
+.analytics .registry td, .analytics .registry th { vertical-align: top; }
+.analytics .registry td small { display: block; margin-top: .2rem; color: var(--muted); max-width: 28rem; overflow-wrap: anywhere; }
+.analytics .registry td strong { color: var(--paper-light); }
+.analytics-note, .analytics-empty { color: var(--muted); font-size: .82rem; line-height: 1.5; }
+.analytics-recent { min-width: 68rem; }
+@media (max-width: 52rem) {
+    .analytics__heading { flex-direction: column; }
+    .analytics-grid { grid-template-columns: 1fr; }
+    .analytics-filters { align-items: stretch; }
+    .analytics-filters label, .analytics-filters select, .analytics-filters .btn { width: 100%; }
+    .analytics-filters__check { padding: .25rem 0; }
+}

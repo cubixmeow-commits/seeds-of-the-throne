@@ -12,7 +12,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260911-book-one-architecture'
+ASSET = '20260917-resistance-revelation'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -203,7 +203,7 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#dbe4e7"><title>{html.escape(title)} | Seeds of the Throne</title><meta name="description" content="{html.escape(deck,quote=True)}"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="styles.css?v={ASSET}"><link rel="stylesheet" href="atlas.css?v={ASSET}"><script src="app.js?v={ASSET}" defer></script></head>
 <body class="atlas-page {page_class}"><a class="skip-link" href="#main">Skip to content</a><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">ST</span><span>Seeds of the Throne</span></a><button class="menu-button" type="button" data-menu-button aria-expanded="false" aria-controls="site-nav">Menu</button><nav class="site-nav" id="site-nav" data-site-nav aria-label="Primary navigation">{nav}</nav></header>
-<main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
+<main id="main">{hero}{body}</main><footer class="atlas-footer"><a href="index.html">Story</a><a href="visuals.html">Visuals</a><a href="archive.html">How it is being built</a><a href="research.html">Research</a><a href="ideas.html">Ideas in development</a><a href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Project Explorer</a><a href="https://iainreid.dev/devsite/iainreiddotdev/privacy.php">Privacy</a><p>This site presents the story. The Project Explorer shows the notes and tools used to develop it.</p></footer></body></html>'''
 
 def main():
     modules, workshop_errors = load_workshop_modules()
@@ -263,7 +263,7 @@ def main():
         ident = metadata(path.read_text()).get('module')
         if ident:
             outputs[DOCS/'assets/workshop'/f'{ident}.md'] = path.read_text()
-    data={'version':3,'built_from':'2026-09-11 Book One architecture workshop','modules':modules}
+    data={'version':4,'built_from':'2026-09-17 Book One architecture workshop with Resistance and Converging Revelation addendum','modules':modules}
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
     snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']

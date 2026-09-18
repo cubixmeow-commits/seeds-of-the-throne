@@ -10,6 +10,7 @@ Surface Archive is the active direction. Wildlife Meme Adventures entries remain
 
 | Episode | Status | Real subject | Capture location | Capture date | Episode premise | Published | X link |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [[Episodes/2026-09-16 - Coastal Resistance|Surface Archive 0063: Coastal Resistance]] | draft; visual reference approved | driftwood beach shelter | withheld; real place name removed from in-world image | unresolved | authorities dismiss the shelter as debris while a hidden resistance turns it into a meeting place | no | — |
 | [[Episodes/2026-09-11 - Shoreline Beginning|Surface Archive 0043: Shoreline Beginning]] | draft; direction approved | author-identified sandpiper | unresolved | unresolved | ordinary shoreline life shows the colonization world becoming a genuine living home | no | — |
 | [[Episodes/2026-08-18 - The Wild Coleman|The Wild Coleman]] | draft | Coleman camp stove at an outdoor barbecue | undisclosed park in Goleta, California | 2026-08-16 | camp stove observed as a wild specimen in its natural habitat | no | — |
 | [[Episodes/2026-08-18 - Lake Los Carneros Kingsnake Design Study|The Tongue Survey]] | draft | probable California kingsnake | Lake Los Carneros, Goleta, California | 2026-08-16 | selected trail-survey concept with cream title, central photograph, and olive findings panel | no | — |
@@ -37,5 +38,6 @@ Current used concepts:
 - point/view wordplay, distant-destination callout, and good-news/bad-news payoff — `The Point of the View`
 - no-bars/five-stars rating wordplay, empty signal icon, and mountain-lodge rating plaque — `The Signal Check`
 - brakes-working/resuming-eventually contrast, visible brake-control premise, and coastal bicycle inspection panel — `The Coastal Brake Test`
+- discarded-place/hidden-network contrast, concealed amber signal, and fictionalized driftwood signage — `Coastal Resistance`
 
 Do not treat a blank index as permission to reuse the retained reference episode's title or joke. The reference establishes visual identity, not reusable episode content.

@@ -9,6 +9,8 @@ assessment: 07 QA/2026-09-11 - Book One Buildability Assessment.md
 
 This is the active story workshop. It preserves the completed RW ending decisions and develops the missing path from Book One's opening to that ending.
 
+The 2026-09-17 focused reassessment integrates the independent Resistance and Converging Revelation material into BA-02, BA-07, BA-09, and BA-10. It does not add an eleventh module or reopen the completed RW foundation. BA-01 remains the active gate.
+
 The modules are dependency ordered, not a promise that every question must remain separate. Ask one author gate at a time, record the answer in a dated session, propagate accepted canon, and then reassess later modules.
 
 # Priority 1 — Make the contest legible
@@ -45,3 +47,5 @@ The modules are dependency ordered, not a promise that every question must remai
 # Preserved foundation
 
 The completed [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README|reassessment workshop]] remains authoritative at its accepted depth. This workshop implements its consequences; it does not reopen them.
+
+The focused addendum is [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]]. The Resistance must retain an indispensable discovery of its own, and proposed control mechanics remain unresolved until the author accepts them.

@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-09-03
+updated: 2026-09-17
 ---
 
 # Contradictions
@@ -32,3 +32,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 | C-015 | Earlier summaries imply that falling into containment was simply Konrad's postwar sentence. The new decision states that his experiment should end and that he chooses to remain to prove his Daemon can control Samuel. | Preserve prosecution and loss of power as the postwar condition, then make continued participation and reactivation Konrad's consequential choice. Define what lawful exit would have meant. |
 | C-016 | “Bloodline pollution,” “perversion,” and related concepts can read as neutral story categories when they are actually Konrad's fascist framing. | Attribute those terms only to antagonist ideology. Neutral narration describes reproductive coercion, false genealogy, nonconsensual humiliation, exploitation, and instrumentalization. No descendant or identity is pollution. |
 | C-017 | Module 02 permits voluntary heirs to exit at any time, while Module 07 says participants cannot prematurely exit an assigned environment and must remain bound to its rules. | Distinguish levels: a voluntary heir may leave the entire colonization process and surrender the unfinished result, but cannot abandon only the assigned environment while retaining process participation, progress, or access. Convicted-participant release remains separate. |
+| C-018 | Samuel's postwar alpha position is described as continuously maintained control, while the established takeover hinge says Konrad-authorized reactivation attaches restored systems to Samuel's earlier bounded priority. | Preserve both as possible layers. Define which authority persists, which access reactivates, what Konrad authorizes, what the records show, and what remains outside Samuel's control. Do not describe Samuel as owning the entire process. |
+| C-019 | The new source says Samuel's conduct was secret while also saying Konrad knows exactly what happened and refuses reality. | Use partitioned knowledge as the working reconciliation. Konrad knows fragments, warnings, compromised separation, and feared implications; the Resistance supplies the verified causal chain. Exact knowledge states remain a BA-09 gate. |
+| C-020 | The sacred initiative is described as destroyed by Samuel, but Sylvan still needs Konrad to shut active programs down. | Define whether Samuel corrupted its purpose, compromised its participants or records, appropriated authority, destroyed legitimacy, or caused partial irreversible damage. Identify what remains operational before using “destroyed” as literal status. |
+| C-021 | Konrad's inner circle recognizes Samuel's repeated method before Konrad, while the Resistance now discovers the verified historical chain. | Treat recognition and evidence reconstruction as distinct achievements unless a later author decision joins the investigations. BA-07 must assign discovery, authentication, presentation, and decision roles. |
+| C-022 | Earlier Resistance development moved toward Witness/Inheritor labels and an overtly religious presentation, while the author later rejected those names and tone as mismatched. | Use Resistance only as a functional placeholder. Final name, symbols, ritual, belief language, and religious identity remain unresolved and must not be projected as established. |

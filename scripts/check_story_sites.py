@@ -75,6 +75,52 @@ for p in (ROOT/'05 Public/Atlas').glob('*.md'):
         if not resolve_wiki_path(target).exists():errors.append(f'{p.name}: missing source {target}')
     for pattern in ['Humanity has already crossed the stars using','Humanity colonizes multiple worlds with','Luminai names the successor generation','The attempt fails because the bond']:
         if pattern in s:errors.append(f'{p.name}: stale claim {pattern}')
+
+# Keep the September 17 Resistance/revelation reassessment connected across
+# its source, workshop, and public projections.
+curated_markers = {
+    '02 Story/Groups/The Resistance.md': [
+        'The movement is separate from Sylvan',
+        "The Resistance's current Book One function",
+    ],
+    '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/07 - Evidence and exposure order.md': [
+        'Required role separation',
+        'The Resistance',
+    ],
+    '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/10 - Book One sequence contract.md': [
+        'Converging Revelation test',
+    ],
+    'docs/faction.html': ['The records begin to connect'],
+    'docs/archive.html': ['focused September 17 reassessment'],
+    'iainreiddotdev/project-explorer/index.php': [
+        '2026-09-17 - Resistance and Revelation Reassessment.md',
+        '../assets/js/analytics.js?v=20260918a',
+    ],
+    'iainreiddotdev/analytics/collect.php': [
+        'analytics_site_for_path',
+        'INSERT INTO analytics_visits',
+    ],
+    'iainreiddotdev/admin/analytics.php': [
+        'require_admin()',
+        'Visitor analytics',
+    ],
+    'iainreiddotdev/privacy.php': [
+        'Global Privacy Control',
+        'automatically expire after 180 days',
+    ],
+    'docs/app.js': [
+        '/devsite/iainreiddotdev/assets/js/analytics.js?v=20260918a',
+    ],
+}
+for relative_path, markers in curated_markers.items():
+    path = ROOT/relative_path
+    if not path.exists():
+        errors.append(f'Missing curated projection: {relative_path}')
+        continue
+    contents = path.read_text()
+    for marker in markers:
+        if marker not in contents:
+            errors.append(f'{relative_path}: missing curated marker {marker}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
 print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} current source-linked Book One architecture modules BA-01 through BA-10; curated canon checks.')

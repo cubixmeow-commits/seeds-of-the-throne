@@ -6,6 +6,7 @@ Thumbs.db
 .env.*
 !.env.example
 config.local.php
+.analytics-secret
 
 # VibeKB SQLite database and its runtime sidecar files (never commit real
 # accounts). The protective data/.htaccess and data/index.php are NOT ignored.

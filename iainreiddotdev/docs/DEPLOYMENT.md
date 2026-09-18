@@ -27,6 +27,38 @@ shared account system lives under the same base path (`/devsite/iainreiddotdev/a
 
 The Seeds static atlas remains at `/devsite/docs/`, while vault files retain their repository-relative paths beneath `/devsite/`.
 
+## First-party visitor analytics
+
+The portfolio, Project Explorer, and Seeds story pages send cookie-free
+pageview records to:
+
+`/devsite/iainreiddotdev/analytics/collect.php`
+
+Records use the existing protected SQLite database and appear only to an
+authenticated administrator at:
+
+`https://iainreid.dev/devsite/iainreiddotdev/admin/analytics.php`
+
+The data directory must remain writable by PHP. No API key is required.
+Approximate location and network information comes from the server-side
+`ipwho.is` lookup and is cached so a new IP is not repeatedly queried.
+
+After deployment:
+
+1. Visit one portfolio page and one page under `/devsite/docs/` in a browser
+   that is not sending Do Not Track or Global Privacy Control.
+2. Open the protected analytics dashboard and confirm both pageviews appear.
+3. Confirm `Privacy` is visible in both footers.
+4. Confirm the database and generated analytics secret cannot be downloaded:
+
+```bash
+curl -I https://iainreid.dev/devsite/iainreiddotdev/data/saas-lab.sqlite
+curl -I https://iainreid.dev/devsite/iainreiddotdev/data/.analytics-secret
+```
+
+Both must return **403 Forbidden** or **404 Not Found**. A 200 response is a
+deployment blocker.
+
 ## Shared account system (VibeKB)
 
 The complete tracked repository deployment includes this application's `auth/`, `admin/`, `data/`, and `scripts/` directories in their existing nested location.

@@ -1,8 +1,18 @@
 ---
 type: context
 status: active
-updated: 2026-09-12
+updated: 2026-09-17
 ---
+
+## Resistance evidence and Converging Revelation — 2026-09-17
+
+The independent **Resistance** is now a working story force. The name remains a placeholder. It is separate from Sylvan and must retain discoveries, agency, risks, and victories of its own. Its current Book One function is to connect evidence that Samuel kept partitioned across people, systems, records, and generations. Sylvan may present or act on the verified result without becoming its owner.
+
+The Samuel–Konrad passage establishes a new prose-development technique, the **Converging Revelation**: apparently separate facts converge until the last connection changes the meaning of the earlier history. Its first working application joins Samuel's postwar advantage, jealousy of Konrad's public divinity, the false autonomous recovery, Konrad's reactivation, and the attack on the group's sacred initiative.
+
+The 2026-09-17 focused reassessment does not reopen RW-01 through RW-10. It adds this material to BA-02, BA-07, BA-09, and BA-10. BA-01 remains the active author gate. The exact alpha mechanism, sacred initiative, damage state, evidence roles, and final Resistance name remain unresolved. Konrad's current working state is partitioned knowledge: he knows fragments while refusing the verified conclusion that connects them.
+
+Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
 
 ## Voice Key authorial-selection direction — 2026-09-12
 
@@ -22,9 +32,11 @@ The current assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]
 
 The active author gate is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]]. RW-01 through RW-10 remain accepted foundation and are not reopened by this pass.
 
-## Surface Archive public direction — 2026-09-11
+## Surface Archive public direction — updated 2026-09-16
 
 The former Wildlife Meme Adventures public-photography project is now **Seeds of the Throne: Surface Archive**. Authentic wildlife and environmental photography becomes positive, accessible, story-inspired evidence that the engineered colonization environment grew into a genuine living home. The default tone is affectionate, observant, lightly funny, and life affirming rather than criminal or prosecutorial. The active visual and writing rules are in [[05 Public/Wildlife Meme Adventures/SURFACE-ARCHIVE-DIRECTION]].
+
+The series now uses a formal consistency-and-variation contract. The title hierarchy, crown or throne mark, antique-gold archival linework, palette family, restrained system geometry, sparse registration nodes, photograph dominance, and phone-size readability remain recognizable. Each photograph must independently determine its crop, layout, graphic metaphor, palette balance, and note treatment, with at least three meaningful variables changed from the previous record. Approved compressed references and prompt rules live in [[skills/create-seeds-images/references/surface-archive-system]]. Real capture provenance stays in the private episode record; readable real place names and logos are removed from in-world images.
 
 ## September 9 workflow and assessment reset
 

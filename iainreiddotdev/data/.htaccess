@@ -10,10 +10,18 @@ Options -Indexes
     Require all denied
 </FilesMatch>
 
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
+
 # Apache 2.2 compatibility fallback, scoped so it only applies where
 # mod_authz_core is absent. Never mixed unscoped with the 2.4 directives above.
 <IfModule !mod_authz_core.c>
     <FilesMatch "\.(sqlite|sqlite3|db)(-wal|-shm|-journal)?$">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+    <FilesMatch "^\.">
         Order allow,deny
         Deny from all
     </FilesMatch>

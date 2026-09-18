@@ -13,13 +13,15 @@ declare(strict_types=1);
 
 /**
  * Open an account-system page: <head>, shared header, and the start of <main>.
- * $active marks the current nav item ('account', 'admin', or 'ideas') for aria-current.
+ * $active marks the current nav item ('account', 'admin', 'ideas', or
+ * 'analytics') for aria-current.
  */
 function render_page_top(string $title, string $active = ''): void
 {
     $accountUrl = url('auth/account.php');
     $adminUrl = url('admin/');
     $ideasUrl = url('admin/experiments.php');
+    $analyticsUrl = url('admin/analytics.php');
     $labUrl = url('saas-lab/');
     ?>
 <!DOCTYPE html>
@@ -32,6 +34,9 @@ function render_page_top(string $title, string $active = ''): void
     <title><?= e($title) ?> · VibeKB</title>
     <link rel="stylesheet" href="<?= e(url('assets/css/style.css?v=20260719g')) ?>">
     <link rel="stylesheet" href="<?= e(url('assets/css/auth.css?v=20260719b')) ?>">
+    <?php if ($active === 'analytics'): ?>
+        <link rel="stylesheet" href="<?= e(url('assets/css/analytics.css?v=20260918a')) ?>">
+    <?php endif; ?>
 </head>
 <body class="auth-body">
     <div class="ambient-light" aria-hidden="true"></div>
@@ -50,6 +55,7 @@ function render_page_top(string $title, string $active = ''): void
             <?php if (is_logged_in()): ?>
                 <?php if (is_admin()): ?>
                     <a href="<?= e($ideasUrl) ?>"<?= $active === 'ideas' ? ' aria-current="page"' : '' ?>>Ideas</a>
+                    <a href="<?= e($analyticsUrl) ?>"<?= $active === 'analytics' ? ' aria-current="page"' : '' ?>>Analytics</a>
                     <a href="<?= e($adminUrl) ?>"<?= $active === 'admin' ? ' aria-current="page"' : '' ?>>Admin</a>
                 <?php endif; ?>
                 <a href="<?= e($accountUrl) ?>"<?= $active === 'account' ? ' aria-current="page"' : '' ?>>Account</a>

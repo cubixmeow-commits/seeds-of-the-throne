@@ -5,6 +5,7 @@
 | Layer | Location | Format | Purpose |
 | --- | --- | --- | --- |
 | Identity source | `assets/reference-images/` | PNG or original JPEG | Canonical character geometry and supporting visual references |
+| Surface Archive style reference | `assets/reference-images/surface-archive/` | Compressed WebP | Author-approved series identity, hierarchy, and composition-range references |
 | Approved story source | `assets/approved-images/<character-id>/` | Original PNG/JPEG | Approved full-quality story frames and future edit sources |
 | Public delivery | `docs/assets/images/` | WebP or optimized JPEG | Fast GitHub Pages display |
 | Prompt record | `prompts/` | Markdown | Reproducible generation instructions |
@@ -19,6 +20,8 @@
 5. Add both source and derivative checksums to the visual registry.
 6. Record the model, date, prompt path, dimensions, approval, intended use, and any sequence relationship.
 7. Validate the registry, inspect the public derivative, and test every site reference.
+
+Surface Archive style references are a compact exception to the identity-source format. Preserve the full-quality master provenance in the episode record, store a high-quality WebP style reference in `assets/reference-images/surface-archive/`, and record its dimensions, role, and checksum in both that folder's README and `visual-registry.json`. A style reference controls series language only. It does not make its subject, wording, layout, or invented place canonical.
 
 Use `scripts/prepare_approved_image.py` for steps 2 through 4. It refuses to overwrite existing assets, uses WebP quality 82 by default, strips public metadata, and prints dimensions, byte counts, paths, and SHA-256 checksums for the registry.
 

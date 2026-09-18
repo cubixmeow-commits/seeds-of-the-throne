@@ -58,6 +58,64 @@
       "imitation of a named living artist"
     ]
   },
+  "surface_archive": {
+    "status": "author-approved-series-system",
+    "source": "05 Public/Wildlife Meme Adventures/SURFACE-ARCHIVE-DIRECTION.md",
+    "production_reference": "skills/create-seeds-images/references/surface-archive-system.md",
+    "identity_anchors": [
+      "Seeds of the Throne then Surface Archive then record number and category",
+      "crown or approved throne mark",
+      "antique-gold archival rules or fine frame",
+      "deep navy or charcoal, parchment or cream, antique gold, system blue, and sparse coral or ember registration nodes",
+      "fine information-bearing orbital, cartographic, ecological, signal, or connection geometry",
+      "authentic photograph remains dominant",
+      "primary story copy and Luminai note remain readable in a phone-size X preview"
+    ],
+    "responsive_variables": [
+      "canvas orientation and crop",
+      "title-lockup location and scale",
+      "reading order and text alignment",
+      "border behavior",
+      "geometric metaphor",
+      "palette emphasis and photographic grade",
+      "record category and narrative voice",
+      "Luminai-note treatment",
+      "image-specific visual signal"
+    ],
+    "variation_rule": "Change at least three meaningful responsive variables from the most recent record; color swaps alone do not qualify.",
+    "reference_rule": "Attach the protected source photograph and no more than two Surface Archive references by default: one closest identity-and-tone reference and one deliberately different composition reference.",
+    "place_name_rule": "Preserve real capture provenance in the private episode record. Remove readable real-world place names, coordinates, logos, and institutions from in-world records. Fictional replacements remain noncanonical visual interpretation unless separately accepted.",
+    "references": [
+      {
+        "record": "0043",
+        "path": "assets/reference-images/surface-archive/record-0043-shoreline-observation.webp",
+        "sha256": "2d809e5a3b40db629f276ef7dd1986008d780f64b25ca97d7aa1ca18dd0f54ce",
+        "dimensions": "1536x1024",
+        "role": "quiet natural observation and photograph dominance"
+      },
+      {
+        "record": "0061",
+        "path": "assets/reference-images/surface-archive/record-0061-mountain-transit.webp",
+        "sha256": "c2de2036bc53ae3c37adeae4159ead24b0aa7cdaa0e5eb8c24950f57d0071cf7",
+        "dimensions": "1536x1024",
+        "role": "daylight narrative record and strong archival frame"
+      },
+      {
+        "record": "0062",
+        "path": "assets/reference-images/surface-archive/record-0062-dream-integration.webp",
+        "sha256": "5d2301e7ce0b42e7501dce07d007de55a3fe6578d3a1ec8bf3e119c62949c45f",
+        "dimensions": "1448x1086",
+        "role": "dream-state contrast and connection geometry"
+      },
+      {
+        "record": "0063",
+        "path": "assets/reference-images/surface-archive/record-0063-coastal-resistance.webp",
+        "sha256": "dffcbea654e2fb2f779d9df1b445a3019537d3066615b14bf6736066394a0f6e",
+        "dimensions": "1536x1024",
+        "role": "environmental resistance story, fictionalized signage, and subtle hidden signal"
+      }
+    ]
+  },
   "compiler": {
     "id": "seeds-visual-world-compiler-v2",
     "renderer": {

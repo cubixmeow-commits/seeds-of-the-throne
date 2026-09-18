@@ -54,6 +54,7 @@ $vaultLinks = [
     ['See unresolved conflicts', '07 QA/Contradictions.md'],
     ['Open the current Book One workshop', '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md'],
     ['Read the Book One buildability assessment', '07 QA/2026-09-11 - Book One Buildability Assessment.md'],
+    ['Read the Resistance and revelation addendum', '07 QA/2026-09-17 - Resistance and Revelation Reassessment.md'],
     ['See the development tools', '08 Story Loop/README.md'],
     ['Read the planned authorship system', '07 Coordination/Authoring System/README.md'],
 ];

@@ -14,7 +14,8 @@ Use the vault as the portable source of truth. Treat prompts and generated image
 3. Read `references/prompt-contract.md` before preparing a generation request.
 4. Read `references/consistency-scorecard.md` before approving or storing an output.
 5. Read `references/identity-master-approval.md` when Samuel or Sylvan is present.
-6. Read only the story notes needed for the requested scene. Never infer new canon from an image.
+6. Read `references/surface-archive-system.md` for any Surface Archive photograph, revision, or series-reference update.
+7. Read only the story notes needed for the requested scene. Never infer new canon from an image.
 
 ## Build a prompt packet
 

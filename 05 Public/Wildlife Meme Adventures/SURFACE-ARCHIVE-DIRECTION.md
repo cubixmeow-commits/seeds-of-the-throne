@@ -1,7 +1,7 @@
 ---
 type: public-visual-direction
 status: author-approved
-updated: 2026-09-11
+updated: 2026-09-16
 parent_project: Seeds of the Throne
 series: Surface Archive
 ---
@@ -78,6 +78,16 @@ Do not impose the banner's book, desk, cities, or collage on each photograph. Tr
 - Keep all essential copy readable in an X feed preview on a phone.
 - Avoid dense dossiers, fake coordinates, generic science-fiction interfaces, and decorative clutter.
 - Never add glowing animals, fantasy anatomy, spaceships, visible hidden infrastructure, or unsupported environmental details.
+
+## Consistency without repetition
+
+The fixed identity is the title hierarchy, crown or throne mark, archival gold linework, recurring palette family, restrained system geometry, sparse registration nodes, photograph dominance, and phone-size readability. These elements should make a new record recognizable before the viewer reads it.
+
+The layout is not fixed. Every new image must derive its crop, title position, reading order, border behavior, geometric metaphor, palette balance, and Luminai-note treatment from the photograph itself. Vary at least three meaningful design variables from the most recent record. A color swap alone does not count.
+
+Use the approved WebP references in `skills/create-seeds-images/assets/reference-images/surface-archive/` through [[skills/create-seeds-images/references/surface-archive-system|the Surface Archive consistency and variation system]]. Attach the source photograph plus no more than two series references by default. Give each reference a specific role and explicitly forbid its subject, wording, unique motif, and exact layout from leaking into the new record.
+
+Preserve real capture provenance privately. Remove readable real-world place names, coordinates, logos, and institutions from images presented as in-world records. A fictional replacement remains visual interpretation unless separately accepted as story canon.
 
 ## Story relationship
 

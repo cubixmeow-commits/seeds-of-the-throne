@@ -1,7 +1,7 @@
 ---
 type: public-project-index
 status: active
-updated: 2026-09-11
+updated: 2026-09-16
 platform: X
 ---
 
@@ -57,10 +57,12 @@ Do not use the old template as the governing Surface Archive identity. Until a d
    - Reuse a prior layout only when the new photograph independently supports it, and record the image-specific reason.
    - Begin from the Surface Archive palette, then adjust its balance to complement the photograph's subject, habitat, and light.
    - Keep the small umbrella branding and hierarchy recognizable, but vary composition, display typography, borders, icons, and graphic metaphor when the image supports it.
+   - Preserve the recognition anchors in [[skills/create-seeds-images/references/surface-archive-system|the consistency and variation system]], then vary at least three meaningful design variables from the most recent record.
+   - Remove readable real-world place names, coordinates, logos, and institutions from in-world images. Record real provenance privately and treat fictional replacements as noncanonical visual interpretation unless separately approved.
    - Treat variants as different art-direction concepts, not simple color swaps.
    - Maintain phone-size contrast and legibility even when the photograph is visually busy.
    - If a ribbon is used, make its title substantially larger than the supporting identity text. Widen the ribbon, simplify its ornaments, or use a deliberate two-line treatment before shrinking the title.
-5. **Generate from the approved direction.** Attach the source photograph and the current Seeds banner or an approved Surface Archive reference. Preserve animal identity, pose, count, recognizable environment, and photographic truth.
+5. **Generate from the approved direction.** Attach the source photograph and no more than two approved Surface Archive references by default. Use the closest reference for series identity and a deliberately different reference to prevent layout copying. State each role. Preserve animal identity, pose, count, recognizable environment, and photographic truth.
 6. **Inspect visually.** Reject anatomical drift, duplicated or missing animals, altered species, false environmental details, illegible text, clipped type, branding drift, and compositions that bury the photograph. Inspect a preview that preserves the selected aspect ratio with its longest edge at 768 pixels; a ribbon that requires zooming fails even if it is legible in the production master.
 7. **Write the X package.** Produce a short positive story-concept post and useful alt text. Keep verified subject, location, capture date, and provenance in the episode record; include them publicly only when they improve the post and match the author's privacy choice.
 8. **Record approval.** A generated candidate remains a draft until the author approves the image and caption.
