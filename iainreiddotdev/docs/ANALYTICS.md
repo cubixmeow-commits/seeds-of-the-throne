@@ -34,8 +34,7 @@ addresses can merge or split visitors.
 - a browser-level opt-out is available on `privacy.php`
 - full query strings and URL fragments are not collected
 - raw records expire after 180 days
-- the public privacy page explains the collection and provides a deletion
-  contact
+- the public privacy page states that a first-party analytics system is in use
 
 The optional location lookup uses `ipwho.is` from the server and stores only
 city/region/country and network-provider fields. It does not store latitude,

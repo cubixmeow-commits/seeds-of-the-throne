@@ -105,8 +105,10 @@ curated_markers = {
         'Visitor analytics',
     ],
     'iainreiddotdev/privacy.php': [
-        'Global Privacy Control',
-        'automatically expire after 180 days',
+        'Privacy and visitor analytics',
+        'first-party analytics system operated by Iain Reid',
+        'data-analytics-opt-out',
+        'data-analytics-opt-in',
     ],
     'iainreiddotdev/setup-admin.php': [
         "SELECT COUNT(*) FROM users WHERE role = 'admin'",

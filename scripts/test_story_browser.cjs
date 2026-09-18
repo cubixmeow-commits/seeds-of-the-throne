@@ -337,9 +337,10 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
     const contrast = await page.evaluate(() => {
       const record = document.querySelector('.privacy-record');
       const lede = document.querySelector('.privacy-lede');
-      const paragraph = document.querySelector('.privacy-record section p');
+      const heading = document.querySelector('.privacy-record h1');
       const status = document.querySelector('[data-analytics-status]');
-      if (!record || !lede || !paragraph || !status) return null;
+      if (!record || !lede || !heading || !status) return null;
+      if (!document.querySelector('[data-analytics-opt-out]') || !document.querySelector('[data-analytics-opt-in]')) return null;
       const canvas = document.createElement('canvas');
       canvas.width = 1;
       canvas.height = 1;
@@ -367,7 +368,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       const bg = sample(getComputedStyle(record).backgroundColor);
       return {
         theme: document.documentElement.getAttribute('data-theme'),
-        body: ratio(sample(getComputedStyle(paragraph).color), bg),
+        heading: ratio(sample(getComputedStyle(heading).color), bg),
         lede: ratio(sample(getComputedStyle(lede).color), bg),
         status: ratio(sample(getComputedStyle(status).color), bg),
       };
@@ -376,7 +377,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       errors.push(`privacy contrast metrics missing for ${appearance}`);
     } else {
       if (contrast.theme !== appearance) errors.push(`privacy theme not ${appearance}: ${contrast.theme}`);
-      if (contrast.body < 4.5) errors.push(`privacy body contrast too low in ${appearance}: ${contrast.body}`);
+      if (contrast.heading < 4.5) errors.push(`privacy heading contrast too low in ${appearance}: ${contrast.heading}`);
       if (contrast.lede < 3) errors.push(`privacy lede contrast too low in ${appearance}: ${contrast.lede}`);
       if (contrast.status < 3) errors.push(`privacy status contrast too low in ${appearance}: ${contrast.status}`);
     }
