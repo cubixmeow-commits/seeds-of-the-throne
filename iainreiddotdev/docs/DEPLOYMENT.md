@@ -89,6 +89,14 @@ SAAS_LAB_ADMIN_PASSWORD='strong-password' \
   php scripts/create-admin.php --name="Iain Reid" --email="admin@example.com"
 ```
 
+If terminal access is inconvenient, open the temporary one-time web setup:
+
+`https://iainreid.dev/devsite/iainreiddotdev/setup-admin.php`
+
+The page explains how to copy its random setup code from the protected
+`data/.admin-setup-code` file in cPanel File Manager. It works only while no
+administrator exists and permanently disables itself after successful setup.
+
 ### Verify the database is not reachable over HTTP (required post-deploy test)
 
 ```bash

@@ -108,6 +108,13 @@ curated_markers = {
         'Global Privacy Control',
         'automatically expire after 180 days',
     ],
+    'iainreiddotdev/setup-admin.php': [
+        "SELECT COUNT(*) FROM users WHERE role = 'admin'",
+        '.admin-setup-code',
+        'csrf_validate()',
+        "':role' => 'admin'",
+        "redirect(url('admin/analytics.php'))",
+    ],
     'docs/app.js': [
         '/devsite/iainreiddotdev/assets/js/analytics.js?v=20260918a',
     ],

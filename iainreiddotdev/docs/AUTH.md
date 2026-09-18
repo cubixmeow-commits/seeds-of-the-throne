@@ -55,6 +55,7 @@ data/
 scripts/
   create-admin.php CLI-only first-administrator creator
   .htaccess        denies web access (defense in depth)
+setup-admin.php    one-time, setup-code-protected web fallback
 assets/css/auth.css account-system styles
 ```
 
@@ -152,8 +153,8 @@ still leaves `data/` owner-writable and does not break the database.
 
 ## Creating the first administrator
 
-No admin email is hardcoded, there is no public "make admin" URL, and the first
-registered user is **not** auto-promoted.
+No admin email is hardcoded, the first registered user is **not** auto-promoted,
+and the temporary web setup route disables itself after the first administrator.
 
 ### Preferred: the CLI script (run on the server via cPanel Terminal / SSH)
 
@@ -167,6 +168,29 @@ The password comes from the environment variable so it never lands in the
 argument list or shell history, and it is never printed. Exit codes: `0` success,
 `1` data directory/database not writable, `2` usage/validation error, `3` email
 already registered. The script refuses to run under any non-CLI SAPI.
+
+### Temporary web setup page
+
+When cPanel Terminal is inconvenient, deploy and open:
+
+`https://iainreid.dev/devsite/iainreiddotdev/setup-admin.php`
+
+No account login is required. The page generates a random one-time code in the
+HTTP-protected file `data/.admin-setup-code`. In cPanel File Manager, enable
+**Show Hidden Files**, open that file, and paste its code into the form with the
+administrator name, email, and password.
+
+After successful creation the page:
+
+- signs the new administrator in and opens the analytics dashboard;
+- deletes the setup-code file;
+- writes `data/.admin-setup-complete`; and
+- refuses all later administrator creation with HTTP 410.
+
+It also refuses to operate when any administrator already exists. The two dot
+files are runtime state, ignored by Git, and blocked over HTTP by
+`data/.htaccess`. The PHP page may be deleted from the repository after setup,
+but it is already inert after the first administrator is created.
 
 ### Fallback: promote an existing account by SQL
 
