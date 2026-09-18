@@ -231,7 +231,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   for (const width of VIEWPORTS) {
     await page.setViewportSize({ width, height: 1000 });
     await page.goto(base + `/iainreiddotdev/project-explorer/?view=overview&w=${width}#vault-overview`, { waitUntil: 'load' });
-    await page.waitForTimeout(1100);
+    await page.waitForTimeout(250);
     await assertNoOverflow(width, 'vault-overview');
     const covered = await page.evaluate(() => {
       const header = document.querySelector('#site-header');
@@ -327,6 +327,102 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   const theme = await page.evaluate(() => document.documentElement.getAttribute('data-theme'));
   if (theme !== 'light' && theme !== 'dark') errors.push('theme toggle did not set appearance');
 
+  // Privacy page contrast stays readable across explicit themes.
+  for (const appearance of ['light', 'dark']) {
+    await page.goto(base + '/iainreiddotdev/privacy.php', { waitUntil: 'load' });
+    await page.evaluate((value) => {
+      try { localStorage.setItem('theme', value); } catch (error) {}
+      document.documentElement.setAttribute('data-theme', value);
+    }, appearance);
+    const contrast = await page.evaluate(() => {
+      const record = document.querySelector('.privacy-record');
+      const lede = document.querySelector('.privacy-lede');
+      const paragraph = document.querySelector('.privacy-record section p');
+      const status = document.querySelector('[data-analytics-status]');
+      if (!record || !lede || !paragraph || !status) return null;
+      const canvas = document.createElement('canvas');
+      canvas.width = 1;
+      canvas.height = 1;
+      const ctx = canvas.getContext('2d', { willReadFrequently: true });
+      const sample = (color) => {
+        ctx.clearRect(0, 0, 1, 1);
+        ctx.fillStyle = '#000';
+        ctx.fillStyle = color;
+        ctx.fillRect(0, 0, 1, 1);
+        const [r, g, b] = ctx.getImageData(0, 0, 1, 1).data;
+        return { r, g, b };
+      };
+      const luminance = ({ r, g, b }) => {
+        const channel = (value) => {
+          const s = value / 255;
+          return s <= 0.03928 ? s / 12.92 : ((s + 0.055) / 1.055) ** 2.4;
+        };
+        return 0.2126 * channel(r) + 0.7152 * channel(g) + 0.0722 * channel(b);
+      };
+      const ratio = (fg, bg) => {
+        const a = luminance(fg);
+        const b = luminance(bg);
+        return (Math.max(a, b) + 0.05) / (Math.min(a, b) + 0.05);
+      };
+      const bg = sample(getComputedStyle(record).backgroundColor);
+      return {
+        theme: document.documentElement.getAttribute('data-theme'),
+        body: ratio(sample(getComputedStyle(paragraph).color), bg),
+        lede: ratio(sample(getComputedStyle(lede).color), bg),
+        status: ratio(sample(getComputedStyle(status).color), bg),
+      };
+    });
+    if (!contrast) {
+      errors.push(`privacy contrast metrics missing for ${appearance}`);
+    } else {
+      if (contrast.theme !== appearance) errors.push(`privacy theme not ${appearance}: ${contrast.theme}`);
+      if (contrast.body < 4.5) errors.push(`privacy body contrast too low in ${appearance}: ${contrast.body}`);
+      if (contrast.lede < 3) errors.push(`privacy lede contrast too low in ${appearance}: ${contrast.lede}`);
+      if (contrast.status < 3) errors.push(`privacy status contrast too low in ${appearance}: ${contrast.status}`);
+    }
+  }
+
+  // Anchor scroll lands once and does not reclaim position after manual scrolling or resize.
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=overview#vault-overview', { waitUntil: 'load' });
+  await page.waitForTimeout(200);
+  const landed = await page.evaluate(() => {
+    const header = document.querySelector('#site-header');
+    const target = document.querySelector('#vault-overview');
+    if (!header || !target) return false;
+    const top = target.getBoundingClientRect().top;
+    const bottom = header.getBoundingClientRect().bottom;
+    return top >= bottom - 1 && top < bottom + 160;
+  });
+  if (!landed) errors.push('mobile vault anchor did not land below sticky header');
+  const beforeManual = await page.evaluate(() => window.scrollY);
+  await page.mouse.wheel(0, 420);
+  await page.waitForTimeout(200);
+  await page.evaluate(() => window.dispatchEvent(new Event('resize')));
+  await page.waitForTimeout(700);
+  const afterManual = await page.evaluate(() => window.scrollY);
+  if (afterManual < beforeManual + 200) {
+    errors.push(`mobile vault scroll snapped back after manual move/resize: before=${beforeManual} after=${afterManual}`);
+  }
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=overview#story-progress', { waitUntil: 'load' });
+  await page.waitForTimeout(200);
+  const reducedMotionBehavior = await page.evaluate(() => {
+    const target = document.querySelector('#story-progress');
+    const header = document.querySelector('#site-header');
+    if (!target || !header) return null;
+    return {
+      covered: target.getBoundingClientRect().top < header.getBoundingClientRect().bottom - 1,
+      reduced: window.matchMedia('(prefers-reduced-motion: reduce)').matches,
+    };
+  });
+  if (!reducedMotionBehavior || !reducedMotionBehavior.reduced) {
+    errors.push('reduced-motion media query not active during scroll check');
+  } else if (reducedMotionBehavior.covered) {
+    errors.push('reduced-motion anchor scroll left target under sticky header');
+  }
+  await page.emulateMedia({ reducedMotion: null });
+
   // Search preserves files view and requested document.
   await page.goto(base + '/iainreiddotdev/project-explorer/?view=files&file=README.md&q=Luminai#archive');
   if (!(await page.locator('.explorer-results').count())) errors.push('Explorer search missing');
@@ -362,5 +458,5 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
     console.error(errors.join('\n'));
     process.exit(1);
   }
-  console.log(`PASS: ${results.length} responsive checks across ${VIEWPORTS.join('/')}px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; no JS errors.`);
+  console.log(`PASS: ${results.length} responsive checks across ${VIEWPORTS.join('/')}px; distinct PE destinations; hamburger; archive browse; Research/Visuals/Archive selected states; workshop persistence; search state; privacy contrast; one-shot anchor scroll; no JS errors.`);
 })();

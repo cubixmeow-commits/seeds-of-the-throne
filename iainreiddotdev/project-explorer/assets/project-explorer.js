@@ -1,6 +1,6 @@
 /**
  * Project Explorer interactions: mobile product menu, archive browse drawer,
- * and destination scrolling that clears the sticky header.
+ * and a single destination scroll that clears the sticky header.
  * Theme switching remains in shared site.js.
  */
 (() => {
@@ -11,46 +11,99 @@
   const desktopQuery = window.matchMedia('(min-width: 1024px)');
   const narrowQuery = window.matchMedia('(max-width: 1023px)');
 
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+
   const stickyOffset = () => {
     const header = document.querySelector('#site-header');
     return header ? Math.ceil(header.getBoundingClientRect().height) + 8 : 88;
   };
 
-  const scrollToDestination = (id) => {
-    if (!id) return;
+  const prefersReducedMotion = () =>
+    window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  let scrollCorrectionAllowed = true;
+  let pendingFrame = 0;
+  let cancellationArmed = false;
+
+  const stopAnimatedScroll = () => {
+    const root = document.documentElement;
+    const previous = root.style.scrollBehavior;
+    root.style.scrollBehavior = 'auto';
+    window.scrollTo(0, window.scrollY);
+    root.style.scrollBehavior = previous;
+  };
+
+  const cancelScrollCorrection = () => {
+    scrollCorrectionAllowed = false;
+    if (pendingFrame) {
+      window.cancelAnimationFrame(pendingFrame);
+      pendingFrame = 0;
+    }
+  };
+
+  const onUserScrollIntent = () => {
+    if (!cancellationArmed || !scrollCorrectionAllowed) return;
+    cancelScrollCorrection();
+    stopAnimatedScroll();
+  };
+
+  const onScrollKey = (event) => {
+    const keys = new Set([
+      ' ',
+      'Spacebar',
+      'PageUp',
+      'PageDown',
+      'Home',
+      'End',
+      'ArrowUp',
+      'ArrowDown',
+    ]);
+    if (keys.has(event.key)) onUserScrollIntent();
+  };
+
+  const armCancellation = () => {
+    if (cancellationArmed) return;
+    cancellationArmed = true;
+    ['wheel', 'touchstart', 'pointerdown'].forEach((type) => {
+      window.addEventListener(type, onUserScrollIntent, { passive: true, capture: true });
+    });
+    window.addEventListener('keydown', onScrollKey, { passive: true, capture: true });
+  };
+
+  const scrollToDestination = (id, { smooth = true } = {}) => {
+    if (!id || !scrollCorrectionAllowed) return false;
     const target = document.getElementById(id);
-    if (!target) return;
-    const top = window.scrollY + target.getBoundingClientRect().top - stickyOffset();
-    window.scrollTo({ top: Math.max(0, top), behavior: 'auto' });
+    if (!target) return false;
+    const top = Math.max(0, window.scrollY + target.getBoundingClientRect().top - stickyOffset());
+    const useSmooth = smooth && !prefersReducedMotion();
+    if (useSmooth) {
+      window.scrollTo({ top, behavior: 'smooth' });
+      return true;
+    }
+    // CSS `html { scroll-behavior: smooth }` makes behavior:"auto" animate in
+    // Chromium. Force an instantaneous jump for load/reduced-motion settles.
+    const root = document.documentElement;
+    const previous = root.style.scrollBehavior;
+    root.style.scrollBehavior = 'auto';
+    window.scrollTo(0, top);
+    root.style.scrollBehavior = previous;
+    return true;
   };
 
-  const settleDestination = (id) => {
+  const navigateToHash = (id, { smooth = true } = {}) => {
     if (!id) return;
-    let attempts = 0;
-    const run = () => {
-      scrollToDestination(id);
-      attempts += 1;
-      const target = document.getElementById(id);
-      if (!target || attempts >= 30) return;
-      const top = target.getBoundingClientRect().top;
-      const offset = stickyOffset();
-      if (top < offset - 2 || top > offset + 120) {
-        window.requestAnimationFrame(run);
-      }
-    };
-    run();
+    scrollCorrectionAllowed = true;
+    if (pendingFrame) {
+      window.cancelAnimationFrame(pendingFrame);
+      pendingFrame = 0;
+    }
+    pendingFrame = window.requestAnimationFrame(() => {
+      pendingFrame = 0;
+      scrollToDestination(id, { smooth });
+    });
   };
-
-    const initialHash = (location.hash || '').replace(/^#/, '');
-  if (initialHash) {
-    settleDestination(initialHash);
-    window.addEventListener('load', () => {
-      settleDestination(initialHash);
-      window.setTimeout(() => settleDestination(initialHash), 120);
-      window.setTimeout(() => settleDestination(initialHash), 400);
-      window.setTimeout(() => settleDestination(initialHash), 900);
-    }, { once: true });
-  }
 
   const syncVaultCurrent = () => {
     if (!productNav) return;
@@ -73,18 +126,29 @@
     }
   };
 
+  const initialHash = (location.hash || '').replace(/^#/, '');
+  if (initialHash) {
+    // Remove the fragment before the browser can smooth-scroll to a stale
+    // layout position. Restore it after our one-shot settle.
+    const urlWithoutHash = location.href.split('#')[0];
+    history.replaceState(null, '', urlWithoutHash);
+
+    const settleInitial = () => {
+      navigateToHash(initialHash, { smooth: false });
+      history.replaceState(null, '', `${urlWithoutHash}#${initialHash}`);
+      syncVaultCurrent();
+      window.requestAnimationFrame(armCancellation);
+    };
+    if (document.readyState === 'complete') settleInitial();
+    else window.addEventListener('load', settleInitial, { once: true });
+  } else {
+    armCancellation();
+  }
+
   syncVaultCurrent();
   window.addEventListener('hashchange', () => {
     syncVaultCurrent();
-    settleDestination((location.hash || '').replace(/^#/, ''));
-  });
-  let resizeTimer = 0;
-  window.addEventListener('resize', () => {
-    window.clearTimeout(resizeTimer);
-    resizeTimer = window.setTimeout(() => {
-      const hash = (location.hash || '').replace(/^#/, '');
-      if (hash) settleDestination(hash);
-    }, 60);
+    navigateToHash((location.hash || '').replace(/^#/, ''), { smooth: true });
   });
 
   if (menuButton && productNav) {

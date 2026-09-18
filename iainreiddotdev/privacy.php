@@ -12,7 +12,7 @@ $year = (int) date('Y');
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/privacy.php';
 $pageTitle = 'Privacy | Iain Reid';
 $pageDescription = 'How first-party visitor analytics are collected and protected on the Iain Reid portfolio and Seeds of the Throne story site.';
-$assetVersion = '20260918a';
+$assetVersion = '20260918b';
 ?>
 <!DOCTYPE html>
 <html lang="en">
