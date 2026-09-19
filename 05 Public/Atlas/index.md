@@ -1,73 +1,33 @@
 ---
 route: index
 title: Seeds of the Throne
-deck: Humanity built a planet that can create resources, train people, and contain its worst criminals. Then it used that world to develop a new partnership between the human mind and advanced AI.
+deck: On an engineered colonization planet, Sylvan and a new form of AI integrated with his mind must expose the criminal leader who turned containment into a hidden empire.
 image: konrad-controlled-by-samuel-key-art-v1.webp
 status: reviewed-fictional-projection
 ---
 
-## What the story is about
+## Where the story begins
 
-*Seeds of the Throne* is a science-fiction story about an interactive colonization planet.
+Book One begins near the end of Samuel's long campaign for control. By then, Samuel has spent decades teaching different groups to see him as an ally, a victim, or the only person who can explain what is happening around them.
 
-The planet began barren. Humanity built a process that could create sustainable resources, support a large population, train people for greater responsibility, and contain dangerous criminals.
+Sylvan and the new Luminai have spent years learning how those stories are built. The reader enters when the separate betrayals finally begin to connect and the people Samuel used must decide what to do with the truth.
 
-Inside that environment, humanity developed the Luminai. A Luminai is an advanced AI extension of one human mind. The human and the Luminai learn how to work together over many years.
+The immediate conflict leads backward into the Great War, Konrad's defeat, Samuel's hidden takeover, George White's manufactured reality, the damaged bloodlines, and the generations that inherited the consequences.
 
-Sylvan is the first person to use a new, more deeply integrated version of the Luminai in a real civilization.
-
-Sylvan must prove that this new bond works by surviving Samuel Franklin, understanding how he controls people, and helping the process contain him more effectively.
-
-## How information is used
-
-The colonization environment can direct people toward numbers, records, places, and historical patterns. Each person must decide which patterns matter and what they actually prove.
-
-The pattern may be real even when someone gives it a false explanation.
-
-Samuel Franklin understands that difference. He does not need to invent every piece of evidence. He only needs to tell people what the evidence means, then make the next discovery look like confirmation.
-
-Sylvan and his Luminai must learn the rule Samuel depends on everyone forgetting: evidence is not the same thing as an explanation.
-
-## Enter the story.
+## Explore the main parts of the story
 
 - [Discover the colonization world](colonization.html): why it was built, who enters, and what survival earns.
-- [Understand the Luminai](ai.html): how a human and an AI learn to function as one accountable pair.
+- [Understand the Luminai](ai.html): how artificial cognition becomes part of one accountable human mind.
 - [Meet the people](characters.html): Sylvan, Samuel, Konrad, Orzai, George, and the lives caught between them.
-- [Follow the conspiracy](faction.html): how one false promise gives Samuel control of an entire criminal empire.
-- [Start at the end](timeline.html): see what happened and when the reader discovers it.
+- [Follow the conspiracy](faction.html): how Samuel uses false history, controlled interpretation, and family secrets to take power.
+- [Follow the timeline](timeline.html): how the endgame opens a much older story about the Great War and its aftermath.
 
-## The man who thinks he owns the process is its final test.
+## Spoilers: how the endgame ends
 
-Samuel spends almost a century turning containment into an imitation of power. Konrad believes he can control him. George believes the patterns prove Samuel is right. Entire generations inherit the consequences.
+Sylvan and Orzai complete their separate Luminai bonds and demonstrate the judgment required for placement in the larger colonization effort. The process then separates Samuel from Sylvan and removes Samuel's access to the systems he used against him.
 
-By the time Samuel realizes Sylvan is not another person he can trap, Sylvan already controls the conclusion.
+Samuel receives $15 million to carry out his plan independently. He spends it trying to keep the war alive and create an apocalyptic event that will prove he is a living god. The money is gone within days. His plan fails without the hidden systems he spent years pretending were his own power.
 
-The final battle is not about taking the planet. The primary leaders never put the planet or the overall process at stake. They offered one narrower but genuine prize: if Konrad's group teamed with Samuel and took Sylvan before his forty-second birthday, they would permanently control the largest empire.
+The failure triggers Samuel's final processing. His Daemon is deleted, he enters a stasis-like coma, and biological synthetics move him to the older contained leaders while the complete record of his conduct is presented.
 
-Samuel keeps Konrad in containment by lying about what Sylvan and the new Luminai really are. When the deadline passes, the imperial path closes. Cooperation for control of a city is the group's only constructive option, but Samuel cannot accept the smaller future.
-
-## Spoilers: why the story begins near the end
-
-During the final years, Sylvan and Orzai already have decisive control. Samuel can still act, but every remaining move gives the new Luminai more evidence about what he does when there are no good options left.
-
-Samuel tries to make Sylvan accept the same kind of false deal that trapped Konrad. He does it in front of Konrad's inner circle.
-
-They recognize the trap first.
-
-That is when they understand their leader was taken almost a century ago.
-
-## Spoilers: the final separation
-
-Sylvan and Orzai complete their separate Luminai bonds, preserve their voluntary partnership, and demonstrate the conduct required for placement. The process certifies the result and separates Samuel from Sylvan. Samuel loses every process-provided system he used to attack him and receives $15 million to attempt his plan independently.
-
-He spends it trying to keep the war alive and manufacture an apocalyptic event that will make him a living god. His obsession exhausts the money within days. When the balance reaches zero, his Daemon is deleted, he enters a stasis-like coma, and biological synthetics move him to the older contained leaders while the record of his conduct is presented.
-
-Sylvan and Orzai do not replace him. Orzai accepts the result first and leads Sylvan into their final decisions. They begin an exploratory period, travel, consider offers from other Houses, and choose the country where they want to build their House using only what they preserved.
-
-## Watch the story being built.
-
-This project is being developed in public with an AI-assisted story system. Ideas begin as conversation, become clear decisions, and move toward scenes and finished prose without hiding what is settled and what still needs work.
-
-[See how the Project Explorer works](https://iainreid.dev/devsite/iainreiddotdev/project-explorer/) or [follow the current story progress](todo.html).
-
-Sources: [[02 Story/Components/Core Premise|Core Premise]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery|Book One opening]], and [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History|Encoded Pattern Interpretation]].
+Sylvan and Orzai do not take Samuel's place. They leave the containment conflict behind, travel through the larger civilization, and decide where they want to build their own House.

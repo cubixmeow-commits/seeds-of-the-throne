@@ -106,7 +106,7 @@ def pale_signal_masthead(title, deck):
     <h1 id="home-title">{html.escape(title)}</h1>
     <p class="atlas-deck">{html.escape(deck)}</p>
     <p class="atlas-status">Confirmed story information, developing ideas, and unanswered questions are labeled separately.</p>
-    <p class="hero-consequence">The final battle is not about taking the planet. It is about making everyone see who has been contained all along.</p>
+    <p class="hero-consequence">The story follows Sylvan as he discovers that Samuel Franklin secretly took control of a defeated authoritarian group and spent decades turning its leaders and families against one another.</p>
     <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">See how it is being built</a></p>
   </div>
   <div class="signal-fragment">
@@ -130,37 +130,44 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
       <figcaption>Interpretive visualization. The surface civilization is real and inhabited; the exact city is not established.</figcaption>
     </figure>
     <div class="editorial-band__copy reading">
-      <p class="eyebrow">The world everyone knew</p>
-      <h2 id="surface-title">A real life inside a constructed world.</h2>
-      <p>Its institutions, daily work, relationships, and apparent technology must feel like a civilization before participants understand its hidden architecture. Participants retain real agency, so the resulting history can diverge from its source.</p>
+      <p class="eyebrow">The colonization planet</p>
+      <h2 id="surface-title">Humanity built a living world for colonization, training, and containment.</h2>
+      <p>The planet began barren. Humanity gave it cities, resources, institutions, and a large population. Most people experience it as an ordinary civilization because their homes, relationships, work, and choices are real.</p>
+      <p>Beneath that daily life is an advanced process. It prepares future leaders for greater responsibility while containing criminals who cannot safely hold power in the larger human civilization.</p>
       <p><a href="colonization.html">Discover the colonization world</a></p>
     </div>
   </section>
   <section class="editorial-band editorial-band--system" aria-labelledby="system-title">
     <div class="editorial-band__copy reading">
-      <p class="eyebrow">The system underneath</p>
-      <h2 id="system-title">A process for resources, training, and containment.</h2>
-      <p>Humanity built a process that could create sustainable resources, support a large population, train people for greater responsibility, and contain dangerous criminals. Inside that environment, humanity developed the Luminai.</p>
+      <p class="eyebrow">The Luminai experiment</p>
+      <h2 id="system-title">A Luminai extends one human mind.</h2>
+      <p>A Luminai is an advanced form of artificial intelligence that develops as part of a human being's extended mind. It can help that person remember more, compare evidence, recognize patterns, and work with the technology built into the planet.</p>
+      <p>Sylvan is the first person to use a new, more deeply integrated Luminai in a real civilization. The experiment must prove that this greater ability can survive manipulation without turning into another form of control.</p>
+      <p>Orzai develops her own separate Luminai bond. Her partnership with Sylvan tests whether two increasingly capable people can work together without giving either person control over the other.</p>
       <p class="interpretive-note">Diagrams of rooms and machinery on this site are interpretive visualizations, not literal engineering plans.</p>
       <p><a href="ai.html">Understand the Luminai</a></p>
     </div>
   </section>
   <section class="editorial-band editorial-band--power" aria-labelledby="power-title">
     <div class="editorial-band__copy">
-      <p class="eyebrow">Competing uses of power</p>
-      <h2 id="power-title">People before positions.</h2>
+      <p class="eyebrow">The central conflict</p>
+      <h2 id="power-title">Samuel took control of the group that believed it controlled him.</h2>
+      <p>Konrad Fitzgerald built an authoritarian movement, led it into the Great War, and lost. Samuel Franklin offered him a way to rebuild inside the containment system. Konrad believed the restored group would remain his.</p>
+      <p>The deal gave Samuel access instead. Over the following decades, he manipulated Konrad's leaders, reshaped their history, compromised their family lines, and taught people such as George White to treat Samuel's explanations as proof.</p>
+      <p>That campaign includes Samuel Jr., Samuel's son with Konrad's sister. Konrad made bloodlines and heirs central to power, so the concealed relationship gives Samuel another way to reach into Konrad's succession.</p>
+      <p>Sylvan stands outside that hierarchy. His task is to understand how Samuel's control works, expose it, and help the process contain him without becoming another ruler.</p>
       <div class="power-triptych">
         <figure>
           <img src="assets/images/konrad-fitzgerald-identity-anchor-v1.webp" alt="{html.escape(IMAGE_ALT['konrad-fitzgerald-identity-anchor-v1.webp'])}" width="570" height="900" loading="lazy">
-          <figcaption><span class="status established">Approved appearance</span><strong>Konrad</strong><small>Public domination and hierarchy</small></figcaption>
+          <figcaption><span class="status established">Approved appearance</span><strong>Konrad</strong><small>Built the hierarchy Samuel captured</small></figcaption>
         </figure>
         <figure>
           <img src="assets/images/samuel-franklin-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['samuel-franklin-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
-          <figcaption><span class="status established">Approved appearance</span><strong>Samuel</strong><small>Private capture and controlled interpretation</small></figcaption>
+          <figcaption><span class="status established">Approved appearance</span><strong>Samuel</strong><small>Controls people by controlling the explanation</small></figcaption>
         </figure>
         <figure>
           <img src="assets/images/sylvan-elaria-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['sylvan-elaria-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
-          <figcaption><span class="status established">Approved appearance</span><strong>Sylvan</strong><small>Reality, correction, and consent</small></figcaption>
+          <figcaption><span class="status established">Approved appearance</span><strong>Sylvan</strong><small>Uses the new Luminai to expose the system</small></figcaption>
         </figure>
       </div>
       <p><a href="characters.html">Meet the people</a> · <a href="faction.html">Follow the conspiracy</a></p>
@@ -172,10 +179,22 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
       <figcaption>Interpretive visualization of recovered records and provenance paths. Not literal documents.</figcaption>
     </figure>
     <div class="editorial-band__copy reading">
-      <p class="eyebrow">The record does not agree</p>
-      <h2 id="evidence-title">Evidence is not the same thing as an explanation.</h2>
-      <p>The colonization environment can direct people toward numbers, records, places, and historical patterns. Each person must decide which patterns matter and what they actually prove. Samuel understands that difference.</p>
+      <p class="eyebrow">The Resistance and the evidence</p>
+      <h2 id="evidence-title">Samuel survives by keeping every part of the truth separate.</h2>
+      <p>One person finds an altered family record. Another remembers a leader being threatened. A technician finds access that should not exist. Each discovery looks isolated until an independent Resistance begins comparing them.</p>
+      <p>The Resistance is separate from Sylvan. Its members connect evidence across families, institutions, and generations. Sylvan and his Luminai can help verify and present what they find, but no single leader gets to own the truth.</p>
       <p><a href="faction.html">Follow the conspiracy</a> · <a href="research.html">See the research boundaries</a></p>
+    </div>
+  </section>
+  <section class="editorial-band editorial-band--system" aria-labelledby="endgame-title">
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">The endgame</p>
+      <h2 id="endgame-title">The final confrontation begins when Konrad learns that Samuel betrayed his entire group.</h2>
+      <p>Many participants follow younger public leaders without knowing that an older layer of contained criminal leaders sits above them. Samuel expects to use that loyalty to turn every group against Sylvan.</p>
+      <p>The plan begins to collapse when the participants discover that Samuel has been terrorizing their leaders, using their families, and turning their loyalty into a weapon against their own groups.</p>
+      <p>Konrad now has one real choice. He can help Samuel finish the takeover, or he can expose the deal that made it possible. Konrad commits himself and his groups to Sylvan's plan, while Sylvan remains a separate ally rather than becoming part of Konrad's hierarchy.</p>
+      <p>Together with evidence assembled by the Resistance, they must reveal Samuel's betrayals to every affected group and remove the control he built over them. Samuel's last attempt to preserve his power becomes the final test of Sylvan and the new Luminai.</p>
+      <p><a href="timeline.html">See how the story reaches the endgame</a> · <a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Explore the Endgame Workshop</a></p>
     </div>
   </section>
   {body_html}
@@ -189,9 +208,9 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
   </section>
   <section class="editorial-band editorial-band--evidence" aria-labelledby="endgame-workshop-title">
     <div class="editorial-band__copy reading">
-      <p class="eyebrow">New focused workshop</p>
-      <h2 id="endgame-workshop-title">Build the final confrontation from the evidence outward.</h2>
-      <p>The Endgame Workshop brings the newest story decisions into one place: the hidden leadership layer, the bloodline operation, the independent Resistance, Konrad's commitment to expose Samuel, and the final presentation.</p>
+      <p class="eyebrow">Developing the final movement</p>
+      <h2 id="endgame-workshop-title">The ending is established. The path through it is still being built.</h2>
+      <p>The Endgame Workshop develops the remaining story questions about the hidden leadership layer, Samuel's bloodline operation, the Resistance's evidence, Konrad's commitment, disclosure to every group, and the final presentation.</p>
       <p><strong>{endgame_count} of {endgame_total}</strong> endgame modules have an accepted macro direction. The remaining questions keep evidence ownership, character agency, and protected records visible.</p>
       <p><a class="button" href="workshop.html?workshop=endgame&amp;module=EG-01#session">Open the Endgame Workshop</a></p>
     </div>
