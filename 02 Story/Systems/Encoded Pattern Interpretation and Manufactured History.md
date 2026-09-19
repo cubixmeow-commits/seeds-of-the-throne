@@ -47,7 +47,7 @@ This architecture creates a serious legitimacy problem that remains unresolved: 
 
 The final story uses original religious traditions rather than direct versions of historical or modern Earth religions. Broad human dynamics may inform development, but names, doctrines, sacred figures, scriptures, symbols, orders, rituals, prophecies, and histories must be invented for the colonization world.
 
-Konrad and Aiden's holy order demonstrates the difference between belief and captured interpretation. Their faith is sincere; Samuel's claimed authority is counterfeit. Samuel exploits the gap between a sign and its meaning, making his operational demands appear to come from the order's divine source. The story's evidentiary conclusion is limited: records can prove Samuel authored or manipulated instructions, but they do not settle the order's metaphysical claims or the truth of faith generally.
+Konrad and Aiden's holy order demonstrates the difference between belief and captured interpretation. Their faith is sincere, and the wider religion's prophecy predates Samuel. Samuel exploits the gap between a sign and its application, tells them Sylvan is the enemy the prophecy describes, and makes that identification appear to come from the order's divine source. Records can prove Samuel authored the target assignment and manipulated its confirmations, but they do not settle the prophecy's metaphysical truth or the truth of faith generally.
 
 See [[Original Religions and Counterfeit Sacred Authority]].
 

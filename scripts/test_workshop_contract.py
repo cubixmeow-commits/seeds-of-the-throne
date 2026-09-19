@@ -157,7 +157,7 @@ class WorkshopContractTests(unittest.TestCase):
         errors = workshop.validate_generated_endgame_modules(payload)
         joined = '\n'.join(errors)
         self.assertTrue(errors)
-        self.assertIn('EG-01 through EG-08', joined)
+        self.assertIn('EG-01 through EG-12', joined)
 
     def test_complete_temp_set_passes(self):
         with tempfile.TemporaryDirectory() as tmp:

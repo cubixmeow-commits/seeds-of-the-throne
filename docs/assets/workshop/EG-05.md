@@ -17,7 +17,7 @@ Convert Konrad's locked decision into an operational change while preserving acc
 
 Konrad abandons the attempt to terrorize, process, or eliminate Sylvan. He commits himself and his groups to exposing Samuel Franklin, revealing the betrayals, delivering evidence to every affected group, and removing Samuel's control. This is his only real option because continuing the original deal would knowingly complete Samuel's takeover. Konrad remains above and responsible for his groups. Sylvan remains a separate independent entity.
 
-This commitment follows Konrad and Aiden's attack on Sylvan. The failed repetition exposes that the rival role, prophecy, apparent autonomy, and reactivated programs all belong to Samuel's maintained story. Konrad's first irreversible action must therefore break a part of the structure he previously authorized. Aiden's response cannot be assumed from Konrad's choice.
+This commitment follows Konrad and Aiden's attack on Sylvan. The failed repetition exposes that Samuel's target assignment, apparent autonomy, and reactivated programs belong to his maintained story. The prophecy itself predates Samuel. Konrad's first irreversible action must therefore break a part of the interpretive and operational structure he previously authorized. Aiden's response cannot be assumed from Konrad's choice.
 
 Konrad must also surrender his exclusive authority to define the holy order's enemies. His turn does not require him to renounce every belief. It requires him to acknowledge that Samuel captured the interpretive channel and that Konrad used counterfeit sacred authority to justify real harm.
 

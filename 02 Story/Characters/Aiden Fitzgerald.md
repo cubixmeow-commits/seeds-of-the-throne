@@ -15,7 +15,7 @@ roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality p
 
 Aiden survives the Great War defeat with Konrad and enters the postwar altered reality Samuel maintains through story functionality, apparent autonomy, reactivated systems, and the Fitzgerald group's own ideology. He and Konrad become obsessed with prophecy, restored dominance, and defeating any rival who threatens their promised return to power.
 
-**Established religious layer:** Aiden sincerely believes that he and Konrad lead an original holy order placed by divine purpose. He believes service will culminate in a promised reward and that eliminating identified threats can fulfill sacred duty. Samuel does not appear to Aiden as an ordinary commander. Samuel counterfeits the authority that interprets the order's signs, permissions, prophecy, and enemies.
+**Established religious layer:** Aiden sincerely believes that he and Konrad lead an original holy order placed by divine purpose. Its wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Aiden believes service will culminate in a promised reward and that eliminating identified threats can fulfill sacred duty. Samuel does not appear as an ordinary commander. He counterfeits interpretive authority and tells Aiden that Sylvan is the enemy described by the prophecy.
 
 ## Endgame function
 
@@ -35,7 +35,7 @@ The attack becomes part of the evidence against Samuel. When Sylvan refuses the 
 ## Open questions
 
 - What public role and group does Aiden lead?
-- What original prophecy and promised culmination make Sylvan his necessary rival?
+- What does the existing prophecy say, what promised culmination does Aiden expect, and why does he accept Samuel's identification of Sylvan?
 - Which trusted sacred channel does Aiden believe cannot have come from Samuel?
 - What is Aiden's first direct action against Sylvan?
 - Which part of the false autonomy does Aiden independently suspect?

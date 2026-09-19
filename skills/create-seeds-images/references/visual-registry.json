@@ -732,6 +732,42 @@
           "approval": "author approved"
         }
       ]
+    },
+    "existing-prophecy-endgame-diagrams-v1": {
+      "title": "Samuel's control method and altered-reality target assignment",
+      "status": "approved-story-sequence",
+      "story_status": "author-approved explanatory diagrams of the working endgame mechanism; iconography, arrows, interface styling, architecture, and exact spatial hierarchy remain noncanonical",
+      "created": "2026-09-19",
+      "generator": "OpenAI GPT Image",
+      "source_prompts": [
+        "prompts/endgame-samuel-control-method-diagram-v1.md",
+        "prompts/endgame-altered-reality-prophecy-target-diagram-v1.md"
+      ],
+      "frames": [
+        {
+          "order": 1,
+          "title": "How Samuel Franklin took control",
+          "source_path": "assets/approved-images/endgame-diagrams/samuel-control-method-diagram-v1.png",
+          "public_path": "docs/assets/images/samuel-control-method-diagram-v1.webp",
+          "dimensions": "1122x1402",
+          "source_sha256": "2974a93b29d96973f145c0b7414621cd5d8db96cac65207c86081024e1cdbd00",
+          "public_sha256": "4f52dffb05f0982eeab2e3470a2df688c4e71351a60f1f11625a06b5c41c0821",
+          "use": "explains the captured interpretive channel connecting Samuel to Konrad, Aiden, other leaders, and their groups",
+          "approval": "author approved"
+        },
+        {
+          "order": 2,
+          "title": "Trapped inside Samuel's altered reality",
+          "source_path": "assets/approved-images/endgame-diagrams/altered-reality-prophecy-target-diagram-v1.png",
+          "public_path": "docs/assets/images/altered-reality-prophecy-target-diagram-v1.webp",
+          "dimensions": "1087x1447",
+          "source_sha256": "87a495d1d752e772224d1cf109c212b5593bc4c1e86d5c29898c5b80a7071598",
+          "public_sha256": "baac6f240c55a89206a39a41f517b45ddc1bed5a229f85974e66a9666fcfb7ca",
+          "use": "explains that Samuel identifies Sylvan as the enemy described by a preexisting original religious prophecy and directs the trapped leaders' attack",
+          "approval": "author approved",
+          "warning": "The prophecy predates Samuel and was not created by Konrad's group; Samuel controls the target assignment, not the prophecy's existence."
+        }
+      ]
     }
   },
   "characters": {

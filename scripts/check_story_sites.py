@@ -83,9 +83,9 @@ if endgame_source_modules:
     source_ids=[item['id'] for item in endgame_source_modules]
     generated_ids=[item.get('id') for item in endgame_data.get('modules', [])]
     if source_ids!=generated_ids:
-        errors.append('generated workshop IDs do not match the EG-01 through EG-08 source set')
+        errors.append(f'generated workshop IDs do not match the {ENDGAME_WORKSHOP_LABEL} source set')
 if len(endgame_data.get('modules', [])) != ENDGAME_EXPECTED_MODULE_COUNT:
-    errors.append(f'Expected {ENDGAME_EXPECTED_MODULE_COUNT} focused Endgame modules EG-01 through EG-08, found {len(endgame_data.get("modules", []))}')
+    errors.append(f'Expected {ENDGAME_EXPECTED_MODULE_COUNT} focused Endgame modules {ENDGAME_WORKSHOP_LABEL}, found {len(endgame_data.get("modules", []))}')
 for m in endgame_data.get('modules', []):
     text=(ROOT/m['path']).read_text()
     if text!=m['markdown']:errors.append('Workshop drift: '+m['id'])
@@ -127,8 +127,8 @@ curated_markers = {
     ],
     'docs/faction.html': ['The records begin to connect'],
     'docs/archive.html': ['focused September 17 reassessment'],
-    'docs/index.html': ['Open the Endgame Workshop'],
-    'docs/workshop.html': ['Choose from eight Endgame topics'],
+    'docs/index.html': ['Open the Endgame Workshop', 'samuel-control-method-diagram-v1.webp', 'altered-reality-prophecy-target-diagram-v1.webp'],
+    'docs/workshop.html': ['Choose from 12 Endgame topics'],
     '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md': [
         'This focused workshop develops the final confrontation',
         "Konrad's commitment",
@@ -138,8 +138,8 @@ curated_markers = {
         'Start the Endgame Workshop',
     ],
     'iainreiddotdev/project-explorer/index.php': [
-        '2026-09-17 - Resistance and Revelation Reassessment.md',
-        '../assets/js/analytics.js?v=20260918a',
+        '2026-09-19 - Existing Prophecy Endgame Expansion.md',
+        'altered-reality-prophecy-target-diagram-v1.webp',
     ],
     'iainreiddotdev/analytics/collect.php': [
         'analytics_site_for_path',
@@ -177,4 +177,4 @@ for relative_path, markers in curated_markers.items():
             errors.append(f'{relative_path}: missing curated marker {marker}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
-print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} Book One modules BA-01 through BA-10; {ENDGAME_EXPECTED_MODULE_COUNT} Endgame modules EG-01 through EG-08; curated canon checks.')
+print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} Book One modules BA-01 through BA-10; {ENDGAME_EXPECTED_MODULE_COUNT} Endgame modules {ENDGAME_WORKSHOP_LABEL}; curated canon checks.')

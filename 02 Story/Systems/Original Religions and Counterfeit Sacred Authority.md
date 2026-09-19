@@ -19,19 +19,19 @@ The world does not establish that faith is inherently delusional or that one rel
 
 **Established macro direction:** Konrad Fitzgerald and his son Aiden sincerely believe they lead a holy order placed by divine purpose. They believe the order will receive a promised reward for completing its mission and that threats to that mission may be eliminated as acts of sacred service.
 
-The order is original to the story. Its name, constructive origin, theology, rituals, hierarchy, sacred imagery, promised reward, and exact prophecy remain unresolved.
+The order and the wider religion containing its prophecy are original to the story. The prophecy exists before Samuel's manipulation and was not created by Konrad's group. Its name, constructive origin, theology, rituals, hierarchy, sacred imagery, promised reward, legitimate custodians, and exact language remain unresolved.
 
 Konrad's existing authoritarian ideology turns sacred purpose into entitlement. Aiden inherits both the public leadership role and the interpretive world surrounding it. Their belief is sincere, but sincerity does not excuse violence, suppression of doubt, or the choice to treat designated rivals as objects to be removed.
 
 ## Samuel's counterfeit authority
 
-**Established:** Samuel's primary method for controlling Konrad, Aiden, and related group leaders is to occupy the trusted space between belief and action. He masquerades as the divine authority behind their missions without possessing divine authority himself.
+**Established:** Samuel's primary method for controlling Konrad, Aiden, and related group leaders is to occupy the trusted space between belief and action. He does not write or own the existing prophecy. He masquerades as an authoritative interpreter, identifies Sylvan as the enemy it describes, and makes that application appear to come from beyond him.
 
 Samuel combines story functionality with controlled records, selective access, staged confirmation, intermediaries, permissions, ritual timing, false provenance, and assigned rivals. His instruction is presented as interpretation, discovery, confirmation, or fulfillment rather than as an order from Samuel Franklin.
 
 The control loop is:
 
-`sacred purpose -> selected sign -> Samuel-controlled interpretation -> designated threat -> leader action -> revised explanation -> deeper dependence`
+`existing prophecy -> selected sign -> Samuel-controlled application -> Sylvan named as the threat -> leader action -> revised explanation -> deeper dependence`
 
 Success is treated as confirmation. Failure is reframed as evidence that a betrayer remains, the trial is incomplete, or greater commitment is required. Samuel can therefore preserve the story while changing its immediate demands.
 
@@ -39,9 +39,9 @@ Samuel does not create belief from nothing, control minds, perform genuine mirac
 
 ## Endgame revelation
 
-Samuel designates Sylvan as the threat whose removal will complete Konrad and Aiden's sacred mission. Their resulting attack is both a real danger and the live reconstruction of Samuel's postwar capture method.
+Samuel tells Konrad, Aiden, and the other leaders that Sylvan is the enemy already described by the prophecy. Their resulting attack is both a real danger and the live reconstruction of Samuel's postwar capture method.
 
-Sylvan's refusal breaks the predicted role. Samuel must revise the sacred explanation in real time. The Resistance connects those revisions to access records, older instructions, captured initiatives, and parallel missions given to other leaders. The decisive proof is not merely that a prophecy failed. It is that supposedly transcendent instructions repeatedly trace back to Samuel's operational access and change when his needs change.
+Sylvan's refusal breaks the assigned role. Samuel must revise his application in real time. The Resistance connects those revisions to access records, older instructions, captured initiatives, and parallel missions given to other leaders. The decisive proof is not that the prophecy failed. It is that Sylvan's identification and the supposedly transcendent confirmations repeatedly trace back to Samuel's operational access and change when his needs change.
 
 Konrad's commitment to expose Samuel therefore requires more than changing military allegiance. He must separate the order's faith from Samuel's counterfeit interpretive authority, open the records, and surrender the exclusive power to declare who divine purpose requires the group to attack.
 
@@ -60,11 +60,11 @@ Aiden's response remains independent and unresolved.
 
 - What is the order's name and original constructive purpose?
 - What promised reward keeps Konrad and Aiden committed after the Great War?
-- What trusted channel does Samuel capture?
+- Who legitimately preserves and interprets the existing prophecy, and what trusted channel does Samuel capture or bypass?
+- What part of the prophecy can plausibly be misapplied to Sylvan?
 - What original symbol or ritual changes meaning after the reveal?
 - Who inside the order preserves a nonviolent or reformist interpretation?
 - How do other original religions recognize, resist, or misunderstand the counterfeit authority?
 - What rights protect belief, disbelief, exit, criticism, and reform inside synthetically managed institutions?
 
 Source: [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]].
-

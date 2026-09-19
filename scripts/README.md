@@ -2,7 +2,7 @@
 
 The public atlas sources are reviewed Markdown in `05 Public/Atlas/`. Canon remains in `02 Story/`; each public page links the notes from which its copy was selected. Canonical changes still require editorial review before changing public copy. The builder prevents drift between a reviewed source and its generated views; it does not decide canon.
 
-The site exposes two validated workshop tracks. `07 Coordination/Story Completion Workflow/Book One Architecture Workshop/` remains the fixed BA-01 through BA-10 set. `07 Coordination/Story Completion Workflow/Endgame Workshop/` is the focused EG-01 through EG-08 set. The builder and checker share `scripts/workshop_contract.py`; inventory is never inferred from whichever files happen to be present. Prerequisite values must be `none`, the named accepted-ending label, a required module ID, a comma-separated list of IDs, or a supported ID range. Unknown or malformed values fail. The completed reassessment and retired twenty-module workshop remain historical.
+The site exposes two validated workshop tracks. `07 Coordination/Story Completion Workflow/Book One Architecture Workshop/` remains the fixed BA-01 through BA-10 set. `07 Coordination/Story Completion Workflow/Endgame Workshop/` is the focused EG-01 through EG-12 set. The builder and checker share `scripts/workshop_contract.py`; inventory is never inferred from whichever files happen to be present. Prerequisite values must be `none`, the named accepted-ending label, a required module ID, a comma-separated list of IDs, or a supported ID range. Unknown or malformed values fail. The completed reassessment and retired twenty-module workshop remain historical.
 
 Run from the repository root:
 

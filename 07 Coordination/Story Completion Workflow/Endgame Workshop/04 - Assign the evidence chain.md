@@ -19,7 +19,7 @@ The Resistance reconstructs evidence Samuel kept partitioned across records, sys
 
 The present attack supplies a live comparison. Sylvan and the Luminai can preserve Samuel's attempt to assign him a role, Konrad and Aiden's response, and Samuel's revisions after Sylvan refuses. The Resistance must own the historical connection showing that this sequence matches postwar false autonomy, reactivation, captured initiatives, and the recruitment of other leaders.
 
-The evidentiary burden is narrower than a judgment about religion. The chain must show that Samuel controlled or authored the supposedly sacred instructions: access logs, revisions, timing, intermediaries, permissions, source records, or repeated language across otherwise separate groups. A failed prophecy by itself proves too little.
+The evidentiary burden is narrower than a judgment about religion. Samuel did not author the existing prophecy. The chain must show that he selected Sylvan as its supposed enemy and manufactured the actionable confirmations: access logs, revisions, timing, intermediaries, permissions, source records, or repeated language across otherwise separate groups. A failed prophecy by itself proves too little.
 
 Sources: [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
 
@@ -32,7 +32,7 @@ Sources: [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and
 
 ## Central author gate
 
-Which indispensable record lets the Resistance connect the live Sylvan trap and counterfeit sacred instructions to Konrad and Aiden's postwar reactivation, who authenticates each evidence class, and what final connection changes the meaning of at least three earlier facts?
+Which indispensable record lets the Resistance connect Samuel's live identification of Sylvan to Konrad and Aiden's postwar reactivation, who authenticates each evidence class, and what final connection changes the meaning of at least three earlier facts?
 
 ## Scene test
 

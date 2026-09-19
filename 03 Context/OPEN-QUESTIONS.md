@@ -6,7 +6,7 @@ updated: 2026-09-19
 
 ## Altered-reality repetition trap — 2026-09-19
 
-- What exact prophecy or promised culmination makes Sylvan the rival Konrad and Aiden believe they must defeat?
+- What does the existing prophecy say, who preserves it, and which ambiguity lets Samuel falsely identify Sylvan as its enemy?
 - What specific role does Samuel offer Sylvan, and what consent, authorization, or activation would place Sylvan inside the controlled story environment?
 - What is the first action Konrad and Aiden take against Sylvan?
 - What does Aiden know, suspect, deny, and learn before and after the attack?
@@ -17,7 +17,7 @@ updated: 2026-09-19
 
 ## Focused Endgame Workshop — 2026-09-19
 
-The endgame questions now live in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-08]]. The locked Konrad commitment is not an open question. Current gates concern the exact starting state, hidden-hierarchy discovery, bloodline evidence and Samuel Jr.'s agency, evidence ownership, Konrad's first irreversible action, group-by-group disclosure, Samuel's bounded counterplan, and the final presentation order.
+The endgame questions now live in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-12]]. The locked Konrad commitment is not an open question. Current gates also include the prophecy that predates Samuel, his target substitution, each leader's independent choice, and the evidence that separates faith from his fraudulent application.
 
 This focused track does not replace BA-01 as the active Book One architecture gate.
 
@@ -39,9 +39,10 @@ RW-01 through RW-10 are author-accepted and the reassessment workshop is complet
 
 - What is Konrad and Aiden's original holy order called, and what constructive purpose did it claim before Konrad converted it into a dominance structure?
 - What promised divine reward keeps them committed after the Great War?
-- What original prophecy makes Sylvan the final designated threat without borrowing from an existing religion?
-- Which trusted office, artifact, ritual, archive, or technical channel lets Samuel impersonate sacred authority?
-- What evidence proves Samuel authored or manipulated the instructions rather than merely proving a prediction wrong?
+- What does the original existing prophecy say, who preserves it, and what constructive purpose did it serve before Samuel's manipulation?
+- Which trusted office, artifact, ritual, archive, or technical channel lets Samuel counterfeit the authority to apply it?
+- What three apparently independent confirmations persuade the leaders that Sylvan is the enemy it describes?
+- What evidence proves Samuel named the target and manufactured the confirmations rather than merely holding one interpretation?
 - Which sincere believer inside the order first separates faith from obedience to Samuel?
 - What distinct original sacred stories did Samuel exploit among other group leaders?
 

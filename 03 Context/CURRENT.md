@@ -6,11 +6,11 @@ updated: 2026-09-19
 
 ## Counterfeit divine authority — 2026-09-19
 
-Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. They expect a promised reward for completing its mission and accept the removal of designated threats as sacred service. Samuel's primary control method is to masquerade as the authority behind that mission. Through story functionality, controlled interpretation, staged confirmation, records, permissions, intermediaries, and assigned rivals, he makes his operational requirements appear to come from beyond him.
+Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. A wider original religion already contains the prophecy. Samuel did not write it, and Konrad's group did not create it. They expect a promised reward for completing the mission and accept the removal of designated threats as sacred service. Samuel's primary control method is to masquerade as an authoritative interpreter. Through story functionality, staged confirmation, records, permissions, intermediaries, and assigned rivals, he tells them Sylvan is the enemy described by the prophecy and makes that target assignment appear to come from beyond him.
 
 The endgame does not reveal that faith is false. It proves that Samuel captured the channel connecting belief to action and counterfeited authority he never possessed. Every religion, order, doctrine, symbol, ritual, prophecy, and sacred history used in the final story must be original to *Seeds of the Throne*. Real religions may inform broad human dynamics during development but cannot become one-to-one fictional counterparts.
 
-Sylvan is the final designated threat. Konrad and Aiden's attack becomes the live example that lets the Resistance trace supposedly sacred instructions back to Samuel's access and revisions. Konrad's commitment must therefore break both Samuel's operational control and his exclusive power to interpret the order's purpose. Aiden's response remains independent.
+Sylvan is the final designated threat because Samuel applies the existing prophecy to him. Konrad and Aiden's attack becomes the live example that lets the Resistance trace the identification and its manufactured confirmations back to Samuel's access and revisions. Konrad's commitment must therefore break both Samuel's operational control and his exclusive power to define the order's enemies. Aiden's response remains independent.
 
 Sources: [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[02 Story/Systems/Original Religions and Counterfeit Sacred Authority]].
 
@@ -20,19 +20,19 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[02 S
 
 After the Great War, Samuel uses story functionality, false autonomy, and Konrad-authorized reactivation to keep Konrad and Aiden inside an altered reality organized around prophecy, restored dominance, and victory over rivals. The physical environment and consequences remain real. Samuel controls important parts of the story layer around them, not the governing colonization process.
 
-In the endgame, Samuel tries to repeat the same trap against Sylvan. He causes Konrad and Aiden to identify Sylvan as the rival whose defeat will complete their promised recovery. They target Sylvan before the live repetition, Resistance evidence, and reactivation record reveal how Samuel captured their group and used its apparent independence to recruit other leaders. This exposure supplies the causal route into Konrad's already established commitment to Sylvan's plan. Aiden's decision after exposure remains unresolved.
+In the endgame, Samuel tries to repeat the same trap against Sylvan. He tells Konrad and Aiden that Sylvan is the enemy described by the existing prophecy and that defeating him will complete their promised recovery. They target Sylvan before the live repetition, Resistance evidence, and reactivation record reveal how Samuel captured their group and used its apparent independence to recruit other leaders. This exposure supplies the causal route into Konrad's already established commitment to Sylvan's plan. Aiden's decision after exposure remains unresolved.
 
 Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[07 QA/2026-09-19 - Altered Reality Endgame Reassessment]].
 
 ## Focused Endgame Workshop — 2026-09-19
 
-The [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|Endgame Workshop]] now holds the last several days of endgame development in a separate `EG-01` through `EG-08` track. It does not add an eleventh BA module or reopen the accepted RW ending.
+The [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|Endgame Workshop]] now holds the last several days of endgame development in a separate `EG-01` through `EG-12` track. EG-09 through EG-12 develop the existing prophecy, Samuel's target substitution, each leader's agency, and the evidence that breaks the altered reality. The track does not extend the BA workshop or reopen the accepted RW ending.
 
 Konrad's final direction is now locked: he rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel Franklin and reveal his betrayals to every affected group. This is his only real option because continuing the deal would knowingly complete Samuel's takeover. Konrad remains above and responsible for his groups. Sylvan remains a separate independent entity. Their collaboration is specific rather than hierarchical.
 
 The focused workshop also develops the hidden contained-leader layer, the loyalty reversal, Samuel's bloodline operation and Samuel Jr., independent Resistance evidence, disclosure to every group, Samuel's bounded final counterplan, and the processing presentation. Evidence ownership, Samuel Jr.'s agency, the exact authorization mechanism, disclosure order, and presentation choreography remain unresolved.
 
-Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[07 QA/2026-09-19 - Endgame Workshop Assessment]].
+Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[01 Sessions/Daily/2026-09-19 - Existing Prophecy Endgame Expansion]], [[07 QA/2026-09-19 - Endgame Workshop Assessment]], [[07 QA/2026-09-19 - Existing Prophecy Endgame Reassessment]].
 
 ## Resistance evidence and Converging Revelation — 2026-09-17
 

@@ -19,7 +19,7 @@ Participant groups follow younger public leaders. A previously unknown layer of 
 
 Aiden Fitzgerald is Konrad's biological son and a younger public leader. Samuel uses the altered reality surrounding Konrad and Aiden to define Sylvan as a rival and direct both men against him. Their attack reveals how the older contained layer can control younger leaders while allowing the public groups to believe their own hierarchy remains independent.
 
-Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. Samuel's hidden hierarchy works by counterfeiting the authority that interprets its mission, signs, promised reward, and enemies. Related leaders may follow different original religious stories; the repeated structure is captured interpretation, not one universal doctrine.
+Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. The prophecy predates Samuel and was not created by their group. Samuel's hidden hierarchy works by counterfeiting the authority to apply its mission, signs, promised reward, and enemy role to Sylvan. Related leaders may follow different original religious stories; the repeated structure is captured interpretation, not one universal doctrine.
 
 Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Characters/George White - The Collapse of the Lie]].
 

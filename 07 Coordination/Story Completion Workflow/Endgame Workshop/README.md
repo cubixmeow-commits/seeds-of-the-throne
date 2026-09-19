@@ -9,11 +9,11 @@ assessment: 07 QA/2026-09-19 - Endgame Workshop Assessment.md
 
 This focused workshop develops the final confrontation using the major information established during the last several days. It begins after the broad ending has been accepted and asks what must happen for the hidden hierarchy, bloodline operation, altered-reality repetition, Resistance evidence, Konrad's commitment, Samuel's collapse, and the outcome presentation to work as one causal sequence.
 
-The endgame now includes a locked causal bridge: Samuel uses story functionality to make Konrad and his son Aiden target Sylvan from inside the postwar altered reality that has contained them since the Great War. They sincerely believe they lead an original holy order placed by divine purpose. Samuel counterfeits the authority behind its prophecy, promised reward, and designated threats. His attempt to place Sylvan inside the same structure becomes the live proof that exposes false autonomy, captured initiatives, captured sacred interpretation, and the recruitment of other leaders. The order's name, theology, trusted channel, exact prophecy, consent event, evidence handoff, and Aiden response remain open.
+The endgame now includes a locked causal bridge: Samuel uses story functionality to make Konrad and his son Aiden target Sylvan from inside the postwar altered reality that has contained them since the Great War. They sincerely believe they lead an original holy order placed by divine purpose. A wider original religion already contains the prophecy. Samuel did not write it, and Konrad's group did not create it. Samuel captures its application, tells the leaders Sylvan is the enemy it describes, and makes that target assignment appear sacred. His attempt to place Sylvan inside the same structure becomes the live proof that exposes false autonomy, captured initiatives, captured interpretation, and the recruitment of other leaders. The order's name, theology, legitimate custodians, exact prophecy, consent event, evidence handoff, and Aiden response remain open.
 
 Religious inspiration must remain respectful and structurally transformed. No modern or historical religion, sacred person, institution, holy order, scripture, symbol, event, or doctrine becomes a one-to-one fictional faction. The reveal proves Samuel's fraud, not the falsity of faith.
 
-This is a separate `EG-01` through `EG-08` track. It does not add an eleventh module to the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation.
+This is a separate `EG-01` through `EG-12` track. It does not extend the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation.
 
 # Priority 1: Establish the endgame board
 
@@ -35,6 +35,13 @@ This is a separate `EG-01` through `EG-08` track. It does not add an eleventh mo
 
 - [ ] **EG-08: Stage processing, presentation, and aftermath.** Join separation, the fifteen-million-dollar collapse, processing, accountability, protected disclosure, and constructive placement into one final movement.
 
+# Priority 5: Build the prophecy reveal
+
+- [ ] **EG-09: Define the existing prophecy.** Establish what predates Samuel, who preserves it, and which ambiguity he exploits without copying an Earth religion.
+- [ ] **EG-10: Build the target substitution.** Trace how Samuel makes Sylvan appear to be the enemy described by the prophecy.
+- [ ] **EG-11: Preserve leader agency in the attack.** Give Konrad, Aiden, and other leaders distinct knowledge, choices, off-ramps, and consequences.
+- [ ] **EG-12: Break the altered reality.** Design the proof and first group action that separate faith from Samuel's target assignment.
+
 # Completion gate
 
 - [ ] Every active force has an independent objective, decision, and consequence.
@@ -45,10 +52,12 @@ This is a separate `EG-01` through `EG-08` track. It does not add an eleventh mo
 - [ ] Samuel's last counterplan follows from remaining access rather than a late magical power.
 - [ ] Public proof, protected evidence, and private descendant records remain distinct.
 - [ ] The final movement causes Sylvan and Orzai's future instead of leaving Samuel as the organizing center of the ending.
+- [ ] The story clearly states that the prophecy predates Samuel and that exposure proves his fraudulent application, not the truth or falsity of the prophecy.
 
 # Sources
 
 - [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]]
+- [[01 Sessions/Daily/2026-09-19 - Existing Prophecy Endgame Expansion]]
 - [[07 QA/2026-09-19 - Endgame Workshop Assessment]]
 - [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]]
 - [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]]

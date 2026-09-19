@@ -62,11 +62,11 @@ Samuel attempts to repeat this structure against Sylvan. He cannot force Sylvan 
 
 ### Counterfeit sacred authority
 
-Konrad and Aiden's altered reality is organized as an original holy order with a divine purpose, promised reward, and designated threats. Samuel's primary control method is not to disprove or replace their faith openly. He counterfeits the authority that interprets it.
+Konrad and Aiden's altered reality is organized as an original holy order with a divine purpose, promised reward, and an existing prophecy belonging to a wider original religion. Samuel did not write the prophecy, and Konrad's group did not create it. His primary control method is not to disprove or replace their faith openly. He captures its application and tells them Sylvan is the enemy the prophecy describes.
 
-Story functionality lets Samuel coordinate selected signs, records, permissions, ritual timing, intermediaries, apparent confirmation, and rival assignments. Konrad and Aiden experience the resulting pattern as guidance from beyond Samuel, even while Samuel is choosing which interpretation becomes actionable. When an event contradicts the story, Samuel revises the explanation and demands greater commitment.
+Story functionality lets Samuel coordinate selected signs, records, permissions, ritual timing, intermediaries, apparent confirmation, and target assignments. Konrad and Aiden experience the resulting pattern as guidance from beyond Samuel, even while Samuel is choosing which application becomes actionable. When an event contradicts the story, Samuel revises the identification and demands greater commitment.
 
-This mechanism is bounded. Samuel cannot create genuine divinity, settle metaphysical truth, control minds, or command the overall process. The eventual proof must trace the supposedly sacred instructions to Samuel's access and revisions; a failed prophecy alone is not enough.
+This mechanism is bounded. Samuel cannot create genuine divinity, settle metaphysical truth, control minds, write the preexisting prophecy, or command the overall process. The eventual proof must trace Sylvan's identification and its staged confirmations to Samuel's access and revisions; a failed prophecy alone is not enough.
 
 See [[Original Religions and Counterfeit Sacred Authority]].
 

@@ -52,7 +52,7 @@ The inner circle recognizes the repetition before Konrad does. The live attempt 
 
 ## Altered-reality repetition layer
 
-**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden remain inside an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, religious prophecy, and their obsession with dominance over rivals.
+**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden remain inside an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it.
 
 Samuel uses that reality to hide his attacks on their groups and to make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
 
@@ -61,7 +61,7 @@ The Book One attack against Sylvan is the same structure repeated in the present
 1. Samuel defines Sylvan as the rival whose defeat will complete the promised victory.
 2. Konrad and Aiden target Sylvan from inside the reality Samuel has maintained around them.
 3. Sylvan refuses the role and remains outside their hierarchy.
-4. Samuel revises the explanation to preserve the prophecy and apparent control.
+4. Samuel revises his application of the prophecy to preserve apparent control.
 5. The Resistance connects those revisions to the postwar bargain, reactivation, and captured initiatives.
 6. Other leaders recognize that their supposedly separate arrangements share the same structure.
 7. Konrad confronts the choice already established for him: knowingly complete Samuel's takeover or commit his groups to Sylvan's exposure plan.
@@ -130,7 +130,7 @@ The exact scenes remain open, but Book One requires this information order:
 11. Sylvan returns to tools like those he built before Samuel destroyed the story-development company and documents the real process through an evidence-anchored online story.
 12. Samuel's Daemon hijacks Sylvan's legitimate AI application during weeks of work, claims Samuel has let go, and probes for information and exploitable desire.
 13. Sylvan recognizes the accumulated manipulation pattern, intentionally interfaces with the Daemon, and hyperfocuses on the factual story to preserve his orientation and evidence.
-14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden. He counterfeits the divine authority behind their original holy order, presents Sylvan as the final threat to its promised reward, and offers Sylvan voluntary entry into a story environment Samuel would control.
+14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden. He counterfeits authority to apply the order's existing prophecy, presents Sylvan as the enemy whose removal will unlock its promised reward, and offers Sylvan voluntary entry into a story environment Samuel would control.
 15. Konrad and Aiden target Sylvan from inside the sacred mission and false autonomy Samuel has maintained around them.
 16. Sylvan exposes the consent-based trap before Konrad's inner circle, giving them their first recognition that Konrad and Aiden were captured almost a century earlier.
 17. The Resistance connects the live repetition to reactivation, captured initiatives, supposedly sacred instructions traceable to Samuel, and the use of Fitzgerald recovery to recruit other leaders.

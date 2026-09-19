@@ -171,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260919-endgame-workshop';
+$assetVersion = '20260919-existing-prophecy';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -313,6 +313,26 @@ function explorer_format_bytes(?int $bytes): string
         </section>
 
         <?php require __DIR__ . '/workbench.php'; ?>
+
+        <section class="endgame-feature wrap" id="endgame-development" aria-labelledby="endgame-development-title">
+            <header class="endgame-feature__intro">
+                <p class="explorer-hero__label">Current story development</p>
+                <h2 id="endgame-development-title">The endgame now has a second layer.</h2>
+                <p>Samuel did not create the prophecy. He traps Konrad, Aiden, and other leaders inside an altered explanation of reality, then tells them Sylvan is the enemy their existing prophecy describes. The new workshop separates the prophecy, Samuel's target assignment, each leader's choice, and the evidence that finally breaks the trap.</p>
+                <p class="endgame-feature__actions"><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-19 - Existing Prophecy Endgame Expansion.md')) ?>">Read the accepted development note</a><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'endgame', 'module' => 'EG-09'], 'session')) ?>">Open the expanded workshop</a><a href="../../docs/index.html#endgame-method-title">See the reader version</a></p>
+            </header>
+            <div class="endgame-feature__grid">
+                <figure>
+                    <img src="../../docs/assets/images/samuel-control-method-diagram-v1.webp" alt="Diagram showing Samuel Franklin capturing the interpretive channel above Konrad, Aiden, other leaders, and their groups." width="1122" height="1402" loading="lazy">
+                    <figcaption><strong>Control structure.</strong> The leaders believe they lead while Samuel chooses the mission and enemy.</figcaption>
+                </figure>
+                <figure>
+                    <img src="../../docs/assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="Diagram showing Samuel telling leaders inside an altered reality that Sylvan is the enemy described by an existing religious prophecy." width="1087" height="1447" loading="lazy">
+                    <figcaption><strong>Altered reality.</strong> Samuel applies an existing prophecy to Sylvan and turns sincere belief into an attack.</figcaption>
+                </figure>
+            </div>
+        </section>
+
         <?php require __DIR__ . '/vault-overview.php'; ?>
 
         <section class="explorer-progress" id="story-progress" aria-labelledby="story-progress-title">

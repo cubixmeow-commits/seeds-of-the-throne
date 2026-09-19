@@ -47,6 +47,13 @@ def dimensions(path: Path) -> str:
                 key, value = line.strip().split(":", 1)
                 values[key] = value.strip()
         return f"{values['pixelWidth']}x{values['pixelHeight']}"
+    try:
+        from PIL import Image
+
+        with Image.open(path) as image:
+            return f"{image.width}x{image.height}"
+    except (ImportError, OSError):
+        pass
     return "unknown"
 
 
@@ -65,8 +72,6 @@ def main() -> int:
         parser.error("quality must be between 1 and 100")
 
     cwebp = shutil.which("cwebp")
-    if not cwebp:
-        parser.error("cwebp is required to create the public derivative")
 
     source_dir = SKILL_ROOT / "assets" / "approved-images" / args.character
     public_dir = REPOSITORY_ROOT / "docs" / "assets" / "images"
@@ -81,10 +86,19 @@ def main() -> int:
 
     shutil.copy2(source, approved)
     try:
-        subprocess.run(
-            [cwebp, "-quiet", "-q", str(args.quality), "-m", "6", "-metadata", "none", str(approved), "-o", str(public)],
-            check=True,
-        )
+        if cwebp:
+            subprocess.run(
+                [cwebp, "-quiet", "-q", str(args.quality), "-m", "6", "-metadata", "none", str(approved), "-o", str(public)],
+                check=True,
+            )
+        else:
+            try:
+                from PIL import Image
+            except ImportError as exc:
+                parser.error("cwebp or Pillow with WebP support is required to create the public derivative")
+                raise exc
+            with Image.open(approved) as image:
+                image.save(public, "WEBP", quality=args.quality, method=6, exif=b"", icc_profile=None)
     except Exception:
         approved.unlink(missing_ok=True)
         public.unlink(missing_ok=True)

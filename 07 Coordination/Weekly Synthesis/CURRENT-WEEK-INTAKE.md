@@ -52,7 +52,14 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 - **Source:** [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]]
 - **Type:** decision / dependency / structural-development / public-boundary
 - **Possible relationship:** EG-02, EG-04, EG-05, EG-07, BA-02, BA-07, BA-09, BA-10
-- **Signal:** Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose; Samuel's primary control method is to counterfeit its interpretive authority, designate Sylvan as the final threat, and adapt related sacred stories for other leaders, while all religious specifics remain original and the reveal proves Samuel's fraud rather than the falsity of faith.
+- **Signal:** Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. Its wider religion already contains the prophecy; Samuel did not write it, and their group did not create it. Samuel counterfeits the authority to apply it, identifies Sylvan as its enemy, and manufactures confirmation around that target assignment. All religious specifics remain original, and the reveal proves Samuel's fraud rather than the falsity of faith.
+
+### 2026-09-19 — Existing prophecy endgame expansion
+
+- **Source:** [[01 Sessions/Daily/2026-09-19 - Existing Prophecy Endgame Expansion]]
+- **Type:** author correction / dependency / workshop expansion / visual integration
+- **Possible relationship:** EG-04, EG-07, EG-09 through EG-12, BA-02, BA-07, BA-09, BA-10
+- **Signal:** The prophecy predates Samuel and is not a Fitzgerald creation. Samuel controls target identification and apparent confirmation, not the prophecy's existence. Two author-approved diagrams now explain the control structure and altered reality, and four new workshop modules develop the prophecy, target substitution, leader agency, and break sequence.
 
 ### 2026-09-19 — Altered-reality repetition trap
 

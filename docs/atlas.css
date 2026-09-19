@@ -196,6 +196,22 @@
 .power-triptych--page strong { font: 650 1.1rem var(--serif); }
 .power-triptych small,
 .power-triptych--page small { color: var(--muted); }
+.endgame-diagrams {
+  width: var(--page);
+  margin-inline: auto;
+  padding-block: clamp(2.5rem, 5vw, 4rem);
+  border-block-end: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+}
+.endgame-diagrams__intro { border: 0; padding: 0 0 1.25rem; }
+.endgame-diagrams__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.endgame-diagrams figure { margin: 0; background: var(--concealed); }
+.endgame-diagrams img { display: block; width: 100%; height: auto; }
+.endgame-diagrams figcaption { padding: .8rem; color: var(--muted); font: 500 .82rem/1.5 var(--mono); }
+.endgame-diagrams figcaption strong { color: var(--ink); }
 .evidence-banner,
 .layered-world {
   width: var(--page);
@@ -314,6 +330,7 @@
   .power-triptych,
   .power-triptych--page { grid-template-columns: minmax(0, 1fr); }
   .editorial-band__media img { aspect-ratio: 4 / 3; max-height: 18rem; }
+  .endgame-diagrams__grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 28rem) {

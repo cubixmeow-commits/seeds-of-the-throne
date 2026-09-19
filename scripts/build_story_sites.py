@@ -12,7 +12,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260919-endgame-workshop'
+ASSET = '20260919-existing-prophecy'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -23,6 +23,8 @@ IMAGE_ALT = {
     'disclosure-poster.jpg': 'Approved disclosure poster from the story world.',
     'planetary-cutaway-hero-desktop-v1.webp': 'Symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
     'planetary-cutaway-hero-mobile-v1.webp': 'Portrait symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
+    'samuel-control-method-diagram-v1.webp': 'Diagram showing Samuel Franklin capturing the interpretive channel above Konrad Fitzgerald, Aiden Fitzgerald, other leaders, and their groups.',
+    'altered-reality-prophecy-target-diagram-v1.webp': 'Diagram showing Samuel outside an altered reality telling Konrad, Aiden, and other leaders that Sylvan is the enemy described by an existing religious prophecy.',
     'surface-civilization-editorial-v1.webp': 'Interpretive editorial view of a lived-in coastal civilization on the colonization planet.',
     'recovered-records-evidence-v1.webp': 'Interpretive still life of recovered records aligned against hidden-system evidence.',
 }
@@ -191,11 +193,28 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
       <p class="eyebrow">The endgame</p>
       <h2 id="endgame-title">The final confrontation begins when Konrad learns that Samuel betrayed his entire group.</h2>
       <p>Many participants follow younger public leaders without knowing that an older layer of contained criminal leaders sits above them. Samuel expects to use that loyalty to turn every group against Sylvan.</p>
-      <p>Samuel also tries to place Sylvan inside the altered story reality that has trapped Konrad and his son Aiden since the Great War. Konrad and Aiden believe they lead a holy order placed by divine purpose. Samuel secretly counterfeits the authority behind that belief, defines Sylvan as the threat they must eliminate, and expects their attack to pressure Sylvan into accepting his version of events.</p>
+      <p>Samuel also tries to place Sylvan inside the altered story reality that has trapped Konrad and his son Aiden since the Great War. Konrad and Aiden believe they lead a holy order placed by divine purpose. Their wider religion already contains a prophecy about a future enemy. Samuel did not write it. He uses the altered reality to tell them Sylvan is the villain it describes, then makes that identification look like sacred confirmation.</p>
       <p>The plan begins to collapse when the participants discover that Samuel has been terrorizing their leaders, using their families, and turning their loyalty into a weapon against their own groups.</p>
       <p>Konrad now has one real choice. He can help Samuel finish the takeover, or he can expose the deal that made it possible. Konrad commits himself and his groups to Sylvan's plan, while Sylvan remains a separate ally rather than becoming part of Konrad's hierarchy.</p>
       <p>Together with evidence assembled by the Resistance, they must reveal Samuel's betrayals to every affected group and remove the control he built over them. Samuel's last attempt to preserve his power becomes the final test of Sylvan and the new Luminai.</p>
       <p><a href="timeline.html">See how the story reaches the endgame</a> · <a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Explore the Endgame Workshop</a></p>
+    </div>
+  </section>
+  <section class="endgame-diagrams" aria-labelledby="endgame-method-title">
+    <div class="reading endgame-diagrams__intro">
+      <p class="eyebrow">How the trap works</p>
+      <h2 id="endgame-method-title">Samuel controls the explanation, then uses it to choose the enemy.</h2>
+      <p>The first diagram shows the control structure he built after the Great War. The second shows the altered reality from inside: Konrad, Aiden, and other leaders believe they are acting independently while Samuel applies an existing prophecy to Sylvan. The prophecy is not Samuel's creation. The fraudulent target assignment is.</p>
+    </div>
+    <div class="endgame-diagrams__grid">
+      <figure>
+        <img src="assets/images/samuel-control-method-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['samuel-control-method-diagram-v1.webp'])}" width="1122" height="1402" loading="lazy">
+        <figcaption><strong>How Samuel took control.</strong> He captures interpretation, promised reward, and enemy designation while the leaders continue to believe they lead.</figcaption>
+      </figure>
+      <figure>
+        <img src="assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['altered-reality-prophecy-target-diagram-v1.webp'])}" width="1087" height="1447" loading="lazy">
+        <figcaption><strong>How Samuel directs the attack.</strong> He tells the trapped leaders that Sylvan is the enemy described by the existing prophecy. Exact interfaces and architecture are interpretive.</figcaption>
+      </figure>
     </div>
   </section>
   {body_html}
@@ -211,7 +230,7 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
     <div class="editorial-band__copy reading">
       <p class="eyebrow">Developing the final movement</p>
       <h2 id="endgame-workshop-title">The ending is established. The path through it is still being built.</h2>
-      <p>The Endgame Workshop develops the remaining story questions about the hidden leadership layer, Samuel's counterfeit sacred authority, the altered-reality trap, the bloodline operation, the Resistance's evidence, Konrad's commitment, disclosure to every group, and the final presentation.</p>
+      <p>The Endgame Workshop develops the hidden leadership layer, the existing prophecy Samuel exploits, his target substitution, leader agency in the attack, the altered-reality break, the bloodline operation, the Resistance's evidence, Konrad's commitment, disclosure to every group, and the final presentation.</p>
       <p><strong>{endgame_count} of {endgame_total}</strong> endgame modules have an accepted macro direction. The remaining questions keep evidence ownership, character agency, and protected records visible.</p>
       <p><a class="button" href="workshop.html?workshop=endgame&amp;module=EG-01#session">Open the Endgame Workshop</a></p>
     </div>
@@ -288,8 +307,8 @@ def main():
     if modules and endgame_modules:
         book_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=book-one&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
         endgame_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=endgame&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in endgame_modules)
-        body='<div class="atlas-body"><section class="reading"><h2>Choose the story problem you want to develop</h2><p>The new Endgame Workshop focuses on the hidden hierarchy, Samuel\'s counterfeit sacred authority and altered-reality trap, bloodline evidence, Konrad\'s commitment, group-level disclosure, Samuel\'s last counterplan, and the final presentation. The Book One Architecture Workshop remains available as a separate ten-question track.</p><nav class="workshop-track-switch" aria-label="Workshop tracks"><a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Endgame Workshop</a><a href="workshop.html?workshop=book-one&amp;module=BA-01#session">Book One Architecture</a></nav><p>Choose one topic to read the known constraints, alternatives, scene test, and author gate. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-workshop-default="endgame" data-source-endgame="assets/story-endgame-workshop.json?v='+ASSET+'" data-source-book-one="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story question.</p></section><details class="spoiler" open><summary>Choose from eight Endgame topics</summary><nav class="module-grid" aria-label="Endgame Workshop topics">'+endgame_cards+'</nav></details><details class="spoiler"><summary>Choose from ten Book One architecture topics</summary><nav class="module-grid" aria-label="Book One Architecture Workshop topics">'+book_cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete Endgame Workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in endgame_modules)+'</ul></details><details class="spoiler"><summary>Read the complete Book One Architecture notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
-        outputs[DOCS/'workshop.html']=shell('workshop','Develop the endgame','The focused Endgame Workshop turns the hidden hierarchy, counterfeit sacred authority, altered-reality trap, bloodline evidence, and the final choices of Konrad, Aiden, Sylvan, and Samuel into one causal movement.',body)
+        body='<div class="atlas-body"><section class="reading"><h2>Choose the story problem you want to develop</h2><p>The Endgame Workshop focuses on the hidden hierarchy, the existing prophecy Samuel exploits, his target substitution, leader agency, the altered-reality break, bloodline evidence, Konrad\'s commitment, group-level disclosure, Samuel\'s last counterplan, and the final presentation. The Book One Architecture Workshop remains available as a separate ten-question track.</p><nav class="workshop-track-switch" aria-label="Workshop tracks"><a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Endgame Workshop</a><a href="workshop.html?workshop=book-one&amp;module=BA-01#session">Book One Architecture</a></nav><p>Choose one topic to read the known constraints, alternatives, scene test, and author gate. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-workshop-default="endgame" data-source-endgame="assets/story-endgame-workshop.json?v='+ASSET+'" data-source-book-one="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story question.</p></section><details class="spoiler" open><summary>Choose from '+str(len(endgame_modules))+' Endgame topics</summary><nav class="module-grid" aria-label="Endgame Workshop topics">'+endgame_cards+'</nav></details><details class="spoiler"><summary>Choose from ten Book One architecture topics</summary><nav class="module-grid" aria-label="Book One Architecture Workshop topics">'+book_cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete Endgame Workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in endgame_modules)+'</ul></details><details class="spoiler"><summary>Read the complete Book One Architecture notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
+        outputs[DOCS/'workshop.html']=shell('workshop','Develop the endgame','The focused Endgame Workshop turns the hidden hierarchy, existing prophecy, fraudulent target assignment, altered-reality trap, bloodline evidence, and the final choices of Konrad, Aiden, Sylvan, and Samuel into one causal movement.',body)
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
         for m in endgame_modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
     # Preserve previously published workshop packets as historical source links.
