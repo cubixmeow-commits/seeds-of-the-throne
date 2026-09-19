@@ -24,6 +24,7 @@ Surface Archive is part of the public *Seeds of the Throne* project, but individ
 - **Image-determined canvas rule:** the retained reference supplies visual language, not a mandatory portrait size, aspect ratio, crop, or panel structure
 - **Dynamic-layout rule:** every photograph receives a fresh layout derived from its subject placement, gaze or motion, horizon, negative space, visual weight, habitat structure, protected details, and natural text zones
 - **Ribbon legibility rule:** when an episode ribbon is used, its title must be immediately readable in the native-aspect feed preview without opening or zooming the image
+- **Complete text legibility rule:** record lines, observations, Luminai notes, and decorative labels must also pass the native-aspect phone-feed preview; enlarge essential copy and remove decorative microtext that does not pass
 - **Tone:** positive, affectionate, observant, lightly funny, curious, and life affirming without misrepresenting the animal
 - **Factual boundary:** species, location, and capture date must be verified or author-confirmed
 
@@ -60,7 +61,8 @@ Do not use the old template as the governing Surface Archive identity. Until a d
    - Preserve the recognition anchors in [[skills/create-seeds-images/references/surface-archive-system|the consistency and variation system]], then vary at least three meaningful design variables from the most recent record.
    - Remove readable real-world place names, coordinates, logos, and institutions from in-world images. Record real provenance privately and treat fictional replacements as noncanonical visual interpretation unless separately approved.
    - Treat variants as different art-direction concepts, not simple color swaps.
-   - Maintain phone-size contrast and legibility even when the photograph is visually busy.
+   - Maintain phone-size contrast and legibility even when the photograph is visually busy. As a starting proportion, keep the smallest informational capitals at least one third of the height of the `SURFACE ARCHIVE` capitals in the same composition.
+   - Do not preserve coordinates, catalogue labels, compass letters, or similar microtext merely for atmosphere. Remove them when they cannot be read in the ordinary feed preview.
    - If a ribbon is used, make its title substantially larger than the supporting identity text. Widen the ribbon, simplify its ornaments, or use a deliberate two-line treatment before shrinking the title.
 5. **Generate from the approved direction.** Attach the source photograph and no more than two approved Surface Archive references by default. Use the closest reference for series identity and a deliberately different reference to prevent layout copying. State each role. Preserve animal identity, pose, count, recognizable environment, and photographic truth.
 6. **Inspect visually.** Reject anatomical drift, duplicated or missing animals, altered species, false environmental details, illegible text, clipped type, branding drift, and compositions that bury the photograph. Inspect a preview that preserves the selected aspect ratio with its longest edge at 768 pixels; a ribbon that requires zooming fails even if it is legible in the production master.

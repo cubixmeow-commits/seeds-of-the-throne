@@ -76,6 +76,10 @@ Do not impose the banner's book, desk, cities, or collage on each photograph. Tr
 - Do not cover the animal with text or interface marks.
 - Preserve the source aspect ratio unless a deliberate crop improves the photograph without removing meaningful habitat.
 - Keep all essential copy readable in an X feed preview on a phone.
+- Treat the title, record line, observation, and optional Luminai note as the only normal text tiers. Decorative microtext is not exempt from the phone-feed legibility requirement.
+- As a starting proportion, the smallest informational capitals should be at least one third of the height of the `SURFACE ARCHIVE` capitals in the same composition. Adjust upward when the background is busy or the typeface has thin strokes.
+- Test the complete image at a longest edge of 768 pixels. If text requires opening or zooming, enlarge it, shorten it, move it onto stronger contrast, or remove it.
+- Remove tiny coordinates, catalogue labels, compass letters, and similar interface decoration when they cannot pass the feed-preview test.
 - Avoid dense dossiers, fake coordinates, generic science-fiction interfaces, and decorative clutter.
 - Never add glowing animals, fantasy anatomy, spaceships, visible hidden infrastructure, or unsupported environmental details.
 
@@ -137,3 +141,5 @@ No em dashes. Hashtags, coordinates, capture dates, and technical archive langua
 The identity, tone, and visual direction in this note are author-approved. Individual photographs, generated layouts, captions, locations, and record classifications still require episode-level review.
 
 Source decision: [[01 Sessions/Daily/2026-09-11 - Surface Archive Public Photography Direction]].
+
+Feed-typography correction: [[01 Sessions/Daily/2026-09-12 - Surface Archive Feed Typography]].
