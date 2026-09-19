@@ -17,6 +17,8 @@ Give every major force an indispensable evidentiary function and prevent the cli
 
 The Resistance reconstructs evidence Samuel kept partitioned across records, systems, bloodlines, witnesses, and infrastructure. Sylvan may present or act on the verified result without owning the Resistance or its discoveries. Konrad's inner circle recognizes Samuel's repeated method. Legitimate institutions retain formal outcome and processing authority.
 
+The present attack supplies a live comparison. Sylvan and the Luminai can preserve Samuel's attempt to assign him a role, Konrad and Aiden's response, and Samuel's revisions after Sylvan refuses. The Resistance must own the historical connection showing that this sequence matches postwar false autonomy, reactivation, captured initiatives, and the recruitment of other leaders.
+
 Sources: [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
 
 ## Four possibilities
@@ -28,7 +30,7 @@ Sources: [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and
 
 ## Central author gate
 
-Which indispensable discovery remains the Resistance's own, who authenticates each evidence class, and what final connection changes the meaning of at least three earlier facts?
+Which indispensable record lets the Resistance connect the live Sylvan trap to Konrad and Aiden's postwar reactivation, who authenticates each evidence class, and what final connection changes the meaning of at least three earlier facts?
 
 ## Scene test
 
@@ -37,4 +39,3 @@ Every evidentiary handoff changes what someone can safely do next.
 ## Adversarial test
 
 If Sylvan can discover, verify, interpret, and present everything alone, the Resistance and affected groups lose agency. If no institution can authenticate the chain, the outcome depends on belief rather than proof.
-

@@ -34,7 +34,7 @@ Samuel and George do not enter the trap because they think they are being contai
 
 They enter because they believe they are finally containing **Sylvan**.
 
-Their obsession is not simply defeating him. They need to place him inside a controlled simulated environment, strip away his advantages, force him into a humiliating position, and prove that they can dominate the person they have failed to control in ordinary reality.
+Their obsession is not simply defeating him. They need to place him inside a controlled story environment, strip away his advantages, force him into a humiliating position, and prove that they can dominate the person they have failed to control in ordinary reality.
 
 Sylvan understands that expectation and builds the actual trap around it.
 
@@ -74,7 +74,7 @@ As they operate the supposed trap, they disclose evidence about themselves and t
 
 For some of them, the danger outside may include former criminal allies who realize they were manipulated or sacrificed.
 
-The simulated environment can therefore become safer than the reality waiting outside it.
+The altered story can therefore become safer than the reality waiting outside it.
 
 ## Story principle
 

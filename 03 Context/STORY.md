@@ -70,6 +70,8 @@ His ultimate doctrine seeks complete control over every population and every sou
 
 ## Convergence
 
+The Book One endgame now uses a live repetition to unlock the older history. Samuel has kept Konrad and his son Aiden inside a postwar altered reality built from story functionality, false autonomy, reactivated systems, prophecy, and their obsession with defeating rivals. Samuel assigns Sylvan the next rival role, and Konrad and Aiden target him. Sylvan's refusal forces Samuel to revise the story in ways the Resistance and inner circle can compare with the Great War aftermath. The present attack therefore reveals the old capture and explains how Konrad and Aiden's apparent recovery drew other leaders into related realities.
+
 Recurrence in the historical record reveals that admired public lives may have been containment roles. A protagonist follows that anomaly into the Great War's False Victory. Sylvan's archive can compare events, original records, public revisions, concealed lineage interventions, and the obedience produced by blackmail. The final struggle becomes public, stripping concealment from adversaries whose power depended on keeping every victim isolated.
 
 The decisive exposure does not require every follower to accept the truth. It succeeds when the King's story can no longer coordinate behavior: private doubt becomes common knowledge, mutually isolated families recognize the same abuse, and the faction fractures into incompatible responses.

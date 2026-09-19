@@ -42,14 +42,15 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 9. Across generations, Samuel captures private information, intermediaries, bloodlines, records, descendants, and the younger generation while Konrad becomes increasingly isolated inside a counterfeit victory.
 10. Sylvan begins the successor Luminai process inside the mature world.
 11. During the final few years, Sylvan retains decisive authority and permits Samuel bounded activity as the Luminai's final adversarial learning period.
-12. Samuel attempts the same takeover on Sylvan before Konrad's inner circle. Their recognition becomes the discovery path into the postwar history.
-13. Samuel attempts to place responsibility for the criminal system onto George, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized false bargain as public exposure destroys his control claims.
-14. The process reaches irreversible conclusion. Samuel has no more deals and no more moves.
-14. The outcome presentation compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad's group.
+12. Samuel assigns Sylvan a rival role inside the altered reality surrounding Konrad and Aiden, then tries to induce Sylvan to accept the same concealed-access bargain used after the Great War. Konrad and Aiden target Sylvan from inside that story.
+13. Sylvan refuses the assigned role. Samuel's revisions, Resistance evidence, and the postwar reactivation record reveal the repeated method to Konrad's inner circle and the affected groups.
+14. Konrad commits his groups to Sylvan's exposure plan rather than knowingly complete Samuel's takeover. Aiden's independent response remains unresolved.
+15. Samuel attempts to place responsibility for the criminal system onto George, preserve continuity through Samuel Jr., and sustain his divinity claim as public exposure destroys his control claims.
+16. The process reaches irreversible conclusion. Samuel has no more deals and no more moves. The outcome presentation compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad, Aiden, and their group.
 
 ## Narrative order
 
-Book One begins within movements 11 through 14. Later books move backward into movements 3 through 10, allowing the audience to experience the causes after seeing their consequences.
+Book One begins within movements 11 through 16. Later books move backward into movements 3 through 10, allowing the audience to experience the causes after seeing their consequences.
 
 The detailed chronology below remains a working expansion of this sequence. Where it implies that Sylvan enters only after a completed Disclosure War, that the series must narrate forward from the war, the September 5 corrections and current Book One architecture control. The name Luminai is not restricted to Sylvan's generation.
 
@@ -65,7 +66,7 @@ The detailed chronology below remains a working expansion of this sequence. Wher
 8. Konrad's mission to take over the largest empire is an impossible setup designed to fail and remove Samuel as a threat. Samuel suspects the betrayal, has negotiated a conditional alpha placement, and expects the failed revolution eventually to funnel Konrad into the same containment hierarchy beneath him. Samuel and George achieve authentic local success, privately commit serious wrongdoing, and choose to pursue the takeover. The exact failure mechanism, conduct, plan, targets, and division of responsibility remain unresolved.
 9. The takeover collapses. In an extremely humiliating exposure, George is busted into containment for the private conduct and failed takeover. This establishes the cause and emotional character of George's containment while leaving its procedures and Samuel's simultaneous consequences open.
 10. Konrad's movement converts a still-unresolved political base into an attempted world-conquest project. The transfer from territorial or national power to the Great War belongs to Konrad's faction, not Samuel.
-11. During the Great War, Konrad's genuine line includes the biological son and daughter he has with his sister; the line later produces one genuine grandson.
+11. During the Great War, Konrad's genuine line includes Aiden Fitzgerald, the biological son he has with his sister, and a biological daughter; the line later produces one genuine grandson.
 12. Samuel maintains contact with his parents, pretends to want reconciliation or readmission, and covertly sabotages the campaign from inside the future victorious environment. The movement's own authoritarian failures remain the primary cause of defeat.
 13. The victorious republic and its allies defeat Konrad's conquest regime; the faction's state, military project, and overt international network collapse.
 14. Konrad, his senior partner, Samuel's parents, and other surviving leaders fall into containment roles inside the same victorious order where Samuel already has experience.
@@ -87,9 +88,10 @@ The detailed chronology below remains a working expansion of this sequence. Wher
 21. Roughly eighty years after the Great War Witness thread, Sylvan Elaria enters the modern thread as the Inheritor. Orzai belongs to his generation and is slightly younger than him.
 22. Orzai's older brother, approximately a decade older than Sylvan, serves in a developmental placement inside a consequential company comparable to the government-integrated decision-systems company associated with Samuel's replacement heir.
 23. Sylvan accumulates evidence connecting original events, Samuel's hidden sabotage, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
-24. Samuel tells Konrad that defeating and processing Sylvan will transfer legitimate control and give access to the synthetic command structure. The claimed superweapon has almost no effect; Sylvan's explanations increasingly fit observed reality better than Samuel's.
-25. Sylvan neutralizes the attacks and presents dozens of visibly recognizable unauthorized children. Konrad realizes the bloodlines were targeted, the apparent separation never existed, and Samuel maintained the shared environment. Sylvan reveals that Samuel and Konrad must stop the rampage and cooperate with legitimate leaders or end in complete failure.
-26. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
+24. Samuel uses the hijacked assistant and story functionality to define Sylvan as the rival whose defeat will validate Konrad and Aiden's promised recovery. Konrad and Aiden target Sylvan, while Samuel offers Sylvan entry into the controlled story environment and conceals the transfer of authority the offer requires.
+25. Sylvan refuses the assigned role. The Resistance and inner circle connect Samuel's live revisions to the postwar false-autonomy bargain, reactivated Fitzgerald programs, captured sacred initiatives, and the recruitment of other leaders.
+26. Konrad commits himself and his groups to exposing Samuel, delivering authenticated evidence to every affected group, and removing Samuel's control. Aiden's independent response, the exact first irreversible action, and the disclosure order remain unresolved.
+27. Recurrence is rediscovered and the concealed conflict moves toward public exposure approximately a century, potentially closer to 120 years, after the current planet's main human integration begins.
 
 ## Visual chronology rules
 

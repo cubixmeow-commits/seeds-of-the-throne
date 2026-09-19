@@ -135,7 +135,7 @@ This is likely the single most important chain to finish before scene planning.
 
 Recent development has provided a strong candidate:
 
-Samuel and George become obsessed with trapping Sylvan inside a simulated environment, humiliating him, stripping him of control, and proving their superiority. Sylvan understands their expectations and lets them believe the operation is succeeding. Their attempts to operate the apparent containment environment reveal their methods, allies, infrastructure, prior betrayals, and intent. They enter or remain engaged voluntarily because they believe they are the ones operating Sylvan's prison.
+Samuel and George become obsessed with trapping Sylvan inside a physically real environment whose story layer they believe they control, humiliating him, stripping him of control, and proving their superiority. Sylvan understands their expectations and lets them believe the operation is succeeding. Their attempts to operate the apparent containment environment reveal their methods, allies, infrastructure, prior betrayals, and intent. They enter or remain engaged voluntarily because they believe they are the ones defining Sylvan's reality and operating his prison.
 
 This mechanism should now be tested against the larger endgame:
 

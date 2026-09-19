@@ -4,6 +4,17 @@ status: active
 updated: 2026-09-19
 ---
 
+## Altered-reality repetition trap — 2026-09-19
+
+- What exact prophecy or promised culmination makes Sylvan the rival Konrad and Aiden believe they must defeat?
+- What specific role does Samuel offer Sylvan, and what consent, authorization, or activation would place Sylvan inside the controlled story environment?
+- What is the first action Konrad and Aiden take against Sylvan?
+- What does Aiden know, suspect, deny, and learn before and after the attack?
+- Which live contradiction proves that Samuel is revising the story around Sylvan in the same way he maintained Konrad and Aiden's postwar reality?
+- Which Resistance evidence authenticates the connection between the current trap, postwar reactivation, and the captured sacred initiatives?
+- Which other leaders entered related altered realities because Konrad and Aiden appeared autonomous and successful?
+- Does Aiden join Konrad's final commitment, resist it, or make an independent choice?
+
 ## Focused Endgame Workshop — 2026-09-19
 
 The endgame questions now live in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-08]]. The locked Konrad commitment is not an open question. Current gates concern the exact starting state, hidden-hierarchy discovery, bloodline evidence and Samuel Jr.'s agency, evidence ownership, Konrad's first irreversible action, group-by-group disclosure, Samuel's bounded counterplan, and the final presentation order.

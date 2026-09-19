@@ -17,6 +17,8 @@ Create one reliable starting state for the focused endgame pass so later modules
 
 Konrad has rejected Samuel's plan and committed to Sylvan's exposure plan. Sylvan remains separate from Konrad's hierarchy. The Resistance remains independent. Samuel never controls the governing process, and the accepted terminal chain remains separation, a fifteen-million-dollar independent plan, rapid exhaustion, processing, Daemon deletion, full presentation, and constructive placement for Sylvan and Orzai.
 
+Aiden Fitzgerald is Konrad's biological son. Before Konrad commits to Sylvan, Samuel uses the postwar altered reality to make Konrad and Aiden target him. Samuel's live attempt to place Sylvan inside the same story structure becomes the causal bridge from their attack to Konrad's defection.
+
 Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]].
 
 ## Four possibilities
@@ -28,7 +30,7 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[07 C
 
 ## Central author gate
 
-Which exact moment becomes the start of the final movement, and what does each active force know, control, need, and risk at that moment?
+Which exact action by Konrad and Aiden begins the final movement, and what does each active force know, control, need, and risk when Samuel tries to assign Sylvan a role inside their altered reality?
 
 ## Scene test
 
@@ -37,4 +39,3 @@ A scene writer can place every major actor without inventing a missing authority
 ## Adversarial test
 
 If the setup makes Samuel powerless before he acts, there is no final conflict. If it restores control of the overall process to him, it contradicts the accepted ending.
-

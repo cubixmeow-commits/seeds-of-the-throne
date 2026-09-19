@@ -59,7 +59,7 @@ See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]]
 ## Narrated middle — working architecture
 
 12. The False Victory's long middle is developed as four provisional eras: first proof and fragile denial; inherited victory mythology; distributed hidden empire and imaginary jurisdictions; and the late world-scale claim in which independent institutions are repeatedly annexed into Samuel's story. The era structure is working, not a fixed episode order.
-13. Konrad's breeding and lineage program continues inside containment. Samuel uses the faction's dependence on his interpretations, together with knowledge acquired through the post-defeat deal, to capture the machinery that defines pedigree, purity, succession, and inheritance. Konrad believes the genuine son, daughter, and grandson of his Great War line have become a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
+13. Konrad's breeding and lineage program continues inside containment. Samuel uses the faction's dependence on his interpretations, together with knowledge acquired through the post-defeat deal, to capture the machinery that defines pedigree, purity, succession, and inheritance. Konrad believes Aiden, his genuine daughter, and his genuine grandson have become the foundation of a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
 14. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
 15. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
@@ -74,6 +74,10 @@ Roughly eighty years later, Sylvan Elaria carries the modern Inheritor role. He 
 ## Convergence and endgame
 
 The protagonist discovers that the public record preserves containment roles under admirable biographies. The conflict eventually becomes public, removing the concealment and information asymmetry on which the strongest contained adversaries depend. Victory must remain costly.
+
+Samuel's final attack repeats his postwar method in public. Konrad and his son Aiden target Sylvan from inside an altered reality organized around prophecy, false autonomy, restored dominance, and defeat of the next rival. Samuel expects the attack to pressure Sylvan into accepting a role inside that story. Sylvan refuses, forcing Samuel to revise the explanation. The Resistance connects those revisions to the old reactivation record, captured initiatives, and the use of apparent Fitzgerald independence to recruit other leaders.
+
+The present attack changes sides when its function becomes visible. Konrad commits his groups to Sylvan's exposure plan rather than knowingly complete Samuel's takeover. Aiden's separate decision remains unresolved.
 
 Sylvan's archive can connect the King's pre-defeat description of George to the contradictory post-defeat False Victory, then reconstruct biological lineage, synthetic identity provenance, private interventions, later blackmail, and political obedience. The challenge is to expose the system without publicly sacrificing George, Samuel Jr., or descendants whose parentage the King weaponized.
 

@@ -45,7 +45,7 @@ Across roughly eighty years, Samuel personally drives the participating bloodlin
 
 Konrad Fitzgerald is the faction's original ideological and genealogical leader. The breeding program is his most cherished initiative and the practical expression of his purity doctrine.
 
-Konrad maintains an incestuous reproductive relationship with his sister in an attempt to preserve what he considers a uniquely valuable closed lineage. Their son and daughter become the principal dictator-and-partner figures of the faction during the Great War.
+Konrad maintains an incestuous reproductive relationship with his sister in an attempt to preserve what he considers a uniquely valuable closed lineage. Their son, Aiden Fitzgerald, and their daughter become the principal dictator-and-partner figures of the faction during the Great War.
 
 Before Samuel's later manipulation dominates the system, that genuine biological line produces one grandson. The exact parent and other parent remain unresolved. What is established is the contrast between a very small verified line—son, daughter, and grandson—and the vast flourishing dynasty Konrad later believes he sees.
 
@@ -232,7 +232,7 @@ The King is not protecting purity. He is protecting control by weaponizing the o
 - What evidence can Sylvan reveal without identifying children?
 - Does the other son know his parentage and intended political function?
 - What problem caused by repeated inbreeding does Samuel claim to have solved for Konrad?
-- What roles do Konrad's son and daughter occupy before and during the Great War?
+- What exact roles do Aiden Fitzgerald and Konrad's daughter occupy before and during the Great War?
 - Which of Konrad's children produces the genuine grandson, and who is the other parent?
 - What results from the intervention involving George and Konrad's daughter?
 - How does Sylvan distinguish a synthetic identity substitution from falsified parentage attached to a biological human?

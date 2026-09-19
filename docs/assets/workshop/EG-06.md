@@ -17,6 +17,8 @@ Transform one complete evidence record into a sequence of group-level decisions 
 
 Samuel tried to use loyalty to the younger leaders as a weapon against Sylvan. That strategy backfires when participants learn Samuel has been attacking those leaders and their groups. Konrad has committed to delivering the truth to every group he led into the agreement. Public proof, affected-group evidence, protected records, and private descendant information cannot be treated as one disclosure layer.
 
+Konrad and Aiden's live attack gives the groups a shared event they can compare with their own histories. Disclosure must show that the apparent Fitzgerald recovery helped Samuel lead additional groups into related altered realities without implying that every group received the same lie or surrendered the same authority.
+
 Sources: [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/07 - Evidence and exposure order]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]], [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 
 ## Four possibilities
@@ -28,7 +30,7 @@ Sources: [[07 Coordination/Story Completion Workflow/Book One Architecture Works
 
 ## Central author gate
 
-Which group receives the first disclosure, what do its participants do that they would not do for Sylvan alone, and how does that action make the next disclosure possible?
+Which group first recognizes its own version of the Konrad-Aiden trap, what do its participants do that they would not do for Sylvan alone, and how does that action make the next disclosure possible?
 
 ## Scene test
 
@@ -37,4 +39,3 @@ Each group receives enough truth to make its own decision, and at least one grou
 ## Adversarial test
 
 If every group reacts identically, loyalty has become a plot switch. If protected family evidence becomes public spectacle, the legitimate process repeats Samuel's abuse.
-

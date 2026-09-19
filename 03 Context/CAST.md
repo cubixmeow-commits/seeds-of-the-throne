@@ -1,12 +1,12 @@
 ---
 type: context
 status: working
-updated: 2026-09-08
+updated: 2026-09-19
 ---
 
 # Cast
 
-Names remain functional designations unless stated otherwise. **Samuel Franklin**, **Konrad Fitzgerald**, **George White**, **Sylvan Elaria**, and **Orzai** are established names.
+Names remain functional designations unless stated otherwise. **Samuel Franklin**, **Konrad Fitzgerald**, **Aiden Fitzgerald**, **George White**, **Sylvan Elaria**, and **Orzai** are established names.
 
 ## The Witness
 
@@ -28,9 +28,13 @@ Approximately 220 years old at the Sylvan showdown, though visually appearing in
 
 Brilliant ideological patriarch, effective criminal strategist, persuasive cult leader, breeding-program architect, and original Great War conquest leader. Konrad creates collective obedience through historical destiny, grievance, ritual, belonging, selective paternal warmth, moral certainty, and disciplined institutional capture. He is profoundly arrogant, cannot accept consequential defeat, and is desperate always to remain the winner. After the Great War should end his experiment, he voluntarily remains because he believes his experienced Daemon can dominate Samuel, outperform Sylvan's successor Luminai, redeem every failure, and restore his authority. Samuel exploits this need by disguising shared containment as autonomous command. Konrad builds believers; Samuel builds dependencies.
 
-Approximately 300 years old at the Sylvan showdown, as is his still-unnamed senior partner. Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He holds genuine control in his own city, builds the breeding program around a closed Fitzgerald lineage, has a son and daughter with his sister during the Great War, and has one genuine grandson before Samuel's later interventions. He plans Samuel's failure but never considers that his own Great War could fail or builds a post-defeat fallback. Only after losing the Great War and entering the largest empire's containment environment does he misunderstand Samuel's bounded jurisdiction and reactivate Fitzgerald machinery there. Samuel remains socially beneath him while gaining structural advantage. Konrad later gives Samuel further access after Samuel claims he can solve hereditary consequences while preserving or enhancing the line. Samuel introduces unauthorized mixed-race descendants, false genealogies, and synthetic substitutions while letting Konrad believe a large dynasty is flourishing. Sylvan ultimately reconstructs the real family tree and exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
+Approximately 300 years old at the Sylvan showdown, as is his still-unnamed senior partner. Original ideological and genealogical leader of the contained purity faction. Konrad is a true fanatic rather than a glory-seeking opportunist. He holds genuine control in his own city, builds the breeding program around a closed Fitzgerald lineage, has a son named Aiden and a daughter with his sister during the Great War, and has one genuine grandson before Samuel's later interventions. He plans Samuel's failure but never considers that his own Great War could fail or builds a post-defeat fallback. Only after losing the Great War and entering the largest empire's containment environment does he misunderstand Samuel's bounded jurisdiction and reactivate Fitzgerald machinery there. Samuel remains socially beneath him while gaining structural advantage. Konrad later gives Samuel further access after Samuel claims he can solve hereditary consequences while preserving or enhancing the line. Samuel introduces unauthorized mixed-race descendants, false genealogies, and synthetic substitutions while letting Konrad believe a large dynasty is flourishing. Sylvan ultimately reconstructs the real family tree and exposes both Samuel's betrayal and Konrad's responsibility for building the system Samuel weaponized.
 
 Konrad's approved late-containment visual identity is an older, tall, broad, clean-shaven man with a square face, heavy jaw, and close-cropped iron-gray hair. During Book One he is isolated inside a counterfeit victory while his inner circle recognizes Samuel's takeover pattern before he does.
+
+## Aiden Fitzgerald
+
+**Aiden Fitzgerald is Konrad's biological son** and the genuine son previously left unnamed in Konrad's narrow verified family line. He is a younger public leader beneath the older contained-leader layer. After the Great War, Samuel keeps Konrad and Aiden inside an altered reality built from story functionality, false autonomy, reactivated Fitzgerald systems, prophecy, and their obsession with defeating rivals. Samuel directs that structure against Sylvan, and Konrad and Aiden target him before the repeated method is exposed. Aiden's independent knowledge, first attack, public group, and final response remain unresolved.
 
 ## George White
 

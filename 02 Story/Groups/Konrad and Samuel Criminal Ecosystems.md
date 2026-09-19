@@ -51,6 +51,8 @@ Samuel spreads behaviors that Konrad's ideology publicly condemns, but the story
 
 After the Great War, Samuel offers Konrad a separate autonomous domain. Konrad reactivates the machinery that gives his faction coherence inside the shared containment environment: the Daemon, hierarchy, followers, records, breeding program, and bloodline systems.
 
+Konrad's son Aiden becomes part of the recovered public hierarchy. Samuel surrounds Konrad and Aiden with an altered reality in which defeat becomes prophetic testing, reactivation becomes restoration, continued dependence becomes strategic patience, and every rival becomes evidence that their final victory is approaching. Their apparent command helps persuade additional leaders that Samuel can restore independent groups inside containment.
+
 The exact technical inheritance rule remains unresolved. The causal result is established: Konrad's attempt to dominate Samuel gives Samuel durable access to the organization.
 
 Samuel attacks both foundations of the faction:
@@ -67,6 +69,8 @@ Samuel's objective grows from revenge into functional replacement. He wants Konr
 The strategy reverses when participants learn who has actually been attacking their leaders and groups. Loyalty to the younger leaders does not automatically become loyalty to Sylvan. Instead, it stops functioning as Samuel's weapon. Each group must receive enough independently authenticated evidence to distinguish defense of its own people from obedience to Samuel's hidden command structure.
 
 Konrad now commits his own groups to Sylvan's separate exposure plan. He remains responsible for the hierarchy he led into Samuel's deal, while Sylvan remains an independent collaborator and the Resistance remains an independent source of discovery. Exact group-by-group disclosure order is unresolved.
+
+The commitment follows a live repetition. Samuel defines Sylvan as the rival Konrad and Aiden must defeat, and they target him from inside the postwar altered reality. Sylvan's refusal and Samuel's attempts to revise the failed prediction allow the Resistance and inner circle to connect the present attack with the old false-autonomy bargain. Aiden's response after that exposure remains independent and unresolved.
 
 Source: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 

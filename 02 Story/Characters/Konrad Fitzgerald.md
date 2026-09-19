@@ -9,6 +9,18 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 # Konrad Fitzgerald
 
+## September 19 altered-reality and Aiden decision
+
+**Established:** Aiden Fitzgerald is Konrad's biological son and the genuine son previously left unnamed in Konrad's narrow verified family line.
+
+After the Great War, Konrad and Aiden accept an altered reality maintained through Samuel's story influence, apparent autonomous recovery, Fitzgerald systems reactivated inside Samuel's bounded jurisdiction, and their own obsession with prophecy and dominance over rivals. They believe their group remains separate and that their reactivated initiatives remain under Fitzgerald control.
+
+During the endgame, Samuel presents Sylvan as the rival whose defeat will complete that recovery. Konrad and Aiden target Sylvan before the live attempt, Resistance evidence, and reactivation record reveal that Samuel is repeating the same capture method he used on them. This sequence leads into Konrad's established final decision below. Aiden's decision after exposure remains unresolved.
+
+The altered reality does not erase responsibility. Konrad's ideology, voluntary reactivation, continued denial, and attack remain his choices even though Samuel controls critical information, permissions, and apparent confirmation.
+
+Source: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]].
+
 ## September 19 final move decision
 
 **Established:** Konrad rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel Franklin and reveal his betrayals to every affected group. Continuing the original deal would now make Konrad a knowing participant in Samuel's takeover of Konrad's own followers and the allied groups he led into it.
@@ -154,7 +166,7 @@ Konrad's choice becomes the foundation of Samuel's later sense of betrayal. It d
 
 Konrad claims that his family carries an exceptional hereditary line destined to produce civilization's rightful rulers. To keep it closed, he maintains an incestuous reproductive relationship with his sister.
 
-Their son and daughter are products of the program. During the Great War, the son becomes one of the faction's principal dictator figures and the daughter becomes a dynastic public counterpart. Their authority is presented as proof that Konrad's doctrine can produce a ruling family rather than merely a political movement.
+Their son Aiden and their daughter are products of the program. During the Great War, Aiden becomes one of the faction's principal dictator figures and the daughter becomes a dynastic public counterpart. Their authority is presented as proof that Konrad's doctrine can produce a ruling family rather than merely a political movement.
 
 That genuine line produces **one biological grandson** before Samuel's extensive unauthorized manipulation overtakes the program. Which of Konrad's children is the grandson's parent, the identity of the other parent, and the grandson's own role remain unresolved.
 

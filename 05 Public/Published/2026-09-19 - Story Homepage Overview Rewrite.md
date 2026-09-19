@@ -22,6 +22,8 @@ The page explains five connected parts in ordinary language:
 
 The central-conflict section also introduces Samuel Jr. as Samuel's son with Konrad's sister and explains why that relationship matters inside Konrad's bloodline-centered system without resolving Samuel Jr.'s still-open agency.
 
+The endgame section now also explains the altered-reality repetition: Samuel tries to place Sylvan inside the same story structure that has trapped Konrad and his son Aiden since the Great War. Konrad and Aiden target Sylvan from inside that reality, and the failed repetition helps expose Samuel's original capture method.
+
 ## Public writing direction
 
 The rewrite uses the established X style at homepage length: familiar words, short paragraphs, visible cause and effect, defined terminology, and concrete consequences. The prose system's anti-AI and tracks passes were used to remove vague slogans, repeated conclusions, development language, and unsupported grandeur.

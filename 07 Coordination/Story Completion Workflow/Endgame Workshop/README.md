@@ -7,25 +7,27 @@ assessment: 07 QA/2026-09-19 - Endgame Workshop Assessment.md
 
 # Endgame Workshop
 
-This focused workshop develops the final confrontation using the major information established during the last several days. It begins after the broad ending has been accepted and asks what must happen for the hidden hierarchy, bloodline operation, Resistance evidence, Konrad's commitment, Samuel's collapse, and the outcome presentation to work as one causal sequence.
+This focused workshop develops the final confrontation using the major information established during the last several days. It begins after the broad ending has been accepted and asks what must happen for the hidden hierarchy, bloodline operation, altered-reality repetition, Resistance evidence, Konrad's commitment, Samuel's collapse, and the outcome presentation to work as one causal sequence.
+
+The endgame now includes a locked causal bridge: Samuel uses story functionality to make Konrad and his son Aiden target Sylvan from inside the postwar altered reality that has contained them since the Great War. Samuel's attempt to place Sylvan inside the same structure becomes the live proof that exposes false autonomy, captured initiatives, and the recruitment of other leaders. The exact prophecy, consent event, evidence handoff, and Aiden response remain open.
 
 This is a separate `EG-01` through `EG-08` track. It does not add an eleventh module to the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation.
 
 # Priority 1: Establish the endgame board
 
 - [x] **EG-01: Lock the endgame state.** Preserve the accepted outcome, the remaining active forces, and the boundaries no later module may contradict.
-- [ ] **EG-02: Map the hidden leadership hierarchy.** Define who sits above whom, what each layer knows, and how Samuel's attempt to weaponize loyalty reverses against him.
+- [ ] **EG-02: Map the hidden leadership hierarchy.** Define who sits above whom, how Konrad and Aiden's altered reality directs them against Sylvan, and how Samuel's attempt to weaponize loyalty reverses against him.
 
 # Priority 2: Build the proof
 
 - [ ] **EG-03: Reconstruct the bloodline operation.** Connect Samuel Jr., the concealed children, certification control, blackmail, and the takeover of succession without treating descendants as evidence objects.
-- [ ] **EG-04: Assign the evidence chain.** Give the Resistance, affected groups, Sylvan and the Luminai, institutions, and witnesses distinct indispensable functions.
+- [ ] **EG-04: Assign the evidence chain.** Give the Resistance, affected groups, Sylvan and the Luminai, institutions, and witnesses distinct indispensable functions in proving that the live trap repeats the postwar capture.
 
 # Priority 3: Turn discovery into action
 
 - [x] **EG-05: Execute Konrad's commitment.** Preserve his decision to join Sylvan's exposure plan while keeping their hierarchies separate.
 - [ ] **EG-06: Sequence disclosure to every group.** Decide who learns what first and what each truth causes them to do.
-- [ ] **EG-07: Bound Samuel's final counterplan.** Define the last strategy he can still attempt after Konrad defects without restoring powers the accepted ending removed.
+- [ ] **EG-07: Bound Samuel's final counterplan.** Define the story environment Samuel offers Sylvan, the voluntary action he needs, and the last strategy he can still attempt after Konrad defects without restoring powers the accepted ending removed.
 
 # Priority 4: Complete the outcome
 

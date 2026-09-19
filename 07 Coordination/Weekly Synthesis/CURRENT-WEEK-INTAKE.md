@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-19 — Altered-reality repetition trap
+
+- **Source:** [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]]
+- **Type:** decision / dependency / structural-development
+- **Possible relationship:** EG-01, EG-02, EG-04 through EG-07, BA-02, BA-07, BA-09, BA-10
+- **Signal:** Aiden Fitzgerald is established as Konrad's son; Konrad and Aiden target Sylvan from inside Samuel's postwar altered reality, and Samuel's live attempt to place Sylvan into the same story structure becomes the evidence that exposes false autonomy, captured initiatives, and the recruitment of other leaders.
+
 ### 2026-09-19 — Focused Endgame Workshop and Konrad commitment
 
 - **Source:** [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]]

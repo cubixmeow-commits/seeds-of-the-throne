@@ -43,6 +43,25 @@ The deeper infrastructure preserves provenance, original communications, causal 
 
 Contained leaders can alter the public story without altering the sealed record.
 
+## Altered reality in the endgame
+
+**Established direction:** an altered reality is a durable false account operating inside a physically real environment. The people, places, actions, permissions, injuries, and consequences remain real. Story functionality changes what participants are shown, which records become salient, how roles and events are explained, which apparent confirmations arrive, and how institutions or followers respond.
+
+After the Great War, Samuel combines this story layer with his earlier bounded position and Konrad-authorized reactivation. Konrad and Aiden Fitzgerald believe they have recovered a separate autonomous group. Their ideology turns defeat into prophetic testing, apparent dependence into strategic patience, and every new rival into proof that final victory is approaching.
+
+The false story performs several practical functions:
+
+- conceals Samuel's access to reactivated people and programs;
+- makes compromised initiatives appear to remain under Fitzgerald control;
+- supplies separate explanations for harm done to different groups;
+- uses Konrad and Aiden's apparent independence to recruit other leaders;
+- converts each failed promise into another required concession;
+- encourages the captured leaders to attack people Samuel cannot control directly.
+
+Samuel attempts to repeat this structure against Sylvan. He cannot force Sylvan into it. He must obtain consent, authorization, activation, or another voluntary action whose exact form remains unresolved. Sylvan's refusal and continued independent action force Samuel to revise the story in public. Those revisions allow the Resistance and Konrad's inner circle to connect the live method to the postwar capture.
+
+The governing boundary remains unchanged: story functionality can falsify experienced meaning without changing participant identity, mature bond state, terminal balance, processing, Daemon deletion, or the sealed evidence record.
+
 ## Individualized encoded information
 
 **Established direction:** the wireless colonization environment can point different participants toward different records, places, objects, repetitions, and relationships. The participant must interpret what is being shown with their Luminai or Daemon. The process can shape salience and access without supplying an unquestionable meaning.

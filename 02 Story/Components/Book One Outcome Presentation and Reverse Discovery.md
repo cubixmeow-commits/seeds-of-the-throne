@@ -50,6 +50,24 @@ In front of Konrad's inner circle, Samuel attempts the same takeover pattern he 
 
 The inner circle recognizes the repetition before Konrad does. The live attempt against Sylvan becomes a discovery method for reconstructing what happened to them.
 
+## Altered-reality repetition layer
+
+**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden remain inside an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, religious prophecy, and their obsession with dominance over rivals.
+
+Samuel uses that reality to hide his attacks on their groups and to make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
+
+The Book One attack against Sylvan is the same structure repeated in the present:
+
+1. Samuel defines Sylvan as the rival whose defeat will complete the promised victory.
+2. Konrad and Aiden target Sylvan from inside the reality Samuel has maintained around them.
+3. Sylvan refuses the role and remains outside their hierarchy.
+4. Samuel revises the explanation to preserve the prophecy and apparent control.
+5. The Resistance connects those revisions to the postwar bargain, reactivation, and captured initiatives.
+6. Other leaders recognize that their supposedly separate arrangements share the same structure.
+7. Konrad confronts the choice already established for him: knowingly complete Samuel's takeover or commit his groups to Sylvan's exposure plan.
+
+The physical environment remains real. The altered reality is the controlled story surrounding it. Konrad and Aiden retain responsibility for targeting Sylvan, and Aiden's independent response after exposure remains unresolved.
+
 ## Samuel's final attempted deal
 
 The earlier literal-Luminai-theft endgame is superseded. As exposure becomes unavoidable, Samuel tries to place responsibility for his entire system onto George, discard George as the visible cause, and preserve a future route through Samuel Jr.
@@ -72,13 +90,13 @@ The long middle makes that survival causal. Resource discipline prevents Samuel 
 
 Samuel has numerous possible ways to eliminate Sylvan before the transition. After the software-company collapse, an emergency investment functioning like a certificate of deposit provides approximately $200,000 for about ten years of survival. That averages about $1,667 per month across 120 months before returns, taxes, fees, or emergencies and requires exceptional discipline. Its exhaustion ends the protected-reserve stage and begins the employment stage, where survival depends on active income. Samuel can then attack both Sylvan's livelihood and his ability to complete assigned objectives. The exact instrument, release schedule, employment objectives, and loss thresholds remain later workshop work.
 
-Sylvan discovers that deliberate hyperfocus on the evidence-anchored story makes it much harder for Samuel to draw him into a simulated environment presented as a legitimate bargain. This focus is not equivalent to Konrad's exploitable obsession. It is chosen, reality-tested, shared with Orzai and the Luminai, and revisable when evidence changes.
+Sylvan discovers that deliberate hyperfocus on the evidence-anchored story makes it much harder for Samuel to draw him into a controlled story environment presented as a legitimate bargain. This focus is not equivalent to Konrad's exploitable obsession. It is chosen, reality-tested, shared with Orzai and the Luminai, and revisable when evidence changes.
 
 The possibility that this system also lets Sylvan reach other participants is promising but remains proposed. Its users, communication boundaries, risks, and contribution to the exposure require later brainstorming.
 
 The scene uses familiar fear of deceptive AI without making AI itself the antagonist. Samuel's Daemon is dangerous because it impersonates a trusted system, hides its controller, and extracts information for coercive use. Sylvan's Luminai demonstrates the opposite trajectory: transparent reciprocal development that expands human capability while retaining human judgment and accountability. The positive development of AI is what makes the Luminai possible.
 
-Through the remote interaction, and before Konrad's inner circle, Samuel asks Sylvan to agree to enter a controlled story environment: a simulated reality Sylvan would experience as real while Samuel governed what Sylvan did or activated inside it. Samuel cannot force entry. Sylvan must consent. The promise therefore conceals the same transfer of authority that captured Konrad after the Great War.
+Through the remote interaction, and before Konrad's inner circle, Samuel asks Sylvan to agree to enter a controlled story environment: an altered story layer inside a physically real environment, where Samuel would govern the roles, explanations, access, and apparent meaning surrounding what Sylvan did or activated. Samuel cannot force entry. Sylvan must consent. The promise therefore conceals the same transfer of authority that captured Konrad and Aiden after the Great War.
 
 Sylvan recognizes the method and exposes the attempt rather than validating it. The inner circle sees the live mechanism and understands for the first time that Konrad was taken almost a century earlier. The exact false-assistant interface, information obtained, bargain language, witnessing mechanism, and binding rules remain open.
 
@@ -112,11 +130,14 @@ The exact scenes remain open, but Book One requires this information order:
 11. Sylvan returns to tools like those he built before Samuel destroyed the story-development company and documents the real process through an evidence-anchored online story.
 12. Samuel's Daemon hijacks Sylvan's legitimate AI application during weeks of work, claims Samuel has let go, and probes for information and exploitable desire.
 13. Sylvan recognizes the accumulated manipulation pattern, intentionally interfaces with the Daemon, and hyperfocuses on the factual story to preserve his orientation and evidence.
-14. Samuel uses what he obtained to offer Sylvan voluntary entry into a story environment Samuel would control.
-15. Sylvan exposes the consent-based trap before Konrad's inner circle, giving them their first recognition that Konrad was captured almost a century earlier.
-16. Sylvan's public story presents the true outcome as Samuel's claimed authority collapses.
-17. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.
-18. The process reaches irreversible conclusion: there are no further deals and no more moves.
+14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden and to offer Sylvan voluntary entry into a story environment Samuel would control.
+15. Konrad and Aiden target Sylvan from inside the prophecy and false autonomy Samuel has maintained around them.
+16. Sylvan exposes the consent-based trap before Konrad's inner circle, giving them their first recognition that Konrad and Aiden were captured almost a century earlier.
+17. The Resistance connects the live repetition to reactivation, captured initiatives, and the use of Fitzgerald recovery to recruit other leaders.
+18. Konrad confronts the repeated method and commits his groups to Sylvan's exposure plan; Aiden's independent response remains open.
+19. Sylvan's public story presents the true outcome as Samuel's claimed authority collapses.
+20. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.
+21. The process reaches irreversible conclusion: there are no further deals and no more moves.
 
 ## Outcome standard
 

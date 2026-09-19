@@ -80,7 +80,7 @@ Status: partial
 Samuel believes he has discovered a mechanism for isolating Sylvan.
 
 ## Goal
-Trap Sylvan inside a controlled simulated environment and humiliate him.
+Trap Sylvan inside a physically real but narratively controlled environment, use story functionality to assign him a role, and humiliate him.
 
 ## Conflict
 Sylvan understands Samuel's expectations and is manipulating the apparent operation.

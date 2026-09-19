@@ -4,6 +4,16 @@ status: active
 updated: 2026-09-19
 ---
 
+## Altered-reality repetition trap — 2026-09-19
+
+**Aiden Fitzgerald is now established as Konrad Fitzgerald's biological son** and the previously unnamed genuine son in Konrad's narrow verified line. Aiden belongs to the younger public-leader layer.
+
+After the Great War, Samuel uses story functionality, false autonomy, and Konrad-authorized reactivation to keep Konrad and Aiden inside an altered reality organized around prophecy, restored dominance, and victory over rivals. The physical environment and consequences remain real. Samuel controls important parts of the story layer around them, not the governing colonization process.
+
+In the endgame, Samuel tries to repeat the same trap against Sylvan. He causes Konrad and Aiden to identify Sylvan as the rival whose defeat will complete their promised recovery. They target Sylvan before the live repetition, Resistance evidence, and reactivation record reveal how Samuel captured their group and used its apparent independence to recruit other leaders. This exposure supplies the causal route into Konrad's already established commitment to Sylvan's plan. Aiden's decision after exposure remains unresolved.
+
+Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[07 QA/2026-09-19 - Altered Reality Endgame Reassessment]].
+
 ## Focused Endgame Workshop — 2026-09-19
 
 The [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|Endgame Workshop]] now holds the last several days of endgame development in a separate `EG-01` through `EG-08` track. It does not add an eleventh BA module or reopen the accepted RW ending.
@@ -222,7 +232,7 @@ The next author-led work is the Samuel–Konrad containment hierarchy, one quest
 - Legitimate future leaders learning through bounded public roles where advanced technology enforces meaningful constraints. They must resist authoritarianism, detention, persecution, and mass abuse without simply overriding the environment.
 - Senior contained criminals operating from positions of contained privilege and management access while descendants such as George are inserted directly into reconstructed environments.
 - **Konrad Fitzgerald** as a brilliant and effective ideological patriarch, criminal strategist, cult leader, and breeding-program architect. He turns grievance, belonging, ritual, historical destiny, selective warmth, and moral certainty into collective obedience. He is profoundly arrogant, cannot accept consequential defeat, and is desperate to remain the winner. His obsession with inheritance preserves hierarchy: descendants inherit identity, doctrine, duty, and subordinate status while Konrad and the senior generation remain permanently at the top. His strengths corrupt into impermeability, loyalty-based information failure, escalation, and contempt for limits. Samuel exploits his need to redefine defeat as victory, subordination as restoration, and dependency as command. Konrad builds believers through collective identity; Samuel builds dependencies through individualized manipulation.
-- Konrad's verified genuine line begins with the biological son and daughter he has with his sister during the Great War and one genuine grandson. Samuel later introduces numerous unauthorized mixed-race descendants, falsifies genealogy, substitutes synthetics, and curates an apparent flourishing dynasty that Konrad mistakes for biological continuity.
+- Konrad's verified genuine line begins with Aiden Fitzgerald, the biological son he has with his sister during the Great War, a biological daughter, and one genuine grandson. Samuel later introduces numerous unauthorized mixed-race descendants, falsifies genealogy, substitutes synthetics, and curates an apparent flourishing dynasty that Konrad mistakes for biological continuity.
 - By the Sylvan endgame, Konrad is in hiding or severe isolation. He knows the breeding program and participating bloodlines have been compromised and understands that his own decisions enabled Samuel's targeting, but he may not know that every participating bloodline was targeted or recognize the full campaign as Samuel's coup. Sylvan suspects Samuel continues blackmailing or controlling him through proxies.
 - **Samuel Franklin** as an outsider inside Konrad's alliance: a highly intelligent failed privileged heir, master manipulator, and near-genius reader of motives, insecurities, status needs, and self-deception. His impulsiveness, obsession, greed, jealousy, and habitual lying corrupt rather than erase that intelligence. Samuel's fixation on inheritance grows from grievance and the desire to corrupt or destroy other people's certainty about lineage and succession.
 - Samuel's obsession with Konrad and his fanatic partner becomes attempted replacement. He wants their empire, authority, breeding machinery, status, followers, and place at the top while dismantling the dynasty from inside.

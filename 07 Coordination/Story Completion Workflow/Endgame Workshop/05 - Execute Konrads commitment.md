@@ -17,6 +17,8 @@ Convert Konrad's locked decision into an operational change while preserving acc
 
 Konrad abandons the attempt to terrorize, process, or eliminate Sylvan. He commits himself and his groups to exposing Samuel Franklin, revealing the betrayals, delivering evidence to every affected group, and removing Samuel's control. This is his only real option because continuing the original deal would knowingly complete Samuel's takeover. Konrad remains above and responsible for his groups. Sylvan remains a separate independent entity.
 
+This commitment follows Konrad and Aiden's attack on Sylvan. The failed repetition exposes that the rival role, prophecy, apparent autonomy, and reactivated programs all belong to Samuel's maintained story. Konrad's first irreversible action must therefore break a part of the structure he previously authorized. Aiden's response cannot be assumed from Konrad's choice.
+
 Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 Story/Characters/Konrad Fitzgerald]], [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/09 - Konrad final move]].
 
 ## Four possibilities
@@ -28,7 +30,7 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 S
 
 ## Central author gate
 
-What is the first irreversible action Konrad takes, what does it cost him, and which part of Samuel's control becomes impossible because of it?
+What is the first irreversible action Konrad takes after recognizing the repeated trap, what does it cost him, which part of Samuel's control becomes impossible, and what independent choice remains for Aiden?
 
 ## Scene test
 
@@ -37,4 +39,3 @@ Konrad's choice changes access, testimony, protection, or group behavior before 
 ## Adversarial test
 
 If Konrad merely agrees with Sylvan, the commitment has no dramatic force. If the decision erases his responsibility or places Sylvan under his command, it contradicts the locked direction.
-
