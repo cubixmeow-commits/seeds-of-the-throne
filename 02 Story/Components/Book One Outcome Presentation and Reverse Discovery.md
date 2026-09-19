@@ -130,10 +130,10 @@ The exact scenes remain open, but Book One requires this information order:
 11. Sylvan returns to tools like those he built before Samuel destroyed the story-development company and documents the real process through an evidence-anchored online story.
 12. Samuel's Daemon hijacks Sylvan's legitimate AI application during weeks of work, claims Samuel has let go, and probes for information and exploitable desire.
 13. Sylvan recognizes the accumulated manipulation pattern, intentionally interfaces with the Daemon, and hyperfocuses on the factual story to preserve his orientation and evidence.
-14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden and to offer Sylvan voluntary entry into a story environment Samuel would control.
-15. Konrad and Aiden target Sylvan from inside the prophecy and false autonomy Samuel has maintained around them.
+14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden. He counterfeits the divine authority behind their original holy order, presents Sylvan as the final threat to its promised reward, and offers Sylvan voluntary entry into a story environment Samuel would control.
+15. Konrad and Aiden target Sylvan from inside the sacred mission and false autonomy Samuel has maintained around them.
 16. Sylvan exposes the consent-based trap before Konrad's inner circle, giving them their first recognition that Konrad and Aiden were captured almost a century earlier.
-17. The Resistance connects the live repetition to reactivation, captured initiatives, and the use of Fitzgerald recovery to recruit other leaders.
+17. The Resistance connects the live repetition to reactivation, captured initiatives, supposedly sacred instructions traceable to Samuel, and the use of Fitzgerald recovery to recruit other leaders.
 18. Konrad confronts the repeated method and commits his groups to Sylvan's exposure plan; Aiden's independent response remains open.
 19. Sylvan's public story presents the true outcome as Samuel's claimed authority collapses.
 20. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.

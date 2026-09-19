@@ -4,6 +4,16 @@ status: active
 updated: 2026-09-19
 ---
 
+## Counterfeit divine authority — 2026-09-19
+
+Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. They expect a promised reward for completing its mission and accept the removal of designated threats as sacred service. Samuel's primary control method is to masquerade as the authority behind that mission. Through story functionality, controlled interpretation, staged confirmation, records, permissions, intermediaries, and assigned rivals, he makes his operational requirements appear to come from beyond him.
+
+The endgame does not reveal that faith is false. It proves that Samuel captured the channel connecting belief to action and counterfeited authority he never possessed. Every religion, order, doctrine, symbol, ritual, prophecy, and sacred history used in the final story must be original to *Seeds of the Throne*. Real religions may inform broad human dynamics during development but cannot become one-to-one fictional counterparts.
+
+Sylvan is the final designated threat. Konrad and Aiden's attack becomes the live example that lets the Resistance trace supposedly sacred instructions back to Samuel's access and revisions. Konrad's commitment must therefore break both Samuel's operational control and his exclusive power to interpret the order's purpose. Aiden's response remains independent.
+
+Sources: [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[02 Story/Systems/Original Religions and Counterfeit Sacred Authority]].
+
 ## Altered-reality repetition trap — 2026-09-19
 
 **Aiden Fitzgerald is now established as Konrad Fitzgerald's biological son** and the previously unnamed genuine son in Konrad's narrow verified line. Aiden belongs to the younger public-leader layer.

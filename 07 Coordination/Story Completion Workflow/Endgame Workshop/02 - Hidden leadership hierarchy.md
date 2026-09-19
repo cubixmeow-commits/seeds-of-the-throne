@@ -19,6 +19,8 @@ Participant groups follow younger public leaders. A previously unknown layer of 
 
 Aiden Fitzgerald is Konrad's biological son and a younger public leader. Samuel uses the altered reality surrounding Konrad and Aiden to define Sylvan as a rival and direct both men against him. Their attack reveals how the older contained layer can control younger leaders while allowing the public groups to believe their own hierarchy remains independent.
 
+Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. Samuel's hidden hierarchy works by counterfeiting the authority that interprets its mission, signs, promised reward, and enemies. Related leaders may follow different original religious stories; the repeated structure is captured interpretation, not one universal doctrine.
+
 Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Characters/George White - The Collapse of the Lie]].
 
 ## Four possibilities
@@ -26,11 +28,11 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 S
 1. **Leader testimony first:** younger leaders disclose the pressure they have concealed before the structural evidence arrives.
 2. **Participant comparison first:** separate groups compare identical manipulation patterns and force their leaders to answer.
 3. **Contained-layer exposure first:** verified records reveal the upper hierarchy, then each group recognizes how it affected its own leader.
-4. **Live altered-reality reversal:** Konrad and Aiden act against Sylvan, Samuel revises the prophecy when the attack fails, and the repeated pattern exposes his control across several groups at once.
+4. **Live altered-reality reversal:** Konrad and Aiden act against Sylvan, Samuel revises the supposedly sacred interpretation when the attack fails, and the repeated pattern exposes his control across several groups at once.
 
 ## Central author gate
 
-What is the first verifiable contradiction in Konrad and Aiden's attack that lets ordinary participants distinguish loyalty to their own leaders from obedience to Samuel's hidden story structure?
+What is the first verifiable contradiction in Konrad and Aiden's attack that lets ordinary participants distinguish sincere faith and loyalty to their own leaders from obedience to Samuel's counterfeit sacred authority?
 
 ## Scene test
 

@@ -35,6 +35,16 @@ RW-01 through RW-10 are author-accepted and the reassessment workshop is complet
 
 # Open Questions
 
+## Counterfeit sacred authority — 2026-09-19
+
+- What is Konrad and Aiden's original holy order called, and what constructive purpose did it claim before Konrad converted it into a dominance structure?
+- What promised divine reward keeps them committed after the Great War?
+- What original prophecy makes Sylvan the final designated threat without borrowing from an existing religion?
+- Which trusted office, artifact, ritual, archive, or technical channel lets Samuel impersonate sacred authority?
+- What evidence proves Samuel authored or manipulated the instructions rather than merely proving a prediction wrong?
+- Which sincere believer inside the order first separates faith from obedience to Samuel?
+- What distinct original sacred stories did Samuel exploit among other group leaders?
+
 ## Resistance evidence and converging revelation — 2026-09-17
 
 - What final name fits the independent Resistance without relying on the rejected Witness/Inheritor terminology or an overtly religious identity?

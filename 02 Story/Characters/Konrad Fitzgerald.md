@@ -15,11 +15,13 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 After the Great War, Konrad and Aiden accept an altered reality maintained through Samuel's story influence, apparent autonomous recovery, Fitzgerald systems reactivated inside Samuel's bounded jurisdiction, and their own obsession with prophecy and dominance over rivals. They believe their group remains separate and that their reactivated initiatives remain under Fitzgerald control.
 
+**Established religious layer:** Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. They expect a promised reward for completing that purpose and accept the elimination of designated threats as sacred service. Samuel's primary control method is to counterfeit the authority behind the order: he captures the channels through which signs, records, permissions, prophecy, and rivals are interpreted, then hides his instructions inside apparent divine confirmation.
+
 During the endgame, Samuel presents Sylvan as the rival whose defeat will complete that recovery. Konrad and Aiden target Sylvan before the live attempt, Resistance evidence, and reactivation record reveal that Samuel is repeating the same capture method he used on them. This sequence leads into Konrad's established final decision below. Aiden's decision after exposure remains unresolved.
 
 The altered reality does not erase responsibility. Konrad's ideology, voluntary reactivation, continued denial, and attack remain his choices even though Samuel controls critical information, permissions, and apparent confirmation.
 
-Source: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]].
+Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]].
 
 ## September 19 final move decision
 

@@ -24,6 +24,8 @@ The central-conflict section also introduces Samuel Jr. as Samuel's son with Kon
 
 The endgame section now also explains the altered-reality repetition: Samuel tries to place Sylvan inside the same story structure that has trapped Konrad and his son Aiden since the Great War. Konrad and Aiden target Sylvan from inside that reality, and the failed repetition helps expose Samuel's original capture method.
 
+The homepage now identifies the belief structure behind that attack. Konrad and Aiden believe they lead a holy order placed by divine purpose, while Samuel secretly counterfeits the authority behind its mission and designates Sylvan as the threat they must eliminate. Public wording does not compare the order to a real religion and does not present Samuel's fraud as proof against faith.
+
 ## Public writing direction
 
 The rewrite uses the established X style at homepage length: familiar words, short paragraphs, visible cause and effect, defined terminology, and concrete consequences. The prose system's anti-AI and tracks passes were used to remove vague slogans, repeated conclusions, development language, and unsupported grandeur.

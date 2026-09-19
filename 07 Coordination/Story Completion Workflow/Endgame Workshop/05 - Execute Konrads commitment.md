@@ -19,6 +19,8 @@ Konrad abandons the attempt to terrorize, process, or eliminate Sylvan. He commi
 
 This commitment follows Konrad and Aiden's attack on Sylvan. The failed repetition exposes that the rival role, prophecy, apparent autonomy, and reactivated programs all belong to Samuel's maintained story. Konrad's first irreversible action must therefore break a part of the structure he previously authorized. Aiden's response cannot be assumed from Konrad's choice.
 
+Konrad must also surrender his exclusive authority to define the holy order's enemies. His turn does not require him to renounce every belief. It requires him to acknowledge that Samuel captured the interpretive channel and that Konrad used counterfeit sacred authority to justify real harm.
+
 Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 Story/Characters/Konrad Fitzgerald]], [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/09 - Konrad final move]].
 
 ## Four possibilities
@@ -27,6 +29,8 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[02 S
 2. **Release the groups:** Konrad orders every allied leader to compare evidence directly instead of accepting his interpretation.
 3. **Open the records:** Konrad surrenders the private archives, access routes, and command history needed to prove the betrayal.
 4. **Protect the disclosure:** Konrad uses his remaining influence to stop retaliation while the groups receive the evidence.
+
+Any of these actions may include opening sacred archives to independent authentication or protecting believers who challenge Samuel's interpretation.
 
 ## Central author gate
 

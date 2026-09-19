@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-10
+updated: 2026-09-19
 character: Samuel Franklin
 roles: contained criminal, future King, Throne founder, exiled failed heir, revenge infiltrator
 ---
@@ -13,13 +13,15 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 **Established:** Samuel uses story functionality to maintain an altered reality around Konrad and Aiden Fitzgerald after the Great War. He exploits their defeat, religious prophecy, obsession with restored dominance, and need to defeat any rival. He convinces them that their reactivated group remains separate and sovereign while their people, programs, records, and sacred initiatives operate inside a structure that preserves Samuel's access.
 
+**Established primary control method:** Samuel masquerades as the divine authority behind the original holy order Konrad and Aiden believe they lead. He does not need to command them openly. He occupies the interpretive channel between conviction and action, using staged confirmation, controlled provenance, records, permissions, intermediaries, and assigned rivals to make his requirements appear sacred. He adapts related counterfeit-authority structures to other leaders without giving every group the same religion or prophecy.
+
 Samuel then uses Konrad and Aiden's apparent authority to draw other leaders into related false realities. The story layer hides his attacks by giving each group a separate explanation and by presenting Fitzgerald recovery as proof that cooperation with Samuel restores independence.
 
 In the endgame, Samuel attempts the same method against Sylvan. He expects Sylvan to accept a controlled story environment as reality, while Konrad and Aiden identify Sylvan as the rival their prophecy requires them to defeat. The attack fails as a capture strategy and succeeds as evidence: Sylvan's refusal, Samuel's repeated corrections, the Resistance record, and the old reactivation history reveal one continuous method.
 
 This does not grant Samuel control of physical reality or the governing process. His power depends on bounded story influence, local systems, earlier priority, voluntary authorization, manipulated evidence, institutional response, and targets whose own beliefs and choices make the false account durable.
 
-Source: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]].
+Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]].
 
 ## September 5 integration boundary
 

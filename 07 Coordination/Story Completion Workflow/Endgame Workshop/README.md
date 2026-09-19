@@ -9,7 +9,9 @@ assessment: 07 QA/2026-09-19 - Endgame Workshop Assessment.md
 
 This focused workshop develops the final confrontation using the major information established during the last several days. It begins after the broad ending has been accepted and asks what must happen for the hidden hierarchy, bloodline operation, altered-reality repetition, Resistance evidence, Konrad's commitment, Samuel's collapse, and the outcome presentation to work as one causal sequence.
 
-The endgame now includes a locked causal bridge: Samuel uses story functionality to make Konrad and his son Aiden target Sylvan from inside the postwar altered reality that has contained them since the Great War. Samuel's attempt to place Sylvan inside the same structure becomes the live proof that exposes false autonomy, captured initiatives, and the recruitment of other leaders. The exact prophecy, consent event, evidence handoff, and Aiden response remain open.
+The endgame now includes a locked causal bridge: Samuel uses story functionality to make Konrad and his son Aiden target Sylvan from inside the postwar altered reality that has contained them since the Great War. They sincerely believe they lead an original holy order placed by divine purpose. Samuel counterfeits the authority behind its prophecy, promised reward, and designated threats. His attempt to place Sylvan inside the same structure becomes the live proof that exposes false autonomy, captured initiatives, captured sacred interpretation, and the recruitment of other leaders. The order's name, theology, trusted channel, exact prophecy, consent event, evidence handoff, and Aiden response remain open.
+
+Religious inspiration must remain respectful and structurally transformed. No modern or historical religion, sacred person, institution, holy order, scripture, symbol, event, or doctrine becomes a one-to-one fictional faction. The reveal proves Samuel's fraud, not the falsity of faith.
 
 This is a separate `EG-01` through `EG-08` track. It does not add an eleventh module to the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation.
 

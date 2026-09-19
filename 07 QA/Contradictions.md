@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-09-17
+updated: 2026-09-19
 ---
 
 # Contradictions
@@ -38,3 +38,4 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 | C-021 | Konrad's inner circle recognizes Samuel's repeated method before Konrad, while the Resistance now discovers the verified historical chain. | Treat recognition and evidence reconstruction as distinct achievements unless a later author decision joins the investigations. BA-07 must assign discovery, authentication, presentation, and decision roles. |
 | C-022 | Earlier Resistance development moved toward Witness/Inheritor labels and an overtly religious presentation, while the author later rejected those names and tone as mismatched. | Use Resistance only as a functional placeholder. Final name, symbols, ritual, belief language, and religious identity remain unresolved and must not be projected as established. |
 | C-023 | Older notes describe Samuel's proposed story environment as a literal simulated reality, while the current physical-world rule and altered-reality decision require real environments and consequences. | Use **altered reality** for a controlled narrative and interpretive layer built from story functionality, roles, records, permissions, selective confirmation, and social response inside a physically real environment. Samuel cannot rewrite governing process state. |
+| C-024 | Konrad and Aiden's holy order could be framed as a copy of a real religion, as proof that faith is fraudulent, or as evidence that Samuel controls the synthetic religious-management layer. | Make every religious specific original to *Seeds of the Throne*. Prove only that Samuel counterfeited the order's interpretive authority through bounded access. Preserve metaphysical uncertainty, diverse believers, synthetic-management separation, and freedom to believe, reject, criticize, exit, or reform. |

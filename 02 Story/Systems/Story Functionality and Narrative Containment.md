@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-07
+updated: 2026-09-19
 themes: story functionality, public narrative, cover-up, sealed record, cult containment, first century, leadership training
 ---
 
@@ -59,6 +59,16 @@ The false story performs several practical functions:
 - encourages the captured leaders to attack people Samuel cannot control directly.
 
 Samuel attempts to repeat this structure against Sylvan. He cannot force Sylvan into it. He must obtain consent, authorization, activation, or another voluntary action whose exact form remains unresolved. Sylvan's refusal and continued independent action force Samuel to revise the story in public. Those revisions allow the Resistance and Konrad's inner circle to connect the live method to the postwar capture.
+
+### Counterfeit sacred authority
+
+Konrad and Aiden's altered reality is organized as an original holy order with a divine purpose, promised reward, and designated threats. Samuel's primary control method is not to disprove or replace their faith openly. He counterfeits the authority that interprets it.
+
+Story functionality lets Samuel coordinate selected signs, records, permissions, ritual timing, intermediaries, apparent confirmation, and rival assignments. Konrad and Aiden experience the resulting pattern as guidance from beyond Samuel, even while Samuel is choosing which interpretation becomes actionable. When an event contradicts the story, Samuel revises the explanation and demands greater commitment.
+
+This mechanism is bounded. Samuel cannot create genuine divinity, settle metaphysical truth, control minds, or command the overall process. The eventual proof must trace the supposedly sacred instructions to Samuel's access and revisions; a failed prophecy alone is not enough.
+
+See [[Original Religions and Counterfeit Sacred Authority]].
 
 The governing boundary remains unchanged: story functionality can falsify experienced meaning without changing participant identity, mature bond state, terminal balance, processing, Daemon deletion, or the sealed evidence record.
 

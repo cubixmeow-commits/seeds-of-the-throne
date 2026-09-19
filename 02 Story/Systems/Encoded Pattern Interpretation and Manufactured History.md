@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-07
+updated: 2026-09-19
 themes: encoded information, manufactured history, interpretation, wireless guidance, adversarial epistemology, George White
 ---
 
@@ -42,6 +42,14 @@ The religious organizations can present different levels of awareness. Some pres
 This architecture creates a serious legitimacy problem that remains unresolved: a process capable of managing religion while removing its true managers from the planet's available account of reality can manufacture consent, conceal authority, and make administrative decisions appear sacred. Because participant discovery through ordinary information is unavailable, credible external audit, intervention limits, synthetic autonomy, human challenge rights, and protection against coercive doctrine become even more important.
 
 **Working research questions inside the world:** the process may examine how religious belief provides meaning, community, restraint, courage, reconciliation, or resistance to illegitimate power; how institutions become captured; how apparent miracles change authority; how extended life changes concepts of death and transcendence; and how faith responds when part of sacred history is revealed as technologically reconstructed. Exploration does not establish a single correct religion or permit the leaders to score human worth by belief.
+
+### Original religions and captured interpretation
+
+The final story uses original religious traditions rather than direct versions of historical or modern Earth religions. Broad human dynamics may inform development, but names, doctrines, sacred figures, scriptures, symbols, orders, rituals, prophecies, and histories must be invented for the colonization world.
+
+Konrad and Aiden's holy order demonstrates the difference between belief and captured interpretation. Their faith is sincere; Samuel's claimed authority is counterfeit. Samuel exploits the gap between a sign and its meaning, making his operational demands appear to come from the order's divine source. The story's evidentiary conclusion is limited: records can prove Samuel authored or manipulated instructions, but they do not settle the order's metaphysical claims or the truth of faith generally.
+
+See [[Original Religions and Counterfeit Sacred Authority]].
 
 ## The interpretation loop
 

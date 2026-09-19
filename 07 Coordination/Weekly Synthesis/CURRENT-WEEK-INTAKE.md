@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-19 — Counterfeit divine authority
+
+- **Source:** [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]]
+- **Type:** decision / dependency / structural-development / public-boundary
+- **Possible relationship:** EG-02, EG-04, EG-05, EG-07, BA-02, BA-07, BA-09, BA-10
+- **Signal:** Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose; Samuel's primary control method is to counterfeit its interpretive authority, designate Sylvan as the final threat, and adapt related sacred stories for other leaders, while all religious specifics remain original and the reveal proves Samuel's fraud rather than the falsity of faith.
+
 ### 2026-09-19 — Altered-reality repetition trap
 
 - **Source:** [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]]
