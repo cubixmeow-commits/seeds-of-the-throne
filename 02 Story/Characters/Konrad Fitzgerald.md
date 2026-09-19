@@ -2,12 +2,22 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-06
+updated: 2026-09-19
 character: Konrad Fitzgerald
 roles: ideological patriarch, breeding-program architect, Great War leader, original conquest leader, contained criminal
 ---
 
 # Konrad Fitzgerald
+
+## September 19 final move decision
+
+**Established:** Konrad rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel Franklin and reveal his betrayals to every affected group. Continuing the original deal would now make Konrad a knowing participant in Samuel's takeover of Konrad's own followers and the allied groups he led into it.
+
+This is Konrad's only real option at this point, not a moral absolution. He abandons the attempt to terrorize, process, or eliminate Sylvan; helps deliver the evidence; and uses his remaining influence to remove Samuel's control before the takeover is completed. The first irreversible action, personal cost, and exact authority he can revoke remain unresolved.
+
+Konrad remains above and responsible for his own groups. Sylvan remains a separate independent entity outside that hierarchy. Their connection is a specific collaboration around exposure, evidence delivery, and removal of Samuel's control. Konrad does not absorb Sylvan, and Sylvan does not inherit Konrad's organization.
+
+Source: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 
 ## September 5 evidence qualification
 
@@ -290,9 +300,9 @@ Konrad does not adapt cleanly. He becomes desperate and enraged, attempts to for
 
 **Established Book One function — 2026-09-11:** Konrad has been enclosed within Samuel's story environment for almost a century. At the ending he is forced out of that environment and into direct contact with the connected reality of Samuel's conduct. The reproductive and genealogical attack against the bloodlines becomes the most intense focus because it destroys the future Konrad believed he was preserving.
 
-Konrad's function is confrontation rather than immediate redemption. The return to reality proves how completely Samuel captured him and collapses the False Victory. What Konrad says, admits, refuses, or tries to do afterward remains open.
+Konrad's function is confrontation rather than redemption. The return to reality proves how completely Samuel captured him and collapses the False Victory. He ultimately commits his groups to Sylvan's separate exposure plan, but what he admits and the concrete action that proves the commitment remain open.
 
-Konrad still has substantial influence inside the containment environment. His final moves after the confrontation can materially affect the older leaders, Samuel's remaining position, and the next state of the environment. The exact use of that influence remains open rather than treating him as a passive witness.
+Konrad still has substantial influence inside the containment environment. He uses it to support exposure and oppose Samuel rather than remaining a passive witness. The exact first order, record release, protection, or revocation remains open.
 
 The decisive evidence is direct: Konrad sees dozens of unauthorized children with recognizable resemblance to leaders in his own group. The visible pattern makes Sylvan's claim that Samuel targeted the bloodlines impossible to dismiss.
 
@@ -310,7 +320,7 @@ Sylvan suspects Samuel continues controlling or blackmailing Konrad through one 
 
 ## Open questions
 
-- After Samuel's blackmail and the collapse of the false separation, what does Konrad do first with his urge to blame and destroy?
+- What first irreversible action proves Konrad has committed his groups to the exposure effort, and what does it cost him?
 - What public setting makes the surrender Konrad demands from Sylvan feel like coronation rather than mere defeat?
 
 - What title does the faction give Konrad?

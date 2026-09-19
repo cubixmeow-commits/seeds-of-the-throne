@@ -8,7 +8,21 @@
     for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, value);
     return node;
   };
-  const prefix = 'seeds-book-one-architecture-workshop-v1:';
+  const params = new URL(location.href).searchParams;
+  const requestedTrack = params.get('workshop');
+  const requestedModule = params.get('module') || '';
+  const defaultTrack = root.dataset.workshopDefault || 'book-one';
+  const inferredTrack = requestedModule.startsWith('BA-') ? 'book-one' : requestedModule.startsWith('EG-') ? 'endgame' : defaultTrack;
+  const workshopKey = requestedTrack === 'book-one' || requestedTrack === 'endgame' ? requestedTrack : inferredTrack;
+  const source = workshopKey === 'endgame' ? root.dataset.sourceEndgame : root.dataset.sourceBookOne;
+  const prefix = workshopKey === 'book-one'
+    ? 'seeds-book-one-architecture-workshop-v1:'
+    : 'seeds-endgame-workshop-v1:';
+  document.querySelectorAll('.workshop-track-switch a').forEach(link => {
+    const linkTrack = new URL(link.href).searchParams.get('workshop');
+    if (linkTrack === workshopKey) link.setAttribute('aria-current', 'page');
+    else link.removeAttribute('aria-current');
+  });
   const memory = new Map();
   let current, area, status, modules;
   let storageAvailable = true;
@@ -38,7 +52,7 @@
     modules.forEach(m => select.append(el('option', `${m.id} · ${m.title}`, {value:m.id})));
     select.value = current.id;
     select.addEventListener('change', () => {
-      const url = new URL(location.href); url.searchParams.set('module',select.value); url.hash='session'; history.replaceState(null,'',url); show(select.value,true);
+      const url = new URL(location.href); url.searchParams.set('workshop',workshopKey); url.searchParams.set('module',select.value); url.hash='session'; history.replaceState(null,'',url); show(select.value,true);
     });
     const heading=el('h2',`${current.id} · ${current.title}`,{tabindex:'-1'});
     const gate=el('p',current.gate,{class:'workshop-gate'});
@@ -55,9 +69,9 @@
     area.addEventListener('input',persist);
     if(!storageAvailable) status.textContent='Browser storage unavailable. Export Markdown to preserve this draft.';
     const exportButton=el('button','Export answer as Markdown',{type:'button'});
-    exportButton.addEventListener('click',()=>{persist();download(area.value,`seeds-book-one-${current.id}-answer.md`);});
+    exportButton.addEventListener('click',()=>{persist();download(area.value,`seeds-${workshopKey}-${current.id}-answer.md`);});
     const sourceButton=el('button','Download the complete workshop notes',{type:'button',class:'secondary'});
-    sourceButton.addEventListener('click',()=>download(current.markdown,`seeds-book-one-${current.id}-source.md`));
+    sourceButton.addEventListener('click',()=>download(current.markdown,`seeds-${workshopKey}-${current.id}-source.md`));
     const importInput=el('input',null,{type:'file',id:'workshop-import',accept:'.md,.txt,text/markdown,text/plain'});
     importInput.addEventListener('change',async()=>{
       const file=importInput.files[0];if(!file)return;
@@ -78,9 +92,13 @@
     root.append(work,detail);
     if(focus)heading.focus();
   }
-  fetch(root.dataset.source).then(r=>{if(!r.ok)throw Error('unavailable');return r.json();}).then(data=>{
+  if (!source) {
+    root.replaceChildren(el('p','The selected workshop is unavailable. Choose another workshop track.',{role:'alert'}));
+    return;
+  }
+  fetch(source).then(r=>{if(!r.ok)throw Error('unavailable');return r.json();}).then(data=>{
     modules=data.modules;
     if(!Array.isArray(modules)||!modules.length)throw Error('empty');
-    show(new URL(location.href).searchParams.get('module')||modules[0].id);
+    show(requestedModule||modules[0].id);
   }).catch(()=>{root.replaceChildren(el('p','The interactive workshop could not load. Use the links below to read the complete questions. No answers have been changed.',{role:'alert'}));});
 })();

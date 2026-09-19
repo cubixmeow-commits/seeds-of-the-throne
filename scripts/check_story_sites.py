@@ -12,8 +12,14 @@ from workshop_contract import (
     MIN_OPTIONS,
     MAX_OPTIONS,
     EXPECTED_MODULE_COUNT,
+    ENDGAME_EXPECTED_MODULE_COUNT,
+    ENDGAME_REQUIRED_MODULE_IDS,
+    ENDGAME_MODULE_PREFIX,
+    ENDGAME_WORKSHOP_LABEL,
     load_workshop_modules,
+    load_endgame_workshop_modules,
     validate_generated_modules,
+    validate_generated_endgame_modules,
     parse_prerequisites,
     option_count,
     wiki_targets,
@@ -69,6 +75,35 @@ for m in data.get('modules', []):
     _, prereq_errors = parse_prerequisites(m.get('prerequisites', ''))
     for error in prereq_errors:
         errors.append(f'{m["id"]}: {error}')
+endgame_source_modules, endgame_source_errors = load_endgame_workshop_modules()
+errors.extend(endgame_source_errors)
+endgame_data=json.loads((ROOT/'docs/assets/story-endgame-workshop.json').read_text())
+errors.extend(validate_generated_endgame_modules(endgame_data.get('modules')))
+if endgame_source_modules:
+    source_ids=[item['id'] for item in endgame_source_modules]
+    generated_ids=[item.get('id') for item in endgame_data.get('modules', [])]
+    if source_ids!=generated_ids:
+        errors.append('generated workshop IDs do not match the EG-01 through EG-08 source set')
+if len(endgame_data.get('modules', [])) != ENDGAME_EXPECTED_MODULE_COUNT:
+    errors.append(f'Expected {ENDGAME_EXPECTED_MODULE_COUNT} focused Endgame modules EG-01 through EG-08, found {len(endgame_data.get("modules", []))}')
+for m in endgame_data.get('modules', []):
+    text=(ROOT/m['path']).read_text()
+    if text!=m['markdown']:errors.append('Workshop drift: '+m['id'])
+    for heading in REQUIRED_HEADINGS:
+        if '## '+heading not in text:errors.append(f'{m["id"]}: missing {heading}')
+    count=option_count(text)
+    if not MIN_OPTIONS<=count<=MAX_OPTIONS:
+        errors.append(f'{m["id"]}: {count} options')
+    for target in wiki_targets(text):
+        if not resolve_wiki_path(target).exists():errors.append(f'{m["id"]}: missing source {target}')
+    _, prereq_errors = parse_prerequisites(
+        m.get('prerequisites', ''),
+        ENDGAME_REQUIRED_MODULE_IDS,
+        ENDGAME_MODULE_PREFIX,
+        ENDGAME_WORKSHOP_LABEL,
+    )
+    for error in prereq_errors:
+        errors.append(f'{m["id"]}: {error}')
 for p in (ROOT/'05 Public/Atlas').glob('*.md'):
     s=p.read_text()
     for target in wiki_targets(s):
@@ -92,6 +127,16 @@ curated_markers = {
     ],
     'docs/faction.html': ['The records begin to connect'],
     'docs/archive.html': ['focused September 17 reassessment'],
+    'docs/index.html': ['Open the Endgame Workshop'],
+    'docs/workshop.html': ['Choose from eight Endgame topics'],
+    '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md': [
+        'This focused workshop develops the final confrontation',
+        "Konrad's commitment",
+    ],
+    'iainreiddotdev/project-explorer/workbench.php': [
+        'story-endgame-workshop.json',
+        'Start the Endgame Workshop',
+    ],
     'iainreiddotdev/project-explorer/index.php': [
         '2026-09-17 - Resistance and Revelation Reassessment.md',
         '../assets/js/analytics.js?v=20260918a',
@@ -132,4 +177,4 @@ for relative_path, markers in curated_markers.items():
             errors.append(f'{relative_path}: missing curated marker {marker}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
-print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} current source-linked Book One architecture modules BA-01 through BA-10; curated canon checks.')
+print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} Book One modules BA-01 through BA-10; {ENDGAME_EXPECTED_MODULE_COUNT} Endgame modules EG-01 through EG-08; curated canon checks.')

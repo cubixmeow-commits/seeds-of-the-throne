@@ -76,7 +76,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
       ['/iainreiddotdev/project-explorer/?view=overview', 'Overview', 'See how the authoring system turns ordinary language into finished story work.'],
       ['/iainreiddotdev/project-explorer/?view=sources', 'Story', 'Open the public story pages and the reviewed Markdown behind them.'],
       ['/iainreiddotdev/project-explorer/?view=evidence', 'Decisions', 'Trace assessments, research boundaries, contradictions, and accepted decisions.'],
-      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Build the missing path through Book One.'],
+      ['/iainreiddotdev/project-explorer/?view=workshop', 'Workshop', 'Develop the endgame without losing the evidence trail.'],
     ]) {
       const response = await page.goto(base + route, { waitUntil: 'domcontentloaded' });
       await page.waitForTimeout(150);
@@ -296,7 +296,11 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await assertNoOverflow(320, 'vault-overview-zoom200');
 
   // Workshop persistence/import/export on Project Explorer.
-  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&module=BA-01#session');
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&workshop=endgame&module=EG-01#session');
+  await page.locator('#workshop-answer').waitFor();
+  if (await page.locator('#workshop-module option').count() !== 8) errors.push('endgame workshop did not expose eight modules');
+  if (await page.locator('#workshop-module').inputValue() !== 'EG-01') errors.push('endgame workshop did not open EG-01');
+  await page.goto(base + '/iainreiddotdev/project-explorer/?view=workshop&workshop=book-one&module=BA-01#session');
   await page.locator('#workshop-answer').waitFor();
   const answer = 'Module: BA-01 · test\nState: DRAFT\n\nAuthor answer: browser verification only <script>bad</script>\n';
   await page.locator('#workshop-answer').fill(answer);
@@ -317,7 +321,7 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   await page.locator('#workshop-import').setInputFiles(file);
   await page.waitForTimeout(150);
   if (await page.locator('#workshop-answer').inputValue() !== answer) errors.push('explorer import mismatch');
-  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-book-one-architecture-workshop-v1:') || k.startsWith('seeds-reassessment-workshop-v1:') || k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
+  await page.evaluate(() => Object.keys(localStorage).filter((k) => k.startsWith('seeds-book-one-workshop-v1:') || k.startsWith('seeds-endgame-workshop-v1:') || k.startsWith('seeds-book-one-architecture-workshop-v1:') || k.startsWith('seeds-reassessment-workshop-v1:') || k.startsWith('seeds-workshop-v1:')).forEach((k) => localStorage.removeItem(k)));
 
   // Theme toggle remains available beside the hamburger.
   await page.setViewportSize({ width: 375, height: 900 });

@@ -1,8 +1,14 @@
 ---
 type: context
 status: active
-updated: 2026-09-11
+updated: 2026-09-19
 ---
+
+## Focused Endgame Workshop — 2026-09-19
+
+The endgame questions now live in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-08]]. The locked Konrad commitment is not an open question. Current gates concern the exact starting state, hidden-hierarchy discovery, bloodline evidence and Samuel Jr.'s agency, evidence ownership, Konrad's first irreversible action, group-by-group disclosure, Samuel's bounded counterplan, and the final presentation order.
+
+This focused track does not replace BA-01 as the active Book One architecture gate.
 
 ## Active Book One architecture workshop — 2026-09-11
 

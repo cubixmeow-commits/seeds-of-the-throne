@@ -1,7 +1,7 @@
 ---
 type: group-system
 status: working
-updated: 2026-09-03
+updated: 2026-09-19
 topics: Konrad faction, Samuel network, criminal ecosystems, ideology, blackmail, succession
 ---
 
@@ -59,6 +59,16 @@ Samuel attacks both foundations of the faction:
 2. **Ideology:** younger generations are redirected into Samuel's compromise network until the heirs reproduce the practices Konrad claimed his hierarchy existed to eradicate.
 
 Samuel's objective grows from revenge into functional replacement. He wants Konrad's heirs to seek his approval, Konrad's inner circle to depend on his information, Konrad's institutions to execute his methods, and the group's future to organize around Samuel.
+
+## Endgame hierarchy and loyalty reversal
+
+**Established:** the participant groups follow younger public leaders while a previously unknown layer of contained criminal leaders sits above those leaders. Samuel has terrorized and manipulated the younger layer while trying to redirect participant loyalty against Sylvan. Sylvan remains outside the hierarchy.
+
+The strategy reverses when participants learn who has actually been attacking their leaders and groups. Loyalty to the younger leaders does not automatically become loyalty to Sylvan. Instead, it stops functioning as Samuel's weapon. Each group must receive enough independently authenticated evidence to distinguish defense of its own people from obedience to Samuel's hidden command structure.
+
+Konrad now commits his own groups to Sylvan's separate exposure plan. He remains responsible for the hierarchy he led into Samuel's deal, while Sylvan remains an independent collaborator and the Resistance remains an independent source of discovery. Exact group-by-group disclosure order is unresolved.
+
+Source: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 
 ## The younger generation
 

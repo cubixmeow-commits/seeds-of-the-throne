@@ -1,9 +1,9 @@
 ---
 type: workshop-module
-status: open
+status: author-accepted-macro
 module: BA-09
 title: Konrad's final move
-gate: How does Konrad use his remaining influence when Samuel's account of Sylvan and the bloodlines collapses?
+gate: What irreversible action proves Konrad has committed his groups to Sylvan's separate exposure plan?
 prerequisites: BA-02, BA-07, BA-08
 ---
 
@@ -17,16 +17,16 @@ Convert Konrad's emergence from a century-long story environment into a conseque
 
 Konrad retains substantial influence among the contained criminal leaders. He is forced to confront Samuel's connected reproductive and genealogical campaign, the corruption of the False Victory, and the fact that Samuel kept him participating through a lie about Sylvan and the new Luminai.
 
-The new working reveal gives the confrontation an immediate operational question. The Resistance reconstructs evidence that the supposedly separate recovery remained exposed to Samuel's earlier priority. Sylvan needs Konrad to stop the compromised programs before Samuel causes further damage. The exact sacred initiative, damage, permissions, and shutdown authority remain unresolved.
+Konrad's direction is now locked. He rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel and reveal his betrayals to every affected group. Continuing the original deal would knowingly complete Samuel's takeover. Konrad remains responsible for his groups; Sylvan remains a separate independent entity. The exact first action, cost, permissions, and shutdown authority remain unresolved.
 
 Sources: [[02 Story/Characters/Konrad Fitzgerald]], [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions]].
 
 ## Four possibilities
 
 1. **Withdraw protection:** Konrad publicly revokes Samuel's legitimacy and prevents his followers from extending the final campaign.
-2. **Redirect the group:** Konrad accepts the imperial route is closed and forces the older leaders toward the remaining city-cooperation path.
-3. **Attempt one last hierarchy:** Konrad turns on Samuel but still tries to preserve his own supremacy, creating a partial truth and a final accountability problem.
-4. **Fragmented command:** Konrad issues a consequential order, but the century of contradiction splits his followers and reveals the limits of his influence.
+2. **Open the record:** Konrad releases the private authorization and command history needed to prove Samuel's takeover.
+3. **Release the groups:** Konrad orders the leaders he recruited to compare the evidence directly rather than accept another interpretation from him.
+4. **Protect disclosure:** Konrad uses his remaining influence to prevent retaliation while every affected group receives the evidence.
 
 ## Partitioned-knowledge test
 
@@ -41,7 +41,7 @@ His final move must respond to an operational reality, not merely an emotional h
 
 ## Central author gate
 
-What initiative is still operating when the evidence becomes undeniable, what exact action can Konrad take to stop or preserve it, whom does he protect or sacrifice, and how does that decision alter Samuel's isolation and the older group's future?
+What is Konrad's first irreversible action, what authority or protection does he surrender to take it, and which part of Samuel's control becomes impossible because of it?
 
 ## Scene test
 
@@ -49,4 +49,4 @@ Konrad's decision produces an observable change in people, resources, testimony,
 
 ## Adversarial test
 
-If Konrad instantly becomes morally clear, the century-long ideology loses weight. If he merely watches the evidence, his established influence has no payoff.
+If commitment becomes redemption, the century-long ideology loses weight. If Konrad merely agrees with Sylvan, his established influence has no payoff.

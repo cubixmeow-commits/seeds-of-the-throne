@@ -85,6 +85,11 @@ class WorkshopContractTests(unittest.TestCase):
         self.assertEqual(errors, [])
         self.assertEqual([record['id'] for record in records], list(workshop.REQUIRED_MODULE_IDS))
 
+    def test_live_endgame_workshop_matches_required_set(self):
+        modules, errors = workshop.load_endgame_workshop_modules()
+        self.assertEqual(errors, [])
+        self.assertEqual([module['id'] for module in modules], list(workshop.ENDGAME_REQUIRED_MODULE_IDS))
+
     def test_expected_count_is_fixed(self):
         self.assertEqual(workshop.expected_module_count(), 10)
         self.assertEqual(workshop.REQUIRED_MODULE_IDS, tuple(f'BA-{index:02d}' for index in range(1, 11)))
@@ -146,6 +151,13 @@ class WorkshopContractTests(unittest.TestCase):
         joined = '\n'.join(errors)
         self.assertTrue(errors)
         self.assertIn('BA-01 through BA-10', joined)
+
+    def test_generated_endgame_payload_requires_fixed_set(self):
+        payload = [{'id': f'EG-{index:02d}'} for index in range(1, 8)]
+        errors = workshop.validate_generated_endgame_modules(payload)
+        joined = '\n'.join(errors)
+        self.assertTrue(errors)
+        self.assertIn('EG-01 through EG-08', joined)
 
     def test_complete_temp_set_passes(self):
         with tempfile.TemporaryDirectory() as tmp:

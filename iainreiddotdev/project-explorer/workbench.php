@@ -2,10 +2,19 @@
 // Included by the existing read-only Explorer. All content originates in reviewed vault Markdown.
 $atlasPath = $repositoryRoot . '/docs/assets/story-atlas.json';
 $workshopPath = $repositoryRoot . '/docs/assets/story-workshop.json';
+$endgameWorkshopPath = $repositoryRoot . '/docs/assets/story-endgame-workshop.json';
 $atlasData = is_file($atlasPath) ? json_decode((string) file_get_contents($atlasPath), true) : [];
 $workshopData = is_file($workshopPath) ? json_decode((string) file_get_contents($workshopPath), true) : [];
+$endgameWorkshopData = is_file($endgameWorkshopPath) ? json_decode((string) file_get_contents($endgameWorkshopPath), true) : [];
 $atlasData = is_array($atlasData) ? $atlasData : [];
-$modules = is_array($workshopData) && isset($workshopData['modules']) && is_array($workshopData['modules']) ? $workshopData['modules'] : [];
+$bookOneModules = is_array($workshopData) && isset($workshopData['modules']) && is_array($workshopData['modules']) ? $workshopData['modules'] : [];
+$endgameModules = is_array($endgameWorkshopData) && isset($endgameWorkshopData['modules']) && is_array($endgameWorkshopData['modules']) ? $endgameWorkshopData['modules'] : [];
+$requestedWorkshop = isset($_GET['workshop']) && is_string($_GET['workshop']) ? $_GET['workshop'] : '';
+$requestedModule = isset($_GET['module']) && is_string($_GET['module']) ? $_GET['module'] : '';
+$selectedWorkshop = $requestedWorkshop === 'book-one' || ($requestedWorkshop === '' && str_starts_with($requestedModule, 'BA-'))
+    ? 'book-one'
+    : 'endgame';
+$modules = $selectedWorkshop === 'book-one' ? $bookOneModules : $endgameModules;
 
 $workbenchViews = [
     'overview' => [
@@ -25,8 +34,8 @@ $workbenchViews = [
     ],
     'workshop' => [
         'id' => 'workshop-view',
-        'title' => 'Build the missing path through Book One.',
-        'lede' => 'The ending is established. The current workshop now defines the exact contest, Samuel\'s lie, the birthday clock, the opening, the middle, the evidence order, and the final choices that make it work as a novel.',
+        'title' => 'Develop the endgame without losing the evidence trail.',
+        'lede' => 'The focused Endgame Workshop organizes the newest decisions about the hidden hierarchy, bloodline operation, Resistance evidence, Konrad\'s commitment, Samuel\'s final counterplan, and the outcome presentation. Book One Architecture remains available as a separate track.',
     ],
 ];
 
@@ -49,12 +58,12 @@ $activeMeta = $workbenchViews[$activeWorkbench];
   <?php if ($activeWorkbench === 'overview'): ?>
     <ol class="workspace-sequence">
       <li><h3>The author explains the story in ordinary language.</h3><p>The system records those ideas and separates confirmed decisions from suggestions and unanswered questions.</p><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-07 - Conversational Authorship Product Direction.md')) ?>">Read how the system is designed</a></li>
-      <li><h3>The current workshop builds Book One one consequential decision at a time.</h3><p>Each answer turns the established ending into a clearer objective, scene, relationship change, revelation, or causal transition.</p><a href="<?= e(explorer_view_url('workshop', ['module' => 'BA-01'], 'session')) ?>">Start the Book One workshop</a></li>
+      <li><h3>The new Endgame Workshop develops the final confrontation from the evidence outward.</h3><p>Eight focused modules separate locked decisions from the mechanisms, character choices, disclosure order, and final presentation that still need work.</p><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'endgame', 'module' => 'EG-01'], 'session')) ?>">Start the Endgame Workshop</a></li>
       <li><h3>Accepted answers are added where they belong.</h3><p>An accepted decision can update character notes, the timeline, world rules, plot events, and the list of remaining questions.</p><a href="<?= e(explorer_view_url('evidence')) ?>">Review decisions and supporting information</a></li>
       <li><h3>Use the completed plan to write and revise scenes.</h3><p>The planned system will create scene outlines, draft prose, check continuity, revise weak sections, and assemble the manuscript for the author's approval.</p><a href="<?= e(explorer_file_url('07 Coordination/Authoring System/03 - Workshop and Composition Engines.md')) ?>">Read the system plan</a></li>
     </ol>
     <p class="workspace-example">Seeds of the Throne is the working example. The notes, decisions, and workshop below are the live project, not a demonstration mockup.</p>
-    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-17 - Resistance and Revelation Reassessment.md')) ?>">See the latest assessment</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
+    <div class="workspace-actions"><a href="<?= e(explorer_file_url('07 QA/2026-09-19 - Endgame Workshop Assessment.md')) ?>">See the latest assessment</a><a href="<?= e(explorer_file_url('07 Coordination/CURRENT-PICKUP.md')) ?>">See where development continues</a><a href="../../docs/index.html">Enter the story</a></div>
   <?php elseif ($activeWorkbench === 'sources'): ?>
     <div class="workspace-grid">
     <?php foreach ($atlasData as $entry): ?>
@@ -66,6 +75,7 @@ $activeMeta = $workbenchViews[$activeWorkbench];
     <?php foreach ([
       '07 QA/2026-09-05 - Comprehensive Story Assessment.md' => ['What the story needs', 'The strongest ideas, the missing causes, and the decisions with the largest consequences.'],
       '07 QA/2026-09-17 - Resistance and Revelation Reassessment.md' => ['How the newest material changes Book One', 'The Resistance evidence chain, Converging Revelation method, continuity conflicts, and the workshop modules they affect.'],
+      '07 QA/2026-09-19 - Endgame Workshop Assessment.md' => ['How the endgame now fits together', 'The locked collaboration, hidden hierarchy, bloodline operation, evidence boundaries, and eight focused development modules.'],
       '07 QA/2026-09-05 - Review Coverage.md' => ['What was reviewed', 'What the analysis covered and what still needs a closer look.'],
       '04 Research/Findings/48 - Luminai Evidence Audit and Architecture Boundaries.md' => ['What science can support', 'Real human results, animal experiments, early prototypes, and the point where fiction begins.'],
       '04 Research/Findings/48 - Preliminary Brief Reference Status.md' => ['Where the research came from', 'Verified sources, preliminary leads, and anything that still needs confirmation.'],
@@ -76,14 +86,18 @@ $activeMeta = $workbenchViews[$activeWorkbench];
     <?php endforeach; ?>
     </div>
   <?php elseif ($activeWorkbench === 'workshop'): ?>
-    <details class="workspace-module-index"><summary>Choose from ten Book One architecture questions</summary><nav class="workspace-grid" aria-label="Decision modules">
+    <nav class="workspace-actions" aria-label="Workshop tracks">
+      <a<?= $selectedWorkshop === 'endgame' ? ' aria-current="page"' : '' ?> href="<?= e(explorer_view_url('workshop', ['workshop' => 'endgame', 'module' => 'EG-01'], 'session')) ?>">Endgame Workshop</a>
+      <a<?= $selectedWorkshop === 'book-one' ? ' aria-current="page"' : '' ?> href="<?= e(explorer_view_url('workshop', ['workshop' => 'book-one', 'module' => 'BA-01'], 'session')) ?>">Book One Architecture</a>
+    </nav>
+    <details class="workspace-module-index" open><summary>Choose from <?= e((string) count($modules)) ?> <?= $selectedWorkshop === 'endgame' ? 'Endgame' : 'Book One architecture' ?> questions</summary><nav class="workspace-grid" aria-label="Decision modules">
     <?php foreach ($modules as $module): ?>
-      <a href="<?= e(explorer_view_url('workshop', ['module' => $module['id']], 'session')) ?>"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
+      <a href="<?= e(explorer_view_url('workshop', ['workshop' => $selectedWorkshop, 'module' => $module['id']], 'session')) ?>"><strong><?= e($module['id'] . ' · ' . $module['title']) ?></strong><span><?= e($module['gate']) ?></span></a>
     <?php endforeach; ?>
     </nav></details>
-    <section id="session" class="workshop-session" data-workshop data-source="../../docs/assets/story-workshop.json?v=<?= e($assetVersion) ?>"><p role="status">Loading the selected workshop.</p></section>
+    <section id="session" class="workshop-session" data-workshop data-workshop-default="<?= e($selectedWorkshop) ?>" data-source-endgame="../../docs/assets/story-endgame-workshop.json?v=<?= e($assetVersion) ?>" data-source-book-one="../../docs/assets/story-workshop.json?v=<?= e($assetVersion) ?>"><p role="status">Loading the selected workshop.</p></section>
     <noscript><p>The workshop needs JavaScript. Every question is also available in the project vault below.</p></noscript>
-    <a href="<?= e(explorer_file_url('07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md')) ?>">See the current workshop and its source</a>
+    <a href="<?= e(explorer_file_url($selectedWorkshop === 'endgame' ? '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md' : '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md')) ?>">See this workshop and its source</a>
     <script src="../../docs/workshop.js?v=<?= e($assetVersion) ?>" defer></script>
   <?php endif; ?>
 </section>

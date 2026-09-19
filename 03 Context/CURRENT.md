@@ -1,8 +1,18 @@
 ---
 type: context
 status: active
-updated: 2026-09-17
+updated: 2026-09-19
 ---
+
+## Focused Endgame Workshop — 2026-09-19
+
+The [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|Endgame Workshop]] now holds the last several days of endgame development in a separate `EG-01` through `EG-08` track. It does not add an eleventh BA module or reopen the accepted RW ending.
+
+Konrad's final direction is now locked: he rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel Franklin and reveal his betrayals to every affected group. This is his only real option because continuing the deal would knowingly complete Samuel's takeover. Konrad remains above and responsible for his groups. Sylvan remains a separate independent entity. Their collaboration is specific rather than hierarchical.
+
+The focused workshop also develops the hidden contained-leader layer, the loyalty reversal, Samuel's bloodline operation and Samuel Jr., independent Resistance evidence, disclosure to every group, Samuel's bounded final counterplan, and the processing presentation. Evidence ownership, Samuel Jr.'s agency, the exact authorization mechanism, disclosure order, and presentation choreography remain unresolved.
+
+Sources: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]], [[07 QA/2026-09-19 - Endgame Workshop Assessment]].
 
 ## Resistance evidence and Converging Revelation — 2026-09-17
 

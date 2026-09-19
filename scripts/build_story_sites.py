@@ -5,14 +5,14 @@ import html, re, json, hashlib, shutil, sys
 from urllib.parse import quote, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from workshop_contract import ROOT, load_workshop_modules
+from workshop_contract import ROOT, load_workshop_modules, load_endgame_workshop_modules
 
 PUBLIC = ROOT / '05 Public/Atlas'
 DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260917-resistance-revelation'
+ASSET = '20260919-endgame-workshop'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -120,7 +120,7 @@ def pale_signal_masthead(title, deck):
   </div>
 </header>'''
 
-def homepage_editorial(body_html, count, total):
+def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
     surface_alt = IMAGE_ALT['surface-civilization-editorial-v1.webp']
     evidence_alt = IMAGE_ALT['recovered-records-evidence-v1.webp']
     return f'''<div class="home-sequence">
@@ -187,6 +187,15 @@ def homepage_editorial(body_html, count, total):
       <p class="hero-actions"><a class="button" href="colonization.html">Enter the story</a><a class="button secondary" href="https://iainreid.dev/devsite/iainreiddotdev/project-explorer/">Open Project Explorer</a></p>
     </div>
   </section>
+  <section class="editorial-band editorial-band--evidence" aria-labelledby="endgame-workshop-title">
+    <div class="editorial-band__copy reading">
+      <p class="eyebrow">New focused workshop</p>
+      <h2 id="endgame-workshop-title">Build the final confrontation from the evidence outward.</h2>
+      <p>The Endgame Workshop brings the newest story decisions into one place: the hidden leadership layer, the bloodline operation, the independent Resistance, Konrad's commitment to expose Samuel, and the final presentation.</p>
+      <p><strong>{endgame_count} of {endgame_total}</strong> endgame modules have an accepted macro direction. The remaining questions keep evidence ownership, character agency, and protected records visible.</p>
+      <p><a class="button" href="workshop.html?workshop=endgame&amp;module=EG-01#session">Open the Endgame Workshop</a></p>
+    </div>
+  </section>
   <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>{count} of {total}</strong> Book One architecture questions have accepted answers in the current development pass. The ending is established; this workshop is building the objective, opening, middle, character choices, and scene-ready sequence that lead to it.</p><progress max="{total}" value="{count}" aria-label="Book One architecture questions with accepted answers">{count} / {total}</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Join the current workshop</a></p></div></section>
 </div>'''
 
@@ -207,8 +216,9 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
 
 def main():
     modules, workshop_errors = load_workshop_modules()
-    if workshop_errors:
-        print('\n'.join(workshop_errors)); sys.exit(1)
+    endgame_modules, endgame_errors = load_endgame_workshop_modules()
+    if workshop_errors or endgame_errors:
+        print('\n'.join(workshop_errors + endgame_errors)); sys.exit(1)
     outputs={};entries=[]
     for path in sorted(PUBLIC.glob('*.md')):
         text=path.read_text();meta=metadata(text);slug=meta['route'];title=meta['title'];deck=meta['deck']
@@ -239,7 +249,8 @@ def main():
             match=re.search(r'\*\*Completed at this depth:\*\*\s*(\d+)\s*/\s*(\d+)',state)
             count,total=match.groups() if match else ('0','0')
             # Keep approved story sections; wrap with editorial bands and drop duplicate progress inject from old builder.
-            body=homepage_editorial(body, count, total)
+            accepted_endgame = sum(str(module.get('status', '')).startswith('author-accepted') for module in endgame_modules)
+            body=homepage_editorial(body, count, total, accepted_endgame, len(endgame_modules))
             hero_html=pale_signal_masthead(title, deck)
             image=None
         if slug=='faction':
@@ -251,11 +262,16 @@ def main():
     for module in modules:
         packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
         module['html']=packet_html
-    if modules:
-        cards=''.join(f'<a class="module-card" href="workshop.html?module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
-        body='<div class="atlas-body"><section class="reading"><h2>How the current workshop works</h2><p>These ten questions turn the established ending into a buildable Book One. Choose one topic to read the known constraints, alternatives, scene test, and author gate. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-source="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story question.</p></section><details class="spoiler"><summary>Choose from ten Book One architecture topics</summary><nav class="module-grid" aria-label="Workshop topics">'+cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
-        outputs[DOCS/'workshop.html']=shell('workshop','Build the path through Book One','The current workshop defines the contest, deception, countdown, opening, middle, character choices, evidence order, and scene-ready sequence that lead to the established ending.',body)
+    for module in endgame_modules:
+        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
+        module['html']=packet_html
+    if modules and endgame_modules:
+        book_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=book-one&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
+        endgame_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=endgame&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in endgame_modules)
+        body='<div class="atlas-body"><section class="reading"><h2>Choose the story problem you want to develop</h2><p>The new Endgame Workshop focuses on the hidden hierarchy, bloodline evidence, Konrad\'s commitment, group-level disclosure, Samuel\'s last counterplan, and the final presentation. The Book One Architecture Workshop remains available as a separate ten-question track.</p><nav class="workshop-track-switch" aria-label="Workshop tracks"><a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Endgame Workshop</a><a href="workshop.html?workshop=book-one&amp;module=BA-01#session">Book One Architecture</a></nav><p>Choose one topic to read the known constraints, alternatives, scene test, and author gate. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-workshop-default="endgame" data-source-endgame="assets/story-endgame-workshop.json?v='+ASSET+'" data-source-book-one="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story question.</p></section><details class="spoiler" open><summary>Choose from eight Endgame topics</summary><nav class="module-grid" aria-label="Endgame Workshop topics">'+endgame_cards+'</nav></details><details class="spoiler"><summary>Choose from ten Book One architecture topics</summary><nav class="module-grid" aria-label="Book One Architecture Workshop topics">'+book_cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete Endgame Workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in endgame_modules)+'</ul></details><details class="spoiler"><summary>Read the complete Book One Architecture notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
+        outputs[DOCS/'workshop.html']=shell('workshop','Develop the endgame','The focused Endgame Workshop turns the newest decisions about the hidden hierarchy, bloodline evidence, Konrad, Sylvan, and Samuel into a causal final movement.',body)
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
+        for m in endgame_modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
     # Preserve previously published workshop packets as historical source links.
     for path in sorted((ROOT/'07 Coordination/Story Completion Workflow/Workshop').glob('[0-9][0-9] - *.md')):
         outputs[DOCS/'assets/workshop'/f'{path.name[:2]}.md'] = path.read_text()
@@ -263,8 +279,10 @@ def main():
         ident = metadata(path.read_text()).get('module')
         if ident:
             outputs[DOCS/'assets/workshop'/f'{ident}.md'] = path.read_text()
-    data={'version':4,'built_from':'2026-09-17 Book One architecture workshop with Resistance and Converging Revelation addendum','modules':modules}
+    data={'version':5,'key':'book-one','title':'Book One Architecture Workshop','built_from':'2026-09-17 Book One architecture workshop with Resistance and Converging Revelation addendum','modules':modules}
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
+    endgame_data={'version':1,'key':'endgame','title':'Endgame Workshop','built_from':'2026-09-19 focused endgame workshop','modules':endgame_modules}
+    outputs[DOCS/'assets/story-endgame-workshop.json']=json.dumps(endgame_data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
     snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']
     for s in list(snapshots):
@@ -274,6 +292,6 @@ def main():
     for path,text in outputs.items(): path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
     manifest={str(p.relative_to(ROOT)):hashlib.sha256(t.encode()).hexdigest() for p,t in outputs.items()}
     (DOCS/'assets/story-build.json').write_text(json.dumps(manifest,indent=2)+'\n')
-    print(f'Built {len(entries)} atlas pages, {len(modules)} modules, {len(outputs)} projections.')
+    print(f'Built {len(entries)} atlas pages, {len(modules)} Book One modules, {len(endgame_modules)} Endgame modules, {len(outputs)} projections.')
 
 if __name__=='__main__': main()

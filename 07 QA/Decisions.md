@@ -1,8 +1,17 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-12
+updated: 2026-09-19
 ---
+
+## 2026-09-19 — Konrad commits to Sylvan's exposure plan
+
+- **Established:** Konrad rejects Samuel's plan and commits himself and his groups to exposing Samuel Franklin and revealing his betrayals to every affected group.
+- **Established consequence:** continuing the original deal would now make Konrad a knowing participant in Samuel's takeover of Konrad's own followers and allied groups. Cooperation is his only real remaining option, but it does not erase his responsibility.
+- **Established separation:** Konrad remains above and responsible for his own groups. Sylvan remains a separate independent entity. Their collaboration is specific to evidence, exposure, and removal of Samuel's control.
+- **Open implementation:** Konrad's first irreversible action, its cost, the authority he can revoke, and the exact group-by-group disclosure sequence.
+- **Workflow:** the focused [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|Endgame Workshop]] develops this decision and the connected hidden hierarchy, bloodline operation, Resistance evidence, counterplan, and outcome presentation without adding an eleventh BA module.
+- **Source:** [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 
 ## 2026-09-12 — Name and define Voice Key as authorial selection
 

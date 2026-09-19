@@ -171,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260918b-privacy-scroll';
+$assetVersion = '20260919-endgame-workshop';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -249,6 +249,9 @@ function explorer_format_bytes(?int $bytes): string
                     }
                     if ($key === 'workshop' && isset($_GET['module']) && is_string($_GET['module'])) {
                         $navParams['module'] = $_GET['module'];
+                    }
+                    if ($key === 'workshop' && isset($_GET['workshop']) && is_string($_GET['workshop'])) {
+                        $navParams['workshop'] = $_GET['workshop'];
                     }
                     $navHref = explorer_view_url($key, $navParams);
                     $isCurrent = $key === $view;

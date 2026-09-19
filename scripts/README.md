@@ -2,7 +2,7 @@
 
 The public atlas sources are reviewed Markdown in `05 Public/Atlas/`. Canon remains in `02 Story/`; each public page links the notes from which its copy was selected. Canonical changes still require editorial review before changing public copy. The builder prevents drift between a reviewed source and its generated views; it does not decide canon.
 
-The active workshop source of truth is `07 Coordination/Story Completion Workflow/Book One Architecture Workshop/`. The builder and checker share `scripts/workshop_contract.py`, which requires the unique sequential set BA-01 through BA-10. Prerequisite values must be `none`, the named accepted-ending label, a required module ID, a comma-separated list of IDs, or a supported ID range. Unknown or malformed values fail. The completed reassessment and retired twenty-module workshop remain historical and are not the active validation contract.
+The site exposes two validated workshop tracks. `07 Coordination/Story Completion Workflow/Book One Architecture Workshop/` remains the fixed BA-01 through BA-10 set. `07 Coordination/Story Completion Workflow/Endgame Workshop/` is the focused EG-01 through EG-08 set. The builder and checker share `scripts/workshop_contract.py`; inventory is never inferred from whichever files happen to be present. Prerequisite values must be `none`, the named accepted-ending label, a required module ID, a comma-separated list of IDs, or a supported ID range. Unknown or malformed values fail. The completed reassessment and retired twenty-module workshop remain historical.
 
 Run from the repository root:
 
@@ -15,7 +15,7 @@ git diff --check
 
 Python's standard library is sufficient. Commit generated output with the sources so both GitHub Pages and shared PHP hosting need no build service or package manager. Do not hand-edit generated pages, JSON, workflow snapshots, or workshop downloads.
 
-The builder creates eight atlas pages, the workshop page, shared JSON for the Explorer, Markdown downloads, and local snapshots of existing workflow pointers and their targets. `docs/todo.html`, `ideas.html`, and `visuals.html` retain their original interactions; their scripts now read the bundled workflow snapshot. Changes to pointer targets need a rebuild.
+The builder creates eight atlas pages, the dual-track workshop page, shared JSON for the Explorer, Markdown downloads, and local snapshots of existing workflow pointers and their targets. `docs/todo.html`, `ideas.html`, and `visuals.html` retain their original interactions; their scripts now read the bundled workflow snapshot. Changes to pointer targets need a rebuild.
 
 The Explorer keeps the existing PHP Markdown browser, search, request allowlist, and portfolio styling. Its new workbench reads the same generated JSON as the atlas. Both must be deployed from the same repository revision.
 

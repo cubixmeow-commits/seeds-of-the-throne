@@ -25,6 +25,9 @@
 .spoiler > .reading { border: 0; padding-top: .4rem; }
 .spoiler > ul { padding: 1rem 1.8rem 1.4rem; }
 .module-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .75rem; padding: 1rem 0; }
+.workshop-track-switch { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1rem 0; }
+.workshop-track-switch a { display: inline-flex; align-items: center; min-height: 2.75rem; padding: .55rem .85rem; border: 1px solid var(--line); text-decoration: none; }
+.workshop-track-switch a[aria-current="page"] { border-color: var(--system); background: color-mix(in srgb, var(--system) 10%, transparent); color: var(--ink); }
 .module-card { display: grid; gap: .4rem; min-height: 7.5rem; padding: 1rem 0; border: 0; border-block-start: 1px solid var(--line); background: transparent; text-decoration: none; }
 .module-card:hover { color: var(--ink); }
 .module-card span { color: var(--system); font: 700 .75rem var(--mono); }
@@ -329,6 +332,7 @@
 }
 @media (max-width: 28.75rem) {
   .module-grid, .portrait-strip { grid-template-columns: 1fr; }
+  .workshop-track-switch { display: grid; }
   .workshop-toolbar > * { width: 100%; }
   .reading ul, .reading ol, .workshop-session ul, .workshop-session ol { padding-left: 1.2rem; }
 }

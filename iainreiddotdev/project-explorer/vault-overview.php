@@ -52,6 +52,8 @@ $vaultLinks = [
     ['See the current resume point', '07 Coordination/CURRENT-PICKUP.md'],
     ['Read accepted decisions', '07 QA/Decisions.md'],
     ['See unresolved conflicts', '07 QA/Contradictions.md'],
+    ['Open the focused Endgame Workshop', '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md'],
+    ['Read the Endgame Workshop assessment', '07 QA/2026-09-19 - Endgame Workshop Assessment.md'],
     ['Open the current Book One workshop', '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md'],
     ['Read the Book One buildability assessment', '07 QA/2026-09-11 - Book One Buildability Assessment.md'],
     ['Read the Resistance and revelation addendum', '07 QA/2026-09-17 - Resistance and Revelation Reassessment.md'],

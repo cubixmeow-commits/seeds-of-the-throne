@@ -1,0 +1,39 @@
+---
+type: workshop-module
+status: open
+module: EG-07
+title: Samuel's final counterplan
+gate: What can Samuel still attempt after Konrad defects, and why does that attempt complete the case against him?
+prerequisites: EG-05, EG-06
+---
+
+# EG-07: Samuel's final counterplan
+
+## Purpose
+
+Give Samuel a dangerous final strategy that grows from his remaining people, money, access, and obsessions without granting him authority over the governing process.
+
+## Established
+
+Samuel cannot control participant identity, mature bond status, terminal balance, processing, Daemon deletion, or the governing evidence record. He can still manipulate people, local systems, interfaces, and interpretations. His final move is not literal theft of Sylvan's Luminai. He tries to blame George for the criminal system, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized bargain built from the concealed-access method used against Konrad. After formal separation, Samuel receives fifteen million dollars for an independent plan and exhausts it within days through escalating attempts to manufacture an apocalyptic culmination and prove his divinity.
+
+Sources: [[07 Coordination/Story Completion Workflow/Reassessment Workshop/02 - Samuel rapid resource burn]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/07 - George and Konrad functions]], [[02 Story/Characters/Samuel Franklin]].
+
+## Four possibilities
+
+1. **Bargain-centered sequence:** Samuel uses stolen context to tailor a voluntary deal that would reproduce the authority transfer used against Konrad.
+2. **Scapegoat-centered sequence:** he transfers visible responsibility to George while privately issuing the interventions that preserve the campaign.
+3. **Continuity-centered sequence:** he treats Samuel Jr. and the remaining network as proof that his authority can survive exposure.
+4. **Divinity-collapse sequence:** he promises one observable triumph and spends the terminal allocation escalating after each failed sign.
+
+## Central author gate
+
+What exactly does Samuel offer Sylvan, what consent or activation would reproduce the concealed transfer used against Konrad, what does he expect George and Samuel Jr. to preserve, and which intervention proves Samuel still commands the operation?
+
+## Scene test
+
+The counterplan produces immediate danger and a visible spending or access consequence, but cannot change the already completed Sylvan–Luminai result.
+
+## Adversarial test
+
+If Samuel can seize the overall process, earlier limits are false. If he can do nothing consequential, rapid exhaustion becomes bookkeeping instead of climax.

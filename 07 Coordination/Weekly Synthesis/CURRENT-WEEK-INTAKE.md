@@ -6,7 +6,7 @@ cycle_start: 2026-08-23
 cycle_end: 2026-08-27
 synthesis_due: 2026-08-27 Thursday night
 timezone: America/Los_Angeles
-updated: 2026-09-06
+updated: 2026-09-19
 ---
 
 # Current Week Intake
@@ -46,6 +46,13 @@ The weekly synthesis must also inventory files changed since its prior cutoff. T
 Do not propose execution wording here. The weekly synthesis decides whether a signal is already covered, changes an existing task, becomes a new task, remains open with a revisit trigger, or requires no TODO change.
 
 ## Signals awaiting the next synthesis
+
+### 2026-09-19 — Focused Endgame Workshop and Konrad commitment
+
+- **Source:** [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]]
+- **Type:** decision / dependency / structural-development / public-development
+- **Possible relationship:** BA-02, BA-07, BA-09, BA-10, accepted RW ending
+- **Signal:** Konrad now rejects Samuel's plan and commits his own groups to Sylvan's separate exposure effort; the new EG-01 through EG-08 focused workshop develops the hidden hierarchy, loyalty reversal, bloodline archive and Samuel Jr., evidence ownership, disclosure sequence, bounded counterplan, and processing presentation without becoming an eleventh BA module.
 
 ### 2026-09-07 — Encoded patterns and manufactured historical evidence
 
