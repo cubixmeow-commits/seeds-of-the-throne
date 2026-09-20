@@ -323,7 +323,7 @@ function explorer_format_bytes(?int $bytes): string
             </header>
             <div class="endgame-feature__grid">
                 <figure>
-                    <img src="../../docs/assets/images/samuel-control-method-diagram-v1.webp" alt="Diagram showing Samuel Franklin capturing the interpretive channel above Konrad, Aiden, other leaders, and their groups." width="1122" height="1402" loading="lazy">
+                    <img src="../../docs/assets/images/samuel-two-paths-choice-diagram-v1.webp" alt="Horizontal decision diagram showing Samuel Franklin choosing between continuing to terrorize the contained leaders or continuing to terrorize Sylvan, with both paths ending in defeat." width="1672" height="941" loading="lazy">
                     <figcaption><strong>Control structure.</strong> The leaders believe they lead while Samuel chooses the mission and enemy.</figcaption>
                 </figure>
                 <figure>

@@ -32,7 +32,7 @@ The reveal does not prove or disprove the religion or prophecy. It proves that S
 
 These diagrams are author-approved explanations of the endgame mechanism. Their icons, architecture, exact arrows, and interface styling are interpretive rather than literal story canon.
 
-![How Samuel Franklin took control](../../docs/assets/images/samuel-control-method-diagram-v1.webp)
+![Samuel Franklin's two paths at the brink](../../docs/assets/images/samuel-two-paths-choice-diagram-v1.webp)
 
 ![How Samuel uses the altered reality and existing prophecy to direct the attack on Sylvan](../../docs/assets/images/altered-reality-prophecy-target-diagram-v1.webp)
 

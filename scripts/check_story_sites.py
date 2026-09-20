@@ -127,7 +127,7 @@ curated_markers = {
     ],
     'docs/faction.html': ['The records begin to connect'],
     'docs/archive.html': ['focused September 17 reassessment'],
-    'docs/index.html': ['Open the Endgame Workshop', 'samuel-control-method-diagram-v1.webp', 'altered-reality-prophecy-target-diagram-v1.webp'],
+    'docs/index.html': ['Open the Endgame Workshop', 'samuel-two-paths-choice-diagram-v1.webp', 'altered-reality-prophecy-target-diagram-v1.webp'],
     'docs/workshop.html': ['Choose from 12 Endgame topics'],
     '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md': [
         'This focused workshop develops the final confrontation',
@@ -139,6 +139,7 @@ curated_markers = {
     ],
     'iainreiddotdev/project-explorer/index.php': [
         '2026-09-19 - Existing Prophecy Endgame Expansion.md',
+        'samuel-two-paths-choice-diagram-v1.webp',
         'altered-reality-prophecy-target-diagram-v1.webp',
     ],
     'iainreiddotdev/analytics/collect.php': [

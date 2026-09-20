@@ -740,19 +740,19 @@
       "created": "2026-09-19",
       "generator": "OpenAI GPT Image",
       "source_prompts": [
-        "prompts/endgame-samuel-control-method-diagram-v1.md",
+        "prompts/endgame-samuel-two-paths-choice-diagram-v1.md",
         "prompts/endgame-altered-reality-prophecy-target-diagram-v1.md"
       ],
       "frames": [
         {
           "order": 1,
-          "title": "How Samuel Franklin took control",
-          "source_path": "assets/approved-images/endgame-diagrams/samuel-control-method-diagram-v1.png",
-          "public_path": "docs/assets/images/samuel-control-method-diagram-v1.webp",
-          "dimensions": "1122x1402",
-          "source_sha256": "2974a93b29d96973f145c0b7414621cd5d8db96cac65207c86081024e1cdbd00",
-          "public_sha256": "4f52dffb05f0982eeab2e3470a2df688c4e71351a60f1f11625a06b5c41c0821",
-          "use": "explains the captured interpretive channel connecting Samuel to Konrad, Aiden, other leaders, and their groups",
+          "title": "Samuel Franklin at the brink: two paths",
+          "source_path": "assets/approved-images/endgame-diagrams/samuel-two-paths-choice-diagram-v1.png",
+          "public_path": "docs/assets/images/samuel-two-paths-choice-diagram-v1.webp",
+          "dimensions": "1672x941",
+          "source_sha256": "25038ba5c14875c08edd6c8d6b11350633dfcc76a28fb577ec3746fa1081d599",
+          "public_sha256": "6b82c53ecbab8fc17714618e9206fb35ac1b309c4604ffd95c1a21e0b4b29394",
+          "use": "shows Samuel's two mutually exclusive paths forward—continuing to terrorize the contained leaders or continuing to terrorize Sylvan—and the defeat at the end of either obsession",
           "approval": "author approved"
         },
         {

@@ -23,7 +23,7 @@ IMAGE_ALT = {
     'disclosure-poster.jpg': 'Approved disclosure poster from the story world.',
     'planetary-cutaway-hero-desktop-v1.webp': 'Symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
     'planetary-cutaway-hero-mobile-v1.webp': 'Portrait symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
-    'samuel-control-method-diagram-v1.webp': 'Diagram showing Samuel Franklin capturing the interpretive channel above Konrad Fitzgerald, Aiden Fitzgerald, other leaders, and their groups.',
+    'samuel-two-paths-choice-diagram-v1.webp': 'Horizontal decision diagram showing Samuel Franklin choosing between continuing to terrorize the contained leaders or continuing to terrorize Sylvan, with both paths ending in defeat.',
     'altered-reality-prophecy-target-diagram-v1.webp': 'Diagram showing Samuel outside an altered reality telling Konrad, Aiden, and other leaders that Sylvan is the enemy described by an existing religious prophecy.',
     'surface-civilization-editorial-v1.webp': 'Interpretive editorial view of a lived-in coastal civilization on the colonization planet.',
     'recovered-records-evidence-v1.webp': 'Interpretive still life of recovered records aligned against hidden-system evidence.',
@@ -208,8 +208,8 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
     </div>
     <div class="endgame-diagrams__grid">
       <figure>
-        <img src="assets/images/samuel-control-method-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['samuel-control-method-diagram-v1.webp'])}" width="1122" height="1402" loading="lazy">
-        <figcaption><strong>How Samuel took control.</strong> He captures interpretation, promised reward, and enemy designation while the leaders continue to believe they lead.</figcaption>
+        <img src="assets/images/samuel-two-paths-choice-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['samuel-two-paths-choice-diagram-v1.webp'])}" width="1672" height="941" loading="lazy">
+        <figcaption><strong>Samuel at the brink.</strong> He cannot pursue both groups: either choice extends the same obsession and ends in defeat.</figcaption>
       </figure>
       <figure>
         <img src="assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['altered-reality-prophecy-target-diagram-v1.webp'])}" width="1087" height="1447" loading="lazy">
