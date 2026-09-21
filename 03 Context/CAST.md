@@ -1,7 +1,7 @@
 ---
 type: context
 status: working
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 # Cast
@@ -22,7 +22,7 @@ The tested first-person narrator follows a recurrence clue into questions about 
 
 ## Samuel Franklin
 
-Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a highly intelligent failed privileged heir and master manipulator. He remains physically contained on a previous colonization planet. In Book One he claims control of Sylvan through George's direct participation on the newer planet. As exposure closes, he tries to blame George for everything, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized false bargain. The process ends his strategy by reaching a conclusion with no further deals or moves.
+Approximately 220 years old at the Sylvan showdown, though visually appearing in his late sixties to early seventies. Samuel is a highly intelligent failed privileged heir and master manipulator. He remains physically contained on a previous colonization planet. In Book One he claims control of Sylvan through George's direct participation on Planet Three. As exposure closes, he tries to place operational blame on George, use Samuel Jr.'s presentation to transfer authorship toward Konrad's family, and induce Sylvan to accept a customized false bargain. His wider ambition is to capture every Planet Three empire structure while mistaking local access for control of the governing process. The process ends his strategy by reaching a conclusion with no further deals or moves.
 
 ## Konrad Fitzgerald
 
@@ -52,8 +52,8 @@ Sylvan's intended partner and an emerging colonization leader, one of the two gr
 
 ## Orzai's older brother
 
-The son in Orzai's branch of the founder family and approximately a decade older than Sylvan. He is placed for development and training inside a consequential company similar in institutional importance and capability to the government-integrated decision-systems company associated with Samuel's replacement heir. He provides a legitimate-heir counterpart whose name, exact authority, constraints, company mandate, and relationship to Samuel Jr. remain unresolved.
+The son in Orzai's branch of the founder family and approximately a decade older than Sylvan. He is placed for development and training inside a consequential company similar in institutional importance and capability to the government-integrated decision-systems company associated with Samuel Jr. He provides a legitimate-heir counterpart whose name, exact authority, constraints, company mandate, and relationship to Samuel Jr. remain unresolved.
 
 ## Samuel Jr. / the other son
 
-Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister. `Samuel Jr.` is provisional. He is Samuel's preferred respectable replacement heir and leads a fictional government-integrated intelligence and decision-systems company operating across defense, intelligence, public safety, infrastructure, logistics, and colonization administration. The company's identity resolution, relationship mapping, behavioral inference, and synthetic/human reconciliation capabilities may expose the hidden genealogy Samuel needs concealed. Samuel Jr. remains a person rather than merely evidence or a contingency.
+Secretly created through Samuel's abuse of the breeding program involving Konrad Fitzgerald's sister. `Samuel Jr.` is provisional. Other people may understand him as Samuel's respectable replacement heir, but Samuel's controlling endgame purpose is different: his existence, preparation, institutional position, and required presentation are meant to authenticate a story that transfers authorship of the bloodline destruction toward Konrad, Jim, and Konrad's sister. He leads a fictional government-integrated intelligence and decision-systems company whose identity-resolution and relationship-mapping tools may expose the concealed genealogy and Samuel's prepared account. Near the end he recognizes that Samuel would never share power with an independent heir and turns toward Sylvan for help. His permanent identity, prior culpability, exact evidence, appeal, protection terms, and presentation choice remain open.

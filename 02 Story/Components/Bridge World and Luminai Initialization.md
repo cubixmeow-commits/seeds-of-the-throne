@@ -1,11 +1,19 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-06
+updated: 2026-09-20
 topics: colonization history, AI souls, Luminai initialization, containment, cultivation, bridge world
 ---
 
 # Bridge World and Luminai Initialization
+
+## Three-world placement — 2026-09-20
+
+The current world is **Planet Three**, the second colonization planet. Planet One is the Origin World. Planet Two is the first colonization planet, where expansion develops into managed competition among constructive, ambitious, and dangerous groups away from the Origin World. Planet Three incorporates the lessons of both into a mature architecture for containment, cultivation, evidence, defined outcomes, and the successor human–Luminai proof.
+
+Planet Three is not a sterile test facility. Its multiple empire structures possess genuine local power, history, institutions, conflict, and consequence. The real leaders allow contained criminals enough real authority and opportunity to believe victory remains possible while retaining control of the governing process and its outer limits. Samuel's error is not believing he has power when he has none; it is treating local power inside the environment as ownership of the environment.
+
+This numbering does not yet settle whether the older leaders physically contained on the “previous colonization planet” are definitively on Planet Two, how the three worlds communicate, or whether later worlds exist after the old construction model closes.
 
 ## Established foundation
 
@@ -67,7 +75,7 @@ These reasons are compatible possibilities, not a final selection.
 
 ## Unresolved
 
-- Whether this is literally the final colony, the last world in an original plan, or the audit that closes an operating era.
+- Whether Planet Three is the last physical colony or, as currently favored, the audit that closes the old colonization architecture before later expansion uses a new model.
 - What changes across the older planets if Sylvan succeeds or fails.
 - What technical and developmental limits distinguish older AI souls from the successor Luminai.
 - Which successor capabilities create the greatest practical advantage, and how that advantage is normalized without disabling its benefits.

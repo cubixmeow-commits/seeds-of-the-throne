@@ -1,7 +1,7 @@
 ---
 type: workshop-index
 status: active-focused
-updated: 2026-09-19
+updated: 2026-09-20
 assessment: 07 QA/2026-09-19 - Endgame Workshop Assessment.md
 ---
 
@@ -13,7 +13,7 @@ The endgame now includes a locked causal bridge: Samuel uses story functionality
 
 Religious inspiration must remain respectful and structurally transformed. No modern or historical religion, sacred person, institution, holy order, scripture, symbol, event, or doctrine becomes a one-to-one fictional faction. The reveal proves Samuel's fraud, not the falsity of faith.
 
-This is a separate `EG-01` through `EG-12` track. It does not extend the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation.
+This is a separate `EG-01` through `EG-12` track. It does not extend the Book One Architecture Workshop and does not reopen the accepted `RW-01` through `RW-10` ending foundation. The [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop|Reveal Chain Mechanics Workshop]] adds one cross-module author-gate layer without changing the fixed EG module set.
 
 # Priority 1: Establish the endgame board
 
@@ -42,6 +42,10 @@ This is a separate `EG-01` through `EG-12` track. It does not extend the Book On
 - [ ] **EG-11: Preserve leader agency in the attack.** Give Konrad, Aiden, and other leaders distinct knowledge, choices, off-ramps, and consequences.
 - [ ] **EG-12: Break the altered reality.** Design the proof and first group action that separate faith from Samuel's target assignment.
 
+# Additional layer: Make the reveal chain executable
+
+- [ ] **Reveal Chain Mechanics Workshop.** Answer the author gates for world chronology, empire structure, Samuel Jr.'s non-heir function, Konrad's disclosure, evidence custody, presentation authority, and the action-and-counteraction chain.
+
 # Completion gate
 
 - [ ] Every active force has an independent objective, decision, and consequence.
@@ -53,6 +57,7 @@ This is a separate `EG-01` through `EG-12` track. It does not extend the Book On
 - [ ] Public proof, protected evidence, and private descendant records remain distinct.
 - [ ] The final movement causes Sylvan and Orzai's future instead of leaving Samuel as the organizing center of the ending.
 - [ ] The story clearly states that the prophecy predates Samuel and that exposure proves his fraudulent application, not the truth or falsity of the prophecy.
+- [ ] Every reveal causes an observable action, every counteraction exposes new evidence, and no governing record replaces the major characters' choices.
 
 # Sources
 
@@ -63,4 +68,6 @@ This is a separate `EG-01` through `EG-12` track. It does not extend the Book On
 - [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]]
 - [[02 Story/Groups/The Resistance]]
 - [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]
+- [[01 Sessions/Daily/2026-09-20 - Three-World Endgame Reveal Chain Integration]]
+- [[07 QA/2026-09-20 - Three-World and Reveal-Chain Canon Audit]]
 - [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]]

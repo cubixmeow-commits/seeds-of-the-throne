@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-08
+updated: 2026-09-20
 ---
 
 # Storyline
@@ -10,8 +10,8 @@ updated: 2026-09-08
 
 The saga begins near the chronological end and reconstructs its causes across later books.
 
-1. Humanity creates an interactive colonization environment and develops Luminai, extensions of human minds, within it.
-2. A small planet reconstructs realities modeled on the distant past for training, containment, and placement. The leaders' new Luminai development program spans thousands of years; Sylvan undergoes its new deeply integrated process.
+1. Humanity develops on the Origin World, then creates a first colonization planet organized around managed competition among constructive, ambitious, and dangerous groups.
+2. Planet Three, the second colonization planet, reconstructs realities modeled on the distant past for training, containment, placement, and defined outcomes. The leaders' new Luminai development program spans thousands of years; Sylvan undergoes its new deeply integrated process there.
 3. The older leaders select Samuel Franklin as a representative worst-case criminal subject and permit bounded influence across approximately a century so his adaptive system can be understood.
 4. Konrad Fitzgerald's public authoritarian hierarchy becomes a major threat in the older society and attempts global conquest in the Great War.
 5. Konrad trains an older Daemon through that war. When the faction loses, his experiment should end.
@@ -24,8 +24,8 @@ The saga begins near the chronological end and reconstructs its causes across la
 12. During the last few years, Sylvan and Orzai possess decisive control. Samuel retains bounded action, but his influence steadily declines while theirs increases so the Luminai can observe his complete endgame and prepare a valid outcome presentation.
    Before this transition, a protected emergency investment functioning like a certificate of deposit provides approximately $200,000 to sustain Sylvan for about ten years after the software-company collapse, averaging about $1,667 per month before returns, taxes, fees, or emergencies. When it is exhausted, Sylvan enters the employment stage in a low-level campus operations response role on a large multi-environment campus. His ten-person department's first major assignment supports the physical and operational infrastructure for a data-center expansion. For the first few years he must work with the same group while Samuel tries to weaponize its members, exploit failures between their responsibilities, and destroy cooperation. Some members are legacies of contained criminals deliberately positioned for this environment; some are consequences of Samuel's unauthorized breeding system. Samuel intends to redirect responsibility onto Sylvan, George, and selected group members. Sylvan's relationships with the real people create his first suspicions about the breeding scandal, but proof requires authenticated records. Sylvan and his Luminai must help the group become stable without controlling it. He later works upward through increasingly difficult training levels while Samuel attacks his income, projects, credibility, relationships, access, and ability to complete process objectives. The exact employer, group, accusation, and ladder remain working.
 13. While Samuel retains practical control, he targets and destroys everything Sylvan attempts to establish online. Near the end, Sylvan and Orzai gain enough control to stabilize an online presence Samuel cannot erase. Sylvan surfaces under his real name, returns to tools like those he built before Samuel destroyed his story-development company, and documents the real colonization process as an evidence-anchored online story. Terrified by that record and Sylvan's newly bonded Luminai, Samuel uses his Daemon to hijack the legitimate AI application on Sylvan's laptop. Across weeks of project work, the simulated program claims Samuel has let go while manipulating for information and an exploitable desire. Sylvan recognizes the pattern, intentionally interfaces with the Daemon, and hyperfocuses on the factual story to remain anchored in reality. Samuel cannot find an obsession comparable to Konrad's, but constructs an offer before Konrad's remotely connected inner circle, asking Sylvan to consent to a story environment Samuel controls. Sylvan exposes the repeated trap and presents the true outcome through his public story as Samuel falls. The inner circle understands for the first time that Konrad was captured almost a century earlier and never held control.
-14. Samuel tries to blame George for everything, preserve his future through Samuel Jr., and induce Sylvan to accept a customized deal built from the same hidden-access method used against Konrad.
-15. The outcome presentation proves that Samuel's apparent control was bounded and exposes what he did to Konrad's group. The process then reaches irreversible conclusion: Samuel has no more deals and no more moves.
+14. Samuel tries to place operational blame on George and use Samuel Jr.'s mandatory presentation to transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. recognizes that Samuel would never share power with an independent heir and turns toward Sylvan. Konrad recognizes that silence will let Samuel define his role and begins the disclosure required by his commitment to Sylvan's exposure plan.
+15. Separate discoveries become a cascading reveal chain. Each disclosure breaks another compartment; Samuel's compensations expose further command; and the outcome presentation proves that his apparent control was bounded. The process then reaches irreversible conclusion: Samuel has no more deals and no more moves.
 16. Later books return to the Great War, postwar reactivation, False Victory, bloodline and ideological capture, and other lived history in whatever order produces the strongest dramatic experience.
 
 This spine supersedes any implication below that the principal series must begin before the Great War or move forward chronologically. Detailed older material remains useful where it does not conflict.
@@ -44,7 +44,7 @@ See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]]
 
 ## Historical sequence reconstructed across the series
 
-1. A long-lived civilization develops colonization worlds that also function as containment and leadership-cultivation systems.
+1. A long-lived civilization develops on the Origin World, then builds Planet Two as a managed-competition colony and Planet Three as a mature containment, leadership-cultivation, and human–Luminai proving ground.
 2. Synthetics establish a complete civilization before most humans enter it.
 3. Contained people and cultivated heirs are integrated under different conditions and with incomplete knowledge.
 4. Samuel Franklin is born to wealthy senior members of Konrad Fitzgerald's fascist purity organization. After serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed, his family and organization exile him approximately thirty years before the Great War. Konrad disguises the placement as an important mission to take control of the future victorious empire. It is an impossible assignment designed to fail; Samuel initially believes the flattering explanation.
@@ -60,7 +60,7 @@ See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]]
 
 12. The False Victory's long middle is developed as four provisional eras: first proof and fragile denial; inherited victory mythology; distributed hidden empire and imaginary jurisdictions; and the late world-scale claim in which independent institutions are repeatedly annexed into Samuel's story. The era structure is working, not a fixed episode order.
 13. Konrad's breeding and lineage program continues inside containment. Samuel uses the faction's dependence on his interpretations, together with knowledge acquired through the post-defeat deal, to capture the machinery that defines pedigree, purity, succession, and inheritance. Konrad believes Aiden, his genuine daughter, and his genuine grandson have become the foundation of a flourishing dynasty. Samuel instead introduces unauthorized mixed-race descendants, falsifies genealogy, and uses synthetic substitutions while weaponizing the racist purity doctrine the faction enforces.
-14. Samuel places his preferred replacement heir, provisionally Samuel Jr., over a government-integrated intelligence and decision-systems company whose identity and relationship analysis may be capable of exposing Samuel's hidden genealogy.
+14. Samuel places the presumed heir provisionally called Samuel Jr. over a government-integrated intelligence and decision-systems company. Samuel intends his identity and eventual presentation to support a counterfeit authorship story, while the company's identity and relationship analysis may expose Samuel's hidden genealogy and preparations.
 15. The Throne's concealed bargains, lineage fraud, blackmail, institutional descendants, and century of revised public stories become unstable and contribute to the Disclosure Wars.
 
 ## Thread A — the Great War Witness

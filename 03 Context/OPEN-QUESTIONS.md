@@ -1,7 +1,7 @@
 ---
 type: context
 status: active
-updated: 2026-09-19
+updated: 2026-09-20
 ---
 
 ## Altered-reality repetition trap — 2026-09-19
@@ -34,6 +34,12 @@ The previous 27-task sequence is retired. Its unanswered tasks are not the curre
 RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Its unresolved implementation work is now routed through the active Book One architecture workshop above.
 
 # Open Questions
+
+## Three-world and reveal-chain mechanics — 2026-09-20
+
+The complete targeted author-gate layer is [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]. It covers causal, timeline, presentation, succession, empire, disclosure, evidence, and character-motivation mechanics. Do not infer answers from the structural direction.
+
+Immediate gates: confirm whether the older containment world is Planet Two; define what counts as a Planet Three empire; define who must present and under whose authority; identify what Samuel Jr. alone can contribute; distinguish Konrad's authorization from Samuel's concealed conduct; and order Samuel Jr.'s turn, Konrad's disclosure, Samuel's compensations, and the evidence consequences.
 
 ## Counterfeit sacred authority — 2026-09-19
 

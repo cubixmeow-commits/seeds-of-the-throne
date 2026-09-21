@@ -25,7 +25,7 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[0
 
 ## September 5 integration boundary
 
-**Superseded:** Samuel's final move is not literal theft of Sylvan's Luminai. **Established:** he tries to blame George for the entire criminal system, preserve continuity through Samuel Jr., and induce Sylvan to accept a customized bargain built from the concealed-access method used against Konrad. The final years occur under Sylvan and Orzai's decisive control; Samuel's influence declines as theirs grows. Exact allowed actions and protection from further harm still need definition.
+**Superseded:** Samuel's final move is not literal theft of Sylvan's Luminai. **Established:** he tries to place operational blame on George, use Samuel Jr. as a constructed witness who transfers authorship of the bloodline campaign toward Konrad's family, and induce Sylvan to accept a customized bargain built from the concealed-access method used against Konrad. The final years occur under Sylvan and Orzai's decisive control; Samuel's influence declines as theirs grows. Exact allowed actions and protection from further harm still need definition.
 
 **Established physical boundary:** Samuel, Konrad, and the older contained criminals from their era remain physically contained on a previous colonization planet. Samuel cannot directly enter Sylvan's newer planet. George can participate there and becomes Samuel's operational bridge.
 

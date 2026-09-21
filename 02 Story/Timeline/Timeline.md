@@ -1,7 +1,7 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-09
+updated: 2026-09-20
 ---
 
 ## Author-accepted terminal sequence - 2026-09-09
@@ -31,8 +31,8 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 
 ## Controlling causal order — 2026-09-03
 
-1. The leaders develop an interactive colonization environment and create Luminai mind extensions within it. The new development program spans thousands of years; exact stages remain unresolved.
-2. The current planet becomes the final, consolidating, or auditing world of that operating era and the first real-world initialization environment for a new Luminai generation.
+1. Humanity develops on Planet One, the Origin World, then builds Planet Two as the first colonization planet and managed-conflict predecessor. The leaders develop interactive colonization environments and AI-soul systems across this history.
+2. Planet Three, the second colonization planet and Sylvan's current world, becomes the consolidating or auditing world of that operating era and the first real-world initialization environment for the successor Luminai generation.
 3. Samuel is prosecuted into containment and selected as a representative worst-case adversarial subject. His bounded influence develops across approximately a century.
 4. Konrad's authoritarian purity faction destabilizes the older society, builds a conquest state, and trains Konrad's Daemon through the Great War.
 5. Konrad loses. His experiment should end and he should leave the colonization process.
@@ -45,8 +45,8 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 12. Samuel counterfeits the divine authority behind Konrad and Aiden's original holy order, assigns Sylvan the role of final threat to its promised reward, then tries to induce Sylvan to accept the same concealed-access bargain used after the Great War. Konrad and Aiden target Sylvan from inside that sacred story.
 13. Sylvan refuses the assigned role. Samuel's revisions, Resistance evidence, provenance of the supposedly sacred instructions, and the postwar reactivation record reveal the repeated method to Konrad's inner circle and the affected groups.
 14. Konrad commits his groups to Sylvan's exposure plan rather than knowingly complete Samuel's takeover. Aiden's independent response remains unresolved.
-15. Samuel attempts to place responsibility for the criminal system onto George, preserve continuity through Samuel Jr., and sustain his divinity claim as public exposure destroys his control claims.
-16. The process reaches irreversible conclusion. Samuel has no more deals and no more moves. The outcome presentation compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad, Aiden, and their group.
+15. Samuel attempts to place operational responsibility onto George and use Samuel Jr.'s mandatory presentation to transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. recognizes that Samuel would never share power with an independent heir and turns toward Sylvan. Konrad acts on his disclosure dilemma rather than let Samuel define his silence.
+16. Their choices trigger a cascading reveal chain. Samuel's compensations expose further command until the process reaches irreversible conclusion. The mandatory presentation architecture compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad, Aiden, and their group.
 
 ## Narrative order
 
@@ -57,8 +57,8 @@ The detailed chronology below remains a working expansion of this sequence. Wher
 ## Detailed working chronology
 
 1. Parent civilization overcomes aging. Its legitimate leaders live for thousands of years.
-2. Humanity expands successfully to numerous colonized planets under these leaders.
-3. Knowledge, capacity, and support from those earlier worlds make a more advanced and technologically managed colonization planet possible.
+2. Humanity expands from the Origin World to Planet Two, its first colonization planet and managed-competition experiment.
+3. Knowledge and capacity from the first two worlds make Planet Three, the second colonization planet, a more advanced and technologically managed environment.
 4. Konrad Fitzgerald, his senior partner, and Samuel's parents belong to an older fascist purity organization with a closed lineage program. Konrad is its sincere ideological and genealogical leader.
 5. Samuel grows up as a privileged prospective heir inside that organization. His parents discover serious misconduct, including a sexual relationship with an underage girl and additional abuses still to be developed; they and the organization exile him approximately thirty years before the Great War begins.
 6. The current moon and planet are constructed; synthetics establish civilization. First human populations and hundreds of heirs are integrated over time.
@@ -81,12 +81,12 @@ The detailed chronology below remains a working expansion of this sequence. Wher
     - Each contradiction produces a larger claim, while generations of contained participants and legitimate heirs accumulate competing evidence, relationships, institutional consequences, and heir collisions.
     - The breeding and lineage program persists inside containment. Samuel uses unauthorized reproduction, numerous mixed-race descendants, genealogy fraud, synthetic substitutions, and certification control while Konrad believes his dynasty is flourishing.
     - Samuel's unauthorized interventions include the established use of George and Konrad's daughter; their exact relationship to the genuine grandson and later branches remains unresolved.
-    - Samuel creates the provisional replacement heir Samuel Jr. with Konrad's sister and eventually positions him over a government-integrated intelligence and decision-systems company.
+    - Samuel creates the presumed heir provisionally called Samuel Jr. with Konrad's sister and eventually positions him over a government-integrated intelligence and decision-systems company. Samuel's controlling purpose is his eventual use as a constructed witness rather than shared succession.
     - One of Orzai's parents provisionally carries the working Witness role through one or more earlier-era identities. Both parents belong to the founder children's Great War development generation. The dated middle-architecture and bridge notes provide working milestones but do not yet lock which parent carries the role or the events' order.
 
 20. Samuel's promises, False Victory, and lineage leverage destabilize; Disclosure Wars occur or begin.
 21. Roughly eighty years after the Great War Witness thread, Sylvan Elaria enters the modern thread as the Inheritor. Orzai belongs to his generation and is slightly younger than him.
-22. Orzai's older brother, approximately a decade older than Sylvan, serves in a developmental placement inside a consequential company comparable to the government-integrated decision-systems company associated with Samuel's replacement heir.
+22. Orzai's older brother, approximately a decade older than Sylvan, serves in a developmental placement inside a consequential company comparable to the government-integrated decision-systems company associated with Samuel Jr.
 23. Sylvan accumulates evidence connecting original events, Samuel's hidden sabotage, revised public stories, biological lineage, synthetic identity substitutions, blackmail, and command responsibility.
 24. Samuel uses the hijacked assistant and story functionality to counterfeit the authority behind Konrad and Aiden's holy order and define Sylvan as the rival whose defeat will unlock its promised reward. Konrad and Aiden target Sylvan, while Samuel offers Sylvan entry into the controlled story environment and conceals the transfer of authority the offer requires.
 25. Sylvan refuses the assigned role. The Resistance and inner circle connect Samuel's live revisions and the provenance of his supposedly sacred instructions to the postwar false-autonomy bargain, reactivated Fitzgerald programs, captured sacred initiatives, and the recruitment of other leaders.

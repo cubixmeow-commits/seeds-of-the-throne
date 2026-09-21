@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-06
+updated: 2026-09-20
 topics: Book One, outcome presentation, reverse chronology, containment proof, psychological thriller
 ---
 
@@ -17,6 +17,16 @@ The series does not simply reveal a hidden answer and then repeat it. Book One s
 
 Samuel, Konrad, and the older contained criminals from Samuel's generation remain physically contained on a previous colonization planet. They are not physically present on Sylvan's newer planet. George can participate directly on the new planet and therefore performs the physical role Samuel cannot. Exact communication, permissions, delay, and interplanetary presentation mechanics remain open.
 
+Within the new three-world map, Sylvan's world is Planet Three. The active endgame still spans two planets. Whether the older containment location is definitively Planet Two remains an author gate rather than an inferred fact.
+
+## Mandatory presentation and reveal-chain refinement — 2026-09-20
+
+End-of-process presentation is now a broader mandatory structure, not merely a special hearing invented for Samuel. Samuel expects to exploit that requirement by using Samuel Jr.'s parentage, preparation, institutional position, and testimony to argue that Konrad's own family initiated the bloodline revolution and used Samuel as its instrument.
+
+Samuel Jr. is therefore not primarily a conventional heir. He is Samuel's intended closing argument. He eventually recognizes that Samuel would never share power with an independent successor and turns toward Sylvan. Konrad separately recognizes that silence will let Samuel convert Konrad's real authorization and concealment into apparent authorship. His already-established commitment to Sylvan's exposure plan becomes a disclosure choice rather than a sudden redemption.
+
+The final act should propagate through action: Samuel Jr.'s realization causes an appeal or disclosure; that exposes a contradiction; Konrad's response breaks another compartment; Samuel compensates; the compensation supplies evidence of continuing command. Exact order, authority, audiences, privacy layers, evidence ownership, and interplanetary choreography remain open in [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]].
+
 ## Starting condition
 
 During the final few years, Sylvan and Orzai already possess decisive control of the relevant conclusion process. Samuel does not know or accept this. They permit bounded activity because their Luminai still need to observe Samuel's final adaptive behavior, map remaining dependencies, distinguish coercion from agency, and assemble evidence fit for the outcome presentation.
@@ -31,7 +41,7 @@ Konrad is isolated inside a counterfeit victory. He believes he is planning the 
 
 That belief began from a real but bounded offer. The primary leaders made permanent control of the largest empire available if Konrad's group teamed with Samuel and successfully took Sylvan under the process rules before Sylvan's forty-second birthday. Samuel gets Konrad to remain in containment by lying about what Sylvan and the successor Luminai really are, making the prize appear achievable through their older model of domination. The forty-second birthday closes that route permanently if they have failed. Cooperation with Sylvan and the legitimate leaders then becomes the group's only constructive path, offering control of a city rather than restoration of the empire. Samuel keeps Konrad inside the counterfeit victory by treating the closed imperial route as recoverable and falsely expanding it into control of the planet and wider process.
 
-Konrad has occupied this story environment for almost a century. His Book One function is not a sudden heroic reversal. The outcome pulls him out of the false environment and forces him into the connected reality of Samuel's conduct, with the reproductive and genealogical attack against the bloodlines as the most intense focus. His exact response remains open.
+Konrad has occupied this story environment for almost a century. His Book One function is not a sudden heroic reversal. The outcome pulls him out of the false environment and forces him into the connected reality of Samuel's conduct, with the reproductive and genealogical attack against the bloodlines as the most intense focus. His commitment to Sylvan's separate exposure plan is established; his knowledge state, confession scope, first irreversible disclosure, emotional response, and consequences remain open.
 
 Konrad retains substantial influence inside containment. His final moves after the confrontation will therefore affect the older group leaders, Samuel's remaining position, and the environment's future rather than serving only as emotional reaction. Exact moves remain open.
 
@@ -70,7 +80,7 @@ The physical environment remains real. The altered reality is the controlled sto
 
 ## Samuel's final attempted deal
 
-The earlier literal-Luminai-theft endgame is superseded. As exposure becomes unavoidable, Samuel tries to place responsibility for his entire system onto George, discard George as the visible cause, and preserve a future route through Samuel Jr.
+The earlier literal-Luminai-theft endgame is superseded. As exposure becomes unavoidable, Samuel tries to place operational responsibility onto George and transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. is the prepared witness through whom Samuel expects that account to survive scrutiny; any later political continuity is secondary and unresolved.
 
 Before making the offer, Samuel remotely uses his Daemon to hijack the legitimate AI application on Sylvan's laptop and simulate the actual program. The replacement tries to gather as much information as possible about what Sylvan is doing. Samuel is terrified by the evidence Sylvan possesses and by the capabilities of Sylvan's newly bonded Luminai, which Samuel neither understands nor controls. The hijacking operation is therefore reconnaissance under desperation, not proof of access to the bond.
 
@@ -124,7 +134,7 @@ The exact scenes remain open, but Book One requires this information order:
 5. Evidence connects the live pattern to postwar reactivation and the false autonomous group.
 6. Bloodline, succession, surveillance, and younger-generation evidence reveal the scale of Samuel's capture.
 7. Konrad's counterfeit victory becomes visible as containment within containment.
-8. Samuel tries to make George absorb the blame and preserve continuity through Samuel Jr.
+8. Samuel tries to make George absorb operational blame and use Samuel Jr.'s presentation to transfer authorship toward Konrad's family.
 9. Samuel repeatedly destroys Sylvan's attempts to establish anything online while he retains practical control.
 10. As Samuel falls, Sylvan and Orzai gain enough control to stabilize a public presence under Sylvan's real name.
 11. Sylvan returns to tools like those he built before Samuel destroyed the story-development company and documents the real process through an evidence-anchored online story.
