@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression tests for the active Book One architecture contract."""
+"""Regression tests for the live dynamic and historical workshop contracts."""
 import sys
 import tempfile
 import unittest
@@ -80,6 +80,29 @@ def complete_set(overrides=None):
 
 
 class WorkshopContractTests(unittest.TestCase):
+    def test_live_dynamic_workshop_has_one_current_gate(self):
+        modules, errors = workshop.load_dynamic_workshop()
+        self.assertEqual(errors, [])
+        self.assertEqual(len(modules), 1)
+        self.assertEqual(modules[0]['id'], 'DW-01')
+        self.assertTrue(modules[0]['gate'])
+
+    def test_dynamic_workshop_missing_section_fails(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'DYNAMIC-WORKSHOP.md'
+            path.write_text('---\nstatus: active\n---\n# Dynamic\n## Next Assessment Pass\n\n> **One gate?**\n')
+            _, errors = workshop.load_dynamic_workshop(path, Path(tmp))
+            self.assertTrue(errors)
+            self.assertIn('Current Canon Baseline', '\n'.join(errors))
+
+    def test_dynamic_workshop_requires_exactly_one_gate(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'DYNAMIC-WORKSHOP.md'
+            headings = '\n'.join(f'## {heading}\n' for heading in workshop.DYNAMIC_REQUIRED_HEADINGS)
+            path.write_text('---\nstatus: active\n---\n# Dynamic\n' + headings)
+            _, errors = workshop.load_dynamic_workshop(path, Path(tmp))
+            self.assertIn('exactly one bold quoted gate', '\n'.join(errors))
+
     def test_live_workshop_matches_required_set(self):
         records, errors = workshop.validate_workshop_sources()
         self.assertEqual(errors, [])

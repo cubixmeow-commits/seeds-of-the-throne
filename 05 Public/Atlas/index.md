@@ -24,6 +24,10 @@ The immediate conflict leads backward into the Great War, Konrad's defeat, Samue
 
 ## Spoilers: how the endgame ends
 
+Samuel separately promises George White and Aiden Fitzgerald the same absolute, godlike authority. Each man believes he is the singular chosen ruler, but Samuel is running one con on two marks and continues directing them against each other. George's long savior-prophecy environment has altered what he can recognize as real.
+
+Their supposed superweapon only appears decisive while Sylvan is severely disadvantaged. Once Sylvan begins publicly exposing Samuel and the manipulated reality around the leaders, the weapon fails. The collapse exposes the bloodline and breeding-program betrayal beneath Samuel's promises, and the trapped leaders finally recognize that Samuel is the deceiver they must fight their way out against.
+
 Sylvan and Orzai complete their separate Luminai bonds and demonstrate the judgment required for placement in the larger colonization effort. The process then separates Samuel from Sylvan and removes Samuel's access to the systems he used against him.
 
 Samuel receives $15 million to carry out his plan independently. He spends it trying to keep the war alive and create an apocalyptic event that will prove he is a living god. The money is gone within days. His plan fails without the hidden systems he spent years pretending were his own power.

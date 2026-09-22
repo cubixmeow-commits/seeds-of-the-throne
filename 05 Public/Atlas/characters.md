@@ -36,7 +36,11 @@ When his control collapses, he blames George, reaches toward Samuel Jr., and tri
 
 George can participate directly on the new colonization planet; Samuel and the older contained criminals cannot. That physical distinction makes George the operational bridge rather than another version of Konrad's isolated fantasy. Samuel drags him into the final godhood attempt and prepares him to absorb the blame.
 
-The Witness, Orzai's family, Samuel's replacement heir, descendants, and survivors must carry choices and evidence that cannot all be delegated to Sylvan.
+Samuel has spent years telling George that a savior prophecy will end with George receiving absolute, godlike power. He secretly gives Aiden Fitzgerald the same exclusive promise. Each man believes he alone is chosen, and neither is meant to learn that Samuel promised one throne twice.
+
+Their supposed superweapon appears real while Sylvan is severely disadvantaged. When Sylvan begins publicly exposing Samuel, it fails. George and Aiden can finally compare what they were told. Samuel keeps trying to aim them at one another, claiming each man is stealing or sabotaging the other's destiny.
+
+The Resistance, Orzai's family, Samuel's constructed witness, descendants, and survivors must carry choices and evidence that cannot all be delegated to Sylvan.
 
 ## Spoilers: recognition is not the same as accountability
 

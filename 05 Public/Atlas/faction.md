@@ -33,6 +33,10 @@ The macro result is established. The exact registration event, transferred permi
 
 Samuel captures succession and family systems through coercive intervention, falsified records, and blackmail. He turns younger adults against Konrad and toward dependence on his own network.
 
+George White and Aiden Fitzgerald belong to the younger generation shaped by the older leaders' breeding program. Those leaders intended their bloodlines to extend control into the second colonization planet. Samuel instead used the same machinery to target their lines, create unauthorized heirs, damage the reliability of succession, and build private leverage across later generations.
+
+George and Aiden believe their roles are leading toward real supremacy. They are not. Their power exists only inside containment, and Samuel always intends both men to remain disposable.
+
 The collapse of Konrad's bloodline doctrine is the collapse of a political claim. No ancestry makes a person damaged or guilty. Descendants need lives and choices beyond serving as evidence against their abusers.
 
 ## What the completed workshop established
@@ -52,6 +56,16 @@ An independent resistance network discovers that events treated as isolated belo
 Sylvan can help authenticate and present the result, but he does not own the investigation. The movement's role matters because the truth must survive the loss, corruption, or control of any one powerful figure.
 
 Its final name and exact organization remain in development. The complete evidence chain, the compromised initiative, and the mechanism that reaches it remain protected story material until the author resolves them.
+
+The Resistance's visual identity is now established. Its colors are black and orange, and its central image is an ark carrying people, belief, culture, memory, testimony, and truth through persecution. The ark represents preservation and sanctuary, not divine chosenness or a right to rule.
+
+## Spoilers: one throne promised twice
+
+Samuel secretly promises George and Aiden the same absolute, godlike position. He keeps the promises separate so each man reads the same signs as proof that he alone is becoming the chosen ruler.
+
+The supposed superweapon appears to confirm that story only while Sylvan is severely disadvantaged. Once Sylvan begins publicly exposing Samuel, the weapon fails and the separate promises enter the same public record. Samuel continues trying to turn the two men against each other, but repeating the con where everyone can see it becomes evidence of his method.
+
+The trapped leaders eventually recognize Samuel as the deceiver and must fight their way out through his local stories, dependencies, proxies, and retaliation. Samuel still does not control the governing colonization process.
 
 Sources: [[02 Story/Groups/Konrad and Samuel Criminal Ecosystems]], [[02 Story/Groups/The Resistance]], [[02 Story/Systems/Participant Governance and Command Rules]], [[02 Story/Systems/The Breeding Program and Lineage Blackmail]].
 

@@ -11,13 +11,16 @@
   const params = new URL(location.href).searchParams;
   const requestedTrack = params.get('workshop');
   const requestedModule = params.get('module') || '';
-  const defaultTrack = root.dataset.workshopDefault || 'book-one';
-  const inferredTrack = requestedModule.startsWith('BA-') ? 'book-one' : requestedModule.startsWith('EG-') ? 'endgame' : defaultTrack;
-  const workshopKey = requestedTrack === 'book-one' || requestedTrack === 'endgame' ? requestedTrack : inferredTrack;
-  const source = workshopKey === 'endgame' ? root.dataset.sourceEndgame : root.dataset.sourceBookOne;
-  const prefix = workshopKey === 'book-one'
-    ? 'seeds-book-one-architecture-workshop-v1:'
-    : 'seeds-endgame-workshop-v1:';
+  const defaultTrack = root.dataset.workshopDefault || 'dynamic';
+  const inferredTrack = requestedModule.startsWith('BA-') ? 'book-one' : requestedModule.startsWith('EG-') ? 'endgame' : requestedModule.startsWith('DW-') ? 'dynamic' : defaultTrack;
+  const allowedTracks = ['dynamic', 'book-one', 'endgame'];
+  const workshopKey = allowedTracks.includes(requestedTrack) ? requestedTrack : inferredTrack;
+  const source = workshopKey === 'dynamic'
+    ? root.dataset.sourceDynamic
+    : workshopKey === 'endgame'
+      ? root.dataset.sourceEndgame
+      : root.dataset.sourceBookOne;
+  const prefix = `seeds-${workshopKey}-workshop-v1:`;
   document.querySelectorAll('.workshop-track-switch a').forEach(link => {
     const linkTrack = new URL(link.href).searchParams.get('workshop');
     if (linkTrack === workshopKey) link.setAttribute('aria-current', 'page');
@@ -78,7 +81,7 @@
       if(file.size>1024*1024){status.textContent='Choose a Markdown answer under 1 MB.';return;}
       try {
         const text=await file.text();
-        const idMatch=text.match(/^Module:\s*([A-Z]{2}-\d{2})\b/m);
+        const idMatch=text.match(/^Module:\s*([A-Z]{2,3}-\d{2})\b/m);
         if(idMatch && idMatch[1]!==current.id){status.textContent=`That answer belongs to module ${idMatch[1]}. Select that module first.`;return;}
         if(!confirm('Replace the current draft with this file? Export your current answer first if you want to keep both.'))return;
         area.value=text;persist();

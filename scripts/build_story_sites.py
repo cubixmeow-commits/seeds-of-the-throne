@@ -5,14 +5,14 @@ import html, re, json, hashlib, shutil, sys
 from urllib.parse import quote, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from workshop_contract import ROOT, load_workshop_modules, load_endgame_workshop_modules
+from workshop_contract import ROOT, load_workshop_modules, load_endgame_workshop_modules, load_dynamic_workshop
 
 PUBLIC = ROOT / '05 Public/Atlas'
 DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260919-existing-prophecy'
+ASSET = '20260921-dynamic-workshop'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -27,6 +27,7 @@ IMAGE_ALT = {
     'altered-reality-prophecy-target-diagram-v1.webp': 'Diagram showing Samuel outside an altered reality telling Konrad, Aiden, and other leaders that Sylvan is the enemy described by an existing religious prophecy.',
     'surface-civilization-editorial-v1.webp': 'Interpretive editorial view of a lived-in coastal civilization on the colonization planet.',
     'recovered-records-evidence-v1.webp': 'Interpretive still life of recovered records aligned against hidden-system evidence.',
+    'resistance-ark-infographic-v1.webp': 'Black-and-orange Resistance infographic centered on an ark preserving people, belief, culture, memory, testimony, and sanctuary through persecution.',
 }
 PAGE_CLASS = {
     'index': 'page-home',
@@ -122,9 +123,9 @@ def pale_signal_masthead(title, deck):
   </div>
 </header>'''
 
-def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
+def homepage_editorial(body_html, current_gate):
     surface_alt = IMAGE_ALT['surface-civilization-editorial-v1.webp']
-    evidence_alt = IMAGE_ALT['recovered-records-evidence-v1.webp']
+    resistance_alt = IMAGE_ALT['resistance-ark-infographic-v1.webp']
     return f'''<div class="home-sequence">
   <section class="editorial-band editorial-band--surface" aria-labelledby="surface-title">
     <figure class="editorial-band__media">
@@ -177,14 +178,15 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
   </section>
   <section class="editorial-band editorial-band--evidence" aria-labelledby="evidence-title">
     <figure class="editorial-band__media">
-      <img src="assets/images/recovered-records-evidence-v1.webp" alt="{html.escape(evidence_alt)}" width="1774" height="887" loading="lazy">
-      <figcaption>Interpretive visualization of recovered records and provenance paths. Not literal documents.</figcaption>
+      <img src="assets/images/resistance-ark-infographic-v1.webp" alt="{html.escape(resistance_alt)}" width="1086" height="1448" loading="lazy">
+      <figcaption>Approved Resistance infographic. The ark, palette, and preservation message are established; exact scenery and participant labels are interpretive.</figcaption>
     </figure>
     <div class="editorial-band__copy reading">
       <p class="eyebrow">The Resistance and the evidence</p>
       <h2 id="evidence-title">Samuel survives by keeping every part of the truth separate.</h2>
       <p>One person finds an altered family record. Another remembers a leader being threatened. A technician finds access that should not exist. Each discovery looks isolated until an independent Resistance begins comparing them.</p>
       <p>The Resistance is separate from Sylvan. Its members connect evidence across families, institutions, and generations. Sylvan and his Luminai can help verify and present what they find, but no single leader gets to own the truth.</p>
+      <p>Its black-and-orange ark represents carrying people, belief, culture, memory, testimony, and truth safely through persecution. It is a symbol of sanctuary and preservation, not a claim to rule.</p>
       <p><a href="faction.html">Follow the conspiracy</a> · <a href="research.html">See the research boundaries</a></p>
     </div>
   </section>
@@ -194,10 +196,12 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
       <h2 id="endgame-title">The final confrontation begins when Konrad learns that Samuel betrayed his entire group.</h2>
       <p>Many participants follow younger public leaders without knowing that an older layer of contained criminal leaders sits above them. Samuel expects to use that loyalty to turn every group against Sylvan.</p>
       <p>Samuel also tries to place Sylvan inside the altered story reality that has trapped Konrad and his son Aiden since the Great War. Konrad and Aiden believe they lead a holy order placed by divine purpose. Their wider religion already contains a prophecy about a future enemy. Samuel did not write it. He uses the altered reality to tell them Sylvan is the villain it describes, then makes that identification look like sacred confirmation.</p>
+      <p>At the same time, Samuel separately promises George White and Aiden the same absolute, godlike authority. Each believes he is the singular chosen ruler. Samuel is running one con on two marks and continues aiming them at each other while George's long savior-prophecy environment alters what George can accept as real.</p>
+      <p>Their supposed superweapon only appears decisive while Sylvan is severely disadvantaged. Once Sylvan begins exposing Samuel in public, the weapon fails. Its collapse reveals the breeding-program and bloodline betrayal beneath Samuel's promises.</p>
       <p>The plan begins to collapse when the participants discover that Samuel has been terrorizing their leaders, using their families, and turning their loyalty into a weapon against their own groups.</p>
-      <p>Konrad now has one real choice. He can help Samuel finish the takeover, or he can expose the deal that made it possible. Konrad commits himself and his groups to Sylvan's plan, while Sylvan remains a separate ally rather than becoming part of Konrad's hierarchy.</p>
+      <p>Konrad now has one real choice. He can help Samuel finish the takeover, or he can expose the deal that made it possible. The trapped leaders eventually recognize Samuel as the deceiver and must fight their way out against him. Konrad commits himself and his groups to Sylvan's plan, while Sylvan remains a separate ally rather than becoming part of Konrad's hierarchy.</p>
       <p>Together with evidence assembled by the Resistance, they must reveal Samuel's betrayals to every affected group and remove the control he built over them. Samuel's last attempt to preserve his power becomes the final test of Sylvan and the new Luminai.</p>
-      <p><a href="timeline.html">See how the story reaches the endgame</a> · <a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Explore the Endgame Workshop</a></p>
+      <p><a href="timeline.html">See how the story reaches the endgame</a> · <a href="workshop.html#session">Open the current assessment</a></p>
     </div>
   </section>
   <section class="endgame-diagrams" aria-labelledby="endgame-method-title">
@@ -230,12 +234,12 @@ def homepage_editorial(body_html, count, total, endgame_count, endgame_total):
     <div class="editorial-band__copy reading">
       <p class="eyebrow">Developing the final movement</p>
       <h2 id="endgame-workshop-title">The ending is established. The path through it is still being built.</h2>
-      <p>The Endgame Workshop develops the hidden leadership layer, the existing prophecy Samuel exploits, his target substitution, leader agency in the attack, the altered-reality break, the bloodline operation, the Resistance's evidence, Konrad's commitment, disclosure to every group, and the final presentation.</p>
-      <p><strong>{endgame_count} of {endgame_total}</strong> endgame modules have an accepted macro direction. The remaining questions keep evidence ownership, character agency, and protected records visible.</p>
-      <p><a class="button" href="workshop.html?workshop=endgame&amp;module=EG-01#session">Open the Endgame Workshop</a></p>
+      <p>One dynamic workshop now carries the current canon baseline, newly accepted decisions, unresolved questions, compatibility checks, and the next assessment pass. It is updated after every desktop assessment so old question sets do not compete with the current story.</p>
+      <p><strong>Current question:</strong> {html.escape(current_gate)}</p>
+      <p><a class="button" href="workshop.html#session">Open the Dynamic Story Workshop</a></p>
     </div>
   </section>
-  <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p><strong>{count} of {total}</strong> Book One architecture questions have accepted answers in the current development pass. The ending is established; this workshop is building the objective, opening, middle, character choices, and scene-ready sequence that lead to it.</p><progress max="{total}" value="{count}" aria-label="Book One architecture questions with accepted answers">{count} / {total}</progress><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Join the current workshop</a></p></div></section>
+  <section class="home-progress"><div class="reading"><h2>The story is being built in public.</h2><p>The ending foundation is established. The live workshop now follows the highest-dependency question and changes when an accepted answer changes the rest of the story.</p><p><a href="todo.html">Follow the story roadmap</a> · <a href="ideas.html">Explore ideas in development</a> · <a href="workshop.html">Join the current workshop</a></p></div></section>
 </div>'''
 
 def shell(slug,title,deck,body,image=None,hero_html=None):
@@ -256,8 +260,9 @@ def shell(slug,title,deck,body,image=None,hero_html=None):
 def main():
     modules, workshop_errors = load_workshop_modules()
     endgame_modules, endgame_errors = load_endgame_workshop_modules()
-    if workshop_errors or endgame_errors:
-        print('\n'.join(workshop_errors + endgame_errors)); sys.exit(1)
+    dynamic_modules, dynamic_errors = load_dynamic_workshop()
+    if workshop_errors or endgame_errors or dynamic_errors:
+        print('\n'.join(workshop_errors + endgame_errors + dynamic_errors)); sys.exit(1)
     outputs={};entries=[]
     for path in sorted(PUBLIC.glob('*.md')):
         text=path.read_text();meta=metadata(text);slug=meta['route'];title=meta['title'];deck=meta['deck']
@@ -284,16 +289,11 @@ def main():
             )+'</div>'
             body=gallery+body
         if slug=='index':
-            state=(ROOT/'07 Coordination/Story Completion Workflow/CURRENT.md').read_text()
-            match=re.search(r'\*\*Completed at this depth:\*\*\s*(\d+)\s*/\s*(\d+)',state)
-            count,total=match.groups() if match else ('0','0')
-            # Keep approved story sections; wrap with editorial bands and drop duplicate progress inject from old builder.
-            accepted_endgame = sum(str(module.get('status', '')).startswith('author-accepted') for module in endgame_modules)
-            body=homepage_editorial(body, count, total, accepted_endgame, len(endgame_modules))
+            body=homepage_editorial(body, dynamic_modules[0]['gate'])
             hero_html=pale_signal_masthead(title, deck)
             image=None
         if slug=='faction':
-            body='<figure class="evidence-banner"><img src="assets/images/recovered-records-evidence-v1.webp" alt="'+html.escape(IMAGE_ALT['recovered-records-evidence-v1.webp'])+'" width="1774" height="887" loading="lazy"><figcaption>Interpretive evidence composition. Claim, source, discrepancy, and consequence remain separate.</figcaption></figure>'+body
+            body='<figure class="evidence-banner"><img src="assets/images/resistance-ark-infographic-v1.webp" alt="'+html.escape(IMAGE_ALT['resistance-ark-infographic-v1.webp'])+'" width="1086" height="1448" loading="lazy"><figcaption>Approved Resistance infographic. The ark and black-and-orange identity are established; exact scenery and labels remain interpretive.</figcaption></figure>'+body
         if slug=='colonization':
             body='<figure class="layered-world"><img src="assets/images/surface-civilization-editorial-v1.webp" alt="'+html.escape(IMAGE_ALT['surface-civilization-editorial-v1.webp'])+'" width="1536" height="1024" loading="lazy"><figcaption>Interpretive surface civilization. Ordinary institutions and lives have real weight.</figcaption></figure>'+body
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
@@ -304,11 +304,13 @@ def main():
     for module in endgame_modules:
         packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
         module['html']=packet_html
-    if modules and endgame_modules:
-        book_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=book-one&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in modules)
-        endgame_cards=''.join(f'<a class="module-card" href="workshop.html?workshop=endgame&amp;module={m["id"]}#session"><span>{m["id"]}</span><strong>{html.escape(m["title"])}</strong><small>{html.escape(m["gate"])}</small></a>' for m in endgame_modules)
-        body='<div class="atlas-body"><section class="reading"><h2>Choose the story problem you want to develop</h2><p>The Endgame Workshop focuses on the hidden hierarchy, the existing prophecy Samuel exploits, his target substitution, leader agency, the altered-reality break, bloodline evidence, Konrad\'s commitment, group-level disclosure, Samuel\'s last counterplan, and the final presentation. The Book One Architecture Workshop remains available as a separate ten-question track.</p><nav class="workshop-track-switch" aria-label="Workshop tracks"><a href="workshop.html?workshop=endgame&amp;module=EG-01#session">Endgame Workshop</a><a href="workshop.html?workshop=book-one&amp;module=BA-01#session">Book One Architecture</a></nav><p>Choose one topic to read the known constraints, alternatives, scene test, and author gate. New answers entered here remain browser drafts unless exported.</p></section><section id="session" class="workshop-session" data-workshop data-workshop-default="endgame" data-source-endgame="assets/story-endgame-workshop.json?v='+ASSET+'" data-source-book-one="assets/story-workshop.json?v='+ASSET+'"><p role="status">Loading the selected story question.</p></section><details class="spoiler" open><summary>Choose from '+str(len(endgame_modules))+' Endgame topics</summary><nav class="module-grid" aria-label="Endgame Workshop topics">'+endgame_cards+'</nav></details><details class="spoiler"><summary>Choose from ten Book One architecture topics</summary><nav class="module-grid" aria-label="Book One Architecture Workshop topics">'+book_cards+'</nav></details><noscript><p>JavaScript is needed to use the interactive workshop. The complete questions can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete Endgame Workshop notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in endgame_modules)+'</ul></details><details class="spoiler"><summary>Read the complete Book One Architecture notes</summary><ul>'+''.join(f'<li><a href="assets/workshop/{m["id"]}.md">{html.escape(m["title"])}</a></li>' for m in modules)+'</ul></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
-        outputs[DOCS/'workshop.html']=shell('workshop','Develop the endgame','The focused Endgame Workshop turns the hidden hierarchy, existing prophecy, fraudulent target assignment, altered-reality trap, bloodline evidence, and the final choices of Konrad, Aiden, Sylvan, and Samuel into one causal movement.',body)
+    for module in dynamic_modules:
+        packet_html=re.sub(r'<(/?)h([1-4])\b',lambda match:'<'+match[1]+'h'+str(int(match[2])+2),render(module['markdown']))
+        module['html']=packet_html
+    if dynamic_modules:
+        body='<div class="atlas-body"><section class="reading"><h2>Work on the question that matters now</h2><p>The Dynamic Story Workshop is the single current workshop. It carries the latest canon baseline, accepted decisions, open questions, compatibility checks, and one next assessment pass. It changes after every desktop assessment.</p><p>Older Book One, Endgame, reassessment, Reveal Chain, and twenty-part workshop notes remain available as development history, but they are not parallel active tracks.</p><p>Your answer remains a browser draft unless you export it and the author deliberately accepts it into the vault.</p></section><section id="session" class="workshop-session" data-workshop data-workshop-default="dynamic" data-source-dynamic="assets/story-dynamic-workshop.json?v='+ASSET+'"><p role="status">Loading the current story question.</p></section><noscript><p>JavaScript is needed to use the interactive workshop. The complete current workshop can also be read below.</p></noscript><details class="spoiler"><summary>Read the complete current workshop</summary><p><a href="assets/workshop/DW-01.md">Download the Dynamic Story Workshop</a></p></details><details class="spoiler"><summary>Read historical workshop sources</summary><p><a href="archive.html">Open the development archive</a> to understand why the earlier question sets were retired.</p></details></div><script src="workshop.js?v='+ASSET+'" defer></script>'
+        outputs[DOCS/'workshop.html']=shell('workshop','Develop the story from its current state','One dynamic workshop keeps the canon baseline, newest decisions, unresolved conflicts, and next high-impact question together after every desktop assessment.',body)
+        outputs[DOCS/'assets/workshop'/'DW-01.md']=dynamic_modules[0]['markdown']
         for m in modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
         for m in endgame_modules: outputs[DOCS/'assets/workshop'/f'{m["id"]}.md']=m['markdown']
     # Preserve previously published workshop packets as historical source links.
@@ -322,8 +324,10 @@ def main():
     outputs[DOCS/'assets/story-workshop.json']=json.dumps(data,ensure_ascii=False,indent=2)+'\n'
     endgame_data={'version':1,'key':'endgame','title':'Endgame Workshop','built_from':'2026-09-19 focused endgame workshop','modules':endgame_modules}
     outputs[DOCS/'assets/story-endgame-workshop.json']=json.dumps(endgame_data,ensure_ascii=False,indent=2)+'\n'
+    dynamic_data={'version':1,'key':'dynamic','title':'Dynamic Story Workshop','built_from':'canonical dynamic workshop updated after every desktop assessment','modules':dynamic_modules}
+    outputs[DOCS/'assets/story-dynamic-workshop.json']=json.dumps(dynamic_data,ensure_ascii=False,indent=2)+'\n'
     outputs[DOCS/'assets/story-atlas.json']=json.dumps(entries,ensure_ascii=False,indent=2)+'\n'
-    snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']
+    snapshots=['07 Coordination/Weekly Synthesis/CURRENT-COMPLETION-TODO.md','07 Coordination/Story Completion Workflow/CURRENT.md','07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP.md','07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM.md','07 Coordination/Story Completion Workflow/TASK-REGISTRY.md','08 Story Loop/Brainstorms/CURRENT-EXPERIMENTAL-IDEAS.md']
     for s in list(snapshots):
         match=re.search(r'^source_path:\s*(.+)$',(ROOT/s).read_text(),re.M)
         if match: snapshots.append(match[1].strip())
@@ -331,6 +335,6 @@ def main():
     for path,text in outputs.items(): path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
     manifest={str(p.relative_to(ROOT)):hashlib.sha256(t.encode()).hexdigest() for p,t in outputs.items()}
     (DOCS/'assets/story-build.json').write_text(json.dumps(manifest,indent=2)+'\n')
-    print(f'Built {len(entries)} atlas pages, {len(modules)} Book One modules, {len(endgame_modules)} Endgame modules, {len(outputs)} projections.')
+    print(f'Built {len(entries)} atlas pages, {len(dynamic_modules)} live Dynamic module, {len(modules) + len(endgame_modules)} historical BA/EG modules, {len(outputs)} projections.')
 
 if __name__=='__main__': main()

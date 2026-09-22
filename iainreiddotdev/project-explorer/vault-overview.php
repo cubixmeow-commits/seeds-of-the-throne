@@ -21,15 +21,15 @@ $vaultWorking = [
     'Visual identity and image controls',
     'Markdown files and recoverable history',
     'Searchable file access',
+    'One live dynamic workshop and a verified public projection',
 ];
 $vaultRepair = [
-    'One trustworthy current-state view',
-    'Automatic checks before a change is merged',
     'Shared labels and stable record identifiers',
-    'Updating every affected note after a decision',
+    'Automatic decision impact reports across every affected note',
     'Keeping the weekly cycle current',
     'Clearer boundaries around older folders',
     'A cleaner split between the repository and the live site',
+    'A stable browser-test dependency for every required screen size',
 ];
 $vaultPlanned = [
     'Durable integration of conversational answers',
@@ -39,10 +39,9 @@ $vaultPlanned = [
     'Reliable mobile save, resume, and synchronization',
 ];
 $vaultNext = [
-    'Make builds and checks reliable.',
-    'Create one trustworthy current state.',
     'Normalize the records for one small complete path.',
-    'Connect accepted decisions to every affected file.',
+    'Automate the affected-file report for accepted decisions.',
+    'Bundle reliable browser checks for every required screen size.',
     'Prove one complete path from conversation to approved manuscript material.',
     'Expand only after that path works.',
 ];
@@ -52,9 +51,11 @@ $vaultLinks = [
     ['See the current resume point', '07 Coordination/CURRENT-PICKUP.md'],
     ['Read accepted decisions', '07 QA/Decisions.md'],
     ['See unresolved conflicts', '07 QA/Contradictions.md'],
-    ['Open the focused Endgame Workshop', '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md'],
-    ['Read the Endgame Workshop assessment', '07 QA/2026-09-19 - Endgame Workshop Assessment.md'],
-    ['Open the current Book One workshop', '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md'],
+    ['Open the Dynamic Story Workshop', '07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP.md'],
+    ['Read the latest canon audit', '07 QA/2026-09-21 - Resistance and Dynamic Workshop Canon Audit.md'],
+    ['See how the public pages stay current', '07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM.md'],
+    ['Read the historical Endgame Workshop', '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md'],
+    ['Read the historical Book One workshop', '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README.md'],
     ['Read the Book One buildability assessment', '07 QA/2026-09-11 - Book One Buildability Assessment.md'],
     ['Read the Resistance and revelation addendum', '07 QA/2026-09-17 - Resistance and Revelation Reassessment.md'],
     ['See the development tools', '08 Story Loop/README.md'],
@@ -68,8 +69,8 @@ $vaultLinks = [
     <p><?= e((string) $vaultDocumentCount) ?> notes work together as one system. The vault remembers where ideas came from, what the author decided, what remains uncertain, and what should happen next.</p>
     <p class="vault-overview__core">The vault turns conversations into organized story memory. It preserves sources, separates decisions from suggestions, finds missing connections, supports research and workshops, prepares scenes and prose, checks continuity, and publishes selected material without surrendering author control.</p>
     <ul class="vault-overview__now" aria-label="Current system status">
-      <li><strong>Working now</strong> Capture, memory, workshops, and research already operate.</li>
-      <li><strong>Needs repair</strong> Current-state agreement, automatic checks, and decision updates still drift.</li>
+      <li><strong>Working now</strong> Capture, memory, one current workshop, research, and checked public projections operate.</li>
+      <li><strong>Needs repair</strong> Decision impact reporting and full browser-size automation still require manual work.</li>
       <li><strong>Planned next</strong> Durable answers, manuscript production, and mobile save are not built yet.</li>
     </ul>
   </header>

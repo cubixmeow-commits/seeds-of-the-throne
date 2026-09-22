@@ -27,7 +27,7 @@ George is not given a convenient final refusal as automatic redemption. Exact ag
 
 Konrad is forced out of the story environment that has enclosed him for almost a century and into the reality of what Samuel did. The connected reproductive and genealogical attack against the faction's bloodlines becomes the most intense focus because it destroys the sacred future Konrad believed he was preserving. “Pollution” remains Konrad's ideological interpretation; objectively, descendants are people and the wrongdoing is coercion, abuse, falsification, and instrumentalization.
 
-Konrad's function is confrontation, not immediate redemption. His forced return to reality proves the extent of Samuel's capture and collapses the False Victory. His exact response remains open.
+Konrad's function is confrontation, not immediate redemption. His forced return to reality proves the extent of Samuel's capture and collapses the False Victory. His commitment to Sylvan's separate exposure plan is now established; his exact disclosure, retained ideology, emotional response, and consequences remain open.
 
 Konrad retains substantial influence inside the containment environment, so his final moves after the confrontation will have material consequences. The module establishes the function and preserves those moves for later scene development rather than reducing him to a passive observer.
 

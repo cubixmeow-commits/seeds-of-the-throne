@@ -38,9 +38,13 @@ Astra's first assessment helped build a twenty-part workshop whose accepted resu
 
 A whole-project reassessment retired that stale checklist and created a focused ten-part macro workshop. All ten questions were answered. They establish the terminal separation, Samuel's rapid collapse and processing, Sylvan and Orzai's accepted future, the authentication boundary, George and Konrad's different functions, the skills that earn survival, the primary leaders' vindication, and the genuine imperial bait that sends the series backward into history.
 
-That workshop is complete, but the story is not. A new [Book One architecture workshop](workshop.html) now develops the exact contest, deception, countdown, opening, middle, character choices, evidence order, and sequence map needed to make the novel buildable.
+That workshop is complete, but the story is not. Later Book One and endgame workshops added more focused questions, then began to overlap as new assessments changed the story.
 
-A focused September 17 reassessment added the Resistance and a new revelation method to that existing workshop. It did not create another checklist. The Resistance connects evidence that powerful people kept separate, while the Converging Revelation method tests whether a final discovery changes the meaning of earlier events instead of merely adding another secret.
+A focused September 17 reassessment added the Resistance and a new revelation method. The Resistance connects evidence that powerful people kept separate, while the Converging Revelation method tests whether a final discovery changes the meaning of earlier events instead of merely adding another secret.
+
+The project now uses one [dynamic workshop](workshop.html). After every desktop assessment, it updates the current canon baseline, newly accepted decisions, open questions, compatibility checks, and the next question. Older BA, EG, RW, Reveal Chain, and twenty-part workshops remain available as development history instead of competing active checklists.
+
+The current pass asks how Samuel's supposed superweapon could appear real while Sylvan was severely disadvantaged, then fail once Sylvan began publicly exposing the structure behind it.
 
 ## Evidence inside the fiction
 
@@ -56,4 +60,4 @@ The author supplies the story, the important choices, the corrections, the taste
 
 [Current progress](todo.html) · [Experimental ideas](ideas.html) · [Visual method](visuals.html) · [Research boundaries](research.html).
 
-Sources: [[03 Context/RULES]], [[07 QA/2026-09-09 - Current Story Reassessment]], [[07 Coordination/Story Completion Workflow/Reassessment Workshop/README]].
+Sources: [[03 Context/RULES]], [[07 QA/2026-09-09 - Current Story Reassessment]], [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]], [[07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM]].

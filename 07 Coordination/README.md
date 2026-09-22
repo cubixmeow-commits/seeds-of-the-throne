@@ -15,6 +15,7 @@ The author develops the project Sunday through Thursday. Thursday night's [[Week
 - [[Weekly Synthesis/CURRENT-COMPLETION-TODO|Current Weekly Completion TODO]] — the only author-facing story-development TODO; the public dashboard renders its approved checklist.
 - [[Weekly Synthesis/CURRENT-WEEK-INTAKE|Current Week Intake]] — a non-executable index for consequential discoveries awaiting weekly reconciliation.
 - [[CURRENT-PICKUP]] — the single accurate handoff for the next session.
+- [[PUBLIC-SITE-UPDATE-SYSTEM]] — the repeatable assessment-to-story-site and Project Explorer update process.
 - [[device-workflow]] — what belongs in mobile development and what requires desktop implementation.
 - [[DESKTOP-QUEUE]] — the durable handoff list for filesystem, repository, website, testing, commit, and publishing work.
 - [[SUBAGENT-PROTOCOL|Seeds Delegation Protocol]] — when and how to delegate independent work while preserving primary-agent authority, canon boundaries, and safe file ownership.

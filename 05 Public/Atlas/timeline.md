@@ -26,14 +26,17 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 10. Sylvan reaches his forty-second birthday without being taken. The imperial route closes permanently, leaving cooperation for control of a city as the older group's only constructive path.
 11. The assessment certifies Sylvan and Orzai's completed bonds, voluntary partnership, conduct, and placement eligibility.
 12. The inner circle compares Konrad's counterfeit command with external reality and realizes he never held control.
-13. Samuel drags George into his final godhood attempt as the operational scapegoat, reaches toward Samuel Jr., and tries to trap Sylvan with another false bargain.
-14. Sylvan refuses. The process formally separates Samuel from Sylvan and removes Samuel's process-provided attack systems.
-15. Samuel receives $15 million to execute his plan independently. He tries to keep the war alive and manufacture an apocalyptic culmination that will make him a living god.
-16. The obsession exhausts the allocation within days. The zero balance proves genuine failure and triggers processing.
-17. Samuel's Daemon is deleted. He enters a stasis-like coma and biological synthetics move him to the older contained leaders while his complete conduct is presented.
-18. Konrad is pulled out of his century-long story environment into the connected reality of Samuel's campaign. His remaining influence makes his final moves consequential.
-19. Orzai lets the process carry Samuel's exposure, accepts the completed result first, and leads Sylvan into their final decisions.
-20. Sylvan and Orzai begin an exploratory period, travel, consider offers from Houses, and choose the country where they want to build their House using what they preserved.
+13. Samuel separately promises George and Aiden the same absolute, godlike position. The supposed superweapon appears real while Sylvan is severely disadvantaged.
+14. Sylvan begins exposing Samuel publicly. The weapon fails, George and Aiden compare accounts, and one throne promised twice reveals one con run on two marks.
+15. Samuel keeps trying to aim George and Aiden at each other. His repeated tactic becomes live evidence of continuing command.
+16. The trapped leaders recognize Samuel as the deceiver and must choose how to fight their way out. Samuel Jr. turns toward Sylvan, and Konrad begins the disclosure required by his commitment to the exposure plan.
+17. Sylvan refuses Samuel's false bargain. The process formally separates Samuel from Sylvan and removes Samuel's process-provided attack systems.
+18. Samuel receives $15 million to execute his plan independently. He tries to keep the war alive and manufacture an apocalyptic culmination that will make him a living god.
+19. The obsession exhausts the allocation within days. The zero balance proves genuine failure and triggers processing.
+20. Samuel's Daemon is deleted. He enters a stasis-like coma and biological synthetics move him to the older contained leaders while his complete conduct is presented.
+21. Konrad is pulled out of his century-long story environment into the connected reality of Samuel's campaign. His remaining influence makes his final moves consequential.
+22. Orzai lets the process carry Samuel's exposure, accepts the completed result first, and leads Sylvan into their final decisions.
+23. Sylvan and Orzai begin an exploratory period, travel, consider offers from Houses, and choose the country where they want to build their House using what they preserved.
 
 ## Spoilers: reader sequence
 
@@ -48,4 +51,4 @@ The broad order is established. Exact dates, overlapping durations, the placemen
 
 Knowing the broad ending need not reveal who helped, who refused, what was misunderstood, or what was lost. Later books need local goals whose resolution still matters. Their exact order is intentionally flexible: development will select whichever return to the past is most entertaining and dramatically necessary.
 
-Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Build the Book One sequence](workshop.html?module=BA-10#session).
+Sources: [[02 Story/Timeline/Timeline]], [[02 Story/Storyline]], [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]]. [Open the current assessment](workshop.html#session).

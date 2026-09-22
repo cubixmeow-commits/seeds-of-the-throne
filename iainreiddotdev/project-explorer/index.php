@@ -171,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260919-existing-prophecy';
+$assetVersion = '20260921-dynamic-workshop';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -317,14 +317,15 @@ function explorer_format_bytes(?int $bytes): string
         <section class="endgame-feature wrap" id="endgame-development" aria-labelledby="endgame-development-title">
             <header class="endgame-feature__intro">
                 <p class="explorer-hero__label">Current story development</p>
-                <h2 id="endgame-development-title">The endgame now has a second layer.</h2>
-                <p>Samuel did not create the prophecy. He traps Konrad, Aiden, and other leaders inside an altered explanation of reality, then tells them Sylvan is the enemy their existing prophecy describes. The new workshop separates the prophecy, Samuel's target assignment, each leader's choice, and the evidence that finally breaks the trap.</p>
-                <p class="endgame-feature__actions"><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-19 - Existing Prophecy Endgame Expansion.md')) ?>">Read the accepted development note</a><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'endgame', 'module' => 'EG-09'], 'session')) ?>">Open the expanded workshop</a><a href="../../docs/index.html#endgame-method-title">See the reader version</a></p>
+                <h2 id="endgame-development-title">One con promised the same throne twice.</h2>
+                <p>Samuel separately promises George White and Aiden Fitzgerald the same absolute, godlike power. Their supposed superweapon appears real while Sylvan is severely disadvantaged, then fails once Sylvan begins publicly exposing Samuel. The duplicated promise reveals one con run on two marks while Samuel keeps trying to aim them at each other.</p>
+                <p>The Resistance now has an approved black-and-orange visual identity centered on an ark. It preserves people, belief, culture, memory, testimony, and truth through persecution without claiming a right to rule.</p>
+                <p class="endgame-feature__actions"><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop.md')) ?>">Read the accepted development note</a><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'dynamic', 'module' => 'DW-01'], 'session')) ?>">Open the current assessment</a><a href="../../docs/index.html#evidence-title">See the reader version</a></p>
             </header>
             <div class="endgame-feature__grid">
                 <figure>
-                    <img src="../../docs/assets/images/samuel-two-paths-choice-diagram-v1.webp" alt="Horizontal decision diagram showing Samuel Franklin choosing between continuing to terrorize the contained leaders or continuing to terrorize Sylvan, with both paths ending in defeat." width="1672" height="941" loading="lazy">
-                    <figcaption><strong>Control structure.</strong> The leaders believe they lead while Samuel chooses the mission and enemy.</figcaption>
+                    <img src="../../docs/assets/images/resistance-ark-infographic-v1.webp" alt="Black-and-orange Resistance infographic centered on an ark preserving people, belief, culture, memory, testimony, and sanctuary through persecution." width="1086" height="1448" loading="lazy">
+                    <figcaption><strong>The Resistance.</strong> The ark preserves people and truth through persecution without claiming supremacy.</figcaption>
                 </figure>
                 <figure>
                     <img src="../../docs/assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="Diagram showing Samuel telling leaders inside an altered reality that Sylvan is the enemy described by an existing religious prophecy." width="1087" height="1447" loading="lazy">
@@ -352,8 +353,8 @@ function explorer_format_bytes(?int $bytes): string
                     </div>
                     <div>
                         <p>Humanity developed the Luminai inside an interactive colonization environment. Sylvan and his Luminai are tested against Samuel Franklin, while an independent resistance network reconstructs the history Samuel kept divided across people and systems.</p>
-                        <p class="explorer-assessment__method"><span>The current story problem</span> Define the exact contest, deception, evidence order, and character choices that make the established ending work as a novel.</p>
-                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('07 QA/2026-09-17 - Resistance and Revelation Reassessment.md')) ?>"><span>Read the latest focused assessment</span><span aria-hidden="true">↗</span></a>
+                        <p class="explorer-assessment__method"><span>The current story problem</span> Define what made the supposed superweapon appear effective while Sylvan was severely disadvantaged and what verifiable change made it fail once he began publicly exposing Samuel.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_file_url('07 QA/2026-09-21 - Resistance and Dynamic Workshop Canon Audit.md')) ?>"><span>Read the latest focused assessment</span><span aria-hidden="true">↗</span></a>
                     </div>
                 </article>
 
@@ -392,8 +393,8 @@ function explorer_format_bytes(?int $bytes): string
                     </div>
                 <?php else: ?>
                     <div class="explorer-progress__unavailable">
-                        <p>Live story progress is temporarily unavailable.</p>
-                        <a class="explorer-progress__link" href="../../docs/todo.html">Open the full story roadmap <span aria-hidden="true">↗</span></a>
+                        <p>The project no longer treats a fixed checklist percentage as the live story state. The Dynamic Story Workshop carries one current assessment question and updates its baseline after every accepted answer.</p>
+                        <a class="explorer-progress__link" href="<?= e(explorer_view_url('workshop', ['workshop' => 'dynamic', 'module' => 'DW-01'], 'session')) ?>">Open the current assessment <span aria-hidden="true">↗</span></a>
                     </div>
                 <?php endif; ?>
             </div>

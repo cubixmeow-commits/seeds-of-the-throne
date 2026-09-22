@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared contracts for the fixed Book One and focused Endgame workshops."""
+"""Shared contracts for the live dynamic workshop and historical workshop sets."""
 from pathlib import Path
 import re
 
@@ -35,6 +35,16 @@ ENDGAME_MODULE_PREFIX = 'EG'
 ENDGAME_WORKSHOP_LABEL = 'EG-01 through EG-12'
 ENDGAME_REQUIRED_MODULE_IDS = tuple(f'{ENDGAME_MODULE_PREFIX}-{index:02d}' for index in range(1, 13))
 ENDGAME_EXPECTED_MODULE_COUNT = len(ENDGAME_REQUIRED_MODULE_IDS)
+
+DYNAMIC_WORKSHOP_PATH = ROOT / '07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP.md'
+DYNAMIC_REQUIRED_HEADINGS = (
+    'Current Canon Baseline',
+    'Newly Integrated Decisions',
+    'Open Questions',
+    'Conflicts/Compatibility Checks',
+    'Next Assessment Pass',
+    'Change Log',
+)
 
 
 def module_paths(workshop_dir=WORKSHOP_DIR):
@@ -227,6 +237,54 @@ def load_endgame_workshop_modules(root=ROOT):
             'markdown': record['text'],
         })
     return modules, []
+
+
+def load_dynamic_workshop(path=DYNAMIC_WORKSHOP_PATH, root=ROOT):
+    """Project the canonical dynamic workshop as one current interactive module."""
+    if not path.exists():
+        return [], [f'missing dynamic workshop: {path.relative_to(root)}']
+    text = path.read_text()
+    errors = []
+    meta = parse_frontmatter(text)
+    if meta.get('status') != 'active':
+        errors.append('dynamic workshop must have status: active')
+    for heading in DYNAMIC_REQUIRED_HEADINGS:
+        if f'## {heading}' not in text:
+            errors.append(f'dynamic workshop missing required section: {heading}')
+    section_match = re.search(
+        r'^## Next Assessment Pass\s*$\n(.*?)(?=^## |\Z)',
+        text,
+        re.M | re.S,
+    )
+    gates = re.findall(r'^>\s+\*\*(.+?)\*\*\s*$', section_match.group(1), re.M) if section_match else []
+    if len(gates) != 1:
+        errors.append(f'dynamic workshop must contain exactly one bold quoted gate in Next Assessment Pass, found {len(gates)}')
+    if errors:
+        return [], errors
+    return [{
+        'id': 'DW-01',
+        'title': 'Current assessment pass',
+        'gate': gates[0],
+        'status': 'active-author-gate',
+        'prerequisites': 'current canon baseline',
+        'path': str(path.relative_to(root)),
+        'markdown': text,
+        'updated': meta.get('updated', ''),
+    }], []
+
+
+def validate_generated_dynamic_modules(modules):
+    errors = []
+    if not isinstance(modules, list) or len(modules) != 1:
+        return [f'generated dynamic workshop must contain exactly one current module, found {len(modules or [])}']
+    module = modules[0]
+    if module.get('id') != 'DW-01':
+        errors.append(f'generated dynamic workshop module must be DW-01, found {module.get("id")}')
+    if not module.get('gate'):
+        errors.append('generated dynamic workshop module has no gate')
+    if module.get('path') != str(DYNAMIC_WORKSHOP_PATH.relative_to(ROOT)):
+        errors.append('generated dynamic workshop points to the wrong source')
+    return errors
 
 
 def validate_generated_modules(

@@ -18,8 +18,10 @@ from workshop_contract import (
     ENDGAME_WORKSHOP_LABEL,
     load_workshop_modules,
     load_endgame_workshop_modules,
+    load_dynamic_workshop,
     validate_generated_modules,
     validate_generated_endgame_modules,
+    validate_generated_dynamic_modules,
     parse_prerequisites,
     option_count,
     wiki_targets,
@@ -104,6 +106,16 @@ for m in endgame_data.get('modules', []):
     )
     for error in prereq_errors:
         errors.append(f'{m["id"]}: {error}')
+dynamic_source_modules, dynamic_source_errors = load_dynamic_workshop()
+errors.extend(dynamic_source_errors)
+dynamic_data=json.loads((ROOT/'docs/assets/story-dynamic-workshop.json').read_text())
+errors.extend(validate_generated_dynamic_modules(dynamic_data.get('modules')))
+if dynamic_source_modules:
+    generated_dynamic=dynamic_data.get('modules', [])
+    if not generated_dynamic or generated_dynamic[0].get('markdown') != dynamic_source_modules[0]['markdown']:
+        errors.append('Dynamic workshop drift: generated module does not match DYNAMIC-WORKSHOP.md')
+    if generated_dynamic and generated_dynamic[0].get('gate') != dynamic_source_modules[0]['gate']:
+        errors.append('Dynamic workshop drift: generated gate does not match Next Assessment Pass')
 for p in (ROOT/'05 Public/Atlas').glob('*.md'):
     s=p.read_text()
     for target in wiki_targets(s):
@@ -111,35 +123,30 @@ for p in (ROOT/'05 Public/Atlas').glob('*.md'):
     for pattern in ['Humanity has already crossed the stars using','Humanity colonizes multiple worlds with','Luminai names the successor generation','The attempt fails because the bond']:
         if pattern in s:errors.append(f'{p.name}: stale claim {pattern}')
 
-# Keep the September 17 Resistance/revelation reassessment connected across
-# its source, workshop, and public projections.
+# Keep the current dynamic assessment and Resistance update connected across
+# source, workshop, Project Explorer, and reader-facing projections.
 curated_markers = {
     '02 Story/Groups/The Resistance.md': [
         'The movement is separate from Sylvan',
         "The Resistance's current Book One function",
     ],
-    '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/07 - Evidence and exposure order.md': [
-        'Required role separation',
-        'The Resistance',
+    '07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP.md': [
+        'Current Canon Baseline',
+        'Next Assessment Pass',
+        'resistance-ark-infographic-v1.png',
     ],
-    '07 Coordination/Story Completion Workflow/Book One Architecture Workshop/10 - Book One sequence contract.md': [
-        'Converging Revelation test',
-    ],
-    'docs/faction.html': ['The records begin to connect'],
-    'docs/archive.html': ['focused September 17 reassessment'],
-    'docs/index.html': ['Open the Endgame Workshop', 'samuel-two-paths-choice-diagram-v1.webp', 'altered-reality-prophecy-target-diagram-v1.webp'],
-    'docs/workshop.html': ['Choose from 12 Endgame topics'],
-    '07 Coordination/Story Completion Workflow/Endgame Workshop/README.md': [
-        'This focused workshop develops the final confrontation',
-        "Konrad's commitment",
-    ],
+    '07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM.md': ['Projection decision', 'Desktop assessment checklist'],
+    'docs/faction.html': ['one throne promised twice', 'resistance-ark-infographic-v1.webp'],
+    'docs/archive.html': ['The project now uses one'],
+    'docs/index.html': ['Open the Dynamic Story Workshop', 'resistance-ark-infographic-v1.webp'],
+    'docs/workshop.html': ['Dynamic Story Workshop', 'story-dynamic-workshop.json'],
     'iainreiddotdev/project-explorer/workbench.php': [
-        'story-endgame-workshop.json',
-        'Start the Endgame Workshop',
+        'story-dynamic-workshop.json',
+        'Open the current assessment',
     ],
     'iainreiddotdev/project-explorer/index.php': [
-        '2026-09-19 - Existing Prophecy Endgame Expansion.md',
-        'samuel-two-paths-choice-diagram-v1.webp',
+        '2026-09-21 - Resistance Identity and Dynamic Endgame Workshop.md',
+        'resistance-ark-infographic-v1.webp',
         'altered-reality-prophecy-target-diagram-v1.webp',
     ],
     'iainreiddotdev/analytics/collect.php': [
@@ -178,4 +185,4 @@ for relative_path, markers in curated_markers.items():
             errors.append(f'{relative_path}: missing curated marker {marker}')
 if errors:
     print('\n'.join(errors));sys.exit(1)
-print(f'PASS: local HTML links/assets/anchors; generated hashes; {EXPECTED_MODULE_COUNT} Book One modules BA-01 through BA-10; {ENDGAME_EXPECTED_MODULE_COUNT} Endgame modules {ENDGAME_WORKSHOP_LABEL}; curated canon checks.')
+print(f'PASS: local HTML links/assets/anchors; generated hashes; 1 live Dynamic module; {EXPECTED_MODULE_COUNT + ENDGAME_EXPECTED_MODULE_COUNT} historical BA/EG modules; curated canon checks.')
