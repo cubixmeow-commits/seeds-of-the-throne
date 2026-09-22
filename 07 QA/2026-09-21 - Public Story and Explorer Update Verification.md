@@ -43,3 +43,9 @@ The automated multi-viewport browser suite could not run because the repository 
 - `07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM.md` defines the repeatable assessment-to-publication process.
 - `scripts/build_story_sites.py` creates the public projections.
 - `scripts/check_story_sites.py` checks drift, links, assets, and required canon markers.
+
+## Project Explorer summary follow-up
+
+After review, the focused “one con, two promises” feature was identified as too narrow to represent the current project. The Explorer overview now places a project-wide current-state summary before the authoring-system explanation. It covers the world, the human and Luminai future, the central conflict, the current endgame, the Resistance, and the next development work. The duplicated promise remains visible as one part of the endgame rather than standing in for the entire project.
+
+The revised summary was visually and structurally checked at 320, 375, 430, 768, 1024, and 1440 CSS pixels. The page and body widths matched every viewport, the summary changed from one column to two only when space allowed, and all summary links remained inside the viewport. The 320-pixel rendered review showed clear reading order and no visible horizontal overflow.

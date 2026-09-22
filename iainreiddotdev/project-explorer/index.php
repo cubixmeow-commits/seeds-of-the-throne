@@ -171,7 +171,7 @@ $links = $data['links'];
 $pageTitle = 'Project Explorer | Seeds of the Throne';
 $pageDescription = 'See how thousands of story ideas, notes, decisions, and questions are being organized into the finished Seeds of the Throne series.';
 $canonical = 'https://iainreid.dev/devsite/iainreiddotdev/project-explorer/';
-$assetVersion = '20260921-dynamic-workshop';
+$assetVersion = '20260921-project-summary';
 $year = (int) date('Y');
 $hasDocumentHeading = preg_match('/^#\s+.+$/m', $markdown) === 1;
 
@@ -312,17 +312,40 @@ function explorer_format_bytes(?int $bytes): string
             </div>
         </section>
 
-        <?php require __DIR__ . '/workbench.php'; ?>
-
-        <section class="endgame-feature wrap" id="endgame-development" aria-labelledby="endgame-development-title">
-            <header class="endgame-feature__intro">
-                <p class="explorer-hero__label">Current story development</p>
-                <h2 id="endgame-development-title">One con promised the same throne twice.</h2>
-                <p>Samuel separately promises George White and Aiden Fitzgerald the same absolute, godlike power. Their supposed superweapon appears real while Sylvan is severely disadvantaged, then fails once Sylvan begins publicly exposing Samuel. The duplicated promise reveals one con run on two marks while Samuel keeps trying to aim them at each other.</p>
-                <p>The Resistance now has an approved black-and-orange visual identity centered on an ark. It preserves people, belief, culture, memory, testimony, and truth through persecution without claiming a right to rule.</p>
-                <p class="endgame-feature__actions"><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop.md')) ?>">Read the accepted development note</a><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'dynamic', 'module' => 'DW-01'], 'session')) ?>">Open the current assessment</a><a href="../../docs/index.html#evidence-title">See the reader version</a></p>
+        <section class="current-state wrap" id="current-story" aria-labelledby="current-story-title">
+            <header class="current-state__intro">
+                <p class="explorer-hero__label">Current project summary</p>
+                <h2 id="current-story-title">A colonization world tests who can be trusted with power.</h2>
+                <p><em>Seeds of the Throne</em> is a science-fiction series about an interactive colonization planet built to create resources, support civilization, train people for greater responsibility, and contain dangerous criminals. The story begins near the end of a conflict that has been unfolding across generations.</p>
             </header>
-            <div class="endgame-feature__grid">
+            <dl class="current-state__outline">
+                <div>
+                    <dt>The world</dt>
+                    <dd>Planet Three is a mature containment-and-cultivation world. Its criminal empires have real local power, but they do not control the larger process or its outer limits.</dd>
+                </div>
+                <div>
+                    <dt>The human future</dt>
+                    <dd>Sylvan and Orzai form separate bonds with a new generation of Luminai, advanced artificial cognition integrated with an accountable human mind. Their choices test whether this partnership is ready for life beyond containment.</dd>
+                </div>
+                <div>
+                    <dt>The central conflict</dt>
+                    <dd>Samuel Franklin has spent decades controlling people by controlling the explanation around them. Sylvan, the Luminai, and an independent Resistance must reconnect the evidence Samuel divided across families, institutions, and generations.</dd>
+                </div>
+                <div>
+                    <dt>The current endgame</dt>
+                    <dd>Samuel promises George White and Aiden Fitzgerald the same godlike authority, aims them at each other, and applies an existing prophecy to Sylvan. Their supposed superweapon fails as Sylvan publicly exposes the con, the bloodline betrayal, and Samuel's manufactured reality.</dd>
+                </div>
+                <div>
+                    <dt>The Resistance</dt>
+                    <dd>Its black-and-orange ark represents sanctuary and the preservation of people, belief, culture, memory, testimony, and truth through persecution. It preserves what must survive without claiming a right to rule.</dd>
+                </div>
+                <div>
+                    <dt>What is being developed now</dt>
+                    <dd>The ending foundation is established. The live workshop is defining the exact superweapon mechanism, the evidence that breaks its credibility, and the independent choices that let the trapped leaders fight their way out against Samuel.</dd>
+                </div>
+            </dl>
+            <p class="current-state__actions"><a href="../../docs/index.html">Read the story overview</a><a href="<?= e(explorer_file_url('03 Context/CURRENT.md')) ?>">Read the complete current state</a><a href="<?= e(explorer_file_url('01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop.md')) ?>">Read the latest accepted decisions</a><a href="<?= e(explorer_view_url('workshop', ['workshop' => 'dynamic', 'module' => 'DW-01'], 'session')) ?>">Open the current assessment</a></p>
+            <div class="current-state__evidence" aria-label="Current visual story evidence">
                 <figure>
                     <img src="../../docs/assets/images/resistance-ark-infographic-v1.webp" alt="Black-and-orange Resistance infographic centered on an ark preserving people, belief, culture, memory, testimony, and sanctuary through persecution." width="1086" height="1448" loading="lazy">
                     <figcaption><strong>The Resistance.</strong> The ark preserves people and truth through persecution without claiming supremacy.</figcaption>
@@ -333,6 +356,8 @@ function explorer_format_bytes(?int $bytes): string
                 </figure>
             </div>
         </section>
+
+        <?php require __DIR__ . '/workbench.php'; ?>
 
         <?php require __DIR__ . '/vault-overview.php'; ?>
 
