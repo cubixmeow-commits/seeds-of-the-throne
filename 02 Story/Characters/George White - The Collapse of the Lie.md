@@ -1,7 +1,7 @@
 ---
 type: character-development
 status: locked-development
-updated: 2026-09-07
+updated: 2026-09-21
 character: George White
 theme: awakening, weaponization, and consequence
 ---
@@ -32,6 +32,10 @@ George's proposed issued-to-independent journal evolution is [[02 Story/Artifact
 ## Central endgame concept
 
 George White reaches the final showdown as the manufactured reality of his life begins to collapse around him.
+
+**Established savior con:** Samuel has spent years shaping George's altered reality around a savior-prophecy in which apparent signs culminate in George receiving absolute, godlike power over everyone else. A supposed superweapon appears to validate that destiny only while Sylvan is severely disadvantaged. Its exact bounded mechanism remains unresolved.
+
+Samuel secretly gives Aiden Fitzgerald the same exclusive promise. Neither mark is meant to know that one throne was promised twice. When Sylvan begins publicly exposing Samuel, the weapon fails, their separate claims become comparable, and the duplicate promise exposes one con run on two marks. Samuel continues trying to aim them at each other, telling each that the other caused the failure or is stealing the singular position.
 
 For more than a century, George has understood himself, his authority, his victories, and the larger conflict through information that was fundamentally compromised. His father manipulated the environment around him and interfered with George's Daemon, shaping what George was permitted to perceive and helping sustain a false understanding of his own position in the world.
 
@@ -158,6 +162,9 @@ The following are locked development:
 - George is ultimately intended to be aimed at Sylvan Elaria.
 - George is disposable to his father after serving that purpose.
 - George's awakening occurs as the final confrontation is already underway.
+- George's savior-prophecy promises him absolute, godlike supremacy.
+- The apparent superweapon fails as Sylvan publicly exposes Samuel, forcing George's story into comparison with Aiden's identical promise.
+- Samuel continues trying to aim George and Aiden at one another after the duplication begins to surface.
 - George realizes that his previous accomplishments inside the false reality cannot determine his outcome.
 - His immediate choices during the showdown become genuinely consequential.
 - Whether George ultimately fulfills or rejects his father's intended purpose remains unresolved.

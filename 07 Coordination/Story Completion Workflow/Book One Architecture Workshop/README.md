@@ -1,15 +1,18 @@
 ---
 type: workshop-index
-status: active
+status: deprecated-as-active
 updated: 2026-09-11
 assessment: 07 QA/2026-09-11 - Book One Buildability Assessment.md
 ---
 
 # Book One Architecture Workshop
 
-This is the active story workshop. It preserves the completed RW ending decisions and develops the missing path from Book One's opening to that ending.
+> [!IMPORTANT]
+> Historical workshop record. Its unresolved questions have been folded into [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]], the only active assessment surface. Do not update this file as a parallel workshop.
 
-The 2026-09-17 focused reassessment integrates the independent Resistance and Converging Revelation material into BA-02, BA-07, BA-09, and BA-10. It does not add an eleventh module or reopen the completed RW foundation. BA-01 remains the active gate.
+This workshop historically preserved the completed RW ending decisions and developed the missing path from Book One's opening to that ending.
+
+The 2026-09-17 focused reassessment integrated the independent Resistance and Converging Revelation material into BA-02, BA-07, BA-09, and BA-10. It did not add an eleventh module or reopen the completed RW foundation.
 
 The modules are dependency ordered, not a promise that every question must remain separate. Ask one author gate at a time, record the answer in a dated session, propagate accepted canon, and then reassess later modules.
 

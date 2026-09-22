@@ -1,8 +1,14 @@
 ---
 type: context
 status: active
-updated: 2026-09-20
+updated: 2026-09-21
 ---
+
+## Canonical workshop — 2026-09-21
+
+All current assessment questions now live in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The lists below remain topical context and historical question inventory; they do not compete with the dynamic workshop's **Next Assessment Pass**.
+
+Immediate gate: what made the supposed superweapon appear effective while Sylvan was severely disadvantaged, and what verifiable change caused it to fail once he began publicly exposing Samuel?
 
 ## Altered-reality repetition trap — 2026-09-19
 
@@ -17,13 +23,13 @@ updated: 2026-09-20
 
 ## Focused Endgame Workshop — 2026-09-19
 
-The endgame questions now live in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-12]]. The locked Konrad commitment is not an open question. Current gates also include the prophecy that predates Samuel, his target substitution, each leader's independent choice, and the evidence that separates faith from his fraudulent application.
+These historical endgame questions were developed in [[07 Coordination/Story Completion Workflow/Endgame Workshop/README|EG-01 through EG-12]] and are now consolidated into the dynamic workshop. The locked Konrad commitment is not an open question.
 
-This focused track does not replace BA-01 as the active Book One architecture gate.
+This focused track is no longer an active parallel question set.
 
 ## Active Book One architecture workshop — 2026-09-11
 
-The current dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. Begin with BA-01: what exact observable condition would count as successfully taking Sylvan before his forty-second birthday?
+The historical dependency-ordered questions live in [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. Their unresolved content is folded into the dynamic workshop.
 
 Later modules address Samuel's lie to Konrad, the birthday countdown, Book One's opening, its indispensable middle, Sylvan and Orzai's relationship arc, evidence order, George's final choice, Konrad's final move, and the final sequence contract. Ask one gate at a time and reassess after every accepted answer.
 
@@ -31,13 +37,13 @@ Later modules address Samuel's lie to Konrad, the birthday countdown, Book One's
 
 The previous 27-task sequence is retired. Its unanswered tasks are not the current question list.
 
-RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Its unresolved implementation work is now routed through the active Book One architecture workshop above.
+RW-01 through RW-10 are author-accepted and the reassessment workshop is complete. Its unresolved implementation work is now routed through the dynamic workshop.
 
 # Open Questions
 
 ## Three-world and reveal-chain mechanics — 2026-09-20
 
-The complete targeted author-gate layer is [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]. It covers causal, timeline, presentation, succession, empire, disclosure, evidence, and character-motivation mechanics. Do not infer answers from the structural direction.
+The historical targeted author-gate layer is [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]. Its unresolved causal, timeline, presentation, succession, empire, disclosure, evidence, and character-motivation mechanics are folded into the dynamic workshop. Do not infer answers from the structural direction.
 
 Immediate gates: confirm whether the older containment world is Planet Two; define what counts as a Planet Three empire; define who must present and under whose authority; identify what Samuel Jr. alone can contribute; distinguish Konrad's authorization from Samuel's concealed conduct; and order Samuel Jr.'s turn, Konrad's disclosure, Samuel's compensations, and the evidence consequences.
 

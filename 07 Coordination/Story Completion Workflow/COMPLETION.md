@@ -18,4 +18,4 @@ The project no longer reports 9 of 27 as current completion. That number describ
 
 The adaptive reassessment workshop is complete and preserved. Its ten author-accepted modules establish the ending at macro depth.
 
-The active [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]] has 0 of 10 accepted modules. It begins with BA-01, the exact governing meaning of taking Sylvan.
+The active assessment surface is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The older BA module count is retained only as historical workflow state; current work begins with the dynamic workshop's **Next Assessment Pass**.

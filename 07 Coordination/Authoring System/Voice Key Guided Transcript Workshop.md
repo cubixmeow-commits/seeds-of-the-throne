@@ -21,7 +21,7 @@ The workshop does not train the system to reproduce raw speech. It uses conversa
 
 ## Status and priority boundary
 
-This workshop is planned for later. It does not replace the active Book One Architecture Workshop or change its author gate. Start it only when the author explicitly says **Open the Voice Key workshop**.
+This workshop is planned for later. It does not replace the active [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] or change its author gate. Start it only when the author explicitly says **Open the Voice Key workshop**.
 
 ## Format
 
@@ -411,4 +411,3 @@ When the author says **Open the Voice Key workshop**:
 3. ask one natural-language prompt;
 4. wait for dictation;
 5. continue with adaptive follow-ups until the module has sufficient evidence or the author stops.
-

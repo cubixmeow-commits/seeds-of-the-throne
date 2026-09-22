@@ -1,7 +1,7 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-19
+updated: 2026-09-21
 ---
 
 ## 2026-09-19 — Konrad commits to Sylvan's exposure plan
@@ -262,3 +262,8 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 | 2026-09-20 | Establish Samuel Jr.'s realization that Samuel would never share power with an independent heir and his resulting turn toward Sylvan. | The turn follows from Samuel's demonstrated treatment of people as instruments. Exact evidence, timing, appeal, protection, accountability, and presentation conduct remain open. |
 | 2026-09-20 | Establish Konrad's disclosure dilemma as the immediate pressure behind his already-locked commitment to Sylvan's exposure plan. | If he remains silent, Samuel can turn Konrad's real authorization and concealment into apparent authorship. Konrad's disclosure must distinguish his responsibility for opening the door from Samuel's deliberate later campaign without absolving either man. |
 | 2026-09-20 | Establish mandatory end-of-process presentation and a cascading reveal chain as the Book One final-act architecture. | The requirement forces compartmentalized stories into comparison. Each understanding causes action, each action exposes another truth, and Samuel's compensations create further evidence. Scope, authority, order, audiences, privacy, and evidence mechanics remain Reveal Chain Mechanics Workshop gates. |
+| 2026-09-21 | Establish the Resistance colors as black and orange and the ark as its central preservation-and-sanctuary image. | The ark carries belief, culture, memory, testimony, family continuity, and people through persecution by contained criminal groups; it does not claim divine chosenness or authority to rule. |
+| 2026-09-21 | Establish that Samuel secretly promises George White and Aiden Fitzgerald the same exclusive destiny of absolute, godlike power. | This is one compartmentalized con run on two marks: one throne promised twice. Earlier framing of Aiden's final reward as distinct is superseded at the destination level. |
+| 2026-09-21 | Establish the supposed superweapon's failure during Sylvan's public exposure as the hinge that brings George and Aiden's stories into comparison, while Samuel continues trying to aim them at each other. | The repeated tactic exposes Samuel's method and continuing command. The exact bounded weapon mechanism and each mark's independent response remain open. |
+| 2026-09-21 | Establish that trapped leaders eventually identify Samuel as the deceiver and must fight their way out against him. | Their reversal follows exposure and choice; it does not give Samuel control of the governing process or erase the leaders' responsibility. |
+| 2026-09-21 | Make [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] the single canonical ongoing workshop updated after every desktop assessment. | Older BA, EG, RW, Reveal Chain, and broad workshop files remain historical records so their decisions and inbound links are preserved without creating competing active question sets. |

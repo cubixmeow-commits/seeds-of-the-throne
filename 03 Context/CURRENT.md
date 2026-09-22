@@ -1,8 +1,18 @@
 ---
 type: context
 status: active
-updated: 2026-09-20
+updated: 2026-09-21
 ---
+
+## Dynamic workshop and duplicated godhood con — 2026-09-21
+
+The single active assessment surface is now [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. Update it after every desktop assessment. Older BA, EG, RW, Reveal Chain, and broad workshop files remain historical records, not parallel active question lists.
+
+The Resistance visual identity is established as black and orange with an ark at its center. The ark represents preservation of belief, culture, memory, testimony, family continuity, sanctuary, and people under persecution by contained criminal groups. It does not claim divine chosenness or authority to rule.
+
+Samuel secretly promises George White and Aiden Fitzgerald the same singular destiny: absolute, godlike power. George's long savior-prophecy and their supposed superweapon appear credible while Sylvan is severely disadvantaged. The weapon fails when Sylvan begins publicly exposing Samuel, forcing the two compartmentalized stories into comparison. Samuel continues trying to aim the two marks at each other. The repeated tactic supplies further evidence of one con, two marks, and one throne promised twice.
+
+The younger leaders' roles connect to the breeding-program betrayal. Samuel used the older criminals' lineage machinery against the bloodlines they treated as the source of legitimacy and extended the attack through unauthorized heirs and later generations. The younger leaders' apparent authority was always disposable and bounded inside containment. The trapped leaders eventually recognize Samuel as the deceiver and must fight their way out against him without implying that he controls the governing process. The exact superweapon mechanism, evidence comparison, independent choices, and escape actions remain open.
 
 ## Three-world and reveal-chain integration — 2026-09-20
 
@@ -10,7 +20,7 @@ Sylvan's world is Planet Three: the Origin World is Planet One, Planet Two is th
 
 Samuel Jr. is no longer primarily a conventional replacement heir. Samuel prepares him as a constructed witness and presentation instrument meant to transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. realizes Samuel would never share power with an independent successor and turns toward Sylvan. Konrad recognizes that silence will allow Samuel to frame his real authorization and concealment as authorship, sharpening Konrad's already-locked commitment to Sylvan's separate exposure plan.
 
-Mandatory end-of-process presentations force compartmentalized accounts into comparison. The Book One endgame now uses a cascading reveal chain: understanding causes action, action forces another truth into the open, Samuel compensates, and the compensation exposes continuing command. Exact world chronology, empire taxonomy, presentation authority, evidence ownership, disclosure order, privacy design, and character choices remain author gates in [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]. Source: [[01 Sessions/Daily/2026-09-20 - Three-World Endgame Reveal Chain Integration]] and [[07 QA/2026-09-20 - Three-World and Reveal-Chain Canon Audit]].
+Mandatory end-of-process presentations force compartmentalized accounts into comparison. The Book One endgame now uses a cascading reveal chain: understanding causes action, action forces another truth into the open, Samuel compensates, and the compensation exposes continuing command. Exact world chronology, empire taxonomy, presentation authority, evidence ownership, disclosure order, privacy design, and character choices remain author gates now consolidated in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. Source: [[01 Sessions/Daily/2026-09-20 - Three-World Endgame Reveal Chain Integration]] and [[07 QA/2026-09-20 - Three-World and Reveal-Chain Canon Audit]].
 
 ## Counterfeit divine authority — 2026-09-19
 
@@ -48,7 +58,7 @@ The independent **Resistance** is now a working story force. The name remains a 
 
 The Samuel–Konrad passage establishes a new prose-development technique, the **Converging Revelation**: apparently separate facts converge until the last connection changes the meaning of the earlier history. Its first working application joins Samuel's postwar advantage, jealousy of Konrad's public divinity, the false autonomous recovery, Konrad's reactivation, and the attack on the group's sacred initiative.
 
-The 2026-09-17 focused reassessment does not reopen RW-01 through RW-10. It adds this material to BA-02, BA-07, BA-09, and BA-10. BA-01 remains the active author gate. The exact alpha mechanism, sacred initiative, damage state, evidence roles, and final Resistance name remain unresolved. Konrad's current working state is partitioned knowledge: he knows fragments while refusing the verified conclusion that connects them.
+The 2026-09-17 focused reassessment did not reopen RW-01 through RW-10. Its unresolved material is now folded into the dynamic workshop. The exact alpha mechanism, sacred initiative, damage state, evidence roles, and final Resistance name remain unresolved. Konrad's current working state is partitioned knowledge: he knows fragments while refusing the verified conclusion that connects them.
 
 Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[02 Story/Groups/The Resistance]], [[07 QA/2026-09-17 - Resistance and Revelation Reassessment]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
 
@@ -62,13 +72,13 @@ The detailed proposed architecture is [[07 Coordination/Authoring System/06 - Vo
 
 The author has now locked Voice Key's four functional layers: Authorial Decision Fingerprint, Prose Topology Profile, Residue Filter, and Pattern Memory. Voice Key stores ranges and distributions rather than forcing fragments, irregular lists, delayed theses, or other supposed human markers into every passage. It should identify excessive regularity, generic vocabulary, inflated language, predictable reveal order, unnecessary summaries, and repeated rhetorical devices while preserving readability and scene purpose. Exact metrics, weights, and decay windows remain proposed implementation details.
 
-A later [[07 Coordination/Authoring System/Voice Key Guided Transcript Workshop]] is planned to collect stronger evidence through eight resumable 10–15 minute modules and held-out blind tests. It begins only when the author says **Open the Voice Key workshop** and does not replace the active Book One Architecture Workshop.
+A later [[07 Coordination/Authoring System/Voice Key Guided Transcript Workshop]] is planned to collect stronger evidence through eight resumable 10–15 minute modules and held-out blind tests. It begins only when the author says **Open the Voice Key workshop** and does not replace the active [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]].
 
 ## Active Book One architecture pass — 2026-09-11
 
-The current assessment is [[07 QA/2026-09-11 - Book One Buildability Assessment]]. It finds that the accepted ending is stronger than the unwritten path to it. Current work uses the [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README|Book One Architecture Workshop]] to define the exact “take Sylvan” rule, Samuel's lie, the birthday clock, opening frame, indispensable middle, Sylvan–Orzai relationship arc, exposure order, George and Konrad's final choices, and a scene-ready Book One sequence.
+The 2026-09-11 assessment found that the accepted ending was stronger than the unwritten path to it. Its Book One architecture questions are now historical inputs to the [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]].
 
-The active author gate is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/01 - Define take Sylvan|BA-01]]. RW-01 through RW-10 remain accepted foundation and are not reopened by this pass.
+RW-01 through RW-10 remain accepted foundation and are not reopened by this consolidation.
 
 ## Surface Archive public direction — updated 2026-09-16
 

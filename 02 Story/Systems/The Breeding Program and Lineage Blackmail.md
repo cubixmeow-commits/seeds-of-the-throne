@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-03
+updated: 2026-09-21
 themes: breeding program, reproductive abuse, genealogy, racist purity doctrine, lineage blackmail, common knowledge, Sylvan evidence
 ---
 
@@ -72,6 +72,10 @@ Mixed ancestry is not the violation. Samuel's crimes are nonconsensual reproduct
 ## Ideological succession capture
 
 Samuel also attacks the ideology's hold on the younger generations. He converts heirs and descendants into intermediaries inside his compromise network, encourages rebellion against Konrad through dependence on Samuel, and uses their participation to claim that he has replaced Konrad as the group's real patriarch.
+
+George White and Aiden Fitzgerald become two central younger-generation marks inside this structure. The older contained leaders built the program to extend their bloodline-based authority into the second colonization planet. Samuel instead gives George and Aiden the same secret promise of singular godlike rule, keeps the promises compartmentalized, and plans to aim the two men at one another. Their apparent elevation never creates transferable authority outside containment; both roles remain disposable even if the attempted conquest appears to succeed.
+
+The duplicated promise turns the lineage campaign into more than private blackmail. Samuel uses the younger generation's belief in inherited destiny to make them police one another while the older leaders mistake the performance for proof that their bloodline project has survived. When the promise is compared, it exposes the same underlying betrayal: Samuel used the machinery meant to preserve their succession to hollow it out and control its supposed heirs.
 
 Konrad's adult grandson may operate inside this system for roughly two decades, from his thirties into his fifties. The initial coercion, later willing participation, harms, responsibility, and possibility of disclosure remain unresolved and must be assessed individually rather than collapsed into victim or perpetrator alone.
 

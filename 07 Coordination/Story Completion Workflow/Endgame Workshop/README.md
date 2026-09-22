@@ -1,11 +1,14 @@
 ---
 type: workshop-index
-status: active-focused
+status: deprecated-as-active
 updated: 2026-09-20
 assessment: 07 QA/2026-09-19 - Endgame Workshop Assessment.md
 ---
 
 # Endgame Workshop
+
+> [!IMPORTANT]
+> Historical workshop record. Its unresolved questions have been folded into [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]], the only active assessment surface. Do not update this file as a parallel workshop.
 
 This focused workshop develops the final confrontation using the major information established during the last several days. It begins after the broad ending has been accepted and asks what must happen for the hidden hierarchy, bloodline operation, altered-reality repetition, Resistance evidence, Konrad's commitment, Samuel's collapse, and the outcome presentation to work as one causal sequence.
 

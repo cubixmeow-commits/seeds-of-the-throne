@@ -2,7 +2,7 @@
 type: character
 status: working
 name_status: established
-updated: 2026-09-19
+updated: 2026-09-21
 character: Aiden Fitzgerald
 roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality participant
 ---
@@ -20,6 +20,10 @@ Aiden survives the Great War defeat with Konrad and enters the postwar altered r
 ## Endgame function
 
 Samuel presents Sylvan as the rival whose defeat will confirm the reality Konrad and Aiden have accepted since the Great War. Konrad and Aiden therefore target Sylvan. Their choices remain their responsibility, but Samuel controls critical parts of the information, access, roles, and apparent confirmation surrounding those choices.
+
+**Established duplicated promise:** Samuel secretly promises Aiden the same exclusive end state he promises George White: absolute, godlike power over everyone else. The promise is compartmentalized so Aiden believes he alone is chosen. Earlier development that treated Aiden's “promised reward” as a different final destination is superseded; the presentation may feel like earned inheritance or reward to Aiden, but its promised destination is the same singular throne.
+
+The supposed superweapon appears to confirm the promise only while Sylvan is severely disadvantaged. When Sylvan begins publicly exposing Samuel and the weapon fails, Aiden and George's separate stories enter the same evidentiary space. Samuel continues trying to aim them at each other by claiming the other man sabotaged the result or is stealing the promised position. Aiden's exact independent response remains open.
 
 The attack becomes part of the evidence against Samuel. When Sylvan refuses the assigned role and exposes the same concealed-access method used after the Great War, Aiden must confront the possibility that his public authority, prophetic interpretation, and group's apparent independence were all operating inside Samuel's maintained story.
 
@@ -39,6 +43,6 @@ The attack becomes part of the evidence against Samuel. When Sylvan refuses the 
 - Which trusted sacred channel does Aiden believe cannot have come from Samuel?
 - What is Aiden's first direct action against Sylvan?
 - Which part of the false autonomy does Aiden independently suspect?
-- Does Aiden accept Konrad's final commitment, resist it, or make a separate move?
+- What independent action does Aiden take after the duplicated promise and false weapon become undeniable?
 
-Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]].
+Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]].

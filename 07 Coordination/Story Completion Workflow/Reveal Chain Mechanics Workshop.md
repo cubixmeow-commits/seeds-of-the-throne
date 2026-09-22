@@ -1,12 +1,15 @@
 ---
 type: workshop-layer
-status: open
+status: deprecated-as-active
 title: Causal chain and presentation mechanics
 gate: What exact sequence turns separate discoveries into irreversible action without inventing missing canon?
 prerequisites: EG-03, EG-04, EG-05, EG-06, EG-08, EG-12
 ---
 
 # Reveal Chain Mechanics Workshop
+
+> [!IMPORTANT]
+> Historical workshop record. Its unresolved questions have been folded into [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]], the only active assessment surface. Do not update this file as a parallel workshop.
 
 ## Purpose
 

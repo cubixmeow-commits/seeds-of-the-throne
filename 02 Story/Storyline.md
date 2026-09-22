@@ -1,7 +1,7 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-20
+updated: 2026-09-21
 ---
 
 # Storyline
@@ -78,6 +78,10 @@ The protagonist discovers that the public record preserves containment roles und
 Samuel's final attack repeats his postwar method in public. Konrad and his son Aiden sincerely believe they lead an original holy order placed by divine purpose. A wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Samuel counterfeits authority to apply it, identifies Sylvan as the enemy it describes, and manufactures apparent confirmation around that target assignment. Konrad and Aiden target Sylvan from inside that sacred story and the false autonomy Samuel maintains around them. Samuel expects the attack to pressure Sylvan into accepting a role inside the story. Sylvan refuses, forcing Samuel to revise the identification. The Resistance connects those revisions and confirmation channels to the old reactivation record, captured initiatives, and use of apparent Fitzgerald independence to recruit other leaders. The exposure proves Samuel's fraud without resolving the truth of faith or prophecy itself.
 
 The present attack changes sides when its function becomes visible. Konrad commits his groups to Sylvan's exposure plan rather than knowingly complete Samuel's takeover. Aiden's separate decision remains unresolved.
+
+Samuel's control structure also rests on a duplicated private promise. He has separately told George White and Aiden Fitzgerald that each will receive the same singular end state: absolute, godlike power. George's long savior-prophecy and the supposed superweapon make that promise appear real while Sylvan is severely disadvantaged. Once Sylvan begins publicly exposing Samuel, the weapon fails and the two compartmentalized stories become comparable. Samuel keeps trying to aim George and Aiden at each other, but the repeated tactic becomes live evidence of one con run on two marks.
+
+The comparison reaches beyond the weapon. George and Aiden belong to the younger generation produced through the older contained leaders' breeding program, which Samuel turned against every bloodline-based claim to legitimacy he could reach. Their apparent roles were always disposable and could never become transferable power outside containment. As the trapped leaders recognize Samuel as the deceiver their own warnings anticipated, they must choose and act to fight their way out against his story layer, proxies, dependencies, and retaliation. Samuel still does not control the governing process.
 
 Sylvan's archive can connect the King's pre-defeat description of George to the contradictory post-defeat False Victory, then reconstruct biological lineage, synthetic identity provenance, private interventions, later blackmail, and political obedience. The challenge is to expose the system without publicly sacrificing George, Samuel Jr., or descendants whose parentage the King weaponized.
 

@@ -1,7 +1,7 @@
 ---
 type: group-development
 status: working
-updated: 2026-09-17
+updated: 2026-09-21
 public_status: safe-at-function-level
 name_status: placeholder
 ---
@@ -10,7 +10,15 @@ name_status: placeholder
 
 ## Working foundation
 
-**The Resistance** is a functional placeholder for an independent investigative movement that uncovers concealed conspiracies inside the colonization process. Its final name, symbols, internal culture, and public identity remain unresolved.
+**The Resistance** is a functional placeholder for an independent investigative movement that uncovers concealed conspiracies inside the colonization process. Its final name, internal organization, broader culture, and public identity remain unresolved.
+
+## Established visual identity
+
+The Resistance colors are **black and orange**.
+
+Its central image is an **ark**. The ark represents carrying belief, culture, memory, testimony, family continuity, and people safely through persecution by the contained criminal groups. It signifies preservation, sanctuary, survival, and the possibility of emergence after catastrophe.
+
+The ark is explicitly **not** a claim that the Resistance is divinely chosen, entitled to rule, or spiritually superior. It protects people and truth from erasure; it does not establish a throne.
 
 The movement is separate from Sylvan. Its members may ally with him, exchange evidence, or converge with his actions during the endgame, but they do not exist merely to support his mission. They retain discoveries, agency, risks, sacrifices, and victories of their own.
 
@@ -65,10 +73,11 @@ The Resistance must own an indispensable discovery in this chain. Sylvan may rec
 - Konrad's knowledge is currently modeled as partitioned knowledge rather than total ignorance or full awareness of every secret.
 - The final movement name remains unresolved.
 - Earlier Witness and Inheritor labels do not automatically name this movement.
-- An overtly religious identity is not established. Ritual, symbols, or moral language require a later author decision and must match the project's style.
+- The black-and-orange palette and ark metaphor are established. Other symbols, rituals, and internal practices remain unresolved.
+- An overtly religious organizational identity is not established. The ark may preserve religion and culture without making the Resistance a religious authority.
 
 ## Public-safe description
 
 An independent resistance network discovers that records powerful leaders treated as isolated are parts of one concealed history. Its members make the final exposure possible by ensuring that no single leader owns the evidence.
 
-Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[02 Story/Artifacts/Journals/04 Evidence and Forensics Integration]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
+Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]], [[02 Story/Artifacts/Journals/04 Evidence and Forensics Integration]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
