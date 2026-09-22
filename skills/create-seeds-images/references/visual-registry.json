@@ -768,6 +768,28 @@
           "warning": "The prophecy predates Samuel and was not created by Konrad's group; Samuel controls the target assignment, not the prophecy's existence."
         }
       ]
+    },
+    "resistance-ark-infographic-v1": {
+      "title": "The Resistance: the ark of preservation",
+      "status": "approved-story-infographic",
+      "story_status": "author-approved explanatory infographic for the established Resistance palette and ark metaphor; exact architecture, insignia, participant silhouettes, node layout, and category labels remain noncanonical visual interpretation",
+      "created": "2026-09-21",
+      "generator": "OpenAI GPT Image through ChatGPT",
+      "source_prompt": "prompts/resistance-ark-infographic-v1.md",
+      "frames": [
+        {
+          "order": 1,
+          "title": "The Resistance preserves people, memory, truth, and tomorrow",
+          "source_path": "assets/approved-images/endgame-diagrams/resistance-ark-infographic-v1.png",
+          "public_path": "docs/assets/images/resistance-ark-infographic-v1.webp",
+          "dimensions": "1086x1448",
+          "source_sha256": "0475c2f5f3e85b00db1c7bce8216b113151b492a28288f4be8aae33b0c5a4f2d",
+          "public_sha256": "6ff2c6b19bf730c44df9ca4d1e5638dfc321837924f876775ec505bada4e74f8",
+          "use": "canonical explanatory infographic for the Resistance's black-and-orange visual identity, ark symbolism, preservation function, and sanctuary theme",
+          "approval": "author supplied and approved",
+          "warning": "The palette, ark metaphor, and preservation message are established. Exact architecture, scenery, insignia, participant categories, clothing, and diagram node arrangement are visual interpretation rather than additional story canon."
+        }
+      ]
     }
   },
   "characters": {

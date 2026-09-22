@@ -20,6 +20,12 @@ Its central image is an **ark**. The ark represents carrying belief, culture, me
 
 The ark is explicitly **not** a claim that the Resistance is divinely chosen, entitled to rule, or spiritually superior. It protects people and truth from erasure; it does not establish a throne.
 
+### Approved infographic
+
+The author-approved visual reference is [[skills/create-seeds-images/assets/approved-images/endgame-diagrams/resistance-ark-infographic-v1.png|Resistance Ark Infographic v1]]. A compressed display copy is available at `docs/assets/images/resistance-ark-infographic-v1.webp`.
+
+The image establishes the black-and-orange palette, ark-centered visual identity, preservation tone, and information hierarchy. Its exact city, ark construction, insignia, silhouettes, clothing, node positions, and participant labels remain explanatory visual interpretation rather than literal story facts or a complete Resistance organization chart.
+
 The movement is separate from Sylvan. Its members may ally with him, exchange evidence, or converge with his actions during the endgame, but they do not exist merely to support his mission. They retain discoveries, agency, risks, sacrifices, and victories of their own.
 
 Sylvan confronts what the process is becoming around him. The Resistance reconstructs what powerful actors have kept separate across people, roles, eras, systems, and generations.
@@ -80,4 +86,4 @@ The Resistance must own an indispensable discovery in this chain. Sylvan may rec
 
 An independent resistance network discovers that records powerful leaders treated as isolated are parts of one concealed history. Its members make the final exposure possible by ensuring that no single leader owns the evidence.
 
-Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]], [[02 Story/Artifacts/Journals/04 Evidence and Forensics Integration]], [[07 Coordination/Prose Development/01 - Converging Revelation]].
+Sources: [[01 Sessions/Daily/2026-09-17 - Resistance Evidence and Converging Revelation]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]], [[02 Story/Artifacts/Journals/04 Evidence and Forensics Integration]], [[07 Coordination/Prose Development/01 - Converging Revelation]], [[07 QA/2026-09-21 - Resistance Ark Infographic Visual Review]].

@@ -55,3 +55,7 @@ The older BA, EG, RW, and Reveal Chain workshop files remain historical developm
 - Create the canonical dynamic workshop and deprecate competing active workshop indexes.
 - Record a continuity audit of the integration.
 - Do not add the available conversation attachment: it is an older altered-reality image, not the clean Resistance infographic.
+
+## Asset follow-up
+
+The author subsequently supplied the actual clean Resistance infographic. It is approved and stored as [[skills/create-seeds-images/assets/approved-images/endgame-diagrams/resistance-ark-infographic-v1.png|Resistance Ark Infographic v1]], with a public derivative, registry metadata, checksums, provenance record, and visual review. This supersedes only the earlier asset-unavailable state; the older altered-reality attachment remains excluded.

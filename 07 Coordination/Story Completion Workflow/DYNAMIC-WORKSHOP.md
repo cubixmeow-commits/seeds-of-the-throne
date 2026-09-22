@@ -67,7 +67,7 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 
 ### Asset status
 
-The referenced conversation exposes one older altered-reality diagram. It still contains superseded labels and arrows aimed at Sylvan and is not the clean Resistance infographic. It has not been added or approved. Add the clean Resistance graphic here and to the visual registry only when the actual asset is available and verified.
+The clean Resistance infographic is now author-approved and stored as [[skills/create-seeds-images/assets/approved-images/endgame-diagrams/resistance-ark-infographic-v1.png|Resistance Ark Infographic v1]], with a compressed public derivative at `docs/assets/images/resistance-ark-infographic-v1.webp`. The visual registry records its provenance, hashes, intended use, and interpretation boundary.
 
 ## Open Questions
 
@@ -144,7 +144,8 @@ After the author accepts an answer: record it in a dated session, propagate it t
 
 ## Change Log
 
-- **2026-09-21:** Created the canonical dynamic workshop. Folded in the active BA, EG, RW, and Reveal Chain question layers; integrated the Resistance palette and ark metaphor; integrated the duplicated godhood con, false-superweapon hinge, continued mutual targeting, breeding-program betrayal, disposability boundary, and leaders' fight-out direction; recorded the unavailable clean infographic.
+- **2026-09-21:** Created the canonical dynamic workshop. Folded in the active BA, EG, RW, and Reveal Chain question layers; integrated the Resistance palette and ark metaphor; integrated the duplicated godhood con, false-superweapon hinge, continued mutual targeting, breeding-program betrayal, disposability boundary, and leaders' fight-out direction.
+- **2026-09-21:** Added and approved the clean Resistance Ark infographic, its public derivative, provenance record, visual-registry entry, hashes, scorecard, and canon-safety boundary.
 
 ## Source trail
 
@@ -153,6 +154,7 @@ After the author accepts an answer: record it in a dated session, propagate it t
 - [[02 Story/Characters/George White - The Collapse of the Lie]]
 - [[02 Story/Characters/Aiden Fitzgerald]]
 - [[02 Story/Systems/The Breeding Program and Lineage Blackmail]]
+- [[07 QA/2026-09-21 - Resistance Ark Infographic Visual Review]]
 - [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]
 - [[07 Coordination/Story Completion Workflow/Endgame Workshop/README]]
 - [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]

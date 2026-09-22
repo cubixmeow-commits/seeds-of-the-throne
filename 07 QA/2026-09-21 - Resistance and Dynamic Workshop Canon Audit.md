@@ -22,6 +22,10 @@ The new decisions are compatible with the governing process boundary and strengt
 | significant | Gap | “Fight their way out” lacks an operational sequence and could accidentally imply Samuel owns the governing environment. | Constrained it to Samuel's story layer, proxies, dependencies, and local retaliation. Exact actions remain open. |
 | minor | Status | The conversation attachment is neither the Resistance graphic nor the final corrected altered-reality diagram. | Did not import it. The dynamic workshop records the missing asset and approval requirement. |
 
+## Asset follow-up
+
+The author later supplied a different file: the clean Resistance Ark infographic. That asset was reviewed, approved, stored, and registered in [[07 QA/2026-09-21 - Resistance Ark Infographic Visual Review]]. The finding above remains accurate for the earlier altered-reality attachment and does not apply to the newly supplied Resistance image.
+
 ## Cross-file checks
 
 - **Identity:** George White and Aiden Fitzgerald remain separate marks with separate agency; Aiden remains Konrad's biological son.
