@@ -238,6 +238,11 @@
   max-height: 24rem;
   object-fit: cover;
 }
+.evidence-banner--portrait { width: min(var(--page), 54rem); }
+.evidence-banner--portrait img {
+  max-height: none;
+  object-fit: contain;
+}
 .page-conspiracy .reading,
 .page-research .reading {
   border-inline-start: 3px solid var(--line);

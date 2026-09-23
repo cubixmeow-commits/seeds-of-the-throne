@@ -38,3 +38,5 @@ The Story homepage originally reused the landscape editorial-image crop, which c
 Rendered verification at 320, 375, 430, 768, 1024, and 1440 CSS pixels preserved the source's 0.75 width-to-height ratio at every size. The computed image treatment is `object-fit: contain` with an automatic aspect ratio, and both the document and body widths matched each viewport without horizontal overflow.
 
 The adjacent Resistance explanation is top-aligned with the infographic on multi-column layouts so the section label begins at the same visual edge as the image. Single-column mobile layouts retain their normal image-then-copy reading order.
+
+The Conspiracy page also presents the infographic at its complete portrait aspect ratio rather than cropping it into the shared landscape evidence-banner frame. Its width is capped on larger screens to keep the full image legible without overwhelming the page, while narrow screens use the available content width.

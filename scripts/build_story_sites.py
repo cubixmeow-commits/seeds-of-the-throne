@@ -307,7 +307,7 @@ def main():
             hero_html=pale_signal_masthead(title, deck)
             image=None
         if slug=='faction':
-            body='<figure class="evidence-banner"><img src="assets/images/resistance-ark-infographic-v1.webp" alt="'+html.escape(IMAGE_ALT['resistance-ark-infographic-v1.webp'])+'" width="1086" height="1448" loading="lazy"><figcaption>Approved Resistance infographic. The ark and black-and-orange identity are established; exact scenery and labels remain interpretive.</figcaption></figure>'+body
+            body='<figure class="evidence-banner evidence-banner--portrait"><img src="assets/images/resistance-ark-infographic-v1.webp" alt="'+html.escape(IMAGE_ALT['resistance-ark-infographic-v1.webp'])+'" width="1086" height="1448" loading="lazy"><figcaption>Approved Resistance infographic. The ark and black-and-orange identity are established; exact scenery and labels remain interpretive.</figcaption></figure>'+body
         if slug=='colonization':
             body='<figure class="layered-world"><img src="assets/images/surface-civilization-editorial-v1.webp" alt="'+html.escape(IMAGE_ALT['surface-civilization-editorial-v1.webp'])+'" width="1536" height="1024" loading="lazy"><figcaption>Interpretive surface civilization. Ordinary institutions and lives have real weight.</figcaption></figure>'+body
         outputs[DOCS/(slug+'.html')]=shell(slug,title,deck,body,image,hero_html)
