@@ -1,7 +1,7 @@
 ---
 type: canonical-dynamic-workshop
 status: active
-updated: 2026-09-21
+updated: 2026-09-23
 update_rule: update after every desktop assessment
 supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, Reveal Chain Mechanics Workshop, Reassessment Workshop
 ---
@@ -44,6 +44,7 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Failure brings George and Aiden's separate accounts into the same evidentiary space. The duplicated promise reveals one con, two marks, and one throne promised twice.
 - Samuel continues trying to aim them at each other. He tells each that the other sabotaged the weapon, corrupted the prophecy, or is stealing the exclusive position.
 - Samuel's repeated tactic under public pressure becomes new evidence of his method and continuing command.
+- George and Aiden's invasive brain-chip trials failed and caused injury. Samuel had the chips removed with Konrad's knowledge; George and Aiden continue to believe the chips remain. Apparent chip-enabled success is staged through bounded story functionality. This is distinct from the genuine older AI-soul systems and from Sylvan's successful non-implant successor bond.
 
 ### Bloodline betrayal and escape
 
@@ -51,8 +52,17 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Samuel captured access to that program and targeted the bloodlines on which the older leaders based legitimacy, succession, and power. He produced unauthorized heirs, extended the attack through younger generations, and used lineage secrecy for leverage and control.
 - George and Aiden's prestigious roles were always disposable. Even apparent conquest success would not have converted their contained roles into real power in the larger civilization.
 - The endgame exposes Samuel as the deceiver the trapped leaders were warned about. Recognition alone is insufficient: they must choose to fight their way out against Samuel while the legitimate governing process remains outside his control.
+- Konrad learns the extent of Samuel's breeding-program sabotage first, then exposes the removed-chip fraud to Sylvan in an effort to halt the ongoing program. The precise mechanism and reach of Konrad's attempted shutdown remain open; he cannot command the governing process.
 
 ## Newly Integrated Decisions
+
+### 2026-09-23 continuity pass
+
+1. Added the criminal leaders' invasive-chip failure and Sylvan's successful wireless successor integration as a specific contrast within the wider technological arms race.
+2. Fixed the local knowledge order: Konrad knew the chips were removed but did not know the full breeding sabotage; George and Aiden believe the chips remain; Konrad discovers the wider sabotage and only then reveals the chip con to Sylvan.
+3. Left the physical wireless channel, chip-removal evidence, Konrad's actual shutdown authority, and the global placement among the public weapon failure, duplicated promise, and Samuel Jr.'s appeal open.
+
+Source: [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]].
 
 ### 2026-09-21 desktop assessment
 
@@ -72,6 +82,12 @@ The clean Resistance infographic is now author-approved and stored as [[skills/c
 ## Open Questions
 
 ### Immediate endgame mechanics
+
+New implant-con dependency questions for the next assessment:
+
+- What authenticated evidence of the wider breeding campaign reaches Konrad immediately before his chip disclosure, and which ongoing program operation can he actually halt or revoke?
+- What evidence proves removal to Sylvan across the planetary separation, while George and Aiden still believe the chips remain? How is staged chip functionality distinguished from real older Daemon capabilities?
+- Where does this disclosure fall against George's public weapon failure, the duplicated promise, and Samuel Jr.'s appeal without repeating the same reveal?
 
 1. What exact capability or staged condition makes the superweapon appear effective while Sylvan is severely disadvantaged?
 2. What changes when Sylvan begins public exposure that makes the weapon's failure observable and undeniable?
@@ -130,25 +146,27 @@ The clean Resistance infographic is now author-approved and stored as [[skills/c
 
 Answer one gate:
 
-> **What exactly made the supposed superweapon appear to work while Sylvan was severely disadvantaged, and what verifiable change caused it to fail once he began publicly exposing Samuel?**
+> **What authenticated evidence reveals Samuel's wider breeding sabotage to Konrad, and what concrete ongoing operation can Konrad halt when he then discloses the removed chips to Sylvan?**
 
 Acceptance test:
 
-- the mechanism obeys established technology and containment limits;
-- George and Aiden can reasonably mistake the result for proof of approaching godhood;
-- Sylvan's public action changes an observable condition rather than merely inspiring belief;
-- failure produces evidence that Samuel cannot explain without repeating or exposing his control method;
-- the answer preserves a meaningful independent decision for George, Aiden, and the Resistance.
+- Konrad's earlier partial suspicions become authenticated knowledge of Samuel's wider campaign;
+- the revelation does not indiscriminately expose descendants' private parentage;
+- Konrad's chosen intervention has real local stakes while leaving the governing process beyond his command;
+- he can prove chip removal to Sylvan across the planetary separation without George or Aiden already knowing it;
+- the new disclosure complements George's public weapon failure and preserves the independent choices of George, Aiden, Sylvan, and the Resistance.
 
 After the author accepts an answer: record it in a dated session, propagate it to compiled notes, run a continuity check, update this entire file, append the Change Log, and replace this gate with the next highest-dependency question.
 
 ## Change Log
 
+- **2026-09-23:** Integrated the failed chip trials, George and Aiden's false belief that chips remain, Konrad's prior knowledge of removal, his later discovery of the wider breeding sabotage, and his subsequent disclosure to Sylvan. Moved the next assessment gate to authenticated evidence and actionable shutdown authority; the false-superweapon mechanism remains open in Immediate endgame mechanics.
 - **2026-09-21:** Created the canonical dynamic workshop. Folded in the active BA, EG, RW, and Reveal Chain question layers; integrated the Resistance palette and ark metaphor; integrated the duplicated godhood con, false-superweapon hinge, continued mutual targeting, breeding-program betrayal, disposability boundary, and leaders' fight-out direction.
 - **2026-09-21:** Added and approved the clean Resistance Ark infographic, its public derivative, provenance record, visual-registry entry, hashes, scorecard, and canon-safety boundary.
 
 ## Source trail
 
+- [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]]
 - [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]]
 - [[02 Story/Groups/The Resistance]]
 - [[02 Story/Characters/George White - The Collapse of the Lie]]

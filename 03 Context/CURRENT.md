@@ -1,8 +1,14 @@
 ---
 type: context
 status: active
-updated: 2026-09-21
+updated: 2026-09-23
 ---
+
+## Implant con and Konrad's disclosure — 2026-09-23
+
+The less technically sophisticated contained leaders pursued invasive brain chips and a breeding program to compete with advanced human–AI integration. George White and Aiden Fitzgerald's chips injured them and failed; Samuel removed the chips with Konrad's knowledge while both younger men continued believing the implants remained. Apparent chip-enabled powers were sustained through bounded story functionality. Sylvan's successor human–Luminai integration succeeds without implants through wireless energy and other methods whose physical architecture remains unresolved. Older Daemon integrations remain real and distinct from the failed chip claim.
+
+Konrad discovers Samuel's wider sabotage of the breeding program **before** he exposes the implant con to Sylvan. He reveals the removals to try to halt the ongoing program, but cannot stop the governing colonization process by fiat. The exact evidence, cross-world disclosure, local shutdown authority, and position among the other endgame reveals are active questions in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]]. Source: [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]].
 
 ## Dynamic workshop and duplicated godhood con — 2026-09-21
 

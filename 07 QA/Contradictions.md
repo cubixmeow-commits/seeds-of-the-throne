@@ -1,7 +1,7 @@
 ---
 type: qa
 status: active
-updated: 2026-09-20
+updated: 2026-09-23
 ---
 
 # Contradictions
@@ -48,3 +48,5 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 | C-031 | Earlier endgame notes distinguish George's divine destiny from Aiden's promised reward, while the later author decision gives both men the same absolute godlike position. | The later explicit decision controls: the destination is identical and exclusive, though Samuel may frame it to each mark through different language. See [[07 QA/2026-09-21 - Resistance and Dynamic Workshop Canon Audit]]. |
 | C-032 | Earlier Resistance notes leave all symbolism unresolved, while the author later locks black/orange colors and ark imagery. | Update only the decided visual layer. The final name, internal organization, and broader culture remain unresolved. |
 | C-033 | Earlier endgame phases aim trapped leaders at Sylvan, while the latest direction has them recognize Samuel as the deceiver and fight against him. | Treat these as sequential states: Samuel first directs the attack at Sylvan; weapon failure and public evidence reverse the trapped leaders' understanding and conflict toward Samuel. Exact actions remain open. |
+| C-034 | The failed George/Aiden chip experiment could be read as proof that all older AI-soul integration was a fraud, conflicting with Konrad's real older Daemon. | Distinguish the invasive chip claim and staged chip-enabled feats from genuine earlier human-linked AI systems. Injury is a consequence of the experiment, not an explanation of anyone's harmful choices. See [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]]. |
+| C-035 | Konrad's desire to “stop the process” could imply that he owns the governing colonization process, contrary to the established containment boundary. | Preserve his urgent attempt to halt the ongoing breeding program and local operations. Exact revocation/stop authority and result remain open; the governing process remains beyond him. |

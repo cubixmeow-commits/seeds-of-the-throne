@@ -84,3 +84,7 @@ These reports answer the five research questions attached to the first Creative 
 49. [[04 Research/Full Reports/49 - Encoded Civilizations and Manufactured Historical Evidence|Encoded Civilizations and Manufactured Historical Evidence]] — complete
 
 Report 49 examines historical letter–number systems, chronograms, acrostics, computational provenance, language watermarking, spatial archaeology, the multiple evidence channels required for a convincing manufactured past, and cognitive vulnerabilities relevant to George White's corrupted interpretation loop. Findings: [[04 Research/Findings/49 - Encoded Civilization Research Findings]].
+
+### Initiatory orders and human transformation — Report 50
+
+50. [[04 Research/Full Reports/50 - Initiatory Orders and Claims of Divine Transformation|Initiatory Orders and Claims of Divine Transformation]] — complete. Compares primary sources on Freemasonry, historical Golden Dawn, AMORC, O.T.O. and A∴A∴, Theosophy, B.O.T.A., Anthroposophy, the Saint Germain Foundation, and Scientology. Distinguishes moral improvement, higher awareness, mystical union, ascension, and claims of extraordinary agency without treating belief as proof or real groups as fictional antagonists. Findings: [[04 Research/Findings/50 - Initiatory Orders and Divine Transformation]].

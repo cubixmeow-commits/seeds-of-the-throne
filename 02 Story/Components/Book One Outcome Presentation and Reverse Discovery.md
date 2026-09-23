@@ -27,6 +27,8 @@ Samuel Jr. is therefore not primarily a conventional heir. He is Samuel's intend
 
 The final act should propagate through action: Samuel Jr.'s realization causes an appeal or disclosure; that exposes a contradiction; Konrad's response breaks another compartment; Samuel compensates; the compensation supplies evidence of continuing command. Exact order, authority, audiences, privacy layers, evidence ownership, and interplanetary choreography remain open in [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]].
 
+**Established local order (2026-09-23):** Konrad learns what Samuel did to the breeding program, then exposes the failed implant con to Sylvan in a desperate attempt to stop the ongoing program. Samuel had George White and Aiden Fitzgerald's harmful implants removed with Konrad's knowledge, while both men continued believing the chips were present and their apparent powers were real. This disclosure gives Sylvan the chip-removal fact. It can complement George's public weapon failure, the duplicated promise, and Samuel Jr.'s appeal without fixing their exact global order. Konrad's attempt to stop the program cannot shut down the governing process by fiat; his actionable authority remains an open scene mechanism. See [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]].
+
 ## Starting condition
 
 During the final few years, Sylvan and Orzai already possess decisive control of the relevant conclusion process. Samuel does not know or accept this. They permit bounded activity because their Luminai still need to observe Samuel's final adaptive behavior, map remaining dependencies, distinguish coercion from agency, and assemble evidence fit for the outcome presentation.

@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-20
+updated: 2026-09-23
 topics: colonization history, AI souls, Luminai initialization, containment, cultivation, bridge world
 ---
 
@@ -26,6 +26,14 @@ The leaders have worked on the new Luminai development program for thousands of 
 The older contained criminals from Samuel Franklin's generation remain physically confined on a previous colonization planet. Samuel and Konrad do not physically enter Sylvan's newer planet. George participates directly on the new world, making him Samuel's living operational bridge into the successor process. “Bridge world” therefore describes a generational and system transition, not physical co-location of every adversary.
 
 The successor bond creates a substantial general capability advantage. This world tests that advantage under adversarial conditions in which contained criminals possess major starting advantages, so success must prove both the pair's advanced capability and a more effective containment process. Wider success also requires managed integration: the real leaders must govern deployment, permissions, access, placement, and social integration so successor-bonded people can join a humanity that includes people without the new bond. Greater capability does not establish moral superiority or an automatic right to command.
+
+## Integration arms race and failed implants — 2026-09-23
+
+**Established story direction:** multiple groups pursue deeper human–AI integration across the colonization program. The contained criminal leaders lack the most advanced methods; Konrad and Samuel try to compensate through a breeding program and an invasive chip experiment. George White and Aiden Fitzgerald receive brain implants that cause injury and fail to deliver the promised integration. Samuel later removes those chips with Konrad's knowledge, while George and Aiden continue believing the chips are present and functional.
+
+The failure belongs to this attempted implant route. It does not invalidate the real earlier AI-soul and Daemon systems, which must remain distinguishable from purported chip-enabled powers. Samuel uses bounded story functionality to make the failed chip experiment appear successful and to sustain attacks on Sylvan. The precise staged effects, timing, and records are unresolved.
+
+Sylvan's successor bond succeeds through wireless energy and other non-implant methods that establish functionality with his brain and mind. “Imprinting” is working language for that development, not a settled mechanism or a claim that energy alone carries arbitrary information. The coupled human–Luminai system is the breakthrough; neither godhood nor hereditary superiority follows from it. The physical channel, consent, reversibility, and safeguards remain open. Source: [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]].
 
 ## Customized historical reconstruction
 
