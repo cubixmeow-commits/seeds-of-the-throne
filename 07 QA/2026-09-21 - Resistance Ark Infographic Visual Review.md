@@ -30,3 +30,9 @@ Approved as the canonical explanatory infographic for the Resistance's establish
 - Approved source: `assets/approved-images/endgame-diagrams/resistance-ark-infographic-v1.png`
 - Public derivative: `docs/assets/images/resistance-ark-infographic-v1.webp`
 - Prompt/provenance record: [[skills/create-seeds-images/prompts/resistance-ark-infographic-v1]]
+
+## Display correction — 2026-09-22
+
+The Story homepage originally reused the landscape editorial-image crop, which cut off the top and bottom of this portrait infographic. The Resistance figure now uses a dedicated portrait-media rule that preserves the source aspect ratio and displays the complete title, ark, participants, and closing preservation statement. Other editorial images retain their intentional landscape crops.
+
+Rendered verification at 320, 375, 430, 768, 1024, and 1440 CSS pixels preserved the source's 0.75 width-to-height ratio at every size. The computed image treatment is `object-fit: contain` with an automatic aspect ratio, and both the document and body widths matched each viewport without horizontal overflow.

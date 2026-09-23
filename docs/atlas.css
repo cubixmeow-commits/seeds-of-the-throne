@@ -155,6 +155,7 @@
 .editorial-band--evidence .editorial-band__media { order: 0; }
 .editorial-band__media { margin: 0; outline: 0; background: var(--concealed); overflow: hidden; }
 .editorial-band__media img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.editorial-band__media.editorial-band__media--portrait img { aspect-ratio: auto; max-height: none; object-fit: contain; }
 .editorial-band__media figcaption,
 .evidence-banner figcaption,
 .layered-world figcaption {
