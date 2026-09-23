@@ -167,7 +167,7 @@ def homepage_editorial(body_html, current_gate):
         </figure>
         <figure>
           <img src="assets/images/samuel-franklin-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['samuel-franklin-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
-          <figcaption><span class="status established">Approved appearance</span><strong>Samuel</strong><small>Controls people by controlling the explanation</small></figcaption>
+          <figcaption><span class="status established">Approved appearance</span><strong>Samuel</strong><small>Controls people with lies and manipulation</small></figcaption>
         </figure>
         <figure>
           <img src="assets/images/sylvan-elaria-identity-master-v1.jpg" alt="{html.escape(IMAGE_ALT['sylvan-elaria-identity-master-v1.jpg'])}" width="1024" height="1536" loading="lazy">
