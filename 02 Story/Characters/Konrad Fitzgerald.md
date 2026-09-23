@@ -15,6 +15,8 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 After the Great War, Konrad and Aiden accept an altered reality maintained through Samuel's story influence, apparent autonomous recovery, Fitzgerald systems reactivated inside Samuel's bounded jurisdiction, and their own obsession with prophecy and dominance over rivals. They believe their group remains separate and that their reactivated initiatives remain under Fitzgerald control.
 
+**Established later separation:** In the Sylvan endgame, Konrad remains physically on the older containment world while Aiden lives on Planet Three alongside George and Sylvan. Their shared altered interpretation continues across that separation; Aiden's transfer date and means are unresolved.
+
 **Established religious layer:** Konrad and Aiden sincerely believe they lead an original holy order placed by divine purpose. Its wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. They expect a promised reward for completing their purpose and accept the elimination of designated threats as sacred service. Samuel captures the channels through which signs, records, permissions, and rivals are interpreted, tells them Sylvan is the enemy described by the prophecy, and hides that target assignment inside apparent divine confirmation.
 
 During the endgame, Samuel presents Sylvan as the rival whose defeat will complete that recovery. Konrad and Aiden target Sylvan before the live attempt, Resistance evidence, and reactivation record reveal that Samuel is repeating the same capture method he used on them. This sequence leads into Konrad's established final decision below. Aiden's decision after exposure remains unresolved.
@@ -28,6 +30,8 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[0
 **Established:** Konrad rejects Samuel's plan and commits himself and his groups to Sylvan's plan to expose Samuel Franklin and reveal his betrayals to every affected group. Continuing the original deal would now make Konrad a knowing participant in Samuel's takeover of Konrad's own followers and the allied groups he led into it.
 
 This is Konrad's only real option at this point, not a moral absolution. He abandons the attempt to terrorize, process, or eliminate Sylvan; helps deliver the evidence; and uses his remaining influence to remove Samuel's control before the takeover is completed. The first irreversible action, personal cost, and exact authority he can revoke remain unresolved.
+
+**Established motive and complicity (2026-09-23):** Konrad knowingly endorsed Samuel's claim of successful chip integration for decades after the George/Aiden attempts failed and the harmful implants were removed. He and Samuel attacked Sylvan behind the staged comparison. After discovering Samuel's wider breeding-program sabotage, Konrad's only endgame priorities are shutting down the continuing program and exposing Samuel. Disclosing the removed-chip con to Sylvan serves those priorities and implicates Konrad himself; it is not an attempt to redeem the technology or preserve his standing. Exact shutdown powers and outcomes remain unresolved.
 
 Konrad remains above and responsible for his own groups. Sylvan remains a separate independent entity outside that hierarchy. Their connection is a specific collaboration around exposure, evidence delivery, and removal of Samuel's control. Konrad does not absorb Sylvan, and Sylvan does not inherit Konrad's organization.
 

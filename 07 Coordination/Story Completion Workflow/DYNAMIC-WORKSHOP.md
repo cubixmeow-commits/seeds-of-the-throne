@@ -45,6 +45,8 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Samuel continues trying to aim them at each other. He tells each that the other sabotaged the weapon, corrupted the prophecy, or is stealing the exclusive position.
 - Samuel's repeated tactic under public pressure becomes new evidence of his method and continuing command.
 - George and Aiden's invasive brain-chip trials failed and caused injury. Samuel had the chips removed with Konrad's knowledge; George and Aiden continue to believe the chips remain. Apparent chip-enabled success is staged through bounded story functionality. This is distinct from the genuine older AI-soul systems and from Sylvan's successful non-implant successor bond.
+- The trials failed decades before the endgame and decreased George and Aiden's mental functioning. Samuel claimed success, Konrad knowingly endorsed it, and the younger men occupied assigned roles in physically real altered realities while Samuel and Konrad attacked Sylvan. The claim that the two men were superior was manufactured; no rival chip-enabled integration succeeded.
+- **Planetary placement:** George and Aiden both act physically on Sylvan's Planet Three. Samuel and Konrad remain on the older containment world. The date, permissions, and route of Aiden's move from his earlier postwar arrangement with Konrad are open.
 
 ### Bloodline betrayal and escape
 
@@ -53,8 +55,17 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - George and Aiden's prestigious roles were always disposable. Even apparent conquest success would not have converted their contained roles into real power in the larger civilization.
 - The endgame exposes Samuel as the deceiver the trapped leaders were warned about. Recognition alone is insufficient: they must choose to fight their way out against Samuel while the legitimate governing process remains outside his control.
 - Konrad learns the extent of Samuel's breeding-program sabotage first, then exposes the removed-chip fraud to Sylvan in an effort to halt the ongoing program. The precise mechanism and reach of Konrad's attempted shutdown remain open; he cannot command the governing process.
+- Konrad's only endgame priorities are shutting down the continuing breeding program and exposing Samuel; revealing the chip fraud serves those ends and exposes his own knowing complicity. It is not a bid to vindicate his failed integration experiment.
 
 ## Newly Integrated Decisions
+
+### 2026-09-23 author placement and long-con correction
+
+1. Established both George and Aiden physically on Planet Three with Sylvan during the endgame; Samuel and Konrad remain on the older world. Aiden's transfer details stay open.
+2. Established decades-earlier failure, decreased functionality, Samuel's false success claim, and Konrad's conscious cooperation in the sustained fraud and attacks on Sylvan.
+3. Narrowed the endgame motive: after discovering Samuel's breeding sabotage, Konrad acts only to shut down the breeding program and expose Samuel. His shutdown authority and the precise proof mechanics remain open.
+
+Source: [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aiden Placement]].
 
 ### 2026-09-23 continuity pass
 
@@ -85,6 +96,8 @@ The clean Resistance infographic is now author-approved and stored as [[skills/c
 
 New implant-con dependency questions for the next assessment:
 
+- When and by what permission did Aiden arrive on Planet Three, and what in his earlier postwar false reality remained continuous across the move?
+- Which staged George/Aiden feats, assigned roles, and Konrad-backed attacks can be independently proved as parts of the decades-long supposed contest with Sylvan?
 - What authenticated evidence of the wider breeding campaign reaches Konrad immediately before his chip disclosure, and which ongoing program operation can he actually halt or revoke?
 - What evidence proves removal to Sylvan across the planetary separation, while George and Aiden still believe the chips remain? How is staged chip functionality distinguished from real older Daemon capabilities?
 - Where does this disclosure fall against George's public weapon failure, the duplicated promise, and Samuel Jr.'s appeal without repeating the same reveal?

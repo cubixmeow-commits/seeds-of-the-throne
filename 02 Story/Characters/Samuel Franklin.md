@@ -9,6 +9,12 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## September 23 failed-integration proof theater
+
+**Established:** The chip experiments on George and Aiden failed decades before the Sylvan endgame and decreased both men's mental functioning. Samuel had the chips removed with Konrad's knowledge but told the younger men they remained and claimed the integration succeeded. Konrad knowingly supported that lie. Samuel assigned roles and staged apparent capabilities using bounded story functionality to present the two men as superior to Sylvan while he and Konrad continued attacking Sylvan. George and Aiden are physically on Sylvan's Planet Three; Samuel and Konrad remain on the older containment world. The specific chip-enabled competitor never existed, though earlier Daemon systems are real. The exact role architecture, public scope of the claim, and evidence of each attack remain open.
+
+Source: [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aiden Placement]].
+
 ## September 19 altered-reality repetition
 
 **Established:** Samuel uses story functionality to maintain an altered reality around Konrad and Aiden Fitzgerald after the Great War. He exploits their defeat, religious prophecy, obsession with restored dominance, and need to defeat any rival. He convinces them that their reactivated group remains separate and sovereign while their people, programs, records, and sacred initiatives operate inside a structure that preserves Samuel's access.

@@ -15,6 +15,8 @@ roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality p
 
 Aiden survives the Great War defeat with Konrad and enters the postwar altered reality Samuel maintains through story functionality, apparent autonomy, reactivated systems, and the Fitzgerald group's own ideology. He and Konrad become obsessed with prophecy, restored dominance, and defeating any rival who threatens their promised return to power.
 
+**Established location correction (2026-09-23):** Aiden is physically on Sylvan's Planet Three during the endgame, as is George White. Konrad and Samuel remain on the older containment world. Aiden's earlier shared postwar false reality with Konrad describes a captured interpretation, not permanent physical co-location. When and how Aiden travels to Planet Three remain unresolved.
+
 **Established religious layer:** Aiden sincerely believes that he and Konrad lead an original holy order placed by divine purpose. Its wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Aiden believes service will culminate in a promised reward and that eliminating identified threats can fulfill sacred duty. Samuel does not appear as an ordinary commander. He counterfeits interpretive authority and tells Aiden that Sylvan is the enemy described by the prophecy.
 
 ## Endgame function
@@ -24,6 +26,8 @@ Samuel presents Sylvan as the rival whose defeat will confirm the reality Konrad
 **Established duplicated promise:** Samuel secretly promises Aiden the same exclusive end state he promises George White: absolute, godlike power over everyone else. The promise is compartmentalized so Aiden believes he alone is chosen. Earlier development that treated Aiden's “promised reward” as a different final destination is superseded; the presentation may feel like earned inheritance or reward to Aiden, but its promised destination is the same singular throne.
 
 **Established implant-con layer (2026-09-23):** Aiden received a brain chip in a failed integration experiment that injured him. Samuel removed it with Konrad's knowledge, but Aiden still believes the implant remains and accounts for apparent functionality. Bounded story effects sustain that interpretation; Aiden's genuine older AI-soul capabilities, if any, must be distinguished from staged chip-enabled feats. He does not learn the truth merely because Konrad discloses it to Sylvan. The timing and manner of Aiden's own discovery remain open.
+
+**Established decades-long false proof:** The implant attempt failed decades before the endgame and left Aiden with decreased mental functioning, without predetermining his moral choices. Samuel claimed success, with Konrad knowingly supporting the deception. Aiden's role in a physically real but altered narrative on Sylvan's planet helped present him as superior to Sylvan; Samuel and Konrad arranged attacks on Sylvan throughout that apparent contest. Which effects Aiden independently produced, which he misread, and what he chose to do in each role remain open.
 
 The supposed superweapon appears to confirm the promise only while Sylvan is severely disadvantaged. When Sylvan begins publicly exposing Samuel and the weapon fails, Aiden and George's separate stories enter the same evidentiary space. Samuel continues trying to aim them at each other by claiming the other man sabotaged the result or is stealing the promised position. Aiden's exact independent response remains open.
 

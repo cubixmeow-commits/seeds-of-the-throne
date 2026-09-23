@@ -10,7 +10,7 @@ theme: awakening, weaponization, and consequence
 
 ## 2026-09-06 cross-planet role
 
-**Established:** George's necessary function is physical access. Samuel, Konrad, and the older contained criminals from their generation remain physically on a previous colonization planet. George participates directly on Sylvan's newer planet and can therefore act inside Sylvan and Orzai's environment where Samuel cannot.
+**Established:** George's necessary function is physical access. Samuel, Konrad, and the older contained criminals from their generation remain physically on a previous colonization planet. George and Aiden both participate directly on Sylvan's newer planet and can therefore act inside Sylvan and Orzai's environment where Samuel and Konrad cannot. Their roles and independent choices differ; Aiden's transfer to Planet Three remains an open chronology link.
 
 George is not merely a generic remote proxy. His presence supplies the living operational bridge between the older containment structure and the successor process. Samuel can shape the agenda and try to exploit whatever communication and permissions remain, but George still makes decisions and retains responsibility for his own conduct. Exact communication, control, delay, and refusal mechanics remain open.
 
@@ -36,6 +36,8 @@ George White reaches the final showdown as the manufactured reality of his life 
 **Established savior con:** Samuel has spent years shaping George's altered reality around a savior-prophecy in which apparent signs culminate in George receiving absolute, godlike power over everyone else. A supposed superweapon appears to validate that destiny only while Sylvan is severely disadvantaged. Its exact bounded mechanism remains unresolved.
 
 **Established implant-con layer (2026-09-23):** George received a brain chip in a failed integration experiment that injured him. Samuel removed it with Konrad's knowledge, but George still believes the implant remains and helps produce his supposed abilities. Bounded story effects help sustain the illusion alongside the false superweapon. Konrad reveals the removal to Sylvan only after learning of Samuel's wider breeding sabotage; this does not automatically tell George. George's independent discovery and response remain open.
+
+**Established decades-long false proof:** The chip attempt failed decades before the endgame and decreased George's mental functioning, without excusing his later choices. Samuel declared it successful and Konrad knowingly sustained that account. George's assigned roles and staged effects in a physically real altered reality presented him as superior to Sylvan while Samuel and Konrad attacked Sylvan over the course of the supposed contest. The exact roles, staged feats, attacks, and George's own contributions remain unresolved; the specific chip-enabled rival integration never existed.
 
 Samuel secretly gives Aiden Fitzgerald the same exclusive promise. Neither mark is meant to know that one throne was promised twice. When Sylvan begins publicly exposing Samuel, the weapon fails, their separate claims become comparable, and the duplicate promise exposes one con run on two marks. Samuel continues trying to aim them at each other, telling each that the other caused the failure or is stealing the singular position.
 

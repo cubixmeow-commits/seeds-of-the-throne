@@ -15,7 +15,7 @@ The series does not simply reveal a hidden answer and then repeat it. Book One s
 
 ## Two-planet endgame geometry
 
-Samuel, Konrad, and the older contained criminals from Samuel's generation remain physically contained on a previous colonization planet. They are not physically present on Sylvan's newer planet. George can participate directly on the new planet and therefore performs the physical role Samuel cannot. Exact communication, permissions, delay, and interplanetary presentation mechanics remain open.
+Samuel, Konrad, and the older contained criminals from Samuel's generation remain physically contained on a previous colonization planet. They are not physically present on Sylvan's newer planet. **George and Aiden are both physically on Sylvan's Planet Three during the endgame** and can act directly there; neither's location implies Samuel or Konrad has crossed over. Exact communication, permissions, delay, Aiden's transfer from his earlier postwar setting, and interplanetary presentation mechanics remain open.
 
 Within the new three-world map, Sylvan's world is Planet Three. The active endgame still spans two planets. Whether the older containment location is definitively Planet Two remains an author gate rather than an inferred fact.
 
@@ -28,6 +28,8 @@ Samuel Jr. is therefore not primarily a conventional heir. He is Samuel's intend
 The final act should propagate through action: Samuel Jr.'s realization causes an appeal or disclosure; that exposes a contradiction; Konrad's response breaks another compartment; Samuel compensates; the compensation supplies evidence of continuing command. Exact order, authority, audiences, privacy layers, evidence ownership, and interplanetary choreography remain open in [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]].
 
 **Established local order (2026-09-23):** Konrad learns what Samuel did to the breeding program, then exposes the failed implant con to Sylvan in a desperate attempt to stop the ongoing program. Samuel had George White and Aiden Fitzgerald's harmful implants removed with Konrad's knowledge, while both men continued believing the chips were present and their apparent powers were real. This disclosure gives Sylvan the chip-removal fact. It can complement George's public weapon failure, the duplicated promise, and Samuel Jr.'s appeal without fixing their exact global order. Konrad's attempt to stop the program cannot shut down the governing process by fiat; his actionable authority remains an open scene mechanism. See [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]].
+
+**Established lead-up (2026-09-23):** The chip experiments failed decades earlier; Samuel declared success and Konrad knowingly helped sustain the claim. Both injured men were placed in altered-reality roles on Sylvan's planet, where bounded story effects appeared to confirm superior brain integration while Samuel and Konrad continued attacking Sylvan. George and Aiden believe their chips remain. The purported competition is a decades-long manufactured proof, not a second successful successor bond. Konrad's only endgame priorities become halting the continuing breeding program and exposing Samuel; the exact role evidence, Konrad's specific attack orders, and Aiden's transfer to Planet Three remain open. See [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aiden Placement]].
 
 ## Starting condition
 
@@ -64,7 +66,7 @@ The inner circle recognizes the repetition before Konrad does. The live attempt 
 
 ## Altered-reality repetition layer
 
-**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden remain inside an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it.
+**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden become caught in an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. This shared false narrative persists even though Aiden later lives on Planet Three while Konrad remains on the older containment world. The physical transfer and its date remain unresolved.
 
 Samuel uses that reality to hide his attacks on their groups and to make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
 

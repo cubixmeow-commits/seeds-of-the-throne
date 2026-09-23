@@ -4,7 +4,11 @@ status: active
 updated: 2026-09-11
 ---
 
-## Current Book One architecture questions — 2026-09-11
+## Current question routing — updated 2026-09-23
+
+The sole active assessment surface is now [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]]. The dated BA questions below are preserved as historical routing, not a competing active workshop. This file retains lower-level unresolved dependencies.
+
+## Historical Book One architecture questions — 2026-09-11
 
 The active dependency-ordered workshop is [[07 Coordination/Story Completion Workflow/Book One Architecture Workshop/README]]. BA-01 through BA-10 move from the exact “take Sylvan” rule to a scene-ready Book One sequence contract.
 
@@ -103,7 +107,7 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-068 | Who decides that an environment has taught enough, what authorizes transition, and can Samuel change only tactics or also force a transition? | [[02 Story/Systems/Competitive Environments - Control Inversion and Sylvan Endgame]] | open |
 | Q-069 | What observable conditions constitute valid completion of an assigned environment, and which independent authority authenticates that result? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
 | Q-070 | Which appeal and emergency-intervention mechanisms protect participants from unacceptable harm without becoming a unilateral way to escape a valid environment? | [[02 Story/Systems/Participant Governance and Command Rules]] | open |
-| Q-071 | What communication, permission, latency, evidence, and refusal architecture connects George on the new planet to Samuel on the previous containment planet? | [[02 Story/Characters/George White - The Collapse of the Lie]] | open |
+| Q-071 | What communication, permission, latency, evidence, and refusal architecture connects George and Aiden on Planet Three to Samuel and Konrad on the previous containment planet? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open; updated placement 2026-09-23 |
 | Q-072 | What exact customized bargain does Samuel offer Sylvan, and what does Samuel Jr. know, want, refuse, or preserve? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-073 | What final placements, remedies, privacy protections, and differentiated accountability follow after Samuel has no more deals or moves? | [[02 Story/Components/Book One Outcome Presentation and Reverse Discovery]] | open |
 | Q-074 | What exact rule constitutes successfully taking Sylvan, what time convention governs the fixed cutoff on his forty-second birthday, why is the permanent-largest-empire prize safe to offer, and what authority and obligations accompany the remaining city path through cooperation? | [[01 Sessions/Daily/2026-09-11 - RW-10 Permanent Empire Bait]] | partially resolved |
@@ -120,3 +124,6 @@ The high-priority list is maintained in [[03 Context/OPEN-QUESTIONS]]. Use this 
 | Q-085 | What does each leader know, choose, order, refuse, and risk after Samuel names Sylvan as the target? | [[07 Coordination/Story Completion Workflow/Endgame Workshop/11 - Preserve leader agency in the attack]] | open |
 | Q-086 | What first undeniable connection separates the existing prophecy from Samuel's application, who authenticates it, and which group acts first? | [[07 Coordination/Story Completion Workflow/Endgame Workshop/12 - Break the altered reality]] | open |
 | Q-087 | Who legitimately preserves and interprets the prophecy outside Samuel's altered reality, and how does the religion continue after his fraud is exposed? | [[02 Story/Systems/Original Religions and Counterfeit Sacred Authority]] | open |
+| Q-088 | When and with whose authority did Aiden move from the postwar setting shared with Konrad to Planet Three, and what parts of their altered story continued across that move? | [[02 Story/Characters/Aiden Fitzgerald]] | open; routed to Dynamic Story Workshop |
+| Q-089 | Which records distinguish the decades-old chip failure, lasting injuries, removal, role-based staged feats, and each older Daemon's genuine contributions? | [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aiden Placement]] | open; routed to Dynamic Story Workshop |
+| Q-090 | Which attacks on Sylvan did Konrad knowingly order or endorse within the long con, and what specific breeding-program power can he later revoke to help shut it down? | [[02 Story/Characters/Konrad Fitzgerald]] | open; routed to Dynamic Story Workshop |
