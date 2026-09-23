@@ -36,3 +36,5 @@ Approved as the canonical explanatory infographic for the Resistance's establish
 The Story homepage originally reused the landscape editorial-image crop, which cut off the top and bottom of this portrait infographic. The Resistance figure now uses a dedicated portrait-media rule that preserves the source aspect ratio and displays the complete title, ark, participants, and closing preservation statement. Other editorial images retain their intentional landscape crops.
 
 Rendered verification at 320, 375, 430, 768, 1024, and 1440 CSS pixels preserved the source's 0.75 width-to-height ratio at every size. The computed image treatment is `object-fit: contain` with an automatic aspect ratio, and both the document and body widths matched each viewport without horizontal overflow.
+
+The adjacent Resistance explanation is top-aligned with the infographic on multi-column layouts so the section label begins at the same visual edge as the image. Single-column mobile layouts retain their normal image-then-copy reading order.

@@ -177,7 +177,7 @@ def homepage_editorial(body_html, current_gate):
       <p><a href="characters.html">Meet the people</a> · <a href="faction.html">Follow the conspiracy</a></p>
     </div>
   </section>
-  <section class="editorial-band editorial-band--evidence" aria-labelledby="evidence-title">
+  <section class="editorial-band editorial-band--evidence editorial-band--portrait" aria-labelledby="evidence-title">
     <figure class="editorial-band__media editorial-band__media--portrait">
       <img src="assets/images/resistance-ark-infographic-v1.webp" alt="{html.escape(resistance_alt)}" width="1086" height="1448" loading="lazy">
       <figcaption>Approved Resistance infographic. The ark, palette, and preservation message are established; exact scenery and participant labels are interpretive.</figcaption>
