@@ -38,3 +38,5 @@ The accompanying copy must state that Samuel captured the explanation around the
 ## Website verification
 
 The final Story page was inspected after generation. At desktop width, the new portrait infographic and explanation form one balanced two-column continuation beneath the earlier diagrams. At 320 pixels, both become a single 296-pixel column, the page and body remain exactly 320 pixels wide, and the image and copy remain inside the viewport. The page accessibility tree exposes the explanatory image alt text, caption, heading, and three-paragraph explanation in the intended reading order.
+
+The Project Explorer overview now uses this approved reversal infographic beside the Resistance ark infographic in its current visual evidence pair. The rendered desktop pair preserves both complete portrait compositions at equal height. At 375 pixels, the figures become a single 335-pixel column with no document or body overflow, and the replacement retains its intrinsic portrait ratio, full alt text, and explanatory caption.

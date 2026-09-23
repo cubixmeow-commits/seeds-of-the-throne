@@ -226,6 +226,13 @@ const STORY_PAGES = ['index', 'colonization', 'ai', 'characters', 'faction', 'ti
   if (await page.locator('.explorer-hero__image[src*="konrad-controlled"]').count()) {
     errors.push('Project Explorer still uses cinematic key-art hero');
   }
+  const peEvidenceImages = await page.locator('.current-state__evidence img').evaluateAll((images) => images.map((image) => image.getAttribute('src')));
+  if (!peEvidenceImages.some((src) => src && src.includes('resistance-ark-infographic-v1.webp'))) {
+    errors.push('Project Explorer current-state evidence is missing the Resistance infographic');
+  }
+  if (!peEvidenceImages.some((src) => src && src.includes('altered-reality-deceiver-reversal-infographic-v1.webp'))) {
+    errors.push('Project Explorer current-state evidence is missing the altered-reality reversal infographic');
+  }
 
   // Vault Overview is a homepage section, not a disconnected page.
   for (const width of VIEWPORTS) {

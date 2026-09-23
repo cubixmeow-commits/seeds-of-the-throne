@@ -351,8 +351,8 @@ function explorer_format_bytes(?int $bytes): string
                     <figcaption><strong>The Resistance.</strong> The ark preserves people and truth through persecution without claiming supremacy.</figcaption>
                 </figure>
                 <figure>
-                    <img src="../../docs/assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="Diagram showing Samuel telling leaders inside an altered reality that Sylvan is the enemy described by an existing religious prophecy." width="1087" height="1447" loading="lazy">
-                    <figcaption><strong>Altered reality.</strong> Samuel applies an existing prophecy to Sylvan and turns sincere belief into an attack.</figcaption>
+                    <img src="../../docs/assets/images/altered-reality-deceiver-reversal-infographic-v1.webp" alt="Infographic showing Samuel outside an altered reality, George White, Konrad Fitzgerald, Aiden Fitzgerald, and other leaders trapped inside it, and Sylvan standing outside their hierarchy as the leaders recognize Samuel as the deceiver." width="1086" height="1448" loading="lazy">
+                    <figcaption><strong>Trapped inside Samuel's altered reality.</strong> The leaders recognize Samuel as the deceiver and must fight their way out against him.</figcaption>
                 </figure>
             </div>
         </section>

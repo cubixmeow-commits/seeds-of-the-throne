@@ -147,7 +147,7 @@ curated_markers = {
     'iainreiddotdev/project-explorer/index.php': [
         '2026-09-21 - Resistance Identity and Dynamic Endgame Workshop.md',
         'resistance-ark-infographic-v1.webp',
-        'altered-reality-prophecy-target-diagram-v1.webp',
+        'altered-reality-deceiver-reversal-infographic-v1.webp',
     ],
     'iainreiddotdev/analytics/collect.php': [
         'analytics_site_for_path',
