@@ -741,7 +741,8 @@
       "generator": "OpenAI GPT Image",
       "source_prompts": [
         "prompts/endgame-samuel-two-paths-choice-diagram-v1.md",
-        "prompts/endgame-altered-reality-prophecy-target-diagram-v1.md"
+        "prompts/endgame-altered-reality-prophecy-target-diagram-v1.md",
+        "prompts/altered-reality-deceiver-reversal-infographic-v1.md"
       ],
       "frames": [
         {
@@ -766,6 +767,18 @@
           "use": "explains that Samuel identifies Sylvan as the enemy described by a preexisting original religious prophecy and directs the trapped leaders' attack",
           "approval": "author approved",
           "warning": "The prophecy predates Samuel and was not created by Konrad's group; Samuel controls the target assignment, not the prophecy's existence."
+        },
+        {
+          "order": 3,
+          "title": "The leaders recognize Samuel as the deceiver",
+          "source_path": "assets/approved-images/endgame-diagrams/altered-reality-deceiver-reversal-infographic-v1.png",
+          "public_path": "docs/assets/images/altered-reality-deceiver-reversal-infographic-v1.webp",
+          "dimensions": "1086x1448",
+          "source_sha256": "2b0b08e7d31ae1a3ef619c34964b25ba7175b364db146b5f56cfd4e8d1283767",
+          "public_sha256": "540524fd8702fb30c8f2441069ae65dc950ac8adb33b066b9a019874f9b9b174",
+          "use": "explains the reversal after public exposure: the trapped leaders recognize Samuel as the deceiver, must choose how to fight their way out, and remain separate from Sylvan",
+          "approval": "author supplied and approved",
+          "warning": "Samuel controls the manipulated explanation around the leaders, not the larger colonization process. Sylvan remains outside their hierarchy. Exact enclosure, arrows, colors, clothing, and spatial hierarchy are visual interpretation."
         }
       ]
     },

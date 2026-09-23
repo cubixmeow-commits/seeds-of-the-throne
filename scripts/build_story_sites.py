@@ -12,7 +12,7 @@ DOCS = ROOT / 'docs'
 NAV_STORY = [('index','Story'),('colonization','World'),('ai','Luminai'),('characters','Characters'),('faction','Conspiracy'),('timeline','Timeline')]
 NAV_DEV = [('ideas','Ideas'),('todo','Progress'),('workshop','Workshop'),('research','Research')]
 NAV_RECORDS = [('visuals','Visuals'),('archive','Archive')]
-ASSET = '20260921-dynamic-workshop'
+ASSET = '20260922-altered-reality-reversal'
 IMAGE_ALT = {
     'konrad-controlled-by-samuel-key-art-v1.webp': 'Samuel covertly controls Konrad while Sylvan observes the relationship.',
     'sylvan-elaria-identity-master-v1.jpg': 'Approved visual identity portrait of Sylvan Elaria.',
@@ -25,6 +25,7 @@ IMAGE_ALT = {
     'planetary-cutaway-hero-mobile-v1.webp': 'Portrait symbolic visualization of an inhabited surface civilization above concealed planetary infrastructure.',
     'samuel-two-paths-choice-diagram-v1.webp': 'Horizontal decision diagram showing Samuel Franklin choosing between continuing to terrorize the contained leaders or continuing to terrorize Sylvan, with both paths ending in defeat.',
     'altered-reality-prophecy-target-diagram-v1.webp': 'Diagram showing Samuel outside an altered reality telling Konrad, Aiden, and other leaders that Sylvan is the enemy described by an existing religious prophecy.',
+    'altered-reality-deceiver-reversal-infographic-v1.webp': 'Infographic showing Samuel outside an altered reality, George White, Konrad Fitzgerald, Aiden Fitzgerald, and other leaders trapped inside it, and Sylvan standing outside their hierarchy as the leaders recognize Samuel as the deceiver.',
     'surface-civilization-editorial-v1.webp': 'Interpretive editorial view of a lived-in coastal civilization on the colonization planet.',
     'recovered-records-evidence-v1.webp': 'Interpretive still life of recovered records aligned against hidden-system evidence.',
     'resistance-ark-infographic-v1.webp': 'Black-and-orange Resistance infographic centered on an ark preserving people, belief, culture, memory, testimony, and sanctuary through persecution.',
@@ -219,6 +220,19 @@ def homepage_editorial(body_html, current_gate):
         <img src="assets/images/altered-reality-prophecy-target-diagram-v1.webp" alt="{html.escape(IMAGE_ALT['altered-reality-prophecy-target-diagram-v1.webp'])}" width="1087" height="1447" loading="lazy">
         <figcaption><strong>How Samuel directs the attack.</strong> He tells the trapped leaders that Sylvan is the enemy described by the existing prophecy. Exact interfaces and architecture are interpretive.</figcaption>
       </figure>
+    </div>
+    <div class="endgame-diagrams__resolution" aria-labelledby="deceiver-reversal-title">
+      <figure>
+        <img src="assets/images/altered-reality-deceiver-reversal-infographic-v1.webp" alt="{html.escape(IMAGE_ALT['altered-reality-deceiver-reversal-infographic-v1.webp'])}" width="1086" height="1448" loading="lazy">
+        <figcaption><strong>The reversal inside the altered reality.</strong> The leaders recognize Samuel as the deceiver and must choose how to fight their way out. The exact visual enclosure, hierarchy lines, colors, and clothing are interpretive.</figcaption>
+      </figure>
+      <div class="reading endgame-diagrams__resolution-copy">
+        <p class="eyebrow">When the story breaks</p>
+        <h3 id="deceiver-reversal-title">The leaders finally recognize who deceived them.</h3>
+        <p>Samuel did not create their faith or control the larger colonization process. He captured the explanation around their lives. He made divine purpose, false autonomy, and a promised reward appear to confirm his authority while he kept each leader's information separate.</p>
+        <p>Public exposure forces those isolated accounts into comparison. George, Konrad, Aiden, and the other leaders can now see the repeated promises, false target assignments, and bloodline betrayals as parts of the same con. The man who taught them to look for a deceiver is revealed as the deceiver himself.</p>
+        <p>Sylvan remains outside their hierarchy. He helps expose the record, but he does not replace Samuel or become their ruler. The trapped leaders must make their own choices and fight their way out against Samuel. The exact actions that complete that escape are still being developed.</p>
+      </div>
     </div>
   </section>
   {body_html}

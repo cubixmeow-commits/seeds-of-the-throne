@@ -138,7 +138,7 @@ curated_markers = {
     '07 Coordination/PUBLIC-SITE-UPDATE-SYSTEM.md': ['Projection decision', 'Desktop assessment checklist'],
     'docs/faction.html': ['one throne promised twice', 'resistance-ark-infographic-v1.webp'],
     'docs/archive.html': ['The project now uses one'],
-    'docs/index.html': ['Open the Dynamic Story Workshop', 'resistance-ark-infographic-v1.webp'],
+    'docs/index.html': ['Open the Dynamic Story Workshop', 'resistance-ark-infographic-v1.webp', 'altered-reality-deceiver-reversal-infographic-v1.webp', 'The leaders finally recognize who deceived them'],
     'docs/workshop.html': ['Dynamic Story Workshop', 'story-dynamic-workshop.json'],
     'iainreiddotdev/project-explorer/workbench.php': [
         'story-dynamic-workshop.json',

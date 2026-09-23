@@ -212,6 +212,15 @@
 .endgame-diagrams img { display: block; width: 100%; height: auto; }
 .endgame-diagrams figcaption { padding: .8rem; color: var(--muted); font: 500 .82rem/1.5 var(--mono); }
 .endgame-diagrams figcaption strong { color: var(--ink); }
+.endgame-diagrams__resolution {
+  display: grid;
+  grid-template-columns: minmax(16rem, .8fr) minmax(0, 1.2fr);
+  align-items: center;
+  gap: clamp(1.5rem, 5vw, 4rem);
+  margin-block-start: clamp(2rem, 5vw, 4rem);
+}
+.endgame-diagrams__resolution-copy { border: 0; padding: 0; }
+.endgame-diagrams__resolution-copy h3 { margin: .45rem 0 1rem; font: 650 clamp(1.65rem, 3vw, 2.5rem)/1.08 var(--serif); letter-spacing: -.025em; }
 .evidence-banner,
 .layered-world {
   width: var(--page);
@@ -330,7 +339,7 @@
   .power-triptych,
   .power-triptych--page { grid-template-columns: minmax(0, 1fr); }
   .editorial-band__media img { aspect-ratio: 4 / 3; max-height: 18rem; }
-  .endgame-diagrams__grid { grid-template-columns: 1fr; }
+  .endgame-diagrams__grid, .endgame-diagrams__resolution { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 28rem) {

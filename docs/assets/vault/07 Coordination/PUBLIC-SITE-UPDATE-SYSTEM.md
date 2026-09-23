@@ -44,6 +44,19 @@ If a change affects no public page, record “no public projection” in the ass
 | Approved visual | Relevant page source or builder composition | Story view and Visuals when useful | Approved source, public derivative, registry, provenance, and alt text. |
 | Research boundary | `research.md` | Decisions view | Cite primary sources and keep research noncanonical. |
 
+## Project Explorer overview hierarchy
+
+The Project Explorer overview must orient a first-time visitor to the whole current project before emphasizing the newest decision. Its current-project summary should cover, in compact form:
+
+1. the premise and world;
+2. the human and Luminai future;
+3. the central conflict;
+4. the current endgame;
+5. the Resistance or other major active story forces;
+6. what is established and what is being developed next.
+
+A new assessment may update one or more of these areas, but one focused discovery must not replace the overall summary. Focused details belong inside the relevant summary area, the Decisions view, the Dynamic Story Workshop, or the latest-assessment section.
+
 ## Desktop assessment checklist
 
 1. Sync and confirm a clean base.
@@ -52,7 +65,7 @@ If a change affects no public page, record “no public projection” in the ass
 4. Update `DYNAMIC-WORKSHOP.md`, including its Change Log and Next Assessment Pass.
 5. Complete the projection decision table for material changes.
 6. Edit reviewed sources in `05 Public/Atlas/`; never hand-edit generated HTML or JSON.
-7. Update Project Explorer current-state copy and links when the workflow, latest assessment, or active workshop changes.
+7. Update Project Explorer current-state copy and links when the workflow, latest assessment, or active workshop changes. Preserve the overall-summary hierarchy and place focused decisions inside the relevant area.
 8. Run `python3 scripts/build_story_sites.py`.
 9. Run `python3 scripts/check_story_sites.py` and `python3 scripts/test_workshop_contract.py`.
 10. Check JavaScript and PHP syntax.
