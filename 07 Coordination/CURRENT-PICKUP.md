@@ -1,11 +1,17 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-21
+updated: 2026-09-24
 scope: single current pickup point
 ---
 
-## Active pickup — Dynamic Story Workshop — 2026-09-21
+## Next author-triggered desktop pickup — 2026-09-24
+
+The author will return to **this chat** from the desktop app to run [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]. Start by reconciling the failed George/Aiden enhancement con, three separate altered realities, Konrad's complicity and deception, Samuel's attack on Sylvan and pursuit of Luminai secrets, and the existing Book One outcome. **Only after the integration audit should new author-facing questions be derived and the single [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] refreshed.** The handoff names the exact inputs, order, outputs, and gates. Do not automatically advance the prior superweapon question before this assessment.
+
+Activation phrase: **Run the September 24 Seeds endgame integration handoff.**
+
+## Historical pickup — Dynamic Story Workshop — 2026-09-21
 
 The single active story pass is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The latest supporting audit is [[07 QA/2026-09-21 - Resistance and Dynamic Workshop Canon Audit]].
 

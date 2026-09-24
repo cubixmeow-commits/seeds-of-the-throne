@@ -1,7 +1,7 @@
 ---
 type: implementation-queue
 status: active
-updated: 2026-09-10
+updated: 2026-09-24
 ---
 
 # Desktop Implementation Queue
@@ -16,6 +16,14 @@ Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Worksho
 Use this file for work that must survive a conversation handoff and requires local repository access. Keep ready work at the top. Move completed items into the completion log instead of deleting their history.
 
 ## Ready
+
+### 2026-09-24 — Integrate failed-enhancement con into the existing endgame
+
+- **Status:** ready for author-triggered desktop session in this chat
+- **Source:** [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]
+- **Order:** Audit the existing Book One endgame, integrate the separate altered realities and Samuel's cover-up into its causal/evidence sequence, and only then refresh the single Dynamic Story Workshop with genuinely new questions and one next author gate.
+- **Preserve:** Konrad's concealed knowledge of chip removal and separate deception by Samuel; George and Aiden together on Planet Three; no literal Luminai theft or invented shutdown authority; Resistance agency and established terminal sequence.
+- **Result required:** Dated QA assessment, reconciled compiled notes, dependency-ordered workshop, clean diff, committed and synced vault. No site publication.
 
 ### 2026-09-08 — Coded website design lab
 

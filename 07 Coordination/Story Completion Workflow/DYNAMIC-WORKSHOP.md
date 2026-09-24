@@ -171,7 +171,11 @@ New implant-con dependency questions for the next assessment:
 
 ## Next Assessment Pass
 
-Answer one gate:
+**Author-triggered desktop integration takes precedence over the single gate below.** When the author returns in this chat, run [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]: reconcile the existing endgame and produce the dated continuity/evidence assessment first, then revise this workshop and select one next author gate. The question below remains a *deferred candidate*, not the first prompt for that pass. Do not add new workshop questions until the integration establishes which gaps remain.
+
+### Deferred candidate from the previous assessment
+
+Previously proposed gate to reassess after integration:
 
 > **What authenticated evidence reveals Samuel's wider breeding sabotage to Konrad, and what concrete ongoing operation can Konrad halt when he then discloses the removed chips to Sylvan?**
 
@@ -187,6 +191,7 @@ After the author accepts an answer: record it in a dated session, propagate it t
 
 ## Change Log
 
+- **2026-09-24:** Added an author-triggered desktop integration handoff. Deferred the previous breeding-evidence gate until the separate altered realities, failed-enhancement con, Samuel's Luminai-secret pursuit, and existing Book One endgame have been reconciled; new questions follow that audit.
 - **2026-09-23:** Integrated the failed chip trials, George and Aiden's false belief that chips remain, Konrad's prior knowledge of removal, his later discovery of the wider breeding sabotage, and his subsequent disclosure to Sylvan. Moved the next assessment gate to authenticated evidence and actionable shutdown authority; the false-superweapon mechanism remains open in Immediate endgame mechanics.
 - **2026-09-21:** Created the canonical dynamic workshop. Folded in the active BA, EG, RW, and Reveal Chain question layers; integrated the Resistance palette and ark metaphor; integrated the duplicated godhood con, false-superweapon hinge, continued mutual targeting, breeding-program betrayal, disposability boundary, and leaders' fight-out direction.
 - **2026-09-21:** Added and approved the clean Resistance Ark infographic, its public derivative, provenance record, visual-registry entry, hashes, scorecard, and canon-safety boundary.
