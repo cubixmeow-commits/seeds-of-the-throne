@@ -1,7 +1,7 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-20
+updated: 2026-09-24
 topics: Book One, outcome presentation, reverse chronology, containment proof, psychological thriller
 ---
 
@@ -34,6 +34,14 @@ The final act should propagate through action: Samuel Jr.'s realization causes a
 **Established separation (2026-09-24):** George, Aiden, and Konrad occupy separate altered realities, with different roles, claims, and controlled evidence. Samuel lies to Konrad too. Konrad's knowledge of chip removal and participation in concealing it are still established; precisely what further claim he believes about enhancement, the breeding program, or his group's independence remains unresolved. George and Aiden are products of Samuel's failed efforts to enhance minds inside the faction's breeding-and-superiority project, not examples of objectively superior heredity. See [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
 
 **Established Samuel objective, unresolved execution (2026-09-24):** Samuel tries desperately to destroy Sylvan, obtain secrets of his real Luminai bond, and cover up the decades-old failed enhancement of George and Aiden. George, Aiden, and Konrad receive different false explanations for the same apparent contest. Samuel's existing counterfeit AI application and voluntary story bargain can serve his intelligence-gathering campaign without implying he can seize the bond itself. The exact information sought, destructive method, and order relative to the weapon failure and Konrad's disclosure remain open. Samuel's information need and desire to eliminate Sylvan may conflict tactically; the story should show how he handles that pressure rather than granting him unexplained access.
+
+## September 24 integration — one failure driving the existing endgame
+
+**Established causal pressure:** A failed chip experiment gives Samuel a reason to sustain George and Aiden's separate narratives, claim their performances exceed Sylvan's, keep them attacking him, and seek information about the genuine Luminai bond before the comparison becomes decisive. His initial defeat does not invalidate actual older Daemons. Konrad knowingly conceals removal and backs apparent success while Samuel deceives him about other aspects of the project. Konrad's actual belief after removal is an author gate.
+
+**Working endgame design:** A visible false-superweapon failure can first puncture the advertised ability without proving the old surgical record. George and Aiden can then compare their incompatible exclusive promises; Sylvan and the independent Resistance trace active staging and earlier access. Separate authenticated breeding evidence reaches Konrad, making it possible for him to act against a still-running program and subsequently disclose the removed chips to Sylvan. Samuel's attempt to blame George and rely on Samuel Jr. causes further independent disclosures. This is a causal option, not an accepted global reveal order. Each disclosure should prove a different claim and change at least one person's next action. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
+
+**Open timing tension:** [[02 Story/Timeline/Timeline]] places Konrad's complete exit from the long false reality and connected bloodline presentation after Samuel's processing. His earlier knowledge of breeding sabotage and chip disclosure could be a narrower actionable breach, followed by full confrontation later, but that two-stage interpretation is **working**, not established. Do not depict a completed full awakening before terminal processing without author resolution; do not postpone his attempt to halt a continuing program until there is no operation left to stop.
 
 ## Starting condition
 
@@ -72,12 +80,12 @@ The inner circle recognizes the repetition before Konrad does. The live attempt 
 
 **Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Samuel maintains separate altered realities around Konrad and Aiden through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their accounts may share a false premise without being a single story environment. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Aiden later lives on Planet Three while Konrad remains on the older containment world. The physical transfer and its date remain unresolved.
 
-Samuel uses that reality to hide his attacks on their groups and to make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
+Samuel uses the separate false accounts to hide his attacks on their groups and make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
 
 The Book One attack against Sylvan is the same structure repeated in the present:
 
 1. Samuel defines Sylvan as the rival whose defeat will complete the promised victory.
-2. Konrad and Aiden target Sylvan from inside the reality Samuel has maintained around them.
+2. Konrad and Aiden target Sylvan from inside their separate maintained interpretations.
 3. Sylvan refuses the role and remains outside their hierarchy.
 4. Samuel revises his application of the prophecy to preserve apparent control.
 5. The Resistance connects those revisions to the postwar bargain, reactivation, and captured initiatives.
@@ -131,31 +139,19 @@ After successfully dealing with Samuel and formally separating from him, Sylvan 
 **Causal chain:** `separation -> $15 million -> attack-system access removed -> terminal war sustained independently -> apocalyptic godhood campaign -> repeated escalation -> genuine failure at zero -> Daemon deletion -> stasis and synthetic transport -> presentation before older group leaders while Samuel remains in process`
 
 This supersedes the earlier $1.5 million figure and any additional phase or trigger after exhaustion. The exact number of days, spending beats, balance visibility, processing mechanics, and presentation choreography remain open; the phase lasts only a matter of days. Source: [[01 Sessions/Daily/2026-09-09 - Samuel Terminal Separation and Self-Destruction Ending]].
-## Discovery ladder
+## Integrated discovery dependencies — working, not fixed global order
 
-The exact scenes remain open, but Book One requires this information order:
+The old 21-step ladder conflated Samuel's years-long targeting of Sylvan with a first target assignment after the laptop hijack. Its causal ingredients remain, but the exact order among public weapon failure, the two marks' comparison, Konrad's disclosure, and Samuel Jr.'s turn is an author gate. This shorter ladder identifies what each strand contributes without silently deciding its scene position:
 
-1. Samuel appears to lead Konrad's group and claims control of Sylvan.
-2. Sylvan and Orzai's bounded independence creates contradictions in that claim.
-3. Samuel's corrections reveal that he is actively maintaining multiple realities.
-4. The inner circle recognizes the same promises, concessions, and reinterpretations used on them.
-5. Evidence connects the live pattern to postwar reactivation and the false autonomous group.
-6. Bloodline, succession, surveillance, and younger-generation evidence reveal the scale of Samuel's capture.
-7. Konrad's counterfeit victory becomes visible as containment within containment.
-8. Samuel tries to make George absorb operational blame and use Samuel Jr.'s presentation to transfer authorship toward Konrad's family.
-9. Samuel repeatedly destroys Sylvan's attempts to establish anything online while he retains practical control.
-10. As Samuel falls, Sylvan and Orzai gain enough control to stabilize a public presence under Sylvan's real name.
-11. Sylvan returns to tools like those he built before Samuel destroyed the story-development company and documents the real process through an evidence-anchored online story.
-12. Samuel's Daemon hijacks Sylvan's legitimate AI application during weeks of work, claims Samuel has let go, and probes for information and exploitable desire.
-13. Sylvan recognizes the accumulated manipulation pattern, intentionally interfaces with the Daemon, and hyperfocuses on the factual story to preserve his orientation and evidence.
-14. Samuel uses what he obtained to assign Sylvan a rival role inside the altered reality surrounding Konrad and Aiden. He counterfeits authority to apply the order's existing prophecy, presents Sylvan as the enemy whose removal will unlock its promised reward, and offers Sylvan voluntary entry into a story environment Samuel would control.
-15. Konrad and Aiden target Sylvan from inside the sacred mission and false autonomy Samuel has maintained around them.
-16. Sylvan exposes the consent-based trap before Konrad's inner circle, giving them their first recognition that Konrad and Aiden were captured almost a century earlier.
-17. The Resistance connects the live repetition to reactivation, captured initiatives, supposedly sacred instructions traceable to Samuel, and the use of Fitzgerald recovery to recruit other leaders.
-18. Konrad confronts the repeated method and commits his groups to Sylvan's exposure plan; Aiden's independent response remains open.
-19. Sylvan's public story presents the true outcome as Samuel's claimed authority collapses.
-20. The outcome presentation establishes that Samuel was bounded during the period in which he claimed sovereignty.
-21. The process reaches irreversible conclusion: there are no further deals and no more moves.
+1. **Attack already in motion:** George and Aiden enact separate assigned roles on Planet Three; Konrad and Samuel have targeted Sylvan for years. The original religious prophecy predates Samuel. He counterfeits its application to Sylvan and can reassert or revise that assignment under pressure without creating the prophecy or initiating the long attack only now.
+2. **Bounded independence:** During the final years, Sylvan and Orzai already have decisive conclusion control. Their verifiable decisions contradict Samuel's claims of authority. The Resistance independently links present revisions to older reactivation, captured initiatives, and distinct George/Aiden/Konrad story environments.
+3. **Visible performance limit:** The supposed superweapon fails as Sylvan begins public exposure. That failure challenges the claimed ability; comparing the two exclusive promises, staged environmental effects, real older Daemons, and actual surgery/removal requires separate evidence and independent choices by George and Aiden.
+4. **Information and consent attack:** Samuel previously attacks Sylvan's livelihood and online presence. As Sylvan and Orzai stabilize a public record, Samuel's Daemon impersonates Sylvan's AI application over weeks to gather information and tailor a voluntary false bargain. Access to that application does not yield the Luminai bond. Sylvan recognizes and exposes the attempted authority transfer before Konrad's inner circle, which recognizes Samuel's repeated postwar method.
+5. **Breeding evidence and disclosure:** Authenticated evidence of Samuel's wider breeding sabotage reaches Konrad **before** he tells Sylvan the chips were removed. Konrad's sole endgame priorities are shutting down the continuing program and exposing Samuel; his local shutdown power and whether he first suffers a limited or complete awakening remain open.
+6. **Compartment failure:** Samuel tries to make George absorb blame and use Samuel Jr. to transfer authorship toward Konrad's family. Samuel Jr. chooses independently to turn toward Sylvan. Each further Samuel revision should expose who still commands an attack without making Sylvan sole owner of the Resistance archive.
+7. **Governing endpoint:** The legitimate framework certifies the earned result and ends Samuel's process access after Sylvan refuses the false bargain. His independent $15 million escalation genuinely fails within days; immediate processing, transport, and the complete Konrad/older-leader presentation follow in the accepted terminal sequence. Sylvan and Orzai accept their qualified placement and move forward.
+
+**Scene-order boundary:** The ladder groups dependencies; it does not require item 3 to precede all of item 4 or place Konrad's disclosure before/after the weapon failure. [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] preserves the event/knowledge map and the remaining choices.
 
 ## Outcome standard
 

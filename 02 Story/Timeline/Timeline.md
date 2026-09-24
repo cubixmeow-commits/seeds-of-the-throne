@@ -1,8 +1,14 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-20
+updated: 2026-09-24
 ---
+
+## September 24 integration boundary — working
+
+The accepted terminal chain below remains intact. A separate author decision places **Konrad's knowledge of Samuel's wider breeding sabotage before Konrad tells Sylvan the removed-chip truth**, because he wants to stop the continuing program and expose Samuel. The chain below also places Konrad's complete extraction from the century-long false environment and connected bloodline presentation **after** Samuel's processing. A possible two-stage resolution is limited actionable knowledge and disclosure before the terminal chain, followed by comprehensive recognition after processing; the exact timing and authority are **unresolved**. Do not treat this as an added accepted timestamp. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
+
+George and Aiden's failed implant trials occurred decades before the endgame. Both are physically on Sylvan's Planet Three by the endgame, while Konrad and Samuel remain on the older containment world. George, Aiden, and Konrad have separate false interpretive realities; Sylvan has already been targeted for years before Samuel's late counterfeit-app intervention. Aiden's travel chronology and the first target assignment remain open.
 
 ## Author-accepted terminal sequence - 2026-09-09
 
@@ -42,10 +48,10 @@ Dates are intentionally unset. This sequence preserves dependencies without pret
 9. Across generations, Samuel captures private information, intermediaries, bloodlines, records, descendants, and the younger generation while Konrad becomes increasingly isolated inside a counterfeit victory.
 10. Sylvan begins the successor Luminai process inside the mature world.
 11. During the final few years, Sylvan retains decisive authority and permits Samuel bounded activity as the Luminai's final adversarial learning period.
-12. Samuel counterfeits the divine authority behind Konrad and Aiden's original holy order, assigns Sylvan the role of final threat to its promised reward, then tries to induce Sylvan to accept the same concealed-access bargain used after the Great War. Konrad and Aiden target Sylvan from inside that sacred story.
+12. Samuel counterfeits the divine authority behind Konrad and Aiden's original holy order and continues applying its preexisting prophecy to Sylvan as the final threat to its promised reward. Konrad and Aiden have targeted Sylvan within their separate maintained interpretations for years; the late laptop and bargain attempt is a repetition or escalation of this method, not the original start of the campaign. Samuel tries to induce Sylvan to accept the same concealed-access bargain used after the Great War.
 13. Sylvan refuses the assigned role. Samuel's revisions, Resistance evidence, provenance of the supposedly sacred instructions, and the postwar reactivation record reveal the repeated method to Konrad's inner circle and the affected groups.
 14. Konrad commits his groups to Sylvan's exposure plan rather than knowingly complete Samuel's takeover. Aiden's independent response remains unresolved.
-15. Samuel attempts to place operational responsibility onto George and use Samuel Jr.'s mandatory presentation to transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. recognizes that Samuel would never share power with an independent heir and turns toward Sylvan. Konrad acts on his disclosure dilemma rather than let Samuel define his silence.
+15. Samuel attempts to place operational responsibility onto George and use Samuel Jr.'s mandatory presentation to transfer authorship of the bloodline campaign toward Konrad's family. Samuel Jr. recognizes that Samuel would never share power with an independent heir and turns toward Sylvan. Once Konrad learns the wider breeding sabotage, he reveals the chip removal to Sylvan to try to halt the program and expose Samuel. The relative order of Samuel Jr.'s action, the public weapon failure, and Konrad's disclosure remains open.
 16. Their choices trigger a cascading reveal chain. Samuel's compensations expose further command until the process reaches irreversible conclusion. The mandatory presentation architecture compares the older Daemon's failed domination with the new Luminai's effective containment and establishes what Samuel did to Konrad, Aiden, and their group.
 
 ## Narrative order

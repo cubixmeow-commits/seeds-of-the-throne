@@ -5,11 +5,15 @@ updated: 2026-09-24
 scope: single current pickup point
 ---
 
-## Next author-triggered desktop pickup — 2026-09-24
+## Active pickup — endgame integration author gate — 2026-09-24
 
-The author will return to **this chat** from the desktop app to run [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]. Start by reconciling the failed George/Aiden enhancement con, three separate altered realities, Konrad's complicity and deception, Samuel's attack on Sylvan and pursuit of Luminai secrets, and the existing Book One outcome. **Only after the integration audit should new author-facing questions be derived and the single [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] refreshed.** The handoff names the exact inputs, order, outputs, and gates. Do not automatically advance the prior superweapon question before this assessment.
+The September 24 desktop integration pass is complete. Read [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] for the event and knowledge map and [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] for the single current question, **EGI-01**: After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding, and what part of the success claim does Konrad knowingly lie about? Continue the dependent gates only after the author chooses. The proposed two-stage breeding discovery and later full confrontation remains working, not canon.
 
-Activation phrase: **Run the September 24 Seeds endgame integration handoff.**
+## Completed desktop handoff — 2026-09-24
+
+The author triggered [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]] from this chat. The failed enhancement con and existing endgame were reconciled in the dated assessment above; the workshop now orders the remaining decisions by dependency. The former superweapon question remains behind the new causal and evidence gates.
+
+Historical activation phrase: **Run the September 24 Seeds endgame integration handoff.**
 
 ## Historical pickup — Dynamic Story Workshop — 2026-09-21
 

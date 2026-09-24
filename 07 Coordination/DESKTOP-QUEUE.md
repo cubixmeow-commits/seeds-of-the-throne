@@ -17,14 +17,6 @@ Use this file for work that must survive a conversation handoff and requires loc
 
 ## Ready
 
-### 2026-09-24 — Integrate failed-enhancement con into the existing endgame
-
-- **Status:** ready for author-triggered desktop session in this chat
-- **Source:** [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]
-- **Order:** Audit the existing Book One endgame, integrate the separate altered realities and Samuel's cover-up into its causal/evidence sequence, and only then refresh the single Dynamic Story Workshop with genuinely new questions and one next author gate.
-- **Preserve:** Konrad's concealed knowledge of chip removal and separate deception by Samuel; George and Aiden together on Planet Three; no literal Luminai theft or invented shutdown authority; Resistance agency and established terminal sequence.
-- **Result required:** Dated QA assessment, reconciled compiled notes, dependency-ordered workshop, clean diff, committed and synced vault. No site publication.
-
 ### 2026-09-08 — Coded website design lab
 
 - **Status:** ready for Cursor; prototype-only and author-gated
@@ -43,6 +35,12 @@ Use this file for work that must survive a conversation handoff and requires loc
 - **Result:** Story atlas planetary `<picture>` hero and editorial sequence; quieter Project Explorer with shared HPI tokens; PR #4 behavior preserved; build/check/validate/Playwright pass; twelve-part completion report on the handoff.
 
 ## Completed implementation context
+
+### 2026-09-24 — Integrate failed enhancement con into the existing endgame
+
+- **Status:** integration complete; next author decision EGI-01 in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]].
+- **Source:** [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]].
+- **Result:** [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] maps separate realities, failed enhancement evidence, Konrad's split knowledge, and Book One reveal dependencies. Compiled notes distinguish accepted facts from working placement; the workshop holds a single next gate. No site publication.
 
 ### 2026-09-10 — Vault functionality overview and reliability pass
 

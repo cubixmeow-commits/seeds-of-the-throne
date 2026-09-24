@@ -60,7 +60,16 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Konrad learns the extent of Samuel's breeding-program sabotage first, then exposes the removed-chip fraud to Sylvan in an effort to halt the ongoing program. The precise mechanism and reach of Konrad's attempted shutdown remain open; he cannot command the governing process.
 - Konrad's only endgame priorities are shutting down the continuing breeding program and exposing Samuel; revealing the chip fraud serves those ends and exposes his own knowing complicity. It is not a bid to vindicate his failed integration experiment.
 
-## Newly Integrated Decisions
+## Integrated Assessments and Author Decisions
+
+### 2026-09-24 desktop endgame integration — working sequence, not new canon
+
+1. Joined Samuel's old enhancement failure to the already accepted Book One engine: separate George/Aiden/Konrad stories, sustained attacks on Sylvan, counterfeit laptop AI, a consent-based false bargain, independent Resistance proof, George/Aiden comparison, breeding disclosure, Samuel Jr.'s turn, and the terminal outcome.
+2. Distinguished what each proof can establish: a failed superweapon exposes a performance limit; duplicate promises expose contradictory private claims; authenticated surgery/removal establishes the implant fraud; breeding records establish Samuel's separate campaign; the live false bargain and revisions expose current command.
+3. Flagged the unresolved Konrad clock. His breeding discovery and chip disclosure have a fixed **local** order. The accepted terminal sequence still places his full bloodline confrontation after Samuel's processing. Earlier actionable evidence followed by later comprehensive recognition is a working option, not established timing.
+4. Replaced the older 8 overlapping implant questions and 20 broad questions with the dependency-ordered gates below. Their answers remain open; the prior workshop and dated sessions preserve the historical wording. The first gate concerns Konrad's exact false belief after chip removal.
+
+Source: [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] and [[01 Sessions/Daily/2026-09-24 - Endgame Integration and Reveal Dependencies]].
 
 ### 2026-09-24 separate realities and endgame pressure
 
@@ -103,48 +112,30 @@ The clean Resistance infographic is now author-approved and stored as [[skills/c
 
 ## Open Questions
 
-### Immediate endgame mechanics
+The following gates replace duplicate prompts; they do not declare unanswered choices settled. Work one author gate at a time and reorder after every accepted answer. Options are **proposals**, not competing canon.
 
-New implant-con dependency questions for the next assessment:
+### Foundation: what each participant actually believes
 
-- What precisely does Konrad believe Samuel accomplished after removing the chips, and what evidence convinces him while he knowingly conceals the removals?
-- Which Luminai secret does Samuel seek, what could his counterfeit assistant observe, and how does he balance seeking information from Sylvan with attempting to destroy him?
-- Which separate staged proof does each of George, Aiden, and Konrad see, and what comparison makes their accounts incompatible?
-- When and by what permission did Aiden arrive on Planet Three, and what in his earlier postwar false reality remained continuous across the move?
-- Which staged George/Aiden feats, assigned roles, and Konrad-backed attacks can be independently proved as parts of the decades-long supposed contest with Sylvan?
-- What authenticated evidence of the wider breeding campaign reaches Konrad immediately before his chip disclosure, and which ongoing program operation can he actually halt or revoke?
-- What evidence proves removal to Sylvan across the planetary separation, while George and Aiden still believe the chips remain? How is staged chip functionality distinguished from real older Daemon capabilities?
-- Where does this disclosure fall against George's public weapon failure, the duplicated promise, and Samuel Jr.'s appeal without repeating the same reveal?
+1. **EGI-01 — Konrad's post-removal belief.** What does Konrad believe Samuel accomplished once he knows the chips came out, while he knowingly conceals that removal and backs the success claim? **Unlocks:** what he lies about, what Samuel lies to him about, and which evidence breaks his separate reality. **Proposed routes:** (A) the chips initiated a lasting non-implant adaptation; (B) apparent success hides an unfinished but nearly successful experiment Konrad knowingly markets as complete; (C) genuine older Daemon effects are misrepresented to him as evidence of George/Aiden mind enhancement. What precisely convinces him, and what fact would disprove it?
+2. **EGI-02 — Three distinct proof environments.** Which different role, observed feat, and promised reward does George, Aiden, and Konrad each believe confirms the superiority project? **Unlocks:** three differentiated points of view and the first meaningful cross-account contradiction. **Proposed designs:** private ritual/prophecy confirmation; visible performance through controlled infrastructure; controlled records of hereditary or Daemon success. Each person can receive a different combination without one common story environment.
+3. **EGI-03 — Aiden's physical chronology.** When, under whose authority, and for what separate role does Aiden move from the postwar setting to Planet Three? **Unlocks:** his direct attacks, access paths, and how Konrad remains separately deceived across worlds. **Proposed routes:** early long-term posting; later mission transfer; repeated visits leading to final placement. Do not infer an exact year from Konrad's near-century isolation.
 
-1. What exact capability or staged condition makes the superweapon appear effective while Sylvan is severely disadvantaged?
-2. What changes when Sylvan begins public exposure that makes the weapon's failure observable and undeniable?
-3. Which record, live statement, or repeated wording proves that Samuel promised George and Aiden the same singular throne?
-4. What is each man's first independent choice after the duplicated promise becomes undeniable?
-5. What is Samuel's exact attempt to turn them against one another, and which live action makes his continuing command provable?
-6. Which trapped leader first acts against Samuel, what does that action cost, and why can it not be taken back?
-7. What practical obstacles constitute the leaders' fight out of the altered reality if Samuel does not control the governing process?
+### Mechanism: how the false comparison survives
 
-### Evidence, privacy, and Resistance agency
+4. **EGI-04 — Samuel's information target.** Which *specific* fact about Sylvan's Luminai does Samuel hope to learn, and what can the hijacked laptop application actually observe? **Unlocks:** a credible desperate strategy and limits on the false bargain. **Proposed routes:** learn Sylvan's decision criteria; discover a non-bonded interface or permission; learn to counterfeit the *appearance* of a bonded result. None grants entry into Sylvan's bond. Does Samuel collect intelligence before a destructive attack, or do separated proxies pursue both at once?
+5. **EGI-05 — Public superweapon test.** Which observable condition made the supposed weapon appear effective while Sylvan was disadvantaged, and what changed when he began public exposure? **Unlocks:** a fair on-page failure without inventing absolute powers. **Proposed routes:** controlled access to an environmental subsystem; selective reporting of independently real effects; a staged dependency on Sylvan's earlier lack of resources. Distinguish these effects from actual Daemon abilities and the governing process.
+6. **EGI-06 — Authentic proof and Resistance ownership.** Which independent custodian authenticates the surgery/removal records, which source exposes staging and current command, and what discovery belongs indispensably to the Resistance? **Unlocks:** an auditable outcome with protected descendant identities. **Proposed patterns:** sealed medical/process record plus Resistance event comparisons; multiple independent medical custodians plus local logs; Konrad's admission corroborated by an external record. No one source should prove the weapon, implants, breeding campaign, and command all at once.
 
-8. Which Resistance participants own the indispensable comparison among the false weapon, duplicated promises, reactivation record, and bloodline campaign?
-9. Who authenticates each record class, and how are descendant identities protected?
-10. What public pattern proves the campaign without turning unauthorized children into exhibits?
-11. How do Sylvan's live record, the Resistance archive, affected-group testimony, and legitimate process evidence remain distinct but mutually reinforcing?
+### Disclosure: whose decision breaks which compartment
 
-### Character and sequence
+7. **EGI-07 — Konrad's actionable window.** What evidence of Samuel's wider breeding sabotage reaches Konrad, what still-running local operation can he halt, and when does this happen relative to his complete post-processing confrontation? **Unlocks:** the fixed breeding-discovery-before-chip-disclosure order and the accepted terminal sequence. **Proposed placements:** earlier limited but authenticated discovery and later full presentation; post-processing discovery only if an ongoing operation remains stoppable. His authority never extends to the governing process.
+8. **EGI-08 — Independent reversals.** What first action do George, Aiden, and Samuel Jr. each take after their separate claims fail, and how does Samuel try to redirect blame? **Unlocks:** earned character agency instead of an instantaneous group-wide conversion. **Proposed contrasts:** one seeks independent verification, one doubles down on the supposed enemy, one protects a witness or record. Assign by each person's established history; none follows automatically from Konrad.
+9. **EGI-09 — Minimum reveal cascade.** What order lets the public weapon failure, two exclusive promises, Konrad's chip disclosure, Resistance proof, and Samuel Jr.'s appeal each cause a new action? **Unlocks:** Book One's outcome sequence and division between public demonstration and protected evidence. **Proposed spines:** capability fails then records surface; confidential breeding breach first then public capability fails; Samuel Jr.'s deviation forces comparison. Keep the fixed Konrad local order and the terminal chain regardless of the selected global order.
 
-12. How does Aiden's independent response differ from George's and Konrad's?
-13. What part of George's savior-prophecy did he help construct or defend after meaningful off-ramps appeared?
-14. Which other contained leaders were separately promised exclusive destinies, and which comparisons are necessary rather than repetitive?
-15. How do Samuel Jr.'s realization, Konrad's disclosure, George and Aiden's comparison, and the Resistance proof order themselves so every revelation causes action?
-16. What act completes Konrad's already-established commitment without making him the owner of the exposure?
+### Book One architecture after the mechanism works
 
-### Larger Book One architecture
-
-17. What exact observable condition counts as successfully “taking Sylvan” before the deadline?
-18. What is the Book One opening, and which early discrepancy eventually pays off in the false-superweapon collapse?
-19. Which four to six middle episodes develop the skills, relationships, and evidence needed for the ending?
-20. What scene-ready sequence joins the birthday clock, Sylvan–Orzai development, Resistance discovery, George and Aiden's collapse, Samuel's processing, and constructive placement?
+10. **EGI-10 — Governing threshold.** What exact observable rule would have counted as “taking Sylvan” by his forty-second birthday, and why can Samuel's desperate attack not change the certified result afterward? **Unlocks:** the meaningful deadline, final permitted risks, and consent limits. **Proposed tests:** authorized role transfer; valid voluntary entry into a controlled environment; another defined process-certified capture condition. None grants Samuel ownership of participant identity or Luminai bond.
+11. **EGI-11 — Opening, middle, and terminal payoff.** Which first visible discrepancy in Book One foreshadows the false proof, which four to six middle episodes build Sylvan–Orzai and Resistance capability, and what closes at separation rather than during the later $15 million campaign? **Unlocks:** scene-ready outline. **Proposed openings:** apparent successful feat with a missing independent record; Konrad's confident report contradicted by local action; Samuel's claim of control refuted by Sylvan's small autonomous choice. Choose only after EGI-01 through EGI-10 yield a defensible causal map.
 
 ## Conflicts/Compatibility Checks
 
@@ -165,32 +156,34 @@ New implant-con dependency questions for the next assessment:
 ### Still requiring compatibility proof
 
 - The weapon mechanism must obey current Luminai, Daemon, access, and containment limits.
+- Konrad's culpable concealment and Samuel's separate deception of Konrad must fit one precise post-removal belief without giving Konrad knowledge of the wider breeding sabotage in advance.
+- Any pre-processing actionable discovery must leave room for the accepted later complete bloodline confrontation; a post-processing discovery must still allow Konrad to stop a concrete ongoing program operation.
 - The public exposure sequence must not reveal protected parentage or collapse the Resistance into Sylvan's support staff.
 - George and Aiden's duplicated promise must fit the existing original prophecy without rewriting that prophecy as Samuel's invention.
 - The leaders' reversal must follow from evidence and chosen action, not instant moral conversion.
 
 ## Next Assessment Pass
 
-**Author-triggered desktop integration takes precedence over the single gate below.** When the author returns in this chat, run [[07 Coordination/Story Completion Workflow/2026-09-24 - Desktop Endgame Integration Handoff]]: reconcile the existing endgame and produce the dated continuity/evidence assessment first, then revise this workshop and select one next author gate. The question below remains a *deferred candidate*, not the first prompt for that pass. Do not add new workshop questions until the integration establishes which gaps remain.
+**EGI-01 — one author gate.** The September 24 integration pass is complete. Before specifying Konrad's shutdown mechanism or arranging the public reveals, answer:
 
-### Deferred candidate from the previous assessment
+> **After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding—and what part of the success claim does Konrad knowingly lie about?**
 
-Previously proposed gate to reassess after integration:
-
-> **What authenticated evidence reveals Samuel's wider breeding sabotage to Konrad, and what concrete ongoing operation can Konrad halt when he then discloses the removed chips to Sylvan?**
+Materially different working options are in EGI-01 above: lasting adaptation; an unfinished project marketed as complete; or real older Daemon effects mislabeled as proof of this particular mind-enhancement experiment. The author may choose another mechanism. No option is canon simply because it is listed.
 
 Acceptance test:
 
-- Konrad's earlier partial suspicions become authenticated knowledge of Samuel's wider campaign;
-- the revelation does not indiscriminately expose descendants' private parentage;
-- Konrad's chosen intervention has real local stakes while leaving the governing process beyond his command;
-- he can prove chip removal to Sylvan across the planetary separation without George or Aiden already knowing it;
-- the new disclosure complements George's public weapon failure and preserves the independent choices of George, Aiden, Sylvan, and the Resistance.
+- Konrad already knows and conceals the removal without knowing every staged feat or Samuel's wider breeding attack;
+- Samuel's additional lie is concrete enough to support Konrad's continued endorsements and attacks;
+- George and Aiden remain separately deceived about the missing implants;
+- the false belief has at least one possible authenticated contradiction without presuming a scene or record not yet chosen;
+- older Daemon abilities remain real and distinct from this failed chip program;
+- Konrad's later sole priorities are shutting down the breeding program and exposing Samuel.
 
-After the author accepts an answer: record it in a dated session, propagate it to compiled notes, run a continuity check, update this entire file, append the Change Log, and replace this gate with the next highest-dependency question.
+After the author accepts an answer: record it in a dated session, propagate it to compiled notes, run a continuity check, and reassess EGI-02 through EGI-11 before selecting the next single gate. The old breeding-evidence/shutdown question has been consolidated into EGI-07 rather than deleted or prematurely answered.
 
 ## Change Log
 
+- **2026-09-24 desktop:** Completed the endgame integration and dated continuity assessment. Reconciled the decades-long con with the existing Book One engine; kept the Konrad timing repair working; merged overlapping prompts into EGI-01 through EGI-11 and selected one Konrad-belief gate. No new reveal order was established.
 - **2026-09-24:** Added an author-triggered desktop integration handoff. Deferred the previous breeding-evidence gate until the separate altered realities, failed-enhancement con, Samuel's Luminai-secret pursuit, and existing Book One endgame have been reconciled; new questions follow that audit.
 - **2026-09-23:** Integrated the failed chip trials, George and Aiden's false belief that chips remain, Konrad's prior knowledge of removal, his later discovery of the wider breeding sabotage, and his subsequent disclosure to Sylvan. Moved the next assessment gate to authenticated evidence and actionable shutdown authority; the false-superweapon mechanism remains open in Immediate endgame mechanics.
 - **2026-09-21:** Created the canonical dynamic workshop. Folded in the active BA, EG, RW, and Reveal Chain question layers; integrated the Resistance palette and ark metaphor; integrated the duplicated godhood con, false-superweapon hinge, continued mutual targeting, breeding-program betrayal, disposability boundary, and leaders' fight-out direction.
@@ -198,6 +191,8 @@ After the author accepts an answer: record it in a dated session, propagate it t
 
 ## Source trail
 
+- [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]]
+- [[01 Sessions/Daily/2026-09-24 - Endgame Integration and Reveal Dependencies]]
 - [[01 Sessions/Daily/2026-09-23 - Implant Con and Konrad Disclosure]]
 - [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]]
 - [[02 Story/Groups/The Resistance]]

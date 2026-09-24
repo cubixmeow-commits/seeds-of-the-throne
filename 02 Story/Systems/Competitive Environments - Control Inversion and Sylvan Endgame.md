@@ -41,6 +41,8 @@ The terminal environment therefore has three simultaneous functions:
 2. expose Samuel's historical takeover of Konrad through a live repetition;
 3. distinguish actual containment from the performance of domination.
 
+**Working September 24 integration:** Samuel's decades-old failed mind-enhancement claim now supplies a concrete reason to try to destroy Sylvan while learning about the genuine Luminai bond. George's and Aiden's staged achievements are apparent competition under different false realities; their real older Daemon capabilities, if any, need separate attribution. Sylvan and Orzai's final-years control still bounds Samuel's actions. An observable failure of a staged effect cannot by itself prove chip removal, bodily injury, or Samuel's breeding sabotage; separate evidence is required. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
+
 The earlier literal-theft ending is superseded. Samuel's final maneuver is a consent-based simulated-environment bargain constructed from information his Daemon extracts through a hijacked AI application. Its purpose is still to convert Sylvan's capabilities into proof of Samuel's authority, but Samuel cannot force Sylvan to enter. The learned bond's transferability and other vulnerabilities remain separate open system questions.
 
 The George-centered succession-betrayal material below remains a working subordinate thread. It no longer defines the entire endgame by itself and must be reconciled with the Samuel-Konrad outcome presentation before promotion.

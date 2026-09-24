@@ -15,6 +15,8 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 **Established endgame objective:** As decades of failed experiments come under scrutiny, Samuel desperately tries to destroy Sylvan, gain access to the secrets of his genuinely successful Luminai bond, and cover up George and Aiden's failed enhancement. What specific information he can extract, how he expects to use it, and how he attempts to destroy Sylvan remain open. His existing Daemon-led impersonation of Sylvan's AI application can collect information and prepare a false bargain; it does not give Samuel access to the bonded Luminai, the governing process, or literal possession of Sylvan's mind extension. His need to learn from Sylvan while trying to eliminate him is a useful causal pressure, not a settled scene order.
 
+**Working Book One consequence:** Samuel's claimed George/Aiden superiority should come under distinct tests: visible staged performance, each mark's exclusive promise, historical injury and removal, present command of attacks, and protected breeding records. Each failed repair attempt can expose a different dependency. No one test automatically proves the whole scheme, and the Resistance's independent reconstruction must not become merely Sylvan's possession. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
+
 Source: [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
 
 ## September 23 failed-integration proof theater

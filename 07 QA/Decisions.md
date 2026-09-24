@@ -1,8 +1,12 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-21
+updated: 2026-09-24
 ---
+
+## 2026-09-24 — Endgame integration audit, no new author decision
+
+[[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] reconciles already-established decisions about the failed George/Aiden experiments, separate altered realities, Konrad's discovery-before-disclosure order, Samuel's attack and information objective, and the accepted terminal sequence. Its proposed reveal ladder and possible two-stage Konrad discovery are **working**, not added canon. The next author decision is routed only through [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]].
 
 ## 2026-09-19 — Konrad commits to Sylvan's exposure plan
 
