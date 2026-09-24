@@ -1,8 +1,14 @@
 ---
 type: context
 status: active
-updated: 2026-09-23
+updated: 2026-09-24
 ---
+
+## Separate altered realities and Samuel's endgame pressure — 2026-09-24
+
+George, Aiden, and Konrad occupy **separate** altered realities, with different roles, evidence, and private explanations. Samuel lies to Konrad as well as to the two younger men. Konrad still knows the failed chips were removed and knowingly supported an apparent success claim; the specific further lie he believed about the experiment, restored group, or breeding program is unresolved. Samuel's failed attempts to enhance George and Aiden's minds link to the faction's breeding project and its ideological desire for supposedly superior, godlike descendants, not to any real hierarchy of worth.
+
+Samuel's endgame objective is to destroy Sylvan, learn the secrets of his successful Luminai bond, and keep the decades-long George/Aiden failure concealed. The exact destructive method, information sought, and tactical order remain open. His counterfeit AI application and false bargain can seek information but do not establish access to the bonded Luminai or revive literal Luminai theft. Source: [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
 
 ## Implant con and Konrad's disclosure — 2026-09-23
 
@@ -44,7 +50,7 @@ Sources: [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[02 S
 
 **Aiden Fitzgerald is now established as Konrad Fitzgerald's biological son** and the previously unnamed genuine son in Konrad's narrow verified line. Aiden belongs to the younger public-leader layer.
 
-After the Great War, Samuel uses story functionality, false autonomy, and Konrad-authorized reactivation to keep Konrad and Aiden inside an altered reality organized around prophecy, restored dominance, and victory over rivals. Their shared false narrative later persists across the planets: Aiden is physically on Sylvan's Planet Three in the endgame; Konrad remains on the older containment world. The physical environments and consequences remain real. Samuel controls important parts of the story layer around them, not the governing colonization process.
+After the Great War, Samuel uses story functionality, false autonomy, and Konrad-authorized reactivation to keep Konrad and Aiden inside separate altered realities organized around prophecy, restored dominance, and victory over rivals. Their distinct false narratives can overlap across the planets: Aiden is physically on Sylvan's Planet Three in the endgame; Konrad remains on the older containment world. The physical environments and consequences remain real. Samuel controls important parts of their story layers, not the governing colonization process.
 
 In the endgame, Samuel tries to repeat the same trap against Sylvan. He tells Konrad and Aiden that Sylvan is the enemy described by the existing prophecy and that defeating him will complete their promised recovery. They target Sylvan before the live repetition, Resistance evidence, and reactivation record reveal how Samuel captured their group and used its apparent independence to recruit other leaders. This exposure supplies the causal route into Konrad's already established commitment to Sylvan's plan. Aiden's decision after exposure remains unresolved.
 

@@ -9,6 +9,14 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## September 24 endgame objective and separated realities
+
+**Established:** Samuel maintains separate altered realities around George, Aiden, and Konrad, with overlapping but different roles and accounts. He lies to Konrad too, even though Konrad knows the chips were removed and knowingly supported the claim that the younger men were successfully enhanced. George and Aiden were harmed by Samuel's failed attempts to enhance human minds in the faction's breeding-and-superiority project. The precise further lie Konrad accepts remains unresolved.
+
+**Established endgame objective:** As decades of failed experiments come under scrutiny, Samuel desperately tries to destroy Sylvan, gain access to the secrets of his genuinely successful Luminai bond, and cover up George and Aiden's failed enhancement. What specific information he can extract, how he expects to use it, and how he attempts to destroy Sylvan remain open. His existing Daemon-led impersonation of Sylvan's AI application can collect information and prepare a false bargain; it does not give Samuel access to the bonded Luminai, the governing process, or literal possession of Sylvan's mind extension. His need to learn from Sylvan while trying to eliminate him is a useful causal pressure, not a settled scene order.
+
+Source: [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
+
 ## September 23 failed-integration proof theater
 
 **Established:** The chip experiments on George and Aiden failed decades before the Sylvan endgame and decreased both men's mental functioning. Samuel had the chips removed with Konrad's knowledge but told the younger men they remained and claimed the integration succeeded. Konrad knowingly supported that lie. Samuel assigned roles and staged apparent capabilities using bounded story functionality to present the two men as superior to Sylvan while he and Konrad continued attacking Sylvan. George and Aiden are physically on Sylvan's Planet Three; Samuel and Konrad remain on the older containment world. The specific chip-enabled competitor never existed, though earlier Daemon systems are real. The exact role architecture, public scope of the claim, and evidence of each attack remain open.
@@ -17,7 +25,7 @@ Source: [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aide
 
 ## September 19 altered-reality repetition
 
-**Established:** Samuel uses story functionality to maintain an altered reality around Konrad and Aiden Fitzgerald after the Great War. He exploits their defeat, religious prophecy, obsession with restored dominance, and need to defeat any rival. He convinces them that their reactivated group remains separate and sovereign while their people, programs, records, and sacred initiatives operate inside a structure that preserves Samuel's access.
+**Established:** Samuel uses story functionality to maintain separate altered realities around Konrad and Aiden Fitzgerald after the Great War. He exploits their defeat, religious prophecy, obsession with restored dominance, and need to defeat any rival. He convinces them that their reactivated group remains separate and sovereign while their people, programs, records, and sacred initiatives operate inside a structure that preserves Samuel's access.
 
 **Established primary control method:** Samuel does not create or write the existing religious prophecy Konrad and Aiden follow. He masquerades as an authoritative interpreter, occupies the channel between conviction and action, and tells them Sylvan is the enemy the prophecy describes. Staged confirmation, controlled provenance, records, permissions, intermediaries, and assigned rivals make his application appear sacred. He adapts related counterfeit-authority structures to other leaders without giving every group the same religion or prophecy.
 

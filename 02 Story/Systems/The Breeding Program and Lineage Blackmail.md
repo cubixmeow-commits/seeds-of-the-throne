@@ -51,6 +51,8 @@ Before Samuel's later manipulation dominates the system, that genuine biological
 
 Repeated inbreeding creates a problem the faction cannot acknowledge without undermining its doctrine. Samuel Franklin claims he can solve it while preserving the fiction of purity. His promises may include genetic repair, removal of hereditary defects, embryo selection, or the production of supposedly exceptional abilities. The exact technical claim remains unresolved, but it must be attractive enough that Konrad grants Samuel extraordinary access to genetic material, procedures, certification, and hidden lineage records.
 
+**Established faction objective (2026-09-24):** The contained group's pursuit of supposedly superior, even godlike descendants connects its breeding project to Samuel's attempts to enhance George and Aiden's minds. Those experiments fail and harm the two men. The group ideology supplies the promise of superiority; it is not evidence of a real hierarchy of human worth. Samuel later uses distinct altered realities to conceal that failure from the younger men and to deceive Konrad about the broader program, while Konrad knowingly conceals chip removal. The exact promise Konrad believed after removal remains unresolved. See [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
+
 Konrad is both deceived and culpable. Samuel corrupts the initiative, but Konrad creates it, treats people as hereditary instruments, centralizes its authority, and suppresses doubts because he wants Samuel's promise to be true.
 
 ## False genealogy and synthetic substitutions

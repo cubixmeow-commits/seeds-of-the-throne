@@ -31,6 +31,10 @@ The final act should propagate through action: Samuel Jr.'s realization causes a
 
 **Established lead-up (2026-09-23):** The chip experiments failed decades earlier; Samuel declared success and Konrad knowingly helped sustain the claim. Both injured men were placed in altered-reality roles on Sylvan's planet, where bounded story effects appeared to confirm superior brain integration while Samuel and Konrad continued attacking Sylvan. George and Aiden believe their chips remain. The purported competition is a decades-long manufactured proof, not a second successful successor bond. Konrad's only endgame priorities become halting the continuing breeding program and exposing Samuel; the exact role evidence, Konrad's specific attack orders, and Aiden's transfer to Planet Three remain open. See [[01 Sessions/Daily/2026-09-23 - Decades-Long Integration Fraud and Aiden Placement]].
 
+**Established separation (2026-09-24):** George, Aiden, and Konrad occupy separate altered realities, with different roles, claims, and controlled evidence. Samuel lies to Konrad too. Konrad's knowledge of chip removal and participation in concealing it are still established; precisely what further claim he believes about enhancement, the breeding program, or his group's independence remains unresolved. George and Aiden are products of Samuel's failed efforts to enhance minds inside the faction's breeding-and-superiority project, not examples of objectively superior heredity. See [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
+
+**Established Samuel objective, unresolved execution (2026-09-24):** Samuel tries desperately to destroy Sylvan, obtain secrets of his real Luminai bond, and cover up the decades-old failed enhancement of George and Aiden. George, Aiden, and Konrad receive different false explanations for the same apparent contest. Samuel's existing counterfeit AI application and voluntary story bargain can serve his intelligence-gathering campaign without implying he can seize the bond itself. The exact information sought, destructive method, and order relative to the weapon failure and Konrad's disclosure remain open. Samuel's information need and desire to eliminate Sylvan may conflict tactically; the story should show how he handles that pressure rather than granting him unexplained access.
+
 ## Starting condition
 
 During the final few years, Sylvan and Orzai already possess decisive control of the relevant conclusion process. Samuel does not know or accept this. They permit bounded activity because their Luminai still need to observe Samuel's final adaptive behavior, map remaining dependencies, distinguish coercion from agency, and assemble evidence fit for the outcome presentation.
@@ -66,7 +70,7 @@ The inner circle recognizes the repetition before Konrad does. The live attempt 
 
 ## Altered-reality repetition layer
 
-**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Konrad and Aiden become caught in an altered reality Samuel maintains through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. This shared false narrative persists even though Aiden later lives on Planet Three while Konrad remains on the older containment world. The physical transfer and its date remain unresolved.
+**Established:** Aiden Fitzgerald is Konrad's biological son. After the Great War, Samuel maintains separate altered realities around Konrad and Aiden through story functionality, false autonomy, reactivated Fitzgerald systems, and their obsession with dominance over rivals. Their accounts may share a false premise without being a single story environment. Their wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Aiden later lives on Planet Three while Konrad remains on the older containment world. The physical transfer and its date remain unresolved.
 
 Samuel uses that reality to hide his attacks on their groups and to make their apparent recovery persuasive to other leaders. Those leaders enter related arrangements because Konrad and Aiden appear to have retained independent command.
 
@@ -80,7 +84,7 @@ The Book One attack against Sylvan is the same structure repeated in the present
 6. Other leaders recognize that their supposedly separate arrangements share the same structure.
 7. Konrad confronts the choice already established for him: knowingly complete Samuel's takeover or commit his groups to Sylvan's exposure plan.
 
-The physical environment remains real. The altered reality is the controlled story surrounding it. Konrad and Aiden retain responsibility for targeting Sylvan, and Aiden's independent response after exposure remains unresolved.
+The physical environments remain real. Each altered reality is a controlled story surrounding people, access, and interpretation; George, Aiden, and Konrad do not inhabit one identical false story. Konrad and Aiden retain responsibility for targeting Sylvan, and Aiden's independent response after exposure remains unresolved.
 
 ## Samuel's final attempted deal
 

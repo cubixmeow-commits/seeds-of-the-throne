@@ -1,7 +1,7 @@
 ---
 type: canonical-dynamic-workshop
 status: active
-updated: 2026-09-23
+updated: 2026-09-24
 update_rule: update after every desktop assessment
 supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, Reveal Chain Mechanics Workshop, Reassessment Workshop
 ---
@@ -46,6 +46,9 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Samuel's repeated tactic under public pressure becomes new evidence of his method and continuing command.
 - George and Aiden's invasive brain-chip trials failed and caused injury. Samuel had the chips removed with Konrad's knowledge; George and Aiden continue to believe the chips remain. Apparent chip-enabled success is staged through bounded story functionality. This is distinct from the genuine older AI-soul systems and from Sylvan's successful non-implant successor bond.
 - The trials failed decades before the endgame and decreased George and Aiden's mental functioning. Samuel claimed success, Konrad knowingly endorsed it, and the younger men occupied assigned roles in physically real altered realities while Samuel and Konrad attacked Sylvan. The claim that the two men were superior was manufactured; no rival chip-enabled integration succeeded.
+- George's, Aiden's, and Konrad's altered realities are separate. Samuel also deceives Konrad about the larger experiment or program; his knowledge of chip removal and concealment does not give him knowledge of every staged effect or Samuel's breeding sabotage. The exact further lie remains open.
+- The faction's breeding program and the failed George/Aiden mind-enhancement experiments share an ideological aim of supposedly superior, godlike descendants. That aim describes a supremacist fantasy, never an objective ranking of people.
+- Samuel's desperate endgame objective is to destroy Sylvan, learn secrets of his real Luminai bond, and suppress the decades-old George/Aiden failure. His established counterfeit AI application and false story bargain can seek information but do not grant access to or ownership of the bond. His exact destructive method, information target, and order of moves remain open.
 - **Planetary placement:** George and Aiden both act physically on Sylvan's Planet Three. Samuel and Konrad remain on the older containment world. The date, permissions, and route of Aiden's move from his earlier postwar arrangement with Konrad are open.
 
 ### Bloodline betrayal and escape
@@ -58,6 +61,14 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Konrad's only endgame priorities are shutting down the continuing breeding program and exposing Samuel; revealing the chip fraud serves those ends and exposes his own knowing complicity. It is not a bid to vindicate his failed integration experiment.
 
 ## Newly Integrated Decisions
+
+### 2026-09-24 separate realities and endgame pressure
+
+1. Corrected the earlier collective-reality phrasing: George, Aiden, and Konrad have separate altered realities, and Samuel lies to Konrad too.
+2. Linked Samuel's failed attempts to enhance George and Aiden's minds to the contained group's breeding-program ideology of superiority and godlike status, without endorsing its doctrine.
+3. Established Samuel's desperate objective to destroy Sylvan, access secrets of the genuine Luminai bond, and cover the old failure. Preserved the previous rejection of literal Luminai theft and left his means and exact knowledge open.
+
+Source: [[01 Sessions/Daily/2026-09-24 - Separate Altered Realities and Failed Mind Enhancement]].
 
 ### 2026-09-23 author placement and long-con correction
 
@@ -96,6 +107,9 @@ The clean Resistance infographic is now author-approved and stored as [[skills/c
 
 New implant-con dependency questions for the next assessment:
 
+- What precisely does Konrad believe Samuel accomplished after removing the chips, and what evidence convinces him while he knowingly conceals the removals?
+- Which Luminai secret does Samuel seek, what could his counterfeit assistant observe, and how does he balance seeking information from Sylvan with attempting to destroy him?
+- Which separate staged proof does each of George, Aiden, and Konrad see, and what comparison makes their accounts incompatible?
 - When and by what permission did Aiden arrive on Planet Three, and what in his earlier postwar false reality remained continuous across the move?
 - Which staged George/Aiden feats, assigned roles, and Konrad-backed attacks can be independently proved as parts of the decades-long supposed contest with Sylvan?
 - What authenticated evidence of the wider breeding campaign reaches Konrad immediately before his chip disclosure, and which ongoing program operation can he actually halt or revoke?

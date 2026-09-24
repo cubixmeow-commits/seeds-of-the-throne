@@ -70,7 +70,7 @@ The strategy reverses when participants learn who has actually been attacking th
 
 Konrad now commits his own groups to Sylvan's separate exposure plan. He remains responsible for the hierarchy he led into Samuel's deal, while Sylvan remains an independent collaborator and the Resistance remains an independent source of discovery. Exact group-by-group disclosure order is unresolved.
 
-The commitment follows a live repetition. Samuel defines Sylvan as the rival Konrad and Aiden must defeat, and they target him from inside the postwar altered reality. Sylvan's refusal and Samuel's attempts to revise the failed prediction allow the Resistance and inner circle to connect the present attack with the old false-autonomy bargain. Aiden's response after that exposure remains independent and unresolved.
+The commitment follows a live repetition. Samuel defines Sylvan as the rival Konrad and Aiden must defeat, and they target him from inside their separate postwar altered realities. Sylvan's refusal and Samuel's attempts to revise the failed prediction allow the Resistance and inner circle to connect the present attack with the old false-autonomy bargain. Aiden's response after that exposure remains independent and unresolved. Samuel has also deceived Konrad about the larger failed-enhancement and breeding project despite Konrad's knowledge of the removed chips; the exact further lie remains open.
 
 Source: [[01 Sessions/Daily/2026-09-19 - Endgame Workshop Integration]].
 
