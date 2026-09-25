@@ -66,7 +66,6 @@ Load when relevant:
 - evaluation/refinement -> `references/evaluation-rubric.md`
 - regression testing -> `references/benchmark-suite.md`
 - changing the system -> `references/customization.md`
-- testing an accessible final prose voice before approval -> `references/spoken-clarity-candidates.md`
 
 ## Build a scene packet
 
@@ -114,8 +113,6 @@ Follow `03 Context/WRITING-STYLE.md` as the live authority. Current defaults:
 - No em dashes.
 
 Do not revive superseded style references unless the author explicitly changes the live style file.
-
-The spoken-clarity candidates are optional trial techniques. Do not infer first-person, past tense, direct listener address, a comedy register, or a new default from them. Keep the established POV and tense of any supplied prose.
 
 ## Revision loop
 
