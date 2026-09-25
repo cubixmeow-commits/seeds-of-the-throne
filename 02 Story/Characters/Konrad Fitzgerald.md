@@ -9,6 +9,10 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 # Konrad Fitzgerald
 
+## September 24 shared-project revision — established with open chronology
+
+Konrad and Samuel share a criminal recruitment and domination con promising advanced implants, superiority, and eventual rule; Konrad brings organizational reach and charisma. The war places Konrad's son Aiden on the defeated authoritarian side and Samuel's son George on the heroic victor's side. Samuel later seeks command of the many smaller groups concealed by this public divide. Konrad knows his own participation in the early con and the later removal of George and Aiden's chips, but the extent of his knowledge of Samuel's unauthorized breeding sabotage and each group's subordination changes over time. The older account of entirely separate camps from the outset is superseded; a subsequent personal betrayal and postwar containment trap may still occur. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## September 19 altered-reality and Aiden decision
 
 **Established:** Aiden Fitzgerald is Konrad's biological son and the genuine son previously left unnamed in Konrad's narrow verified family line.

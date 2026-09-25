@@ -6,6 +6,12 @@ updated: 2026-09-03
 
 # The Foundational Great War and False Victory
 
+## Controlling revision — 2026-09-24
+
+The Great War on Planet Three creates the public account of two opposing empires. George White, Samuel's son, leads the dominant heroic side, while Aiden Fitzgerald, Konrad's son, and sons of other contained leaders start in leadership of the defeated authoritarian side. In the actual containment network many smaller criminal groups operate behind those public roles, and Samuel seeks to bring them under his direction. Samuel and Konrad share a criminal recruitment and supremacy project, although their exact partnership, betrayals, and later hierarchy remain open. Public opposition to the defeated program is part of their con. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
+**The numbered macro sequence below is a legacy working reconstruction, not the controlling sequence.** It is superseded where it denies this shared project, presumes George's prominent role was unplanned, treats the two empires as the only two contained groups, or places the apparent war/roles on a different planet without an established bridge. Preserve its potentially compatible events only after rebuilding their sequence and evidence. The governing process still bounds the criminals, and a postwar False Victory can still reinterpret a real defeat; its exact revised account is unresolved.
+
 ## 2026-09-03 causal clarification
 
 Konrad's defeat should end his participation in the colonization process. He chooses to remain because he believes his Great War Daemon learned from failure and can take control of Samuel. Success would let him preempt Sylvan's new Luminai test, recast the war as preparation, restore his faction, and claim authority over the colonization plan.

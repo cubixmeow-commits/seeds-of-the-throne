@@ -9,6 +9,10 @@ roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality p
 
 # Aiden Fitzgerald
 
+## September 24 war placement — established
+
+Konrad's son Aiden begins in a leadership role in Planet Three's authoritarian empire that loses the Great War, alongside sons of other contained leaders. Its breeding program becomes publicly associated with these younger leaders. His position is one role within a continuing, rotating political history and does not reveal the true network of smaller groups behind the apparent two sides. His father's involvement and Samuel's hidden plan do not predetermine Aiden's knowledge, consent, conduct or later response. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## Established identity
 
 **Aiden Fitzgerald is Konrad Fitzgerald's biological son.** He is the genuine son previously left unnamed in Konrad's narrow verified family line and belongs to the younger public-leader layer followed by participants.

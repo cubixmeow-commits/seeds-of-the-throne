@@ -6,6 +6,12 @@ updated: 2026-09-24
 
 # Storyline
 
+## Controlling shared-process revision — September 24
+
+Planet Three's history is a single advancing civilization in which legitimate heirs, contained criminals' children, and other inhabitants occupy successive public roles while pursuing different ends. The Great War yields a misleading two-empire public account: Samuel's son George White leads the celebrated dominant empire; Konrad's son Aiden Fitzgerald and other contained leaders' sons start in the defeated authoritarian empire. Many smaller criminal groups exist behind the public divide. Samuel and Konrad share a recruitment and domination con, and Samuel seeks to coordinate or capture the groups while appearing to oppose the program through George's role. The real leaders permit bounded assignments to expose criminal conduct while enabling heir development and Sylvan and Orzai's authentic successor bonds. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
+The older numbered "Controlling series spine" and "Historical sequence" below are **legacy working reconstructions** wherever they imply Samuel and Konrad began in permanently separate factions, George's dominant role was merely accidental, or the visible empires exhaust the contained network. Preserve only their compatible later consequences (real defeat, separate altered realities, bounded access, valid terminal process) until the Great War and cross-world chronology are rebuilt. The older-world location of Samuel and Konrad during the endgame and George and Aiden's Planet Three presence remain established; do not infer the Great War's physical location from an older label alone.
+
 ## September 24 Book One causal integration — working
 
 The decades-old failed enhancement is the reason Samuel needs George's, Aiden's, and Konrad's **separate** false realities to persist while Sylvan's real successor bond develops. Sylvan's survival, increasing public record, and Resistance corroboration turn that claim into an audit risk. Samuel tries both to remove Sylvan as the living counterexample and to learn enough about his Luminai to preserve a claim Samuel's own experiment cannot support. His counterfeit AI application accesses a tool, not Sylvan's bond.

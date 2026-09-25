@@ -7,6 +7,12 @@ themes: Great War, authoritarian conquest, Samuel exile, sabotage, defeat, conta
 
 # The Great War and the False Victory
 
+## September 24 controlling revision — established direction
+
+[[02 Story/Systems/Shared Colonization Process and Rotating Roles]] supersedes the older single-faction account below wherever it conflicts. The war's **public** division of a heroic dominant empire and a defeated authoritarian empire conceals a network of smaller contained-criminal groups. Samuel's son George White is the celebrated leader on the dominant side. Konrad's son Aiden Fitzgerald and sons of other contained leaders start as leaders on the losing side. Samuel and Konrad share a criminal project to recruit followers with false promises of enhancement and control; Samuel works to coordinate or capture the smaller groups. The leaders governing the colonization process allow bounded roles to expose the con as the planet develops. The apparent two-sided division is itself part of the False Victory's evidentiary problem.
+
+**Status of the sections below:** prior working reconstruction, retained for provenance. Claims that Samuel was merely an expelled outsider unconnected to the founding plan, that George's leadership was only accidental early success reinterpreted after the war, or that the two sides map one-to-one onto separate contained groups are **superseded**. The historical existence of an exile, actual defeat, personal sabotage, and a later postwar containment bargain may survive, but their causal placement requires rebuilding against the new shared-plan premise. No old narrative paragraph can silently settle the approval, office, or cross-world timeline.
+
 ## Postwar second experiment — 2026-09-03
 
 The Great War defeat should remove Konrad from the colonization experiment. His continuation is a deliberate refusal, not an automatic sentence with no alternative.

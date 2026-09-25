@@ -4,6 +4,12 @@ status: active
 updated: 2026-09-24
 ---
 
+## Shared process and Great War public lie — September 24 author override
+
+The author has established a controlling process-wide revision: Planet Three, the second colonization planet, advances as one real, well-managed civilization. Legitimate leaders' heirs, children of contained criminals, and ordinary inhabitants move through overlapping roles and generations. Public offices rotate among children of different criminal leaders and legitimate heirs; holding office is consequential, not proof of control of the governing process. The real leaders permit bounded criminal plans in order to expose their methods while developing future leaders and the successor human–Luminai bonds Sylvan and Orzai prove.
+
+The Great War establishes a **publicly deceptive** two-empire story. Samuel's son George White leads the dominant supposedly heroic empire; Konrad's son Aiden Fitzgerald and other contained leaders' sons begin leading the defeated authoritarian empire. Many smaller criminal groups lie behind the apparent two camps. Samuel and Konrad share a con around recruitment, supposed enhancement and godlike rule; Samuel seeks to control the smaller groups while George's heroic reputation distances him from the breeding program associated with the fallen side. The earlier account of entirely separate camps, an accidental George role, and a sole Konrad-owned criminal war is superseded at those points. Earlier events and claims remain valuable as initial character/audience interpretations and possible real events to recontextualize. Exact war, exile, role approval, planet-crossing and postwar chronology is unresolved. See [[01 Sessions/Daily/2026-09-24 - Shared Process and Two-Empire Role Con]], [[02 Story/Systems/Shared Colonization Process and Rotating Roles]], and [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
+
 ## Separate altered realities and Samuel's endgame pressure — 2026-09-24
 
 George, Aiden, and Konrad occupy **separate** altered realities, with different roles, evidence, and private explanations. Samuel lies to Konrad as well as to the two younger men. Konrad still knows the failed chips were removed and knowingly supported an apparent success claim; the specific further lie he believed about the experiment, restored group, or breeding program is unresolved. Samuel's failed attempts to enhance George and Aiden's minds link to the faction's breeding project and its ideological desire for supposedly superior, godlike descendants, not to any real hierarchy of worth.

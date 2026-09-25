@@ -4,6 +4,15 @@ status: active
 updated: 2026-09-24
 ---
 
+## 2026-09-24 — Shared process and Great War public lie (author override)
+
+- **Established:** Planet Three advances as one managed, physically real civilization; legitimate heirs and criminal leaders' children occupy overlapping and rotating roles, including public office.
+- **Established:** The Great War creates an apparent two-empire division. Samuel Franklin's son George White leads the dominant heroic side; Konrad Fitzgerald's son Aiden and other contained leaders' sons begin as leaders on the defeated authoritarian side.
+- **Established:** Many smaller contained groups exist behind both sides. Samuel and Konrad share a criminal plan founded on false promises of enhancement, supremacy and access to the process; Samuel works to coordinate and control the groups. Their exact founding/betrayal sequence is open.
+- **Established:** The real leaders allow bounded criminal action to expose the criminals' choices while cultivating legitimate heirs and the successor Luminai. Criminals never own process authority. Real public history is not erased when its false interpretation is revealed.
+- **Override:** Earlier working claims of completely separate war factions, George's merely accidental heroic placement, and the two empires as the full group topology yield to this account. Preserve compatible actual events and use the older interpretation as a staged audience reveal, with dates and causality to rework.
+- **Source:** [[01 Sessions/Daily/2026-09-24 - Shared Process and Two-Empire Role Con]]; [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## 2026-09-24 — Endgame integration audit, no new author decision
 
 [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] reconciles already-established decisions about the failed George/Aiden experiments, separate altered realities, Konrad's discovery-before-disclosure order, Samuel's attack and information objective, and the accepted terminal sequence. Its proposed reveal ladder and possible two-stage Konrad discovery are **working**, not added canon. The next author decision is routed only through [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]].

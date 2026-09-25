@@ -1,8 +1,12 @@
 ---
 type: qa
 status: active
-updated: 2026-09-11
+updated: 2026-09-24
 ---
+
+## September 24 process-wide war role questions
+
+The sole active priority order is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]], SPR-01 through SPR-05, followed by the dependent EGI gates. Determine the first Samuel–Konrad shared plan and the real betrayal; document the approval and timing of George's and Aiden's roles; give one concrete succession of a public office across criminal children and legitimate heirs; map smaller criminal groups and Samuel's changing command; and choose the first evidence that changes the simple two-empire reading. See [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
 
 ## Current question routing — updated 2026-09-23
 

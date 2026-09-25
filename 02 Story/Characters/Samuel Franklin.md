@@ -9,6 +9,10 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## September 24 two-empire con — established with open implementation
+
+Samuel places his son George White as the heroic leader of the dominant Planet Three empire while Konrad's son Aiden and other leaders' sons begin on the defeated authoritarian side. Samuel and Konrad share a recruitment con built on supposed enhancement and future godlike power. Many smaller contained groups exist behind the public two-camp story; Samuel seeks to lead or capture them, partly by controlling what each believes about the war, its children, and its supposed victory. His public association with George distances him from the defeated side's breeding program, making later blame transfer possible. His exact role-proposal permissions, founding chronology, betrayals and degree of command at each stage remain open. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## September 24 endgame objective and separated realities
 
 **Established:** Samuel maintains separate altered realities around George, Aiden, and Konrad, with overlapping but different roles and accounts. He lies to Konrad too, even though Konrad knows the chips were removed and knowingly supported the claim that the younger men were successfully enhanced. George and Aiden were harmed by Samuel's failed attempts to enhance human minds in the faction's breeding-and-superiority project. The precise further lie Konrad accepts remains unresolved.

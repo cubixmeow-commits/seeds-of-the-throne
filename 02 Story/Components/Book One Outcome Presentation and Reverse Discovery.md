@@ -7,6 +7,10 @@ topics: Book One, outcome presentation, reverse chronology, containment proof, p
 
 # Book One Outcome Presentation and Reverse Discovery
 
+## September 24 expansion of the reverse discovery — established frame
+
+Book One's outcome now exposes more than Samuel's attack on Sylvan: the apparently simple Great War story of George's heroic victorious empire versus Aiden's defeated authoritarian empire concealed many smaller criminal groups and a shared earlier Samuel–Konrad con. Legitimate heirs also occupied successive offices on the same advancing planet. Older apparent facts can form convincing early layers; later proof changes what the war and postwar deal mean without declaring the civilization fictitious. The exact disclosure sequence, shared-plan timeline, and evidentiary custodians remain open. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]] and [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
+
 ## Series architecture
 
 Book One begins near the chronological end of the Samuel-Konrad conflict. Later books move backward into the history the first book exposes: Samuel's exile, the Great War, Konrad's refusal to exit, the reactivation of his group, the long takeover, and the construction of the False Victory.

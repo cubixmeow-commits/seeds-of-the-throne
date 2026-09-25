@@ -7,6 +7,10 @@ themes: breeding program, reproductive abuse, genealogy, racist purity doctrine,
 
 # The Breeding Program and Lineage Blackmail
 
+## September 24 public attribution and hidden design — established
+
+The program is publicly associated on Planet Three with the defeated authoritarian empire, including its younger leaders Aiden Fitzgerald and another contained leader's son. Samuel and Konrad share an earlier fraudulent recruitment vision of enhanced, supposedly superior descendants, even while Samuel later captures or sabotages the actual breeding machinery in ways Konrad does not fully know. Samuel's son George occupies the celebrated opposing heroic role and has no comparable public association with the program. The public association is neither a full map of responsibility nor proof against all descendants. Distinguish the jointly promoted con, Konrad's own authorization, Samuel's later independent wrongdoing, and individual younger leaders' conduct. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## Core mechanism
 
 The fallen empire maintained a centralized reproductive and lineage program tied to a fictional supremacist purity doctrine. The regime treated ancestry as hierarchy, political legitimacy, and proof of belonging.

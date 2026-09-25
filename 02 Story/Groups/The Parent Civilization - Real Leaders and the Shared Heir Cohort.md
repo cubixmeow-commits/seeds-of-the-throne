@@ -7,6 +7,10 @@ themes: ancient leadership, imperial succession, shared struggle, competing mora
 
 # The Parent Civilization — Real Leaders and the Shared Heir Cohort
 
+## September 24 shared-process clarification — established
+
+The legitimate heirs and children of contained criminal leaders move through **one developing planetary process at the same time**. Their parents pursue different goals, but a public office may pass from one contained leader's child to another and later to a real leader's heir. Such rotations do not erase the independent lives of officeholders or the real political history around them. The governing leaders allow criminals bounded room to pursue their plans because exposure of their chosen conduct is part of containment; at the same time, they cultivate heirs and enable successor human–Luminai bonds, including Sylvan's and Orzai's outcome. The limits on risk to ordinary people, the actual assignment authority, and intervention thresholds remain open. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## Core proposition
 
 The parent civilization is not governed by a single benevolent intelligence or a politically unified council. It contains many legitimate leaders who are themselves thousands of years old and whose empires have endured across multiple millennia. These leaders are experienced, serious, and broadly committed to the survival and moral development of humanity, but they disagree about what those commitments require.

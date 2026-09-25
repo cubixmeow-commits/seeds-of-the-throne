@@ -4,6 +4,12 @@ status: working
 updated: 2026-09-24
 ---
 
+## September 24 controlling chronology update — established and unresolved
+
+Planet Three is the second colonization planet. Its Great War establishes the public heroic-empire/defeated-empire contrast: Samuel's son George White leads the dominant side, and Konrad's son Aiden Fitzgerald and other contained leaders' sons begin as leaders on the defeated side. The public divide conceals many smaller criminal groups and a shared Samuel–Konrad supremacy con. Legitimate heirs and criminal leaders' children rotate through consequential public roles over the planet's long development. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
+**Chronology hold:** The older "Controlling causal order" and "Detailed working chronology" below are superseded where they portray a cleanly separate Samuel faction in the war, George's role as unplanned, or the public camps as the actual containment topology. The exact sequence connecting the Great War, Samuel's exile/sabotage if retained, Konrad's old-world postwar reactivation, George's three public roles, Aiden's move, and the Planet Three war has not been established. The author-accepted **terminal sequence** below remains in force.
+
 ## September 24 integration boundary — working
 
 The accepted terminal chain below remains intact. A separate author decision places **Konrad's knowledge of Samuel's wider breeding sabotage before Konrad tells Sylvan the removed-chip truth**, because he wants to stop the continuing program and expose Samuel. The chain below also places Konrad's complete extraction from the century-long false environment and connected bloodline presentation **after** Samuel's processing. A possible two-stage resolution is limited actionable knowledge and disclosure before the terminal chain, followed by comprehensive recognition after processing; the exact timing and authority are **unresolved**. Do not treat this as an added accepted timestamp. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].

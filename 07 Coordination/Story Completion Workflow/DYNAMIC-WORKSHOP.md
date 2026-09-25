@@ -12,10 +12,26 @@ This is the single canonical ongoing workshop for *Seeds of the Throne*. Update 
 
 Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical records and evidence of how decisions developed. They are not parallel active question lists. When an older unresolved question still matters, fold it into this file and link its source rather than reopening the old workshop.
 
+## September 24 active focus — Planet Three role plan and layered war reveals
+
+**Established author override:** Planet Three is a continuously advancing shared civilization. The Great War's public picture of George White's heroic dominant empire against Aiden Fitzgerald and the other leaders' sons in a defeated authoritarian empire conceals a web of smaller criminal groups, a Samuel–Konrad recruitment and dominance con, and Samuel's growing command. Legitimate heirs can hold the same public offices in later rotations; the real leaders allow bounded criminal roles to expose chosen behavior while cultivating heirs and the genuine successor Luminai. Old exile, war and False Victory accounts are potential first layers of revelation, not flatly deleted history. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
+**Current development gates, in causal order:**
+
+1. **SPR-01 — Shared plan and public war:** What was the earliest joint Samuel–Konrad plan, when did their personal betrayal begin, and which parts of the Great War were genuinely opposed actions rather than a jointly exploited public division? Separate public account, each leader's private belief, and sealed process record.
+2. **SPR-02 — Role approval and George's clock:** Who proposed and approved the positions of George, Aiden and the other sons; what authority did each receive; and how do George's earlier humiliation and three public roles fit around the war?
+3. **SPR-03 — Rotating offices and heirs:** Which actual office passes between children of criminal leaders and legitimate heirs, by which institution, and what independently chosen actions by each holder change the planet?
+4. **SPR-04 — Smaller group map:** Which groups knew of the larger con, when did Samuel seize or earn command over each, and who remained genuinely independent? The two public empires are insufficient as an organization chart.
+5. **SPR-05 — Reveal design:** Which archived decision, distinct witnesses and later acts first disprove the simple two-camp reading while preserving the reality of the war and agency of both sons? Tie each reveal to a present-day change of course.
+
+These gates precede the older EGI proof and scene questions; those questions remain relevant and are not silently answered by the new premise.
+
 ## Current Canon Baseline
 
 ### Process boundary
 
+- Planet Three is the second colonization planet. The whole population and several overlapping plans advance simultaneously; public roles rotate while institutions and political consequences persist.
+- George White is Samuel's son and the celebrated leader of the dominant empire; Aiden is Konrad's son and begins in leadership of the defeated authoritarian empire with other contained leaders' sons. The public two-empire map conceals many smaller criminal groups and Samuel's attempted control of them.
 - Planet Three is the mature containment-and-cultivation world. Samuel, Konrad, George, Aiden, and the contained criminal groups may hold consequential local power, but none controls the governing colonization process.
 - Their apparent authority does not transfer into the larger civilization. When the contained structure fails, there is no external throne or empire waiting for them.
 - The legitimate process preserves evidence and enforces terminal consequences, but it does not replace dangerous character choices with automatic resolution.
@@ -60,7 +76,7 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 - Konrad learns the extent of Samuel's breeding-program sabotage first, then exposes the removed-chip fraud to Sylvan in an effort to halt the ongoing program. The precise mechanism and reach of Konrad's attempted shutdown remain open; he cannot command the governing process.
 - Konrad's only endgame priorities are shutting down the continuing breeding program and exposing Samuel; revealing the chip fraud serves those ends and exposes his own knowing complicity. It is not a bid to vindicate his failed integration experiment.
 
-## Integrated Assessments and Author Decisions
+## Newly Integrated Decisions
 
 ### 2026-09-24 desktop endgame integration — working sequence, not new canon
 
@@ -164,25 +180,15 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**EGI-01 — one author gate.** The September 24 integration pass is complete. Before specifying Konrad's shutdown mechanism or arranging the public reveals, answer:
+**SPR-01 — one author gate.** Build the Great War's hidden causal history before specifying the rotating office mechanics or the endgame reveal order:
 
-> **After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding—and what part of the success claim does Konrad knowingly lie about?**
+> **At what point did Samuel and Konrad agree to the two-empire placement of their sons, and which part of their apparent wartime opposition was a genuine betrayal?**
 
-Materially different working options are in EGI-01 above: lasting adaptation; an unfinished project marketed as complete; or real older Daemon effects mislabeled as proof of this particular mind-enhancement experiment. The author may choose another mechanism. No option is canon simply because it is listed.
-
-Acceptance test:
-
-- Konrad already knows and conceals the removal without knowing every staged feat or Samuel's wider breeding attack;
-- Samuel's additional lie is concrete enough to support Konrad's continued endorsements and attacks;
-- George and Aiden remain separately deceived about the missing implants;
-- the false belief has at least one possible authenticated contradiction without presuming a scene or record not yet chosen;
-- older Daemon abilities remain real and distinct from this failed chip program;
-- Konrad's later sole priorities are shutting down the breeding program and exposing Samuel.
-
-After the author accepts an answer: record it in a dated session, propagate it to compiled notes, run a continuity check, and reassess EGI-02 through EGI-11 before selecting the next single gate. The old breeding-evidence/shutdown question has been consolidated into EGI-07 rather than deleted or prematurely answered.
+Acceptance test: their shared recruitment con and Samuel's later domination fit the answer; George's and Aiden's public roles and actual choices stay distinct; the war and its harms remain real; the older exile/sabotage account can become an earlier plausible interpretation without contradicting sealed events; and the real leaders' bounded authorization is distinguishable from the criminals' planned deception. Once answered, recheck SPR-02 through SPR-05 and return to EGI-01 with the clarified Konrad knowledge boundary.
 
 ## Change Log
 
+- **2026-09-24 evening:** Integrated the shared Planet Three process, rotating heir roles, George/Aiden opposing placements, smaller criminal network and Samuel–Konrad con. Reordered the active author gate to war/partnership causality. Preserved the older account as potential reveal layers; EGI questions remain dependent and open.
 - **2026-09-24 desktop:** Completed the endgame integration and dated continuity assessment. Reconciled the decades-long con with the existing Book One engine; kept the Konrad timing repair working; merged overlapping prompts into EGI-01 through EGI-11 and selected one Konrad-belief gate. No new reveal order was established.
 - **2026-09-24:** Added an author-triggered desktop integration handoff. Deferred the previous breeding-evidence gate until the separate altered realities, failed-enhancement con, Samuel's Luminai-secret pursuit, and existing Book One endgame have been reconciled; new questions follow that audit.
 - **2026-09-23:** Integrated the failed chip trials, George and Aiden's false belief that chips remain, Konrad's prior knowledge of removal, his later discovery of the wider breeding sabotage, and his subsequent disclosure to Sylvan. Moved the next assessment gate to authenticated evidence and actionable shutdown authority; the false-superweapon mechanism remains open in Immediate endgame mechanics.

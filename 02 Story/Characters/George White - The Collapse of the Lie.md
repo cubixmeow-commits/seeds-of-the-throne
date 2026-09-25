@@ -8,6 +8,10 @@ theme: awakening, weaponization, and consequence
 
 # George White — The Collapse of the Lie
 
+## September 24 role revision — established
+
+George White is Samuel Franklin's son and the most celebrated heroic leader of the dominant empire that emerges from Planet Three's Great War. Samuel placed him in that public role as part of a larger plan to make their criminal network appear to oppose the defeated authoritarian program it also advances. George's public prominence, actual deeds, earlier humiliating exposure, and later roles must each be dated separately; placement by Samuel does not mean George knows the hidden network or has no independent agency. His exclusive promised god-king destiny and false implant powers remain distinct from his real public office. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+
 ## 2026-09-06 cross-planet role
 
 **Established:** George's necessary function is physical access. Samuel, Konrad, and the older contained criminals from their generation remain physically on a previous colonization planet. George and Aiden both participate directly on Sylvan's newer planet and can therefore act inside Sylvan and Orzai's environment where Samuel and Konrad cannot. Their roles and independent choices differ; Aiden's transfer to Planet Three remains an open chronology link.

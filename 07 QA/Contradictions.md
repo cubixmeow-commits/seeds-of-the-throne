@@ -1,10 +1,14 @@
 ---
 type: qa
 status: active
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Contradictions
+
+## September 24 shared-process override
+
+The author has superseded the older fully separate Samuel/Konrad war-faction model and the merely accidental George leadership model. The apparent heroic and defeated empires on Planet Three conceal many smaller criminal groups and a joint earlier con. **Unresolved, significant:** place a possible real exile and sabotage within a shared-plan chronology; separate George's planned leading role from his earlier humiliation and multiple public roles; link the Planet Three Great War history to older-world postwar containment and Aiden's move; and define Konrad's knowledge of the early con versus Samuel's later unauthorized breeding sabotage. The old accounts remain useful as audience belief states. Full assessment: [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
 
 ## September 5 source-linked audit
 

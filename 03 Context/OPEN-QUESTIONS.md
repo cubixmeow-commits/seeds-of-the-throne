@@ -1,14 +1,18 @@
 ---
 type: context
 status: active
-updated: 2026-09-21
+updated: 2026-09-24
 ---
+
+## Current priority — September 24 shared-process integration
+
+The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|SPR-01]]: when did Samuel and Konrad agree on the roles that created the public two-empire war account, and what part of their apparent rivalry became a real betrayal? Then establish role approvals, rotating office succession, smaller-group topology, and the staged reveal. The older questions below remain historical dependencies, not competing priorities. Source: [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
 
 ## Canonical workshop — 2026-09-21
 
 All current assessment questions now live in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The lists below remain topical context and historical question inventory; they do not compete with the dynamic workshop's **Next Assessment Pass**.
 
-Immediate gate: what made the supposed superweapon appear effective while Sylvan was severely disadvantaged, and what verifiable change caused it to fail once he began publicly exposing Samuel?
+The former superweapon gate is retained as a later evidence question. The current priority is SPR-01 above.
 
 ## Altered-reality repetition trap — 2026-09-19
 

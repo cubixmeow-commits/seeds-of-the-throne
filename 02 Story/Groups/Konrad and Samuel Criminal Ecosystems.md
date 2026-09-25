@@ -7,6 +7,10 @@ topics: Konrad faction, Samuel network, criminal ecosystems, ideology, blackmail
 
 # Konrad and Samuel Criminal Ecosystems
 
+## September 24 controlling topology — established direction
+
+The public George White heroic empire and Aiden Fitzgerald fallen empire are not one-to-one proxies for two separate criminal organizations. Many smaller groups belong to different contained leaders behind both sides; Samuel works to lead or capture them. Samuel and Konrad also share a criminal plan involving false enhancement promises, recruitment, and access to a breeding program. Their methods and personal rivalries remain distinct, but the two ecosystems described below **must not** be read as two cleanly separated camps throughout the war. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]]. The exact time of their partnership, break, and Samuel's control of each smaller group remains unresolved.
+
 ## September 5 integration boundary
 
 The generational takeover remains established direction. Group dissolution does not establish collective guilt or defective ancestry. Reproductive coercion, falsified records, and blackmail are harms; identity and consensual conduct are not. Individual protection, exit, culpability, and remedy remain separate author gates.
