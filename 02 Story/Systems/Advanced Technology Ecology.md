@@ -51,7 +51,7 @@ The system is advanced and dependable enough to be socially routine, but it rema
 
 ## Layer four: biological synthetics
 
-**September 27 controlling construction rule:** each nanocell retains nanotechnology within its biological wrapper. Many wrapped units can form a biological computer and a larger synthetic. A moon-like orbital solar generator supplies their wireless power through an as-yet undefined distribution route. No participant-accessible technology on the colonization planet can expose the concealed nanotechnology. Different people can still acquire information about synthetics by other channels and at different times. The synthetic's processor topology, energy receiver, material supply, and autonomy are open. See [[Synthetics]] and [[The Moon]].
+**September 27 controlling construction rule:** each nanocell retains nanotechnology within its biological wrapper. Many wrapped units can form a biological computer and a larger synthetic. A moon-like orbital solar generator supplies their wireless power through a network of hidden satellites; the final delivery route remains open. No participant-accessible technology on the colonization planet can expose the concealed nanotechnology. Different people can still acquire information about synthetics by other channels and at different times. The synthetic's processor topology, energy receiver, material supply, and autonomy are open. See [[Synthetics]] and [[The Moon]].
 
 Biological synthetics are embodied living systems rather than metal robots or disposable scenery. They can populate and develop the physical world before enough humans arrive, allowing towns, professions, institutions, families, and cultures to acquire real history.
 

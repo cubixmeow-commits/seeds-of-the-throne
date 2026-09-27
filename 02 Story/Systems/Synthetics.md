@@ -8,7 +8,7 @@ updated: 2026-09-27
 
 ## September 27 nanocell foundation — author established
 
-Nanotechnology builds a **biological wrapper around each individual nanocell**. The nanotechnology remains inside its wrapped unit. Organized populations of these units can form a **biological computer** and a larger biological synthetic. Their power ultimately comes wirelessly from a moon-like solar generator in orbit, through the planet's energy system. The exact pathway from orbital generation to each cell, the matter source for growth, the organization of computation, and any biological metabolism remain open.
+Nanotechnology builds a **biological wrapper around each individual nanocell**. The nanotechnology remains inside its wrapped unit. Organized populations of these units can form a **biological computer** and a larger biological synthetic. Their wireless energy comes from a moon-like orbital solar generator **through a network of hidden satellites**. The last delivery step into each nanocell, the matter source for growth, the organization of computation, and any biological metabolism remain open.
 
 **Detection and knowledge are different:** no technology available to participants on the colonization planet can expose the nanotechnology hidden within the wrapped nanocells. This does not undo the later author decision that different people can learn information about synthetics through different means at different times, including after the Great War. Learning about synthetics need not include a direct scan of their internal nanotechnology. The means and limits of non-instrumental, outside, or permitted disclosure remain open.
 
