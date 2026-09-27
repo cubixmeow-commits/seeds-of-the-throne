@@ -6,7 +6,9 @@ updated: 2026-09-24
 
 ## Current priority — September 24 shared-process integration
 
-The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|SPR-01]]: when did Samuel and Konrad agree on the roles that created the public two-empire war account, and what part of their apparent rivalry became a real betrayal? Then establish role approvals, rotating office succession, smaller-group topology, and the staged reveal. The older questions below remain historical dependencies, not competing priorities. Source: [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
+The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|SPR-01 revised]]: when did the co-leaders create their false rivalry, which actual events (exile, war, sabotage, postwar migration) did it disguise, and when did Samuel privately turn it into a frame against Konrad? This unlocks the synthetic-embodiment motive, distinction between joint and unauthorized abuses, and fair reveal sequence. Older gates remain historical dependencies, not competing priorities. Source: [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].
+
+Next dependency after that clock: map who learns which facts about synthetics by which channels, including discoveries after the Great War; distinguish knowledge of synthetic anatomy from knowledge of hidden institutional management. Decide the precise host's processor/personhood status before treating a biological brain transfer as a viable project. See [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]].
 
 ## Canonical workshop — 2026-09-21
 

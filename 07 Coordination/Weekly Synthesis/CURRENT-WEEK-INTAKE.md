@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-27 — Joint leaders and synthetic embodiment reveal spine
+
+- **Source:** [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]]; [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]]
+- **Type:** decision / contradiction / dependency
+- **Possible relationship:** SPR-01 through SPR-05, EGI-01 through EGI-11, current Book One architecture
+- **Signal:** The co-leaders' staged rivalry and synthetic-embodiment motive reorganize the joint breeding history and development of the entire story as layered audience revelations.
+
 ### 2026-09-19 — Counterfeit divine authority
 
 - **Source:** [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]]

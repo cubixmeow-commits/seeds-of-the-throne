@@ -7,6 +7,12 @@ themes: breeding program, reproductive abuse, genealogy, racist purity doctrine,
 
 # The Breeding Program and Lineage Blackmail
 
+## September 27 original motive — established direction with open method
+
+Samuel and Konrad jointly obsess over becoming synthetics by transferring their brains into synthetic bodies. Their breeding program grows from their false racist analogy: they imagine that mixed human ancestry can teach them how a human and synthetic could become one. Human races are not different species or a valid experimental bridge. Their ideology produces abuse and bad inference, not biological evidence for their theory. Children are people, never research outputs validating the premise.
+
+This **original shared motive** coexists with Konrad's original control of his faction's reproductive machinery and Samuel's later unauthorized lineage substitutions, tens of thousands of unauthorized children, revenge, and preparation to blame Konrad for the whole campaign. Which actions they planned together and which Samuel committed or concealed later must be attributed separately through authenticated records. The exact experimental claims, timeline, degree of Konrad's knowledge, and relationship of the failed George/Aiden chips to brain transfer remain unresolved. See [[02 Story/Systems/Synthetics]] and [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].
+
 ## September 24 public attribution and hidden design — established
 
 The program is publicly associated on Planet Three with the defeated authoritarian empire, including its younger leaders Aiden Fitzgerald and another contained leader's son. Samuel and Konrad share an earlier fraudulent recruitment vision of enhanced, supposedly superior descendants, even while Samuel later captures or sabotages the actual breeding machinery in ways Konrad does not fully know. Samuel's son George occupies the celebrated opposing heroic role and has no comparable public association with the program. The public association is neither a full map of responsibility nor proof against all descendants. Distinguish the jointly promoted con, Konrad's own authorization, Samuel's later independent wrongdoing, and individual younger leaders' conduct. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].

@@ -9,6 +9,10 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## September 27 shared project and betrayal — established direction
+
+Samuel and Konrad co-lead one criminal project and deliberately cultivate an appearance of being enemies. Both seek synthetic bodies for their brains and use a false racist theory about mixed human ancestry to rationalize reproductive experimentation. Samuel designs the public division to let him later blame Konrad for their shared work. His additional unauthorized bloodline campaign, private frame, and capture of the project are a betrayal within that original partnership, not proof that he never shared its goal or responsibility. How his original membership, exile, personal resentment, wartime sabotage, and postwar alpha priority fit this joint plan remains an explicit chronology problem. His wish to learn from Sylvan's real Luminai bond remains bounded by the previously established no-theft rule.
+
 ## September 24 two-empire con — established with open implementation
 
 Samuel places his son George White as the heroic leader of the dominant Planet Three empire while Konrad's son Aiden and other leaders' sons begin on the defeated authoritarian side. Samuel and Konrad share a recruitment con built on supposed enhancement and future godlike power. Many smaller contained groups exist behind the public two-camp story; Samuel seeks to lead or capture them, partly by controlling what each believes about the war, its children, and its supposed victory. His public association with George distances him from the defeated side's breeding program, making later blame transfer possible. His exact role-proposal permissions, founding chronology, betrayals and degree of command at each stage remain open. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].

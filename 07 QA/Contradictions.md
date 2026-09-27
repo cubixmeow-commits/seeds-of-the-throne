@@ -1,10 +1,16 @@
 ---
 type: qa
 status: active
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Contradictions
+
+## September 27 shared-leadership and embodiment override
+
+**Blocking chronology tension:** A staged Samuel–Konrad rivalry must be reconciled with actual exile, Konrad's disposal mission, Samuel's sabotage, real Great War defeat, and later alpha/beta capture. Their co-leadership is established; exactly which hostile events were mutual theater, genuine struggle inside the project, or Samuel's unilateral betrayal is open. **Blocking responsibility tension:** their original shared breeding ambition must coexist with Samuel's later unauthorized campaign and his planted claim of Konrad-only authorship. **Significant system gap:** synthetic persons with biological processors cannot automatically be vacant brain hosts; the biological transfer and personal-continuity mechanism remain open. See [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]] and [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]].
+
+**Resolved by later author correction:** Earlier [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]] stated synthetic information was absent from every participant-facing layer. The author now establishes staggered access through different means, including discoveries after the Great War. Exact channels and who knows about synthetic existence versus religious management remain open; do not restore the absolute absence through older notes.
 
 ## September 24 shared-process override
 

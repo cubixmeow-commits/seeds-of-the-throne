@@ -9,6 +9,10 @@ roles: ideological patriarch, breeding-program architect, Great War leader, orig
 
 # Konrad Fitzgerald
 
+## September 27 shared project — established direction, unresolved clock
+
+Konrad and Samuel lead one criminal project and implement an apparent public rivalry. Their original ambition includes moving their brains into synthetic bodies; Konrad's breeding project pursues a false racist theory about mixed human ancestry as a clue to such embodiment. He is accountable for the joint project, the reproductive doctrine he established, and the failed-chip concealment he knowingly endorsed. Samuel plans to use the staged conflict to assign Konrad responsibility for the entire scandal and secretly pursues additional unauthorized abuses. Konrad's discovery of those abuses, decision to expose Samuel, and later full confrontation remain distinct. Earlier exile, attempted disposal, wartime enmity and postwar false autonomy now require dated reconciliation as actual incidents, performances, or later betrayal; do not erase them by assuming every confrontation was staged.
+
 ## September 24 shared-project revision — established with open chronology
 
 Konrad and Samuel share a criminal recruitment and domination con promising advanced implants, superiority, and eventual rule; Konrad brings organizational reach and charisma. The war places Konrad's son Aiden on the defeated authoritarian side and Samuel's son George on the heroic victor's side. Samuel later seeks command of the many smaller groups concealed by this public divide. Konrad knows his own participation in the early con and the later removal of George and Aiden's chips, but the extent of his knowledge of Samuel's unauthorized breeding sabotage and each group's subordination changes over time. The older account of entirely separate camps from the outset is superseded; a subsequent personal betrayal and postwar containment trap may still occur. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].

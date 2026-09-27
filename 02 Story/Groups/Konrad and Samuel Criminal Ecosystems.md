@@ -7,9 +7,13 @@ topics: Konrad faction, Samuel network, criminal ecosystems, ideology, blackmail
 
 # Konrad and Samuel Criminal Ecosystems
 
+## September 27 topology — established direction
+
+The two men are co-leaders of one criminal project, using different methods and public identities. Their apparent enmity is planned cover; Samuel intends to turn it into a unilateral frame against Konrad. The headings below describe methods and networks **within** a shared project, not separate irreconcilable factions. Some real antagonism and later betrayal can coexist with the staged public conflict, but its chronology remains open. Their joint synthetic-embodiment obsession explains the original enhancement and breeding plan without excusing Konrad's doctrine or collapsing Samuel's later independent abuses into a joint authorization.
+
 ## September 24 controlling topology — established direction
 
-The public George White heroic empire and Aiden Fitzgerald fallen empire are not one-to-one proxies for two separate criminal organizations. Many smaller groups belong to different contained leaders behind both sides; Samuel works to lead or capture them. Samuel and Konrad also share a criminal plan involving false enhancement promises, recruitment, and access to a breeding program. Their methods and personal rivalries remain distinct, but the two ecosystems described below **must not** be read as two cleanly separated camps throughout the war. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]]. The exact time of their partnership, break, and Samuel's control of each smaller group remains unresolved.
+The public George White heroic empire and Aiden Fitzgerald fallen empire are not one-to-one proxies for two separate criminal organizations. Many smaller groups belong to different contained leaders behind both sides; Samuel works to lead or capture them. Samuel and Konrad co-lead the plan involving false enhancement promises, recruitment, and access to a breeding program. Their different methods and later genuine betrayal do not turn the ecosystems below into two cleanly separated camps. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]]. The date of their agreement, first unilateral betrayal, and Samuel's control of each smaller group remain unresolved.
 
 ## September 5 integration boundary
 

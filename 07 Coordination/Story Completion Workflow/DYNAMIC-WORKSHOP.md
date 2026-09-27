@@ -1,12 +1,24 @@
 ---
 type: canonical-dynamic-workshop
 status: active
-updated: 2026-09-24
+updated: 2026-09-27
 update_rule: update after every desktop assessment
 supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, Reveal Chain Mechanics Workshop, Reassessment Workshop
 ---
 
 # Dynamic Story Workshop
+
+## September 27 active focus — staged rivalry and synthetic embodiment
+
+**Established author direction:** Samuel and Konrad co-lead one criminal project and deliberately make themselves appear to be enemies. Samuel intends that appearance to make Konrad the apparent author of the entire program when it is exposed. Both seek to move their brains into synthetic bodies. Their breeding experiments follow a false racist claim about mixed human ancestry as a clue to human–synthetic union; the people born and harmed in the program are not scientific evidence for it. Existing synthetics have their own processors and potentially independent personhood. The historical development of the vault is now material for layered audience accounts: each later authenticated discovery must change the meaning of an earlier account while leaving real events real. See [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]] and [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].
+
+**Dependency order for development, not chapter order:** (1) date joint leadership, staged hostility and Samuel's private decision to frame; (2) divide shared research, Konrad's authorizations and Samuel's later unauthorized acts; (3) define what a synthetic body is and what the brain-transfer ambition would require, respecting synthetics' personhood; (4) map George/Aiden chips and the separate maintained realities onto this failed research without claiming transfer succeeded; (5) assign each reveal its first viewpoint, independent evidence, affected person's decision and public/protected audience. Existing SPR and EGI questions below remain relevant and should be reassessed under these dependencies rather than used as parallel lists.
+
+**Working reveal layers:** apparent two-camp rivalry → cross-camp joint command → failed enhancement claims → coercive lineage research and its false theory → desired synthetic embodiment and its technical/personhood barrier → Samuel's planted attribution and actual unauthorized expansion → Konrad's accountable disclosure and the accepted terminal sequence. This is a hypothesis for pacing, not an established disclosure order.
+
+**Later author access correction:** Synthetic information reaches different people through different channels at different times, some after the Great War. The older absolute information-absence rule is superseded. Build a discovery matrix before fixing audience reveals: discoverer; world and era; how access is gained; what anatomy or management fact is learned; evidence quality; whether the information can leave the discovery context; and which decision follows. An audience revelation need not occur simultaneously with a participant revelation. Technical working model and distinct Frankenstein motives: [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]]; scientific constraints: [[04 Research/Full Reports/51 - Synthetic Bodies and Brain Transfer Plausibility]].
+
+**Next dependent questions after SPR-01:** (a) Who learns about synthetic bodies first and who learns after the Great War? (b) What concrete partial success convinces each leader brain transfer is near? (c) Is a proposed host processor-free or a person whose autonomy they intend to remove? (d) Does Konrad interpret it through sacred destiny while Samuel seeks the status of creator, or does the author prefer another contrast? These are proposals/questions, not canon answers.
 
 This is the single canonical ongoing workshop for *Seeds of the Throne*. Update it after every desktop assessment. Dated sessions preserve development history; compiled notes preserve accepted story state; this file alone determines the next workshop questions.
 
@@ -18,11 +30,11 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 
 **Current development gates, in causal order:**
 
-1. **SPR-01 — Shared plan and public war:** What was the earliest joint Samuel–Konrad plan, when did their personal betrayal begin, and which parts of the Great War were genuinely opposed actions rather than a jointly exploited public division? Separate public account, each leader's private belief, and sealed process record.
+1. **SPR-01 — Joint leadership and staged rivalry:** When did Samuel and Konrad decide to make themselves appear to be enemies, and which real exile, disposal, sabotage, war and postwar events did that cover disguise? When did Samuel privately decide to make Konrad answer for the whole joint project? Separate the public account, each man's knowledge, genuine conflict and sealed process record.
 2. **SPR-02 — Role approval and George's clock:** Who proposed and approved the positions of George, Aiden and the other sons; what authority did each receive; and how do George's earlier humiliation and three public roles fit around the war?
 3. **SPR-03 — Rotating offices and heirs:** Which actual office passes between children of criminal leaders and legitimate heirs, by which institution, and what independently chosen actions by each holder change the planet?
 4. **SPR-04 — Smaller group map:** Which groups knew of the larger con, when did Samuel seize or earn command over each, and who remained genuinely independent? The two public empires are insufficient as an organization chart.
-5. **SPR-05 — Reveal design:** Which archived decision, distinct witnesses and later acts first disprove the simple two-camp reading while preserving the reality of the war and agency of both sons? Tie each reveal to a present-day change of course.
+5. **SPR-05 — Reveal design:** Which archived decision, distinct witnesses and later acts first disprove the simple two-camp reading while preserving the reality of the war and agency of both sons? Then assign separate proof for failed enhancement, original synthetic ambition, false racist research premise, and Samuel's planted blame. Tie each reveal to a present-day change of course.
 
 These gates precede the older EGI proof and scene questions; those questions remain relevant and are not silently answered by the new premise.
 
@@ -180,14 +192,16 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**SPR-01 — one author gate.** Build the Great War's hidden causal history before specifying the rotating office mechanics or the endgame reveal order:
+**SPR-01 revised — one author gate.** Build the co-leaders' hidden causal history before specifying the technical experiment or endgame reveal order:
 
-> **At what point did Samuel and Konrad agree to the two-empire placement of their sons, and which part of their apparent wartime opposition was a genuine betrayal?**
+> **When did Samuel and Konrad agree to appear as enemies, and which apparently hostile act was the first time Samuel secretly used their shared cover to prepare Konrad as his scapegoat?**
 
-Acceptance test: their shared recruitment con and Samuel's later domination fit the answer; George's and Aiden's public roles and actual choices stay distinct; the war and its harms remain real; the older exile/sabotage account can become an earlier plausible interpretation without contradicting sealed events; and the real leaders' bounded authorization is distinguishable from the criminals' planned deception. Once answered, recheck SPR-02 through SPR-05 and return to EGI-01 with the clarified Konrad knowledge boundary.
+Acceptance test: establish a rough prewar/postwar clock and distinguish staged public hostility from genuine betrayal; preserve George's and Aiden's individual choices, the real war and its harms, Konrad's joint culpability and Samuel's later separate campaign. The real leaders' bounded authorization stays distinct from the criminals' deception. Then recheck SPR-02 through SPR-05, the synthetic embodiment questions, and EGI-01 with the clarified Konrad knowledge boundary.
 
 ## Change Log
 
+- **2026-09-27 later:** Integrated staggered synthetic information access, research on artificial cell-like tissues and neural transfer, and a proposed Frankenstein motive/transfer ladder. Superseded the former universal in-world information absence; no discovery person, date, or successful transplant was invented.
+- **2026-09-27:** Integrated the author's joint-leadership, staged-rivalry and synthetic-embodiment direction. Reframed SPR-01 around the first secretly unilateral act and installed a working historical reveal spine. Kept technical success, dates, knowledge clocks and scene order open.
 - **2026-09-24 evening:** Integrated the shared Planet Three process, rotating heir roles, George/Aiden opposing placements, smaller criminal network and Samuel–Konrad con. Reordered the active author gate to war/partnership causality. Preserved the older account as potential reveal layers; EGI questions remain dependent and open.
 - **2026-09-24 desktop:** Completed the endgame integration and dated continuity assessment. Reconciled the decades-long con with the existing Book One engine; kept the Konrad timing repair working; merged overlapping prompts into EGI-01 through EGI-11 and selected one Konrad-belief gate. No new reveal order was established.
 - **2026-09-24:** Added an author-triggered desktop integration handoff. Deferred the previous breeding-evidence gate until the separate altered realities, failed-enhancement con, Samuel's Luminai-secret pursuit, and existing Book One endgame have been reconciled; new questions follow that audit.

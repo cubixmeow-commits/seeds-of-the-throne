@@ -1,10 +1,14 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Storyline
+
+## Controlling layered-reveal direction — September 27
+
+Samuel and Konrad co-lead the same criminal project and intentionally stage enmity. Samuel plans to use that public account to transfer blame for their shared abuses to Konrad while secretly expanding his own control and unauthorized bloodline campaign. Both seek synthetic bodies for their biological brains; the original breeding scandal follows their false racist theory that mixed human ancestry could illuminate human–synthetic union. Their theory is wrong, and the affected children and existing synthetics are people. The developing saga should reveal this project progressively: true but incomplete war history, hidden joint command, failed enhancement, original motive, real technical and ethical obstacles, then Samuel's frame. The reveal sequence is working rather than a fixed chapter or book order. The war and consequences are real; its initial interpretation is false. See [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]] and [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]].
 
 ## Controlling shared-process revision — September 24
 
@@ -50,7 +54,7 @@ George's corrupted loop is a central causal mechanism: selected cue -> Daemon-re
 
 Sylvan's counter-development is disciplined interpretation rather than immunity from error. He and his Luminai preserve sources, generate rival explanations, make testable predictions, and distinguish evidence from the story imposed on it. This supports both his survival under Samuel's information attacks and the eventual outcome presentation.
 
-The planet's apparent physical history is generated through terraforming and civilization construction, then deepened through genuine lived history. Religious organizations are managed by synthetic extensions of the process AI, but the synthetic-management fact is absent from every participant-facing information layer on the planet and can never be discovered there as a higher-level secret. Exact construction layers, encoded systems, religious awareness boundaries, and external safeguards remain open.
+The planet's apparent physical history is generated through terraforming and civilization construction, then deepened through genuine lived history. Religious organizations are managed by synthetic extensions of the process AI. Under the later September 27 override, different people can discover information about synthetics through different means and at different times, some after the Great War; knowledge of religious management and any public dissemination remain open. Exact construction layers, encoded systems, religious awareness boundaries, and external safeguards remain open.
 
 See [[02 Story/Systems/Encoded Pattern Interpretation and Manufactured History]].
 

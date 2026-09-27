@@ -7,6 +7,10 @@ themes: simultaneous colonization, contained leaders, legitimate heirs, rotating
 
 # Shared Colonization Process and Rotating Roles
 
+## September 27 shared leadership and planned blame — established direction
+
+Samuel and Konrad are leaders of the same criminal project. They intentionally present themselves as enemies; Samuel uses that performance to prepare a future account that makes Konrad responsible for their shared program and Samuel appear opposed to it. The original joint motive includes becoming synthetic through transfer of their brains, and their breeding experiments pursue a false analogy between human ancestry and human–synthetic embodiment. Samuel's later unauthorized campaign and actual betrayal remain distinguishable from their original shared wrongdoing. The planned appearance does not make the war, defeat, injuries, exile, personal resentment, or every individual clash unreal. Their exact chronology, divisions of authority, and the moment Samuel turns the cover against Konrad remain open. See [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]] and [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].
+
 ## Established — one world, many simultaneous plans
 
 Planet Three, the **second colonization planet**, is a developing civilization, not a backdrop reserved for one contained group or one heir. Contained criminals, their children, legitimate leaders' children, synthetics, and many other residents participate in overlapping histories. Institutions, war, government, work, family, and religion have real consequences as the whole planet advances. The real leaders manage the underlying process and its limits while allowing contained criminals bounded room to attempt their own plans and expose their methods through chosen action. No contained leader owns the process.
@@ -25,7 +29,7 @@ The Great War establishes the misleading image of two separate contained empires
 
 These empires are real public political and institutional arrangements with real harms and consequences. They are also **roles and narratives within containment**, not the full map of who is allied with whom. A visible president, a national government, a contained faction, and the process authority are four different things. George's prominence never means he truly rules the planet or the parent civilization. Aiden's placement does not make him the sole author of the defeated empire's actions.
 
-The criminals' con makes them appear to be fighting the program they are trying to advance. Earlier recruitment invokes supposed mental enhancement, implants, technology, breeding, and future godlike rule. Falsified progress presentations support that claim. Their claim of superiority is ideology and deception, not a truth about people or a consequence of lineage. Samuel and Konrad may have partnered in that recruitment project earlier than the legacy Great War account assumes; the precise partnership, betrayals, and transfer of control remain to be settled.
+The criminals' con makes them appear to be fighting the program they are trying to advance. Earlier recruitment invokes supposed mental enhancement, implants, technology, breeding, and future godlike rule. Falsified progress presentations support that claim. Their claim of superiority is ideology and deception, not a truth about people or a consequence of lineage. Samuel and Konrad co-lead that recruitment project; the precise partnership chronology, betrayals, and transfer of control remain to be settled.
 
 ## Established — why the real leaders allow this
 

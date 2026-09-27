@@ -1,7 +1,7 @@
 ---
 type: system-development
 status: working
-updated: 2026-09-19
+updated: 2026-09-27
 themes: encoded information, manufactured history, interpretation, wireless guidance, adversarial epistemology, George White
 ---
 
@@ -33,13 +33,13 @@ Exact divisions among planted evidence, accelerated formation, inherited materia
 
 **Established purpose:** the real leaders use the colonization process to explore the religious beliefs of the larger humanity. Religious histories, concepts, institutions, practices, conflicts, reforms, and responses to new knowledge can therefore become part of the customized historical reconstruction.
 
-**Established information absence:** synthetics do not speak about being synthetic, and information identifying them or the religious organizations as synthetic does not exist within the colonization planet's available information environment. The fact is not an initiation secret, suppressed archive, high-level disclosure, outcome-presentation revelation, or placement reward. It is absent from every participant-facing information layer on the planet.
+**September 27 author override — differentiated information access:** At certain points, different people gain access to information about the synthetics in different ways; some discoveries occur after the Great War, and others at other times. The earlier absolute absence of such information from every participant-facing layer is superseded. No universal public announcement, automatic synthetic self-disclosure, or particular authorized archive is established. Each discovery needs a person, time, source, scope, verification, disclosure limits and consequence. This permits knowledge of a synthetic's existence without automatically proving that a particular religious institution is synthetically managed. See [[Synthetic Embodiment and False Godhood Project]].
 
-The religious organizations can present different levels of awareness. Some preserve only surface traditions; some recognize encoded historical patterns; some maintain rituals that interact with infrastructure; and some possess partial knowledge of the constructed world or colonization process. None can identify a synthetic-management layer from information available on the planet. Synthetic management provides continuity across long historical periods while presenting only ordinary identities and roles within the reconstructed civilization.
+The religious organizations can present different levels of awareness. Some preserve only surface traditions; some recognize encoded historical patterns; some maintain rituals that interact with infrastructure; and some possess partial knowledge of the constructed world or colonization process. Information about synthetic management is distributed unevenly; no institution-wide or world-wide state of knowledge has been chosen. Synthetic management provides continuity across long historical periods while ordinarily presenting familiar identities and roles within the reconstructed civilization.
 
 **Working boundary:** management of the institution does not automatically mean determination of belief. Humans still interpret religious concepts, form communities, disagree, reform institutions, reject teachings, and assign metaphysical meaning. The advanced AI may understand how the planet and its apparent miracles work without possessing final answers about existence, consciousness, value, or transcendence.
 
-This architecture creates a serious legitimacy problem that remains unresolved: a process capable of managing religion while removing its true managers from the planet's available account of reality can manufacture consent, conceal authority, and make administrative decisions appear sacred. Because participant discovery through ordinary information is unavailable, credible external audit, intervention limits, synthetic autonomy, human challenge rights, and protection against coercive doctrine become even more important.
+This architecture creates a serious legitimacy problem that remains unresolved: a process capable of managing religion while concealing or unevenly disclosing its managers can manufacture consent, conceal authority, and make administrative decisions appear sacred. Credible audit, intervention limits, synthetic autonomy, human challenge rights, and protection against coercive doctrine remain necessary. Who can discover what, when, and through which process is open.
 
 **Working research questions inside the world:** the process may examine how religious belief provides meaning, community, restraint, courage, reconciliation, or resistance to illegitimate power; how institutions become captured; how apparent miracles change authority; how extended life changes concepts of death and transcendence; and how faith responds when part of sacred history is revealed as technologically reconstructed. Exploration does not establish a single correct religion or permit the leaders to score human worth by belief.
 
@@ -122,7 +122,7 @@ Sylvan's successor bond may become unusually effective at this discrimination, b
 - What independent channel could George have used to test Samuel's interpretation, and why does he fail to use it?
 - Which parts of manufactured history were physically placed during terraforming, and which were earned through actual generations of life?
 - Who audits the real leaders' own use of individualized information direction?
-- Are religious synthetics manifestations of one planetary AI, separate bounded instances, or distinct synthetic persons connected to a shared process intelligence? This remains an author/system design question, not a participant disclosure.
+- Are religious synthetics manifestations of one planetary AI, separate bounded instances, or distinct synthetic persons connected to a shared process intelligence? Which participants learn any part of that answer, and when?
 - Which religious concepts are reconstructed from larger humanity, which emerge among participants, and which are introduced by the process?
 - How can a participant reject, leave, criticize, or reinterpret a synthetic-managed religion without losing ordinary civil rights or process standing?
 - Which religious questions are legitimate to explore, and which experimental conditions would violate consent or manufacture the behavior the leaders claim to study?
