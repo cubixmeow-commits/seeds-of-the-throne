@@ -6,6 +6,10 @@ updated: 2026-09-27
 
 # Synthetics
 
+## Origin consequence — September 27 author direction
+
+Creating synthetics indistinguishable from human beings in form and function brings unprecedented legal and social concerns. Some resource-rich criminals seek to merge with synthetics or take their power, prompting laws and the lure of a bounded colonization setting in which they believe they can prove their theories. The threat is what those people choose to do, not a moral flaw inherent in synthetics. See [[Synthetic Invention and Criminal Containment]].
+
 ## September 27 nanocell foundation — author established
 
 Nanotechnology builds a **biological wrapper around each individual nanocell**. The nanotechnology remains inside its wrapped unit. Organized populations of these units can form a **biological computer** and a larger biological synthetic. Their wireless energy comes from a moon-like orbital solar generator **through a network of hidden satellites**. The last delivery step into each nanocell, the matter source for growth, the organization of computation, and any biological metabolism remain open.

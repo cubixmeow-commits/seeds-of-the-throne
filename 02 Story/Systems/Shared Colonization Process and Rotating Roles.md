@@ -7,6 +7,10 @@ themes: simultaneous colonization, contained leaders, legitimate heirs, rotating
 
 # Shared Colonization Process and Rotating Roles
 
+## September 27 origin of criminal containment — established premise, open legal history
+
+The invention of highly sophisticated nanotechnology creates biological synthetics indistinguishable from humans in form and function. Resource-rich criminals see the possibility of merging with them or appropriating their capabilities. Laws respond to that new concern; dangerous factions are lured into a bounded colonization process where they expect a chance to prove their ambition. This supplies a plausible historical origin for the contained-criminal layer and a route from technological power to fascist ideology, without replacing colonization's separate constructive purposes, the rights of synthetics, or the agency of Planet Three's residents. Exact law, consent/sentencing, challenge terms, and three-world chronology remain open. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
+
 ## September 27 shared leadership and planned blame — established direction
 
 Samuel and Konrad are leaders of the same criminal project. They intentionally present themselves as enemies; Samuel uses that performance to prepare a future account that makes Konrad responsible for their shared program and Samuel appear opposed to it. The original joint motive includes becoming synthetic through transfer of their brains, and their breeding experiments pursue a false analogy between human ancestry and human–synthetic embodiment. Samuel's later unauthorized campaign and actual betrayal remain distinguishable from their original shared wrongdoing. The planned appearance does not make the war, defeat, injuries, exile, personal resentment, or every individual clash unreal. Their exact chronology, divisions of authority, and the moment Samuel turns the cover against Konrad remain open. See [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]] and [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].

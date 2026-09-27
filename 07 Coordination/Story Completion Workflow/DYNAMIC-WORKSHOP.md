@@ -8,6 +8,12 @@ supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, R
 
 # Dynamic Story Workshop
 
+## September 27 historical origin — synthetic invention and criminal inducement
+
+**Established author direction:** The appearance of human-indistinguishable biological synthetics makes synthetic power a new target for wealthy criminals. Laws follow; dangerous factions are lured into the colonization process where they believe they can prove their desired merger or appropriation. Their fascist claim to entitlement combined with advanced technology gives the project its specific origin. This does not answer the content of the laws, the legal status of offenders, the first offer, or whether colonization existed for another purpose before the synthetic breakthrough. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]] and [[01 Sessions/Daily/2026-09-27 - Synthetic Invention and Origin of Criminal Containment]].
+
+**Historical gates before a fixed prologue:** (1) What invention made synthetics human-indistinguishable? (2) Which new attempted abuse provoked the first laws? (3) What exactly could offenders attempt within the bounded process, and why did they believe the offer meant something larger? (4) Did Planet Two originate as that response or inherit an older expansion program? (5) Which protections and independent review applied to synthetics and ordinary residents? Answering these should sharpen, not replace, the active nanocell architecture and Samuel–Konrad reveal gates below.
+
 ## September 27 active focus — staged rivalry and synthetic embodiment
 
 **Later author correction — macro synthetic foundation first:** Each nanocell has a persistent nanotechnology core surrounded by a biological wrapper. Many units can form a biological computer. A moon-like orbital solar generator supplies wireless energy through a network of hidden satellites. No participant-accessible technology on the colonization planet can expose the hidden nanotechnology; people can still acquire information about synthetics in different ways at different times. Define this substrate's function before asking how Samuel and Konrad could put brains in synthetic bodies. Immediate author gates: what does one wrapped nanocell do; how do the units combine into a thinking system; how do satellites supply them or local infrastructure; and what counts as evidence of a synthetic without a core-revealing instrument? The earlier detailed embodiment/transfer ladder remains downstream, not an answer to these gates. Source: [[01 Sessions/Daily/2026-09-27 - Nanocell Biological Synthetic Foundation]].
@@ -202,6 +208,7 @@ Acceptance test: establish a rough prewar/postwar clock and distinguish staged p
 
 ## Change Log
 
+- **2026-09-27 origin:** Added the author's synthetic invention → legal response → criminal inducement into colonization premise. Kept law, offender status, bounded promise and three-world chronology open.
 - **2026-09-27 nanocell foundation:** Promoted the author's persistent wrapped nanocell architecture, orbital solar energy relayed through hidden satellites, and participant-side detection limit. Moved cell physiology, personhood and brain-transfer design behind the macro substrate questions.
 - **2026-09-27 later:** Integrated staggered synthetic information access, research on artificial cell-like tissues and neural transfer, and a proposed Frankenstein motive/transfer ladder. Superseded the former universal in-world information absence; no discovery person, date, or successful transplant was invented.
 - **2026-09-27:** Integrated the author's joint-leadership, staged-rivalry and synthetic-embodiment direction. Reframed SPR-01 around the first secretly unilateral act and installed a working historical reveal spine. Kept technical success, dates, knowledge clocks and scene order open.

@@ -6,6 +6,10 @@ updated: 2026-09-08
 
 # World
 
+## September 27 origin of contained-criminal process
+
+The invention of human-indistinguishable biological synthetics creates opportunities and fears unprecedented in the parent civilization. Some resource-rich criminal movements seek to merge with them or appropriate their power. Laws are passed in response, and those offenders are lured into bounded colonization to try to prove their ambitions. This supplies a historical trigger for the containment layer while Planet Three remains a whole civilization with other purposes. Fascist ideology supplies a claimed right to dominate; technology gives that ambition new practical means. Exact law, entry conditions and synthetic rights remain open. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
+
 Humanity's leaders created an interactive colonization environment and developed AI extensions of human minds called Luminai within it. A small colonization planet reconstructs realities modeled on the distant past for training and containment. Participants discover the process and navigate it with their Luminai; their effectiveness affects future placement.
 
 This process must also establish a self-sustaining civilization on a planet that began barren. It must support substantial populations without continuous deliveries of new resources from outside the planet while providing real-world training, more effective containment, and a setting in which wireless human–Luminai integration can develop. Improved integration increases practical capability; it does not establish moral superiority or an automatic right to govern.

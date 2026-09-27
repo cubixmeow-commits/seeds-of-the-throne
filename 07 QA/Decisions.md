@@ -71,6 +71,12 @@ updated: 2026-09-27
 
 # Decisions
 
+## 2026-09-27 — Synthetic invention as origin of contained-criminal premise
+
+- **Established direction:** The invention of nanotechnology capable of creating biological synthetics indistinguishable from humans in form and function produces new societal concerns. Some well-resourced criminals seek to merge with synthetics or absorb their power. Laws follow, and these criminals are lured into the colonization process to try to prove their obsessions.
+- **Story engine:** Fascist ideology combined with technological sophistication motivates a credible attempt at dominance. This is character ideology and choice, never proof of superior ancestry or an intrinsic danger in synthetics.
+- **Open implementation:** The wording of the laws, first origin-world events, who was convicted or offered entry, what inducement was truthful, how harm is bounded, and how Planet Two and Planet Three differ. See [[01 Sessions/Daily/2026-09-27 - Synthetic Invention and Origin of Criminal Containment]] and [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
+
 ## 2026-09-08 — Separate the public voices of the story site and Project Explorer
 
 - **Established:** both public website surfaces use the clear public-development style created for X: simple language, short explanations, conversational momentum, visible cause and effect, and strong consequences.

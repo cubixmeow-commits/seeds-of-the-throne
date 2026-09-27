@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-27 — Synthetic invention and legal origin of containment
+
+- **Source:** [[01 Sessions/Daily/2026-09-27 - Synthetic Invention and Origin of Criminal Containment]]; [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]]
+- **Type:** decision / dependency / structural-development
+- **Possible relationship:** three-world origin, containment legitimacy, synthetic rights, current dynamic workshop
+- **Signal:** Human-indistinguishable synthetics attract well-resourced criminal attempts at merger or appropriation, prompt laws, and supply a historical reason offenders enter bounded colonization to test their claims.
+
 ### 2026-09-27 — Joint leaders and synthetic embodiment reveal spine
 
 - **Source:** [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]]; [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]]

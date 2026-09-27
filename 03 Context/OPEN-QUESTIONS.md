@@ -49,6 +49,8 @@ RW-01 through RW-10 are author-accepted and the reassessment workshop is complet
 
 # Open Questions
 
+**New origin dependency (September 27):** Did the synthetic breakthrough cause the first colonization/containment plan, or redirect a colony already planned for expansion? Which concrete attempted abuse prompted the laws; what offer lured convicted or prospective offenders into a bounded test; and what protections applied to synthetic persons and ordinary residents? This historical clock precedes a fixed war prologue. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
+
 ## Three-world and reveal-chain mechanics — 2026-09-20
 
 The historical targeted author-gate layer is [[07 Coordination/Story Completion Workflow/Reveal Chain Mechanics Workshop]]. Its unresolved causal, timeline, presentation, succession, empire, disclosure, evidence, and character-motivation mechanics are folded into the dynamic workshop. Do not infer answers from the structural direction.

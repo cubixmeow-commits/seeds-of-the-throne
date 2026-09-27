@@ -6,6 +6,10 @@ updated: 2026-09-27
 
 # Storyline
 
+## Historical origin — synthetic invention and the criminal lure
+
+Invention of human-indistinguishable biological synthetics creates an unprecedented new route to technological power. Laws follow, while some resource-rich criminal leaders become obsessed with merging with synthetics or taking their capabilities. The leaders of the real civilization lure dangerous groups into bounded colonization, where they believe their claims can be demonstrated. This historical cause joins the established purposes of planetary settlement, managed conflict, accountability, heir development and successor human–Luminai cultivation; it does not make the lives of colonists mere props. The exact statutes, first offenders, offered terms and Planet One–Two–Three transition remain unresolved. The Samuel–Konrad project becomes a specific later expression of the collision between fascist ideology and synthetic technology. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
+
 ## Controlling layered-reveal direction — September 27
 
 Samuel and Konrad co-lead the same criminal project and intentionally stage enmity. Samuel plans to use that public account to transfer blame for their shared abuses to Konrad while secretly expanding his own control and unauthorized bloodline campaign. Both seek synthetic bodies for their biological brains; the original breeding scandal follows their false racist theory that mixed human ancestry could illuminate human–synthetic union. Their theory is wrong, and the affected children and existing synthetics are people. The developing saga should reveal this project progressively: true but incomplete war history, hidden joint command, failed enhancement, original motive, real technical and ethical obstacles, then Samuel's frame. The reveal sequence is working rather than a fixed chapter or book order. The war and consequences are real; its initial interpretation is false. See [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]] and [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]].

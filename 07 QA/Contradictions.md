@@ -6,6 +6,10 @@ updated: 2026-09-27
 
 # Contradictions
 
+## September 27 synthetic-invention origin addition
+
+The author's new cause of the contained-criminal process is compatible with existing settlement, accountability and heir-development purposes if the historical clocks are distinguished. **Significant gap:** the initial law and inducement need a defined relation to Planet Two and Planet Three, and to convicted versus voluntary entry. The new threat is attempted appropriation of synthetics, not synthetic personhood. The dictated phrase “lured into not the colonization process” is provisionally read as **into** given the sentence's stated destination; confirm or revise if the author intended a different destination. See [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]].
+
 ## September 27 shared-leadership and embodiment override
 
 **Blocking chronology tension:** A staged Samuel–Konrad rivalry must be reconciled with actual exile, Konrad's disposal mission, Samuel's sabotage, real Great War defeat, and later alpha/beta capture. Their co-leadership is established; exactly which hostile events were mutual theater, genuine struggle inside the project, or Samuel's unilateral betrayal is open. **Blocking responsibility tension:** their original shared breeding ambition must coexist with Samuel's later unauthorized campaign and his planted claim of Konrad-only authorship. **Significant system gap:** synthetic persons with biological processors cannot automatically be vacant brain hosts; the biological transfer and personal-continuity mechanism remain open. See [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]] and [[01 Sessions/Daily/2026-09-27 - Shared Leadership Synthetic Immortality and Layered Reveals]].
