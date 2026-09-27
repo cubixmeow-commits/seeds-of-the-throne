@@ -10,6 +10,8 @@ The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WO
 
 Next dependency after that clock: map who learns which facts about synthetics by which channels, including discoveries after the Great War; distinguish knowledge of synthetic anatomy from knowledge of hidden institutional management. Decide the precise host's processor/personhood status before treating a biological brain transfer as a viable project. See [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]].
 
+**Nanocell macro gate now precedes transfer design:** What are the core's functions inside its biological wrapper, how do wrapped units form a biological computer, and how does wireless power from the orbital solar generator reach them? No on-planet participant technology can expose the internal nanotechnology, even though synthetic information can be learned by other means. See [[01 Sessions/Daily/2026-09-27 - Nanocell Biological Synthetic Foundation]].
+
 ## Canonical workshop — 2026-09-21
 
 All current assessment questions now live in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The lists below remain topical context and historical question inventory; they do not compete with the dynamic workshop's **Next Assessment Pass**.
