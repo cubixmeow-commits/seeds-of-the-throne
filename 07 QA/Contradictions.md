@@ -8,7 +8,7 @@ updated: 2026-09-27
 
 ## September 27 synthetic-invention origin addition
 
-The author's new cause of the contained-criminal process is compatible with existing settlement, accountability and heir-development purposes if the historical clocks are distinguished. **Significant gap:** the initial law and inducement need a defined relation to Planet Two and Planet Three, and to convicted versus voluntary entry. The new threat is attempted appropriation of synthetics, not synthetic personhood. The dictated phrase “lured into not the colonization process” is provisionally read as **into** given the sentence's stated destination; confirm or revise if the author intended a different destination. See [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]].
+The author's new cause of the contained-criminal process is compatible with existing settlement, accountability and heir-development purposes if the historical clocks are distinguished. **Significant gap:** the initial law and inducement need a defined relation to Planet Two and Planet Three, and to convicted versus voluntary entry. The new threat is attempted appropriation of synthetics, not synthetic personhood. The author's subsequent X post explicitly confirms the criminals are lured **into** colonization. Most people mistake the orbital generator for a moon; the network powers billions of synthetics. The scale raises an open infrastructure question about energy distribution and failure modes, without establishing a mechanism. See [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]].
 
 ## September 27 shared-leadership and embodiment override
 

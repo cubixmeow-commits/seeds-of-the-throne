@@ -9,7 +9,7 @@ scope: synthetic invention, legal response, offender inducement, three-world ori
 
 ## Controlling author direction
 
-Human-indistinguishable biological synthetics create a powerful new target. Resource-rich criminals try to merge with or appropriate synthetic capability; laws respond; offenders are lured into colonization believing they can prove their claims. Fascist ideology plus technological sophistication provides the story's origin pressure. See [[01 Sessions/Daily/2026-09-27 - Synthetic Invention and Origin of Criminal Containment]].
+Human-indistinguishable biological synthetics create a powerful new target. A generator most people mistake for a moon powers billions through hidden satellites. Resource-rich criminals try to merge with or appropriate synthetic capability and imagine themselves gods; laws respond; offenders are lured into colonization believing they can prove their claims. Fascist ideology plus technological sophistication provides the story's origin pressure. See [[01 Sessions/Daily/2026-09-27 - Synthetic Invention and Origin of Criminal Containment]].
 
 ## Continuity matrix
 
@@ -20,7 +20,6 @@ Human-indistinguishable biological synthetics create a powerful new target. Reso
 | Existing synthetics populate worlds and may be persons or linked to a governing intelligence. A legal response could inadvertently treat them as property or intrinsic danger. | Significant ethical and thematic risk. | Specify rights/standing and actual prohibited conduct separately. Villain threat is attempted appropriation, coercion and dominance; synthetic existence is not the offense. |
 | Planet Three participant instruments cannot expose wrapped nanocell cores, but some characters learn about synthetics and offenders seek them. | Significant knowledge gate. | Assign discovery channels and times outside direct on-planet nanocell detection; distinguish rumors, proof that synthetics exist, proof of a particular identity, and true access to the substrate. |
 | The origin-world law and offer predate later Samuel–Konrad Great War and postwar betrayal, but current chronology across planets is provisional. | Blocking for historical outline. | Place the initial breakthrough, legal response, first inducement, Planet Two, and Planet Three before anchoring either leader's recruitment or wars. |
-| “Criminals lured into not the colonization process” contains an apparent dictated negation despite the stated location “where they could try to prove” the claims. | Minor textual ambiguity with high possible causal impact. | Working reading is **into** the process. If the author intended another destination, revise the legal and timeline integration rather than pretending this was settled. |
 
 ## Narrative advantage
 
