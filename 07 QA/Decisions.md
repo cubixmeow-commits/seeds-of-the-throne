@@ -1,8 +1,15 @@
 ---
 type: decisions
 status: active
-updated: 2026-09-27
+updated: 2026-09-28
 ---
+
+## 2026-09-28 — Two-planet war and containment transition (author override)
+
+- **Established:** Planet Two is the first colonization planet, where the criminals are less contained. They lose a real Great War; this concludes the first-colony arc.
+- **Established:** Planet Three is the second colonization planet. The defeated criminals are more tightly contained inside the dominant empire that won, the real leaders’ empire, for about a century before Sylvan. George White’s presence in that empire follows this transition.
+- **Override:** September 24’s placement of the Great War on Planet Three and its implied Planet Three wartime assignments are superseded. The two-camp public story, smaller groups, joint project and later public offices remain, with individual dates open.
+- **Open:** How an empire persists or is recreated across worlds, George’s role and agency, Aiden’s assignments and transfer, Samuel and Konrad’s physical endgame locations, and terminal transport. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 ## 2026-09-27 — Joint leadership, synthetic ambition, and layered revelation
 

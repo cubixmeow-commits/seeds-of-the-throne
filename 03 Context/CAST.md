@@ -38,7 +38,7 @@ Konrad's approved late-containment visual identity is an older, tall, broad, cle
 
 ## George White
 
-Samuel's son and the older criminal network's direct participant on Sylvan's newer colonization planet. Samuel and Konrad remain physically contained on the previous planet, so George supplies access Samuel cannot exercise himself. Samuel weaponizes him against Sylvan and Orzai, then tries to blame him for the entire system and continue through Samuel Jr.
+Samuel's son and the older criminal network's direct participant on Sylvan's newer colonization planet. The defeated groups enter tighter Planet Three containment after losing Planet Two's war; Samuel and Konrad's endgame whereabouts and the exact access George supplies are open. Samuel weaponizes him against Sylvan and Orzai, then tries to blame him for the entire system and continue through Samuel Jr.
 
 George is also the primary example of adversarial pattern interpretation. The wireless environment points him toward selected information, his Daemon identifies real or plausible relationships, Samuel supplies a useful false explanation, and later selected cues appear to confirm it. George still chooses and acts, but the provenance, timing, trusted channels, and interpretive frame surrounding those choices have been systematically corrupted. His exact first cue, the lie attached to it, his independent verification opportunity, culpability, possible refusal, communication channel, and final placement remain unresolved.
 

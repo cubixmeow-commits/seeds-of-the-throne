@@ -1,12 +1,16 @@
 ---
 type: context
 status: active
-updated: 2026-09-24
+updated: 2026-09-28
 ---
+
+## Current gate — September 28
+
+The sole next assessment is **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: define how Planet Two’s victorious real leaders’ empire becomes Planet Three’s dominant containment institution, and identify George’s place within it without inventing a Planet Three Great War. The previously active OR-01 public ascension claim, OR-02 governance and SPR-01 staged-rivalry clock follow as dependencies. Samuel and Konrad’s late physical locations remain unresolved against the new group-level transfer. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 ## Current priority — September 27 origin integration
 
-The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|OR-01]]: what exactly did the private-corporate ascension promoters promise their large following, and what independently observable result would convincingly fail that **specific** claim while leaving real regeneration and other medicine untouched? OR-02 then determines lawful authority, revoked insider access and offender entry. The previous SPR-01 question—when Samuel and Konrad staged rivalry and when Samuel first prepared to blame Konrad—remains the subsequent character-history gate. These are dependencies within one workshop, not parallel task lists. Source: [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
+The former OR-01 gate, now following PT-01, is: what exactly did the private-corporate ascension promoters promise their large following, and what independently observable result would convincingly fail that **specific** claim while leaving real regeneration and other medicine untouched? OR-02 then determines lawful authority, revoked insider access and offender entry. The previous SPR-01 question—when Samuel and Konrad staged rivalry and when Samuel first prepared to blame Konrad—remains the subsequent character-history gate. These are dependencies within one workshop, not parallel task lists. Source: [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
 
 After the origin and rivalry clocks, map who learns which facts about synthetics by which channels, including discoveries after the Great War; distinguish knowledge of synthetic anatomy from knowledge of hidden institutional management. Decide the precise host's processor/personhood status before treating a biological brain transfer as a viable project. See [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]].
 

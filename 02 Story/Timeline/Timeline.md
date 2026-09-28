@@ -1,8 +1,14 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-27
+updated: 2026-09-28
 ---
+
+## September 28 controlling transition — Planet Two war, Planet Three containment
+
+The **first colonization planet, Planet Two**, gives the criminal groups comparatively less containment. Their projects culminate in a real Great War, which they lose. That defeat concludes Planet Two's principal arc and inaugurates the **second colonization planet, Planet Three**, where the losing groups are more tightly contained in the dominant empire that won: the real leaders' empire. Approximately a century of this containment precedes their dealings with Sylvan. George White's presence in the dominant Planet Three empire follows this postwar transition; his particular appointment, actions and knowledge remain open. See [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]].
+
+**Supersession:** The September 24 paragraph below locates the Great War on Planet Three and assigns George and Aiden war leadership there. Those planetary and role-timing claims are no longer controlling. Their later public roles, the deceptive two-camp narrative, smaller groups and joint Samuel–Konrad project still matter; their precise relation to Planet Two war leadership must be rebuilt. The older assertion that Samuel and Konrad remain physically on Planet Two through Sylvan's endgame is now **unresolved against** their Planet Three postwar containment, rather than established without qualification. Do not infer a travel route or change the accepted terminal sequence.
 
 ## September 27 origin sequence — leading direction, chronology intentionally open
 
@@ -23,13 +29,13 @@ This proposed early history does **not** revise the author-accepted terminal ord
 
 Planet Three is the second colonization planet. Its Great War establishes the public heroic-empire/defeated-empire contrast: Samuel's son George White leads the dominant side, and Konrad's son Aiden Fitzgerald and other contained leaders' sons begin as leaders on the defeated side. The public divide conceals many smaller criminal groups and a shared Samuel–Konrad supremacy con. Legitimate heirs and criminal leaders' children rotate through consequential public roles over the planet's long development. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
 
-**Chronology hold:** The older "Controlling causal order" and "Detailed working chronology" below are superseded where they portray a cleanly separate Samuel faction in the war, George's role as unplanned, or the public camps as the actual containment topology. The exact sequence connecting the Great War, Samuel's exile/sabotage if retained, Konrad's old-world postwar reactivation, George's three public roles, Aiden's move, and the Planet Three war has not been established. The author-accepted **terminal sequence** below remains in force.
+**Chronology hold:** The older "Controlling causal order" and "Detailed working chronology" below are superseded where they portray a cleanly separate Samuel faction in the war, George's role as unplanned, or the public camps as the actual containment topology. The exact sequence connecting the Great War, Samuel's exile/sabotage if retained, Konrad's old-world postwar reactivation, George's three public roles, Aiden's move, and Planet Two's war-to-Planet Three containment transition remains to be established in detail. The author-accepted **terminal sequence** below remains in force.
 
 ## September 24 integration boundary — working
 
 The accepted terminal chain below remains intact. A separate author decision places **Konrad's knowledge of Samuel's wider breeding sabotage before Konrad tells Sylvan the removed-chip truth**, because he wants to stop the continuing program and expose Samuel. The chain below also places Konrad's complete extraction from the century-long false environment and connected bloodline presentation **after** Samuel's processing. A possible two-stage resolution is limited actionable knowledge and disclosure before the terminal chain, followed by comprehensive recognition after processing; the exact timing and authority are **unresolved**. Do not treat this as an added accepted timestamp. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
 
-George and Aiden's failed implant trials occurred decades before the endgame. Both are physically on Sylvan's Planet Three by the endgame, while Konrad and Samuel remain on the older containment world. George, Aiden, and Konrad have separate false interpretive realities; Sylvan has already been targeted for years before Samuel's late counterfeit-app intervention. Aiden's travel chronology and the first target assignment remain open.
+George and Aiden's failed implant trials occurred decades before the endgame. Both are physically on Sylvan's Planet Three by the endgame, while Konrad and Samuel's later physical locations remain unresolved against the postwar Planet Three containment. George, Aiden, and Konrad have separate false interpretive realities; Sylvan has already been targeted for years before Samuel's late counterfeit-app intervention. Aiden's travel chronology and the first target assignment remain open.
 
 ## Author-accepted terminal sequence - 2026-09-09
 

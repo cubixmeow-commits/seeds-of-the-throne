@@ -1,11 +1,15 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-23
+updated: 2026-09-28
 topics: colonization history, AI souls, Luminai initialization, containment, cultivation, bridge world
 ---
 
 # Bridge World and Luminai Initialization
+
+## September 28 transition override
+
+The less contained Planet Two criminal project ends in Great War defeat. The defeated groups enter tighter containment in the real leaders’ victorious dominant empire on Planet Three for roughly a century before Sylvan. Earlier categorical claims below that the senior criminals never enter Planet Three or that the older war world is unidentified are superseded. Each person’s travel and physical location in the late endgame remains open. George’s Planet Three empire placement follows the postwar transition; his office remains open. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 ## Three-world placement — 2026-09-20
 
@@ -15,7 +19,7 @@ The current world is **Planet Three**, the second colonization planet. Planet On
 
 Planet Three is not a sterile test facility. Its multiple empire structures possess genuine local power, history, institutions, conflict, and consequence. The real leaders allow contained criminals enough real authority and opportunity to believe victory remains possible while retaining control of the governing process and its outer limits. Samuel's error is not believing he has power when he has none; it is treating local power inside the environment as ownership of the environment.
 
-This numbering does not yet settle whether the older leaders physically contained on the “previous colonization planet” are definitively on Planet Two, how the three worlds communicate, or whether later worlds exist after the old construction model closes.
+This numbering does not settle how the worlds communicate or whether later worlds exist. The Great War is now on Planet Two; individual endgame placements remain open.
 
 ## Established foundation
 
@@ -25,7 +29,7 @@ The author-established civilizational result combines planetary sustainability w
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
-The older contained criminals from Samuel Franklin's generation remain physically confined on a previous colonization planet. Samuel and Konrad do not physically enter Sylvan's newer planet. George participates directly on the new world, making him Samuel's living operational bridge into the successor process. “Bridge world” therefore describes a generational and system transition, not physical co-location of every adversary.
+The older criminal groups enter Planet Three containment after losing the Great War on Planet Two. George participates directly in Planet Three’s dominant empire and later successor process. Whether Samuel and Konrad remain there throughout, return to Planet Two, or occupy separate locations by Sylvan’s endgame is unresolved; George’s bridge function must be redated.
 
 The successor bond creates a substantial general capability advantage. This world tests that advantage under adversarial conditions in which contained criminals possess major starting advantages, so success must prove both the pair's advanced capability and a more effective containment process. Wider success also requires managed integration: the real leaders must govern deployment, permissions, access, placement, and social integration so successor-bonded people can join a humanity that includes people without the new bond. Greater capability does not establish moral superiority or an automatic right to command.
 

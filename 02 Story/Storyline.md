@@ -1,10 +1,14 @@
 ---
 type: storyline
 status: working
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Storyline
+
+## Controlling two-planet transition — September 28
+
+Planet Two, the first colonization planet, gives the criminal groups comparatively less containment. Their Great War ends in real defeat, concluding that colony’s major arc. Planet Three, the second colonization planet, then contains the defeated groups more tightly within the real leaders’ victorious dominant empire for about a century before Sylvan. George White’s presence in that empire follows this transition; his precise office and individual conduct remain open. The September 24 account below is superseded on the war’s planet and implied wartime roles. The deceptive public two-camp story, shared Samuel–Konrad project and rotating later roles survive as distinct claims requiring dates. Older categorical claims about Samuel and Konrad’s endgame location need reconciliation. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 ## Historical origin — synthetic invention and the criminal lure
 
@@ -20,7 +24,7 @@ Samuel and Konrad co-lead the same criminal project and intentionally stage enmi
 
 Planet Three's history is a single advancing civilization in which legitimate heirs, contained criminals' children, and other inhabitants occupy successive public roles while pursuing different ends. The Great War yields a misleading two-empire public account: Samuel's son George White leads the celebrated dominant empire; Konrad's son Aiden Fitzgerald and other contained leaders' sons start in the defeated authoritarian empire. Many smaller criminal groups exist behind the public divide. Samuel and Konrad share a recruitment and domination con, and Samuel seeks to coordinate or capture the groups while appearing to oppose the program through George's role. The real leaders permit bounded assignments to expose criminal conduct while enabling heir development and Sylvan and Orzai's authentic successor bonds. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
 
-The older numbered "Controlling series spine" and "Historical sequence" below are **legacy working reconstructions** wherever they imply Samuel and Konrad began in permanently separate factions, George's dominant role was merely accidental, or the visible empires exhaust the contained network. Preserve only their compatible later consequences (real defeat, separate altered realities, bounded access, valid terminal process) until the Great War and cross-world chronology are rebuilt. The older-world location of Samuel and Konrad during the endgame and George and Aiden's Planet Three presence remain established; do not infer the Great War's physical location from an older label alone.
+The older numbered "Controlling series spine" and "Historical sequence" below are **legacy working reconstructions** wherever they imply Samuel and Konrad began in permanently separate factions, George's dominant role was merely accidental, or the visible empires exhaust the contained network. Preserve only their compatible later consequences (real defeat, separate altered realities, bounded access, valid terminal process) until the Great War and cross-world chronology are rebuilt. George and Aiden’s Planet Three endgame presence remains established. Samuel and Konrad’s precise physical endgame locations now require reconciliation; the Great War’s planet is Planet Two.
 
 ## September 24 Book One causal integration — working
 

@@ -1,8 +1,12 @@
 ---
 type: qa
 status: active
-updated: 2026-09-27
+updated: 2026-09-28
 ---
+
+## September 28 two-planet transition audit
+
+**Resolved placement contradiction:** The author locates the real Great War at the end of the less contained Planet Two phase. The September 24 Planet Three war formulation is superseded. The losing criminal groups then enter about a century of tighter containment inside the real leaders’ victorious dominant empire on Planet Three. **Blocking continuity:** older notes categorically put Samuel and Konrad on Planet Two in Sylvan’s endgame; group-level Planet Three postwar containment does not yet decide their later individual whereabouts or the accepted synthetic transport to older leaders. **Significant institutional gap:** establish how the victorious empire’s authority and name carry between planets, who authorizes offender transfer, and George’s office and agency. **Significant role-clock gap:** George/Aiden wartime affiliations, prior humiliation and later rotating offices cannot all be assumed to occur in the same war on Planet Three. Preserve actual defeat, staged parental rivalry, descendants’ agency and the terminal ending while dating each role. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 # Contradictions
 

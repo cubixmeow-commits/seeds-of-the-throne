@@ -1,10 +1,14 @@
 ---
 type: event
 status: working
-updated: 2026-09-03
+updated: 2026-09-28
 ---
 
 # The Foundational Great War and False Victory
+
+## September 28 controlling planetary correction
+
+The Great War ends the comparatively less contained **Planet Two** phase in a real defeat for the criminal groups. The losers enter stricter containment for roughly a century within the real leaders' victorious dominant empire on **Planet Three**, before Sylvan. George's place in that empire is a postwar transition question, not proof that he led a Planet Three Great War. The September 24 “controlling revision” below is retained as a dated historical interpretation but superseded on the war's location and implied role dates; its shared criminal project, deceptive opposing camps and smaller groups remain live. The numbered September 3 sequence is also working history, not a resolved cross-world account. See [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]].
 
 ## Controlling revision — 2026-09-24
 

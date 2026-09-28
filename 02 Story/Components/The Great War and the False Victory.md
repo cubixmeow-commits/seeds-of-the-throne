@@ -1,11 +1,15 @@
 ---
 type: story-component
 status: working
-updated: 2026-09-03
+updated: 2026-09-28
 themes: Great War, authoritarian conquest, Samuel exile, sabotage, defeat, containment, false victory, George placement
 ---
 
 # The Great War and the False Victory
+
+## September 28 planetary correction — controlling
+
+The real Great War ends the **first colonization planet, Planet Two**; the criminal groups lose. The defeated groups are then more strictly contained in the real leaders' victorious dominant empire on **Planet Three** for approximately a century before Sylvan. George White's presence there follows that transition, with his precise office, prewar placement and individual conduct open. The September 24 account below remains useful for the shared Samuel–Konrad con, smaller groups, deceptive public opposition and real False Victory, but no longer establishes a Planet Three Great War or George and Aiden as its commanders. Earlier prewar and postwar episodes below are provenance awaiting cross-world redating. See [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]].
 
 ## September 24 controlling revision — established direction
 

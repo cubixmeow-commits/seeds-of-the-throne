@@ -1,11 +1,15 @@
 ---
 type: story-system
 status: working
-updated: 2026-09-24
+updated: 2026-09-28
 themes: simultaneous colonization, contained leaders, legitimate heirs, rotating roles, public empire con, Luminai outcome
 ---
 
 # Shared Colonization Process and Rotating Roles
+
+## September 28 controlling planetary sequence
+
+The first colonization planet, Planet Two, allows the criminal groups comparatively more scope. Their Great War there ends in genuine defeat. The second colonization planet, Planet Three, begins the resulting stricter containment **within the real leaders' victorious dominant empire** and develops for about a century before Sylvan. George White's position within that empire is explained by this transition, but his exact office and decisions remain to be dated. Later local offices can rotate within Planet Three's real institutions. The older section titled “the war's public lie” describes an earlier interpretation and **mislocates the war on Planet Three**; read its two-camp concealment as a possible public account carried into postwar Planet Three, not as settled Planet Three battle history or proof of George's wartime command. See [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]].
 
 ## September 27 synthetic society foundation — established macro direction
 

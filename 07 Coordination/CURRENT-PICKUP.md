@@ -1,11 +1,15 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-27
+updated: 2026-09-28
 scope: single current pickup point
 ---
 
-## Active pickup — corporate origin and synthetic ascension claim — 2026-09-27
+## Active pickup — Planet Two defeat to Planet Three containment — 2026-09-28
+
+The criminals are less contained on the first colonization planet, Planet Two; they lose its Great War. Their loss leads to roughly a century of tighter containment within the real leaders’ victorious dominant empire on Planet Three, before Sylvan. George White’s presence there follows the transition, but his office and the older leaders’ eventual physical locations remain open. Start with **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|Dynamic Story Workshop]]. The previous OR-01 public ascension claim follows. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
+
+## Historical pickup — corporate origin and synthetic ascension claim — 2026-09-27
 
 The September 27 desktop integration pass connects the private-corporate start, wrapped-nanocell synthetic societies, wealthy founders' false godhood promise, lawful containment, and hoped-for public failure to the existing Samuel–Konrad plot and fixed endgame. Read [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]] and [[02 Story/Systems/Corporate Ascension Claim and Public Proof]], then open the **Next Assessment Pass** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The single current author gate is **OR-01:** define the promoters' exact promised transformation and what fair independent evidence their following could accept as its failure. OR-02 governance and the former SPR-01 rivalry clock follow; the older EGI gate remains downstream. Do not treat the hoped-for failure as already identical to Samuel's accepted terminal collapse.
 

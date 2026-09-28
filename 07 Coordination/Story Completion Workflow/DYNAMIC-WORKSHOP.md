@@ -1,12 +1,16 @@
 ---
 type: canonical-dynamic-workshop
 status: active
-updated: 2026-09-27
+updated: 2026-09-28
 update_rule: update after every desktop assessment
 supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, Reveal Chain Mechanics Workshop, Reassessment Workshop
 ---
 
 # Dynamic Story Workshop
+
+## September 28 controlling two-planet transition
+
+On Planet Two, the first colonization planet, less contained criminal groups lose the real Great War. Defeat concludes that world’s main criminal arc and opens Planet Three’s stricter containment in the real leaders’ victorious dominant empire for about a century before Sylvan. George White is in that empire through the transition, but his exact role is still open. The September 24 Planet Three-war description below is historical and superseded on location and implied wartime command. Samuel and Konrad’s endgame physical locations need reconciliation; do not silently assign them. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
 
 ## September 27 historical origin — synthetic invention and criminal inducement
 
@@ -42,7 +46,7 @@ Older BA, EG, RW, Reveal Chain, and broad Workshop files remain historical recor
 
 ## September 24 active focus — Planet Three role plan and layered war reveals
 
-**Established author override:** Planet Three is a continuously advancing shared civilization. The Great War's public picture of George White's heroic dominant empire against Aiden Fitzgerald and the other leaders' sons in a defeated authoritarian empire conceals a web of smaller criminal groups, a Samuel–Konrad recruitment and dominance con, and Samuel's growing command. Legitimate heirs can hold the same public offices in later rotations; the real leaders allow bounded criminal roles to expose chosen behavior while cultivating heirs and the genuine successor Luminai. Old exile, war and False Victory accounts are potential first layers of revelation, not flatly deleted history. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+**Historical September 24 formulation, superseded on war location by September 28:** Planet Three is a continuously advancing shared civilization. The Great War's public picture of George White's heroic dominant empire against Aiden Fitzgerald and the other leaders' sons in a defeated authoritarian empire conceals a web of smaller criminal groups, a Samuel–Konrad recruitment and dominance con, and Samuel's growing command. Legitimate heirs can hold the same public offices in later rotations; the real leaders allow bounded criminal roles to expose chosen behavior while cultivating heirs and the genuine successor Luminai. Old exile, war and False Victory accounts are potential first layers of revelation, not flatly deleted history. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
 
 **Current development gates, in causal order:**
 
@@ -93,7 +97,7 @@ These gates precede the older EGI proof and scene questions; those questions rem
 - George's, Aiden's, and Konrad's altered realities are separate. Samuel also deceives Konrad about the larger experiment or program; his knowledge of chip removal and concealment does not give him knowledge of every staged effect or Samuel's breeding sabotage. The exact further lie remains open.
 - The faction's breeding program and the failed George/Aiden mind-enhancement experiments share an ideological aim of supposedly superior, godlike descendants. That aim describes a supremacist fantasy, never an objective ranking of people.
 - Samuel's desperate endgame objective is to destroy Sylvan, learn secrets of his real Luminai bond, and suppress the decades-old George/Aiden failure. His established counterfeit AI application and false story bargain can seek information but do not grant access to or ownership of the bond. His exact destructive method, information target, and order of moves remain open.
-- **Planetary placement:** George and Aiden both act physically on Sylvan's Planet Three. Samuel and Konrad remain on the older containment world. The date, permissions, and route of Aiden's move from his earlier postwar arrangement with Konrad are open.
+- **Planetary placement:** George and Aiden act physically on Sylvan's Planet Three. The defeated groups enter the victorious empire's Planet Three containment after the Planet Two war; Samuel and Konrad's individual locations at the later endgame and Aiden's exact role clock remain open.
 
 ### Bloodline betrayal and escape
 
@@ -208,13 +212,19 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**OR-01 — one author gate.** Define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
+**PT-01 — one author gate.** Define the institutional and character bridge from the real Planet Two victory into Planet Three containment:
+
+> **How does the real leaders’ victorious empire on Planet Two become the dominant empire containing the defeated groups on Planet Three, and what specifically places George White within it?**
+
+Acceptance test: identify whether its authority is continuous or rebuilt, who authorizes and implements the transfer, the actual limit on the criminals in each world, George’s office and agency, and which public version obscures shared Samuel–Konrad leadership. Distinguish group-level Planet Three containment from Samuel and Konrad’s still-open later whereabouts; preserve a real war, real defeat and the fixed terminal sequence. Aiden’s role clock and the approximate century are adjacent dating questions. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
 
 > **What exactly did the wealthy promoters promise people becoming synthetic would give them, and what independent, visible result would convince even their followers that this specific promise failed?**
 
 Acceptance test: distinguish the advertised whole-person transfer and godlike command from genuine regeneration or other medicine; identify the promised observer, success threshold, independent verifier, consent and harm limits, and a route to public evidence that does not require an on-planet nanocell-core detector. Preserve the accepted Samuel terminal sequence and leave open whether it supplies this result. Then work OR-02: define the private firms' original rights, the later leaders' lawful authority, insider-access revocation and differentiated offender entry. **SPR-01 remains the next character-history gate:** when Samuel and Konrad staged rivalry and when Samuel first used that cover to frame his co-leader. No previous SPR answers are invalidated.
 
 ## Change Log
+
+- **2026-09-28 two-planet override:** Relocated the genuine Great War to the close of Planet Two, made postwar containment within the victorious real leaders’ Planet Three empire the start of its century before Sylvan, and moved the sole gate to PT-01. George’s office and older leaders’ later whereabouts remain open.
 
 - **2026-09-27 origin integration:** Reviewed the entire current conversation against the three-world chronology, synthetic architecture, personal embodiment project and accepted terminal sequence. Added the private-corporate and public-proof working model, mapped evidence and consent boundaries, and moved the single next gate to OR-01 before the existing SPR-01.
 - **2026-09-27 X post clarification:** Confirmed the lure is **into** multi-planet colonization, the orbital generator appears to most people as a moon and powers billions of synthetics through hidden satellites, and the criminals call their goal godhood. Planet-by-planet population and actual success remain open.
