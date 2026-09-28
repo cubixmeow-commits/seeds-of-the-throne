@@ -6,10 +6,10 @@ updated: 2026-09-28
 
 ## 2026-09-28 — Two-planet war and containment transition (author override)
 
-- **Established:** Planet Two is the first colonization planet, where the criminals are less contained. They lose a real Great War; this concludes the first-colony arc.
-- **Established:** Planet Three is the second colonization planet. The defeated criminals are more tightly contained inside the dominant empire that won, the real leaders’ empire, for about a century before Sylvan. George White’s presence in that empire follows this transition.
-- **Override:** September 24’s placement of the Great War on Planet Three and its implied Planet Three wartime assignments are superseded. The two-camp public story, smaller groups, joint project and later public offices remain, with individual dates open.
-- **Open:** How an empire persists or is recreated across worlds, George’s role and agency, Aiden’s assignments and transfer, Samuel and Konrad’s physical endgame locations, and terminal transport. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
+- **Established:** The first colonization planet, Planet Two, has looser criminal containment and ends with their real Great War defeat by the real leaders’ empire.
+- **Established correction:** Planet Three is a replay that places people in roles and begins its own, more tightly contained process for about a century before Sylvan. The dominant-empire role can reproduce part of Planet Two’s history without transferring the original empire or its sovereignty.
+- **Established correction to earlier September 28 interpretation:** The defeated groups and empire were incorrectly described as entering the same Planet Three institution. This institutional transfer is not author canon.
+- **Open:** What precisely is replayed, who authorizes individual placements, what George and Aiden know or do in each world, and how their Planet Three roles develop. Earlier endgame physical locations of Samuel and Konrad are not negated by replay. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
 ## 2026-09-27 — Joint leadership, synthetic ambition, and layered revelation
 

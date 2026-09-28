@@ -7,6 +7,8 @@ scope: Planet Three shared process, war roles, nested criminal groups, layered r
 
 # Shared Process and Great War Reveal Audit
 
+**Later author correction (September 28):** This audit preserves the September 24 interpretation. The real Great War and victorious real leaders’ empire are on Planet Two. Planet Three begins a new process replaying that history through placed roles, so the location assertion in the world-and-war row below is superseded. See [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]].
+
 ## Result
 
 The author's new process-wide account **overrides** conflicting older story information. The war, local governments, individual conduct, and defeat can remain real while the visible division of the empires conceals the actual criminal network. Older accounts are retained as potential reader-facing and participant-facing interpretations, not as unqualified controlling chronology. The current compiled account is [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].

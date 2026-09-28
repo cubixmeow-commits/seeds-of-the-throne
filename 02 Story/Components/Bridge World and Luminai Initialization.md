@@ -9,7 +9,7 @@ topics: colonization history, AI souls, Luminai initialization, containment, cul
 
 ## September 28 transition override
 
-The less contained Planet Two criminal project ends in Great War defeat. The defeated groups enter tighter containment in the real leaders’ victorious dominant empire on Planet Three for roughly a century before Sylvan. Earlier categorical claims below that the senior criminals never enter Planet Three or that the older war world is unidentified are superseded. Each person’s travel and physical location in the late endgame remains open. George’s Planet Three empire placement follows the postwar transition; his office remains open. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
+The less contained Planet Two criminal project ends in Great War defeat by the real leaders’ empire. Planet Three begins its own more contained process by replaying the prior history and placing people into roles. Earlier September 28 wording that the whole victorious empire or defeated groups enter one Planet Three institution is superseded. George’s dominant-empire role belongs to the Planet Three replay; the older leaders’ previous-world endgame placement is not disproved by his participation. Planet Three remains a real consequential society, not an imaginary simulation. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
 ## Three-world placement — 2026-09-20
 
@@ -29,7 +29,7 @@ The author-established civilizational result combines planetary sustainability w
 
 The leaders have worked on the new Luminai development program for thousands of years. Sylvan uses its more deeply integrated version in a complete real-world environment. Earlier participants use earlier versions. The prior claim that humanity simply colonized planets with preexisting AI souls is superseded by [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 
-The older criminal groups enter Planet Three containment after losing the Great War on Planet Two. George participates directly in Planet Three’s dominant empire and later successor process. Whether Samuel and Konrad remain there throughout, return to Planet Two, or occupy separate locations by Sylvan’s endgame is unresolved; George’s bridge function must be redated.
+The Planet Three process replays Planet Two’s history with placed people and a stricter containment design. George participates directly in a dominant-empire role on Planet Three and in its later successor process. Older notes place Samuel and Konrad on Planet Two during Sylvan’s endgame; whether and how their roles involve Planet Three must be distinguished from physical travel. George’s precise bridge function remains to be dated.
 
 The successor bond creates a substantial general capability advantage. This world tests that advantage under adversarial conditions in which contained criminals possess major starting advantages, so success must prove both the pair's advanced capability and a more effective containment process. Wider success also requires managed integration: the real leaders must govern deployment, permissions, access, placement, and social integration so successor-bonded people can join a humanity that includes people without the new bond. Greater capability does not establish moral superiority or an automatic right to command.
 

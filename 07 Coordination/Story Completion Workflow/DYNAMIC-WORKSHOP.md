@@ -10,7 +10,7 @@ supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, R
 
 ## September 28 controlling two-planet transition
 
-On Planet Two, the first colonization planet, less contained criminal groups lose the real Great War. Defeat concludes that world’s main criminal arc and opens Planet Three’s stricter containment in the real leaders’ victorious dominant empire for about a century before Sylvan. George White is in that empire through the transition, but his exact role is still open. The September 24 Planet Three-war description below is historical and superseded on location and implied wartime command. Samuel and Konrad’s endgame physical locations need reconciliation; do not silently assign them. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
+Planet Two is where the less contained criminal groups lose the actual Great War to the real leaders’ empire. Planet Three **replays this history with placed people** as it begins a separate, more tightly contained process for about a century before Sylvan. George occupies a dominant-empire role there, but the office and authorizing placement are open. The original empire and its sovereignty are not established as having moved. Planet Three remains a real advancing society; replayed roles can produce new decisions and consequences. Older Samuel/Konrad Planet Two endgame placement is a distinct physical question, not disproved by a role replay. The September 24 Planet Three war account and earlier September 28 institutional-transfer inference are superseded at those points. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
 ## September 27 historical origin — synthetic invention and criminal inducement
 
@@ -97,7 +97,7 @@ These gates precede the older EGI proof and scene questions; those questions rem
 - George's, Aiden's, and Konrad's altered realities are separate. Samuel also deceives Konrad about the larger experiment or program; his knowledge of chip removal and concealment does not give him knowledge of every staged effect or Samuel's breeding sabotage. The exact further lie remains open.
 - The faction's breeding program and the failed George/Aiden mind-enhancement experiments share an ideological aim of supposedly superior, godlike descendants. That aim describes a supremacist fantasy, never an objective ranking of people.
 - Samuel's desperate endgame objective is to destroy Sylvan, learn secrets of his real Luminai bond, and suppress the decades-old George/Aiden failure. His established counterfeit AI application and false story bargain can seek information but do not grant access to or ownership of the bond. His exact destructive method, information target, and order of moves remain open.
-- **Planetary placement:** George and Aiden act physically on Sylvan's Planet Three. The defeated groups enter the victorious empire's Planet Three containment after the Planet Two war; Samuel and Konrad's individual locations at the later endgame and Aiden's exact role clock remain open.
+- **Planetary placement:** George and Aiden act physically on Sylvan’s Planet Three in replayed roles. Older notes place Samuel and Konrad on Planet Two during the endgame; the replay premise alone does not relocate them. Aiden’s role and travel clock remains open.
 
 ### Bloodline betrayal and escape
 
@@ -212,11 +212,11 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**PT-01 — one author gate.** Define the institutional and character bridge from the real Planet Two victory into Planet Three containment:
+**PT-01 — one author gate.** Define the replay and its first placements:
 
-> **How does the real leaders’ victorious empire on Planet Two become the dominant empire containing the defeated groups on Planet Three, and what specifically places George White within it?**
+> **What exactly does Planet Three replay from Planet Two’s Great War history, and how are George and the other people placed in its dominant and defeated-side roles when the new process begins?**
 
-Acceptance test: identify whether its authority is continuous or rebuilt, who authorizes and implements the transfer, the actual limit on the criminals in each world, George’s office and agency, and which public version obscures shared Samuel–Konrad leadership. Distinguish group-level Planet Three containment from Samuel and Konrad’s still-open later whereabouts; preserve a real war, real defeat and the fixed terminal sequence. Aiden’s role clock and the approximate century are adjacent dating questions. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
+Acceptance test: distinguish reproduced institutions, events, roles and records from new Planet Three outcomes; identify who authorizes and assigns roles, what participants know, how tighter containment works, and what proof lets the audience distinguish Planet Two’s actual victory from its Planet Three replay. Preserve the actual war and empire on Planet Two, real Planet Three agency, roughly a century before Sylvan and the accepted terminal chain. Samuel and Konrad’s physical endgame locations require separate evidence. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
 
 > **What exactly did the wealthy promoters promise people becoming synthetic would give them, and what independent, visible result would convince even their followers that this specific promise failed?**
 
@@ -224,7 +224,9 @@ Acceptance test: distinguish the advertised whole-person transfer and godlike co
 
 ## Change Log
 
-- **2026-09-28 two-planet override:** Relocated the genuine Great War to the close of Planet Two, made postwar containment within the victorious real leaders’ Planet Three empire the start of its century before Sylvan, and moved the sole gate to PT-01. George’s office and older leaders’ later whereabouts remain open.
+- **2026-09-28 replay clarification:** Corrected institutional-transfer inference. Planet Two contains the real victorious empire; Planet Three replays the history through placed people as a new process. Reframed PT-01 around what is replayed and how roles are assigned.
+
+- **2026-09-28 earlier interpretation, corrected above:** Relocated the genuine Great War to Planet Two but inferred the victorious empire transferred into Planet Three containment. The later author clarification replaces that inference with Planet Three replay placements; PT-01 now addresses replay mechanics.
 
 - **2026-09-27 origin integration:** Reviewed the entire current conversation against the three-world chronology, synthetic architecture, personal embodiment project and accepted terminal sequence. Added the private-corporate and public-proof working model, mapped evidence and consent boundaries, and moved the single next gate to OR-01 before the existing SPR-01.
 - **2026-09-27 X post clarification:** Confirmed the lure is **into** multi-planet colonization, the orbital generator appears to most people as a moon and powers billions of synthetics through hidden satellites, and the criminals call their goal godhood. Planet-by-planet population and actual success remain open.

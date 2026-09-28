@@ -7,7 +7,7 @@ scope: single current pickup point
 
 ## Active pickup — Planet Two defeat to Planet Three containment — 2026-09-28
 
-The criminals are less contained on the first colonization planet, Planet Two; they lose its Great War. Their loss leads to roughly a century of tighter containment within the real leaders’ victorious dominant empire on Planet Three, before Sylvan. George White’s presence there follows the transition, but his office and the older leaders’ eventual physical locations remain open. Start with **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|Dynamic Story Workshop]]. The previous OR-01 public ascension claim follows. [[01 Sessions/Daily/2026-09-28 - Planet Two Defeat and Planet Three Containment]]
+Planet Two contains the less contained criminals, the actual Great War, their defeat and the real leaders’ victorious empire. Planet Three begins a distinct process by **replaying that history and placing people** in roles under tighter containment for about a century before Sylvan. George’s dominant-empire position is a replay placement, not proof the original state transferred. Start at **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|Dynamic Story Workshop]] to define the replay and the individual assignments. OR-01 remains downstream. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
 ## Historical pickup — corporate origin and synthetic ascension claim — 2026-09-27
 

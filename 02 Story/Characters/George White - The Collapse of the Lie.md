@@ -10,7 +10,7 @@ theme: awakening, weaponization, and consequence
 
 ## September 24 role revision — established
 
-George White is Samuel Franklin's son and the most celebrated heroic leader of the dominant empire on Planet Three, whose victorious standing follows the real leaders’ Great War victory on Planet Two. Samuel used that public role as part of a larger plan to make their criminal network appear to oppose the defeated authoritarian program it also advances. George's public prominence, actual deeds, earlier humiliating exposure, and later roles must each be dated separately; placement by Samuel does not mean George knows the hidden network or has no independent agency. His exclusive promised god-king destiny and false implant powers remain distinct from his real public office. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+George White is Samuel Franklin's son and a celebrated leader within Planet Three's dominant empire. His role replays part of the real leaders’ victory on Planet Two; the original empire did not thereby move between worlds. Samuel exploited George's public position to make their criminal network appear to oppose the defeated authoritarian program it also advances. George's actual deeds, earlier humiliating exposure, and later roles must each be dated separately. Who authorized his placement remains open, and his father's plan does not remove his agency. His exclusive promised god-king destiny and false implant powers remain distinct from his real public office. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
 
 ## 2026-09-06 cross-planet role
 

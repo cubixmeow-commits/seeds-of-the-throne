@@ -11,7 +11,7 @@ roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality p
 
 ## September 24 war placement — established
 
-Konrad's son Aiden begins in a leadership role in Planet Three's authoritarian empire that loses the Great War, alongside sons of other contained leaders. Its breeding program becomes publicly associated with these younger leaders. His position is one role within a continuing, rotating political history and does not reveal the true network of smaller groups behind the apparent two sides. His father's involvement and Samuel's hidden plan do not predetermine Aiden's knowledge, consent, conduct or later response. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
+Konrad’s son Aiden occupies a leadership role in Planet Three’s replay of the defeated authoritarian side of Planet Two’s Great War, alongside sons of other contained leaders. The actual defeat occurred on Planet Two; the exact timing and assignment of his Planet Three role remain open. Its breeding program becomes publicly associated with these younger leaders. His position is one role within a continuing, rotating political history and does not reveal the true network of smaller groups behind the apparent two sides. His father's involvement and Samuel's hidden plan do not predetermine Aiden's knowledge, consent, conduct or later response. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
 
 ## Established identity
 
@@ -19,7 +19,7 @@ Konrad's son Aiden begins in a leadership role in Planet Three's authoritarian e
 
 Aiden survives the Great War defeat with Konrad and enters his own postwar altered reality that Samuel maintains through story functionality, apparent autonomy, reactivated systems, and the Fitzgerald group's own ideology. Konrad has a separate altered reality, even where their premises overlap. Both become obsessed with prophecy, restored dominance, and defeating rivals who threaten their promised return to power.
 
-**Established location correction (2026-09-23):** Aiden is physically on Sylvan's Planet Three during the endgame, as is George White. Konrad and Samuel's later locations require reconciliation with the defeated groups' Planet Three postwar containment. Their earlier overlapping postwar false accounts do not require one shared story environment or permanent physical co-location. When and how Aiden travels to Planet Three remain unresolved.
+**Established location correction (2026-09-23):** Aiden is physically on Sylvan's Planet Three during the endgame, as is George White. Older notes place Konrad and Samuel on Planet Two in the Sylvan endgame; Planet Three’s replayed roles do not alone disprove that physical placement. Their earlier overlapping postwar false accounts do not require one shared story environment or permanent physical co-location. When and how Aiden travels to Planet Three remain unresolved.
 
 **Established religious layer:** Aiden sincerely believes that he and Konrad lead an original holy order placed by divine purpose. Its wider original religion already contains the prophecy; Samuel did not write it, and their group did not create it. Aiden believes service will culminate in a promised reward and that eliminating identified threats can fulfill sacred duty. Samuel does not appear as an ordinary commander. He counterfeits interpretive authority and tells Aiden that Sylvan is the enemy described by the prophecy.
 
