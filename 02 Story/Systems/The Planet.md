@@ -6,6 +6,8 @@ updated: 2026-08-12
 
 # The Planet
 
+**Later three-world correction (2026-09-28):** The statement below that numerous successful colonies precede this planet is superseded by the author-established map: origin world, Planet Two as first colony, and Planet Three as second. The construction, synthetic foundation and real-society description below can remain useful. Planet Three also replays selected Planet Two history through placements; the replay scope is open. See [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]].
+
 A constructed and terraformed world built to specification. It reconstructs an invented era of the parent civilization's history and then advances through scheduled developmental stages. Synthetics create its cultures and institutions before most humans arrive.
 
 This is not humanity's first colonization world. Thousands-year-old real leaders have already expanded humanity to numerous planets. Successful earlier settlements provide the technical knowledge, industrial capacity, institutions, population support, and political cooperation needed to build this later and more ambitious world.

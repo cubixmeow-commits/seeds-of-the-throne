@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-28 — Two-planet process and participant commitment (working)
+
+- **Source:** [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]]; [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]]
+- **Type:** continuity assessment / dependency
+- **Possible relationship:** PT-01, three-world chronology, participant governance, Book One reverse discovery
+- **Signal:** Planet Two's actual war and Planet Three's successor replay require a class-by-class entry/exit map, physical placement clock and definition of source history; old numerous-colonies wording and blanket no-exit language conflict with later decisions.
+
 ### 2026-09-27 — Private corporate origin and synthetic-ascension proof (working)
 
 - **Source:** [[01 Sessions/Daily/2026-09-27 - Corporate Origins of Synthetic Ascension Fraud]]; [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]]; [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]]

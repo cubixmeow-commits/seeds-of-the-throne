@@ -11,4 +11,4 @@ This pointer routes public progress surfaces to the [[07 Coordination/Story Comp
 
 The current workshop is dependency ordered and adaptive. It is updated after every desktop assessment and builds the exact contest, deception, clock, opening, middle, character choices, evidence order, and sequence map needed to make Book One scene-ready.
 
-Latest origin assessment: [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]]. Current author gate: OR-01 in the linked dynamic workshop; earlier assessment questions are historical dependencies.
+Latest two-planet assessment: [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]]. Current author gate: PT-01 in the linked dynamic workshop; OR-01 and earlier assessment questions remain downstream.

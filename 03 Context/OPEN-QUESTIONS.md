@@ -6,7 +6,7 @@ updated: 2026-09-28
 
 ## Current gate — September 28
 
-The sole next assessment is **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: define exactly what Planet Three replays from Planet Two, how actual people are placed into George’s and Aiden’s roles, and what new process begins there. The victorious Planet Two empire’s sovereignty does not need to move across worlds. OR-01, OR-02 and SPR-01 remain later dependencies. Older leaders’ physical endgame locations are separate from the existence of replay roles. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
+The sole next assessment is **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: decide exactly what Planet Three replays from Planet Two and which people are physically assigned there, including George and Aiden, while specifying what “locked into” each planet means for distinct participant classes. The victorious Planet Two empire’s sovereignty does not move by default. OR-01, OR-02 and SPR-01 remain later dependencies. Older leaders’ physical endgame locations are separate from replay roles. See [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]].
 
 ## Current priority — September 27 origin integration
 
