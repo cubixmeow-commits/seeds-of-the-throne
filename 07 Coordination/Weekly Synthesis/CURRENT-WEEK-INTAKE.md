@@ -47,12 +47,12 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
-### 2026-09-27 — Corporate origin of synthetic-ascension fraud (working)
+### 2026-09-27 — Private corporate origin and synthetic-ascension proof (working)
 
-- **Source:** [[01 Sessions/Daily/2026-09-27 - Corporate Origins of Synthetic Ascension Fraud]]; [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]]
+- **Source:** [[01 Sessions/Daily/2026-09-27 - Corporate Origins of Synthetic Ascension Fraud]]; [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]]; [[07 QA/2026-09-27 - Synthetic Invention and Criminal Containment Origin Audit]]
 - **Type:** idea / dependency / continuity assessment
 - **Possible relationship:** three-world origin, founder access and containment legitimacy, layered reveals
-- **Signal:** The author is exploring whether some contained offenders helped build or finance the legitimate colony before selling unsupported synthetic-integration promises; this requires a dated company-to-colony chain, independent access revocation, individualized wrongdoing and a distinct public accounting.
+- **Signal:** A few corporations begin colonization outside the governmental control they reject; a culpable wealthy subset sells extraordinary synthetic-ascension promises to large followings, and the leaders hope a bounded, independently verifiable failure will answer those claims. The builder-to-governance handoff, original technology dates, consent, insider revocation, medical boundary and relation to Samuel's accepted terminal failure need reconciliation.
 
 ### 2026-09-27 — Synthetic invention and legal origin of containment
 

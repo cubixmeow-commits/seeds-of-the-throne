@@ -1,13 +1,17 @@
 ---
 type: coordination-handoff
 status: active
-updated: 2026-09-24
+updated: 2026-09-27
 scope: single current pickup point
 ---
 
-## Active pickup — endgame integration author gate — 2026-09-24
+## Active pickup — corporate origin and synthetic ascension claim — 2026-09-27
 
-The September 24 desktop integration pass is complete. Read [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]] for the event and knowledge map and [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]] for the single current question, **EGI-01**: After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding, and what part of the success claim does Konrad knowingly lie about? Continue the dependent gates only after the author chooses. The proposed two-stage breeding discovery and later full confrontation remains working, not canon.
+The September 27 desktop integration pass connects the private-corporate start, wrapped-nanocell synthetic societies, wealthy founders' false godhood promise, lawful containment, and hoped-for public failure to the existing Samuel–Konrad plot and fixed endgame. Read [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]] and [[02 Story/Systems/Corporate Ascension Claim and Public Proof]], then open the **Next Assessment Pass** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The single current author gate is **OR-01:** define the promoters' exact promised transformation and what fair independent evidence their following could accept as its failure. OR-02 governance and the former SPR-01 rivalry clock follow; the older EGI gate remains downstream. Do not treat the hoped-for failure as already identical to Samuel's accepted terminal collapse.
+
+## Historical pickup — endgame integration author gate — 2026-09-24
+
+The September 24 desktop integration pass is complete. Its then-current question was **EGI-01**: After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding, and what part of the success claim does Konrad knowingly lie about? This question and the proposed two-stage breeding discovery remain downstream historical dependencies, not the current author gate. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
 
 ## Completed desktop handoff — 2026-09-24
 

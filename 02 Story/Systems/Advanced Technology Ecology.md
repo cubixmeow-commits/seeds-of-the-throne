@@ -57,6 +57,8 @@ Biological synthetics are embodied living systems rather than metal robots or di
 
 Their exact personhood, self-knowledge, reproduction, rights, and susceptibility to system control remain unresolved. Their existence must not make apparent lives morally weightless. If synthetics possess meaningful agency or experience, using them as interchangeable props becomes one of the civilization's central ethical problems.
 
+**September 27 origin boundary:** a private-corporate colonization project may precede the mature institutions described above, but the origin of individual AI systems, the moon, synthetic architecture and later leader authority is not assigned to any firm. Authentic medical rejuvenation or other therapeutic progress must be separated from a cult-like public promise of transferring a person's brain into a synthetic and becoming a god. The leaders hope a bounded and independently assessed failure of that extraordinary promise will deter recruitment; the outcome's timing and evidentiary channels remain open. See [[Corporate Ascension Claim and Public Proof]].
+
 ## Layer five: technologically mediated physical environments
 
 The planet's buildings, transport, energy, communication, medical systems, materials, and public infrastructure can respond computationally. The environment may alter access, route resources, surface or withhold permitted information, authenticate objects and people, establish role constraints, and coordinate synthetic participation.

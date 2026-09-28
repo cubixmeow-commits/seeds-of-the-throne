@@ -4,11 +4,11 @@ status: active
 updated: 2026-09-24
 ---
 
-## Current priority — September 24 shared-process integration
+## Current priority — September 27 origin integration
 
-The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|SPR-01 revised]]: when did the co-leaders create their false rivalry, which actual events (exile, war, sabotage, postwar migration) did it disguise, and when did Samuel privately turn it into a frame against Konrad? This unlocks the synthetic-embodiment motive, distinction between joint and unauthorized abuses, and fair reveal sequence. Older gates remain historical dependencies, not competing priorities. Source: [[07 QA/2026-09-27 - Shared Leadership and Synthetic Embodiment Reveal Audit]].
+The active single gate is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|OR-01]]: what exactly did the private-corporate ascension promoters promise their large following, and what independently observable result would convincingly fail that **specific** claim while leaving real regeneration and other medicine untouched? OR-02 then determines lawful authority, revoked insider access and offender entry. The previous SPR-01 question—when Samuel and Konrad staged rivalry and when Samuel first prepared to blame Konrad—remains the subsequent character-history gate. These are dependencies within one workshop, not parallel task lists. Source: [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
 
-Next dependency after that clock: map who learns which facts about synthetics by which channels, including discoveries after the Great War; distinguish knowledge of synthetic anatomy from knowledge of hidden institutional management. Decide the precise host's processor/personhood status before treating a biological brain transfer as a viable project. See [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]].
+After the origin and rivalry clocks, map who learns which facts about synthetics by which channels, including discoveries after the Great War; distinguish knowledge of synthetic anatomy from knowledge of hidden institutional management. Decide the precise host's processor/personhood status before treating a biological brain transfer as a viable project. See [[02 Story/Systems/Synthetic Embodiment and False Godhood Project]].
 
 **Nanocell macro gate now precedes transfer design:** What are the core's functions inside its biological wrapper, how do wrapped units form a biological computer, and how does energy travel from the orbital solar generator through hidden satellites into individual units? No on-planet participant technology can expose the internal nanotechnology, even though synthetic information can be learned by other means. See [[01 Sessions/Daily/2026-09-27 - Nanocell Biological Synthetic Foundation]].
 
@@ -16,7 +16,7 @@ Next dependency after that clock: map who learns which facts about synthetics by
 
 All current assessment questions now live in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP|Dynamic Story Workshop]]. The lists below remain topical context and historical question inventory; they do not compete with the dynamic workshop's **Next Assessment Pass**.
 
-The former superweapon gate is retained as a later evidence question. The current priority is SPR-01 above.
+The former superweapon gate is retained as a later evidence question. The current priority is OR-01 above.
 
 ## Altered-reality repetition trap — 2026-09-19
 
@@ -51,7 +51,7 @@ RW-01 through RW-10 are author-accepted and the reassessment workshop is complet
 
 **New origin dependency (September 27):** Did the synthetic breakthrough cause the first colonization/containment plan, or redirect a colony already planned for expansion? Which concrete attempted abuse prompted the laws; what offer lured convicted or prospective offenders into a bounded test; and what protections applied to synthetic persons and ordinary residents? This historical clock precedes a fixed war prologue. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
 
-**Corporate-origin option (working, not locked):** Which builders, investors and recruiters became contained offenders; what did they promise about synthetic integration, charge for, know was unsupported and conceal; which actual criminal acts justified each sentence; and how could independent authorities remove hidden access from former insiders? Could adjudication settle the specific fraud and infrastructure claim without pretending to eradicate the ideology? See [[01 Sessions/Daily/2026-09-27 - Corporate Origins of Synthetic Ascension Fraud]].
+**Private corporate origin (leading direction, mechanics open):** Which corporations first resisted governmental control, and through what lawful process did the real leaders later acquire oversight? Which builders, investors and recruiters became contained offenders; what did they promise about synthetic integration, charge for, know was unsupported and conceal; which actual acts justified each sentence; and how could independent authorities remove hidden access? What outcome would make the bounded demonstration conspicuously persuasive to large followings without rigging the result or confusing impossible godhood claims with legitimate regeneration and medicine? See [[01 Sessions/Daily/2026-09-27 - Corporate Origins of Synthetic Ascension Fraud]].
 
 ## Three-world and reveal-chain mechanics — 2026-09-20
 

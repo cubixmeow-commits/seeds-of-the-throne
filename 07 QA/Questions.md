@@ -6,7 +6,7 @@ updated: 2026-09-24
 
 ## September 24 process-wide war role questions
 
-The sole active priority order is [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP]], SPR-01 through SPR-05, followed by the dependent EGI gates. Determine the first Samuel–Konrad shared plan and the real betrayal; document the approval and timing of George's and Aiden's roles; give one concrete succession of a public office across criminal children and legitimate heirs; map smaller criminal groups and Samuel's changing command; and choose the first evidence that changes the simple two-empire reading. See [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]].
+**Historical September 24 order, updated September 27:** the sole active priority is now [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|OR-01]], followed by OR-02, then SPR-01 through SPR-05 and dependent EGI gates. The earlier questions about the first shared plan, betrayal, George's and Aiden's roles, rotating public offices, smaller groups and the first evidence against the two-empire reading remain unanswered; they are now downstream of the origin claim's proof boundary. See [[07 QA/2026-09-24 - Shared Process and Great War Reveal Audit]] and [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
 
 ## Current question routing — updated 2026-09-23
 
@@ -32,11 +32,17 @@ Do not copy all ten workshop questions into an author session. Ask one, record t
 
 ## September 27 corporate-origin gates (working option)
 
+**Updated origin direction:** the initial venture is private and resists government control; individual roles and legal outcomes remain open. See [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
+
 - Which company roles and documented misconduct justify classing particular builders or investors as contained offenders, without treating investment or failed research as criminal by itself?
 - Did the first colonization infrastructure already exist when synthetic technology was invented, and which firm-built systems later become safety-critical for containment?
 - What promised synthetic integration was sold, what did its sellers know or hide, and what independent evidence could demonstrate the gap?
 - Which non-company auditors can revoke or verify former insiders' access before the bounded experiment, and who has standing to represent harmed synthetics, recruits and ordinary residents?
 - What exactly would constitute a lasting resolution of the fraud and ownership claim while retaining lawful review, restitution and future safeguards?
+- Which institution designs the mature interactive environment and which documentation proves a lawful handoff from the original private corporations?
+- Is the hoped-for highly visible failure a separate early demonstration, a cumulative historical record, Samuel's existing terminal collapse, or several events with different audiences?
+- What exact medical regeneration is real, what extraordinary body/identity/authority claim is being tested, and who outside the leaders can independently review the result without using a forbidden on-planet nanocell detector?
+- How does the outcome reach the movement's large following across planets while protecting research participants, synthetic persons, children and non-offender residents?
 
 ## September 5 question routing
 

@@ -1,8 +1,23 @@
 ---
 type: timeline
 status: working
-updated: 2026-09-24
+updated: 2026-09-27
 ---
+
+## September 27 origin sequence — leading direction, chronology intentionally open
+
+The author now places a **small private-corporate colonization initiative resisting government control** at the beginning of the process. Some builders and wealthy investors later become promoters of synthetic ascension, while synthetic invention leads to laws, offender inducement and a bounded multi-planet containment layer. This origin does not date the first synthetic breakthrough or settle whether the same corporations built Planet Two or Planet Three. The governing leaders' later "created the process" role may concern the mature legal, AI and containment architecture rather than the initial private venture; this is a *working reconciliation*, not a settled transfer of ownership. See [[01 Sessions/Daily/2026-09-27 - Synthetic Society Origin and Reveal Integration Pass]].
+
+| Relative phase | Definite relationship | Still open |
+| --- | --- | --- |
+| Private start | A few corporations initiate colonization before offender containment is its public purpose. | What they build first; who legally governs them; which governments they resist. |
+| Synthetic society | Biological synthetics, orbital generator and hidden relays enable society-building at enormous scale. | Date relative to initial venture; contracts, energy delivery and synthetic rights. |
+| Ascension movement | A culpable subset of wealthy insiders uses real technology as the basis for a false godhood promise to large followings. | First promoter, Samuel/Konrad founding roles, actual claims, evidence of intent and real offenses. |
+| Legal response and entry | Laws follow synthetic invention; specific offenders are lured into bounded colonization. | Which planet, who is sentenced versus invited, independent review and revoked access. |
+| Long colony history | Planet Three includes real synthetic societies, heirs, criminal descendants, authentic roles and the later public Great War deception. | Recruitment and war clocks, staggered discovery channels, how evidence reaches the public. |
+| Failed promise | Leaders hope a conspicuous, independently verified failure ends the specific ascension sales pitch. | Whether this is an early trial, cumulative record, Samuel's fixed terminal collapse, or a sequence of separate outcomes. |
+
+This proposed early history does **not** revise the author-accepted terminal order below or establish that a last failed godhood claim equals the technical inability to offer regeneration and other medicine.
 
 ## September 24 controlling chronology update — established and unresolved
 
