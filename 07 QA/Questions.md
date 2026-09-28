@@ -30,6 +30,14 @@ Do not copy all ten workshop questions into an author session. Ask one, record t
 
 # Questions
 
+## September 27 corporate-origin gates (working option)
+
+- Which company roles and documented misconduct justify classing particular builders or investors as contained offenders, without treating investment or failed research as criminal by itself?
+- Did the first colonization infrastructure already exist when synthetic technology was invented, and which firm-built systems later become safety-critical for containment?
+- What promised synthetic integration was sold, what did its sellers know or hide, and what independent evidence could demonstrate the gap?
+- Which non-company auditors can revoke or verify former insiders' access before the bounded experiment, and who has standing to represent harmed synthetics, recruits and ordinary residents?
+- What exactly would constitute a lasting resolution of the fraud and ownership claim while retaining lawful review, restitution and future safeguards?
+
 ## September 5 question routing
 
 The [[07 Coordination/Story Completion Workflow/Workshop/README|workshop]] contains one gate per module with alternatives and consequence tests. These supplement existing questions without closing them. Q-036 now leaves nontransferability open. SC-001's actor mismatch requires author confirmation before exact causal implementation.
