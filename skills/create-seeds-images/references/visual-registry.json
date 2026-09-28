@@ -782,6 +782,28 @@
         }
       ]
     },
+    "orbital-generator-synthetic-society-v1": {
+      "title": "Orbital generator, hidden relays, and synthetic societies",
+      "status": "approved-story-infographic",
+      "story_status": "author-approved explanatory diagram of the established macro foundation; energy lightning and depicted engineering remain noncanonical visual metaphors",
+      "created": "2026-09-27",
+      "generator": "OpenAI GPT Image through ChatGPT",
+      "source_prompt": "prompts/orbital-generator-synthetic-society-v1.md",
+      "frames": [
+        {
+          "order": 1,
+          "title": "Energy network supporting colonization societies",
+          "source_path": "assets/approved-images/system-diagrams/orbital-generator-synthetic-society-v1.png",
+          "public_path": "docs/assets/images/orbital-generator-synthetic-society-v1.webp",
+          "dimensions": "1672x941",
+          "source_sha256": "aceb8782d828fbf71e92c31af2af519daacf012ec3d716ff4905641fea8de84a",
+          "public_sha256": "1d92481c554c5315c76f1ec4684fa92b550dbf715e829d421947df8ca230b7dd",
+          "use": "explanatory cutaway showing an apparent moon and orbital solar generator, hidden satellite relays, a colonization planet, and wrapped-nanocell synthetics participating in society",
+          "approval": "author requested image revision and vault inclusion",
+          "warning": "Lightning represents wireless energy; satellites and cores are exposed for the audience only. The planet map, cities, moon cutaway, satellite shapes, receivers and exact cellular depiction are illustrations, not settled canon or participant-accessible views."
+        }
+      ]
+    },
     "resistance-ark-infographic-v1": {
       "title": "The Resistance: the ark of preservation",
       "status": "approved-story-infographic",

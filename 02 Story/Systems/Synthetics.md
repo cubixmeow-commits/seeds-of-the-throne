@@ -6,6 +6,12 @@ updated: 2026-09-27
 
 # Synthetics
 
+## Planetary societies — established macro foundation
+
+Biological synthetics built from wrapped nanocells are **used to create and sustain societies on a colonization planet**. The hidden satellite network distributes wireless energy from the moon-like orbital generator to support the synthetic population at billion-person scale across the system. Synthetics can participate in real social, civic, and institutional life alongside other residents. This premise does not set the number of synthetics on any single world, assign every resident a synthetic identity, make the energy network the source of matter, or remove synthetic agency and possible personhood. The construction and governance of particular societies remain to be developed. See [[01 Sessions/Daily/2026-09-27 - Orbital Synthetic Society Diagram and Macro Foundation]] and [[Shared Colonization Process and Rotating Roles]].
+
+**Explanatory diagram (energy lightning and exposed technology are visual symbols for readers):** ![[docs/assets/images/orbital-generator-synthetic-society-v1.webp]]
+
 ## Origin consequence — September 27 author direction
 
 Creating synthetics indistinguishable from human beings in form and function brings unprecedented legal and social concerns. Some resource-rich criminals seek to merge with synthetics or take their power, prompting laws and the lure of a bounded colonization setting in which they believe they can prove their theories. The threat is what those people choose to do, not a moral flaw inherent in synthetics. See [[Synthetic Invention and Criminal Containment]].

@@ -13,6 +13,8 @@ Invention of sophisticated nanotechnology brings biological synthetics into exis
 
 This does not establish that synthetics are inherently a threat, that every criminal has the same motive, that a human can actually become synthetic, or that the villains' doctrines are biologically valid. Their desired appropriation and the laws addressing it are distinct from synthetic people's identities and agency.
 
+**Established ideological connection:** Samuel and Konrad take their false inherited-superiority doctrine and apply it to synthetic embodiment. They imagine that appropriating synthetic bodies and capabilities will transform them into enhanced human gods, placing themselves permanently above everyone else. This is a villain belief and political motive, not evidence of biological superiority, a successful transfer method, or a hierarchy among humans and synthetics. See [[01 Sessions/Daily/2026-09-27 - Supremacist Godhood Applied to Synthetic Embodiment]].
+
 ## Relationship to the three worlds — working
 
 The home world's technological breakthrough and legal response offer a specific origin for why powerful criminal organizations become a colonization problem. Planet Two's earlier managed conflict can absorb factions wanting to show their systems work. Planet Three inherits lessons from that experience and becomes a more mature, shared civilization containing descendants, future leaders, synthetics, ordinary inhabitants and successor Luminai development. These worlds are physically real. Criminals can acquire real local positions but not the governing process or the civilization's unrestricted synthetic substrate.

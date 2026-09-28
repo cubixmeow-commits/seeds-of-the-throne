@@ -7,6 +7,10 @@ themes: simultaneous colonization, contained leaders, legitimate heirs, rotating
 
 # Shared Colonization Process and Rotating Roles
 
+## September 27 synthetic society foundation — established macro direction
+
+The generator mistaken for a moon and its hidden satellite relays power the biological synthetics used to create societies on a colonization planet. The underlying network supports a real civilization, including synthetic participants and other residents who form their own institutions and histories; its scale is billions of synthetics across the system without a fixed Planet Three head count. Reader-facing system illustration: [[01 Sessions/Daily/2026-09-27 - Orbital Synthetic Society Diagram and Macro Foundation]]. The lightning, relay shapes, receivers, planet geography, and cellular cross-section are illustrative, not settled engineering or participant knowledge.
+
 ## September 27 origin of criminal containment — established premise, open legal history
 
 The invention of highly sophisticated nanotechnology creates biological synthetics indistinguishable from humans in form and function. Resource-rich criminals see the possibility of merging with them or appropriating their capabilities. Laws respond to that new concern; dangerous factions are lured into a bounded colonization process where they expect a chance to prove their ambition. This supplies a plausible historical origin for the contained-criminal layer and a route from technological power to fascist ideology, without replacing colonization's separate constructive purposes, the rights of synthetics, or the agency of Planet Three's residents. Exact law, consent/sentencing, challenge terms, and three-world chronology remain open. See [[02 Story/Systems/Synthetic Invention and Criminal Containment]].
