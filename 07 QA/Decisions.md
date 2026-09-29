@@ -4,6 +4,12 @@ status: active
 updated: 2026-09-28
 ---
 
+## 2026-09-28 — Two planets comprise the first stage (author direction)
+
+- **Established:** The process is a giant free flowing narrative moving an entire process forward. Its first stage encompasses both colonization planets. Problems arising from actual conduct inform rules for future citizens of both worlds.
+- **Boundary:** Earlier first-stage Planet Two / second-stage Planet Three language describes different arcs, not a completed stage transition. The real Planet Two war, Planet Three replay and successful program stand. Rulemaking authority, jurisdiction, citizen challenge, AI implementation and later stages remain open. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+
 ## 2026-09-28 — Overall process success (author correction)
 
 - **Established:** The multi-planet colonization process succeeds overall. Planet Two's criminal groups lose a real Great War; that loss does not constitute failure of the Planet Two process or the larger program.

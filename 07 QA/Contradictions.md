@@ -4,6 +4,11 @@ status: active
 updated: 2026-09-28
 ---
 
+## September 28 shared-first-stage continuity
+
+**Significant terminology conflict:** Prior notes call Planet Two the first completed colonization stage and Planet Three the second, but the latest author direction makes **both planets the first stage** of one free flowing process. Preserve earlier dated provenance; interpret the war and replay as different arcs, not separate experiments or an endpoint to civic development. **Open legitimacy problem:** conduct cannot automatically generate rules binding future citizens; identify rulemaking authority, local versus shared jurisdiction, notice, evidence challenge, revision and protections against inherited guilt. Do not silently give the AI sovereignty. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+
 ## September 28 two-planet architecture assessment
 
 **Significant status drift:** [[02 Story/Systems/The Planet]] is marked established but asserts numerous earlier successful colonies. The later three-world author decision establishes only the origin world and two colonization planets; the old count is superseded, while its physical-world detail can survive. **Significant source-history tension:** the older reconstruction is based on the parent civilization's distant history, whereas the latest direction says Planet Three replays Planet Two; this may be nested source material but cannot be assumed without specifying what is copied and what is new. **Blocking for a detailed chronology:** locate Konrad's postwar reactivation, Samuel's priority jurisdiction, George/Aiden's physical placements and the older leaders' continuing Planet Two roles across the two-world clock. **Significant rights issue:** a blanket claim that all participants are imprisoned on both planets conflicts with the accepted exit path for voluntary heirs and Konrad's deliberate postwar continuation. Convicted-person release and locally born descendants' rights remain open. See [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]] and [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]].

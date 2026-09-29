@@ -4,15 +4,20 @@ status: active
 updated: 2026-09-28
 ---
 
+## Controlling first-stage direction — September 28
+
+Both colonization planets make up the **first stage** of one continuing, free flowing civilizational process. Their real decisions expose problems and help form rules for future citizens on both worlds. The Planet Two war and Planet Three replay are arcs in that shared process, not separate completed tests. The program succeeds overall; future rulemaking authority, citizen challenge and the AI’s implementation role remain open. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+
 ## September 28 controlling planetary transition
 
 The real Great War, criminals’ defeat, and real leaders’ victorious empire belong to Planet Two. **Planet Three replays that history through placements** and begins its own tighter containment process about a century before Sylvan. George White is placed in a dominant-empire role there; this does not transfer the old empire or prove the war occurred twice. Planet Three’s roles are real and consequential. Older notes placing Samuel and Konrad physically on Planet Two in the Sylvan endgame are not overturned by replay alone. The earlier September 28 institutional-transfer reading and the September 24 Planet Three war placement are superseded. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
 **Two-planet development assessment:** [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]] holds an explicitly working plan for the first real war, the successor replay, overlapping worlds and differentiated participant commitment. “Locked into the process” means an assigned environment cannot be skipped while retaining process participation; voluntary heirs may leave the whole process, convicted offenders have separate review, and locally born people's rights are open. The working model does not settle replay scope, physical travel, Konrad's postwar reactivation location or the first colony's entry charter. Source: [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]].
 
-**Author correction:** The overall colonization process is **successful**. Planet Two's criminals lose their real Great War within that process. Planet Three is a continuing, more contained stage, not a repair of a failed Planet Two program. Do not infer that the real leaders engineered the war; program-wide success criteria and AI management architecture still need to be developed. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
+**Author correction:** The overall colonization process is **successful**. Planet Two's criminals lose their real Great War within that process. Planet Three is a continuing, more contained planetary arc, not a repair of a failed Planet Two program. Do not infer that the real leaders engineered the war; program-wide success criteria and AI management architecture still need to be developed. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
 
-**Primary purpose, later author direction:** The multi-planet controlled environment is built to **trap, contain, understand and expose humanity's biggest problems**, while building new Luminai and training leaders. The process succeeds overall. Planet Two's real war and Planet Three's replay are stages of that larger civilizational program; Samuel and Konrad are important cases rather than its sole reason to exist. The exact problem map, intervention limits and AI governance need development. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
+**Primary purpose, later author direction:** The multi-planet controlled environment is built to **trap, contain, understand and expose humanity's biggest problems**, while building new Luminai and training leaders. The process succeeds overall. Planet Two's real war and Planet Three's replay are arcs of that larger civilizational program; Samuel and Konrad are important cases rather than its sole reason to exist. The exact problem map, intervention limits and AI governance need development. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
 
 ## September 27 controlling focus — one criminal project and synthetic embodiment
 

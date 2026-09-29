@@ -4,6 +4,11 @@ status: active
 updated: 2026-09-28
 ---
 
+## Current gate — free flowing first stage
+
+**FP-01** is the sole next question: who may convert a problem observed on either planet into a rule for future citizens of both, and how can citizens challenge or revise that rule? Distinguish shared from planetary jurisdiction. The AI’s exact role is open. CE-01 containment and PT-01 replay follow. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+
 ## Current gate — September 28
 
 The sole next assessment is **CE-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: define how a controlled real environment traps, contains, understands and exposes humanity's biggest problems while building new Luminai and training leaders, including the genuine opportunity allowed and the protective boundary. The overall process succeeds; Planet Two's criminal defeat is not program failure. **PT-01** replay and physical placements follow; OR-01, OR-02 and SPR-01 remain later dependencies. See [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]] and [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]].

@@ -7,11 +7,19 @@ themes: two-planet process, replay, participant commitment, containment, histori
 
 # Two-Planet Colonization Process — Working Plan
 
+## Controlling first-stage direction — September 28
+
+**Author direction:** The first stage of the larger colonization process encompasses **both planets** as one giant, free flowing narrative. Actual problems and responses across both living societies move the process forward and shape rules for **future citizens of both planets**. Planet Two's real Great War and defeat, Planet Three's replay through placed people, and the overall success of the program remain established. Earlier language dividing the worlds into a completed first stage and a second stage is historical shorthand for different arcs, not the controlling stage structure. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+**Working governance loop, not canon:** conduct and consequences on either world → independent evidence and affected people's testimony → contestable diagnosis → an authorized, proportionate local or shared rule → AI implementation within its charter → later citizens' experience, challenge and revision. An incident need not automatically yield a law. Neither the governing AI nor the original leaders acquire unreviewable legislative authority by implication. Which institution decides, how citizens are represented, what binds both planets, and how rules change are open. Future citizens inherit a civic framework, not the guilt of original offenders.
+
+**Story shape:** Events may overlap across planets, with historical information and constraints circulating unevenly. The audience's layered discoveries can reveal the origin, beneficiaries and hidden costs of rules as well as Samuel and Konrad's project. Planet Three's replay begins from a curated past yet creates new history; Sylvan's endgame is a major culmination within the continuing process, not proof the planets' civic lives end there. Later stages of the larger process remain undefined.
+
 ## Established frame
 
-Planet Two and Planet Three are the **first and second colonization planets** after the origin world. Planet Two's criminals have comparatively more room; they lose a real Great War to the real leaders' empire. Planet Three begins a distinct, more tightly contained process that **replays history through placed people and roles** about a century before Sylvan. Its society and political decisions are real. Its dominant empire is a Planet Three institution/role, not the original Planet Two sovereign state physically moved. George and Aiden act physically on Planet Three during Sylvan's endgame; older Samuel and Konrad are placed on Planet Two in prior endgame decisions, with individual travel and access channels to be specified. Sources: [[07 QA/Decisions]], [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]].
+Planet Two and Planet Three are the **first and second colonization planets** after the origin world, and together comprise the first stage of the larger process. Planet Two's criminals have comparatively more room; they lose a real Great War to the real leaders' empire. Planet Three begins a distinct, more tightly contained planetary arc that **replays history through placed people and roles** about a century before Sylvan. Its society and political decisions are real. Its dominant empire is a Planet Three institution/role, not the original Planet Two sovereign state physically moved. George and Aiden act physically on Planet Three during Sylvan's endgame; older Samuel and Konrad are placed on Planet Two in prior endgame decisions, with individual travel and access channels to be specified. Sources: [[07 QA/Decisions]], [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]].
 
-**Later author correction:** The **overall two-planet colonization process succeeds**. The criminals' Great War defeat is an outcome inside that successful process, not evidence that Planet Two's process failed. Planet Three continues the larger program at a more contained stage; do not describe it as an emergency repair. The precise success criteria and the relation between the two stages remain development questions. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
+**Later author correction:** The **overall two-planet colonization process succeeds**. The criminals' Great War defeat is an outcome inside that successful process, not evidence that Planet Two's process failed. Planet Three continues the larger program under tighter containment; do not describe it as an emergency repair. The precise success criteria and how the two planetary arcs shape shared rules remain development questions. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
 
 **Later author direction — primary purpose:** This controlled environment is designed to **trap, contain, understand and expose humanity's biggest problems**, while **building the new Luminai and training leaders**. The Samuel–Konrad conspiracy, fascist domination and synthetic-ascension fraud are cases inside this broader purpose. “Trap” does not erase accepted entry, review, exit and resident protections; the exact mechanism remains to be designed. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
 
@@ -21,10 +29,10 @@ Planet Two and Planet Three are the **first and second colonization planets** af
 
 | Dimension | Planet Two | Planet Three |
 | --- | --- | --- |
-| Process role | Successful first colonization stage with comparatively looser criminal containment; large-scale problems emerge as real decisions and institutions, including the actual war and defeat of the criminal project. | Successful continuation in a new society using Planet Two history as a source for placements; tighter bounded roles allow exposure, leadership training and Sylvan–Orzai's successor Luminai proof. |
+| Process role | First-stage world with comparatively looser criminal containment; large-scale problems emerge as real decisions and institutions, including the actual war and defeat of the criminal project. | First-stage world with a new society and Planet Two history as a source for placements; tighter bounded roles allow further exposure, leadership training and Sylvan–Orzai's successor Luminai proof. |
 | Power | Criminal groups gain enough real opportunity to recruit, govern locally and attempt domination; the outer process and evidence system remain beyond them. | Criminal children and legitimate heirs can occupy consequential and rotating offices; criminals still cannot own process authority, participant identity or sealed records. |
 | Continuity | Actual acts, victims, victory and defeat stay in the historical record; Konrad's postwar refusal has consequences. | Historical correspondences may shape roles and public beliefs, but individual acts create new consequences. Original Planet Two sovereignty does not transfer by default. |
-| Endpoint | Great War defeat ends the first less-contained criminal bid **within the successful larger program**; exact sentencing, exit, postwar reactivation and continuing Planet Two operations need dating. | Roughly a century before Sylvan; the accepted Book One and terminal process provide outcome and exposure, with exact individual presentation geometry open. |
+| Major arc, not stage endpoint | Great War defeat ends a less-contained criminal bid **within the continuing successful first stage**; exact sentencing, exit, postwar reactivation and ongoing Planet Two operations need dating. | Roughly a century before Sylvan; Book One's terminal presentation exposes specific actors, while subsequent civic life and rulemaking on both worlds continue. |
 
 **Proposed outer framework:** One governing authority may maintain process rules, independently auditable records and protected cross-world channels while each planet has distinct assignments and local institutions. Its charter and enforcement are **unresolved**. The existing accepted causal claim that Konrad reactivates his Daemon and group inside Samuel's earlier priority sphere remains; its planetary location and reach need a separate decision.
 
@@ -32,7 +40,7 @@ Planet Two and Planet Three are the **first and second colonization planets** af
 
 ## Proposed AI-managed architecture — not author-established
 
-The program can succeed as **one governed colonization effort with two different planetary assignments**. Human governing leaders set lawful objectives and restrictions. The AI ecology implements permitted placements, infrastructure, communication, evidence preservation and stage transitions. No single AI needs sovereign discretion to redefine success or cause a war. The process records what participants actually do; it does not manufacture their moral achievement. See [[02 Story/Systems/Advanced Technology Ecology]].
+The program can succeed as **one governed colonization effort with two different planetary assignments in its first stage**. Human governing leaders set initial lawful objectives and restrictions; future rulemaking authority and citizens' standing still need definition. The AI ecology implements permitted placements, infrastructure, communication and evidence preservation. No single AI needs sovereign discretion to redefine success, enact new laws or cause a war. The process records what participants actually do; it does not manufacture their moral achievement. See [[02 Story/Systems/Advanced Technology Ecology]].
 
 | Layer | Proposed responsibility | Boundary needed for the story |
 | --- | --- | --- |
@@ -68,7 +76,7 @@ The AI ecology can set conditions, preserve provenance, enforce permissions and 
 
 The cross-world channel is the design bottleneck. If it gives Samuel unrestricted authority, the endgame violates containment. If it gives him no access at all, the sustained attack on Sylvan has no causal route. A bounded, observable and contestable channel is a **proposal** that could bridge those needs; its rules, delays, safeguards and victims' remedies are open.
 
-## Development sequence
+## Development lenses (not a programmed sequence)
 
 1. **Define the protected population and classes:** distinguish offenders, recruited followers, heirs, ordinary settlers, synthetic people and locally born children; specify entry, knowledge, environment commitment, exit and review separately.
 2. **Define Planet Two conditions:** original colonization purpose, corporate/government relationship, synthetic society, criminal opportunity and limits before the actual Great War.
@@ -77,11 +85,11 @@ The cross-world channel is the design bottleneck. If it gives Samuel unrestricte
 5. **Build the overlapping century:** map cross-world access, George/Aiden's roles, older leaders' locations, legitimate heirs, synthetics, rotating offices, story functionality and independent evidence custody.
 6. **Connect the endgame:** preserve Book One's reverse discovery, the Resistance's independent proof, Samuel's attempted blame transfer, Konrad's disclosure and the accepted terminal sequence.
 
-This is an order for **development decisions**, not necessarily the series' narrative order. See the fuller assessment and candidate replay scopes in [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]].
+These are questions for **development decisions**, not a required sequence of events or the series' narrative order. Planet Two and Planet Three together are the first stage; acts, protections and rule revisions can continue across both. See the fuller assessment and candidate replay scopes in [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]].
 
 ## Active author gate
 
-Before detailed chronology: **What exactly is reproduced in the Planet Three replay, and who is personally committed or newly placed there after Planet Two's defeat?** Answer separately for source events, public records, roles, institutions and individual participants. Clarify whether “locked into both planets” means assigned environment commitment, continuous participation across two worlds, or a stronger legal bond; existing voluntary exits and distinct criminal sentences must remain visible unless the author explicitly revises them.
+Before detailed chronology, first decide who can make shared future-citizen rules and how those rules can be challenged. Then ask: **What exactly is reproduced in the Planet Three replay, and who is personally committed or newly placed there after Planet Two's defeat?** Answer separately for source events, public records, roles, institutions and individual participants. Clarify whether “locked into both planets” means assigned environment commitment, continuous participation across two worlds, or a stronger legal bond; existing voluntary exits and distinct criminal sentences must remain visible unless the author explicitly revises them.
 
 ## Canon warnings
 

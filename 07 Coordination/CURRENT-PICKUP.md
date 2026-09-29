@@ -5,6 +5,11 @@ updated: 2026-09-28
 scope: single current pickup point
 ---
 
+## Active pickup — shared first stage and future rules — September 28
+
+Planet Two and Planet Three together form the **first stage** of a continuing, free flowing process. Their people’s real acts expose problems and shape rules for future citizens of both. Preserve the real war and defeat on Planet Two, the Planet Three replay and overall program success. Start at **FP-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|Dynamic Story Workshop]]: determine legitimate shared rulemaking and citizen challenge. CE-01 and PT-01 follow. The earlier pickup priorities below are historical. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
+
 ## Active pickup — Planet Two defeat to Planet Three containment — 2026-09-28
 
 Planet Two contains the less contained criminals, the actual Great War, their defeat and the real leaders’ victorious empire. Planet Three begins a distinct process by **replaying that history and placing people** in roles under tighter containment for about a century before Sylvan. George’s dominant-empire position is a replay placement, not proof the original state transferred. Start at **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass|Dynamic Story Workshop]] to define the replay and the individual assignments. OR-01 remains downstream. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]

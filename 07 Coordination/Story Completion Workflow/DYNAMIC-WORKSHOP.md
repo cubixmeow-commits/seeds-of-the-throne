@@ -8,11 +8,15 @@ supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, R
 
 # Dynamic Story Workshop
 
+## Latest author direction — one free flowing first stage
+
+Both colonization planets comprise the **first stage** of a larger continuing process. Actual conduct on either world exposes problems and can inform rules for **future citizens of both worlds**. The first stage is a giant free flowing narrative, not a completed Planet Two test followed by a separate Planet Three test. Preserve the real Planet Two war and defeat, Planet Three's replay through placed people and the successful overall program. Governing authority, jurisdiction and citizen rights in rulemaking remain open. [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+
 ## September 28 controlling two-planet transition
 
-Planet Two is where the less contained criminal groups lose the actual Great War to the real leaders’ empire. Planet Three **replays this history with placed people** as it begins a separate, more tightly contained process for about a century before Sylvan. George occupies a dominant-empire role there, but the office and authorizing placement are open. The original empire and its sovereignty are not established as having moved. Planet Three remains a real advancing society; replayed roles can produce new decisions and consequences. Older Samuel/Konrad Planet Two endgame placement is a distinct physical question, not disproved by a role replay. The September 24 Planet Three war account and earlier September 28 institutional-transfer inference are superseded at those points. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
+Planet Two is where the less contained criminal groups lose the actual Great War to the real leaders’ empire. Planet Three **replays this history with placed people** in a separate, more tightly contained planetary arc for about a century before Sylvan. George occupies a dominant-empire role there, but the office and authorizing placement are open. The original empire and its sovereignty are not established as having moved. Planet Three remains a real advancing society; replayed roles can produce new decisions and consequences. Older Samuel/Konrad Planet Two endgame placement is a distinct physical question, not disproved by a role replay. The September 24 Planet Three war account and earlier September 28 institutional-transfer inference are superseded at those points. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
-**Later author correction:** The overall colonization process is **successful**. The criminals' actual defeat on Planet Two is not failure of that world's process. Planet Three continues a successful multi-stage program with tighter containment; it is not a repair of a failed first stage. The program's exact success criteria and AI management structure are the next development subject. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
+**Later author correction:** The overall colonization process is **successful**. The criminals' actual defeat on Planet Two is not failure of that world's process. Planet Three continues the successful first stage under tighter containment; it is not a repair of a failed first stage. The program's exact success criteria and AI management structure are the next development subject. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
 
 **Primary purpose, author direction:** The real controlled environments **trap, contain, understand and expose humanity's biggest problems** while building new Luminai and training leaders. Planet Two's war, Planet Three's replay, the synthetic-ascension fraud and Samuel's endgame are parts of that larger successful program. A working operational cycle and AI division of labor are in [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]]; the precise safety boundary is open. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
 
@@ -218,11 +222,13 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**CE-01 — one author gate.** Define the controlled environment's central containment mechanism across both planets:
+**FP-01 — one author gate.** Define how problems uncovered across two living planets become rules for their future citizens:
 
-> **What opportunity does the process give dangerous people to reveal their plans, and what firm boundary prevents that opportunity from becoming control of the colonization process or unchecked harm to everyone else?**
+> **Who has authority to turn an observed problem on either planet into a rule binding future citizens of both, and how may those citizens challenge or revise it?**
 
-Acceptance test: separate each group's actual choices from the AI's permissions and observations; specify what the AI can deny, what triggers protective intervention, who can review its record, and how exposure reaches affected people without exposing protected personal data. Show how Planet Two's broader latitude and Planet Three's tighter replay both serve the **successful** overall process, while heirs and successor Luminai learn from real decisions. Preserve the real Planet Two war and criminal defeat, the real Planet Three society, distinct exit rights and the terminal sequence. The process cannot require engineering a war or harm to count as success.
+Acceptance test: distinguish local planetary rules from rules shared by both; identify who can propose, authenticate, decide, promulgate, enforce, contest and revise a rule; define the AI's role without assuming sovereign legislation. Specify safeguards for affected people, synthetics, settlers, heirs and locally born descendants. Preserve actual choices, the Planet Two war, Planet Three replay and ongoing civic histories. Do not make descendants inherit an offender's guilt or treat every event as an automatic rule. The exact institutional design is for author selection.
+
+**Next dependent gate, CE-01:** What opportunity lets dangerous people reveal their plans, and what protective boundary prevents that opportunity from becoming control or unchecked harm? Separate AI permissions, intervention, independent evidence and remedies while preserving the successful shared first stage.
 
 **Next dependent gate, PT-01:** distinguish reproduced institutions, events, roles and records from new Planet Three outcomes; identify George's and Aiden's movements, the older leaders' locations and cross-world reach, and who authorizes each assignment. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
 
@@ -231,6 +237,8 @@ Acceptance test: separate each group's actual choices from the AI's permissions 
 Acceptance test: distinguish the advertised whole-person transfer and godlike command from genuine regeneration or other medicine; identify the promised observer, success threshold, independent verifier, consent and harm limits, and a route to public evidence that does not require an on-planet nanocell-core detector. Preserve the accepted Samuel terminal sequence and leave open whether it supplies this result. Then work OR-02: define the private firms' original rights, the later leaders' lawful authority, insider-access revocation and differentiated offender entry. **SPR-01 remains the next character-history gate:** when Samuel and Konrad staged rivalry and when Samuel first used that cover to frame his co-leader. No previous SPR answers are invalidated.
 
 ## Change Log
+
+- **2026-09-28 free flowing first-stage correction:** Both worlds belong to the first stage; their real problems can shape rules for future citizens of both. Moved the sole gate to FP-01 for rulemaking authority, jurisdiction and challenge. CE-01 and PT-01 remain dependent.
 
 - **2026-09-28 primary-purpose integration:** Established the process's broad trap/contain/understand/expose purpose alongside Luminai development and leader training. Moved the single gate to CE-01, with PT-01 replay mechanics and OR-01 corporate proof following. The AI's precise powers and protection thresholds remain open.
 

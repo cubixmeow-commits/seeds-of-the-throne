@@ -11,6 +11,12 @@ updated: 2026-09-19
 
 # Current Week Intake
 
+## September 28 — Free flowing two-planet first stage
+
+- **Source:** [[01 Sessions/Daily/2026-09-28 - Free Flowing Two-Planet First Stage and Future Rules]]
+- **Type:** author direction / dependency / continuity
+- **Signal:** Both planets comprise the first stage of an accumulating civic narrative. Actual problems shape rules for future citizens of both, moving the active gate to FP-01 ahead of CE-01 and PT-01. Earlier sequential-stage language needs reinterpretation; rulemaking legitimacy remains open.
+
 ## September 5 implementation intake
 
 The foundation audit, shared website projections, and twenty-module workshop were implemented for review. No story answers were invented and no new publication authorized. See [[07 QA/2026-09-05 - Comprehensive Story Assessment]] and [[07 Coordination/2026-09-05 - Website Rebuild Handoff]] for verification and remaining deployment work.
