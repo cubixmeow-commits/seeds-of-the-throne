@@ -11,4 +11,4 @@ This pointer routes public progress surfaces to the [[07 Coordination/Story Comp
 
 The current workshop is dependency ordered and adaptive. It is updated after every desktop assessment and builds the exact contest, deception, clock, opening, middle, character choices, evidence order, and sequence map needed to make Book One scene-ready.
 
-Latest two-planet assessment: [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]]. Current author gate: PT-01 in the linked dynamic workshop; OR-01 and earlier assessment questions remain downstream.
+Latest primary-purpose direction: [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]. Current author gate: CE-01 in the linked dynamic workshop; PT-01, OR-01 and earlier assessment questions remain downstream.

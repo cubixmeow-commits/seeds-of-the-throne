@@ -12,6 +12,10 @@ supersedes_active_questions: Book One Architecture Workshop, Endgame Workshop, R
 
 Planet Two is where the less contained criminal groups lose the actual Great War to the real leaders’ empire. Planet Three **replays this history with placed people** as it begins a separate, more tightly contained process for about a century before Sylvan. George occupies a dominant-empire role there, but the office and authorizing placement are open. The original empire and its sovereignty are not established as having moved. Planet Three remains a real advancing society; replayed roles can produce new decisions and consequences. Older Samuel/Konrad Planet Two endgame placement is a distinct physical question, not disproved by a role replay. The September 24 Planet Three war account and earlier September 28 institutional-transfer inference are superseded at those points. [[01 Sessions/Daily/2026-09-28 - Planet Three Replay Clarification]]
 
+**Later author correction:** The overall colonization process is **successful**. The criminals' actual defeat on Planet Two is not failure of that world's process. Planet Three continues a successful multi-stage program with tighter containment; it is not a repair of a failed first stage. The program's exact success criteria and AI management structure are the next development subject. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
+
+**Primary purpose, author direction:** The real controlled environments **trap, contain, understand and expose humanity's biggest problems** while building new Luminai and training leaders. Planet Two's war, Planet Three's replay, the synthetic-ascension fraud and Samuel's endgame are parts of that larger successful program. A working operational cycle and AI division of labor are in [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]]; the precise safety boundary is open. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
+
 **Working architecture assessment:** [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]] separates the first real colony and war, postwar choice, second-colony replay, overlapping century and terminal outcome. It also distinguishes environment commitment from voluntary exit and criminal review. The older parent-history reconstruction, person-by-person movements and location of Samuel's postwar priority sphere remain author questions, not solved mechanics.
 
 ## September 27 historical origin — synthetic invention and criminal inducement
@@ -214,17 +218,23 @@ The following gates replace duplicate prompts; they do not declare unanswered ch
 
 ## Next Assessment Pass
 
-**PT-01 — one author gate.** Define the replay and the participant assignments across both colonization planets:
+**CE-01 — one author gate.** Define the controlled environment's central containment mechanism across both planets:
 
-> **What exactly is carried into Planet Three as replayed history, and which people are physically placed there after Planet Two's real Great War?**
+> **What opportunity does the process give dangerous people to reveal their plans, and what firm boundary prevents that opportunity from becoming control of the colonization process or unchecked harm to everyone else?**
 
-Acceptance test: distinguish reproduced institutions, events, roles and records from new Planet Three outcomes; identify George's and Aiden's actual movements, the older leaders' locations and cross-world reach, and who authorizes each assignment. Specify what became tighter after Planet Two, what participants know, and how genuine Planet Three actions can diverge. Do not turn “locked in” into one rule for heirs, convicted offenders and locally born residents; preserve the accepted voluntary-heir exit and Konrad's postwar choice. The original war and empire remain on Planet Two; the real Planet Three society, approximate century and terminal chain remain intact. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
+Acceptance test: separate each group's actual choices from the AI's permissions and observations; specify what the AI can deny, what triggers protective intervention, who can review its record, and how exposure reaches affected people without exposing protected personal data. Show how Planet Two's broader latitude and Planet Three's tighter replay both serve the **successful** overall process, while heirs and successor Luminai learn from real decisions. Preserve the real Planet Two war and criminal defeat, the real Planet Three society, distinct exit rights and the terminal sequence. The process cannot require engineering a war or harm to count as success.
+
+**Next dependent gate, PT-01:** distinguish reproduced institutions, events, roles and records from new Planet Three outcomes; identify George's and Aiden's movements, the older leaders' locations and cross-world reach, and who authorizes each assignment. Then resume **OR-01:** define the public promise that makes corporate ascension a mass movement and the bounded attempt an intelligible answer:
 
 > **What exactly did the wealthy promoters promise people becoming synthetic would give them, and what independent, visible result would convince even their followers that this specific promise failed?**
 
 Acceptance test: distinguish the advertised whole-person transfer and godlike command from genuine regeneration or other medicine; identify the promised observer, success threshold, independent verifier, consent and harm limits, and a route to public evidence that does not require an on-planet nanocell-core detector. Preserve the accepted Samuel terminal sequence and leave open whether it supplies this result. Then work OR-02: define the private firms' original rights, the later leaders' lawful authority, insider-access revocation and differentiated offender entry. **SPR-01 remains the next character-history gate:** when Samuel and Konrad staged rivalry and when Samuel first used that cover to frame his co-leader. No previous SPR answers are invalidated.
 
 ## Change Log
+
+- **2026-09-28 primary-purpose integration:** Established the process's broad trap/contain/understand/expose purpose alongside Luminai development and leader training. Moved the single gate to CE-01, with PT-01 replay mechanics and OR-01 corporate proof following. The AI's precise powers and protection thresholds remain open.
+
+- **2026-09-28 overall-success correction:** Distinguished the criminals' war defeat from the successful multi-planet process and removed the mistaken failure/repair interpretation from the working architecture. Stage metrics and AI governance remain open.
 
 - **2026-09-28 two-planet architecture assessment:** Scanned the broader canon, drafted an explicit working two-world process, flagged the old numerous-colonies line and parent-history versus Planet Two replay source, and expanded PT-01 to include physical placements and differentiated exit rights. No replay scope or character transfer was canonized.
 

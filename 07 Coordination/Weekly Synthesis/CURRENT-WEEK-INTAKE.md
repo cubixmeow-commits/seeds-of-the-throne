@@ -47,6 +47,13 @@ Do not propose execution wording here. The weekly synthesis decides whether a si
 
 ## Signals awaiting the next synthesis
 
+### 2026-09-28 — Successful controlled process and its primary purpose
+
+- **Source:** [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]; [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
+- **Type:** author decision / structural dependency
+- **Possible relationship:** CE-01, PT-01, participant protections, Luminai and leader development
+- **Signal:** The overall two-planet program succeeds; its primary purpose is to trap, contain, understand and expose humanity's biggest problems while building new Luminai and training leaders. Planet Two's criminal defeat is not program failure, and the exact AI permissions, intervention limits and exposure architecture need development.
+
 ### 2026-09-28 — Two-planet process and participant commitment (working)
 
 - **Source:** [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]]; [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]]

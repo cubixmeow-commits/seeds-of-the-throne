@@ -7,6 +7,8 @@ themes: synthetic invention, criminal ambition, legal boundaries, colonization, 
 
 # Synthetic Invention and Criminal Containment
 
+**September 28 scope correction:** Synthetic invention and wealthy criminals' attempted appropriation are one major historical source of contained participants. The author now establishes the larger successful process's **primary purpose** as trapping, containing, understanding and exposing humanity's biggest problems while building new Luminai and training leaders. This origin note explains a particular class of threat; it does not reduce the two-planet project to testing a single ascension claim. See [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]].
+
 ## Established macro premise
 
 Invention of sophisticated nanotechnology brings biological synthetics into existence. They are indistinguishable from humans in form and function, while their wrapped nanocells contain technology that colonization-planet participants cannot expose with available instruments. A solar generator in orbit, mistaken for a moon by most people, supplies wireless power to **billions of synthetics** through a hidden satellite network. Their existence changes the scale of possible power, raising new legal, social and security questions. Resource-rich criminals seek to merge with synthetics or absorb their capabilities and imagine becoming gods. Laws are enacted in response, and the criminals are lured **into** a multi-planet colonization process with an opportunity to attempt to prove their ambitions under bounded conditions. The collision of fascist entitlement and advanced technological capability is a causal engine for the story.

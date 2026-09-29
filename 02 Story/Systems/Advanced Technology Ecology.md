@@ -7,6 +7,10 @@ themes: Luminai, Daemons, advanced AI, biological synthetics, physical environme
 
 # Advanced Technology Ecology
 
+## September 28 primary-purpose clarification
+
+The successful multi-planet controlled environment is meant to **trap, contain, understand and expose humanity's biggest problems** while building new Luminai and training leaders. This AI ecology can coordinate real-world conditions, bounded permissions, protections and independent evidence; the exact division of authority among human leaders, planetary systems, synthetic participants and reviewers remains open. The criminals' actual defeat in Planet Two's Great War does not mean the overall process failed, and Planet Three's tighter replay is a continuing stage rather than a repair. See [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]] and [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]].
+
 ## Core direction
 
 The current planet is not a simulation administered by one omnipotent machine. It is a real physical colonization world coordinated by an ecology of advanced systems operating at personal, institutional, environmental, and planetary scales.

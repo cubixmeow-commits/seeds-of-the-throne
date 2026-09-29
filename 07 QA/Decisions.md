@@ -4,6 +4,16 @@ status: active
 updated: 2026-09-28
 ---
 
+## 2026-09-28 — Overall process success (author correction)
+
+- **Established:** The multi-planet colonization process succeeds overall. Planet Two's criminal groups lose a real Great War; that loss does not constitute failure of the Planet Two process or the larger program.
+- **Boundary:** Planet Three's more contained replay continues the successful process. Do not cast it as an emergency repair of a failed first colony or infer that the leaders intended to cause the war. Exact stage objectives, outcome measures and AI governance remain open. [[01 Sessions/Daily/2026-09-28 - Overall Colonization Process Success Clarification]]
+
+## 2026-09-28 — Primary purpose of controlled colonization (author direction)
+
+- **Established direction:** The primary purpose of the controlled multi-planet environment is to trap, contain, understand and expose the biggest problems in humanity while building the new Luminai and training leaders. The program is successful overall; its exact AI management and evaluation rules remain open.
+- **Boundary:** Individual criminal projects, including synthetic ascension fraud and the staged Samuel–Konrad rivalry, are major problems inside this wider design, not the whole purpose of the colony. “Trap” does not by itself establish the same entry or exit terms for convicted offenders, voluntary heirs and locally born people. [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]]
+
 ## 2026-09-28 — Two-planet war and containment transition (author override)
 
 - **Established:** The first colonization planet, Planet Two, has looser criminal containment and ends with their real Great War defeat by the real leaders’ empire.

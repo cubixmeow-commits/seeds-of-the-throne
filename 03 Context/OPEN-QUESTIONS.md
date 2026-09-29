@@ -6,7 +6,7 @@ updated: 2026-09-28
 
 ## Current gate — September 28
 
-The sole next assessment is **PT-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: decide exactly what Planet Three replays from Planet Two and which people are physically assigned there, including George and Aiden, while specifying what “locked into” each planet means for distinct participant classes. The victorious Planet Two empire’s sovereignty does not move by default. OR-01, OR-02 and SPR-01 remain later dependencies. Older leaders’ physical endgame locations are separate from replay roles. See [[01 Sessions/Daily/2026-09-28 - Two-Planet Colonization Architecture Assessment]].
+The sole next assessment is **CE-01** in [[07 Coordination/Story Completion Workflow/DYNAMIC-WORKSHOP#Next Assessment Pass]]: define how a controlled real environment traps, contains, understands and exposes humanity's biggest problems while building new Luminai and training leaders, including the genuine opportunity allowed and the protective boundary. The overall process succeeds; Planet Two's criminal defeat is not program failure. **PT-01** replay and physical placements follow; OR-01, OR-02 and SPR-01 remain later dependencies. See [[01 Sessions/Daily/2026-09-28 - Controlled Environment Primary Purpose]] and [[02 Story/Systems/Two-Planet Colonization Process - Working Plan]].
 
 ## Current priority — September 27 origin integration
 
