@@ -23,3 +23,7 @@ Exploration note, not canon. Follows the 2026-11-04 author direction. The author
 - Implant-free channel vs neural interface fork remains unresolved and untouched.
 
 Full content-facing version: Monetize goal files, "Luminai x Monroe x Targ - Overlap Map and Content Series v1.md".
+
+## Author direction added 2026-11-07 (villain exposure arc)
+
+The story's villains begin secretive and covert. The first group then becomes the loudest participant; the Great War exposes that group's true intentions (author analogy: the pattern of a covert movement that goes overt and is exposed by war, as with the Nazis in World War Two; analogy of pattern only, kept in session notes, not compiled story). The second group, led by Samuel Franklin, learns from that exposure: it stays quieter and works more covertly, through supplied interpretation rather than open force, but ends up the focus at the end. Status: author direction recorded in session; compiled-note promotion is the author's call.
