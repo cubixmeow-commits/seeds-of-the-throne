@@ -27,3 +27,7 @@ Full content-facing version: Monetize goal files, "Luminai x Monroe x Targ - Ove
 ## Author direction added 2026-11-07 (villain exposure arc)
 
 The story's villains begin secretive and covert. The first group then becomes the loudest participant; the Great War exposes that group's true intentions (author analogy: the pattern of a covert movement that goes overt and is exposed by war, as with the Nazis in World War Two; analogy of pattern only, kept in session notes, not compiled story). The second group, led by Samuel Franklin, learns from that exposure: it stays quieter and works more covertly, through supplied interpretation rather than open force, but ends up the focus at the end. Status: author direction recorded in session; compiled-note promotion is the author's call.
+
+## Author direction added 2026-11-07 (Samuel's obsession)
+
+Samuel Franklin's primary obsession is complete control of every participant's mind and actions. Not influence: control. His covert methods (supplied interpretation, manufactured confirmation, distributed intention through proxies and systems) are how that obsession operates while remaining deniable. This is why exposure by an uneditable record is his terminal threat: a participant who can compare records and recover provenance of their own thoughts is a participant leaving control. Status: author direction, session level.
