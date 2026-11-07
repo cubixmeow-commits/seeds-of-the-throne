@@ -17,3 +17,7 @@ Samuel's terminal processing does not remove him from the colonization process. 
 Samuel remains inside the process but no longer holds active-participant status. Everything he did is presented while he is present without his Daemon, removing his ability to keep each group inside a separate explanation of his conduct. Exact location design, safeguards, and public-versus-protected audience layers remain open.
 
 Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized Groups]].
+
+## November 7 simulation interpretation — author direction (working)
+
+Awakening is commonly interpreted by participants and contained criminals as entry into a simulation, an interpretation that preserves their prior belief that nothing inside the process has lasting consequences. That interpretation is false inside the story's own account and is broken by a specific catalyst event. See [[02 Story/Systems/Simulation Belief and the Layered Reality]].
