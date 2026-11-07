@@ -9,6 +9,12 @@ roles: contained criminal, future King, Throne founder, exiled failed heir, reve
 
 # Samuel Franklin
 
+## November 7 primary obsession — author direction (working)
+
+Samuel's primary obsession is complete control of every participant's mind and actions. Not influence: control. His covert methods (supplied interpretation, manufactured confirmation, distributed intention through proxies and systems that act on his unstated wishes) are that obsession operating deniably, so the controlled continue to believe they are thinking for themselves. This is why provenance and the sealed record are his terminal threat: a participant who can recover which thoughts were authored elsewhere is a participant leaving control, and synchronized comparison of records between participants collapses the compartmentalization his control depends on. It also makes his covert interference experimental fraud against the environment's evidence purpose; see [[02 Story/Systems/Evidence Farming and Participant Unawareness]]. Status: author direction recorded 2026-11-07, working; how this obsession ranks against his established endgame objective (destroy Sylvan, obtain the Luminai bond's secrets, conceal the George/Aiden failure) is the author's to confirm.
+
+Source: [[01 Sessions/Daily/2026-11-07 - Luminai Overlap Reading Monroe and Targ]].
+
 ## September 27 shared project and betrayal — established direction
 
 Samuel and Konrad co-lead one criminal project and deliberately cultivate an appearance of being enemies. Both seek synthetic bodies for their brains and use a false racist theory about mixed human ancestry to rationalize reproductive experimentation. Samuel designs the public division to let him later blame Konrad for their shared work. His additional unauthorized bloodline campaign, private frame, and capture of the project are a betrayal within that original partnership, not proof that he never shared its goal or responsibility. How his original membership, exile, personal resentment, wartime sabotage, and postwar alpha priority fit this joint plan remains an explicit chronology problem. His wish to learn from Sylvan's real Luminai bond remains bounded by the previously established no-theft rule.

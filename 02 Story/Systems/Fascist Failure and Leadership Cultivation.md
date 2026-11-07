@@ -7,6 +7,12 @@ themes: authoritarian failure, story engine, leadership cultivation, morality, L
 
 # Fascist Failure and Leadership Cultivation
 
+## November 7 exposure pattern — author direction (working)
+
+The criminal movements run an exposure sequence in two waves. The first group begins secretive and covert, then becomes the loudest participant; the Great War exposes its true intentions and it falls to that exposure (Konrad's movement, per the established Great War defeat below). The second group, Samuel Franklin's, studies that failure and chooses the opposite road: stay quieter, work covertly through supplied interpretation rather than open force, and never give the world a loud target. Its defeat therefore cannot come by war. It comes by focus: the endgame drags the quiet group into the center of an uneditable record (see [[02 Story/Systems/Evidence Farming and Participant Unawareness]]). The author's analogy for the first wave's pattern, a covert movement that goes overt and is exposed by war, is held in session notes as pattern only and is not compiled here.
+
+Source: [[01 Sessions/Daily/2026-11-07 - Luminai Overlap Reading Monroe and Targ]].
+
 ## September 27 historical pressure — technology and entitlement
 
 Human-indistinguishable biological synthetics give fascist leaders a new object for their existing claim that some people are entitled to own others. Wealth, institutions, advanced technical access and false hereditary ideology make attempted appropriation of synthetic bodies more than rhetoric. Laws and a bounded colonization offer emerge in response; the leaders enter believing their claim to merger or possession can be proved. Their capability makes the danger credible; their hierarchy and false theory make their decisions disastrous. This is a historical origin for the contained-criminal layer, not a claim that synthetics are dangerous or that the ideology has a scientific basis. See [[Synthetic Invention and Criminal Containment]].
