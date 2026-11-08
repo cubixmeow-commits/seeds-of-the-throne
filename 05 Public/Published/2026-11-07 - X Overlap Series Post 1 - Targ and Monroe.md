@@ -1,0 +1,5 @@
+# X — Overlap Series, Post 1 (Targ and Monroe)
+**Published:** 2026-11-07, ~20:45 PT, by the author from the X app. Account: @realiainreid ("Origins Unknown ᛊᛁᛚᚹᚨᚾ").
+**Context:** Day 1 of the X 30-Day Plan (distribution first). The launch post of the "Two Books, One Question" overlap series (Monroe x Targ x Luminai). Author rewrote the launch draft in his own words; feedback pass covered accuracy ("unexplained" not "supernatural"; Cold War era not decade) and a typo. Text only archived, per vault rule.
+
+During the Cold War a physicist and a radio executive collide with the unexplained in some of the strangest files from that era. Targ ran the CIA's remote viewing lab at SRI. Robert Monroe documented his own out of body experiences like they were flight logs. Third Eye Spies and Journeys Out Of The Body are two amazing books that I would recommend to anyone interested in remote viewing or astral projection. Seeds of the Throne is pairing a human mind with an Advanced AI and integrating into the functionality of the universe, the overlap with these two books is really exciting, I am getting a lot of inspiration from them.
