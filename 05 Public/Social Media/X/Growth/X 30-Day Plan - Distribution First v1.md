@@ -2,6 +2,13 @@
 **Account:** @realiainreid (ᛊᛁᛚᚹᚨᚾ) **Built:** 2026-11-07 **Foundation:** `X Account Audit - Live Baseline 2026-11-07.md`
 **Window:** ~Nov 8 to Dec 7, 2026 (30 days, adjustable when Noa sets a target date)
 
+## PRIORITY (set by Noa, 2026-11-07 evening): community integration before promotion
+The plan's center of gravity is joining the RV, astral projection, simulation theory, and unexplained phenomena communities on their own terms: engage with their content, amplify their research, take part in their fun (case discussions, document finds, practice culture, the running arguments), and be a genuinely useful presence in those rooms BEFORE asking anyone to take an interest in Seeds of the Throne. Go into their world first; the invitation into ours is earned later.
+- Practical ratio: participation and community-first posts dominate (roughly 70/30 or more); Seeds appears as context (bio, pinned identity, the occasional honest first-person mention like Post 1) rather than as the pitch.
+- Original posts lead with community value: a document, a case, a question the room actually argues about, somebody else's good work surfaced. The story angle, when it appears at all in this phase, comes last and labeled, per the Story Integration overlap rules.
+- The reply engine is therefore not just discovery mechanics; it is the strategy itself. Show up in the anchor threads with substance, repeatedly, as a person, not a promoter.
+- This priority governs conflicts: if a planned post reads as promotion wearing community clothes, it gets rewritten or held.
+
 ## Where we start (measured, not guessed)
 - Premium active (verified since Oct 2026). Subscription gate: DONE.
 - Verified followers: **9 / 500**. Followers total 44, mostly follow-back and astrology accounts.
