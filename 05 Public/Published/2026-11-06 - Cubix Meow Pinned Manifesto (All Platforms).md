@@ -1,6 +1,6 @@
 # Cubix Meow — Pinned Manifesto (published 2026-11-06, author edited same evening)
 
-The unified pivot's pinned identity post, published on all three platforms Nov 6, 2026, then slightly edited by the author. Texts below are the CURRENT live versions, retrieved from each platform after the edits. Text only in the vault by the author's instruction (images excluded to save GitHub space; image files are described in the Cubix Meow Pivot folder notes).
+The unified pivot's pinned identity post, published on all three platforms Nov 6, 2026, then slightly edited by the author. Texts below are the CURRENT live versions, retrieved from each platform after the edits. Text only in the vault by the author's instruction (images excluded to save GitHub space; image files are described in the Social Media section notes (formerly the Cubix Meow Pivot folder)).
 
 ## Facebook (published Nov 6, 2026, 11:15 PM PT; pinned to Featured)
 
