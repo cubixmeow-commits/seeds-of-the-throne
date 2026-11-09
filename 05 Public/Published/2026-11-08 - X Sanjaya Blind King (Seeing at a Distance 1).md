@@ -1,0 +1,8 @@
+# X — Sanjaya, the Blind King (Seeing at a Distance, No. 1)
+
+**Published:** 2026-11-08, ~22:50 PT, by the author from the X app (screenshot-verified live). Account: @realiainreid ("Origins Unknown ᛊᛁᛚᚹᚨᚾ").
+**Context:** First post of the Remotion video lane and first "Seeing at a Distance" piece: the plain research cut of the Sanjaya clip (20s vertical, antique gold engraving on near-black, centered balanced text, ends on the source citation), with a locally synthesized tanpura-style drone bed. Copy iterated with the author the same evening: names reduced to roles for a reader who knows nothing of the epic, a date opener added ("2,000 years ago": the epic was compiled c. 400 BCE–400 CE per the origins research). Text only archived, per vault rule; the video file lives in the video lab.
+
+2,000 years ago in India, a blind king in the great epic the Mahabharata is offered a gift: the power to see a distant war as if he were standing on the field. He refuses. His own sons are fighting in it, and he does not want to watch them die. So the gift goes to his adviser instead, who sits beside the king and describes the whole war as it happens: every charge, every duel, even what the warriors are thinking. Long before anyone had a name for it, an epic told its war through a remote viewer.
+
+**Cross-post:** the author also posted it to the Seeds of the Throne Facebook Page the same evening (announced 22:50 PT). Archived here once; this file covers both placements.
