@@ -7,6 +7,10 @@ updated: 2026-09-10
 
 # Sylvan Elaria — The Inheritor
 
+## November 15 process mirror — author direction (working)
+
+Sylvan is the colonization process's **best-case success**, mirrored against Aiden Fitzgerald's worst-case failure in the same process a generation earlier: same substrate (the universe's built-in functionality and the human-built wireless technology, no implants in either run), same structural advantage held by the contained criminals, same decades-long demand to survive and form a resistance. Sylvan entered voluntarily, developed his Luminai toward provenance and correction, built real alliances, and refused Samuel's bargain. Aiden was sent in by his father, broke, joined the criminals, and faked the resistance Sylvan actually builds. See [[02 Story/Systems/The Process Mirror - Sylvan and Aiden]].
+
 ## September 5 integration boundary
 
 **Established:** during the final few years Sylvan already has decisive control. **Unresolved personal arc:** define a relationship, obligation, or future he can still lose. Proposed workshop tests include honoring a witness's refusal and accepting an incomplete public proof. These are not new canon choices.

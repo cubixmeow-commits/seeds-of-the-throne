@@ -24,7 +24,7 @@ The September 27 desktop integration pass connects the private-corporate start, 
 
 ## Historical pickup — endgame integration author gate — 2026-09-24
 
-The September 24 desktop integration pass is complete. Its then-current question was **EGI-01**: After Konrad knows George and Aiden's chips were removed, what does Samuel convince him is still succeeding, and what part of the success claim does Konrad knowingly lie about? This question and the proposed two-stage breeding discovery remain downstream historical dependencies, not the current author gate. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
+The September 24 desktop integration pass is complete. Its then-current question was **EGI-01** in its original chip-based form. That form is superseded (2026-11-15: chips removed); EGI-01 now asks what Konrad believed George and Aiden's staged results proved. This question and the proposed two-stage breeding discovery remain downstream historical dependencies, not the current author gate. See [[07 QA/2026-09-24 - Endgame Integration and Continuity Assessment]].
 
 ## Completed desktop handoff — 2026-09-24
 

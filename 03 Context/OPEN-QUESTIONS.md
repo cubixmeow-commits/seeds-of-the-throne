@@ -107,7 +107,7 @@ Immediate gates: confirm whether the older containment world is Planet Two; defi
 
 ## September 5 priority dependencies
 
-See [[07 QA/2026-09-05 - Comprehensive Story Assessment]] and the workshop for the ranked dependencies. Resolve the no-implant channel versus personal-interface research; exact postwar permission transfer; who stops preventable harm; what Sylvan can still lose; George's distinct role; and the identity discrepancy in SC-001 Question 5. None is settled by the website rebuild.
+See [[07 QA/2026-09-05 - Comprehensive Story Assessment]] and the workshop for the ranked dependencies. Resolve the implant-free channel's physical architecture (implant-free itself was settled 2026-11-15; the personal-interface research is not adopted story hardware); exact postwar permission transfer; who stops preventable harm; what Sylvan can still lose; George's distinct role; and the identity discrepancy in SC-001 Question 5. None is settled by the website rebuild.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 

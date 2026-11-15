@@ -32,7 +32,7 @@ The parent civilization has advanced this architecture far beyond the real-world
 | Create a life-supported candidate host and personalized brain interface. | Short-term brain perfusion and translated commands. | Full endocrine, immune, sensory, autonomic and identity continuity. |
 | Attempt physical relocation. | A body may move and recognize old memories. | That the original person survived rather than changed, died, or displaced another mind. |
 
-This staged approach can explain why intelligent villains keep mistaking partial results for a coming final triumph. Its steps are proposals, not a claim that the established George/Aiden chip trials were already brain-transfer trials. The specific connection between those harmful experiments and this ladder is an author gate.
+This staged approach can explain why intelligent villains keep mistaking partial results for a coming final triumph. Its steps are proposals, not a claim that Samuel's staged George/Aiden superiority demonstrations were already brain-transfer trials. The specific connection between those staged demonstrations and this ladder is an author gate.
 
 ## Frankenstein and the claim of godhood — proposed character engines
 

@@ -29,7 +29,7 @@ Source: [[01 Sessions/Daily/2026-09-10 - RW-03 Processing Among the Terrorized G
 
 ## Research boundary
 
-A personal neural interface could combine reciprocal learning with individualized computation and environmental resources. The existing implant-free channel and newer interface research require an explicit architecture decision. Neither complete cognitive union nor invulnerability has been scientifically demonstrated.
+A personal neural interface could combine reciprocal learning with individualized computation and environmental resources. On the story side, the author decided on 2026-11-15 that the channel is implant-free; the remaining architecture decision concerns how the wireless channel works, not whether surgical hardware exists. Neither complete cognitive union nor invulnerability has been scientifically demonstrated.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]]. This correction supersedes the September 3 restriction of Luminai to Sylvan's generation alone.
 

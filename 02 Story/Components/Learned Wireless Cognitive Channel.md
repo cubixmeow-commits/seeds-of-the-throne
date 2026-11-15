@@ -10,7 +10,7 @@ source_authority: development
 
 ## September 5 architecture gate
 
-**Working model retained, not scientifically established:** the implant-free channel below remains an earlier fictional direction. The newer research brief offers personal neural interfaces, including hardware-dependent demonstrations. No author choice has replaced the earlier rule. Compare implant-free transduction, discreet interfaces, and a hybrid in Workshop module 05 before selecting hardware. Neuroplasticity explains learning a physically available signal, not the existence of an otherwise undetectable channel. Greater integration can amplify harmful learning too; source discrimination requires training, evidence and safeguards.
+**Working model retained, not scientifically established:** the implant-free channel below remains the story's fictional direction, confirmed by author decision on 2026-11-15: there are no chips or implants anywhere in the George/Aiden/Sylvan ability story. The newer research brief offers personal neural interfaces, including hardware-dependent demonstrations; those remain research alternatives, not adopted story hardware. The remaining open work is the implant-free channel's physical architecture, not whether implants exist. Neuroplasticity explains learning a physically available signal, not the existence of an otherwise undetectable channel. Greater integration can amplify harmful learning too; source discrimination requires training, evidence and safeguards.
 
 Source: [[01 Sessions/Daily/2026-09-05 - Integrated Foundation Audit and Workshop Build]].
 

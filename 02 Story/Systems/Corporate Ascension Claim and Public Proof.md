@@ -42,7 +42,7 @@ The faction is credible because it financed or built parts of a successful socie
 | --- | --- | --- |
 | Founders lost control because the government resented independent success. | Founding rights, lawful review and documented abuse of access. | Which authority acted legitimately, and what did it conceal or allow? |
 | An invitation into colonization means the transformation is possible. | Offer terms and independent safety boundaries. | Were the criminals honest with followers about the difference between a chance to demonstrate and an endorsement? |
-| Regeneration and advanced synthetics prove the advertised godhood is nearly ready. | Separate clinical records, failed chip trials, body/personhood constraints. | What did the sellers know when they asked people to risk their bodies? |
+| Regeneration and advanced synthetics prove the advertised godhood is nearly ready. | Separate clinical records, staged ability demonstrations, body/personhood constraints. | What did the sellers know when they asked people to risk their bodies? |
 | Two visible empires embody two opposed doctrines. | Cross-camp recruitment and Samuel–Konrad joint agreements. | Which opposition was a cover, and which later betrayals were real? |
 | A defeated lineage faction alone caused the abuses. | Joint breeding aims, Samuel-only unauthorized expansion, and planted attribution. | How do victims gain justice without treating the children as evidence objects? |
 | One spectacular failure has ended the danger. | Continuing attempts to revise the explanation, splinter groups and contested records. | Which safeguards prevent the same claim from returning under a new name? |

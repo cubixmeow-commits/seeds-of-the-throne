@@ -9,6 +9,12 @@ roles: Konrad Fitzgerald's son, younger public leader, postwar altered-reality p
 
 # Aiden Fitzgerald
 
+## November 15 process mirror — author direction (working)
+
+Aiden is Sylvan's failed predecessor in the same colonization process: the **worst-case failure** against Sylvan's best-case success. Konrad put him into a similar process almost a century before Sylvan's run, against contained criminals who held the serious advantage. Aiden broke a few years into it, after the Great War, joined the contained criminals, and lied to Konrad that he had resisted and won them their own group. Konrad restarted the breeding program on that lie, Samuel gained control of it through the access that followed, and Aiden kept lying for almost a century, becoming what Konrad is obsessively trying to destroy. At the end he is exposed sabotaging Sylvan to cover the breeding scandal and his own lies. See [[02 Story/Systems/The Process Mirror - Sylvan and Aiden]] and [[01 Sessions/Daily/2026-11-15 - Chips Removed and the Aiden Mirror]].
+
+**No chips (2026-11-15, supersedes the 2026-09-23/24 implant con):** Aiden never received an implant. Like Sylvan, he believes his abilities rest entirely on the built-in functionality of the universe and the human-built wireless technology, worked through his older-generation extended mind. That belief about the source is broadly true. What Samuel falsified was the meaning of his results: superiority, chosenness, and prophetic confirmation.
+
 ## September 24 war placement — established
 
 Konrad’s son Aiden occupies a leadership role in Planet Three’s replay of the defeated authoritarian side of Planet Two’s Great War, alongside sons of other contained leaders. The actual defeat occurred on Planet Two; the exact timing and assignment of his Planet Three role remain open. Its breeding program becomes publicly associated with these younger leaders. His position is one role within a continuing, rotating political history and does not reveal the true network of smaller groups behind the apparent two sides. His father's involvement and Samuel's hidden plan do not predetermine Aiden's knowledge, consent, conduct or later response. See [[02 Story/Systems/Shared Colonization Process and Rotating Roles]].
@@ -29,11 +35,9 @@ Samuel presents Sylvan as the rival whose defeat will confirm the reality Konrad
 
 **Established duplicated promise:** Samuel secretly promises Aiden the same exclusive end state he promises George White: absolute, godlike power over everyone else. The promise is compartmentalized so Aiden believes he alone is chosen. Earlier development that treated Aiden's “promised reward” as a different final destination is superseded; the presentation may feel like earned inheritance or reward to Aiden, but its promised destination is the same singular throne.
 
-**Established implant-con layer (2026-09-23):** Aiden received a brain chip in a failed integration experiment that injured him. Samuel removed it with Konrad's knowledge, but Aiden still believes the implant remains and accounts for apparent functionality. Bounded story effects sustain that interpretation; Aiden's genuine older AI-soul capabilities, if any, must be distinguished from staged chip-enabled feats. He does not learn the truth merely because Konrad discloses it to Sylvan. The timing and manner of Aiden's own discovery remain open.
+**Established staged-superiority layer (revised 2026-11-15; replaces the rejected implant con):** Aiden's abilities are real, older-generation, and bounded, worked through the universe's built-in functionality and the human-built wireless technology, as he believes. Samuel claimed those abilities proved Aiden superior to Sylvan and chosen for the promised throne, with Konrad knowingly supporting that claim. Bounded story effects, controlled access, and selectively routed environmental results sustain the interpretation. Which effects Aiden independently produced, which Samuel staged or routed, and which he misread remain open. Aiden, after his break, is not merely Samuel's dupe on this layer: he helped maintain the claim he once only believed.
 
-**Established decades-long false proof:** The implant attempt failed decades before the endgame and left Aiden with decreased mental functioning, without predetermining his moral choices. Samuel claimed success, with Konrad knowingly supporting the deception. Aiden's role in a physically real but altered narrative on Sylvan's planet helped present him as superior to Sylvan; Samuel and Konrad arranged attacks on Sylvan throughout that apparent contest. Which effects Aiden independently produced, which he misread, and what he chose to do in each role remain open.
-
-**Established separate reality (2026-09-24):** Aiden receives his own controlled account of the failed mental-enhancement project, distinct from George's and Konrad's accounts. It can draw on succession, his group's original sacred vocabulary, and staged proof without establishing which individual signs or abilities he sees. Samuel's failed experiment produced an injured person, not a genuinely superior mind; the faction's demand for godlike superiority is an ideological claim.
+**Established separate reality (2026-09-24, mechanism revised 2026-11-15):** Aiden receives his own controlled account of the superiority project, distinct from George's and Konrad's accounts. It can draw on succession, his group's original sacred vocabulary, and staged proof without establishing which individual signs or abilities he sees. Samuel's project produced a collaborator presented as a superior mind, not a genuinely superior mind; the faction's demand for godlike superiority is an ideological claim.
 
 The supposed superweapon appears to confirm the promise only while Sylvan is severely disadvantaged. When Sylvan begins publicly exposing Samuel and the weapon fails, Aiden and George's separate stories enter the same evidentiary space. Samuel continues trying to aim them at each other by claiming the other man sabotaged the result or is stealing the promised position. Aiden's exact independent response remains open.
 
@@ -44,9 +48,9 @@ The attack becomes part of the evidence against Samuel. When Sylvan refuses the 
 - Aiden is not Samuel Jr.
 - Aiden is not part of Sylvan's hierarchy or Luminai bond.
 - “Younger leader” describes his generational position beneath the older contained leaders, not necessarily a young chronological age at the endgame.
-- Samuel's manipulation does not erase Aiden's ideology, agency, attacks, or accountability.
+- Samuel's manipulation does not erase Aiden's ideology, agency, attacks, or accountability. From his break onward, Aiden is a knowing collaborator, not only a manipulated mark; George remains the believing mark, and the two must not be flattened into one figure.
 - The story exposes Samuel's counterfeit authority without declaring Aiden's faith, or faith generally, fraudulent.
-- Aiden's final response after exposure remains unresolved and must not be inherited automatically from Konrad's decision.
+- Aiden's endgame sabotage of Sylvan and his exposure are author direction (2026-11-15). What he does *after* exposure remains unresolved and must not be inherited automatically from Konrad's decision.
 
 ## Open questions
 
@@ -54,7 +58,7 @@ The attack becomes part of the evidence against Samuel. When Sylvan refuses the 
 - What does the existing prophecy say, what promised culmination does Aiden expect, and why does he accept Samuel's identification of Sylvan?
 - Which trusted sacred channel does Aiden believe cannot have come from Samuel?
 - What is Aiden's first direct action against Sylvan?
-- Which part of the false autonomy does Aiden independently suspect?
-- What independent action does Aiden take after the duplicated promise and false weapon become undeniable?
+- Who authorized Aiden's placement in the process, and at what point did his reports to Konrad pass from exaggeration into knowing service to Samuel?
+- What independent action does Aiden take after the duplicated promise and false weapon become undeniable, and after his own sabotage is exposed?
 
-Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]].
+Sources: [[01 Sessions/Daily/2026-09-19 - Altered Reality Repetition Trap]], [[01 Sessions/Daily/2026-09-19 - Counterfeit Divine Authority]], [[01 Sessions/Daily/2026-09-21 - Resistance Identity and Dynamic Endgame Workshop]], [[01 Sessions/Daily/2026-11-15 - Aiden as Failed Predecessor and Century Lie]], [[01 Sessions/Daily/2026-11-15 - Chips Removed and the Aiden Mirror]].
