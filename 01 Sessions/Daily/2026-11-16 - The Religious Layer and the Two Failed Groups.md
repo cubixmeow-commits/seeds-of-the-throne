@@ -67,6 +67,10 @@ Research is advisory only; findings go to `04 Research/` and come back to the au
 
 **Ending perspective, author direction:** we go at it from the perspective that **Sylvan wins**. His section of humanity wins, with what they are representing, and they get to go into the process of becoming what humans are becoming. The win is not a throne seized but entry into the becoming process, the next stage the competition was for.
 
+## Development, same day (author, 12:35 PT)
+
+**The forged revelation as story space.** The structure creates the opportunity for a revelation/prophecy text of the failed groups: the George White and Aiden Fitzgerald groups' own scripture, in which they say they won, that they successfully completed the process. And behind the text, the eighty years themselves become explorable: the morals and ethics of criminals, and what they do to their groups across that span. The author names the range this opens: the darker sides of humanity, the best parts of people and the worst parts of people, inside groups living under a forged victory.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
