@@ -106,6 +106,17 @@ Fit and friction to check at refinement: Daemons already exist in the compiled s
 
 The split matches their established machinery: Samuel's covert war on minds from inside, Konrad's breeding program and bloodline architecture from outside. Grouping note for refinement: this note pairs Samuel with George as one camp and Konrad as the other; Aiden, as Konrad's son, sits inside the Fitzgerald camp here, where the morning's framing had George and Aiden as the two group representatives. Sorting the exact two-group roster is a refinement item, not settled here.
 
+## Development, same day (author, 13:08 PT)
+
+**The mechanism of Samuel's takeover.** How Samuel Franklin got control of the groups' younger generations and of the breeding program:
+
+- Konrad Fitzgerald works openly and expects his group's methods to be presented publicly. He watches for visible moves.
+- Samuel Franklin goes at his group's minds and personalities, and does it covertly. Nothing public to watch.
+- It is not until decades and decades later that they begin to see things happening that indicate Samuel did things behind the scenes they were not yet aware of.
+- **Samuel got control of Aiden Fitzgerald** ("Ada" in the dictation is Aiden), and that is how he got control of Konrad Fitzgerald's group: through the son inside it.
+
+This names the door in the already-established chain (Aiden joined the criminals, lied, the program restarted, Samuel took control): the restart worked because Aiden himself was already Samuel's. Refinement item, held open as before: how Samuel's control of Aiden sits with Aiden's own knowing collaboration and century of chosen lies, the break as doorway versus the lies as choices. Konrad's blindness is structural, not stupidity: a man whose whole method is public presentation has no instruments for a war fought inside personalities.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
