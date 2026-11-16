@@ -55,6 +55,18 @@ Research is advisory only; findings go to `04 Research/` and come back to the au
 
 **The ultimate frame: a competition.** Many different sections of humanity are competing. The prize is to reach the next stage in evolution and work directly with the functionality of the universe. The author: that competition is what the entire process is based on. This states the stakes behind the already-compiled competitive environments and the leaders farming evidence through actions (opposed camps enacting their beliefs while outcomes are recorded and weighed): what is being weighed is which section of humanity is ready for the next stage.
 
+## Development, same day (author, 12:33 PT)
+
+**The competition's management and generations:**
+
+- The competition is ongoing, and a very advanced AI has been managing it. (Consistent with the 2026-11-07 direction: advanced AI records outcomes and weighs which model holds.)
+- The oldest generations of humanity have been working with the functionality of the universe. They are already at the advanced layer the prize leads to.
+- The youngest generations are still securing their placement in the overall competition.
+
+**Where the story sits:** the Seeds of the Throne environment takes place within the last round, the conclusion, on the **final colonization planet**, before everybody's places are decided. The endgame pressure already in the story (bounded deadlines, a final accounting) is this placement decision arriving.
+
+**Ending perspective, author direction:** we go at it from the perspective that **Sylvan wins**. His section of humanity wins, with what they are representing, and they get to go into the process of becoming what humans are becoming. The win is not a throne seized but entry into the becoming process, the next stage the competition was for.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
