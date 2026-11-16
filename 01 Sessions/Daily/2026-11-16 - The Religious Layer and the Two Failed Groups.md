@@ -128,6 +128,12 @@ This names the door in the already-established chain (Aiden joined the criminals
 
 This sharpens the 12:56 PT moral-signature split rather than replacing it: Konrad's camp dominates people as property, publicly; Samuel's camp corrupts people into his own likeness, secretly, and keeps them with blackmail.
 
+## Development, same day (author, 15:47 PT, main chat)
+
+**In containment, the two groups are put up against each other.** Containment is a head-to-head contest between the leaders' groups, run so their strengths and weaknesses show against each other: Konrad's organized domination and public control on one side, Samuel's covert corruption and conversion on the other. (The author's comparison was to televised versus-format battle breakdowns; the story mechanism is the structured contest itself.) This is the evidence-farming structure at group scale: opposed camps given real room to enact their methods while the outcomes are recorded and weighed.
+
+**The contest's arc:** as the story progresses, Samuel Franklin's obsessive methods eventually find control. The covert method beats the public one inside containment, which is how the takeover recorded at 13:08 PT happens: Samuel's war inside minds and personalities gains control of Konrad's group through Aiden, while Konrad's strength, open domination, has no defense against an enemy who never presents publicly. The contest result and the takeover are the same event seen at two scales: the groups' contest is where Samuel's control is won.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). The two-group roster was settled by the author at 15:44 PT (the leaders' groups, above). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
