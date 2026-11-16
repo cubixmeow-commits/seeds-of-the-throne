@@ -34,6 +34,17 @@
 - What does the Bible-type text prophesy, and who wrote it: the oldest layer's genuine record, the failed groups' forged version, or both (a true text and a counterfeit)?
 - Do the failed groups' religions still exist inside Sylvan's world as living institutions Sylvan can encounter?
 
+## Development, same day (author, 12:26 PT)
+
+The process has a stated purpose now: **it grows a colonization planet that prepares people to integrate into a much more advanced layer, a layer that actually interfaces with the functionality of the universe.** The colonization process is a preparation pipeline, not just a test or a containment: a planet is grown so that its people can be integrated upward. The religious organizations are the long-horizon structure inside that preparation, the thing that carries a population toward integration across generations.
+
+Research and design direction set by the author:
+
+- Research the ancient Egyptian material (pharaohs and the familiar themes) and the familiar mechanics of Christianity, especially prophecy, and work out how to build the preparation process from them.
+- The cast structure stays: the two groups that failed (George White's and Aiden Fitzgerald's), and the real group that is actually doing it (Sylvan's).
+
+Research is advisory only; findings go to `04 Research/` and come back to the author before anything is promoted.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
