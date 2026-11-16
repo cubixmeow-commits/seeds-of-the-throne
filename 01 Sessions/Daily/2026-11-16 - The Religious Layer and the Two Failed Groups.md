@@ -97,6 +97,15 @@ Fit and friction to check at refinement: Daemons already exist in the compiled s
 
 **How the real leaders do it instead.** The real leaders create characters independent of themselves, based on what they have done, and those characters shape the colonization planets and give people an idea of what is going on in the overall process. The genuine religious layer's figures are teaching instruments made by leaders who do not enthrone themselves; the counterfeit versions are thrones for their founders. (Reading of a compressed dictation; the independence point, figures independent of their makers, is the load-bearing contrast.)
 
+## Development, same day (author, 12:56 PT)
+
+**The two groups' moral signatures, kept separate:**
+
+- **Samuel Franklin and George White's group:** perversion and jealousy, the most dangerous parts of the human mind, leaning towards mental illness. The corruption is of the inner life: desire, envy, obsession. (Refinement care, per the story's standing distinction: mental illness and moral evil are not the same thing in this story. The group's cultivated ethic is the perversion and jealousy; that is a moral signature, not a diagnosis of its members.)
+- **Konrad Fitzgerald's group:** more criminal in the outward sense: obsessed with bloodlines and control, enslaving people, criminal enterprise. The corruption is of systems: lineage, ownership, domination.
+
+The split matches their established machinery: Samuel's covert war on minds from inside, Konrad's breeding program and bloodline architecture from outside. Grouping note for refinement: this note pairs Samuel with George as one camp and Konrad as the other; Aiden, as Konrad's son, sits inside the Fitzgerald camp here, where the morning's framing had George and Aiden as the two group representatives. Sorting the exact two-group roster is a refinement item, not settled here.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
