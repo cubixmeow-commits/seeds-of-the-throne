@@ -91,6 +91,12 @@ Fit and friction to check at refinement: Daemons already exist in the compiled s
 
 **Sylvan's contrast.** Sylvan goes through it on his own, independent, and his parents were the leaders of the previous generation. So Sylvan is also a leader's child, but no one placed him and no one controls his run. The three sons sort the theme: two sons put in and controlled, who fail; one son of leaders who entered on his own, who wins. (Consistent with Sylvan's established voluntary entry; his parents' previous-generation leadership is new here.)
 
+## Development, same day (author, 12:47 PT)
+
+**The criminals' religious ambition.** Konrad Fitzgerald and Samuel Franklin are both trying to create their own structures inside the colonization plan and gain their own power base: their own evil versions of what a religion like Christianity is on Earth, a force that shapes a whole society. Their aim for this colonization planet is basically a criminal paradise. And the prize they are reaching for is sanction: if they could complete the process and be sanctioned by the larger older humanity and the universe-functionality process, they would gain large amounts of influence through their own religious organization. They want to lead theirs directly, themselves at the center.
+
+**How the real leaders do it instead.** The real leaders create characters independent of themselves, based on what they have done, and those characters shape the colonization planets and give people an idea of what is going on in the overall process. The genuine religious layer's figures are teaching instruments made by leaders who do not enthrone themselves; the counterfeit versions are thrones for their founders. (Reading of a compressed dictation; the independence point, figures independent of their makers, is the load-bearing contrast.)
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
