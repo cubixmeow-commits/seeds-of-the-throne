@@ -4,7 +4,7 @@
 
 ## The structure as given
 
-1. **A religious organization (or organizations) built on the process.** Religious organizations are based on the colonization process that participants go through. They have been building since the beginning of humanity. This is the oldest layer, and it is the layer that actually worked with **the personality of the universe**.
+1. **A religious organization (or organizations) built on the process.** Religious organizations are based on the colonization process that participants go through. They have been building since the beginning of humanity. This is the oldest layer, and it is the layer that actually worked with **the functionality of the universe**. (Correction, author 13:16 PT: functionality, not personality. The dictation's "personality" was a transcription error.)
 2. **Two criminals, two groups, two failed runs.** George White and Aiden Fitzgerald are criminals, each representing a criminal group, each group unique in its own way. Both tried to go through a similar process and failed. Then they lied, and went into containment.
 3. **Sylvan's run is the real one.** The process Sylvan is going through is the genuine process, and Sylvan's group is actually the real group going through it.
 4. **Both failures lied to their own groups.** Aiden Fitzgerald and George White both failed, then lied to their groups and said they succeeded.
@@ -28,7 +28,7 @@
 ## Open questions
 
 - Is the religious organization one body, or several (one per layer / per group)? Does Sylvan's group have its own, or is his group the process without the religion?
-- What is "the personality of the universe" as the oldest layer worked with it: a literal person-like counterpart, a character of the built-in functionality, or the oldest groups' way of describing the substrate? (Mechanisms stay open per the 2026-11-04 constraint; this note invents none.)
+- How directly did the oldest layer work with the functionality of the universe: full working access the later layers are trying to regain, or a partial early form? (Mechanisms stay open per the 2026-11-04 constraint; this note invents none.)
 - Are the eighty years of manipulation the same period as Samuel's breeding campaign, inside it, or before it?
 - Where does Konrad's program sit if the scandal's root is the two groups fighting: his restart as one front of that fight?
 - What does the Bible-type text prophesy, and who wrote it: the oldest layer's genuine record, the failed groups' forged version, or both (a true text and a counterfeit)?
