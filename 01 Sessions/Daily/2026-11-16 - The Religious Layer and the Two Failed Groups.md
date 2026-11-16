@@ -45,6 +45,16 @@ Research and design direction set by the author:
 
 Research is advisory only; findings go to `04 Research/` and come back to the author before anything is promoted.
 
+## Development, same day (author, 12:29 PT)
+
+**Method rule, stated plainly:** the actual Christianity material does not go into the story. Christianity and ancient Egypt are the comparative models, the familiar shapes readers already know, used to design how the same things work inside a new environment. Inspiration and comparison only; the story's versions are its own.
+
+**The comparative example the author gave:** read through the story's frame, a founder figure of a layer's religion maps to a leader going through the process: they grow their Luminai, their soul, and they have to deal with contained criminals who hold an advantage. The author notes this already fits the existing story well. (Kept here as development context in the author's comparative terms; per vault rules, only the reduced mechanism, a revered founder as a process participant under criminal advantage, could ever enter compiled notes, never a direct identity coding.)
+
+**The scripture's basis:** the Bible-type material is based on things that happened on a colonization planet: the planet had synthetics, and great wars, and the text grew out of those events.
+
+**The ultimate frame: a competition.** Many different sections of humanity are competing. The prize is to reach the next stage in evolution and work directly with the functionality of the universe. The author: that competition is what the entire process is based on. This states the stakes behind the already-compiled competitive environments and the leaders farming evidence through actions (opposed camps enacting their beliefs while outcomes are recorded and weighed): what is being weighed is which section of humanity is ready for the next stage.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
