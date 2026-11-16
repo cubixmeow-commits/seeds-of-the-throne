@@ -85,6 +85,12 @@ Research is advisory only; findings go to `04 Research/` and come back to the au
 
 Fit and friction to check at refinement: Daemons already exist in the compiled story (a Daemon needs an active participant; Samuel's is deleted when his allocation dies). This proposal gives them an origin and named builders. For Konrad it extends his established pattern rather than breaking it: the man who built the breeding program and later turns to shut it down and expose Samuel would also carry Daemon-building in what he has to answer for. Whether George builds them knowingly, as Samuel's instrument, or both, is open.
 
+## Development, same day (author, 12:45 PT)
+
+**The fathers and the sons.** Samuel Franklin and Konrad Fitzgerald are from the generation before this colonization, and they put their sons into it (Samuel: George; Konrad: Aiden). They try to control their sons going through the process, and that control is one of the reasons why they lose. A run cannot be puppeteered from outside; the controlled sons are the failed runs.
+
+**Sylvan's contrast.** Sylvan goes through it on his own, independent, and his parents were the leaders of the previous generation. So Sylvan is also a leader's child, but no one placed him and no one controls his run. The three sons sort the theme: two sons put in and controlled, who fail; one son of leaders who entered on his own, who wins. (Consistent with Sylvan's established voluntary entry; his parents' previous-generation leadership is new here.)
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
