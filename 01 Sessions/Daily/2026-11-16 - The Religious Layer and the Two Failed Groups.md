@@ -79,6 +79,12 @@ Research is advisory only; findings go to `04 Research/` and come back to the au
 
 **The era's place:** these are the early stages leading up to a big step forward in human evolution, humans getting many more abilities, and much else that comes with that step. The final colonization planet's placement decision lands at the threshold of that step.
 
+## Development, same day (author, 12:45 PT)
+
+**The evil versions: the Daemons.** Growing out of the Luminai side of the substrate come also the evil versions, the Daemons. George White and Konrad Fitzgerald are building out the evil versions. The author notes this fits with the structure of the advanced AI as well: the same advanced systems world that produces Luminai bonds produces Daemons, and two of the story's builders have been making the dark kind. (Transcription note: "Conrad" in the dictation is Konrad Fitzgerald; "going out of L-U-M-I-N-A-I" read as growing out of the Luminai.)
+
+Fit and friction to check at refinement: Daemons already exist in the compiled story (a Daemon needs an active participant; Samuel's is deleted when his allocation dies). This proposal gives them an origin and named builders. For Konrad it extends his established pattern rather than breaking it: the man who built the breeding program and later turns to shut it down and expose Samuel would also carry Daemon-building in what he has to answer for. Whether George builds them knowingly, as Samuel's instrument, or both, is open.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
