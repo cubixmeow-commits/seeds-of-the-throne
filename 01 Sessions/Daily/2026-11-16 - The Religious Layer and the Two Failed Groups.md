@@ -71,6 +71,14 @@ Research is advisory only; findings go to `04 Research/` and come back to the au
 
 **The forged revelation as story space.** The structure creates the opportunity for a revelation/prophecy text of the failed groups: the George White and Aiden Fitzgerald groups' own scripture, in which they say they won, that they successfully completed the process. And behind the text, the eighty years themselves become explorable: the morals and ethics of criminals, and what they do to their groups across that span. The author names the range this opens: the darker sides of humanity, the best parts of people and the worst parts of people, inside groups living under a forged victory.
 
+## Development, same day (author, 12:39 PT)
+
+**Where real power comes from.** The processes are where the actual leaders get their power from. Legitimate power is process-grown (the Luminai developed through the run), which sets the story's three kinds of authority side by side: power grown through the process, power staged (Samuel's method), and power merely proclaimed (the failed groups' forged victory).
+
+**Management and integration.** The process is managed by the advanced systems that manage the lower sections of humanity, and it gives those sections integration with the oldest layers of humanity and with some of the functionality of the universe.
+
+**The era's place:** these are the early stages leading up to a big step forward in human evolution, humans getting many more abilities, and much else that comes with that step. The final colonization planet's placement decision lands at the threshold of that step.
+
 ## Next step when the author is ready
 
 Author decision on the George tension first (revise the mark, or layer liar-under-the-larger-lie). Then a compiled note for the religious layer, cross-references to Simulation Belief and the Layered Reality and The Process Mirror, and a QA entry recording whichever way the breeding-scandal origin is settled.
