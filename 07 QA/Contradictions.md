@@ -1,8 +1,14 @@
 ---
 type: qa
 status: active
-updated: 2026-09-28
+updated: 2026-11-19
 ---
+
+## November 19 mental illness framing — refined by author decision
+
+| ID | Conflict | Resolution |
+| --- | --- | --- |
+| C-043 | Compiled notes stated absolutely that mental illness is never the cause or engine of villainy, while the author's account of Samuel Franklin makes his sexual perversion and obsession, a type of mental illness, the very thing driving his villainy. | **Resolved by refinement (author, 2026-11-19):** a specific person's condition can be the engine of his own villainy, as Samuel's is; what remains forbidden is the absolute, treating a condition as a verdict on a category of people. Not all people with sexual perversion and obsession are villains, and that distinction is the point of the framing. Diagnosis is neither automatic guilt nor automatic excuse; Samuel's verdict rests on his choices and conduct. Compiled notes updated the same day (CURRENT, Core Premise, Story Functionality and Narrative Containment, Book One Outcome Presentation and Reverse Discovery) and the decision recorded in [[01 Sessions/Daily/2026-11-19 - Mental Illness and Villainy, the Refined Rule]]. |
 
 ## November 15 chip removal — resolved by author decision
 
