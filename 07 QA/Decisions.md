@@ -4,6 +4,11 @@ status: active
 updated: 2026-09-28
 ---
 
+## 2026-11-20 — Aiden the gatekeeper; the same-process framing revised (author decision)
+
+- **Superseded:** the half of the 2026-11-15 mirror direction that put Aiden through the same colonization process as Sylvan, a generation earlier, as its worst-case failure.
+- **Established replacement (working):** Aiden never ran the process. His charge was to shut Samuel Franklin and George White out, and he let them in. Samuel Franklin controls George White; George was the face and instrument Samuel used to manipulate Aiden, never his equal. The way in was seduction: drugs, perversions, and lies, so that once Aiden took what was offered he belonged to the secret and the secret belonged to Samuel; the author chose the mechanism deliberately, a fall built from ordinary real-life dangers. The century lie, the breeding program restarted on it, Samuel's control taken through it, Aiden's endgame sabotage and exposure, and Samuel blaming Aiden and George and reaching for Samuel Jr. all stand unchanged. The mirror survives as a contrast of outcomes, not ordeals. See [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]] and QA C-044.
+
 ## 2026-11-15 — Chips removed; Aiden mirror installed (author decision)
 
 - **Rejected / superseded:** The entire implant con. There are no brain chips, implants, failed surgical integration experiments, chip removals, chip injuries, or decreased mental functioning from hardware for George White or Aiden Fitzgerald, and no recruitment promise built on implants. All September 23/24 chip material in compiled notes is replaced; its session notes and QA assessments remain as development history only.

@@ -10,6 +10,12 @@ updated: 2026-11-19
 | --- | --- | --- |
 | C-043 | Compiled notes stated absolutely that mental illness is never the cause or engine of villainy, while the author's account of Samuel Franklin makes his sexual perversion and obsession, a type of mental illness, the very thing driving his villainy. | **Resolved by refinement (author, 2026-11-19):** a specific person's condition can be the engine of his own villainy, as Samuel's is; what remains forbidden is the absolute, treating a condition as a verdict on a category of people. Not all people with sexual perversion and obsession are villains, and that distinction is the point of the framing. Diagnosis is neither automatic guilt nor automatic excuse; Samuel's verdict rests on his choices and conduct. Compiled notes updated the same day (CURRENT, Core Premise, Story Functionality and Narrative Containment, Book One Outcome Presentation and Reverse Discovery) and the decision recorded in [[01 Sessions/Daily/2026-11-19 - Mental Illness and Villainy, the Refined Rule]]. |
 
+## November 20 Aiden framing — resolved by author decision
+
+| ID | Conflict | Resolution |
+| --- | --- | --- |
+| C-044 | Compiled notes installed 2026-11-15 state that Aiden ran the same colonization process as Sylvan a generation earlier and failed it, while the author's current direction (2026-11-20) gives Aiden a different charge entirely: he was posted to shut Samuel Franklin and George White out, and let them in. The earlier public material (live site passages, the 2026-11-18 Facebook Process Mirror post) also carries the same-ordeal framing, and the two kings were at risk of reading as equals. | **Resolved by revision (author, 2026-11-20):** Aiden did not run the process; the gatekeeper account governs. Samuel controls George White, and George was the instrument Samuel used to manipulate Aiden. The way in was seduction: drugs, perversions, and lies, compromise first, ownership after. The century lie, the breeding program restart, Samuel's takeover, and the endgame exposure stand. Compiled notes updated the same day (Process Mirror, Aiden Fitzgerald, The Inheritor, CURRENT, Decisions) and the decision recorded in [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]]. The live site's three same-ordeal passages are flagged for revision on the author's word; the published Facebook post stands as published. |
+
 ## November 15 chip removal — resolved by author decision
 
 | ID | Conflict | Resolution |

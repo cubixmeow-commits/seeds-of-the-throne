@@ -4,6 +4,10 @@ status: active
 updated: 2026-09-28
 ---
 
+## Controlling direction — November 20: Aiden the gatekeeper (revises November 15 in part)
+
+**Aiden did not go through the same process as Sylvan (author decision, 2026-11-20).** His charge was to shut Samuel Franklin and George White out, and he let them in. Samuel controls George White outright; George was the face and instrument Samuel used to manipulate Aiden. The way in was seduction: drugs, perversions, and lies, compromise first and ownership after, a fall built from ordinary real-life dangers. The century lie, the breeding program restarted on it, Samuel's takeover through it, and Aiden's endgame exposure all stand. The mirror is now a contrast of outcomes, not ordeals. See [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]] and QA C-044. The live site still carries the superseded same-ordeal line in three passages, flagged for revision.
+
 ## Controlling direction — November 15: chips removed, Aiden mirror
 
 **The chips are removed entirely (author decision, 2026-11-15).** There are no brain chips, implants, failed surgical integration experiments, chip removals, or chip injuries anywhere in the story. The September 23/24 implant con is rejected and superseded in all compiled notes; its session notes remain as development history only. George White and Aiden Fitzgerald believe their abilities rest entirely on the built-in functionality of the universe and the human-built wireless technology, worked through older-generation extended minds, like Sylvan's Luminai — and about the source, they are broadly right. Samuel's fraud is interpretive and staged: he claims their bounded real abilities, dressed with staged effects, controlled access, and supplied interpretation, prove a superior chosen generation and the promised singular throne. Konrad knowingly backed that superiority claim; his endgame disclosure to Sylvan is the staging and access method, not a removal. Konrad's complicity and Samuel's separate deception of Konrad both stand, with the object changed.

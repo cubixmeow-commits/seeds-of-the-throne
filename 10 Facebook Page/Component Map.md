@@ -41,15 +41,15 @@ Audience hook: The simulation idea is one of the most popular ideas in the cultu
 
 What it is: The ancient, sacred colonization ordeal at the center of the story's deep structure. A participant is placed against the most dangerous contained criminals at a serious disadvantage and must survive for decades while forming a resistance. It is the test the colonization exists to run.
 Vault status: working (Process Mirror systems note, 2026-11-15; shared process and rotating roles note, 2026-09-24).
-Public-safe today: the Process Mirror story post of 2026-11-18 put the ordeal itself on the page in public form: two men, the same ordeal, a century apart. The full process architecture is not public.
+Public-safe today: the Process Mirror story post of 2026-11-18 put the ordeal itself on the page in public form: two men, the same ordeal, a century apart. That post's framing of Aiden was superseded on 2026-11-20: the ordeal is Sylvan's, and Aiden's charge was exclusion, the gate he was posted to hold. The full process architecture is not public.
 Audience hook: An ordeal that takes decades and cannot be faked. It is a hero's test with the glamour stripped off: survive, resist, and do not become the thing you were sent against.
 
 ## 5. The Process Mirror: Sylvan and Aiden
 
-What it is: Sylvan and Aiden ran the same ordeal. Sylvan is the best-case success. Aiden, sent in about a century earlier, is the worst-case failure: he broke a few years in, secretly joined the contained criminals, and lied to Konrad for almost a century that he had resisted and won. Sylvan's run exposes him in the end.
-Vault status: working (author direction 2026-11-15, compiled same day). Aiden's exact final response remains unresolved.
-Public-safe today: the mirror is public. It ran as the launch-night story post on 2026-11-18 and the Aiden exposure piece ran on X on 2026-11-15. The Atlas characters page carries the public character frame.
-Audience hook: Two men, one test, opposite outcomes. The failed one is not a stranger or a monster; he is the earlier version of the hero, which makes the hero's success feel earned and fragile at once.
+What it is: the contrast of outcomes between Sylvan and Aiden. Sylvan runs the process and refuses the bargain. Aiden never ran it: about a century earlier his charge was to shut Samuel Franklin and George White out, and Samuel, working through George, seduced him with drugs, perversions, and lies until he let them in. He then lied to Konrad for almost a century that he had resisted and won. Sylvan's run exposes him in the end.
+Vault status: working (author direction 2026-11-15, revised by author decision 2026-11-20; see QA C-044). Aiden's exact final response remains unresolved.
+Public-safe today: the contrast is public, but the framing changed on 2026-11-20. The launch-night story post of 2026-11-18 ran under the superseded same-ordeal framing and stands as published; the Aiden exposure piece ran on X on 2026-11-15. Future pieces use the gatekeeper framing: one gate, one man who was supposed to keep it shut. The Atlas characters page carries the public character frame.
+Audience hook: Two men, opposite outcomes. The failed one is not a stranger or a monster; he is a man who was handed pleasures with hooks in them and opened a gate he was trusted to hold, which makes the hero's refusal feel earned and fragile at once.
 
 ## 6. Sylvan
 
@@ -60,7 +60,7 @@ Audience hook: A hero whose power is a method, not a gift: check the record, ref
 
 ## 7. Aiden Fitzgerald
 
-What it is: Konrad's son, a younger public leader, and Sylvan's failed predecessor in the Process. He broke after the Great War, joined the contained criminals in secret, and maintained the lie for almost a century, becoming the thing his father obsessively hunts. In the endgame he is caught sabotaging Sylvan and covering the breeding scandal.
+What it is: Konrad's son, a younger public leader, and the gatekeeper who failed the story's other charge. Aiden never ran the Process: he was posted to shut Samuel Franklin and George White out, was seduced through George with drugs, perversions, and lies, and let them in. He maintained the lie for almost a century, becoming the thing his father obsessively hunts. In the endgame he is caught sabotaging Sylvan and covering the breeding scandal.
 Vault status: working (character note updated 2026-11-15); identity and parentage established. His final response is explicitly unresolved.
 Public-safe today: the Aiden exposure piece (X, 2026-11-15), the Process Mirror post (Facebook, 2026-11-18), and the Atlas characters page.
 Audience hook: A man who has been lying about the most important thing in his life for a hundred years, and whose lie rebuilt the world around him. Tragedy and villainy in one person.

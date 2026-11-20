@@ -7,7 +7,13 @@ themes: colonization process, mirror structure, Sylvan, Aiden Fitzgerald, resist
 
 # The Process Mirror — Sylvan and Aiden
 
-## November 15 author direction — working
+## November 20 author revision — Aiden is the gatekeeper, not a second run (working)
+
+Author decision, 2026-11-20: **Aiden did not go through the same process as Sylvan.** The shared-ordeal framing in the November 15 direction below is superseded. Aiden's charge was narrower: he was posted to **shut Samuel Franklin and George White out**, and he let them in. Samuel controls George White outright; George was the face and instrument Samuel used to work on Aiden, never his equal. The way in was seduction: **drugs, perversions, and lies**, pleasures with hooks in them, so that once Aiden took what was offered he belonged to the secret, and the secret belonged to Samuel. The author chose this deliberately: a fall built from ordinary real-life dangers, not an abstract ordeal failure.
+
+What stands from November 15: the century lie to Konrad, the breeding program restarted on that lie, Samuel's control taken through it, Aiden's endgame sabotage and exposure, and Samuel blaming Aiden and George and reaching for Samuel Jr. The mirror survives as a contrast of outcomes, not of ordeals: Sylvan runs the process and refuses the bargain; Aiden held one gate and opened it. See [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]] and QA C-044.
+
+## November 15 author direction — working (shared-ordeal framing superseded 2026-11-20)
 
 Sylvan and Aiden run the **same colonization process** a generation apart, on the same technological and natural substrate, against contained criminals who hold a serious structural advantage. Sylvan is the process's **best-case success**. Aiden is its **worst-case failure**. The mirror is the comparison the process itself exists to produce: evidence through actions, from two participants given a recognizably similar ordeal.
 

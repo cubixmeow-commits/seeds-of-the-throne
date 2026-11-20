@@ -9,7 +9,7 @@ updated: 2026-09-10
 
 ## November 15 process mirror — author direction (working)
 
-Sylvan is the colonization process's **best-case success**, mirrored against Aiden Fitzgerald's worst-case failure in the same process a generation earlier: same substrate (the universe's built-in functionality and the human-built wireless technology, no implants in either run), same structural advantage held by the contained criminals, same decades-long demand to survive and form a resistance. Sylvan entered voluntarily, developed his Luminai toward provenance and correction, built real alliances, and refused Samuel's bargain. Aiden was sent in by his father, broke, joined the criminals, and faked the resistance Sylvan actually builds. See [[02 Story/Systems/The Process Mirror - Sylvan and Aiden]].
+Sylvan is the colonization process's **best-case success**, set against Aiden Fitzgerald's failure a generation earlier. The contrast is of outcomes, not ordeals (author revision, 2026-11-20): Aiden never ran the process. His charge was to shut Samuel Franklin and George White out, and Samuel, working through George, seduced him with drugs, perversions, and lies until he let them in; he then faked the victory Sylvan's run actually earns. Sylvan entered voluntarily, developed his Luminai toward provenance and correction, built real alliances, and refused Samuel's bargain. See [[02 Story/Systems/The Process Mirror - Sylvan and Aiden]] and [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]].
 
 ## September 5 integration boundary
 
