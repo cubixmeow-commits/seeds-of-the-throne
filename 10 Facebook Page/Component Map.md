@@ -77,7 +77,7 @@ Audience hook: A golden heir who slowly discovers that his whole life was stage-
 What it is: A contained criminal leader, about 220 years old, who co-leads the criminal project with Konrad behind a staged public rivalry. His obsession is complete control of every participant's mind and actions, exercised so quietly that the controlled believe their thoughts are their own. His methods are supplied interpretation, staged effects, controlled access, and separate false accounts maintained around each person he uses.
 Vault status: working (character note; obsession recorded as author direction 2026-11-07). The ranking of the obsession against his other endgame objectives is the author's to confirm.
 Public-safe today: the pinned post names his obsession and his breeding-program hijack in public words. The Atlas faction and characters pages carry the public frame. Method detail stays at mechanism level everywhere.
-Audience hook: A villain who never gives orders. He arranges what you see, what it seems to mean, and what you conclude, then lets you call the conclusion yours. That is a frighteningly modern kind of power, and readers recognize it.
+Audience hook: A villain whose orders never arrive in his own voice. He gives a ridiculous amount of orders, through lies and manipulation, impersonating others, so the person obeying hears a friend, a leader, or his own idea, and nothing traces back to Samuel. An order you cannot trace is an order you cannot disobey. That is a frighteningly modern kind of power, and readers recognize it. (Hook corrected by the author, 2026-11-21; the earlier "never gives orders" framing was wrong.)
 
 ## 10. Konrad Fitzgerald
 
