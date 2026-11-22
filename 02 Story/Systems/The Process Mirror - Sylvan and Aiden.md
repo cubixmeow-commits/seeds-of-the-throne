@@ -1,7 +1,7 @@
 ---
 type: story-system
 status: working
-updated: 2026-11-15
+updated: 2026-11-21
 themes: colonization process, mirror structure, Sylvan, Aiden Fitzgerald, resistance, worst case, best case, wireless technology, universe functionality
 ---
 
@@ -9,30 +9,31 @@ themes: colonization process, mirror structure, Sylvan, Aiden Fitzgerald, resist
 
 ## November 20 author revision — Aiden is the gatekeeper, not a second run (working)
 
-Author decision, 2026-11-20: **Aiden did not go through the same process as Sylvan.** The shared-ordeal framing in the November 15 direction below is superseded. Aiden's charge was narrower: he was posted to **shut Samuel Franklin and George White out**, and he let them in. Samuel controls George White outright; George was the face and instrument Samuel used to work on Aiden, never his equal. The way in was seduction: **drugs, perversions, and lies**, pleasures with hooks in them, so that once Aiden took what was offered he belonged to the secret, and the secret belonged to Samuel. The author chose this deliberately: a fall built from ordinary real-life dangers, not an abstract ordeal failure.
+Author decision, 2026-11-20: **Aiden did not go through the same process as Sylvan.** The shared-ordeal framing of the November 15 direction is superseded; its stale body text was replaced on 2026-11-21 (see the correction line below). Aiden's charge was narrower: he was posted to **shut Samuel Franklin and George White out**, and he let them in. Samuel controls George White outright; George was the face and instrument Samuel used to work on Aiden, never his equal. The way in was seduction: **drugs, perversions, and lies**, pleasures with hooks in them, so that once Aiden took what was offered he belonged to the secret, and the secret belonged to Samuel. The author chose this deliberately: a fall built from ordinary real-life dangers, not an abstract ordeal failure.
 
 What stands from November 15: the century lie to Konrad, the breeding program restarted on that lie, Samuel's control taken through it, Aiden's endgame sabotage and exposure, and Samuel blaming Aiden and George and reaching for Samuel Jr. The mirror survives as a contrast of outcomes, not of ordeals: Sylvan runs the process and refuses the bargain; Aiden held one gate and opened it. See [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]] and QA C-044.
 
-## November 15 author direction — working (shared-ordeal framing superseded 2026-11-20)
+## The mirror as it now stands — contrast of outcomes (corrected 2026-11-21)
 
-Sylvan and Aiden run the **same colonization process** a generation apart, on the same technological and natural substrate, against contained criminals who hold a serious structural advantage. Sylvan is the process's **best-case success**. Aiden is its **worst-case failure**. The mirror is the comparison the process itself exists to produce: evidence through actions, from two participants given a recognizably similar ordeal.
+**Correction, 2026-11-21:** the November 15 shared-ordeal account that stood in this section (Aiden running the same colonization process as Sylvan, a generation earlier, as its worst-case failure) has been replaced with the gatekeeper account below, per QA C-044 and [[01 Sessions/Daily/2026-11-20 - Aiden the Gatekeeper - Seduction and the Letting In]]. The November 15 session notes ([[01 Sessions/Daily/2026-11-15 - Chips Removed and the Aiden Mirror]] and [[01 Sessions/Daily/2026-11-15 - Aiden as Failed Predecessor and Century Lie]]) remain as development history only.
 
-See [[01 Sessions/Daily/2026-11-15 - Chips Removed and the Aiden Mirror]] and [[01 Sessions/Daily/2026-11-15 - Aiden as Failed Predecessor and Century Lie]].
+Sylvan runs the colonization process. Aiden did not. Konrad put Aiden in about a century before Sylvan with a narrower charge: **shut Samuel Franklin and George White out**. Aiden let them in. The mirror is the contrast between those two outcomes: the man who ran the process and refused the bargain, and the man who held one gate and opened it.
 
-## The shared ordeal
+## The gate and the way in
 
-- The process is ancient and treated as sacred: a participant is placed where the most dangerous contained criminals, Samuel Franklin and George White's network in Sylvan's run, Samuel and Konrad's generation in Aiden's, begin with the advantage of experience, access, and local control.
-- The participant's task is not a single test. It is to struggle and survive for **decades**, build a real resistance to the contained criminals, and come out with judgment and agency intact.
-- Abilities in both runs rest on the same sources: the built-in functionality of the universe and the human-built wireless technology, worked through an extended mind, a Luminai in Sylvan's new generation, an older AI soul / Daemon in Aiden's. **There are no implants or chips in either run.** See [[02 Story/Systems/Human–Luminai Pairing and Bonding]] and [[02 Story/Components/Learned Wireless Cognitive Channel]].
-- The criminals' advantage is structural in both runs: they were there first, they understand the local environment, and they can supply the interpretation through which the participant reads his own experience. See [[02 Story/Systems/Evidence Farming and Participant Unawareness]].
+- Aiden's post was a gatekeeping charge inside the containment structure, not a run of the process Sylvan later undergoes. He was placed by his father Konrad, as an instrument of the Fitzgerald dominance project; whether Konrad acted alone or abused a legitimate placement form remains open.
+- Samuel controls George White outright. George was the face and instrument Samuel used to work on Aiden, never his equal and never a fellow participant in any shared ordeal.
+- The way in was seduction: **drugs, perversions, and lies**, pleasures with hooks in them. A fall built from ordinary real-life dangers, not an abstract ordeal failure.
+- Aiden's abilities rest on the same sources as everyone else's: the built-in functionality of the universe and the human-built wireless technology, worked through an older-generation extended mind (an older AI soul / Daemon). **There are no implants or chips.** See [[02 Story/Systems/Human–Luminai Pairing and Bonding]] and [[02 Story/Components/Learned Wireless Cognitive Channel]].
+- Samuel's advantage over Aiden was not a shared arena. It was access: through George, Samuel could supply the interpretation through which Aiden read his own experience. See [[02 Story/Systems/Evidence Farming and Participant Unawareness]].
 
-## Where the runs diverge
+## Where the two men diverge
 
-**Entry.** Sylvan participates voluntarily and can leave the whole process. Aiden was put into his run by his father Konrad, as an instrument of the Fitzgerald dominance project. One participant chose the ordeal; the other was spent on it.
+**Entry.** Sylvan participates voluntarily and can leave the whole process. Aiden was posted by Konrad to hold a gate. One man chose his ordeal; the other was spent on a post.
 
 **Formation.** Sylvan's Luminai develops toward provenance, correction, and contact with reality; Sylvan learns to separate observation from inference and to accept correction. Aiden's extended mind formed inside a hierarchy that punishes correction, and he learned to read his own abilities as proof of hereditary superiority and prophetic chosenness.
 
-**The break.** Sylvan, under sustained attack, preserves resources, builds alliances, and works with an independent Resistance he does not own. Aiden broke a few years into his run, after the Great War: he joined the contained criminals, entered their group, and survived by becoming theirs.
+**The break.** Sylvan, under sustained attack, preserves resources, builds alliances, and works with an independent Resistance he does not own. Aiden broke a few years in after the Great War: he secretly joined the contained criminals, entered their group, and survived by becoming theirs.
 
 **The report.** Aiden told Konrad he had resisted and won them their own group. That false report is the seed of Konrad's false autonomy and of the breeding program's restart: Konrad reactivated the program on the strength of his son's lie, and Samuel took control of it through the access that followed. Aiden then lied to his father for almost a century, becoming the thing Konrad is obsessively trying to destroy: the hidden hand supplying his order's interpretations and corrupting its bloodline.
 
@@ -40,22 +41,22 @@ See [[01 Sessions/Daily/2026-11-15 - Chips Removed and the Aiden Mirror]] and [[
 
 ## George's position in the mirror
 
-George White is not a third run of the ordeal. He is the believing mark inside Sylvan's run: Samuel built the false world around his own son, promised him the same singular throne he promised Aiden, and aimed him at Sylvan. George was deceived. Aiden, after his break, deceived. The contrast keeps both men's accountability distinct and prevents the mirror from flattening them into one figure.
+George White is not a run of any ordeal and not a second gatekeeper. He is Samuel's instrument and believing mark: Samuel controls him outright, used him as the face that worked on Aiden, built the false world around his own son, promised him the same singular throne he promised Aiden, and aimed him at Sylvan. George was deceived. Aiden, after his break, deceived. The contrast keeps both men's accountability distinct and prevents the mirror from flattening them into one figure.
 
 ## What the mirror proves in-story
 
-The process does not fail when a participant fails. Aiden's run is data the same way Sylvan's is: the leaders can compare two enactments of opposed models under similar pressure and weigh which model holds. Aiden's failure also contaminates and then, on exposure, authenticates the record: his century of false reports, compared against the sealed record, is itself evidence of Samuel's method, because Samuel built his capture of Konrad on top of Aiden's first lie.
+The process does not fail when a man fails. Sylvan's completed run and Aiden's opened gate are both data: the leaders can weigh what the process produces against what one compromised gate let in. Aiden's fall also contaminates and then, on exposure, authenticates the record: his century of false reports, compared against the sealed record, is itself evidence of Samuel's method, because Samuel built his capture of Konrad on top of Aiden's first lie.
 
 ## Boundaries
 
-- The mirror does not make Aiden Sylvan's opposite in worth. It compares choices, formation, and conduct under a shared ordeal.
+- The mirror does not make Aiden Sylvan's opposite in worth. It compares choices, formation, and conduct across two different posts, not two runs of one ordeal.
 - Aiden's break explains his doorway into collaboration; his century of lies and his endgame sabotage remain his choices.
-- Sylvan's success is earned and bounded, not effortless superiority: he holds decisive control in the final years only after decades of the same disadvantage Aiden faced.
-- Exact calendar overlap between the two runs, and the mechanism details of the shared substrate, remain unresolved.
+- Sylvan's success is earned and bounded, not effortless superiority: he holds decisive control in the final years only after decades of disadvantage inside the process.
+- The mechanism details of the shared substrate remain unresolved.
 
 ## Open questions
 
-- Who authorized Aiden's placement in the process, the legitimate leaders, Konrad alone, or Konrad abusing a legitimate form?
-- Did Samuel engineer Aiden's break, exploit it after the fact, or both?
+- Did Konrad place Aiden alone, or by abusing a legitimate placement form?
+- Did Samuel engineer Aiden's break from the start, exploit it after the fact, or both?
 - At what point did Aiden's reports to Konrad pass from self-protective exaggeration into knowing service to Samuel?
 - Does Sylvan learn the full Aiden parallel before, during, or after his own exposure of Samuel, and what does it change in how he treats Aiden at the end?

@@ -206,3 +206,14 @@ In the order the gates will need them. FP-01 first, per the Dynamic Workshop.
 - Open items listed: 36 (section 3).
 - Contradictions and tensions cited, none resolved: 12 (section 4), of which 2 are surface issues only.
 - Decisions routed to the author: 20 (section 6).
+
+---
+
+## Cleanup (2026-11-21)
+
+On the author's approval (2026-11-21 night), the stale superseded passages named in section 4, items 2, 3 and 5 were corrected in the compiled files. Section 4 above stands as the record of what was found; this addendum records what was replaced. Session notes and QA history were not touched.
+
+- **`02 Story/Systems/The Process Mirror - Sylvan and Aiden.md` (section 4, item 2):** the retained November 15 body (the "same colonization process a generation apart" framing, "The shared ordeal" section, "Where the runs diverge," and the shared-ordeal wording in the mirror-proves, boundaries and open-questions sections) was replaced with the gatekeeper account per C-044: Aiden posted about a century before Sylvan to shut Samuel and George out, the seduction through George (drugs, perversions, lies), the break, the century lie, the exposure, and the mirror as a contrast of outcomes. A dated correction line (2026-11-21) at the top of the revised section names what was replaced and points to C-044 and the 2026-11-20 session note. Material that stands from November 15 (no chips, ability sources, the century lie, the restart, the endgame, George deceived / Aiden deceives) was preserved in corrected framing. The note's `updated` field was set to 2026-11-21.
+- **`03 Context/CURRENT.md` (section 4, item 3):** the November 15 section's Aiden paragraph ("the same ancient, sacred colonization process, run a generation apart… worst-case failure") was replaced with the C-044 gatekeeper account, with a dated correction marker (corrected 2026-11-21 per C-044), and the section heading was amended to flag the supersession. The November 15 chips paragraph is unchanged; the "Structure completion phase" section appended earlier on 2026-11-21 was not touched.
+- **`03 Context/RULES.md` (section 4, item 5):** the absolute line "Villainy is grounded in choice, doctrine, ambition, and conduct—never identity or mental illness" was replaced with the refined C-043 rule (a specific person's condition can be an engine of his own villainy, Samuel's perversion and obsession named; never a category claim; diagnosis neither automatic guilt nor automatic excuse; verdict rests on choices and conduct), with a dated note that it supersedes the earlier absolute line per C-043 (2026-11-19).
+- **`02 Story/Storyline.md` and `02 Story/Timeline/Timeline.md` (section 4, item 4):** checked line by line for Aiden/process mentions. No unmarked same-ordeal statement stands in either file, and no Aiden passage required correction. Their legacy layers concern war placement and camp topology, are explicitly marked superseded/legacy in place, and were left as marked.

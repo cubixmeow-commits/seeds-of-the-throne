@@ -34,7 +34,7 @@ updated: 2026-08-24
 - Real people and real history may appear only as temporary development analogies in a session note.
 - Analogies are stripped to mechanism before anything enters compiled story data.
 - Final story notes contain no real person, real historical figure, real nation, real firm, slur-based group, or unmistakable private-person analogue.
-- Villainy is grounded in choice, doctrine, ambition, and conduct—never identity or mental illness.
+- Villainy is grounded in choice, doctrine, ambition, and conduct. A specific person's condition can be an engine of his own villainy — Samuel Franklin's sexual perversion and obsession are a type of mental illness and they drive his villainy — but never as a category claim: diagnosis is neither automatic guilt nor automatic excuse, not all people with a condition are villains, and a person's verdict rests on his choices and conduct. (Refined by author decision, 2026-11-19, QA C-043; this supersedes the earlier absolute line "never identity or mental illness.")
 
 ## Prose and tone
 
