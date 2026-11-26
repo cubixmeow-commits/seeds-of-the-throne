@@ -41,6 +41,7 @@ Results are the freshest reads available on 2026-11-25 (LAST_28D) unless noted. 
 |---|---|---|
 | Reel: The Dream Book, Part 2 | 84, produce | First candidate when the pause lifts. |
 | Card No. 10, The Number on the Shelf, Miss Z (ASTRAL PROJECTION) | 75, produce | Highest-scoring banked card. |
+| Card No. 14, The Sealed Picture, Maimonides dream telepathy (DREAMS) | 86, produce | Factory test piece, built 2026-11-26 at Noa's request. Banked, not posted. |
 | Card No. 11, Mental Radio, Sinclair (REMOTE VIEWING) | 60, rework | Held by Noa 2026-11-25. |
 | Card No. 12, The Dream of the Volcano, Dunne (DREAMS) | 60, rework | Held by Noa 2026-11-25. |
 | Card No. 13, The Lucid Diary, Van Eeden (LUCID DREAMING) | 58, rework | Held by Noa 2026-11-25. |
