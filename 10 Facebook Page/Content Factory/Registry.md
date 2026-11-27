@@ -43,6 +43,7 @@ Results are the freshest reads available on 2026-11-25 (LAST_28D) unless noted. 
 | Card No. 10, The Number on the Shelf, Miss Z (ASTRAL PROJECTION) | 75, produce | Highest-scoring banked card. |
 | Card No. 14, The Sealed Picture, Maimonides dream telepathy (DREAMS) | 86, produce | Factory test piece, built 2026-11-26 at Noa's request. Banked, not posted. |
 | Card No. 15, The Fourth Man, Shackleton's third man (MYSTICISM) | 88, produce | Factory test piece No. 2, built 2026-11-26. First MYSTICISM card. Banked, not posted. |
+| Card No. 16, The Guess Before the Choice, Bem's Feeling the Future, 2011 (PRECOGNITION) | 77, produce (raw 87, saturation minus 10) | Factory test piece No. 3, built 2026-11-26. First PRECOGNITION card; first card in the midnight violet test color scheme. Banked, not posted. |
 | Card No. 11, Mental Radio, Sinclair (REMOTE VIEWING) | 60, rework | Held by Noa 2026-11-25. |
 | Card No. 12, The Dream of the Volcano, Dunne (DREAMS) | 60, rework | Held by Noa 2026-11-25. |
 | Card No. 13, The Lucid Diary, Van Eeden (LUCID DREAMING) | 58, rework | Held by Noa 2026-11-25. |
